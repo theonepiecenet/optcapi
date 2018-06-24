@@ -8,6 +8,33 @@ $app->get('/', function ($req, $res, $args=[]) {
     echo "please visit this repository, <a href='https://github.com/theonepiecenet/optcapi'>theonepiecenet/optcapi</a>";
 });
 
+
+$app->get('/{lang}/tags', function($request, $response) {
+
+    $lang = $request->getAttribute('lang');
+    $tag = json_decode(getFile("res/en/tags.json"), true);
+    $json = [];
+    for($i=0; $i<count($tag);$i++)
+    {
+        $json[$i] = array("tag" => $tag[$i]['tag'], "match" => $tag[$i]['match']);
+    }
+
+    if($lang != "en")
+    {
+        $local_json = json_decode(getFile("res/".$lang."/tags.json"), true);
+        for($i=0;$i<count($local_json);$i++)
+        {
+            if($json[$i]['tag'] == $local_json[$i]['tag'] && $local_json[$i]['tag_local'])
+                $json[$i]['tag_local'] = $local_json[$i]['tag_local'];
+            else
+                $json[$i]['tag_local'] = $local_json[$i]['tag'];
+        }
+    }
+    $json = json_encode($json, JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);
+    $response->getBody()->write($json);
+
+    return $response;
+});
 $app->get('/{lang}/character/{id}', function($request, $response) {
     $id = $request->getAttribute('id');
     $lang = $request->getAttribute('lang');
@@ -28,11 +55,11 @@ $app->get('/{lang}/character/{id}', function($request, $response) {
             $local_json = getFile($local_file);
             $local_arr  = json_decode($local_json, true);
             $local_keys = array_keys($local_arr);
-        
+
             for($i=0;$i<count($local_arr);$i++)
-        {
+            {
                 $original_arr[$local_keys[$i]] = $local_arr[$local_keys[$i]];
-        }
+            }
         }
         $json = json_encode($original_arr, JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);
         $response->getBody()->write($json);
@@ -56,10 +83,20 @@ $app->post('/{lang}/search', function($request, $response) {
             fclose($fp);
             for($i=0; $i<count($name);$i++)
             {
+                for($j=0; $j<count($name[$i]['aliases']);$j++)
+                {
+                    if(stripos($name[$i]['aliases'][$j], $value) > -1)
+                    {
+                        array_push($result_name, $name[$i]['id']);
+                        break;
+                    }
+                }
+                /*
                 if(array_search(strtolower($value), array_map('strtolower', $name[$i]['aliases'])) > -1)
                 {
                     array_push($result_name, $name[$i]['id']);
                 }
+                */
             }
         }
         elseif($key == "captain" || $key == "sailor" || $key == "special" || $key == "limit")
@@ -69,22 +106,22 @@ $app->post('/{lang}/search', function($request, $response) {
             $tag= fread($fp, filesize("res/".$lang."/tags.json"));
             $tag= json_decode($tag, true);
             fclose($fp);
-	    for($i=0; $i<count($tag);$i++)
-	    {
-		if($tag[$i]['match'] == $key)
-		{
+            for($i=0; $i<count($tag);$i++)
+            {
+                if($tag[$i]['match'] == $key)
+                {
                     for($j=0; $j<count($value);$j++)
                     {
                         if($tag[$i]['tag'] == $value[$j])
                         {
                             if(count($result_arr) > 0)
-		                $result_arr = array_intersect($result_arr,$tag[$i]['target']);
+                                $result_arr = array_intersect($result_arr,$tag[$i]['target']);
                             else
                                 $result_arr = $tag[$i]['target'];
                         }
                     }
-		}
-	    }
+                }
+            }
         }
     }
     if(count($result_arr) > 0)
@@ -120,5 +157,15 @@ function objectToArray ($object) {
         return $object;
 
     return array_map('objectToArray', (array) $object);
+}
+
+function strposa($haystack, $needles=array(), $offset=0) {
+        $chr = array();
+        foreach($needles as $needle) {
+                $res = strpos($haystack, $needle, $offset);
+                if ($res !== false) $chr[$needle] = $res;
+        }
+        if(empty($chr)) return false;
+        return min($chr);
 }
 ?>
