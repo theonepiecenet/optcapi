@@ -1,1 +1,83 @@
-{"name":"다이아몬드 조즈","detail":{"special":"DEX의 공격이 무효가 된다 (1턴)","specialName":"브릴리언트 펑크","captain":"QCK 캐릭터의 공격력과 체력이 2배가 된다"}}
+{
+  "name": "다이아몬드 조즈",
+  "detail": {
+    "special": "DEX의 공격이 무효가 된다 (1턴)",
+    "specialName": "브릴리언트 펑크",
+    "captain": "QCK 캐릭터의 공격력과 체력이 2배가 된다",
+    "sailor": {
+      "base": "None",
+      "level1": "Cannot be Blown Away",
+      "level2": "Boosts base HP of Fighter characters by 100"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Cannot be Blown Away"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 45"
+      },
+      {
+        "description": "Boosts base ATK by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts base HP of Fighter characters by 100"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[STR] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [STR] characters by 1%",
+          "Level 2: Reduce damage taken from [STR] characters by 2%",
+          "Level 3: Reduce damage taken from [STR] characters by 3%",
+          "Level 4: Reduce damage taken from [STR] characters by 4%",
+          "Level 5: Reduce damage taken from [STR] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by ??",
+          "Level 3: Boosts base ATK by ??",
+          "Level 4: Boosts base ATK by ??",
+          "Level 5: Boosts base ATK by 100"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

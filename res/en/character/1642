@@ -1,1 +1,29 @@
-{"name":"Punk Hazard Gas Mask Patrol Soldier [PSY]","detail":{"special":"Deals 3x character's ATK in typeless damage to all enemies, Poisons all enemies","specialNotes":"#{poison}","specialName":"Poison Attack"},"unit":{"type":"PSY","class":["Shooter","Free Spirit"],"stars":3,"cost":12,"combo":8,"slots":1,"level":60,"exp":449516,"maxHP":1263,"maxATK":643,"maxRCV":157},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1642.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1642.png"}}
+{
+  "name": "Punk Hazard Gas Mask Patrol Soldier [PSY]",
+  "detail": {
+    "special": "Deals 3x character's ATK in typeless damage to all enemies, Poisons all enemies",
+    "specialNotes": "#{poison : 0.5x}",
+    "specialName": "Poison Attack"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 8,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": 1263,
+    "maxATK": 643,
+    "maxRCV": 157
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1642.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1642.png"
+  }
+}

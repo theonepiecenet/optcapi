@@ -1,1 +1,79 @@
-{"name":"토니토니 쵸파: 몬스터 포인트, 신생 밀짚모자 일당","detail":{"captain":"Boosts ATK of Powerhouse characters by 2.75x, reduces crew's RCV to 0","special":"Reduce enemies Damage Reduction and Increased Defense duration by 3 턴 and deals 60x character's ATK in typeless damage to all enemies","specialNotes":"This does not affect threshold damage reduction. Damage Reduction is the rainbow shield buff enemies have, and Increased Defense is the blue shield buff enemies have","specialName":"Carving Hoof Palm: Coconut","sailor":"If Chopper has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next 턴"}}
+{
+  "name": "토니토니 쵸파: 몬스터 포인트, 신생 밀짚모자 일당",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.75x, reduces crew's RCV to 0",
+    "special": "Reduce enemies Damage Reduction and Increased Defense duration by 3 턴 and deals 60x character's ATK in typeless damage to all enemies",
+    "specialNotes": "This does not affect threshold damage reduction. Damage Reduction is the rainbow shield buff enemies have, and Increased Defense is the blue shield buff enemies have",
+    "specialName": "Carving Hoof Palm: Coconut",
+    "sailor": "If Chopper has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next 턴",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: When any other [STR] character uses a special, reduces own cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by 1%",
+          "Level 2: Reduce damage taken from [DEX] characters by 2%",
+          "Level 3: Reduce damage taken from [DEX] characters by 3%",
+          "Level 4: Reduce damage taken from [DEX] characters by 4%",
+          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ]
+  }
+}

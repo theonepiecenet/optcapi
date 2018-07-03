@@ -1,1 +1,99 @@
-{"name":"세뇨르 핑크 돈키호테 해적단","detail":{"captain":"남은 체력이 적을 때 격투형 캐릭터의 공격력이 3배가 되지만, 나 어린애는 사양이라고","specialName":"냥냥 헤엄","special":[{"description":"자신의 슬롯을 [PSY]으로 바꾸고, 1턴 동안 일당의 슬롯의 영향을 증폭시킨다","cooldown":[13,8]},{"description":"자신의 슬롯을 [PSY]으로 바꾸고, 1턴 동안 일당의 슬롯의 영향을 상당히 증폭시킨다","cooldown":[19,14]}]}}
+{
+  "name": "세뇨르 핑크, 돈키호테 해적단",
+  "detail": {
+    "captain": "남은 체력이 적을 때 격투형 캐릭터의 공격력이 3배가 되지만, 나 어린애는 사양이라고",
+    "specialName": "냥냥 헤엄",
+    "special": [
+      {
+        "description": "자신의 슬롯을 [PSY]으로 바꾸고, 1턴 동안 일당의 슬롯의 영향을 증폭시킨다",
+        "cooldown": [
+          13,
+          8
+        ]
+      },
+      {
+        "description": "자신의 슬롯을 [PSY]으로 바꾸고, 1턴 동안 일당의 슬롯의 영향을 상당히 증폭시킨다",
+        "cooldown": [
+          19,
+          14
+        ]
+      }
+    ],
+    "specialNotes": "#{orb: 1.5x or 1.75x} #{stages}",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Paralysis duration by 1 turn on all characters",
+      "level2": "Makes [INT], [RCV] and [TND] orbs \"beneficial\" for this unit"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration by 1 turn on all characters"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [INT], [RCV] and [TND] orbs \"beneficial\" for this unit"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 5% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
+  }
+}

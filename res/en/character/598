@@ -1,1 +1,39 @@
-{"name":"Buggy, Pirate Apprentice","detail":{"special":"Changes own orb into [INT], switches orbs between slots once","specialName":"Split Split Cannon","captain":"Boosts ATK of characters with fewer than 3 stars by 2.5x"},"unit":{"type":"INT","class":["Slasher","Driven"],"stars":3,"cost":12,"combo":6,"slots":1,"level":50,"exp":392109,"maxHP":872,"maxATK":411,"maxRCV":162},"evolution":{"evolution":1491,"evolvers":[117,79,90,96]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0598.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0598.png"}}
+{
+  "name": "Buggy, Pirate Apprentice",
+  "detail": {
+    "special": "Changes own orb into [INT], switches orbs between slots once",
+    "specialName": "Split Split Cannon",
+    "captain": "Boosts ATK of characters with fewer than 3 stars by 2.5x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 872,
+    "maxATK": 411,
+    "maxRCV": 162
+  },
+  "evolution": {
+    "evolution": 599,
+    "evolvers": [
+      117,
+      82,
+      82,
+      88,
+      88
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0598.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0598.png"
+  }
+}

@@ -1,1 +1,32 @@
-{"name":"해군 상사 코비, 위대한 항로 해병","detail":{"captain":"Boosts ATK of all characters by 2x after the 2nd PERFECT in a row and by 3x after the 5th PERFECT in a row.","special":[{"description":"If HP is below 3,000 when the special is activated, reduces No Healing debuff by 1 턴. Recovers 3x character's RCV in HP","cooldown":[15,9]},{"description":"If HP is below 3,000 when the special is activated, reduces No Healing debuff by 3 턴. Recovers 6x character's RCV in HP","cooldown":[20,14]},{"description":"If HP is below 3,000 when the special is activated, removes No Healing debuff. Recovers 13x character's RCV in HP","cooldown":[24,18]}],"specialNotes":"No Healing debuff completely stops healing abilities. This is the debuff used in Akainu raid<br>#{stages}","sailor":"Reduces Blindness duration by 5 턴","specialName":"Echoing Cry of the Soul"}}
+{
+  "name": "해군 상사 코비, 위대한 항로 해병",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2x after the 2nd PERFECT in a row and by 3x after the 5th PERFECT in a row.",
+    "special": [
+      {
+        "description": "If HP is below 3,000 when the special is activated, reduces No Healing debuff by 1 턴. Recovers 3x character's RCV in HP",
+        "cooldown": [
+          15,
+          9
+        ]
+      },
+      {
+        "description": "If HP is below 3,000 when the special is activated, reduces No Healing debuff by 3 턴. Recovers 6x character's RCV in HP",
+        "cooldown": [
+          20,
+          14
+        ]
+      },
+      {
+        "description": "If HP is below 3,000 when the special is activated, removes No Healing debuff. Recovers 13x character's RCV in HP",
+        "cooldown": [
+          24,
+          18
+        ]
+      }
+    ],
+    "specialNotes": "No Healing debuff completely stops healing abilities. This is the debuff used in Akainu raid<br>#{stages}",
+    "sailor": "Reduces Blindness duration by 5 턴",
+    "specialName": "Echoing Cry of the Soul"
+  }
+}

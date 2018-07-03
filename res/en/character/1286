@@ -1,1 +1,38 @@
-{"name":"Baby 5, Girl of Spider Miles","detail":{"captain":"Boosts ATK and RCV of [PSY] characters by 1.3x","special":"Cuts the current HP of each enemy by 10%. Boosts ATK of Shooter characters by 1.5x for 1 turn","specialName":"Handgun Legs"},"unit":{"type":"PSY","class":["Fighter","Shooter"],"stars":3,"cost":9,"combo":5,"slots":1,"level":50,"exp":392109,"maxHP":399,"maxATK":204,"maxRCV":194},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1286.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1286.png"}}
+{
+  "name": "Baby 5, Girl of Spider Miles",
+  "detail": {
+    "captain": "Boosts ATK and RCV of [PSY] characters by 1.3x",
+    "special": "Cuts the current HP of each enemy by 10%. Boosts ATK of Shooter characters by 1.5x for 1 turn",
+    "specialName": "Handgun Legs"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Shooter"
+    ],
+    "stars": 3,
+    "cost": 9,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 399,
+    "maxATK": 204,
+    "maxRCV": 194
+  },
+  "evolution": {
+    "evolution": 1287,
+    "evolvers": [
+      116,
+      117,
+      81,
+      98
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1286.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1286.png"
+  }
+}

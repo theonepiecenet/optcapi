@@ -1,1 +1,115 @@
-{"name":"Monkey D. Luffy, Straw Hat Pirates' Attack","detail":{"special":"Reduces crew's current HP by 99%, deals 25x character's ATK in fixed damage to all enemies, boosts ATK of [STR] characters by 2x for 1 turn","specialName":"Gum-Gum Gigant Thor Axe","specialNotes":"#{fixed}","captain":"Boosts ATK of [STR] characters by 2.5x","sailor":{"base":"None","level1":"Boosts base ATK and HP of [STR] characters by 35","level2":"Makes [TND] and [RCV] orbs \"beneficial\" for [STR] characters"},"sailorNotes":"#{beneficial}","limit":[{"description":"Boosts base ATK by 40"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base RCV by 30"},{"description":"Acquire Potential 1: [DEX] Damage Reduction"},{"description":"Boosts base HP by 50"},{"description":"Reduce base Special Cooldown by 2 turns"},{"description":"Boosts base HP by 75"},{"description":"Acquire Sailor Ability 1: Boosts base ATK and HP of [STR] characters by 35"},{"description":"Boosts base HP by 100"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base ATK by 40"},{"description":"Boosts base ATK by 40"},{"description":"Reduce base Special Cooldown by 3 turns"},{"description":"Acquire Sailor Ability 2: Makes [TND] and [RCV] orbs \"beneficial\" for [STR] characters"},{"description":"Acquire Potential 2: Pinch Healing"}],"potential":[{"Name":"[DEX] Damage Reduction","description":["Level 1: Reduce damage taken from [DEX] characters by 1%","Level 2: Reduce damage taken from [DEX] characters by 2%","Level 3: Reduce damage taken from [DEX] characters by 3%","Level 4: Reduce damage taken from [DEX] characters by 4%","Level 5: Reduce damage taken from [DEX] characters by 5%"]},{"Name":"Pinch Healing","description":["Level 1: If HP is below 20% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 2: If HP is below 25% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 3: If HP is below 30% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 4: If HP is below 40% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 5: If HP is below 40% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"]}]},"unit":{"type":"STR","class":["Fighter","Free Spirit"],"stars":5,"cost":27,"combo":8,"slots":4,"level":99,"exp":4000000,"maxHP":2722,"maxATK":1411,"maxRCV":176},"evolution":{"evolution":1304,"evolvers":[116,117,82,88,104]},"evolve":{"evolution":218,"evolvers":[118,83,88,94,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0520.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0520.png"}}
+{
+  "name": "Monkey D. Luffy, Straw Hat Pirates' Attack",
+  "detail": {
+    "special": "Reduces crew's current HP by 99%, deals 25x character's ATK in fixed damage to all enemies, boosts ATK of [STR] characters by 2x for 1 turn",
+    "specialName": "Gum-Gum Gigant Thor Axe",
+    "specialNotes": "#{fixed}",
+    "captain": "Boosts ATK of [STR] characters by 2.5x",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK and HP of [STR] characters by 35",
+      "level2": "Makes [TND] and [RCV] orbs \"beneficial\" for [STR] characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 75"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK and HP of [STR] characters by 35"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [TND] and [RCV] orbs \"beneficial\" for [STR] characters"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by 1%",
+          "Level 2: Reduce damage taken from [DEX] characters by 2%",
+          "Level 3: Reduce damage taken from [DEX] characters by 3%",
+          "Level 4: Reduce damage taken from [DEX] characters by 4%",
+          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 20% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 25% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 30% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 40% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 40% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 27,
+    "combo": 8,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2722,
+    "maxATK": 1411,
+    "maxRCV": 176
+  },
+  "evolve": {
+    "evolution": 520,
+    "evolvers": [
+      118,
+      84,
+      95,
+      94,
+      100
+    ],
+    "from": 519
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0520.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0520.png"
+  }
+}

@@ -1,1 +1,33 @@
-{"name":"우소랜드","detail":{"captain":"Boosts ATK of all characters by 1.5x if HP is below 50% or by 1.75x 전투 시작 시 체력이 30% 미만이면. Makes [STR], [DEX], [QCK], [PSY], [INT], [RCV], and [TND] orbs \"beneficial\" to all characters.","special":[{"description":"Delays all enemies for 3 턴","cooldown":[13,10]},{"description":"Delays all enemies for 4 턴, adds 0.2x to Chain multiplier for 4 턴","cooldown":[18,15]},{"description":"Delays all enemies for 5 턴, adds 0.3x to Chain multiplier for 4 턴","cooldown":[24,21]}],"specialNotes":"#{stages}","sailor":"Completely resists Blindness","specialName":"Long-Range Attack: Bagworm"}}
+{
+  "name": "우소랜드",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 1.5x if HP is below 50% or by 1.75x 전투 시작 시 체력이 30% 미만이면. Makes [STR], [DEX], [QCK], [PSY], [INT], [RCV], and [TND] orbs \"beneficial\" to all characters.",
+    "special": [
+      {
+        "description": "Delays all enemies for 3 턴",
+        "cooldown": [
+          13,
+          10
+        ]
+      },
+      {
+        "description": "Delays all enemies for 4 턴, adds 0.2x to Chain multiplier for 4 턴",
+        "cooldown": [
+          18,
+          15
+        ]
+      },
+      {
+        "description": "Delays all enemies for 5 턴, adds 0.3x to Chain multiplier for 4 턴",
+        "cooldown": [
+          24,
+          21
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}",
+    "sailor": "Completely resists Blindness",
+    "specialName": "Long-Range Attack: Bagworm",
+    "captainNotes": "#{beneficial}"
+  }
+}

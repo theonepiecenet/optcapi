@@ -1,1 +1,29 @@
-{"name":"Needless","detail":{"captain":"Boosts ATK of Slasher characters by 1.5x","special":"Deals 5x ATK in [QCK] damage to all enemies and randomizes all orbs","specialName":"Drilling Hooks"},"unit":{"type":"QCK","class":["Slasher","Driven"],"stars":3,"cost":14,"combo":6,"slots":1,"level":70,"exp":1066998,"maxHP":973,"maxATK":802,"maxRCV":223},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1073.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1073.png"}}
+{
+  "name": "Needless",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by 1.5x",
+    "special": "Deals 5x ATK in [QCK] damage to all enemies and randomizes all orbs",
+    "specialName": "Drilling Hooks"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 3,
+    "cost": 14,
+    "combo": 6,
+    "slots": 1,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 973,
+    "maxATK": 802,
+    "maxRCV": 223
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1073.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1073.png"
+  }
+}

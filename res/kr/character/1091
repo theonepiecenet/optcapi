@@ -1,1 +1,84 @@
-{"name":"붉은깃발 X 드레이크, 드레이크 해적단 선장","detail":{"captain":"Boosts ATK of all characters by 2.5x 전투 시작 시 체력이 30% 미만이면","special":"Deals 25x ATK in [PSY] damage to one enemy. If HP < 30% then changes adjacent orbs into matching orbs","specialName":"Double Edge of Revolt"}}
+{
+  "name": "붉은깃발 X 드레이크, 드레이크 해적단 선장",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.5x 전투 시작 시 체력이 30% 미만이면",
+    "special": "Deals 25x ATK in [PSY] damage to one enemy. If HP < 30% then changes adjacent orbs into matching orbs",
+    "specialName": "Double Edge of Revolt",
+    "sailor": {
+      "base": "None",
+      "level1": "When HP is below ??% at the start of the turn, boosts own base ATK by 50",
+      "level2": "Makes [INT] orbs \"beneficial\" for this unit"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: When HP is below ??% at the start of the turn, boosts own base ATK by 50"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 80"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [INT] orbs \"beneficial\" for this unit"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

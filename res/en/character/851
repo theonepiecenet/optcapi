@@ -1,1 +1,39 @@
-{"name":"Wapol of Tin","detail":{"captain":"Boosts ATK of Driven characters by 1.5x","specialName":"Snow Country Speciality: Snow Powder Makeup","special":"Deals 20x character's ATK in character's type damage to one enemy, locks all orbs for 1 turn"},"unit":{"type":"STR","class":["Shooter","Driven"],"stars":3,"cost":12,"combo":6,"slots":2,"level":70,"exp":1066998,"maxHP":1304,"maxATK":800,"maxRCV":99},"evolution":{"evolution":2119,"evolvers":[118,79,85,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0851.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0851.png"}}
+{
+  "name": "Wapol of Tin",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 1.5x",
+    "specialName": "Snow Country Speciality: Snow Powder Makeup",
+    "special": "Deals 20x character's ATK in character's type damage to one enemy, locks all orbs for 1 turn"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1304,
+    "maxATK": 800,
+    "maxRCV": 99
+  },
+  "evolution": {
+    "evolution": 852,
+    "evolvers": [
+      117,
+      78,
+      85,
+      95,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0851.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0851.png"
+  }
+}

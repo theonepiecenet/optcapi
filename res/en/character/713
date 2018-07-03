@@ -1,1 +1,37 @@
-{"name":"Ganfor, Sky Knight","detail":{"special":"Deals 15x character's ATK in [QCK] damage to one enemy, boosts ATK of the characters in the top row by 1.5x for 2 turns","specialNotes":"The special boosts the attack of only the crew's captain and the currently selected friend captain.","specialName":"Sky Knight's Javelin","captain":"Boosts ATK of Striker characters by 2.5x if HP is above 50% at the start of the turn"},"unit":{"type":"QCK","class":"Striker","stars":4,"cost":20,"combo":4,"slots":2,"level":99,"exp":3000000,"maxHP":1704,"maxATK":1202,"maxRCV":300},"evolution":{"evolution":1802,"evolvers":[85,266,96,301,101]},"evolve":{"evolution":292,"evolvers":[116,117,81,87]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0713.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0713.png"}}
+{
+  "name": "Ganfor, Sky Knight",
+  "detail": {
+    "special": "Deals 15x character's ATK in [QCK] damage to one enemy, boosts ATK of the characters in the top row by 1.5x for 2 turns",
+    "specialNotes": "The special boosts the attack of only the crew's captain and the currently selected friend captain.",
+    "specialName": "Sky Knight's Javelin",
+    "captain": "Boosts ATK of Striker characters by 2.5x if HP is above 50% at the start of the turn"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": "Striker",
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1704,
+    "maxATK": 1202,
+    "maxRCV": 300
+  },
+  "evolve": {
+    "evolution": 713,
+    "evolvers": [
+      117,
+      90,
+      96,
+      301,
+      101
+    ],
+    "from": 712
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0713.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0713.png"
+  }
+}

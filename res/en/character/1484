@@ -1,1 +1,40 @@
-{"name":"Sanji, Wild Pirates","detail":{"captain":"Boosts ATK of all characters by 2.5x after scoring 3 PERFECTs in a row","special":"Locks the chain multiplier at 2.5x for 1 turn, reduces Bind duration by 5 turns","sailor":"Changes all orbs into [RCV] orbs at the start of the fight.","specialName":"Wild Shot"},"unit":{"type":"STR","class":["Slasher","Powerhouse"],"stars":4,"cost":15,"combo":6,"slots":3,"level":50,"exp":392109,"maxHP":1225,"maxATK":573,"maxRCV":138},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1484.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1484.png"}}
+{
+  "name": "Sanji, Wild Pirates",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.5x after scoring 3 PERFECTs in a row",
+    "special": "Locks the chain multiplier at 2.5x for 1 turn, reduces Bind duration by 5 turns",
+    "sailor": "Changes all orbs into [RCV] orbs at the start of the fight.",
+    "specialName": "Wild Shot"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1225,
+    "maxATK": 573,
+    "maxRCV": 138
+  },
+  "evolution": {
+    "evolution": 1485,
+    "evolvers": [
+      95,
+      96,
+      97,
+      300,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1484.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1484.png"
+  }
+}

@@ -1,1 +1,32 @@
-{"name":"센토마루, 해군 본부 장교","detail":{"captain":"Boosts ATK of Powerhouse characters by 2x, and his OWN ATK by 2x.","special":[{"description":"Deals 500 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 턴","cooldown":[11,4]},{"description":"Deals 5,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 턴","cooldown":[15,8]},{"description":"Deals 100,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 2 턴","cooldown":[22,15]}],"specialNotes":"#{stages}","sailor":"Cannot be Blown Away (Such as Raid Boss Kuma)","specialName":"Leg-Locked Heave-Ho"}}
+{
+  "name": "센토마루, 해군 본부 장교",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2x, and his OWN ATK by 2x.",
+    "special": [
+      {
+        "description": "Deals 500 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 턴",
+        "cooldown": [
+          11,
+          4
+        ]
+      },
+      {
+        "description": "Deals 5,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 턴",
+        "cooldown": [
+          15,
+          8
+        ]
+      },
+      {
+        "description": "Deals 100,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 2 턴",
+        "cooldown": [
+          22,
+          15
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}",
+    "sailor": "Cannot be Blown Away (Such as Raid Boss Kuma)",
+    "specialName": "Leg-Locked Heave-Ho"
+  }
+}

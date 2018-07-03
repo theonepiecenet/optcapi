@@ -1,1 +1,38 @@
-{"name":"Ice Cream-Loving Perona","detail":{"special":"Recovers 3x character's RCV in HP, reduces damage received by 80% for 1 turn","specialName":"Romantic Ghost"},"unit":{"type":"INT","class":["Shooter","Driven"],"stars":4,"cost":12,"combo":5,"slots":1,"level":50,"exp":392109,"maxHP":901,"maxATK":527,"maxRCV":233},"evolution":{"evolution":1733,"evolvers":[118,95,1180,300,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0684.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0684.png"}}
+{
+  "name": "Ice Cream-Loving Perona",
+  "detail": {
+    "special": "Recovers 3x character's RCV in HP, reduces damage received by 80% for 1 turn",
+    "specialName": "Romantic Ghost"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 901,
+    "maxATK": 527,
+    "maxRCV": 233
+  },
+  "evolution": {
+    "evolution": 685,
+    "evolvers": [
+      117,
+      88,
+      93,
+      99,
+      304
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0684.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0684.png"
+  }
+}

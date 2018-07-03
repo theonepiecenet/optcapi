@@ -1,1 +1,9 @@
-{"name":"샹크스 흑의의 빨강 머리","detail":{"special":"적 전체에 캐릭터 공격력 × 35 배의 PSY대미지를 준 후 2 턴 동안 적의 방어력을 0으로한다","specialName":"패왕색 패기: 황제","captain":"[PSY]슬롯 출현율 상승!, 공격 시작 전에 체력이 많을수록 PSY의 공격이 커진다"}}
+{
+  "name": "샹크스 흑의의 빨강 머리",
+  "detail": {
+    "special": "적 전체에 캐릭터 공격력 × 35 배의 PSY데미지를 준 후 2 턴 동안 적의 방어력을 0으로한다",
+    "specialName": "패왕색 패기: 황제",
+    "captain": "[PSY]슬롯 출현율 상승!, 공격 시작 전에 체력이 많을수록 PSY의 공격이 커진다",
+    "captainNotes": "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}"
+  }
+}

@@ -1,1 +1,116 @@
-{"name":"Don Sai, Kano Kingdom Gang","detail":{"captain":"Boosts ATK of Striker and Fighter characters by 1.5x at the start of the chain and by 3x after the 3rd PERFECT in a row","special":"Deals 20x ATK in [STR] damage to all enemies. For 2 turns, boosts ATK of Striker and Fighter characters by a variable amount depending on the current HP at the time the special was activated.","specialNotes":"Below 30% -> 1.75 boost, between 30% and 70% -> 1.5, above 70% -> 1.2","specialName":"Drill Dragon: Drill Nail","sailor":{"base":"None","level1":"Restores his own special by 2 turns when it is rewinded","level2":"Makes [QCK] orbs \"beneficial\" for this unit"},"sailorNotes":"#{beneficial}<br>#{rewind : 2}","limit":[{"description":"Boosts base RCV by 10"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base RCV by 40"},{"description":"Acquire Potential 1: Critical Hit"},{"description":"Boosts base HP by 10"},{"description":"Boosts base HP by 20"},{"description":"Boosts base HP by 40"},{"description":"Acquire Sailor Ability 1: Restores his own special by 2 turns when it is rewinded"},{"description":"Boosts base ATK by 50"},{"description":"Reduce base Special Cooldown by 2 turns"},{"description":"Boosts base ATK by 100"},{"description":"Acquire 1 additional Socket slot"},{"description":"Reduce base Special Cooldown by 2 turns"},{"description":"Acquire Sailor Ability 2: Makes [QCK] orbs \"beneficial\" for this unit"},{"description":"Acquire Potential 2: Enrage"}],"potential":[{"Name":"Critical Hit","description":["Level 1: If you hit a perfect with this character, there is a 5% chance to deal 5% of this character's attack in extra damage","Level 2: If you hit a perfect with this character, there is a 5% chance to deal 7% of this character's attack in extra damage","Level 3: If you hit a perfect with this character, there is a 5% chance to deal 10% of this character's attack in extra damage","Level 4: If you hit a perfect with this character, there is a 10% chance to deal 10% of this character's attack in extra damage","Level 5: If you hit a perfect with this character, there is a 15% chance to deal 15% of this character's attack in extra damage"]},{"Name":"Enrage","description":["Level 1: Boosts base ATK by 30","Level 2: Boosts base ATK by 60","Level 3: Boosts base ATK by 90","Level 4: Boosts base ATK by 100","Level 5: Boosts base ATK by 150"]}],"potentialNotes":"#{enrage}"},"unit":{"type":"STR","class":["Striker","Fighter"],"stars":5,"cost":30,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":3013,"maxATK":1300,"maxRCV":202},"evolve":{"evolution":428,"evolvers":[118,88,266,304,267]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1083.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1083.png"}}
+{
+  "name": "Don Sai, Kano Kingdom Gang",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Fighter characters by 1.5x at the start of the chain and by 3x after the 3rd PERFECT in a row",
+    "special": "Deals 20x ATK in [STR] damage to all enemies. For 2 turns, boosts ATK of Striker and Fighter characters by a variable amount depending on the current HP at the time the special was activated.",
+    "specialNotes": "Below 30% -> 1.75 boost, between 30% and 70% -> 1.5, above 70% -> 1.2",
+    "specialName": "Drill Dragon: Drill Nail",
+    "sailor": {
+      "base": "None",
+      "level1": "Restores his own special by 2 turns when it is rewinded",
+      "level2": "Makes [QCK] orbs \"beneficial\" for this unit"
+    },
+    "sailorNotes": "#{beneficial}<br>#{rewind : 2}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Restores his own special by 2 turns when it is rewinded"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [QCK] orbs \"beneficial\" for this unit"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 5% chance to deal 5% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 5% chance to deal 7% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 5% chance to deal 10% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 10% chance to deal 10% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 15% chance to deal 15% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 30",
+          "Level 2: Boosts base ATK by 60",
+          "Level 3: Boosts base ATK by 90",
+          "Level 4: Boosts base ATK by 100",
+          "Level 5: Boosts base ATK by 150"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker",
+      "Fighter"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 3013,
+    "maxATK": 1300,
+    "maxRCV": 202
+  },
+  "evolve": {
+    "evolution": 1083,
+    "evolvers": [
+      118,
+      83,
+      84,
+      300,
+      100
+    ],
+    "from": 1082
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1083.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1083.png"
+  }
+}

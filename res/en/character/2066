@@ -1,1 +1,39 @@
-{"name":"Knight of the Sea Jinbe, Strawhat Luffy's Accomplice","detail":{"captain":"Boosts ATK of Fighter characters by 3x, their HP by 1.5x and reduces damage received by 7%","specialName":"Shark Fist Tile Breaker: Great Earth Wave","special":"Deals 60x character's ATK in [INT] damage to all enemies, changes all orbs on Fighter characters into matching orbs and reduces enemy's Percent Damage Reduction and Increased Defense duration by 5 turns."},"unit":{"type":"INT","class":["Fighter","Powerhouse"],"stars":"6+","cost":65,"combo":4,"slots":5,"level":99,"exp":5000000,"maxHP":3980,"maxATK":1484,"maxRCV":352},"evolve":{"evolution":376,"evolvers":[118,94,96,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2066.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2066.png"}}
+{
+  "name": "Knight of the Sea Jinbe, Strawhat Luffy's Accomplice",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 3x, their HP by 1.5x and reduces damage received by 7%",
+    "specialName": "Shark Fist Tile Breaker: Great Earth Wave",
+    "special": "Deals 60x character's ATK in [INT] damage to all enemies, changes all orbs on Fighter characters into matching orbs and reduces enemy's Percent Damage Reduction and Increased Defense duration by 5 turns."
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": "6+",
+    "cost": 65,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 3980,
+    "maxATK": 1484,
+    "maxRCV": 352
+  },
+  "evolve": {
+    "evolution": 2066,
+    "evolvers": [
+      "skullINT",
+      118,
+      88,
+      304,
+      267
+    ],
+    "from": 935
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2066.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2066.png"
+  }
+}

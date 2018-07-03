@@ -1,1 +1,40 @@
-{"name":"Sir Crocodile, the Strongest Prisoner, Mr. 0, Ex-Baroque Works Leader","detail":{"special":"Poisons all enemies, boosts ATK of Striker characters by 1.5x for 1 turn","specialNotes":"#{poison}","specialName":"Merciless Ploy: Poison Needle","captain":"Boosts ATK of Striker characters by 2x"},"unit":{"type":"QCK","class":["Striker","Cerebral"],"stars":3,"cost":13,"combo":5,"slots":1,"level":50,"exp":392109,"maxHP":1161,"maxATK":565,"maxRCV":135},"evolution":{"evolution":1276,"evolvers":[118,88,99,304,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0509.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0509.png"}}
+{
+  "name": "Sir Crocodile, the Strongest Prisoner, Mr. 0, Ex-Baroque Works Leader",
+  "detail": {
+    "special": "Poisons all enemies, boosts ATK of Striker characters by 1.5x for 1 turn",
+    "specialNotes": "#{poison : 0.5x}",
+    "specialName": "Merciless Ploy: Poison Needle",
+    "captain": "Boosts ATK of Striker characters by 2x"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1161,
+    "maxATK": 565,
+    "maxRCV": 135
+  },
+  "evolution": {
+    "evolution": 510,
+    "evolvers": [
+      117,
+      85,
+      96,
+      96,
+      301
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0509.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0509.png"
+  }
+}

@@ -1,1 +1,30 @@
-{"name":"Señor Pink, Donquixote Family Fighter Group","detail":{"captain":"Increases damage received by 1.2x. Reduces cooldown of all specials by 2 turns at the start of the fight and boosts ATK of all characters by 2.5x.","special":"Reduces Bind, Despair and Paralysis duration by 3 turns and deals several times character's ATK in Typeless damage to all enemies","specialNotes":"#{specialProportional : lower : ??? * ( 1 - (remaining HP) / (total HP) )}","specialName":"The Man Standing Tall"},"unit":{"type":"QCK","class":["Fighter","Free Spirit"],"stars":4,"cost":20,"combo":4,"slots":2,"level":99,"exp":3000000,"maxHP":2378,"maxATK":1112,"maxRCV":225},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2002.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2002.png"}}
+{
+  "name": "Señor Pink, Donquixote Family Fighter Group",
+  "detail": {
+    "captain": "Increases damage received by 1.2x. Reduces cooldown of all specials by 2 turns at the start of the fight and boosts ATK of all characters by 2.5x.",
+    "special": "Reduces Bind, Despair and Paralysis duration by 3 turns and deals several times character's ATK in Typeless damage to all enemies",
+    "specialNotes": "#{specialProportional : lower : ??? * ( 1 - (remaining HP) / (total HP) )}",
+    "specialName": "The Man Standing Tall"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2378,
+    "maxATK": 1112,
+    "maxRCV": 225
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2002.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2002.png"
+  }
+}

@@ -1,1 +1,36 @@
-{"name":"Dracule Mihawk, The Strongest Swordsman Standing on Top of the World","detail":{"captain":"If you use \"Black Blade • The Ultimate Sword\" boosts ATK of Slasher characters by 1.35x for 1 turn","special":"Deals 100x character's ATK in typeless damage to all enemies, if your Captain is a Slasher character, amplifies the effects of orbs for Slasher characters by 2x for 1 turn and locks the chain multiplier at 2.75x for 1 turn","specialName":"Black Blade • The Ultimate Sword"},"unit":{"type":"STR","class":"Slasher","stars":4,"cost":30,"combo":6,"slots":1,"level":50,"exp":130703,"maxHP":974,"maxATK":456,"maxRCV":94},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1807.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1807.png"}}
+{
+  "name": "Dracule Mihawk, The Strongest Swordsman Standing on Top of the World",
+  "detail": {
+    "captain": "If you use \"Black Blade • The Ultimate Sword\" boosts ATK of Slasher characters by 1.35x for 1 turn",
+    "special": "Deals 100x character's ATK in typeless damage to all enemies, if your Captain is a Slasher character, amplifies the effects of orbs for Slasher characters by 2x for 1 turn and locks the chain multiplier at 2.75x for 1 turn",
+    "specialName": "Black Blade • The Ultimate Sword"
+  },
+  "unit": {
+    "type": "STR",
+    "class": "Slasher",
+    "stars": 4,
+    "cost": 30,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": 974,
+    "maxATK": 456,
+    "maxRCV": 94
+  },
+  "evolution": {
+    "evolution": 1808,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1807.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1807.png"
+  }
+}

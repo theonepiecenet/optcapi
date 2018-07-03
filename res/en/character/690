@@ -1,1 +1,40 @@
-{"name":"Mont Blanc Noland, Lvneel Kingdom Explorer","detail":{"special":"Amplifies the effect of orbs by 1.5x for 2 turns","specialNotes":"#{orb : 1.5x}","specialName":"Botanist's Great Discovery","captain":"Boosts ATK and RCV of Slasher characters by 1.5x"},"unit":{"type":"INT","class":["Slasher","Cerebral"],"stars":4,"cost":20,"combo":4,"slots":2,"level":99,"exp":3000000,"maxHP":1982,"maxATK":890,"maxRCV":326},"evolution":{"evolution":1745,"evolvers":[83,88,94,99,104]},"evolve":{"evolution":282,"evolvers":[116,97,302]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0690.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0690.png"}}
+{
+  "name": "Mont Blanc Noland, Lvneel Kingdom Explorer",
+  "detail": {
+    "special": "Amplifies the effect of orbs by 1.5x for 2 turns",
+    "specialNotes": "#{orb : 1.5x}",
+    "specialName": "Botanist's Great Discovery",
+    "captain": "Boosts ATK and RCV of Slasher characters by 1.5x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1982,
+    "maxATK": 890,
+    "maxRCV": 326
+  },
+  "evolve": {
+    "evolution": 690,
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      104
+    ],
+    "from": 689
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0690.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0690.png"
+  }
+}

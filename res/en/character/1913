@@ -1,1 +1,39 @@
-{"name":"Nefertari Vivi, Dressed in a Lovely Kimino","detail":{"captain":"Boosts ATK of Free Spirit and Cerebral characters by 1.5x. Boosts Beli gained by 1.5x","special":"Randomizes all non-matching orbs, recovers 2,018 HP and amplifies the effects of orbs for Cerebral and Free Spirit characters by 1.75x for 1 turn","specialName":"Blossoming a New Year Celebration"},"unit":{"type":"DEX","class":["Free Spirit","Cerebral"],"stars":4,"cost":15,"combo":5,"slots":3,"level":50,"exp":392109,"maxHP":1036,"maxATK":546,"maxRCV":211},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1913.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1913.png"}}
+{
+  "name": "Nefertari Vivi, Dressed in a Lovely Kimino",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit and Cerebral characters by 1.5x. Boosts Beli gained by 1.5x",
+    "special": "Randomizes all non-matching orbs, recovers 2,018 HP and amplifies the effects of orbs for Cerebral and Free Spirit characters by 1.75x for 1 turn",
+    "specialName": "Blossoming a New Year Celebration"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1036,
+    "maxATK": 546,
+    "maxRCV": 211
+  },
+  "evolution": {
+    "evolution": 1914,
+    "evolvers": [
+      118,
+      86,
+      97,
+      302,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1913.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1913.png"
+  }
+}

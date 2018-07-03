@@ -1,1 +1,82 @@
-{"name":"소나기 칸주로","detail":{"captain":"타격, 자유 캐릭터의 공격력이 2.25배가 되고 받는 대미지가 10% 감소한다.","special":"타격, 자유 캐릭터의 STR,QCK,DEX,PSY,INT을 자신의 속성 슬롯으로 만들고, 그 외 [RCV],[TND], [EMPTY], [G], [BOMB] 슬롯은 불리한 속성 슬롯으로 변환한다.","specialName":"가부키의 필치"}}
+{
+  "name": "소나기 칸주로",
+  "detail": {
+    "captain": "타격, 자유 캐릭터의 공격력이 2.25배가 되고 받는 데미지가 10% 감소한다.",
+    "special": "타격, 자유 캐릭터의 STR,QCK,DEX,PSY,INT을 자신의 속성 슬롯으로 만들고, 그 외 [RCV],[TND], [EMPTY], [G], [BOMB] 슬롯은 불리한 속성 슬롯으로 변환한다.",
+    "specialName": "가부키의 필치",
+    "sailor": {
+      "base": "None",
+      "level1": "Restores his own special by 2 turns when it is rewinded"
+    },
+    "sailorNotes": "#{rewind : 2}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Restores his own special by 2 turns when it is rewinded"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      }
+    ]
+  }
+}

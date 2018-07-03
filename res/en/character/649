@@ -1,1 +1,170 @@
-{"name":"Marco the Phoenix Whitebeard 1st Div. Commander","detail":{"special":"Recovers 100x character's RCV in HP, amplifies the effect of orbs by 1.5x for 2 turns","specialNotes":"#{orb : 1.5x}","specialName":"Blue Flame Kick","captain":"Reduces damage received by 30% if HP is above 70% at the start of the turn, boosts ATK of [QCK] and [PSY] characters by 2.75x if HP is above 70% at the start the turn","sailor":{"base":"None","level1":"Boosts base ATK, HP and RCV of [QCK] and [PSY] characters by 50","level2":"Makes [QCK], [PSY] and [TND] orbs \"beneficial\" for [QCK] and [PSY] characters"},"sailorNotes":"#{beneficial}","limit":[{"description":"Boosts base RCV by 5"},{"description":"Boosts base RCV by 10"},{"description":"Boosts base RCV by 15"},{"description":"Acquire Potential 1: [STR] Damage Reduction"},{"description":"Boosts base HP by 25"},{"description":"Boosts base HP by 30"},{"description":"Boosts base HP by 35"},{"description":"Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of [QCK] and [PSY] characters by 50"},{"description":"Boosts base ATK by 10"},{"description":"Boosts base ATK by 15"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base HP by 40"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base ATK by 30"},{"description":"Acquire Potential 2: [INT] Damage Reduction"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base HP by 50"},{"description":"Boosts base ATK by 35"},{"description":"Boosts base ATK by 40"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base HP by 60"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base HP by 70"},{"description":"Boosts base ATK by 45"},{"description":"Acquire Sailor Ability 2: Makes [QCK], [PSY] and [TND] orbs \"beneficial\" for [QCK] and [PSY] characters"},{"description":"Boosts base ATK by 50"},{"description":"Boosts base ATK by 55"},{"description":"Acquire Potential 3: Reduce No Healing duration"}],"potential":[{"Name":"[STR] Damage Reduction","description":["Level 1: Reduce damage taken from [STR] characters by 1%","Level 2: Reduce damage taken from [STR] characters by 2%","Level 3: Reduce damage taken from [STR] characters by 3%","Level 4: Reduce damage taken from [STR] characters by 5%","Level 5: Reduce damage taken from [STR] characters by 7%"]},{"Name":"[INT] Damage Reduction","description":["Level 1: Reduce damage taken from [INT] characters by 1%","Level 2: Reduce damage taken from [INT] characters by 2%","Level 3: Reduce damage taken from [INT] characters by 3%","Level 4: Reduce damage taken from [INT] characters by 5%","Level 5: Reduce damage taken from [INT] characters by 7%"]},{"Name":"Reduce No Healing duration","description":["Level 1: Reduces No Healing duration by 1 turn","Level 2: Reduces No Healing duration by ? turn","Level 3: Reduces No Healing duration by ? turns","Level 4: Reduces No Healing duration by ? turns","Level 5: Reduces No Healing duration by ? turns"]}]},"unit":{"type":"QCK","class":["Fighter","Powerhouse"],"stars":6,"cost":55,"combo":4,"slots":5,"level":99,"exp":5000000,"maxHP":3013,"maxATK":1402,"maxRCV":455},"evolution":{"evolution":1649,"evolvers":[117,78,84,95,100]},"evolve":{"evolution":263,"evolvers":[117,83,88,93,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0649.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0649.png"}}
+{
+  "name": "Marco the Phoenix Whitebeard 1st Div. Commander",
+  "detail": {
+    "special": "Recovers 100x character's RCV in HP, amplifies the effect of orbs by 1.5x for 2 turns",
+    "specialNotes": "#{orb : 1.5x}",
+    "specialName": "Blue Flame Kick",
+    "captain": "Reduces damage received by 30% if HP is above 70% at the start of the turn, boosts ATK of [QCK] and [PSY] characters by 2.75x if HP is above 70% at the start the turn",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of [QCK] and [PSY] characters by 50",
+      "level2": "Makes [QCK], [PSY] and [TND] orbs \"beneficial\" for [QCK] and [PSY] characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 25"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 35"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of [QCK] and [PSY] characters by 50"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Potential 2: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base ATK by 45"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [QCK], [PSY] and [TND] orbs \"beneficial\" for [QCK] and [PSY] characters"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 55"
+      },
+      {
+        "description": "Acquire Potential 3: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[STR] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [STR] characters by 1%",
+          "Level 2: Reduce damage taken from [STR] characters by 2%",
+          "Level 3: Reduce damage taken from [STR] characters by 3%",
+          "Level 4: Reduce damage taken from [STR] characters by 5%",
+          "Level 5: Reduce damage taken from [STR] characters by 7%"
+        ]
+      },
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 5%",
+          "Level 5: Reduce damage taken from [INT] characters by 7%"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 3013,
+    "maxATK": 1402,
+    "maxRCV": 455
+  },
+  "evolve": {
+    "evolution": 649,
+    "evolvers": [
+      118,
+      85,
+      266,
+      301,
+      267
+    ],
+    "from": 648
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0649.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0649.png"
+  }
+}

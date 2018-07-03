@@ -1,1 +1,39 @@
-{"name":"Killer [Neo], Kid Pirates","detail":{"captain":"Boosts ATK of Striker and Slasher characters by 2x, reduces crew's RCV to 0.","special":"Changes [STR], [DEX] and [QCK] orbs on Striker and Slasher characters into matching orbs, cuts the current HP of one enemy by 8%","specialName":"Hitting Size [Neo]"},"unit":{"type":"QCK","class":["Striker","Slasher"],"stars":4,"cost":25,"combo":6,"slots":3,"level":70,"exp":1066998,"maxHP":920,"maxATK":799,"maxRCV":120},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1898.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1898.png"}}
+{
+  "name": "Killer [Neo], Kid Pirates",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Slasher characters by 2x, reduces crew's RCV to 0.",
+    "special": "Changes [STR], [DEX] and [QCK] orbs on Striker and Slasher characters into matching orbs, cuts the current HP of one enemy by 8%",
+    "specialName": "Hitting Size [Neo]"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 6,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 920,
+    "maxATK": 799,
+    "maxRCV": 120
+  },
+  "evolution": {
+    "evolution": 1899,
+    "evolvers": [
+      118,
+      85,
+      96,
+      301,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1898.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1898.png"
+  }
+}

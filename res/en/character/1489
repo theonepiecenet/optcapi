@@ -1,1 +1,39 @@
-{"name":"Don Krieg, East Blue Supreme Ruler","detail":{"captain":"Boosts ATK of Driven characters by 2x, reduces damage received by 20%","special":"Deals 20x character's ATK in [STR] damage to one enemy and removes any Orb Rate Up and Orb Rate Down Buffs","specialName":"Great Battle Spear"},"unit":{"type":"STR","class":["Driven","Shooter"],"stars":4,"cost":26,"combo":8,"slots":3,"level":99,"exp":3000000,"maxHP":2707,"maxATK":1225,"maxRCV":106},"evolve":{"evolution":597,"evolvers":[117,79,90,96]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1489.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1489.png"}}
+{
+  "name": "Don Krieg, East Blue Supreme Ruler",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 2x, reduces damage received by 20%",
+    "special": "Deals 20x character's ATK in [STR] damage to one enemy and removes any Orb Rate Up and Orb Rate Down Buffs",
+    "specialName": "Great Battle Spear"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Driven",
+      "Shooter"
+    ],
+    "stars": 4,
+    "cost": 26,
+    "combo": 8,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2707,
+    "maxATK": 1225,
+    "maxRCV": 106
+  },
+  "evolve": {
+    "evolution": 1489,
+    "evolvers": [
+      84,
+      89,
+      94,
+      95,
+      300
+    ],
+    "from": 1488
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1489.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1489.png"
+  }
+}

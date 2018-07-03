@@ -1,1 +1,39 @@
-{"name":"Helmeppo, Navy HQ Sergeant","detail":{"captain":"Boosts ATK and RCV of Slasher and Driven characters by 1.5x","special":"If HP is below 5,000, boosts ATK of Driven and Slasher characters by 1.75x for 1 turn and recovers 10x character's RCV in HP","specialName":"Firey Morale"},"unit":{"type":"QCK","class":["Slasher","Driven"],"stars":3,"cost":16,"combo":6,"slots":1,"level":50,"exp":392109,"maxHP":905,"maxATK":492,"maxRCV":136},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1585.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1585.png"}}
+{
+  "name": "Helmeppo, Navy HQ Sergeant",
+  "detail": {
+    "captain": "Boosts ATK and RCV of Slasher and Driven characters by 1.5x",
+    "special": "If HP is below 5,000, boosts ATK of Driven and Slasher characters by 1.75x for 1 turn and recovers 10x character's RCV in HP",
+    "specialName": "Firey Morale"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 3,
+    "cost": 16,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 905,
+    "maxATK": 492,
+    "maxRCV": 136
+  },
+  "evolution": {
+    "evolution": 1586,
+    "evolvers": [
+      117,
+      79,
+      85,
+      96,
+      301
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1585.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1585.png"
+  }
+}

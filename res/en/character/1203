@@ -1,1 +1,39 @@
-{"name":"Calico Yorki","detail":{"captain":"Boosts ATK of Free Spirit characters by 2.25x","specialName":"Session of Pirates","special":"Changes [PSY] orbs on Free Spirit characters into matching orbs"},"unit":{"type":"PSY","class":["Slasher","Free Spirit"],"stars":4,"cost":20,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":1583,"maxATK":1153,"maxRCV":315},"evolve":{"evolution":480,"evolvers":[116,117,90,96,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1203.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1203.png"}}
+{
+  "name": "Calico Yorki",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 2.25x",
+    "specialName": "Session of Pirates",
+    "special": "Changes [PSY] orbs on Free Spirit characters into matching orbs"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1583,
+    "maxATK": 1153,
+    "maxRCV": 315
+  },
+  "evolve": {
+    "evolution": 1203,
+    "evolvers": [
+      117,
+      81,
+      87,
+      98,
+      103
+    ],
+    "from": 1202
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1203.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1203.png"
+  }
+}

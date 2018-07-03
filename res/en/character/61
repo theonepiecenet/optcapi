@@ -1,1 +1,29 @@
-{"name":"Choo","detail":{"special":"Deals 5x character's ATK in [INT] damage to all enemies","specialName":"Lip-O-Cannon","captain":"Boosts HP of Shooter characters by 1.5x"},"unit":{"type":"INT","class":["Shooter","Powerhouse"],"stars":3,"cost":9,"combo":5,"slots":1,"level":50,"exp":392109,"maxHP":768,"maxATK":492,"maxRCV":256},"evolution":{"evolution":160,"evolvers":[92]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0061.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0061.png"}}
+{
+  "name": "Choo",
+  "detail": {
+    "special": "Deals 5x character's ATK in [INT] damage to all enemies",
+    "specialName": "Lip-O-Cannon",
+    "captain": "Boosts HP of Shooter characters by 1.5x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 9,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 768,
+    "maxATK": 492,
+    "maxRCV": 256
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0061.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0061.png"
+  }
+}

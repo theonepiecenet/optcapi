@@ -1,1 +1,28 @@
-{"name":"Demolisher Gunner","detail":{"special":"Boosts ATK of Shooter characters by 1.2x for 1 turn","specialName":"Demolisher Cannon"},"unit":{"type":"STR","class":["Shooter","Powerhouse"],"stars":3,"cost":20,"combo":6,"slots":1,"level":60,"exp":899032,"maxHP":1300,"maxATK":1000,"maxRCV":32},"evolution":{"evolution":1553,"evolvers":[118,94,95,300,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0617.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0617.png"}}
+{
+  "name": "Demolisher Gunner",
+  "detail": {
+    "special": "Boosts ATK of Shooter characters by 1.2x for 1 turn",
+    "specialName": "Demolisher Cannon"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Shooter",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 20,
+    "combo": 6,
+    "slots": 1,
+    "level": 60,
+    "exp": 899032,
+    "maxHP": 1300,
+    "maxATK": 1000,
+    "maxRCV": 32
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0617.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0617.png"
+  }
+}

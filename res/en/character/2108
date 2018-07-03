@@ -1,1 +1,36 @@
-{"name":"Charlotte Linlin","detail":{"captain":"If there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, boosts ATK of all characters by 1.5x, boosts damage of [STR], [DEX], [QCK], [PSY] and [INT] specials by 1.2x and cuts the current HP of each enemy by 5% at the end of each turn. Recovers 0.5x character's RCV in HP at the end of each turn.","special":"Removes all positive buffs on your team, changes all orbs, including [BLOCK] orbs into [G] orbs, amplifies the effect of orbs by 3x for 1 turn, boosts ATK of all characters by 1.25x for 1 turn and boosts the Color Affinity of all characters by 1.25x for 1 turn","specialName":"The Harmony that Interweaves the Souls"},"unit":{"type":"STR","class":"Powerhouse","stars":4,"cost":30,"combo":6,"slots":1,"level":50,"exp":130703,"maxHP":1315,"maxATK":438,"maxRCV":53},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2108.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2108.png"}}
+{
+  "name": "Charlotte Linlin",
+  "detail": {
+    "captain": "If there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, boosts ATK of all characters by 1.5x, boosts damage of [STR], [DEX], [QCK], [PSY] and [INT] specials by 1.2x and cuts the current HP of each enemy by 5% at the end of each turn. Recovers 0.5x character's RCV in HP at the end of each turn.",
+    "special": "Removes all positive buffs on your team, changes all orbs, including [BLOCK] orbs into [G] orbs, amplifies the effect of orbs by 3x for 1 turn, boosts ATK of all characters by 1.25x for 1 turn and boosts the Color Affinity of all characters by 1.25x for 1 turn",
+    "specialName": "The Harmony that Interweaves the Souls"
+  },
+  "unit": {
+    "type": "STR",
+    "class": "Powerhouse",
+    "stars": 4,
+    "cost": 30,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": 1315,
+    "maxATK": 438,
+    "maxRCV": 53
+  },
+  "evolution": {
+    "evolution": 2109,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2108.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2108.png"
+  }
+}

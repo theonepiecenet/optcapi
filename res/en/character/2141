@@ -1,1 +1,108 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2141.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2141.png"}}
+{
+  "name": "\"Dengeki Blue\" Vinsmoke Niji  Germa 66 Science Military Force",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 2.25x, boosts ATK of Powerhouse characters by 1.4x and the HP of Powerhouse characters by 1.2x",
+    "captainNotes": "Attack boost stacks, so a [DEX] Powerhouse character has a 3.15x ATK",
+    "special": "If your captain is a [DEX] or [INT] character, locks the chain multiplier at 2.75x for 2 turns. If your captain is a Powerhouse character, reduces enemies' ATK Up and Enrage Buffs by 3 turn",
+    "specialName": "Super Blue Twin Step",
+    "sailor": {
+      "base": "Makes [INT] orbs \"beneficial\" for this unit",
+      "level1": "Boosts base ATK, HP and RCV of all characters by 20"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 35"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 20"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 30% chance to deal 9% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "stars": "5+",
+    "cost": 40,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2982,
+    "maxATK": 1407,
+    "maxRCV": 284
+  },
+  "evolve": {
+    "evolution": 2141,
+    "evolvers": [],
+    "from": 1838
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2141.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2141.png"
+  }
+}

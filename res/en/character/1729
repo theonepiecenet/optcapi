@@ -1,1 +1,40 @@
-{"name":"Tashigi, Holiday Captain-chan","detail":{"captain":"Boosts ATK of [STR], [DEX] and [QCK] characters by 2.25x and their HP by 1.25x. Recovers 3x character's RCV in HP at the end of each turn","special":"Randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX] or [QCK] orbs, removes enemies ATK Up Buffs and recovers 2,000 HP","sailor":"Boosts base ATK, HP and RCV of [STR], [DEX] and [QCK] characters by 30","specialName":"Destructive Water Splash"},"unit":{"type":"STR","class":["Slasher","Cerebral"],"stars":5,"cost":20,"combo":4,"slots":3,"level":99,"exp":4000000,"maxHP":1770,"maxATK":1090,"maxRCV":357},"evolve":{"evolution":682,"evolvers":[115,115,93,99,304]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1729.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1729.png"}}
+{
+  "name": "Tashigi, Holiday Captain-chan",
+  "detail": {
+    "captain": "Boosts ATK of [STR], [DEX] and [QCK] characters by 2.25x and their HP by 1.25x. Recovers 3x character's RCV in HP at the end of each turn",
+    "special": "Randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX] or [QCK] orbs, removes enemies ATK Up Buffs and recovers 2,000 HP",
+    "sailor": "Boosts base ATK, HP and RCV of [STR], [DEX] and [QCK] characters by 30",
+    "specialName": "Destructive Water Splash"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 1770,
+    "maxATK": 1090,
+    "maxRCV": 357
+  },
+  "evolve": {
+    "evolution": 1729,
+    "evolvers": [
+      116,
+      117,
+      78,
+      84,
+      95
+    ],
+    "from": 1728
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1729.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1729.png"
+  }
+}

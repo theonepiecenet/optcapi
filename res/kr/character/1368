@@ -1,1 +1,25 @@
-{"name":"상디, 신생 밀짚모자 일당","detail":{"captain":"Boosts ATK of [STR] characters by 2.5x, by 3x 전투 시작 시 체력이 30% 미만이면","special":[{"description":"Reduces damage received by 50% and amplifies the effect of orbs by 1.5x for 1 턴.","cooldown":[11,6]},{"description":"Reduces damage received by 70% and amplifies the effect of orbs by 1.75x for 1 턴.","cooldown":[20,15]}],"specialNotes":"#{orb : 1.75x}<br>#{stages}","sailor":"Boosts base ATK, HP and RCV of all characters by 50","specialName":"Sky Walk"}}
+{
+  "name": "상디, 신생 밀짚모자 일당",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by 2.5x, by 3x 전투 시작 시 체력이 30% 미만이면",
+    "special": [
+      {
+        "description": "Reduces damage received by 50% and amplifies the effect of orbs by 1.5x for 1 턴.",
+        "cooldown": [
+          11,
+          6
+        ]
+      },
+      {
+        "description": "Reduces damage received by 70% and amplifies the effect of orbs by 1.75x for 1 턴.",
+        "cooldown": [
+          20,
+          15
+        ]
+      }
+    ],
+    "specialNotes": "#{orb : 1.75x}<br>#{stages}",
+    "sailor": "Boosts base ATK, HP and RCV of all characters by 50",
+    "specialName": "Sky Walk"
+  }
+}

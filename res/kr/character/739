@@ -1,1 +1,83 @@
-{"name":"프랑키 밀짚모자 일당","detail":{"special":"Reduces Bind duration by 5 턴, randomizes all orbs","specialName":"Coup de Boo","captain":"Boosts ATK of Free Spirit characters by 2x"}}
+{
+  "name": "프랑키 밀짚모자 일당",
+  "detail": {
+    "special": "Reduces Bind duration by 5 턴, randomizes all orbs",
+    "specialName": "Coup de Boo",
+    "captain": "Boosts ATK of Free Spirit characters by 2x",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of all characters by 15",
+      "level2": "Makes [TND] orbs \"beneficial\" for all characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Boosts base HP by 55"
+      },
+      {
+        "description": "Boosts base HP by 65"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [TND] orbs \"beneficial\" for all characters"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[PSY] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by 2%",
+          "Level 3: Reduce damage taken from [PSY] characters by 3%",
+          "Level 4: Reduce damage taken from [PSY] characters by 4%",
+          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 5% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
+  }
+}

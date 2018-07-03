@@ -1,1 +1,42 @@
-{"name":"Raizo","detail":{"captain":"Boosts ATK of Shooter characters by 2x","special":"Reduces Paralysis and Silence duration by 3 turns, switches orbs between slots 3 times","sailorNotes":"#{silence}","sailor":"Completely resists Silence on this character","specialNotes":"#{silence}","specialName":"Ninja Arts - Bunshin no Jutsu"},"unit":{"type":"STR","class":["Shooter","Free Spirit"],"stars":4,"cost":15,"combo":6,"slots":3,"level":50,"exp":392109,"maxHP":1126,"maxATK":604,"maxRCV":152},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1659.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1659.png"}}
+{
+  "name": "Raizo",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 2x",
+    "special": "Reduces Paralysis and Silence duration by 3 turns, switches orbs between slots 3 times",
+    "sailorNotes": "#{silence}",
+    "sailor": "Completely resists Silence on this character",
+    "specialNotes": "#{silence}",
+    "specialName": "Ninja Arts - Bunshin no Jutsu"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1126,
+    "maxATK": 604,
+    "maxRCV": 152
+  },
+  "evolution": {
+    "evolution": 1660,
+    "evolvers": [
+      83,
+      84,
+      95,
+      1180,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1659.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1659.png"
+  }
+}

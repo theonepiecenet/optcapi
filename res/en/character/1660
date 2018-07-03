@@ -1,1 +1,43 @@
-{"name":"Raizo of the Mist","detail":{"captain":"Boosts ATK of Shooter characters by 2.5x and makes [TND] and [RCV] orbs \"beneficial\" to Shooter characters","captainNotes":"#{beneficial}","special":"Reduces Paralysis and Silence duration by 3 turns, switches orbs between slots 3 times","sailorNotes":"#{silence}","sailor":"Completely resists Silence on this character","specialNotes":"#{silence}","specialName":"Ninja Arts - Bunshin no Jutsu"},"unit":{"type":"STR","class":["Shooter","Free Spirit"],"stars":5,"cost":30,"combo":8,"slots":4,"level":99,"exp":4000000,"maxHP":2353,"maxATK":1363,"maxRCV":290},"evolve":{"evolution":654,"evolvers":[118,85,1180,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1660.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1660.png"}}
+{
+  "name": "Raizo of the Mist",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 2.5x and makes [TND] and [RCV] orbs \"beneficial\" to Shooter characters",
+    "captainNotes": "#{beneficial}",
+    "special": "Reduces Paralysis and Silence duration by 3 turns, switches orbs between slots 3 times",
+    "sailorNotes": "#{silence}",
+    "sailor": "Completely resists Silence on this character",
+    "specialNotes": "#{silence}",
+    "specialName": "Ninja Arts - Bunshin no Jutsu"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 8,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2353,
+    "maxATK": 1363,
+    "maxRCV": 290
+  },
+  "evolve": {
+    "evolution": 1660,
+    "evolvers": [
+      83,
+      84,
+      95,
+      1180,
+      100
+    ],
+    "from": 1659
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1660.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1660.png"
+  }
+}

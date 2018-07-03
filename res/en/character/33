@@ -1,1 +1,31 @@
-{"name":"Helmeppo","detail":{"captain":"Reduces damage received from [INT] enemies by 30%"},"unit":{"type":"INT","class":"Shooter","stars":2,"cost":4,"combo":5,"slots":0,"level":25,"exp":50439,"maxHP":308,"maxATK":242,"maxRCV":39},"evolution":{"evolution":58,"evolvers":[117,82,93,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0033.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0033.png"}}
+{
+  "name": "Helmeppo",
+  "detail": {
+    "captain": "Reduces damage received from [INT] enemies by 30%"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Shooter",
+    "stars": 2,
+    "cost": 4,
+    "combo": 5,
+    "slots": 0,
+    "level": 25,
+    "exp": 50439,
+    "maxHP": 308,
+    "maxATK": 242,
+    "maxRCV": 39
+  },
+  "evolution": {
+    "evolution": 34,
+    "evolvers": [
+      115,
+      82
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0033.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0033.png"
+  }
+}

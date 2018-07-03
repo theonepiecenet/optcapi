@@ -1,1 +1,40 @@
-{"name":"Monkey D. Luffy, Mt. Corvo's Brothers 3","detail":{"special":"Reduces crew's current HP by 10%, deals 1x character's ATK in [STR] damage to one enemy, protects from defeat as long as HP is above 50% for 1 turn","specialName":"Crazy Punk Kid Punch","specialNotes":"#{zombie}","captain":"Boosts chances of getting [RCV] orbs"},"unit":{"type":"STR","class":["Fighter","Free Spirit"],"stars":4,"cost":10,"combo":4,"slots":2,"level":35,"exp":136167,"maxHP":551,"maxATK":267,"maxRCV":261},"evolution":{"evolution":1374,"evolvers":[118,88,94,304,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0547.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0547.png"}}
+{
+  "name": "Monkey D. Luffy, Mt. Corvo's Brothers 3",
+  "detail": {
+    "special": "Reduces crew's current HP by 10%, deals 1x character's ATK in [STR] damage to one enemy, protects from defeat as long as HP is above 50% for 1 turn",
+    "specialName": "Crazy Punk Kid Punch",
+    "specialNotes": "#{zombie}",
+    "captain": "Boosts chances of getting [RCV] orbs"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 10,
+    "combo": 4,
+    "slots": 2,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 551,
+    "maxATK": 267,
+    "maxRCV": 261
+  },
+  "evolution": {
+    "evolution": 548,
+    "evolvers": [
+      118,
+      78,
+      78,
+      84,
+      84
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0547.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0547.png"
+  }
+}

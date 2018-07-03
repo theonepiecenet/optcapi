@@ -1,1 +1,29 @@
-{"name":"Franky, Let's go for Pirate Festival","detail":{"captain":"Boosts ATK of [DEX] characters by 1.5x and their HP and RCV by 1.2x","special":"Reduces Despair duration by 3 turns, changes adjacent orbs into [RCV] orbs and switches orbs between slots twice","specialName":"Cola Party"},"unit":{"type":"DEX","class":["Powerhouse","Fighter"],"stars":4,"cost":20,"combo":6,"slots":4,"level":99,"exp":1000000,"maxHP":2148,"maxATK":1212,"maxRCV":188},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2090.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2090.png"}}
+{
+  "name": "Franky, Let's go for Pirate Festival",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 1.5x and their HP and RCV by 1.2x",
+    "special": "Reduces Despair duration by 3 turns, changes adjacent orbs into [RCV] orbs and switches orbs between slots twice",
+    "specialName": "Cola Party"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 6,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "maxHP": 2148,
+    "maxATK": 1212,
+    "maxRCV": 188
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2090.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2090.png"
+  }
+}

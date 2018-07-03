@@ -1,1 +1,39 @@
-{"name":"Absalom","detail":{"special":"Reduces damage received by 50% for 2 turns, boosts RCV of all characters by 2x for 2 turns","specialName":"Clear-Clear Fruit","captain":"Boosts ATK of Shooter characters by 1.5x"},"unit":{"type":"STR","class":["Shooter","Powerhouse"],"stars":3,"cost":12,"combo":6,"slots":1,"level":50,"exp":392109,"maxHP":1330,"maxATK":602,"maxRCV":126},"evolution":{"evolution":1029,"evolvers":[118,84,86,100,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0404.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0404.png"}}
+{
+  "name": "Absalom",
+  "detail": {
+    "special": "Reduces damage received by 50% for 2 turns, boosts RCV of all characters by 2x for 2 turns",
+    "specialName": "Clear-Clear Fruit",
+    "captain": "Boosts ATK of Shooter characters by 1.5x"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Shooter",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1330,
+    "maxATK": 602,
+    "maxRCV": 126
+  },
+  "evolution": {
+    "evolution": 405,
+    "evolvers": [
+      117,
+      84,
+      89,
+      95,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0404.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0404.png"
+  }
+}

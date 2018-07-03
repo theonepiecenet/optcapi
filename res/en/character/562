@@ -1,1 +1,49 @@
-{"name":"Portgas D. Ace, Black Clad Division Commander","detail":{"special":"Reduces crew's current HP by 40%, deals 15x the amount of HP subtracted in typeless damage to all enemies, locks all orbs for 1 turn","specialName":"Great Flame Commandment: Flame Emperor","captain":"Boosts HP of Shooter characters by 1.5x and boosts ATK of Shooter characters by 3x if they have a matching orb, by 2x otherwise"},"unit":{"type":"DEX","class":["Shooter","Free Spirit"],"stars":6,"cost":55,"combo":4,"slots":5,"level":99,"exp":5000000,"maxHP":3818,"maxATK":1352,"maxRCV":321},"evolution":{"evolution":1406,"evolvers":[1180,87,98,303,103]},"evolve":{"evolution":237,"evolvers":["skullDEX",118,86,302,267]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0562.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0562.png"}}
+{
+  "name": "Portgas D. Ace, Black Clad Division Commander",
+  "detail": {
+    "special": "Reduces crew's current HP by 40%, deals 15x the amount of HP subtracted in typeless damage to all enemies, locks all orbs for 1 turn",
+    "specialName": "Great Flame Commandment: Flame Emperor",
+    "captain": "Boosts HP of Shooter characters by 1.5x and boosts ATK of Shooter characters by 3x if they have a matching orb, by 2x otherwise"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 3818,
+    "maxATK": 1352,
+    "maxRCV": 321
+  },
+  "evolution": {
+    "evolution": 1816,
+    "evolvers": [
+      "skullDEX",
+      118,
+      86,
+      302,
+      267
+    ]
+  },
+  "evolve": {
+    "evolution": 562,
+    "evolvers": [
+      118,
+      86,
+      266,
+      302,
+      267
+    ],
+    "from": 561
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0562.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0562.png"
+  }
+}

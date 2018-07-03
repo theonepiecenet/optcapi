@@ -1,1 +1,40 @@
-{"name":"Fisher Tiger","detail":{"captain":"Boosts ATK of Powerhouse characters by 2.25x","special":"Boosts ATK of Powerhouse characters by 1.75x for 3 turns","specialName":"Rebellion against the \"Prohibition\" - Taboo","sailor":"When any other Powerhouse character uses a special, reduces own cooldown by 1 turn"},"unit":{"type":"PSY","class":["Powerhouse","Fighter"],"stars":4,"cost":20,"combo":5,"slots":3,"level":70,"exp":1066998,"maxHP":1323,"maxATK":707,"maxRCV":180},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1631.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1631.png"}}
+{
+  "name": "Fisher Tiger",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.25x",
+    "special": "Boosts ATK of Powerhouse characters by 1.75x for 3 turns",
+    "specialName": "Rebellion against the \"Prohibition\" - Taboo",
+    "sailor": "When any other Powerhouse character uses a special, reduces own cooldown by 1 turn"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1323,
+    "maxATK": 707,
+    "maxRCV": 180
+  },
+  "evolution": {
+    "evolution": 1632,
+    "evolvers": [
+      118,
+      87,
+      266,
+      98,
+      303
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1631.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1631.png"
+  }
+}

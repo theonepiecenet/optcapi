@@ -1,1 +1,37 @@
-{"name":"Roronoa Zoro Pound Phoenix","detail":{"special":"Deals 10x character's ATK in [DEX] damage to all enemies","specialName":"108 Pound Phoenix","captain":"Boosts ATK of [DEX] characters by 1.5x"},"unit":{"type":"DEX","class":["Slasher","Driven"],"stars":4,"cost":9,"combo":4,"slots":2,"level":50,"exp":392109,"maxHP":1216,"maxATK":694,"maxRCV":106},"evolution":{"evolution":8,"evolvers":[117,80,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0007.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0007.png"}}
+{
+  "name": "Roronoa Zoro Pound Phoenix",
+  "detail": {
+    "special": "Deals 10x character's ATK in [DEX] damage to all enemies",
+    "specialName": "108 Pound Phoenix",
+    "captain": "Boosts ATK of [DEX] characters by 1.5x"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 9,
+    "combo": 4,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1216,
+    "maxATK": 694,
+    "maxRCV": 106
+  },
+  "evolution": {
+    "evolution": 8,
+    "evolvers": [
+      117,
+      80,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0007.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0007.png"
+  }
+}

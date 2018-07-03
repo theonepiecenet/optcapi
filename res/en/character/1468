@@ -1,1 +1,39 @@
-{"name":"Sentomaru, Navy HQ","detail":{"captain":"Boosts ATK of [STR] characters by 1.75x and the HP of Powerhouse characters by 1.2x","special":"Delays all enemies for 1 turn. Changes own orb into Matching orb","specialName":"Warning of the New World"},"unit":{"type":"STR","class":["Fighter","Powerhouse"],"stars":3,"cost":13,"combo":6,"slots":2,"level":50,"exp":392109,"maxHP":1055,"maxATK":595,"maxRCV":101},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1468.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1468.png"}}
+{
+  "name": "Sentomaru, Navy HQ",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by 1.75x and the HP of Powerhouse characters by 1.2x",
+    "special": "Delays all enemies for 1 turn. Changes own orb into Matching orb",
+    "specialName": "Warning of the New World"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": 6,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1055,
+    "maxATK": 595,
+    "maxRCV": 101
+  },
+  "evolution": {
+    "evolution": 1469,
+    "evolvers": [
+      117,
+      78,
+      84,
+      89,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1468.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1468.png"
+  }
+}

@@ -1,1 +1,34 @@
-{"name":"Giant Imperial Slasher Red Pirates","detail":{"special":"Reduces damage received from [DEX] enemies by 50% for 1 turn","specialName":"Crystal Shield DEX","captain":"Boosts ATK of Slasher characters by 1.5x"},"unit":{"type":"STR","class":"Slasher","stars":3,"cost":13,"combo":4,"slots":1,"level":60,"exp":674274,"maxHP":1179,"maxATK":668,"maxRCV":109},"evolution":{"evolution":929,"evolvers":[117,80,86,97,102]},"evolve":{"evolution":159,"evolvers":[116,90,96]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0373.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0373.png"}}
+{
+  "name": "Giant Imperial Slasher Red Pirates",
+  "detail": {
+    "special": "Reduces damage received from [DEX] enemies by 50% for 1 turn",
+    "specialName": "Crystal Shield DEX",
+    "captain": "Boosts ATK of Slasher characters by 1.5x"
+  },
+  "unit": {
+    "type": "STR",
+    "class": "Slasher",
+    "stars": 3,
+    "cost": 13,
+    "combo": 4,
+    "slots": 1,
+    "level": 60,
+    "exp": 674274,
+    "maxHP": 1179,
+    "maxATK": 668,
+    "maxRCV": 109
+  },
+  "evolve": {
+    "evolution": 373,
+    "evolvers": [
+      116,
+      89,
+      95
+    ],
+    "from": 368
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0373.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0373.png"
+  }
+}

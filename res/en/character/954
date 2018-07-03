@@ -1,1 +1,29 @@
-{"name":"Gyaro","detail":{"captain":"Boosts ATK and HP of [QCK] characters by 1.5x","specialName":"Goldfish Fencing! I'll Dye the Sea Red with Your Blood","special":"Reduces the defense of all enemies by 80% for 2 turns"},"unit":{"type":"QCK","class":["Slasher","Powerhouse"],"stars":3,"cost":7,"combo":6,"slots":2,"level":50,"exp":392109,"maxHP":1420,"maxATK":627,"maxRCV":98},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0954.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0954.png"}}
+{
+  "name": "Gyaro",
+  "detail": {
+    "captain": "Boosts ATK and HP of [QCK] characters by 1.5x",
+    "specialName": "Goldfish Fencing! I'll Dye the Sea Red with Your Blood",
+    "special": "Reduces the defense of all enemies by 80% for 2 turns"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 7,
+    "combo": 6,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1420,
+    "maxATK": 627,
+    "maxRCV": 98
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0954.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0954.png"
+  }
+}

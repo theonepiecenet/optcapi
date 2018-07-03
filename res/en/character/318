@@ -1,1 +1,40 @@
-{"name":"Beautiful Secretary Kalifa","detail":{"special":"Randomizes all orbs into either [DEX] or [STR] orbs, deals random [DEX] damage to all enemies","specialName":"Beautiful Secretary's Job","specialNotes":"#{random : 1 : 15,000}","captain":"Recovers 1,000 HP at end of each turn, reduces damage received by 15%"},"unit":{"type":"DEX","class":["Fighter","Cerebral"],"stars":4,"cost":18,"combo":6,"slots":2,"level":99,"exp":3000000,"maxHP":1728,"maxATK":963,"maxRCV":378},"evolution":{"evolution":779,"evolvers":[117,85,94,96,301]},"evolve":{"evolution":134,"evolvers":[117,80,86,97,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0318.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0318.png"}}
+{
+  "name": "Beautiful Secretary Kalifa",
+  "detail": {
+    "special": "Randomizes all orbs into either [DEX] or [STR] orbs, deals random [DEX] damage to all enemies",
+    "specialName": "Beautiful Secretary's Job",
+    "specialNotes": "#{random : 1 : 15,000}",
+    "captain": "Recovers 1,000 HP at end of each turn, reduces damage received by 15%"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 18,
+    "combo": 6,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1728,
+    "maxATK": 963,
+    "maxRCV": 378
+  },
+  "evolve": {
+    "evolution": 318,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ],
+    "from": 317
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0318.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0318.png"
+  }
+}

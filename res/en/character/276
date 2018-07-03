@@ -1,1 +1,32 @@
-{"name":"Armed Slasher Unit Green Pirates","detail":{"special":"Changes [QCK] orbs into [DEX] orbs","specialName":"[QCK] Slot Change [DEX]"},"unit":{"type":"DEX","class":"Slasher","stars":3,"cost":12,"combo":5,"slots":1,"level":60,"exp":449516,"maxHP":1017,"maxATK":616,"maxRCV":122},"evolution":{"evolution":677,"evolvers":[94,96,96,301,301]},"evolve":{"evolution":71,"evolvers":[116,98]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0276.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0276.png"}}
+{
+  "name": "Armed Slasher Unit Green Pirates",
+  "detail": {
+    "special": "Changes [QCK] orbs into [DEX] orbs",
+    "specialName": "[QCK] Slot Change [DEX]"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Slasher",
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": 1017,
+    "maxATK": 616,
+    "maxRCV": 122
+  },
+  "evolve": {
+    "evolution": 276,
+    "evolvers": [
+      116,
+      97
+    ],
+    "from": 149
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0276.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0276.png"
+  }
+}

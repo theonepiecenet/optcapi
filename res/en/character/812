@@ -1,1 +1,28 @@
-{"name":"Cerberus","detail":{"specialName":"Hell Howl","special":"Sharply reduces the defense of all enemies for 1 turn"},"unit":{"type":"QCK","class":["Fighter","Powerhouse"],"stars":3,"cost":14,"combo":5,"slots":2,"level":50,"exp":392109,"maxHP":1151,"maxATK":781,"maxRCV":0},"evolution":{"evolution":2019,"evolvers":[80,86,91,97,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0812.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0812.png"}}
+{
+  "name": "Cerberus",
+  "detail": {
+    "specialName": "Hell Howl",
+    "special": "Sharply reduces the defense of all enemies for 1 turn"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 14,
+    "combo": 5,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1151,
+    "maxATK": 781,
+    "maxRCV": 0
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0812.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0812.png"
+  }
+}

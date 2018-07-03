@@ -1,1 +1,86 @@
-{"name":"Pedro of the Treetops, Mokomo Dukedom","detail":{"captain":"Boosts ATK of Cerebral characters by 2.5x and makes [PSY] and [INT] orbs \"beneficial\" to Cerebral characters","captainNotes":"#{beneficial}","special":"Reduces crew's current HP by 95%, deals 50x character's ATK in typeless damage to all enemies that will ignore damage negating abilities and barriers, boosts the Color Affinity of Cerebral characters by 1.75x for 2 turns","specialNotes":"#{ignoreBarrier}","specialName":"Explosive Reply","sailor":{"base":"None","level1":"Boosts base ATK of Cerebral characters by 35","level2":"Makes [PSY] orbs \"beneficial\" for Cerebral characters"},"sailorNotes":"#{beneficial}","limit":[{"description":"Boosts base RCV by 10"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base RCV by 20"},{"description":"Acquire Potential 1: Slot Bind Self-reduction"},{"description":"Boosts base RCV by 30"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base RCV by 40"},{"description":"Acquire Sailor Ability 1: Boosts base ATK of Cerebral characters by 35"},{"description":"Boosts base RCV by 40"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base ATK by 75"},{"description":"Boosts base HP by 100"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Acquire Sailor Ability 2: Makes [PSY] orbs \"beneficial\" for Cerebral characters"},{"description":"Acquire Potential 2: Enrage"}],"potential":[{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by 1 turn on this character","Level 2: Reduces Slot Bind duration by 2 turns on this character","Level 3: Reduces Slot Bind duration by 3 turns on this character","Level 4: Reduces Slot Bind duration by 4 turns on this character","Level 5: Reduces Slot Bind duration by 5 turns on this character"]},{"Name":"Enrage","description":["Level 1: Boosts base ATK by 50","Level 2: Boosts base ATK by 75","Level 3: Boosts base ATK by 100","Level 4: Boosts base ATK by 150","Level 5: Boosts base ATK by 200"]}],"potentialNotes":"#{enrage}"}}
+{
+  "name": "페드로 of the Treetops, Mokomo Dukedom",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 2.5x and makes [PSY] and [INT] orbs \"beneficial\" to Cerebral characters",
+    "captainNotes": "#{beneficial}",
+    "special": "Reduces crew's current HP by 95%, deals 50x character's ATK in typeless damage to all enemies that will ignore damage negating abilities and barriers, boosts the Color Affinity of Cerebral characters by 1.75x for 2 turns",
+    "specialNotes": "#{ignoreBarrier}",
+    "specialName": "Explosive Reply",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK of Cerebral characters by 35",
+      "level2": "Makes [PSY] orbs \"beneficial\" for Cerebral characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of Cerebral characters by 35"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 75"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [PSY] orbs \"beneficial\" for Cerebral characters"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

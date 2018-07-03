@@ -1,1 +1,40 @@
-{"name":"Boa Marigold, Kuja Warrior","detail":{"captain":"Boosts ATK and HP of Powerhouse characters by 1.5x","special":"Deals 20x character's ATK in [INT] damage to all enemies. Reduces enemy Damage Threshold timers by 1 turn","specialNotes":"Damage Threshold is the buff enemies gain that greatly reduces damage received over a certain amount","specialName":"King Cobra Machetes"},"unit":{"type":"INT","class":["Slasher","Powerhouse"],"stars":3,"cost":16,"combo":5,"slots":2,"level":50,"exp":392109,"maxHP":1209,"maxATK":462,"maxRCV":99},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1311.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1311.png"}}
+{
+  "name": "Boa Marigold, Kuja Warrior",
+  "detail": {
+    "captain": "Boosts ATK and HP of Powerhouse characters by 1.5x",
+    "special": "Deals 20x character's ATK in [INT] damage to all enemies. Reduces enemy Threshold Damage Reduction duration by 1 turn",
+    "specialNotes": "Damage Threshold is the buff enemies gain that greatly reduces damage received over a certain amount",
+    "specialName": "King Cobra Machetes"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 16,
+    "combo": 5,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1209,
+    "maxATK": 462,
+    "maxRCV": 99
+  },
+  "evolution": {
+    "evolution": 1312,
+    "evolvers": [
+      117,
+      78,
+      82,
+      84,
+      88
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1311.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1311.png"
+  }
+}

@@ -1,1 +1,41 @@
-{"name":"Sanji, Brimming Bridegroom","detail":{"captain":"Boosts ATK of [PSY] and Fighter characters by 2x","special":"Changes [RCV], [TND] and [BOMB] orbs into Matching orbs, reduces Special Cooldown of Powerhouse and Fighter specials by 1 turn and delays all enemies by 1 turn","specialName":"A Broad Smile of Life and Death","sailor":"Restores his own special by 3 turns when it is rewinded","sailorNotes":"#{rewind : 3}"},"unit":{"type":"PSY","class":["Powerhouse","Fighter"],"stars":4,"cost":12,"combo":4,"slots":3,"level":50,"exp":261406,"maxHP":1142,"maxATK":542,"maxRCV":102},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1960.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1960.png"}}
+{
+  "name": "Sanji, Brimming Bridegroom",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] and Fighter characters by 2x",
+    "special": "Changes [RCV], [TND] and [BOMB] orbs into Matching orbs, reduces Special Cooldown of Powerhouse and Fighter specials by 1 turn and delays all enemies by 1 turn",
+    "specialName": "A Broad Smile of Life and Death",
+    "sailor": "Restores his own special by 3 turns when it is rewinded",
+    "sailorNotes": "#{rewind : 3}"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 12,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 261406,
+    "maxHP": 1142,
+    "maxATK": 542,
+    "maxRCV": 102
+  },
+  "evolution": {
+    "evolution": 1961,
+    "evolvers": [
+      116,
+      117,
+      81,
+      87,
+      98
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1960.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1960.png"
+  }
+}

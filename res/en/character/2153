@@ -1,1 +1,35 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2153.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2153.png"}}
+{
+  "name": "Baron Tamago, Noble Knight",
+  "detail": {
+    "captain": "Boosts ATK of Fighter Characters by 2.5x if they have a matching orb, by 2.25x otherwise",
+    "special": "Deals 75x character's ATK in [DEX] damage to one enemy that will ignore damage negating abilities and barriers. If the captain is a Fighter character, changes all orbs, including [BLOCK] orbs, on Fighter characters into Matching orbs",
+    "specialName": "Legs Benedict",
+    "specialNotes": "#{ignoreBarrier}",
+    "sailor": "When HP is above 50% at the start of the turn, boosts ATK of Fighter characters by 125"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1070,
+    "maxATK": 890,
+    "maxRCV": 102
+  },
+  "evolution": {
+    "evolution": 2154,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2153.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2153.png"
+  }
+}

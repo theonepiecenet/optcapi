@@ -1,1 +1,29 @@
-{"name":"Brook, Psychedelic Arts","detail":{"captain":"Boosts RCV of [DEX] characters by 1.5x and boosts ATK of [DEX] characters by 3x if they have a matching orb, by 1.5x otherwise.","special":"Changes [BLOCK], [TND], [EMPTY] and [BOMB] orbs into [DEX] orbs and amplifies the effect of orbs by 1.5x for 1 turn","specialName":"Eyes Blinded by True Beauty"},"unit":{"type":"DEX","class":["Slasher","Free Spirit"],"stars":4,"cost":20,"combo":6,"slots":4,"level":99,"exp":3000000,"maxHP":1830,"maxATK":1140,"maxRCV":265},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1650.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1650.png"}}
+{
+  "name": "Brook, Psychedelic Arts",
+  "detail": {
+    "captain": "Boosts RCV of [DEX] characters by 1.5x and boosts ATK of [DEX] characters by 3x if they have a matching orb, by 1.5x otherwise.",
+    "special": "Changes [BLOCK], [TND], [EMPTY] and [BOMB] orbs into [DEX] orbs and amplifies the effect of orbs by 1.5x for 1 turn",
+    "specialName": "Eyes Blinded by True Beauty"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 6,
+    "slots": 4,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1830,
+    "maxATK": 1140,
+    "maxRCV": 265
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1650.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1650.png"
+  }
+}

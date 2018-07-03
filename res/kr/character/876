@@ -1,1 +1,84 @@
-{"name":"트레볼 돈키호테 해적단","detail":{"captain":"박식, 야심 타입 캐릭터의 공격이 2.25배가 되고, 박식과 야심타입 캐릭터는 [TND], [RCV] 슬롯을 유리한 슬롯으로 취급한다.","captainNotes":"유리한 슬롯은 자슬롯과 같은 슬롯효과이다.","specialName":"찐득찐득 런처","special":"선장의 슬롯을 자슬롯으로 변환하고, 1턴간 슬롯을 고정하고, 캐릭터의 공격 X13배 INT 데미지를 준다."}}
+{
+  "name": "트레볼 돈키호테 해적단",
+  "detail": {
+    "captain": "박식, 야심 타입 캐릭터의 공격이 2.25배가 되고, 박식과 야심타입 캐릭터는 [TND], [RCV] 슬롯을 유리한 슬롯으로 취급한다.",
+    "captainNotes": "유리한 슬롯은 자슬롯과 같은 슬롯효과이다.",
+    "specialName": "찐득찐득 런처",
+    "special": "선장의 슬롯을 자슬롯으로 변환하고, 1턴간 슬롯을 고정하고, 캐릭터의 공격 X13배 INT 데미지를 준다.",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of Driven characters by 30",
+      "level2": "Reduces Paralysis duration by 1 turn"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Driven characters by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Reduces Paralysis duration by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by ??",
+          "Level 3: Boosts base ATK by ??",
+          "Level 4: Boosts base ATK by ??",
+          "Level 5: Boosts base ATK by ??"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

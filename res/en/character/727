@@ -1,1 +1,29 @@
-{"name":"Monkey D. Luffy Gum-Gum Gatling","detail":{"special":"Deals 10x character's ATK in [DEX] damage to all enemies, reduces the defense of all enemies by 50% for 1 turn","specialName":"Gum-Gum Gatling","captain":"Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Free Spirit and Fighter characters by 1.75x"},"unit":{"type":"DEX","class":["Free Spirit","Fighter"],"stars":4,"cost":15,"combo":8,"slots":3,"level":99,"exp":2000000,"maxHP":1777,"maxATK":795,"maxRCV":270},"evolution":{"evolution":1834,"evolvers":[88,99,1180,304,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0727.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0727.png"}}
+{
+  "name": "Monkey D. Luffy Gum-Gum Gatling",
+  "detail": {
+    "special": "Deals 10x character's ATK in [DEX] damage to all enemies, reduces the defense of all enemies by 50% for 1 turn",
+    "specialName": "Gum-Gum Gatling",
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Free Spirit and Fighter characters by 1.75x"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 8,
+    "slots": 3,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 1777,
+    "maxATK": 795,
+    "maxRCV": 270
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0727.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0727.png"
+  }
+}

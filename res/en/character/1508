@@ -1,1 +1,41 @@
-{"name":"Sanji's Tea Party","detail":{"captain":"Boosts ATK of Fighter and Powerhouse characters by 1.5x. Recovers 2x character's RCV in HP at the end of each turn","captainNotes":"Attack boost stacks, so a Fighter/Powerhouse character has a 2.25x ATK","special":"Deals 15x character's ATK in [QCK] damage to one enemy, boosts ATK of Fighter characters by 1.75x for 1 turn","sailor":"Boosts base ATK of all characters by 15","specialName":"Diable Jambe - Concassé Baked"},"unit":{"type":"QCK","class":["Fighter","Powerhouse"],"stars":5,"cost":20,"combo":6,"slots":3,"level":99,"exp":3000000,"maxHP":2200,"maxATK":1130,"maxRCV":247},"evolve":{"evolution":600,"evolvers":[116,117,84,85,86]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1508.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1508.png"}}
+{
+  "name": "Sanji's Tea Party",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Powerhouse characters by 1.5x. Recovers 2x character's RCV in HP at the end of each turn",
+    "captainNotes": "Attack boost stacks, so a Fighter/Powerhouse character has a 2.25x ATK",
+    "special": "Deals 15x character's ATK in [QCK] damage to one enemy, boosts ATK of Fighter characters by 1.75x for 1 turn",
+    "sailor": "Boosts base ATK of all characters by 15",
+    "specialName": "Diable Jambe - Concassé Baked"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 6,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2200,
+    "maxATK": 1130,
+    "maxRCV": 247
+  },
+  "evolve": {
+    "evolution": 1508,
+    "evolvers": [
+      116,
+      117,
+      79,
+      85,
+      96
+    ],
+    "from": 1507
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1508.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1508.png"
+  }
+}

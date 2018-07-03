@@ -1,1 +1,28 @@
-{"name":"Sea Lapahn, Sea Animal Pirates","detail":{"special":"Randomizes all orbs, recovers 9x character's RCV in HP","specialName":"Sea Animal Healing"},"unit":{"type":"QCK","class":["Fighter","Powerhouse"],"stars":3,"cost":15,"combo":4,"slots":1,"level":70,"exp":711332,"maxHP":1757,"maxATK":724,"maxRCV":112},"evolution":{"evolution":1991,"evolvers":[266,79,94,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0799.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0799.png"}}
+{
+  "name": "Sea Lapahn, Sea Animal Pirates",
+  "detail": {
+    "special": "Randomizes all orbs, recovers 9x character's RCV in HP",
+    "specialName": "Sea Animal Healing"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 15,
+    "combo": 4,
+    "slots": 1,
+    "level": 70,
+    "exp": 711332,
+    "maxHP": 1757,
+    "maxATK": 724,
+    "maxRCV": 112
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0799.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0799.png"
+  }
+}

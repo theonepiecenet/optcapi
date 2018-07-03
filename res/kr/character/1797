@@ -1,1 +1,32 @@
-{"name":"지저스 바제스, 코리다 콜로세움 A블록의 ‘챔피언’","detail":{"captain":"격투 타입 캐릭터의 공격력이 2.25배가 된다","special":[{"description":"적 전체의 체력을 10% 감소","cooldown":[15,9]},{"description":"적 전체의 체력을 20% 감소","cooldown":[18,12]},{"description":"적 전체의 체력을 20% 감소, 2턴 동안 지연상태의 적에게 주는 대미지가 1.5배가 된다","cooldown":[21,15]}],"sailor":"[STR][DEX][QCK]캐릭터는 기본 능력치가 +75가 된다","specialName":"파동 엘보"}}
+{
+  "name": "지저스 바제스, 코리다 콜로세움 A블록의 ‘챔피언’",
+  "detail": {
+    "captain": "격투형 캐릭터의 공격력을 2.25배로 만든다",
+    "special": [
+      {
+        "description": "적 전체의 HP를 10% 줄인다",
+        "cooldown": [
+          15,
+          9
+        ]
+      },
+      {
+        "description": "적 전체의 HP를 20% 줄인다",
+        "cooldown": [
+          18,
+          12
+        ]
+      },
+      {
+        "description": "적 전체의 HP를 20% 감소시키고, 2턴 동안 지연 중인 적에게 주는 데미지가 1.5배가 된다",
+        "cooldown": [
+          21,
+          15
+        ]
+      }
+    ],
+    "sailor": "[STR][DEX][QCK] 속성의 기본 공격력과 기본 체력이 75 상승한다",
+    "specialName": "파동 엘보",
+    "specialNotes": "#{stages}"
+  }
+}

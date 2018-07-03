@@ -1,1 +1,33 @@
-{"name":"모모노스케","detail":{"captain":"Protects from defeat as long as HP is above 50%","special":[{"description":"Adds .2x to Chain multiplier for 1 턴","cooldown":[8,3]},{"description":"Switches orbs between slots once, and adds .3x to Chain multiplier for 1 턴","cooldown":[11,6]},{"description":"Switches orbs between slots once, and adds .5x to Chain multiplier for 1 턴","cooldown":[14,9]}],"specialNotes":"#{stages}","sailor":"Makes [STR], [QCK], [DEX], and [INT] orbs \"beneficial\" for this unit","specialName":"Miraculous Flying Dragon"}}
+{
+  "name": "모모노스케",
+  "detail": {
+    "captain": "체력이 일정 비율 이상일 떄, 공격을 받아도 쓰러지지 않는다",
+    "special": [
+      {
+        "description": "1턴 동안 체인 계수가 +0.2 증가한다",
+        "cooldown": [
+          8,
+          3
+        ]
+      },
+      {
+        "description": "슬롯을 1회 자유롭게 움직이고, 1턴 동안 체인 계수가 +0.3 증가한다",
+        "cooldown": [
+          11,
+          6
+        ]
+      },
+      {
+        "description": "슬롯을 1회 자유롭게 움직이고, 1턴 동안 체인 계수가 +0.5 증가한다",
+        "cooldown": [
+          14,
+          9
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}",
+    "sailor": "자신은 [STR][QCK][DEX][INT] 슬롯도 [유리](\"beneficial\") 슬롯으로 취급한다",
+    "specialName": "승천하는 기적의 용",
+    "sailorNotes": "#{beneficial}"
+  }
+}

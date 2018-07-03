@@ -1,1 +1,34 @@
-{"name":"Green Striker, Skypiea Enforcer","detail":{"special":"Changes [INT] orbs into [DEX] orbs","specialName":"[INT] Slot Change [DEX]"},"unit":{"type":"DEX","class":"Striker","stars":2,"cost":6,"combo":4,"slots":0,"level":30,"exp":57558,"maxHP":325,"maxATK":435,"maxRCV":71},"evolution":{"evolution":1201,"evolvers":[117,79,85,96,301]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0479.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0479.png"}}
+{
+  "name": "Green Striker, Skypiea Enforcer",
+  "detail": {
+    "special": "Changes [INT] orbs into [DEX] orbs",
+    "specialName": "[INT] Slot Change [DEX]"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Striker",
+    "stars": 2,
+    "cost": 6,
+    "combo": 4,
+    "slots": 0,
+    "level": 30,
+    "exp": 57558,
+    "maxHP": 325,
+    "maxATK": 435,
+    "maxRCV": 71
+  },
+  "evolution": {
+    "evolution": 484,
+    "evolvers": [
+      116,
+      86,
+      91,
+      97
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0479.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0479.png"
+  }
+}

@@ -1,1 +1,35 @@
-{"name":"Conis","detail":{"special":"Boosts ATK and RCV of Free Spirit characters by 1.5x for 2 turns, seals herself for 3 turns","specialName":"Angel's Harp - Healing","captain":"Boosts RCV of all characters by 2x if HP is below 30% at the start of the turn"},"unit":{"type":"PSY","class":"Free Spirit","stars":3,"cost":9,"combo":5,"slots":2,"level":35,"exp":136167,"maxHP":503,"maxATK":190,"maxRCV":232},"evolution":{"evolution":1806,"evolvers":[117,79,90,96,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0715.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0715.png"}}
+{
+  "name": "Conis",
+  "detail": {
+    "special": "Boosts ATK and RCV of Free Spirit characters by 1.5x for 2 turns, seals herself for 3 turns",
+    "specialName": "Angel's Harp - Healing",
+    "captain": "Boosts RCV of all characters by 2x if HP is below 30% at the start of the turn"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": "Free Spirit",
+    "stars": 3,
+    "cost": 9,
+    "combo": 5,
+    "slots": 2,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 503,
+    "maxATK": 190,
+    "maxRCV": 232
+  },
+  "evolution": {
+    "evolution": 716,
+    "evolvers": [
+      116,
+      117,
+      81,
+      87
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0715.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0715.png"
+  }
+}

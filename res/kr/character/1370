@@ -1,1 +1,79 @@
-{"name":"토니토니 쵸파, 신생 밀짚모자 일당","detail":{"captain":"Boosts ATK of [QCK] characters by 2x and their HP and RCV by 1.2x","special":"Changes [DEX] and [RCV] on [QCK] characters into [QCK], cuts the current HP of one enemy by 15%","sailor":"Makes [STR] orbs \"beneficial\" for this unit","specialName":"Kakuho: Elf"}}
+{
+  "name": "토니토니 쵸파, 신생 밀짚모자 일당",
+  "detail": {
+    "captain": "Boosts ATK of [QCK] characters by 2x and their HP and RCV by 1.2x",
+    "special": "Changes [DEX] and [RCV] on [QCK] characters into [QCK], cuts the current HP of one enemy by 15%",
+    "sailor": "Makes [STR] orbs \"beneficial\" for this unit",
+    "specialName": "Kakuho: Elf",
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Boosts base RCV by 60"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [TND] orbs \"beneficial\" for [QCK] and [PSY] characters"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of [QCK] characters by 2.5x and their HP and RCV by ?x"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[STR] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [STR] characters by 1%",
+          "Level 2: Reduce damage taken from [STR] characters by 2%",
+          "Level 3: Reduce damage taken from [STR] characters by 3%",
+          "Level 4: Reduce damage taken from [STR] characters by 4%",
+          "Level 5: Reduce damage taken from [STR] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ]
+  }
+}

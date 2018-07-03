@@ -1,1 +1,40 @@
-{"name":"Marguerite, Celebration of the 14th","detail":{"captain":"Boosts ATK of [STR], [DEX] and [QCK] characters by 1.75x and their RCV by 1.5x","special":"Changes all orbs depending on the current HP","specialNotes":"<br> HP>70%: Top row to [QCK], middle row to [DEX], bottom row to [STR] <br> HP<30%: Top row to [RCV], middle row to [QCK], bottom row to [STR]","specialName":"Doki Doki Heart"},"unit":{"type":"STR","class":["Shooter","Free Spirit"],"stars":5,"cost":20,"combo":5,"slots":4,"level":99,"exp":3000000,"maxHP":1755,"maxATK":1081,"maxRCV":348},"evolve":{"evolution":581,"evolvers":[118,266,98,303,103]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1454.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1454.png"}}
+{
+  "name": "Marguerite, Celebration of the 14th",
+  "detail": {
+    "captain": "Boosts ATK of [STR], [DEX] and [QCK] characters by 1.75x and their RCV by 1.5x",
+    "special": "Changes all orbs depending on the current HP",
+    "specialNotes": "<br> HP>70%: Top row to [QCK], middle row to [DEX], bottom row to [STR] <br> HP<30%: Top row to [RCV], middle row to [QCK], bottom row to [STR]",
+    "specialName": "Doki Doki Heart"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1755,
+    "maxATK": 1081,
+    "maxRCV": 348
+  },
+  "evolve": {
+    "evolution": 1454,
+    "evolvers": [
+      117,
+      83,
+      84,
+      89,
+      95
+    ],
+    "from": 1453
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1454.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1454.png"
+  }
+}

@@ -1,1 +1,29 @@
-{"name":"Clever Fishman Guard","detail":{"captain":"Boosts ATK, HP and RCV of [DEX] characters by 1.2x","special":"Recovers 2000 HP","specialName":"First Aid"},"unit":{"type":"DEX","class":["Powerhouse","Striker"],"stars":3,"cost":12,"combo":6,"slots":1,"level":60,"exp":449516,"maxHP":1217,"maxATK":683,"maxRCV":117},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1500.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1500.png"}}
+{
+  "name": "Clever Fishman Guard",
+  "detail": {
+    "captain": "Boosts ATK, HP and RCV of [DEX] characters by 1.2x",
+    "special": "Recovers 2000 HP",
+    "specialName": "First Aid"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": 1217,
+    "maxATK": 683,
+    "maxRCV": 117
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1500.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1500.png"
+  }
+}

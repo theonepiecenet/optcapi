@@ -1,1 +1,84 @@
-{"name":"칼리파 역대 최강의 CP9","detail":{"special":"Reduces damage received in the next 턴 by 50% if the special is activated with more than 50% health remaining, by 80% if activated with less than 50% but more than 10% health remaining, by 100% if activated with less than 10% health remaining","specialName":"Sheep Cloud Tidal Wave","captain":"Boosts ATK of Cerebral characters by 2.25x and their RCV by 1.5x"}}
+{
+  "name": "칼리파, 역대 최강의 ‘CP9’",
+  "detail": {
+    "special": "Reduces damage received in the next 턴 by 50% if the special is activated with more than 50% health remaining, by 80% if activated with less than 50% but more than 10% health remaining, by 100% if activated with less than 10% health remaining",
+    "specialName": "Sheep Cloud Tidal Wave",
+    "captain": "Boosts ATK of Cerebral characters by 2.25x and their RCV by 1.5x",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Blindness duration by 3 turns",
+      "level2": "Restores her own special by 2 turns when it is rewinded"
+    },
+    "sailorNotes": "#{rewind : 2}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Blindness duration by 3 turns"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Restores her own special by 2 turns when it is rewinded"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

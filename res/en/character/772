@@ -1,1 +1,29 @@
-{"name":"Onigumo, Marine Vice Admiral","detail":{"special":"Cuts the current HP of each enemy by 10%, changes [PSY] and [INT] orbs into [DEX] orbs","specialName":"Eight-Sword Style: Brave Warrior's Continuous Attack","captain":"Boosts ATK of Slasher characters by 2x, reduces damage received from [QCK] enemies by 20%"},"unit":{"type":"DEX","class":["Slasher","Driven"],"stars":4,"cost":20,"combo":8,"slots":3,"level":99,"exp":4000000,"maxHP":2000,"maxATK":1021,"maxRCV":318},"evolution":{"evolution":1935,"evolvers":[118,79,94,301,267]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0772.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0772.png"}}
+{
+  "name": "Onigumo, Marine Vice Admiral",
+  "detail": {
+    "special": "Cuts the current HP of each enemy by 10%, changes [PSY] and [INT] orbs into [DEX] orbs",
+    "specialName": "Eight-Sword Style: Brave Warrior's Continuous Attack",
+    "captain": "Boosts ATK of Slasher characters by 2x, reduces damage received from [QCK] enemies by 20%"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 8,
+    "slots": 3,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2000,
+    "maxATK": 1021,
+    "maxRCV": 318
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0772.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0772.png"
+  }
+}

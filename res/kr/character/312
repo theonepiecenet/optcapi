@@ -1,1 +1,80 @@
-{"name":"살인무인 킬러","detail":{"special":"HP가 1이 되는 대신 적 1명에게 슈퍼 데미지 (공격력 x100)","specialName":"살육무인","captain":"3연속으로 GOOD 이전 판정을 받으면 이후 캐릭터의 공격력이 3.5배","sailor":"When HP is below x%, boosts ATK of Cerebral Characters by 50"}}
+{
+  "name": "살인무인 킬러",
+  "detail": {
+    "special": "HP가 1이 되는 대신 적 1명에게 슈퍼 데미지 (공격력 x100)",
+    "specialName": "살육무인",
+    "captain": "3연속으로 GOOD 이전 판정을 받으면 이후 캐릭터의 공격력이 3.5배",
+    "sailor": "When HP is below x%, boosts ATK of Cerebral Characters by 50",
+    "specialNotes": "#{fixed}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 5 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: When HP is below ??% at the start of the turn, boosts own base ATK by 200"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 6 turns"
+      },
+      {
+        "description": "Acquire Potential 2: Cooldown Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

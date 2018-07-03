@@ -1,1 +1,80 @@
-{"name":"퀴로스, 드레스로자 옛 왕가의 영웅","detail":{"captain":"참격형과 타격형의 캐릭터의 공격력을 2.5배로 만들고, 체력을 1.25배로 만든다","special":"적 1명에게 캐릭터의 공격력x30배의 [STR] 데미지를 주고, 봉쇄 및 선장효과 무효 상태를 2턴 회복하고, 3턴 동안 참격형 캐릭터의 공격력을 1.75배로 만든다","specialName":"선수 친 국가 탈환","sailor":"GOOD, GREAT, PERCECT 타이밍 보너스에 캐릭터의 공격력x2배의 데미지가 가산된다","sailorNotes":"#{additionalDamage : 2x}","limit":[{"description":"Boosts base HP by 20"},{"description":"Boosts base HP by 25"},{"description":"Boosts base HP by 30"},{"description":"Acquire Potential 1: Enrage"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base RCV by 10"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base RCV by 30"},{"description":"Boosts base ATK by 30"},{"description":"Boosts base HP by 50"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base HP by 65"},{"description":"Boosts base ATK by 50"},{"description":"Acquire Sailor Ability 1: Boosts base ATK and HP of Slasher characters by 50"},{"description":"Acquire Potential 2: Critical Hit"}],"potential":[{"Name":"Enrage","description":["Level 1: Boosts base ATK by 30","Level 2: Boosts base ATK by 60","Level 3: Boosts base ATK by 90","Level 4: Boosts base ATK by 100","Level 5: Boosts base ATK by 150"]},{"Name":"Critical Hit","description":["Level 1: If you hit a PERFECT with this character, there is a 30% chance to deal 4% of this character's attack in extra damage","Level 2: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage","Level 3: If you hit a PERFECT with this character, there is a 50% chance to deal 6% of this character's attack in extra damage","Level 4: If you hit a PERFECT with this character, there is a 60% chance to deal 7% of this character's attack in extra damage","Level 5: If you hit a PERFECT with this character, there is a 70% chance to deal 8% of this character's attack in extra damage"]}],"potentialNotes":"#{enrage}"}}
+{
+  "name": "퀴로스, 드레스로자 옛 왕가의 영웅",
+  "detail": {
+    "captain": "참격형과 타격형의 캐릭터의 공격력을 2.5배로 만들고, 체력을 1.25배로 만든다",
+    "special": "적 1명에게 캐릭터의 공격력x30배의 [STR] 데미지를 주고, 봉쇄 및 선장효과 무효 상태를 2턴 회복하고, 3턴 동안 참격형 캐릭터의 공격력을 1.75배로 만든다",
+    "specialName": "선수 친 국가 탈환",
+    "sailor": "GOOD, GREAT, PERCECT 타이밍 보너스에 캐릭터의 공격력x2배의 데미지가 가산된다",
+    "sailorNotes": "#{additionalDamage : 2x}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 25"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 65"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK and HP of Slasher characters by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 30",
+          "Level 2: Boosts base ATK by 60",
+          "Level 3: Boosts base ATK by 90",
+          "Level 4: Boosts base ATK by 100",
+          "Level 5: Boosts base ATK by 150"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 50% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 60% chance to deal 7% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 70% chance to deal 8% of this character's attack in extra damage"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

@@ -1,1 +1,39 @@
-{"name":"Sanji Candy","detail":{"special":"Randomizes [RCV], [STR] and [DEX] orbs into either [STR] or [QCK] orbs","specialName":"Maiden's Bloom","captain":"Boosts ATK of all characters by 2.25x following a chain of [INT] > [PSY] > [QCK] attacks no lower than Good"},"unit":{"type":"QCK","class":["Fighter","Free Spirit"],"stars":4,"cost":18,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":1802,"maxATK":951,"maxRCV":357},"evolution":{"evolution":1100,"evolvers":[117,91,92,97,98]},"evolve":{"evolution":183,"evolvers":[118,80,86,94,97]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0436.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0436.png"}}
+{
+  "name": "Sanji Candy",
+  "detail": {
+    "special": "Randomizes [RCV], [STR] and [DEX] orbs into either [STR] or [QCK] orbs",
+    "specialName": "Maiden's Bloom",
+    "captain": "Boosts ATK of all characters by 2.25x following a chain of [INT] > [PSY] > [QCK] attacks no lower than Good"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 18,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1802,
+    "maxATK": 951,
+    "maxRCV": 357
+  },
+  "evolve": {
+    "evolution": 436,
+    "evolvers": [
+      117,
+      85,
+      433,
+      434,
+      96
+    ],
+    "from": 435
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0436.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0436.png"
+  }
+}

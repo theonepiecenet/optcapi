@@ -1,1 +1,41 @@
-{"name":"Franky, Merveille's Adventurer","detail":{"special":"Changes own orb into [STR], amplifies the effect of orbs by 1.5x for 2 turns","specialNotes":"#{orb : 1.5x}","specialName":"Roar! Zarley Davison","captain":"Boosts ATK of [STR] characters by 2x, deals 2x character's ATK in [STR] damage to all enemies at the end of each turn","sailor":"Boosts base ATK of Shooter characters by 20"},"unit":{"type":"STR","class":["Shooter","Free Spirit"],"stars":4,"cost":17,"combo":6,"slots":3,"level":70,"exp":1066998,"maxHP":1590,"maxATK":738,"maxRCV":95},"evolution":{"evolution":1401,"evolvers":[118,78,83,95,300]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0559.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0559.png"}}
+{
+  "name": "Franky, Merveille's Adventurer",
+  "detail": {
+    "special": "Changes own orb into [STR], amplifies the effect of orbs by 1.5x for 2 turns",
+    "specialNotes": "#{orb : 1.5x}",
+    "specialName": "Roar! Zarley Davison",
+    "captain": "Boosts ATK of [STR] characters by 2x, deals 2x character's ATK in [STR] damage to all enemies at the end of each turn",
+    "sailor": "Boosts base ATK of Shooter characters by 20"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 17,
+    "combo": 6,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1590,
+    "maxATK": 738,
+    "maxRCV": 95
+  },
+  "evolution": {
+    "evolution": 560,
+    "evolvers": [
+      118,
+      83,
+      84,
+      300,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0559.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0559.png"
+  }
+}

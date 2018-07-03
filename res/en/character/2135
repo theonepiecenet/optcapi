@@ -1,1 +1,29 @@
-{"name":"Mr.1, The Blade Building a Utopia","detail":{"captain":"Boosts ATK of [QCK] characters by 1.3x","special":"Deals 15x character's ATK in [QCK] damage to one enemy, changes own orb into [QCK] and amplifies the effect of orbs for [QCK] characters by 1.75x for 1 turn","specialName":"Sparkling Daisy"},"unit":{"type":"QCK","class":["Slasher","Cerebral"],"stars":4,"cost":15,"combo":4,"slots":15,"level":99,"exp":null,"maxHP":1920,"maxATK":1152,"maxRCV":201},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2135.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2135.png"}}
+{
+  "name": "Mr. 1, Building the Utopian Blade ",
+  "detail": {
+    "captain": "Boosts ATK of [QCK] characters by 1.3x",
+    "special": "Deals 15x character's ATK in [QCK] damage to one enemy, changes own orb into [QCK] and amplifies the effect of orbs for [QCK] characters by 1.75x for 1 turn",
+    "specialName": "Sparkling Daisy"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 15,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 1920,
+    "maxATK": 1152,
+    "maxRCV": 201
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2135.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2135.png"
+  }
+}

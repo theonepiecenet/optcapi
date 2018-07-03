@@ -1,1 +1,38 @@
-{"name":"Bohemian Knight Doma","detail":{"special":"Changes [PSY] and [INT] orbs into [QCK] orbs, reduces Bind duration by 1 turn","specialName":"Bohemian Reverse Slash","captain":"Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Slasher characters by 2x","sailor":"Restores his own special by 1 turn when it is rewinded","sailorNotes":"#{rewind : 1}"},"unit":{"type":"QCK","class":"Slasher","stars":5,"cost":29,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":2134,"maxATK":1268,"maxRCV":328},"evolution":{"evolution":1614,"evolvers":[83,86,94,102,302]},"evolve":{"evolution":258,"evolvers":[118,83,86,302,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0639.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0639.png"}}
+{
+  "name": "Bohemian Knight Doma",
+  "detail": {
+    "special": "Changes [PSY] and [INT] orbs into [QCK] orbs, reduces Bind duration by 1 turn",
+    "specialName": "Bohemian Reverse Slash",
+    "captain": "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Slasher characters by 2x",
+    "sailor": "Restores his own special by 1 turn when it is rewinded",
+    "sailorNotes": "#{rewind : 1}"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": "Slasher",
+    "stars": 5,
+    "cost": 29,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2134,
+    "maxATK": 1268,
+    "maxRCV": 328
+  },
+  "evolve": {
+    "evolution": 639,
+    "evolvers": [
+      118,
+      83,
+      96,
+      301,
+      101
+    ],
+    "from": 638
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0639.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0639.png"
+  }
+}

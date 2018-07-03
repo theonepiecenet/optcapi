@@ -1,1 +1,43 @@
-{"name":"Nami","detail":{"special":"Recovers 1,000 HP","specialName":"Cat Burglar","captain":"Reduces damage received from [INT] enemies by 20%"},"unit":{"type":"INT","class":"Striker","stars":3,"cost":4,"combo":4,"slots":0,"level":20,"exp":26184,"maxHP":366,"maxATK":201,"maxRCV":89},"evolution":{"evolution":[10,11],"evolvers":[[115,82],[116,82,99]]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0009.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0009.png"}}
+{
+  "name": "Nami",
+  "detail": {
+    "special": "Recovers 1,000 HP",
+    "specialName": "Cat Burglar",
+    "captain": "Reduces damage received from [INT] enemies by 20%"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Striker",
+    "stars": 3,
+    "cost": 4,
+    "combo": 4,
+    "slots": 0,
+    "level": 20,
+    "exp": 26184,
+    "maxHP": 366,
+    "maxATK": 201,
+    "maxRCV": 89
+  },
+  "evolution": {
+    "evolution": [
+      10,
+      11
+    ],
+    "evolvers": [
+      [
+        115,
+        82
+      ],
+      [
+        116,
+        82,
+        99
+      ]
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0009.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0009.png"
+  }
+}

@@ -1,1 +1,38 @@
-{"name":"Carina, Gold Ship Songstress","detail":{"captain":"Boosts RCV of all characters by 1.5x","special":"Boosts RCV by 1.5x for 1 turn and amplifies the effects of orbs by 1.5x for 1 turn","specialName":"Sexy Diva"},"unit":{"type":"DEX","class":["Cerebral","Slasher"],"stars":4,"cost":20,"combo":5,"slots":3,"level":70,"exp":1066998,"maxHP":1074,"maxATK":719,"maxRCV":306},"evolve":{"evolution":461,"evolvers":[117,88,99]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1165.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1165.png"}}
+{
+  "name": "Carina, Gold Ship Songstress",
+  "detail": {
+    "captain": "Boosts RCV of all characters by 1.5x",
+    "special": "Boosts RCV by 1.5x for 1 turn and amplifies the effects of orbs by 1.5x for 1 turn",
+    "specialName": "Sexy Diva"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Cerebral",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1074,
+    "maxATK": 719,
+    "maxRCV": 306
+  },
+  "evolve": {
+    "evolution": 1165,
+    "evolvers": [
+      116,
+      117,
+      80,
+      86
+    ],
+    "from": 1164
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1165.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1165.png"
+  }
+}

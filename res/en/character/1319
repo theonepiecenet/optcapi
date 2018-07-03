@@ -1,1 +1,41 @@
-{"name":"Tsuru, Navy HQ Vice Admiral","detail":{"captain":"Heals for 1x her RCV at the end of the turn each time you hit a Good. Heals for .1x her RCV at the end of the turn each time you hit a PERFECT","special":"Deals 10 hits of random [QCK] damage to random enemies. Boosts ATK of all characters by 1.5x for 1 turn","specialNotes":"#{randomHits : 10}<br>#{random : 1,000 : 32,000 : for each hit}","sailor":"Reduces Paralysis duration by 1 turn","specialName":"A Decree of the Veteran"},"unit":{"type":"QCK","class":["Cerebral","Shooter"],"stars":4,"cost":15,"combo":4,"slots":3,"level":50,"exp":392109,"maxHP":902,"maxATK":534,"maxRCV":213},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1319.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1319.png"}}
+{
+  "name": "Tsuru, Navy HQ Vice Admiral",
+  "detail": {
+    "captain": "Heals for 1x her RCV at the end of the turn each time you hit a Good. Heals for .1x her RCV at the end of the turn each time you hit a PERFECT",
+    "special": "Deals 10 hits of random [QCK] damage to random enemies. Boosts ATK of all characters by 1.5x for 1 turn",
+    "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 32,000 : for each hit}",
+    "sailor": "Reduces Paralysis duration by 1 turn",
+    "specialName": "A Decree of the Veteran"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Cerebral",
+      "Shooter"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 902,
+    "maxATK": 534,
+    "maxRCV": 213
+  },
+  "evolution": {
+    "evolution": 1320,
+    "evolvers": [
+      83,
+      85,
+      96,
+      301,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1319.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1319.png"
+  }
+}

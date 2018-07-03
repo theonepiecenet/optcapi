@@ -1,1 +1,83 @@
-{"name":"퀴로스 전 리쿠왕군 군대장","detail":{"captain":"Boosts ATK of characters with cost 30 or less by 2.5x","special":"Deals [DEX] damage to one enemy, changes own orb to [DEX] and boosts own ATK by 2x for 1 턴","specialName":"Trueno Bastardo"}}
+{
+  "name": "퀴로스 전 리쿠왕군 군대장",
+  "detail": {
+    "captain": "Boosts ATK of characters with cost 30 or less by 2.5x",
+    "special": "Deals [DEX] damage to one enemy, changes own orb to [DEX] and boosts own ATK by 2x for 1 턴",
+    "specialName": "Trueno Bastardo",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Paralysis duration for 2 turns for himself",
+      "level2": "Boosts base ATK of all characters by 50"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration for 2 turns for himself"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts base ATK of all characters by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by ??",
+          "Level 3: Boosts base ATK by ??",
+          "Level 4: Boosts base ATK by ??",
+          "Level 5: Boosts base ATK by ??"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

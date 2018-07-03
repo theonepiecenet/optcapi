@@ -1,1 +1,55 @@
-{"name":"Kizaru [Neo], Light Human","detail":{"captain":"Reduces cooldown of Shooter specials by 2 turns at the start of the fight, boosts ATK of Shooter characters by 2.25x and boosts HP of Shooter characters by 1.5x","specialName":"Yata no Kagami (Sacred Mirror) Neo","special":[{"description":"Changes own orb into [DEX]. Reduces Special Cooldown of Shooter and Fighter specials by 1 turn","cooldown":[14,5]},{"description":"Changes own orb into [DEX]. Reduces Special Cooldown of Shooter and Fighter specials by 1 turn. Adds .5x to Chain multiplier for 2 turns","cooldown":[20,11]}],"specialNotes":"#{stages}"},"unit":{"type":"DEX","class":["Fighter","Shooter"],"stars":5,"cost":50,"combo":5,"slots":4,"level":99,"exp":5000000,"maxHP":2486,"maxATK":1415,"maxRCV":279},"evolve":{"evolution":707,"evolvers":[118,86,1180,302,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1780.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1780.png"}}
+{
+  "name": "Kizaru [Neo], Light Human",
+  "detail": {
+    "captain": "Reduces cooldown of Shooter specials by 2 turns at the start of the fight, boosts ATK of Shooter characters by 2.25x and boosts HP of Shooter characters by 1.5x",
+    "specialName": "Yata no Kagami (Sacred Mirror) Neo",
+    "special": [
+      {
+        "description": "Changes own orb into [DEX]. Reduces Special Cooldown of Shooter and Fighter specials by 1 turn",
+        "cooldown": [
+          14,
+          5
+        ]
+      },
+      {
+        "description": "Changes own orb into [DEX]. Reduces Special Cooldown of Shooter and Fighter specials by 1 turn. Adds .5x to Chain multiplier for 2 turns",
+        "cooldown": [
+          20,
+          11
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Shooter"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 2486,
+    "maxATK": 1415,
+    "maxRCV": 279
+  },
+  "evolve": {
+    "evolution": 1780,
+    "evolvers": [
+      118,
+      86,
+      266,
+      302,
+      102
+    ],
+    "from": 1779
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1780.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1780.png"
+  }
+}

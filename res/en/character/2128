@@ -1,1 +1,29 @@
-{"name":"Randolph, Brûlée's Faction","detail":{"captain":"Boosts ATK of DEX characters by 2x and boosts chain multiplier by 1.2x","special":"Reduces Special Cooldown of your right column by 1 turn and makes [DEX] and [RCV] orbs \"beneficial\" for Slasher and Striker characters for 1 turn","specialName":"Cutting Lifelines"},"unit":{"type":"DEX","class":["Slasher","Striker"],"stars":4,"cost":20,"combo":4,"slots":4,"level":99,"exp":1000000,"maxHP":2158,"maxATK":1201,"maxRCV":190},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2128.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2128.png"}}
+{
+  "name": "Randolph, Brûlée's Faction",
+  "detail": {
+    "captain": "Boosts ATK of DEX characters by 2x and boosts chain multiplier by 1.2x",
+    "special": "Reduces Special Cooldown of your right column by 1 turn and makes [DEX] and [RCV] orbs \"beneficial\" for Slasher and Striker characters for 1 turn",
+    "specialName": "Cutting Lifelines"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "maxHP": 2158,
+    "maxATK": 1201,
+    "maxRCV": 190
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2128.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2128.png"
+  }
+}

@@ -1,1 +1,114 @@
-{"name":"Sanji, Straw Hat Pirates' Attack","detail":{"special":"Deals several times the character's ATK in [INT] damage to all enemies","specialNotes":"#{specialProportional : lower : 100 * ( 1 - (remaining HP) / (total HP) )}","specialName":"Diable Jambe - Venaison Shot","captain":"Reduces damage received by 80% if HP is above 99% at the start of the turn","sailor":{"base":"Reduces Paralysis by 3 turns for self","level1":"When HP is below ??% at the start of the turn, boosts own base ATK by 500"},"limit":[{"description":"Boosts base ATK by 10"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base ATK by 30"},{"description":"Acquire Potential 1: Enrage"},{"description":"Boosts base ATK by 40"},{"description":"Reduce base Special Cooldown by 3 turns"},{"description":"Boosts base ATK by 40"},{"description":"Reduce base Special Cooldown by 3 turns"},{"description":"Boosts base ATK by 50"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base ATK by 50"},{"description":"Reduce base Special Cooldown by 3 turns"},{"description":"Boosts base ATK by 50"},{"description":"Acquire Sailor Ability 1: When HP is below ??% at the start of the turn, boosts own base ATK by 500"},{"description":"Acquire Potential 2: Cooldown Reduction"}],"potential":[{"Name":"Enrage","description":["Level 1: Boosts base ATK by 50","Level 2: Boosts base ATK by ??","Level 3: Boosts base ATK by ??","Level 4: Boosts base ATK by ??","Level 5: Boosts base ATK by 200"]},{"Name":"Cooldown Reduction","description":["Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight","Level 2: Reduce own Special Cooldown by ? turn at the start of the fight","Level 3: Reduce own Special Cooldown by ? turn at the start of the fight","Level 4: Reduce own Special Cooldown by ? turn at the start of the fight","Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"]}],"potentialNotes":"#{enrage}"},"unit":{"type":"INT","class":["Fighter","Powerhouse"],"stars":5,"cost":27,"combo":5,"slots":4,"level":99,"exp":4000000,"maxHP":2834,"maxATK":1224,"maxRCV":226},"evolution":{"evolution":1308,"evolvers":[117,79,85,301,101]},"evolve":{"evolution":219,"evolvers":[118,85,96,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0522.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0522.png"}}
+{
+  "name": "Sanji, Straw Hat Pirates' Attack",
+  "detail": {
+    "special": "Deals several times the character's ATK in [INT] damage to all enemies",
+    "specialNotes": "#{specialProportional : lower : 100 * ( 1 - (remaining HP) / (total HP) )}",
+    "specialName": "Diable Jambe - Venaison Shot",
+    "captain": "Reduces damage received by 80% if HP is above 99% at the start of the turn",
+    "sailor": {
+      "base": "Reduces Paralysis by 3 turns for self",
+      "level1": "When HP is below ??% at the start of the turn, boosts own base ATK by 500"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: When HP is below ??% at the start of the turn, boosts own base ATK by 500"
+      },
+      {
+        "description": "Acquire Potential 2: Cooldown Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by ??",
+          "Level 3: Boosts base ATK by ??",
+          "Level 4: Boosts base ATK by ??",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 27,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2834,
+    "maxATK": 1224,
+    "maxRCV": 226
+  },
+  "evolve": {
+    "evolution": 522,
+    "evolvers": [
+      118,
+      83,
+      88,
+      94,
+      104
+    ],
+    "from": 521
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0522.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0522.png"
+  }
+}

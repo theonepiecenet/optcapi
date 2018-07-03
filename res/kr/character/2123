@@ -1,1 +1,82 @@
-{"name":"The Sea God King 넵튠, The Great Knight of the Sea","detail":{"captain":"Boosts ATK of all characters by 2x, EXP gained by 1.5x and recovers 5x character's RCV in HP at the end of each turn","captainNotes":"EXP boost does not take effect if he becomes your captain in the middle of the adventure.","special":"Reduces Despair and ATK DOWN duration by 5 turns and reduces enemies' Resilience Buffs by 5 turns. Reduces the defense of all enemies by ?% and amplifies the effect of orbs by 1.75x for Cerebral and Powerhouse characters for 3 turns","specialName":"Great Ocean Current of Resuscitation","sailor":{"base":"Boosts base ATK, HP and RCV of Cerebral characters by 50","level1":"When any other character uses a special, reduces own cooldown by 1 turn"},"limit":[{"description":"Boosts base HP by 10"},{"description":"Boosts base HP by 20"},{"description":"Boosts base ATK by 20"},{"description":"Acquire Potential 1: Pinch Healing"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base RCV by 10"},{"description":"Boosts base HP by 40"},{"description":"Boosts base ATK by 30"},{"description":"Boosts base HP by 50"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base ATK by 35"},{"description":"Boosts base RCV by 10"},{"description":"Boosts base ATK by 40"},{"description":"Acquire Sailor Ability 1: When any other character uses a special, reduces own cooldown by 1 turn"},{"description":"Acquire Potential 2: Reduce No Healing duration"}],"potential":[{"Name":"Reduce No Healing duration","description":["Level 1: Reduces No Healing duration by ? turn","Level 2: Reduces No Healing duration by ? turns","Level 3: Reduces No Healing duration by ? turns","Level 4: Reduces No Healing duration by ? turns","Level 5: Reduces No Healing duration by ? turns"]},{"Name":"Pinch Healing","description":["Level 1: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 2: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 3: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 4: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 5: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"]}]}}
+{
+  "name": "The Sea God King 넵튠, The Great Knight of the Sea",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2x, EXP gained by 1.5x and recovers 5x character's RCV in HP at the end of each turn",
+    "captainNotes": "EXP boost does not take effect if he becomes your captain in the middle of the adventure.",
+    "special": "Reduces Despair and ATK DOWN duration by 5 turns and reduces enemies' Resilience Buffs by 5 turns. Reduces the defense of all enemies by ?% and amplifies the effect of orbs by 1.75x for Cerebral and Powerhouse characters for 3 turns",
+    "specialName": "Great Ocean Current of Resuscitation",
+    "sailor": {
+      "base": "Boosts base ATK, HP and RCV of Cerebral characters by 50",
+      "level1": "When any other character uses a special, reduces own cooldown by 1 turn"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: When any other character uses a special, reduces own cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by ? turn",
+          "Level 2: Reduces No Healing duration by ? turns",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
+  }
+}

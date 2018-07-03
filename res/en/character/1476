@@ -1,1 +1,40 @@
-{"name":"Fukaboshi","detail":{"captain":"Boosts ATK of Striker characters by 2x","special":"Delays all enemies by 1 turn and boosts ATK of Striker and Powerhouse characters by 1.75x for 1 turn","sailor":"Boosts base HP, RCV and ATK of all characters by 50","specialName":"Merman Gujutsu - Spear of the Ages"},"unit":{"type":"PSY","class":["Powerhouse","Striker"],"stars":4,"cost":15,"combo":6,"slots":3,"level":50,"exp":392109,"maxHP":1176,"maxATK":496,"maxRCV":181},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1476.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1476.png"}}
+{
+  "name": "Fukaboshi",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by 2x",
+    "special": "Delays all enemies by 1 turn and boosts ATK of Striker and Powerhouse characters by 1.75x for 1 turn",
+    "sailor": "Boosts base HP, RCV and ATK of all characters by 50",
+    "specialName": "Merman Gujutsu - Spear of the Ages"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1176,
+    "maxATK": 496,
+    "maxRCV": 181
+  },
+  "evolution": {
+    "evolution": 1477,
+    "evolvers": [
+      116,
+      87,
+      266,
+      1180,
+      303
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1476.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1476.png"
+  }
+}

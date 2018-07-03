@@ -1,1 +1,38 @@
-{"name":"Boa Hancock, Maiden Warrior","detail":{"captain":"Boosts ATK and RCV of [QCK] characters by 1.5x","special":"Recovers 13x character's RCV in HP, amplifies the effect of orbs by 1.5x for 3 turns","specialName":"The Princess' Principle"},"unit":{"type":"QCK","class":["Free Spirit","Fighter"],"stars":4,"cost":10,"combo":5,"slots":3,"level":35,"exp":136167,"maxHP":603,"maxATK":304,"maxRCV":289},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1567.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1567.png"}}
+{
+  "name": "Boa Hancock, Maiden Warrior",
+  "detail": {
+    "captain": "Boosts ATK and RCV of [QCK] characters by 1.5x",
+    "special": "Recovers 13x character's RCV in HP, amplifies the effect of orbs by 1.5x for 3 turns",
+    "specialName": "The Princess' Principle"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 10,
+    "combo": 5,
+    "slots": 3,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 603,
+    "maxATK": 304,
+    "maxRCV": 289
+  },
+  "evolution": {
+    "evolution": 1568,
+    "evolvers": [
+      117,
+      118,
+      79,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1567.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1567.png"
+  }
+}

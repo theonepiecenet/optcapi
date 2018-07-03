@@ -1,1 +1,9 @@
-{"name":"라분","detail":{"special":"적 전체에 캐릭터의 공격×20배의 [STR] 대미지","specialName":"탄식의 박치기","captain":"체력이 일정수준(50%) 이상이면 공격을 받아도 쓰러지지 않는다."}}
+{
+  "name": "라분",
+  "detail": {
+    "special": "적 전체에 캐릭터의 공격×20배의 [STR] 데미지",
+    "specialName": "탄식의 박치기",
+    "captain": "체력이 일정수준(50%) 이상이면 공격을 받아도 쓰러지지 않는다.",
+    "captainNotes": "#{zombie}"
+  }
+}

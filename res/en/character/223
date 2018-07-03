@@ -1,1 +1,35 @@
-{"name":"Usopp, Impact","detail":{"special":"Boosts ATK of [PSY] characters by 2x for 1 turn","specialName":"Impact","captain":"Boosts ATK of [PSY] characters by 1.5x"},"unit":{"type":"PSY","class":"Shooter","stars":4,"cost":18,"combo":6,"slots":2,"level":70,"exp":1066998,"maxHP":1185,"maxATK":669,"maxRCV":265},"evolution":{"evolution":530,"evolvers":[118,87,266,98,267]},"evolve":{"evolution":106,"evolvers":[117,79,90,83]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0223.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0223.png"}}
+{
+  "name": "Usopp, Impact",
+  "detail": {
+    "special": "Boosts ATK of [PSY] characters by 2x for 1 turn",
+    "specialName": "Impact",
+    "captain": "Boosts ATK of [PSY] characters by 1.5x"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": "Shooter",
+    "stars": 4,
+    "cost": 18,
+    "combo": 6,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1185,
+    "maxATK": 669,
+    "maxRCV": 265
+  },
+  "evolve": {
+    "evolution": 223,
+    "evolvers": [
+      117,
+      81,
+      98,
+      83
+    ],
+    "from": 222
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0223.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0223.png"
+  }
+}

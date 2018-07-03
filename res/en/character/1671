@@ -1,1 +1,29 @@
-{"name":"Camie, Mermaid Cafe","detail":{"captain":"Boosts RCV of Free Spirit characters by 1.5x","special":"Recovers 15% of crew's MAX HP and amplifies the effect of orbs by 1.5x for 1 turn","specialName":"Cheerfulness that Shines in the Deep Sea"},"unit":{"type":"QCK","class":["Free Spirit","Fighter"],"stars":4,"cost":20,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":1850,"maxATK":946,"maxRCV":350},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1671.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1671.png"}}
+{
+  "name": "Camie, Mermaid Cafe",
+  "detail": {
+    "captain": "Boosts RCV of Free Spirit characters by 1.5x",
+    "special": "Recovers 15% of crew's MAX HP and amplifies the effect of orbs by 1.5x for 1 turn",
+    "specialName": "Cheerfulness that Shines in the Deep Sea"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1850,
+    "maxATK": 946,
+    "maxRCV": 350
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1671.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1671.png"
+  }
+}

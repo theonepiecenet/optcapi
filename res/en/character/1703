@@ -1,1 +1,41 @@
-{"name":"Hannyabal, Ruler's Confidant","detail":{"captain":"Boosts ATK of [INT] characters by 2x","special":"Reduces damage received by 50% for 2 turns and boosts ATK against enemies inflicted with Toxic by 1.75x for 2 turns","specialName":"Inferno Hell Wheel","sailor":"Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this unit if your Captain is a Striker character","sailorNotes":"#{beneficial}"},"unit":{"type":"INT","class":["Driven","Striker"],"stars":4,"cost":15,"combo":6,"slots":3,"level":50,"exp":392109,"maxHP":1340,"maxATK":669,"maxRCV":101},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1703.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1703.png"}}
+{
+  "name": "Hannyabal, Ruler's Confidant",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by 2x",
+    "special": "Reduces damage received by 50% for 2 turns and boosts ATK against enemies inflicted with Toxic by 1.75x for 2 turns",
+    "specialName": "Inferno Hell Wheel",
+    "sailor": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this unit if your Captain is a Striker character",
+    "sailorNotes": "#{beneficial}"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Driven",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1340,
+    "maxATK": 669,
+    "maxRCV": 101
+  },
+  "evolution": {
+    "evolution": 1704,
+    "evolvers": [
+      266,
+      93,
+      1180,
+      304,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1703.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1703.png"
+  }
+}

@@ -1,1 +1,38 @@
-{"name":"Mr. Prince, Mutton Shot","detail":{"special":"Deals 15x character's ATK in [QCK] damage to one enemy","specialName":"Mutton Shot","captain":"Boosts ATK of all characters by 2x after scoring 2 PERFECTs in a row"},"unit":{"type":"QCK","class":["Fighter","Cerebral"],"stars":3,"cost":12,"combo":4,"slots":1,"level":35,"exp":136167,"maxHP":1144,"maxATK":457,"maxRCV":107},"evolution":{"evolution":1707,"evolvers":["skullPSY",118,98,303,267]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0224.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0224.png"}}
+{
+  "name": "Mr. Prince, Mutton Shot",
+  "detail": {
+    "special": "Deals 15x character's ATK in [QCK] damage to one enemy",
+    "specialName": "Mutton Shot",
+    "captain": "Boosts ATK of all characters by 2x after scoring 2 PERFECTs in a row"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 4,
+    "slots": 1,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 1144,
+    "maxATK": 457,
+    "maxRCV": 107
+  },
+  "evolution": {
+    "evolution": 225,
+    "evolvers": [
+      117,
+      79,
+      90,
+      83
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0224.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0224.png"
+  }
+}

@@ -1,1 +1,115 @@
-{"name":"Zeo, Ghosts of Fishman District","detail":{"captain":"Boosts ATK of [INT] characters by 2.25x and reduces damage received by 20%","special":"Makes PERFECTs easier to hit, locks all orbs and locks the chain multiplier at 2.5x for 1 turn","specialNotes":"Increases timing window to hit a PERFECT. (Animation remains the same)","specialName":"Flail Hidden From God","sailor":{"base":"If your Captain is a Powerhouse character, completely resists Blindness","level1":"Makes [TND] orbs \"beneficial\" for Powerhouse characters"},"sailorNotes":"#{beneficial}","limit":[{"description":"Boosts base ATK by 10"},{"description":"Boosts base HP by 20"},{"description":"Boosts base HP by 30"},{"description":"Acquire Potential 1: Enrage"},{"description":"Boosts base RCV by 10"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base ATK by 30"},{"description":"Boosts base HP by 40"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base RCV by 40"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base HP by 50"},{"description":"Boosts base ATK by 50"},{"description":"Acquire Sailor Ability 1: Makes [TND] orbs \"beneficial\" for Powerhouse characters"},{"description":"Acquire Potential 2: Reduce No Healing duration"}],"potential":[{"Name":"Enrage","description":["Level 1: Boosts base ATK by 20","Level 2: Boosts base ATK by 40","Level 3: Boosts base ATK by 60","Level 4: Boosts base ATK by 80","Level 5: Boosts base ATK by 100"]},{"Name":"Reduce No Healing duration","description":["Level 1: Reduces No Healing duration by 1 turn","Level 2: Reduces No Healing duration by 2 turns","Level 3: Reduces No Healing duration by 3 turns","Level 4: Reduces No Healing duration by 4 turns","Level 5: Reduces No Healing duration by 5 turns"]}],"potentialNotes":"#{enrage}"},"unit":{"type":"INT","class":["Powerhouse","Striker"],"stars":5,"cost":30,"combo":6,"slots":4,"level":99,"exp":4000000,"maxHP":2424,"maxATK":1362,"maxRCV":279},"evolve":{"evolution":577,"evolvers":[95,95,1180,300,300]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1442.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1442.png"}}
+{
+  "name": "Zeo, Ghosts of Fishman District",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by 2.25x and reduces damage received by 20%",
+    "special": "Makes PERFECTs easier to hit, locks all orbs and locks the chain multiplier at 2.5x for 1 turn",
+    "specialNotes": "Increases timing window to hit a PERFECT. (Animation remains the same)",
+    "specialName": "Flail Hidden From God",
+    "sailor": {
+      "base": "If your Captain is a Powerhouse character, completely resists Blindness",
+      "level1": "Makes [TND] orbs \"beneficial\" for Powerhouse characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [TND] orbs \"beneficial\" for Powerhouse characters"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 40",
+          "Level 3: Boosts base ATK by 60",
+          "Level 4: Boosts base ATK by 80",
+          "Level 5: Boosts base ATK by 100"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 6,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2424,
+    "maxATK": 1362,
+    "maxRCV": 279
+  },
+  "evolve": {
+    "evolution": 1442,
+    "evolvers": [
+      266,
+      93,
+      104,
+      104,
+      304
+    ],
+    "from": 1441
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1442.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1442.png"
+  }
+}

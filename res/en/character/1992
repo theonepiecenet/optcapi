@@ -1,1 +1,55 @@
-{"name":"Coby, High-Strung Vigilance","detail":{"captain":"Boosts ATK of Free Spirit and Fighter characters by 2.25x and reduce damage received by 10%","special":[{"description":"Deals 30x character's ATK in [QCK] damage to one enemy and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX], [QCK], [PSY] or [INT] orbs. If your crew has 3 or more [QCK] characters, boosts ATK of Free Spirit characters by 1.75x for 1 turn","cooldown":[16,10]},{"description":"Deals 50x character's ATK in [QCK] damage to one enemy and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX], [QCK], [PSY] or [INT] orbs. If your crew has 3 or more [QCK] characters, boosts ATK of Free Spirit characters by 2x for 1 turn","cooldown":[19,13]}],"specialName":"Determined Counterattack","sailor":"Boosts base ATK of Free Spirit characters by 50"},"unit":{"type":"QCK","class":["Free Spirit","Fighter"],"stars":4,"cost":15,"combo":6,"slots":3,"level":50,"exp":392109,"maxHP":980,"maxATK":674,"maxRCV":154},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1992.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1992.png"}}
+{
+  "name": "Coby, High-Strung Vigilance",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit and Fighter characters by 2.25x and reduce damage received by 10%",
+    "special": [
+      {
+        "description": "Deals 30x character's ATK in [QCK] damage to one enemy and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX], [QCK], [PSY] or [INT] orbs. If your crew has 3 or more [QCK] characters, boosts ATK of Free Spirit characters by 1.75x for 1 turn",
+        "cooldown": [
+          16,
+          10
+        ]
+      },
+      {
+        "description": "Deals 50x character's ATK in [QCK] damage to one enemy and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX], [QCK], [PSY] or [INT] orbs. If your crew has 3 or more [QCK] characters, boosts ATK of Free Spirit characters by 2x for 1 turn",
+        "cooldown": [
+          19,
+          13
+        ]
+      }
+    ],
+    "specialName": "Determined Counterattack",
+    "sailor": "Boosts base ATK of Free Spirit characters by 50"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 980,
+    "maxATK": 674,
+    "maxRCV": 154
+  },
+  "evolution": {
+    "evolution": 1993,
+    "evolvers": [
+      1180,
+      90,
+      96,
+      301,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1992.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1992.png"
+  }
+}

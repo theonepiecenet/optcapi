@@ -1,1 +1,33 @@
-{"name":"Armed Shooter Unit Black Pirates","detail":{"special":"Deals 5x character's ATK in character's type damage to all enemies","specialName":"Hyper Shot"},"unit":{"type":"INT","class":"Shooter","stars":3,"cost":12,"combo":5,"slots":1,"level":60,"exp":449516,"maxHP":500,"maxATK":400,"maxRCV":297},"evolution":{"evolution":707,"evolvers":[117,84,89,95,100]},"evolve":{"evolution":83,"evolvers":[104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0288.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0288.png"}}
+{
+  "name": "Armed Shooter Unit Black Pirates",
+  "detail": {
+    "special": "Deals 5x character's ATK in character's type damage to all enemies",
+    "specialName": "Hyper Shot"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Shooter",
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": 500,
+    "maxATK": 400,
+    "maxRCV": 297
+  },
+  "evolve": {
+    "evolution": 288,
+    "evolvers": [
+      115,
+      116,
+      93
+    ],
+    "from": 161
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0288.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0288.png"
+  }
+}

@@ -1,1 +1,41 @@
-{"name":"Cavendish","detail":{"captain":"Boosts ATK of [STR], [DEX] and [QCK] characters by 2.5x, but boosts his OWN attack by 4x","captainNotes":"Cavendish only boosts Friend or Sub Cavendish by 2.5x for a total of 10x boost with two Cavendish captains","special":"Removes all positive buffs on your team. Deals 15x the character's ATK as Typeless damage to all enemies. Boosts own ATK by 2.25x for 2 turns, amplifies the effect of own orb by 1.5x for 2 turns, locks own orb for 2 turns and changes own orb to [QCK].","specialNotes":"Boosted ATK and Orb Effectiveness only works for the character who uses their own Special.","specialName":"Slicing Winds of Rommel"},"unit":{"type":"QCK","class":["Slasher","Driven"],"stars":5,"cost":30,"combo":4,"slots":4,"level":70,"exp":1066998,"maxHP":1603,"maxATK":808,"maxRCV":287},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1122.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1122.png"}}
+{
+  "name": "Cavendish",
+  "detail": {
+    "captain": "Boosts ATK of [STR], [DEX] and [QCK] characters by 2.5x, but boosts his OWN attack by 4x",
+    "captainNotes": "Cavendish only boosts Friend or Sub Cavendish by 2.5x for a total of 10x boost with two Cavendish captains",
+    "special": "Removes all positive buffs on your team. Deals 15x the character's ATK as Typeless damage to all enemies. Boosts own ATK by 2.25x for 2 turns, amplifies the effect of own orb by 1.5x for 2 turns, locks own orb for 2 turns and changes own orb to [QCK].",
+    "specialNotes": "Boosted ATK and Orb Effectiveness only works for the character who uses their own Special.",
+    "specialName": "Slicing Winds of Rommel"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1603,
+    "maxATK": 808,
+    "maxRCV": 287
+  },
+  "evolution": {
+    "evolution": 1123,
+    "evolvers": [
+      118,
+      85,
+      266,
+      301,
+      267
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1122.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1122.png"
+  }
+}

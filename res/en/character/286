@@ -1,1 +1,33 @@
-{"name":"Armed Shooter Unit Green Pirates","detail":{"special":"Changes [DEX] orbs into [RCV] orbs","specialName":"[DEX] Slot Change [RCV]"},"unit":{"type":"DEX","class":"Shooter","stars":3,"cost":12,"combo":5,"slots":1,"level":60,"exp":449516,"maxHP":502,"maxATK":312,"maxRCV":314},"evolution":{"evolution":699,"evolvers":[116,95,300]},"evolve":{"evolution":81,"evolvers":[115,116,92]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0286.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0286.png"}}
+{
+  "name": "Armed Shooter Unit Green Pirates",
+  "detail": {
+    "special": "Changes [DEX] orbs into [RCV] orbs",
+    "specialName": "[DEX] Slot Change [RCV]"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Shooter",
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": 502,
+    "maxATK": 312,
+    "maxRCV": 314
+  },
+  "evolve": {
+    "evolution": 286,
+    "evolvers": [
+      115,
+      116,
+      91
+    ],
+    "from": 159
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0286.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0286.png"
+  }
+}

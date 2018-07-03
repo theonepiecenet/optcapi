@@ -1,1 +1,83 @@
-{"name":"몽키 D. 루피, 동료와 맹세 『３Ｄ２Ｙ』","detail":{"captain":"Boosts Chain Multiplier by 3.5x and boosts HP by 1.25x","specialName":"고무고무 거인의 JET 포탄","special":"적 1명에게 캐릭터의 공격력x20배의 [QCK] 데미지를 주고, 3턴 동안 PERFECT 타이밍이 매우 쉬워진다"}}
+{
+  "name": "몽키 D. 루피, 동료와 맹세 『３Ｄ２Ｙ』",
+  "detail": {
+    "captain": "Boosts Chain Multiplier by 3.5x and boosts HP by 1.25x",
+    "specialName": "고무고무 거인의 JET 포탄",
+    "special": "적 1명에게 캐릭터의 공격력x20배의 [QCK] 데미지를 주고, 3턴 동안 PERFECT 타이밍이 매우 쉬워진다",
+    "specialNotes": "Increases timing window to hit a PERFECT. (Animation remains the same)",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of all characters by 30",
+      "level2": "Completely resists Paralysis on this character"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 30"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Completely resists Paralysis on this character"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[STR] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [STR] characters by 1%",
+          "Level 2: Reduce damage taken from [STR] characters by 2%",
+          "Level 3: Reduce damage taken from [STR] characters by 3%",
+          "Level 4: Reduce damage taken from [STR] characters by 4%",
+          "Level 5: Reduce damage taken from [STR] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 20% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ??% at the start of the turn, heals for ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ??% at the start of the turn, heals for ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ??% at the start of the turn, heals for ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ??% at the start of the turn, heals for ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
+  }
+}

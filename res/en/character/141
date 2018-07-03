@@ -1,1 +1,32 @@
-{"name":"Cannoneer Cabin Boy","detail":{"special":"Reduces damage received by 20% for 1 turn","specialName":"Iron Shield"},"unit":{"type":"INT","class":"Shooter","stars":1,"cost":4,"combo":5,"slots":0,"level":20,"exp":17456,"maxHP":523,"maxATK":280,"maxRCV":3},"evolution":{"evolution":332,"evolvers":[116,330,302]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0141.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0141.png"}}
+{
+  "name": "Cannoneer Cabin Boy",
+  "detail": {
+    "special": "Reduces damage received by 20% for 1 turn",
+    "specialName": "Iron Shield"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Shooter",
+    "stars": 1,
+    "cost": 4,
+    "combo": 5,
+    "slots": 0,
+    "level": 20,
+    "exp": 17456,
+    "maxHP": 523,
+    "maxATK": 280,
+    "maxRCV": 3
+  },
+  "evolution": {
+    "evolution": 162,
+    "evolvers": [
+      115,
+      93
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0141.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0141.png"
+  }
+}

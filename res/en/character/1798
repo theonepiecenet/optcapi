@@ -1,1 +1,136 @@
-{"name":"Jesus Burgess, The Hidden Shadow within the Birdcage","detail":{"captain":"Boosts ATK of Fighter characters by 2.5x, boosts HP of Powerhouse and Driven characters by 1.25x","special":[{"description":"Cuts the current HP of each enemy by 10%","cooldown":[15,9]},{"description":"Cuts the current HP of each enemy by 20%","cooldown":[18,12]},{"description":"Cuts the current HP of each enemy by 20% and boosts ATK against delayed enemies by 1.5x for 2 turns.","cooldown":[21,15]}],"specialNotes":"#{stages}","sailor":{"base":"Boosts base ATK and HP of [STR], [DEX] and [QCK] characters by 75","level1":"Reduces Silence duration on this character by 3 turns"},"specialName":"Shockwave Elbow","limit":[{"description":"Boosts base ATK by 20"},{"description":"Boosts base HP by 30"},{"description":"Boosts base RCV by 10"},{"description":"Acquire Potential 1: Critical Hit"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base HP by 10"},{"description":"Boosts base ATK by 30"},{"description":"Boosts base HP by 30"},{"description":"Boosts base ATK by 50"},{"description":"Acquire Sailor Ability 1: Reduces Silence duration on this character by 3 turns"},{"description":"Boosts base HP by 60"},{"description":"Boosts base RCV by 30"},{"description":"Boosts base HP by 90"},{"description":"Acquire 1 additional Socket slot"},{"description":"Acquire Potential 2: Enrage"}],"potential":[{"Name":"Critical Hit","description":["Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage","Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage","Level 3: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage","Level 4: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage","Level 5: If you hit a perfect with this character, there is a 40% chance to deal 7% of this character's attack in extra damage"]},{"Name":"Enrage","description":["Level 1: Boosts base ATK by 30","Level 2: Boosts base ATK by 50","Level 3: Boosts base ATK by 70","Level 4: Boosts base ATK by 100","Level 5: Boosts base ATK by 150"]}],"potentialNotes":"#{enrage}"},"unit":{"type":"DEX","class":["Fighter","Driven"],"stars":5,"cost":30,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":2743,"maxATK":1364,"maxRCV":238},"evolve":{"evolution":711,"evolvers":[118,86,97,302,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1798.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1798.png"}}
+{
+  "name": "Jesus Burgess, The Hidden Shadow within the Birdcage",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 2.5x, boosts HP of Powerhouse and Driven characters by 1.25x",
+    "special": [
+      {
+        "description": "Cuts the current HP of each enemy by 10%",
+        "cooldown": [
+          15,
+          9
+        ]
+      },
+      {
+        "description": "Cuts the current HP of each enemy by 20%",
+        "cooldown": [
+          18,
+          12
+        ]
+      },
+      {
+        "description": "Cuts the current HP of each enemy by 20% and boosts ATK against delayed enemies by 1.5x for 2 turns.",
+        "cooldown": [
+          21,
+          15
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}",
+    "sailor": {
+      "base": "Boosts base ATK and HP of [STR], [DEX] and [QCK] characters by 75",
+      "level1": "Reduces Silence duration on this character by 3 turns"
+    },
+    "specialName": "Shockwave Elbow",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 3 turns"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 40% chance to deal 7% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 30",
+          "Level 2: Boosts base ATK by 50",
+          "Level 3: Boosts base ATK by 70",
+          "Level 4: Boosts base ATK by 100",
+          "Level 5: Boosts base ATK by 150"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2743,
+    "maxATK": 1364,
+    "maxRCV": 238
+  },
+  "evolve": {
+    "evolution": 1798,
+    "evolvers": [
+      83,
+      94,
+      97,
+      302,
+      102
+    ],
+    "from": 1797
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1798.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1798.png"
+  }
+}

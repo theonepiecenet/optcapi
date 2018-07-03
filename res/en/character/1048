@@ -1,1 +1,39 @@
-{"name":"Nico Olvia","detail":{"captain":"Boosts ATK and RCV of [PSY] characters by 1.2x","special":"Reduces Paralysis duration by 3 turns and Recovers 4x character's RCV in HP at the end of each turn for 3 turns","specialName":"Mother's Wish to Fight The World"},"unit":{"type":"PSY","class":["Shooter","Cerebral"],"stars":3,"cost":12,"combo":6,"slots":1,"level":50,"exp":392109,"maxHP":883,"maxATK":404,"maxRCV":274},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1048.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1048.png"}}
+{
+  "name": "Nico Olvia",
+  "detail": {
+    "captain": "Boosts ATK and RCV of [PSY] characters by 1.2x",
+    "special": "Reduces Paralysis duration by 3 turns and Recovers 4x character's RCV in HP at the end of each turn for 3 turns",
+    "specialName": "Mother's Wish to Fight The World"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Shooter",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 883,
+    "maxATK": 404,
+    "maxRCV": 274
+  },
+  "evolution": {
+    "evolution": 1049,
+    "evolvers": [
+      117,
+      81,
+      81,
+      87,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1048.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1048.png"
+  }
+}

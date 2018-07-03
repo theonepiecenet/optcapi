@@ -1,1 +1,40 @@
-{"name":"Marshall D. Teach, The Darkness that Challenges the Sun","detail":{"captain":"Boosts ATK of [INT] characters by 1.75x","special":"Adds 15x character's ATK as Additional Typeless Damage for 2 turns. If you are on a Training Map, Cuts the current HP of all enemies depending on your Treasure Map Level that will ignore damage negating abilities and barriers","specialNotes":"Level 1-20: 10% Health Cut<br>Level 21+: 25% Health Cut<br>#{ignoreBarrier}","specialName":"Sacred Flames: Unknown Fire"},"unit":{"type":"INT","class":["Driven","Fighter"],"stars":4,"cost":12,"combo":5,"slots":3,"level":50,"exp":261406,"maxHP":1326,"maxATK":731,"maxRCV":141},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1936.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1936.png"}}
+{
+  "name": "Marshall D. Teach, The Darkness that Challenges the Sun",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by 1.75x",
+    "special": "Adds 15x character's ATK as Additional Typeless Damage for 2 turns. If you are on a Training Map, Cuts the current HP of all enemies depending on your Treasure Map Level that will ignore damage negating abilities and barriers",
+    "specialNotes": "Level 1-20: 10% Health Cut<br>Level 21+: 25% Health Cut<br>#{ignoreBarrier}",
+    "specialName": "Sacred Flames: Unknown Fire"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Driven",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 12,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 261406,
+    "maxHP": 1326,
+    "maxATK": 731,
+    "maxRCV": 141
+  },
+  "evolution": {
+    "evolution": 1937,
+    "evolvers": [
+      117,
+      82,
+      93,
+      99,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1936.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1936.png"
+  }
+}

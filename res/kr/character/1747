@@ -1,1 +1,139 @@
-{"name":"보아 행콕, 밀짚모자 일당의 공범자","detail":{"captain":"앞 캐릭터의 공격 타이밍에 따라 이후의 사격형 캐릭터의 공격력이 최소 2.5배, 최대 3.25배가 되며, [RCV][연] 슬롯의 출현율이 대폭 감소하지만, 턴 종료 시 체력을 1000 회복한다","special":"무작위의 적에게 고정 데미지 20,000을 6회 주고, 공격을 1턴 지연시키며, 2턴 동안 사격 캐릭터의 모든 속성 슬롯을 [유리] 슬롯으로 취급한다.","specialName":"총 키스","limit":[{"description":"회복력 상승 : 10"},{"description":"체력 상승 : 30"},{"description":"공격력 상승 : 20"},{"description":"잠재능력 개방 1: Pinch Healing"},{"description":"회복력 상승 : 10"},{"description":"체력 상승 : 40"},{"description":"공격력 상승 : 20"},{"description":"회복력 상승 : 10"},{"description":"체력 상승 : 50"},{"description":"공격력 상승 : 20"},{"description":"선원효과 개방 1: 선장이 자유 캐릭터라면, 이 유닛의 모든 슬롯이 [유리] 슬롯으로 취급된다."},{"description":"회복력 상승 : 15"},{"description":"체력 상승 : 50"},{"description":"공격력 상승 : 25"},{"description":"잠재능력 개방 2: Barrier Penetration"},{"description":"회복력 상승 : 15"},{"description":"체력 상승 : 50"},{"description":"공격력 상승 : 25"},{"description":"회복력 상승 : 15"},{"description":"체력 상승 : 60"},{"description":"공격력 상승 : 25"},{"description":"필살기 턴 단축 : 1턴"},{"description":"회복력 상승 : 15"},{"description":"체력 상승 : 70"},{"description":"공격력 상승 : 25"},{"description":"회복력 상승 : 30"},{"description":"체력 상승 : 80"},{"description":"공격력 상승 : 30"},{"description":"체력 상승 : 90"},{"description":"잠재능력 개방 3: 회복 무효 상태 회복"}],"potential":[{"Name":"Pinch Healing","description":["Level 1: 턴 시작시 체력이 10% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다.","Level 2: 턴 시작시 체력이 15% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다.","Level 3: 턴 시작시 체력이 20% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다.","Level 4: 턴 시작시 체력이 30% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다.","Level 5: 턴 시작시 체력이 50% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다."]},{"Name":"Barrier Penetration","description":["Level 1: 남은 체력이 99%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.","Level 2: 남은 체력이 99%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.","Level 3: 남은 체력이 99%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.","Level 4: 남은 체력이 80%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.","Level 5: 남은 체력이 50%이상이면, 이 캐릭터의 공격은 베리어를 무시한다."]},{"Name":"Reduce No Healing duration","description":["Level 1: 회복 무효 상태 회복 : 1 턴","Level 2: 회복 무효 상태 회복 : 2 턴","Level 3: 회복 무효 상태 회복 : 3 턴","Level 4: 회복 무효 상태 회복 : 4 턴","Level 5: 회복 무효 상태 회복 : 5 턴"]}]}}
+{
+  "name": "보아 행콕, 밀짚모자 일당의 공범자",
+  "detail": {
+    "captain": "앞 캐릭터의 공격 타이밍에 따라 이후의 사격형 캐릭터의 공격력이 최소 2.5배, 최대 3.25배가 되며, [RCV][TND] 슬롯의 출현율이 대폭 감소하지만, 턴 종료 시 체력을 1,000 회복한다",
+    "special": "무작위의 적에게 고정 데미지 20,000을 6회 주고, 공격을 1턴 지연시키며, 2턴 동안 사격형 캐릭터의 모든 속성 슬롯을 [유리] 슬롯으로 취급한다.",
+    "specialName": "총 키스",
+    "limit": [
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "잠재능력 개방 1: Pinch Healing"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "선원효과 개방 1: 선장이 자유 캐릭터라면, 이 유닛의 모든 슬롯이 [유리] 슬롯으로 취급된다."
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "공격력 상승 : 25"
+      },
+      {
+        "description": "잠재능력 개방 2: Barrier Penetration"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "공격력 상승 : 25"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "공격력 상승 : 25"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "체력 상승 : 70"
+      },
+      {
+        "description": "공격력 상승 : 25"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 80"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 90"
+      },
+      {
+        "description": "잠재능력 개방 3: 회복 무효 상태 회복"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: 턴 시작시 체력이 10% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다.",
+          "Level 2: 턴 시작시 체력이 15% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다.",
+          "Level 3: 턴 시작시 체력이 20% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다.",
+          "Level 4: 턴 시작시 체력이 30% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다.",
+          "Level 5: 턴 시작시 체력이 50% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다."
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: 남은 체력이 99%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 2: 남은 체력이 99%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 3: 남은 체력이 99%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 4: 남은 체력이 80%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 5: 남은 체력이 50%이상이면, 이 캐릭터의 공격은 베리어를 무시한다."
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 2 턴",
+          "Level 3: 회복 무효 상태 회복 : 3 턴",
+          "Level 4: 회복 무효 상태 회복 : 4 턴",
+          "Level 5: 회복 무효 상태 회복 : 5 턴"
+        ]
+      }
+    ],
+    "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2.5x, a Good hit by 2.75x, a Great hit by 3x and a PERFECT hit by 3.25x. This bonus is applied only to Shooter characters.",
+    "specialNotes": "#{beneficial}",
+    "sailor": {
+      "base": "None",
+      "level1": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this unit if your Captain is a Free Spirit character"
+    },
+    "sailorNotes": "#{beneficial}"
+  }
+}

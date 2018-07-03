@@ -1,1 +1,84 @@
-{"name":"몽키 D. 루피 기어 2","detail":{"captain":"[STR] 캐릭터의 공격력이 2배가 되고, 다른 속성 캐릭터의 공격력이 1.5배가 된다","special":"적 1명에게 캐릭터 공격x25배의 [STR] 데미지","specialName":"고무고무 트윈 JET총","limit":[{"description":"필살기 턴 단축 : 1턴"},{"description":"공격력 상승 : 30"},{"description":"회복력 상승 : 20"},{"description":"잠재능력 습득 1: 격분"},{"description":"체력강화 : 30"},{"description":"회복력 상승 : 30"},{"description":"필살기 턴 단축 : 1턴"},{"description":"체력 상승 : 40"},{"description":"체력 상승 : 50"},{"description":"선원효과 추가 1: 자신이 마지막으로 공격할 때 자신의 기본 공격력이 100증가한다."},{"description":"체력 상승 : 50"},{"description":"필살기 턴 단축 : 1턴"},{"description":"필살기 턴 단축 : 1턴"},{"description":"선원효과 추가 2: [QCK] 슬롯도 [유리] 슬롯으로 만든다."},{"description":"잠재능력 습득 2: 회복 무효 상태 회복"}],"potential":[{"Name":"격분","description":["Level 1: 공격력 상승 : 20","Level 2: 공격력 상승 : 30","Level 3: 공격력 상승 : 40","Level 4: 공격력 상승 : 50","Level 5: 공격력 상승 : 100"]},{"Name":"회복 무효 상태 회복","description":["Level 1: 회복 무효 상태 회복 : 1 턴","Level 2: 회복 무효 상태 회복 : 1 턴","Level 3: 회복 무효 상태 회복 : 2 턴","Level 4: 회복 무효 상태 회복 : 3 턴","Level 5: 회복 무효 상태 회복 : 4 턴"]}],"potentialNotes":"격분은 선원이 이전 턴에 적으로부터 공격을 받을 경우 활성화 된다."}}
+{
+  "name": "몽키 D. 루피 기어 2",
+  "detail": {
+    "captain": "[STR] 캐릭터의 공격력이 2배가 되고, 다른 속성 캐릭터의 공격력이 1.5배가 된다",
+    "special": "적 1명에게 캐릭터 공격x25배의 [STR] 데미지",
+    "specialName": "고무고무 트윈 JET총",
+    "limit": [
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "잠재능력 습득 1: 격분"
+      },
+      {
+        "description": "체력강화 : 30"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "선원효과 추가 1: 자신이 마지막으로 공격할 때 자신의 기본 공격력이 100증가한다."
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "선원효과 추가 2: [QCK] 슬롯도 [유리] 슬롯으로 만든다."
+      },
+      {
+        "description": "잠재능력 습득 2: 회복 무효 상태 회복"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "격분",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 30",
+          "Level 3: 공격력 상승 : 40",
+          "Level 4: 공격력 상승 : 50",
+          "Level 5: 공격력 상승 : 100"
+        ]
+      },
+      {
+        "Name": "회복 무효 상태 회복",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 1 턴",
+          "Level 3: 회복 무효 상태 회복 : 2 턴",
+          "Level 4: 회복 무효 상태 회복 : 3 턴",
+          "Level 5: 회복 무효 상태 회복 : 4 턴"
+        ]
+      }
+    ],
+    "potentialNotes": "격분은 선원이 이전 턴에 적으로부터 공격을 받을 경우 활성화 된다.",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts own base ATK by 100 if this character is the last in the chain to attack",
+      "level2": "Makes [QCK] orbs \"beneficial\" for this unit"
+    },
+    "sailorNotes": "#{beneficial}"
+  }
+}

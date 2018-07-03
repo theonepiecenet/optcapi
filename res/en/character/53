@@ -1,1 +1,32 @@
-{"name":"Gin","detail":{"captain":"Reduces damage received from [QCK] enemies by 30%"},"unit":{"type":"QCK","class":"Shooter","stars":2,"cost":8,"combo":5,"slots":0,"level":35,"exp":90778,"maxHP":618,"maxATK":363,"maxRCV":98},"evolution":{"evolution":152,"evolvers":[89]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0053.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0053.png"}}
+{
+  "name": "Gin",
+  "detail": {
+    "captain": "Reduces damage received from [QCK] enemies by 30%"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": "Shooter",
+    "stars": 2,
+    "cost": 8,
+    "combo": 5,
+    "slots": 0,
+    "level": 35,
+    "exp": 90778,
+    "maxHP": 618,
+    "maxATK": 363,
+    "maxRCV": 98
+  },
+  "evolution": {
+    "evolution": 54,
+    "evolvers": [
+      116,
+      79,
+      90
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0053.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0053.png"
+  }
+}

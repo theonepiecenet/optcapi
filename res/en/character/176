@@ -1,1 +1,25 @@
-{"name":"Sword Fishman Arlong crewmember","detail":{"special":"Deals 10x character's ATK in character's type damage to one enemy","specialName":"Hyper Slash"},"unit":{"type":"DEX","class":"Slasher","stars":2,"cost":7,"combo":5,"slots":0,"level":30,"exp":57558,"maxHP":585,"maxATK":245,"maxRCV":114},"evolution":{"evolution":412,"evolvers":[118,84,94,300,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0176.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0176.png"}}
+{
+  "name": "Sword Fishman Arlong crewmember",
+  "detail": {
+    "special": "Deals 10x character's ATK in character's type damage to one enemy",
+    "specialName": "Hyper Slash"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Slasher",
+    "stars": 2,
+    "cost": 7,
+    "combo": 5,
+    "slots": 0,
+    "level": 30,
+    "exp": 57558,
+    "maxHP": 585,
+    "maxATK": 245,
+    "maxRCV": 114
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0176.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0176.png"
+  }
+}

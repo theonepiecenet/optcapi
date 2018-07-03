@@ -1,1 +1,40 @@
-{"name":"Van Augur","detail":{"captain":"Boosts ATK of Shooter characters by 2x","special":"Changes orbs in the top row into Matching orbs. For Shooter characters, amplifies the effect of orbs by 1.75x for 1 turn","sailor":"Reduces Blindness duration by 5 turns","specialName":"Other Side of Fate"},"unit":{"type":"QCK","class":["Shooter","Cerebral"],"stars":4,"cost":15,"combo":4,"slots":3,"level":50,"exp":392109,"maxHP":903,"maxATK":620,"maxRCV":183},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1271.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1271.png"}}
+{
+  "name": "Van Augur",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 2x",
+    "special": "Changes orbs in the top row into Matching orbs. For Shooter characters, amplifies the effect of orbs by 1.75x for 1 turn",
+    "sailor": "Reduces Blindness duration by 5 turns",
+    "specialName": "Other Side of Fate"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 903,
+    "maxATK": 620,
+    "maxRCV": 183
+  },
+  "evolution": {
+    "evolution": 1272,
+    "evolvers": [
+      85,
+      94,
+      96,
+      301,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1271.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1271.png"
+  }
+}

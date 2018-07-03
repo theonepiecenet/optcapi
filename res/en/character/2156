@@ -1,1 +1,38 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2156.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2156.png"}}
+{
+  "name": "Pekoms, Returning to his Home Country",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 1.75x, protects from defeat as long as HP is above ?%",
+    "special": "Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers and removes enemies Increased Defense buff",
+    "specialName": "Flicker Power Knuckle",
+    "specialNotes": "#{ignoreBarrier}",
+    "sailor": {
+      "base": "Reduces Blindness duration by 5 turns",
+      "level1": "Makes [INT] orbs \"beneficial\" for Fighter characters"
+    }
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2560,
+    "maxATK": 1417,
+    "maxRCV": 301
+  },
+  "evolve": {
+    "evolution": 2156,
+    "evolvers": [],
+    "from": 2155
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2156.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2156.png"
+  }
+}

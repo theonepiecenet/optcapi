@@ -1,1 +1,169 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2159.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2159.png"}}
+{
+  "name": "Magellan, Hell's Judgement",
+  "detail": {
+    "captain": "If there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, Boosts ATK of all characters by 2.25x and their HP by 1.5x and cuts the current HP of each enemy by 15% at the end of each turn. If 300,000 damage was dealt to enemies in the last turn, poisons all enemies.",
+    "captainNotes": "#{poison : 50x}<br>To poison all enemies, the damage dealt with normal attacks must exceed 300,000 and the poison does not bypass immunity.",
+    "special": "Inflicts Toxic to all enemies, recovers 13x character's RCV in HP at the end of each turn for 3 turns. If enemies are inflicted with Toxic or Poison upon activation of the special, delays all enemies for 1 turn.",
+    "specialNotes": "#{toxic : 50x : 2x : 3,000,000}<br>Delay effect will not trigger from the Toxic in Magellan's special, the enemy must already be poisoned.<br>If enemies are both Poisoned and inflicted with Toxic, only the Toxic damage will damage the enemy at the end of the turn.",
+    "specialName": "Venom Demon: Hell's Judgement",
+    "sailor": {
+      "base": "None",
+      "level1": "Cannot be blown away"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Cannot be blown away"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 45"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Potential 3: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 30% at the start of the turn, heals for 3x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's attack will ignore barriers if HP is above 99%",
+          "Level 2: This character's attack will ignore barriers if HP is above 90%",
+          "Level 3: This character's attack will ignore barriers if HP is above 70%",
+          "Level 4: This character's attack will ignore barriers if HP is above 50%",
+          "Level 5: This character's attack will ignore barriers"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Striker",
+      "Shooter"
+    ],
+    "stars": "6+",
+    "cost": 65,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 3842,
+    "maxATK": 1589,
+    "maxRCV": 328
+  },
+  "evolve": {
+    "evolution": 2159,
+    "evolvers": [
+      "skullDEX",
+      118,
+      86,
+      302,
+      267
+    ],
+    "from": 1698
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2159.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2159.png"
+  }
+}

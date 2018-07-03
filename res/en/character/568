@@ -1,1 +1,39 @@
-{"name":"Foxy","detail":{"special":"Delays all enemies for 2 turns, reduces the defense of all enemies by 50% for 2 turns, switches orbs between slots twice","specialName":"Slow Slow Beam","captain":"Boosts ATK, HP and RCV of all characters by 1.25x"},"unit":{"type":"INT","class":["Fighter","Free Spirit"],"stars":3,"cost":10,"combo":5,"slots":2,"level":35,"exp":136167,"maxHP":788,"maxATK":433,"maxRCV":175},"evolution":{"evolution":1422,"evolvers":[118,94,99,304,267]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0568.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0568.png"}}
+{
+  "name": "Foxy",
+  "detail": {
+    "special": "Delays all enemies for 2 turns, reduces the defense of all enemies by 50% for 2 turns, switches orbs between slots twice",
+    "specialName": "Slow Slow Beam",
+    "captain": "Boosts ATK, HP and RCV of all characters by 1.25x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 3,
+    "cost": 10,
+    "combo": 5,
+    "slots": 2,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 788,
+    "maxATK": 433,
+    "maxRCV": 175
+  },
+  "evolution": {
+    "evolution": 569,
+    "evolvers": [
+      117,
+      83,
+      88,
+      93,
+      99
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0568.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0568.png"
+  }
+}

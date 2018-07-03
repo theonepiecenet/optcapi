@@ -1,1 +1,38 @@
-{"name":"Nami Tornado Tempo","detail":{"special":"Deals 15x character's ATK in [INT] damage to one enemy","specialName":"Tornado Tempo","captain":"Boosts ATK of [INT] characters by 1.5x"},"unit":{"type":"INT","class":["Striker","Cerebral"],"stars":4,"cost":7,"combo":5,"slots":2,"level":35,"exp":136167,"maxHP":783,"maxATK":453,"maxRCV":160},"evolution":{"evolution":12,"evolvers":[117,88,99,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0010.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0010.png"}}
+{
+  "name": "Nami Tornado Tempo",
+  "detail": {
+    "special": "Deals 15x character's ATK in [INT] damage to one enemy",
+    "specialName": "Tornado Tempo",
+    "captain": "Boosts ATK of [INT] characters by 1.5x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 7,
+    "combo": 5,
+    "slots": 2,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 783,
+    "maxATK": 453,
+    "maxRCV": 160
+  },
+  "evolution": {
+    "evolution": 12,
+    "evolvers": [
+      117,
+      88,
+      99,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0010.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0010.png"
+  }
+}

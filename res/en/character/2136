@@ -1,1 +1,40 @@
-{"name":"Mr. 0","detail":{"captain":"Not Translated","special":"Deals 30x character's ATK in [INT] damage to one enemy, boosts own ATK by 2x and swaps this unit with your captain for 1 turn","specialNotes":"This is the same type of ability as raid boss Shiki's swap. You cannot use it if another effect swaps your captain. (Such as if Shiki swaps first)","specialName":"Scorpion Tail"},"unit":{"type":"INT","class":["Striker","Cerebral"],"stars":4,"cost":30,"combo":null,"slots":1,"level":50,"exp":130703,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2136.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2136.png"}}
+{
+  "name": "Sir Crocodile, Escaped Prisoner Bringing Drought",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 1.5x. If this character becomes your captain in the middle of an island, boosts ATK of all characters by 2x instead",
+    "special": "Deals 30x character's ATK in [INT] damage to one enemy, boosts own ATK by 2x and swaps this unit with your captain for 1 turn",
+    "specialNotes": "This is the same type of ability as raid boss Shiki's swap. You cannot use it if another effect swaps your captain. (Such as if Shiki swaps first)",
+    "specialName": "Scorpion Tail"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": 1222,
+    "maxATK": 398,
+    "maxRCV": 82
+  },
+  "evolution": {
+    "evolution": 2137,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2136.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2136.png"
+  }
+}

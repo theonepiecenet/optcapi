@@ -1,1 +1,82 @@
-{"name":"다가마, 프로던스 왕국 군사","detail":{"captain":"전투 시작시 필살기를 2턴 단축하고, 모든 캐릭터의 공격력을 2배로 상승시킨다.","special":"저림 · 선장 효과 무효 상태를 5 차례 회복하고 적 1 기의 HP를 10 % 감소시킨다.","specialName":"군사의 참격"}}
+{
+  "name": "다가마, 프로덴스 왕국의 군사",
+  "detail": {
+    "captain": "전투 시작시 필살기를 2턴 단축하고, 모든 캐릭터의 공격력을 2배로 상승시킨다.",
+    "special": "저림 · 선장 효과 무효 상태를 5 차례 회복하고 적 1 기의 HP를 10 % 감소시킨다.",
+    "specialName": "군사의 참격",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of all characters by 25",
+      "level2": "Reduces Silence duration against this unit by 2 turns"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 25"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Reduces Silence duration against this unit by 2 turns"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ]
+  }
+}

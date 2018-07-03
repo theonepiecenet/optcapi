@@ -1,1 +1,40 @@
-{"name":"Señor Pink, Pirates of the \"North Blue\"","detail":{"captain":"Boosts ATK of Free Spirit characters by 1.5x. Heals for .75x his RCV at the end of the turn each time you hit a PERFECT.","special":"Randomizes all orbs. Boosts the Color Affinity of Free Spirit and Shooter characters by 1.5x for 1 turn","specialNotes":"#{colorAffinity : 1.5}","specialName":"Blood and Gunpowder of the Underground Family"},"unit":{"type":"INT","class":["Shooter","Free Spirit"],"stars":4,"cost":20,"combo":6,"slots":3,"level":70,"exp":711332,"maxHP":1526,"maxATK":503,"maxRCV":174},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1261.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1261.png"}}
+{
+  "name": "Señor Pink, Pirates of the \"North Blue\"",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 1.5x. Heals for .75x his RCV at the end of the turn each time you hit a PERFECT.",
+    "special": "Randomizes all orbs. Boosts the Color Affinity of Free Spirit and Shooter characters by 1.5x for 1 turn",
+    "specialNotes": "#{colorAffinity : 1.5}",
+    "specialName": "Blood and Gunpowder of the Underground Family"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 6,
+    "slots": 3,
+    "level": 70,
+    "exp": 711332,
+    "maxHP": 1526,
+    "maxATK": 503,
+    "maxRCV": 174
+  },
+  "evolution": {
+    "evolution": 1262,
+    "evolvers": [
+      266,
+      88,
+      88,
+      88,
+      88
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1261.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1261.png"
+  }
+}

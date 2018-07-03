@@ -1,1 +1,42 @@
-{"name":"Neptune, Ryugu Kingdom King","detail":{"captain":"Boosts ATK of all characters by 2.25x and EXP gained by 1.5x","captainNotes":"EXP boost does not take effect if he becomes your captain in the middle of the adventure.","special":"Locks all orbs for 1 turn. If the HP of the enemy with the highest Maximum HP is above 50%, cuts the current HP of all enemies by 20%, otherwise, deals 140x character's ATK in typeless damage to all enemies.","sailor":"Makes [INT], [PSY] and [TND] orbs \"beneficial\" for this unit","sailorNotes":"#{beneficial}","specialName":"Merman Gujutsu - Ultramarine"},"unit":{"type":"STR","class":["Powerhouse","Free Spirit"],"stars":5,"cost":30,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":2604,"maxATK":1450,"maxRCV":229},"evolve":{"evolution":590,"evolvers":[116,87,266,1180,303]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1475.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1475.png"}}
+{
+  "name": "Neptune, Ryugu Kingdom King",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.25x and EXP gained by 1.5x",
+    "captainNotes": "EXP boost does not take effect if he becomes your captain in the middle of the adventure.",
+    "special": "Locks all orbs for 1 turn. If the HP of the enemy with the highest Maximum HP is above 50%, cuts the current HP of all enemies by 20%, otherwise, deals 140x character's ATK in typeless damage to all enemies.",
+    "sailor": "Makes [INT], [PSY] and [TND] orbs \"beneficial\" for this unit",
+    "sailorNotes": "#{beneficial}",
+    "specialName": "Merman Gujutsu - Ultramarine"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Powerhouse",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2604,
+    "maxATK": 1450,
+    "maxRCV": 229
+  },
+  "evolve": {
+    "evolution": 1475,
+    "evolvers": [
+      118,
+      84,
+      95,
+      1180,
+      100
+    ],
+    "from": 1474
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1475.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1475.png"
+  }
+}

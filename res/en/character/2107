@@ -1,1 +1,112 @@
-{"name":"The Thief Carina","detail":{"captain":"Reduces cooldown of all specials by 1 turn at the start of the fight and boosts ATK of [PSY] characters by 2.5x and their RCV by 1.2x","special":"Reduces enemy's Threshold Damage Reduction, Percent Damage Reduction, and Resilience and End of Turn Damage/Percent Cut Buffs duration by 4 turns, changes adjacent orbs and [BLOCK] orbs into Matching orbs, randomizes non-matching orbs and reduces damage received by 70% for 2 turns.","specialName":"The Great Final Act of One's Victory","sailor":{"base":"If this character has a [PSY] orb and you hit a GOOD or GREAT with her, keep her [PSY] orb for the next turn","level1":"If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, Powerhouse and Driven character on your crew, Changes all orbs into Matching orbs at the start of the fight"},"limit":[{"description":"Boosts base HP by 30"},{"description":"Boosts base HP by 30"},{"description":"Boosts base HP by 30"},{"description":"Acquire Potential 1: Slot Bind Self-reduction"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base RCV by 30"},{"description":"Boosts base HP by 45"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base RCV by 30"},{"description":"Acquire Sailor Ability 1: If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, Powerhouse and Driven character on your crew, Changes all orbs into Matching orbs at the start of the fight"},{"description":"Boosts base HP by 60"},{"description":"Boosts base ATK by 25"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base ATK by 40"},{"description":"Acquire Potential 2: [INT] Damage Reduction"}],"potential":[{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by 1 turn on this character","Level 2: Reduces Slot Bind duration by 2 turns on this character","Level 3: Reduces Slot Bind duration by 3 turns on this character","Level 4: Reduces Slot Bind duration by 4 turns on this character","Level 5: Reduces Slot Bind duration by 5 turns on this character"]},{"Name":"[INT] Damage Reduction","description":["Level 1: Reduce damage taken from [INT] characters by 2%","Level 2: Reduce damage taken from [INT] characters by 3%","Level 3: Reduce damage taken from [INT] characters by 4%","Level 4: Reduce damage taken from [INT] characters by 5%","Level 5: Reduce damage taken from [INT] characters by 7%"]}]},"unit":{"type":"PSY","class":["Cerebral","Slasher"],"stars":5,"cost":30,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":2317,"maxATK":1298,"maxRCV":431},"evolve":{"evolution":845,"evolvers":[115,116,117,118,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2107.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2107.png"}}
+{
+  "name": "The Thief Carina",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight and boosts ATK of [PSY] characters by 2.5x and their RCV by 1.2x",
+    "special": "Reduces enemy's Threshold Damage Reduction, Percent Damage Reduction, and Resilience and End of Turn Damage/Percent Cut Buffs duration by 4 turns, changes adjacent orbs and [BLOCK] orbs into Matching orbs, randomizes non-matching orbs and reduces damage received by 70% for 2 turns.",
+    "specialName": "The Great Final Act of One's Victory",
+    "sailor": {
+      "base": "If this character has a [PSY] orb and you hit a GOOD or GREAT with her, keep her [PSY] orb for the next turn",
+      "level1": "If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, Powerhouse and Driven character on your crew, Changes all orbs into Matching orbs at the start of the fight"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, Powerhouse and Driven character on your crew, Changes all orbs into Matching orbs at the start of the fight"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Potential 2: [INT] Damage Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      },
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 2%",
+          "Level 2: Reduce damage taken from [INT] characters by 3%",
+          "Level 3: Reduce damage taken from [INT] characters by 4%",
+          "Level 4: Reduce damage taken from [INT] characters by 5%",
+          "Level 5: Reduce damage taken from [INT] characters by 7%"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Cerebral",
+      "Slasher"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2317,
+    "maxATK": 1298,
+    "maxRCV": 431
+  },
+  "evolve": {
+    "evolution": 2107,
+    "evolvers": [
+      83,
+      83,
+      98,
+      303,
+      103
+    ],
+    "from": 2106
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2107.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2107.png"
+  }
+}

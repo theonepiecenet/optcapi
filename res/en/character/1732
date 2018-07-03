@@ -1,1 +1,40 @@
-{"name":"Nekomamushi, Guardian of the Whale Forest","detail":{"captain":"Boosts ATK of [STR] characters by 2x, boosts HP of Striker and Powerhouse characters by 1.1x","special":"Deals 50x character's ATK in fixed typeless damage to one enemy that will ignore damage negating abilities and barriers. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, boosts ATK of Striker and Powerhouse characters by 1.75x for 1 turn and changes all orbs, including [BLOCK] orbs, into Matching orbs","specialNotes":"#{ignoreBarrier}<br>#{fixed}","specialName":"Battle Guardian"},"unit":{"type":"STR","class":["Striker","Powerhouse"],"stars":4,"cost":25,"combo":6,"slots":3,"level":70,"exp":1066998,"maxHP":1285,"maxATK":747,"maxRCV":205},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1732.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1732.png"}}
+{
+  "name": "Nekomamushi, Guardian of the Whale Forest",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by 2x, boosts HP of Striker and Powerhouse characters by 1.1x",
+    "special": "Deals 50x character's ATK in fixed typeless damage to one enemy that will ignore damage negating abilities and barriers. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, boosts ATK of Striker and Powerhouse characters by 1.75x for 1 turn and changes all orbs, including [BLOCK] orbs, into Matching orbs",
+    "specialNotes": "#{ignoreBarrier}<br>#{fixed}",
+    "specialName": "Battle Guardian"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 6,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1285,
+    "maxATK": 747,
+    "maxRCV": 205
+  },
+  "evolution": {
+    "evolution": 1733,
+    "evolvers": [
+      118,
+      95,
+      1180,
+      300,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1732.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1732.png"
+  }
+}

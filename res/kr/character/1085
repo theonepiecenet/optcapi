@@ -1,1 +1,140 @@
-{"name":"후지토라 해군 제독","detail":{"captain":"Boosts HP of Driven characters by 1.5x and boosts ATK by 3x if they have a matching orb, by 1.5x otherwise. Makes [TND] and [RCV] orbs \"beneficial\" to Driven characters","special":"Cuts the current HP of each enemy by 20%. At the end of the 턴, cuts the current HP of each enemy by 20% for 3 턴","specialName":"Gravito: Heavens Fall","limit":[{"description":"체력 상승 : 25"},{"description":"체력 상승 : 25"},{"description":"회복력 상승 : 10"},{"description":"잠재능력 습득 1: Enrage"},{"description":"공격력 상승 : 20"},{"description":"회복력 상승 : 10"},{"description":"공격력 상승 : 20"},{"description":"체력 상승 : 30"},{"description":"공격력 상승 : 20"},{"description":"회복력 상승 : 15"},{"description":"선원효과 추가 1: Cannot be Blown Away"},{"description":"회복력 상승 : 15"},{"description":"회복력 상승 : 15"},{"description":"회복력 상승 : 15"},{"description":"잠재능력 습득 2: Critical Hit"},{"description":"공격력 상승 : 20"},{"description":"공격력 상승 : 20"},{"description":"체력 상승 : 40"},{"description":"체력 상승 : 50"},{"description":"체력 상승 : 60"},{"description":"선원효과 추가 2: Boosts ATK, HP and RCV of Powerhouse and Driven characters by 50"},{"description":"회복력 상승 : 15"},{"description":"공격력 상승 : 25"},{"description":"체력 상승 : 60"},{"description":"Reduce base Special Cooldown by 1"},{"description":"공격력 상승 : 50"},{"description":"체력 상승 : 70"},{"description":"체력 상승 : 80"},{"description":"체력 상승 : 100"},{"description":"잠재능력 습득 3: Slot Bind Self-reduction"}],"potential":[{"Name":"Enrage","description":["Level 1: 공격력 상승 : 20","Level 2: 공격력 상승 : 40","Level 3: 공격력 상승 : 60","Level 4: 공격력 상승 : 80","Level 5: 공격력 상승 : 100"]},{"Name":"Critical Hit","description":["Level 1: PERFECT 적중 시, 20% 확률로 공격력의 5% 추가 데미지를 입힌다.","Level 2: If you hit a PERFECT with this character, there is a 30% chance to deal 5% of this character's attack in extra damage","Level 3: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage","Level 4: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage","Level 5: If you hit a PERFECT with this character, there is a 50% chance to deal 10% of this character's attack in extra damage"]},{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by 3 턴 on this character","Level 2: 캐릭터의 봉인상태를 5턴 감소시킨다.","Level 3: Reduces Slot Bind duration by 7 턴 on this character","Level 4: 캐릭터의 봉인상태를 10턴 감소시킨다.","Level 5: Reduces Slot Bind completely on this character"]}]}}
+{
+  "name": "잇쇼",
+  "detail": {
+    "captain": "슬롯 일치 시 야심형 캐릭터의 공격력을 3배, 평상시 1.5배, 체력을 1.5배로 만들고, 야심형은 [RCV][연] 슬롯도 [유리] 슬롯으로 취급한다",
+    "special": "적 전체의 HP를 20% 줄이고, 3턴 동안 턴 종료 시 적 전체의 HP를 20% 줄인다",
+    "specialName": "중력도 「천락」",
+    "limit": [
+      {
+        "description": "체력 상승 : 25"
+      },
+      {
+        "description": "체력 상승 : 25"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "잠재능력 습득 1: Enrage"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "선원효과 추가 1: Cannot be Blown Away"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "잠재능력 습득 2: Critical Hit"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "선원효과 추가 2: Boosts ATK, HP and RCV of Powerhouse and Driven characters by 50"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "공격력 상승 : 25"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "체력 상승 : 70"
+      },
+      {
+        "description": "체력 상승 : 80"
+      },
+      {
+        "description": "체력 상승 : 100"
+      },
+      {
+        "description": "잠재능력 습득 3: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 40",
+          "Level 3: 공격력 상승 : 60",
+          "Level 4: 공격력 상승 : 80",
+          "Level 5: 공격력 상승 : 100"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: PERFECT 적중 시, 20% 확률로 공격력의 5% 추가 데미지를 입힌다.",
+          "Level 2: If you hit a PERFECT with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 50% chance to deal 10% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 3 턴 on this character",
+          "Level 2: 캐릭터의 봉인상태를 5턴 감소시킨다.",
+          "Level 3: Reduces Slot Bind duration by 7 턴 on this character",
+          "Level 4: 캐릭터의 봉인상태를 10턴 감소시킨다.",
+          "Level 5: Reduces Slot Bind completely on this character"
+        ]
+      }
+    ],
+    "captainNotes": "#{beneficial}",
+    "specialNotes": "Does not stack with other 'end of turn damage' abilities",
+    "sailor": {
+      "base": "None",
+      "level1": "Cannot be Blown Away",
+      "level2": "Boosts ATK, HP and RCV of Powerhouse and Driven characters by 50"
+    },
+    "potentialNotes": "#{enrage}"
+  }
+}

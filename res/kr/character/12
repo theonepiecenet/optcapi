@@ -1,1 +1,83 @@
-{"name":"나미 썬더볼트 템포","detail":{"special":"적 전체에게 캐릭터 공격력 15배의 INT 데미지","specialName":"썬더볼트 템포","captain":"INT 캐릭터의 체력과 공격이 1.5배가 된다"}}
+{
+  "name": "나미 썬더볼트 템포",
+  "detail": {
+    "special": "적 전체에게 캐릭터 공격력 15배의 INT 데미지",
+    "specialName": "썬더볼트 템포",
+    "captain": "INT 캐릭터의 체력과 공격이 1.5배가 된다",
+    "sailor": {
+      "base": "None",
+      "level1": "Makes [RCV] orbs \"beneficial\" for [INT] characters",
+      "level2": "Boosts base ATK, HP and RCV of [INT] characters by 50"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs \"beneficial\" for [INT] characters"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts base ATK, HP and RCV of [INT] characters by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 7 turns on this character"
+        ]
+      }
+    ]
+  }
+}

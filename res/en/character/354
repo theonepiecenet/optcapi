@@ -1,1 +1,37 @@
-{"name":"Ain","detail":{"special":"Reduces Bind and Despair duration by 3 turns","specialName":"Two-Sword Dance"},"unit":{"type":"QCK","class":["Shooter","Cerebral"],"stars":3,"cost":8,"combo":6,"slots":1,"level":35,"exp":136167,"maxHP":688,"maxATK":421,"maxRCV":195},"evolution":{"evolution":878,"evolvers":[86,266,91,97,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0354.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0354.png"}}
+{
+  "name": "Ain",
+  "detail": {
+    "special": "Reduces Bind and Despair duration by 3 turns",
+    "specialName": "Two-Sword Dance"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": 8,
+    "combo": 6,
+    "slots": 1,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 688,
+    "maxATK": 421,
+    "maxRCV": 195
+  },
+  "evolution": {
+    "evolution": 355,
+    "evolvers": [
+      116,
+      85,
+      90,
+      96
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0354.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0354.png"
+  }
+}

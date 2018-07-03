@@ -1,1 +1,30 @@
-{"name":"Nami Mirage Tempo: The Heavens","detail":{"special":"Reduces damage received from [INT] enemies by 100% for 1 turn, recovers a random amount of HP","specialName":"Mirage Tempo: The Heavens","specialNotes":"#{randomHeal : 1,000 : 3,000}","captain":"Boosts ATK, HP and RCV of [INT] characters by 1.5x"},"unit":{"type":"INT","class":["Striker","Cerebral"],"stars":4,"cost":15,"combo":5,"slots":2,"level":99,"exp":2000000,"maxHP":1260,"maxATK":988,"maxRCV":361},"evolution":{"evolution":1070,"evolvers":[116,80,86,91]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0422.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0422.png"}}
+{
+  "name": "Nami Mirage Tempo: The Heavens",
+  "detail": {
+    "special": "Reduces damage received from [INT] enemies by 100% for 1 turn, recovers a random amount of HP",
+    "specialName": "Mirage Tempo: The Heavens",
+    "specialNotes": "#{randomHeal : 1,000 : 3,000}",
+    "captain": "Boosts ATK, HP and RCV of [INT] characters by 1.5x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 2,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 1260,
+    "maxATK": 988,
+    "maxRCV": 361
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0422.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0422.png"
+  }
+}

@@ -1,1 +1,38 @@
-{"name":"Nero","detail":{"special":"Deals 10x character's ATK in [QCK] damage to all enemies, boosts ATK against enemies with increased defense by 1.3x for 2 turns","specialName":"Rankyaku - Sen","captain":"Reduces cooldown of all specials by 2 turns at the start of the fight"},"unit":{"type":"QCK","class":["Shooter","Driven"],"stars":3,"cost":9,"combo":6,"slots":1,"level":35,"exp":136167,"maxHP":324,"maxATK":543,"maxRCV":83},"evolution":{"evolution":1861,"evolvers":[118,96,1180,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0740.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0740.png"}}
+{
+  "name": "Nero",
+  "detail": {
+    "special": "Deals 10x character's ATK in [QCK] damage to all enemies, boosts ATK against enemies with increased defense by 1.3x for 2 turns",
+    "specialName": "Rankyaku - Sen",
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 3,
+    "cost": 9,
+    "combo": 6,
+    "slots": 1,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 324,
+    "maxATK": 543,
+    "maxRCV": 83
+  },
+  "evolution": {
+    "evolution": 741,
+    "evolvers": [
+      117,
+      79,
+      90,
+      96
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0740.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0740.png"
+  }
+}

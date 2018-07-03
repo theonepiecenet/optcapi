@@ -1,1 +1,55 @@
-{"name":"Mansherry, Daughter of the Tontatta Tribe","detail":{"captain":"Recovers 2x character's RCV in HP at the end of each turn","special":[{"description":"Reduces Bind duration for one character by 4 turns. Recovers 7x character's RCV in HP.","cooldown":[18,11]},{"description":"Reduces Bind duration for one character by 7 turns. Recovers 15x character's RCV in HP.","cooldown":[24,17]}],"specialNotes":"#{stages}","specialName":"Tears of Healing"},"unit":{"type":"PSY","class":["Striker","Free Spirit"],"stars":3,"cost":12,"combo":6,"slots":1,"level":50,"exp":392109,"maxHP":666,"maxATK":333,"maxRCV":270},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1331.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1331.png"}}
+{
+  "name": "Mansherry, Daughter of the Tontatta Tribe",
+  "detail": {
+    "captain": "Recovers 2x character's RCV in HP at the end of each turn",
+    "special": [
+      {
+        "description": "Reduces Bind duration for one character by 4 turns. Recovers 7x character's RCV in HP.",
+        "cooldown": [
+          18,
+          11
+        ]
+      },
+      {
+        "description": "Reduces Bind duration for one character by 7 turns. Recovers 15x character's RCV in HP.",
+        "cooldown": [
+          24,
+          17
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}",
+    "specialName": "Tears of Healing"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Striker",
+      "Free Spirit"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 666,
+    "maxATK": 333,
+    "maxRCV": 270
+  },
+  "evolution": {
+    "evolution": 1332,
+    "evolvers": [
+      116,
+      117,
+      81,
+      92,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1331.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1331.png"
+  }
+}

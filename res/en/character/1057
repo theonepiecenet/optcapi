@@ -1,1 +1,38 @@
-{"name":"Boa Marigold","detail":{"special":"Strongly Poisons one enemy","specialNotes":"Strong Poison deals 5x character's ATK in fixed damage at the end of each turn","specialName":"Deadly Poisonous Corrosive Liquid"},"unit":{"type":"STR","class":["Striker"],"stars":3,"cost":12,"combo":5,"slots":1,"level":50,"exp":392109,"maxHP":1062,"maxATK":517,"maxRCV":158},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1057.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1057.png"}}
+{
+  "name": "Boa Marigold",
+  "detail": {
+    "special": "Strongly Poisons one enemy",
+    "specialNotes": "Strong Poison deals 5x character's ATK in fixed damage at the end of each turn",
+    "specialName": "Deadly Poisonous Corrosive Liquid"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1062,
+    "maxATK": 517,
+    "maxRCV": 158
+  },
+  "evolution": {
+    "evolution": 1058,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1057.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1057.png"
+  }
+}

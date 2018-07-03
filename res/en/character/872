@@ -1,1 +1,40 @@
-{"name":"Sugar, Donquixote Pirates","detail":{"captain":"Boosts ATK and RCV of [QCK] characters by 2x","specialName":"Hobby-Hobby Fruit","special":"Instantly defeats all enemies with current HP less than or equal to 20% their MAX HP","specialNotes":"The special bypasses all known protective buffs. If the enemy can revive after being defeated, however, the special will only reduce the enemy's HP to 0 and trigger their revive effect."},"unit":{"type":"QCK","class":["Free Spirit","Cerebral"],"stars":5,"cost":30,"combo":5,"slots":4,"level":99,"exp":4000000,"maxHP":1905,"maxATK":790,"maxRCV":532},"evolve":{"evolution":351,"evolvers":[118,87,94,303,103]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0872.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0872.png"}}
+{
+  "name": "Sugar, Donquixote Pirates",
+  "detail": {
+    "captain": "Boosts ATK and RCV of [QCK] characters by 2x",
+    "specialName": "Hobby-Hobby Fruit",
+    "special": "Instantly defeats all enemies with current HP less than or equal to 20% their MAX HP",
+    "specialNotes": "The special bypasses all known protective buffs. If the enemy can revive after being defeated, however, the special will only reduce the enemy's HP to 0 and trigger their revive effect."
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Free Spirit",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 1905,
+    "maxATK": 790,
+    "maxRCV": 532
+  },
+  "evolve": {
+    "evolution": 872,
+    "evolvers": [
+      83,
+      85,
+      96,
+      301,
+      101
+    ],
+    "from": 871
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0872.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0872.png"
+  }
+}

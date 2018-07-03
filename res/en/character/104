@@ -1,1 +1,21 @@
-{"name":"Black Striped Dragon","unit":{"type":"INT","class":"Evolver","stars":3,"cost":12,"combo":4,"slots":0,"level":1,"exp":0,"maxHP":500,"maxATK":500,"maxRCV":50},"evolution":{"evolution":219,"evolvers":[118,86,102,94,91]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0104.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0104.png"}}
+{
+  "name": "Black Striped Dragon",
+  "unit": {
+    "type": "INT",
+    "class": "Evolver",
+    "stars": 3,
+    "cost": 12,
+    "combo": 4,
+    "slots": 0,
+    "level": 1,
+    "exp": 0,
+    "maxHP": 500,
+    "maxATK": 500,
+    "maxRCV": 50
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0104.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0104.png"
+  }
+}

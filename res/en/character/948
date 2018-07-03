@@ -1,1 +1,30 @@
-{"name":"Curiel, Whitebeard 10th Div. Commander","detail":{"captain":"Boosts ATK of Shooter characters by 1.5x and their RCV by 1.2x","specialName":"Twin Cannons","special":"Randomizes all orbs to either [STR] or [INT]. Deals random [STR] damage","specialNotes":"#{random : 7,000 : 18,000}"},"unit":{"type":"STR","class":["Shooter","Powerhouse"],"stars":4,"cost":25,"combo":5,"slots":3,"level":99,"exp":3000000,"maxHP":1706,"maxATK":1251,"maxRCV":212},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0948.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0948.png"}}
+{
+  "name": "Curiel, Whitebeard 10th Div. Commander",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 1.5x and their RCV by 1.2x",
+    "specialName": "Twin Cannons",
+    "special": "Randomizes all orbs to either [STR] or [INT]. Deals random [STR] damage",
+    "specialNotes": "#{random : 7,000 : 18,000}"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Shooter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 5,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1706,
+    "maxATK": 1251,
+    "maxRCV": 212
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0948.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0948.png"
+  }
+}

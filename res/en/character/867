@@ -1,1 +1,26 @@
-{"name":"Usopp Tabasco Star: The Storm","detail":{"captain":"Boosts ATK of all characters by 1.5x after the 12th hit in the chain","specialName":"Tabasco Star: The Storm","special":"Delays all enemies for 2 turns, deals 9x character's ATK in [DEX] damage to all enemies"},"unit":{"type":"DEX","class":"Shooter","stars":4,"cost":15,"combo":7,"slots":2,"level":99,"exp":2000000,"maxHP":1866,"maxATK":704,"maxRCV":343},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0867.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0867.png"}}
+{
+  "name": "Usopp Tabasco Star: The Storm",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 1.5x after the 12th hit in the chain",
+    "specialName": "Tabasco Star: The Storm",
+    "special": "Delays all enemies for 2 turns, deals 9x character's ATK in [DEX] damage to all enemies"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Shooter",
+    "stars": 4,
+    "cost": 15,
+    "combo": 7,
+    "slots": 2,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 1866,
+    "maxATK": 704,
+    "maxRCV": 343
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0867.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0867.png"
+  }
+}

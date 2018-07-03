@@ -1,1 +1,35 @@
-{"name":"Bellmere","detail":{"special":"Delays all enemies by 1 turn","specialName":"Women Are Courageous!","captain":"Boosts RCV of Shooter characters by 1.5x"},"unit":{"type":"DEX","class":"Shooter","stars":3,"cost":9,"combo":5,"slots":1,"level":35,"exp":136167,"maxHP":426,"maxATK":291,"maxRCV":283},"evolution":{"evolution":1251,"evolvers":[118,85,87,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0499.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0499.png"}}
+{
+  "name": "Bellmere",
+  "detail": {
+    "special": "Delays all enemies by 1 turn",
+    "specialName": "Women Are Courageous!",
+    "captain": "Boosts RCV of Shooter characters by 1.5x"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Shooter",
+    "stars": 3,
+    "cost": 9,
+    "combo": 5,
+    "slots": 1,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 426,
+    "maxATK": 291,
+    "maxRCV": 283
+  },
+  "evolution": {
+    "evolution": 500,
+    "evolvers": [
+      117,
+      80,
+      97,
+      94
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0499.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0499.png"
+  }
+}

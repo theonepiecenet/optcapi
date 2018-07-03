@@ -1,1 +1,83 @@
-{"name":"나미 하늘섬 웨더리아의 도둑고양이","detail":{"captain":"Reduces cooldown of all specials by 3 턴 at the start of the fight, boosts ATK of Cerebral characters by 2x","specialName":"Cyclone Burst","special":"Reduces Bind duration for one character completely. For Striker and Cerebral characters, changes Badly Matching orbs into Matching orbs"}}
+{
+  "name": "나미, 하늘섬 웨더리아의 도둑고양이",
+  "detail": {
+    "captain": "모험 시작 시 필살 턴을 3턴 단축하고, 박식형 캐릭터의 공격력을 2배로 만든다",
+    "specialName": "사이클론 버스트",
+    "special": "1명의 봉쇄 상태를 완전히 해제하고 타격형과 박식형의 [불리] 슬롯을 속성이 일치하는 슬롯으로 바꾼다",
+    "sailor": {
+      "base": "None",
+      "level1": "Makes [RCV] orbs \"beneficial\" for Cerebral and Striker characters",
+      "level2": "Boosts base ATK, HP and RCV of Cerebral and Striker characters by 50"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Acquire new Captain Ability: Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Cerebral characters by 2.25x"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs \"beneficial\" for Cerebral and Striker characters"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts base ATK, HP and RCV of Cerebral and Striker characters by 50"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: [INT] Damage Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[PSY] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by 2%",
+          "Level 3: Reduce damage taken from [PSY] characters by 3%",
+          "Level 4: Reduce damage taken from [PSY] characters by 4%",
+          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+        ]
+      },
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
+        ]
+      }
+    ]
+  }
+}

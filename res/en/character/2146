@@ -1,1 +1,39 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2146.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2146.png"}}
+{
+  "name": "\"The Phantom Princess\" Rebecca, Aiming for Victory",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by 2x and their HP by 1.2x",
+    "special": "Reduces enemy's Threshold Damage Reduction duration by 2 turns and reduces any damage received above 3,000 HP by 80% for 2 turns",
+    "specialName": "A Moment of Determination"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "maxHP": 1808,
+    "maxATK": 1124,
+    "maxRCV": 274
+  },
+  "evolve": {
+    "evolution": 2146,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ],
+    "from": 2145
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2146.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2146.png"
+  }
+}

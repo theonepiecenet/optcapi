@@ -1,1 +1,38 @@
-{"name":"Slasher Group Crew Green Pirates","detail":{"special":"Changes [QCK] orbs into [DEX] orbs","specialName":"[QCK] Slot Change [DEX]"},"unit":{"type":"DEX","class":"Slasher","stars":2,"cost":7,"combo":5,"slots":0,"level":35,"exp":90778,"maxHP":665,"maxATK":375,"maxRCV":86},"evolution":{"evolution":[351,351,351],"evolvers":[[115,109,109],[82,109,109],[93,109,109]]},"evolve":{"evolution":50,"evolvers":[92]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0149.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0149.png"}}
+{
+  "name": "Slasher Group Crew Green Pirates",
+  "detail": {
+    "special": "Changes [QCK] orbs into [DEX] orbs",
+    "specialName": "[QCK] Slot Change [DEX]"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Slasher",
+    "stars": 2,
+    "cost": 7,
+    "combo": 5,
+    "slots": 0,
+    "level": 35,
+    "exp": 90778,
+    "maxHP": 665,
+    "maxATK": 375,
+    "maxRCV": 86
+  },
+  "evolution": {
+    "evolution": 276,
+    "evolvers": [
+      116,
+      97
+    ]
+  },
+  "evolve": {
+    "evolution": 149,
+    "evolvers": [
+      91
+    ],
+    "from": 128
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0149.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0149.png"
+  }
+}

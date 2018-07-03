@@ -1,1 +1,113 @@
-{"name":"Fisher Tiger, Captain of the Sun Pirates","detail":{"captain":"Boosts ATK of Powerhouse characters by 2.75x","special":"Boosts ATK of Powerhouse characters by 1.75x for 3 turns","specialName":"Rebellion against the \"Prohibition\" - Taboo","sailor":{"base":"When any other Powerhouse character uses a special, reduces own cooldown by 1 turn","level1":"Boosts base ATK of Powerhouse characters by 50"},"limit":[{"description":"Boosts base HP by 30"},{"description":"Boosts base ATK by 10"},{"description":"Boosts base RCV by 10"},{"description":"Acquire Potential 1: Enrage"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base HP by 40"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base HP by 40"},{"description":"Boosts base RCV by 30"},{"description":"Boosts base ATK by 20"},{"description":"Acquire Sailor Ability 1: Boosts base ATK of Powerhouse characters by 50"},{"description":"Boosts base ATK by 30"},{"description":"Boosts base HP by 60"},{"description":"Acquire 1 additional Socket slot"},{"description":"Acquire Potential 2: Slot Bind Self-reduction"}],"potential":[{"Name":"Enrage","description":["Level 1: Boosts base ATK by 20","Level 2: Boosts base ATK by 30","Level 3: Boosts base ATK by 40","Level 4: Boosts base ATK by 50","Level 5: Boosts base ATK by 100"]},{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by 1 turn on this character","Level 2: Reduces Slot Bind duration by 2 turns on this character","Level 3: Reduces Slot Bind duration by 3 turns on this character","Level 4: Reduces Slot Bind duration by 4 turns on this character","Level 5: Reduces Slot Bind duration by 5 turns on this character"]}],"potentialNotes":"#{enrage}"},"unit":{"type":"PSY","class":["Powerhouse","Fighter"],"stars":5,"cost":30,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":2522,"maxATK":1386,"maxRCV":313},"evolve":{"evolution":646,"evolvers":[[118,96,97,301,302],[118,83,84,95,100]]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1632.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1632.png"}}
+{
+  "name": "Fisher Tiger, Captain of the Sun Pirates",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.75x",
+    "special": "Boosts ATK of Powerhouse characters by 1.75x for 3 turns",
+    "specialName": "Rebellion against the \"Prohibition\" - Taboo",
+    "sailor": {
+      "base": "When any other Powerhouse character uses a special, reduces own cooldown by 1 turn",
+      "level1": "Boosts base ATK of Powerhouse characters by 50"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of Powerhouse characters by 50"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 30",
+          "Level 3: Boosts base ATK by 40",
+          "Level 4: Boosts base ATK by 50",
+          "Level 5: Boosts base ATK by 100"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2522,
+    "maxATK": 1386,
+    "maxRCV": 313
+  },
+  "evolve": {
+    "evolution": 1632,
+    "evolvers": [
+      118,
+      87,
+      266,
+      98,
+      303
+    ],
+    "from": 1631
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1632.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1632.png"
+  }
+}

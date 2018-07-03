@@ -1,1 +1,27 @@
-{"name":"Rumbar Pirates Laboon","detail":{"captain":"Boosts HP by 1.3x","specialName":"Chorus echoing in the sea","special":"Protects from defeat as long as HP is above 50%","specialNotes":"#{zombie}"},"unit":{"type":"STR","class":"Fighter","stars":3,"cost":9,"combo":6,"slots":1,"level":50,"exp":392109,"maxHP":1302,"maxATK":570,"maxRCV":151},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1206.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1206.png"}}
+{
+  "name": "Rumbar Pirates Laboon",
+  "detail": {
+    "captain": "Boosts HP by 1.3x",
+    "specialName": "Chorus echoing in the sea",
+    "special": "Protects from defeat as long as HP is above 50%",
+    "specialNotes": "#{zombie}"
+  },
+  "unit": {
+    "type": "STR",
+    "class": "Fighter",
+    "stars": 3,
+    "cost": 9,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1302,
+    "maxATK": 570,
+    "maxRCV": 151
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1206.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1206.png"
+  }
+}

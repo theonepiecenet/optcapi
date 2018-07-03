@@ -1,1 +1,39 @@
-{"name":"Mansherry, February's Favorite","detail":{"captain":"Boosts the RCV of Striker and Free Spirit characters by 1.5x","special":"Reduces Bind, Despair and Paralysis duration by 3 turns and recovers 2000 HP at the end of each turn for 3 turns","specialName":"Boy's Unknown Taste of Hard Work"},"unit":{"type":"DEX","class":["Striker","Free Spirit"],"stars":4,"cost":13,"combo":6,"slots":2,"level":50,"exp":392109,"maxHP":890,"maxATK":329,"maxRCV":261},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1429.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1429.png"}}
+{
+  "name": "Mansherry, February's Favorite",
+  "detail": {
+    "captain": "Boosts the RCV of Striker and Free Spirit characters by 1.5x",
+    "special": "Reduces Bind, Despair and Paralysis duration by 3 turns and recovers 2000 HP at the end of each turn for 3 turns",
+    "specialName": "Boy's Unknown Taste of Hard Work"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Striker",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 13,
+    "combo": 6,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 890,
+    "maxATK": 329,
+    "maxRCV": 261
+  },
+  "evolution": {
+    "evolution": 1430,
+    "evolvers": [
+      117,
+      83,
+      86,
+      91,
+      97
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1429.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1429.png"
+  }
+}

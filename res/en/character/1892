@@ -1,1 +1,63 @@
-{"name":"Mihawk, Shikkearu Kingdom Site","detail":{"captain":"Boosts ATK of Slasher and Cerebral characters by 1.5x","special":[{"description":"Reduces crew's current HP by 50%, deals 2x the amount of HP subtracted in typeless damage to all enemies.","cooldown":[15,10]},{"description":"Reduces crew's current HP by 50%, deals 2x the amount of HP subtracted in typeless damage to all enemies. Delays all enemies for 1 turn","cooldown":[19,14]},{"description":"Reduces crew's current HP by 80%, deals 6x the amount of HP subtracted in typeless damage to all enemies. Delays all enemies for 1 turn","cooldown":[23,18]}],"specialName":"A Test Against the Black Blade","specialNotes":"#{stages}","sailor":"When HP is below 50% at the start of the turn, boosts own base ATK by 1.25x"},"unit":{"type":"PSY","class":["Slasher","Cerebral"],"stars":3,"cost":13,"combo":6,"slots":3,"level":50,"exp":130703,"maxHP":800,"maxATK":938,"maxRCV":4},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1892.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1892.png"}}
+{
+  "name": "Mihawk, Shikkearu Kingdom Site",
+  "detail": {
+    "captain": "Boosts ATK of Slasher and Cerebral characters by 1.5x",
+    "special": [
+      {
+        "description": "Reduces crew's current HP by 50%, deals 2x the amount of HP subtracted in typeless damage to all enemies.",
+        "cooldown": [
+          15,
+          10
+        ]
+      },
+      {
+        "description": "Reduces crew's current HP by 50%, deals 2x the amount of HP subtracted in typeless damage to all enemies. Delays all enemies for 1 turn",
+        "cooldown": [
+          19,
+          14
+        ]
+      },
+      {
+        "description": "Reduces crew's current HP by 80%, deals 6x the amount of HP subtracted in typeless damage to all enemies. Delays all enemies for 1 turn",
+        "cooldown": [
+          23,
+          18
+        ]
+      }
+    ],
+    "specialName": "A Test Against the Black Blade",
+    "specialNotes": "#{stages}",
+    "sailor": "When HP is below 50% at the start of the turn, boosts own base ATK by 1.25x"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": 800,
+    "maxATK": 938,
+    "maxRCV": 4
+  },
+  "evolution": {
+    "evolution": 1893,
+    "evolvers": [
+      81,
+      87,
+      82,
+      98,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1892.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1892.png"
+  }
+}

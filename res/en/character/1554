@@ -1,1 +1,36 @@
-{"name":"Ryuma, Samurai General Zombie","detail":{"captain":"Boosts ATK of [DEX] characters by 2x","special":"Boosts ATK of [DEX] characters and amplifies the effect of orbs for [DEX] characters by 1.35x for 1 turn","specialName":"Pure Body and Soul"},"unit":{"type":"DEX","class":"Slasher","stars":3,"cost":16,"combo":6,"slots":1,"level":50,"exp":392109,"maxHP":1094,"maxATK":525,"maxRCV":99},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1554.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1554.png"}}
+{
+  "name": "Ryuma, Samurai General Zombie",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 2x",
+    "special": "Boosts ATK of [DEX] characters and amplifies the effect of orbs for [DEX] characters by 1.35x for 1 turn",
+    "specialName": "Pure Body and Soul"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Slasher",
+    "stars": 3,
+    "cost": 16,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1094,
+    "maxATK": 525,
+    "maxRCV": 99
+  },
+  "evolution": {
+    "evolution": 1555,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      302
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1554.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1554.png"
+  }
+}

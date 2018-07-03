@@ -1,1 +1,29 @@
-{"name":"Chess","unit":{"type":"DEX","class":"Shooter","stars":3,"cost":7,"combo":6,"slots":0,"level":35,"exp":90778,"maxHP":668,"maxATK":296,"maxRCV":121},"evolution":{"evolution":806,"evolvers":[118,83,88,99,304]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0330.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0330.png"}}
+{
+  "name": "Chess",
+  "unit": {
+    "type": "DEX",
+    "class": "Shooter",
+    "stars": 3,
+    "cost": 7,
+    "combo": 6,
+    "slots": 0,
+    "level": 35,
+    "exp": 90778,
+    "maxHP": 668,
+    "maxATK": 296,
+    "maxRCV": 121
+  },
+  "evolution": {
+    "evolution": 332,
+    "evolvers": [
+      116,
+      331,
+      302
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0330.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0330.png"
+  }
+}

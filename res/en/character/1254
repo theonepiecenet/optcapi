@@ -1,1 +1,30 @@
-{"name":"Maelstrom Spider Squard, Subordinates of the Whitebeard Pirates","detail":{"captain":"Boosts ATK of Striker characters by 2.5x until the first hit other than PERFECT. Reduces crew's current HP by 5% at the end of each turn.","special":"Deals 10x character's ATK in fixed damage to one enemy, reduces crews current HP by 30% and reduces the defense of all enemies by 80% for one turn","specialName":"Sword Attack Without Hesitation","sailor":"Reduces his own Numbness by 1 turn"},"unit":{"type":"QCK","class":["Striker","Slasher"],"stars":4,"cost":25,"combo":6,"slots":3,"level":99,"exp":3000000,"maxHP":2096,"maxATK":1246,"maxRCV":96},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1254.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1254.png"}}
+{
+  "name": "Maelstrom Spider Squard, Subordinates of the Whitebeard Pirates",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by 2.5x until the first hit other than PERFECT. Reduces crew's current HP by 5% at the end of each turn.",
+    "special": "Deals 10x character's ATK in fixed damage to one enemy, reduces crews current HP by 30% and reduces the defense of all enemies by 80% for one turn",
+    "specialName": "Sword Attack Without Hesitation",
+    "sailor": "Reduces his own Numbness by 1 turn"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 6,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2096,
+    "maxATK": 1246,
+    "maxRCV": 96
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1254.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1254.png"
+  }
+}

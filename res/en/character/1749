@@ -1,1 +1,113 @@
-{"name":"Bepo, Strawhat Luffy's Accomplice","detail":{"captain":"Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK and HP of [QCK] characters by 2x","special":"Cuts the current HP of one enemy by 15% and reduces enemy's Threshold Damage Reduction duration by 5 turns","sailor":{"base":"If this character has a [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn","level1":"Makes [DEX] orbs \"beneficial\" for this unit"},"sailorNotes":"#{beneficial}","specialName":"Bear Rush Out","limit":[{"description":"Boosts base HP by 20"},{"description":"Boosts base HP by 30"},{"description":"Boosts base RCV by 10"},{"description":"Acquire Potential 1: Critical Hit"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base ATK by 10"},{"description":"Boosts base ATK by 30"},{"description":"Boosts base HP by 30"},{"description":"Boosts base ATK by 50"},{"description":"Acquire Sailor Ability 1: Makes [DEX] orbs \"beneficial\" for this unit"},{"description":"Boosts base RCV by 30"},{"description":"Boosts base HP by 60"},{"description":"Boosts base HP by 90"},{"description":"Acquire 1 additional Socket slot"},{"description":"Acquire Potential 2: Slot Bind Self-reduction"}],"potential":[{"Name":"Critical Hit","description":["Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage","Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage","Level 3: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage","Level 4: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage","Level 5: If you hit a perfect with this character, there is a 20% chance to deal 10% of this character's attack in extra damage"]},{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by 1 turn on this character","Level 2: Reduces Slot Bind duration by 2 turns on this character","Level 3: Reduces Slot Bind duration by 3 turns on this character","Level 4: Reduces Slot Bind duration by 5 turns on this character","Level 5: Reduces Slot Bind duration by 10 turns on this character"]}]},"unit":{"type":"QCK","class":["Fighter","Powerhouse"],"stars":5,"cost":30,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":2357,"maxATK":1129,"maxRCV":384},"evolve":{"evolution":692,"evolvers":[118,85,266,301,267]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1749.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1749.png"}}
+{
+  "name": "Bepo, Strawhat Luffy's Accomplice",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK and HP of [QCK] characters by 2x",
+    "special": "Cuts the current HP of one enemy by 15% and reduces enemy's Threshold Damage Reduction duration by 5 turns",
+    "sailor": {
+      "base": "If this character has a [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn",
+      "level1": "Makes [DEX] orbs \"beneficial\" for this unit"
+    },
+    "sailorNotes": "#{beneficial}",
+    "specialName": "Bear Rush Out",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs \"beneficial\" for this unit"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 20% chance to deal 10% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2357,
+    "maxATK": 1129,
+    "maxRCV": 384
+  },
+  "evolve": {
+    "evolution": 1749,
+    "evolvers": [
+      83,
+      85,
+      94,
+      96,
+      101
+    ],
+    "from": 1748
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1749.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1749.png"
+  }
+}

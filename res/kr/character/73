@@ -1,1 +1,83 @@
-{"name":"왕녀 비비","detail":{"special":"랜덤으로 슬롯을 바꾼다","specialName":"돌격! 초 카루가모 부대!","captain":"턴 종료 후에 캐릭터의 회복x5배의 체력이 회복한다"}}
+{
+  "name": "왕녀 비비",
+  "detail": {
+    "special": "랜덤으로 슬롯을 바꾼다",
+    "specialName": "돌격! 초 카루가모 부대!",
+    "captain": "턴 종료 후에 캐릭터의 회복x5배의 체력이 회복한다",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Paralysis duration by 1 turn",
+      "level2": "Makes [INT] orbs \"beneficial\" for this unit"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 200"
+      },
+      {
+        "description": "Boosts base ATK by 80"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [INT] orbs \"beneficial\" for this unit"
+      },
+      {
+        "description": "Acquire Potential 2: [PSY] Damage Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
+        ]
+      },
+      {
+        "Name": "[PSY] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by 2%",
+          "Level 3: Reduce damage taken from [PSY] characters by 3%",
+          "Level 4: Reduce damage taken from [PSY] characters by 4%",
+          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+        ]
+      }
+    ]
+  }
+}

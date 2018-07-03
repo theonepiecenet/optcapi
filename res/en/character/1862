@@ -1,1 +1,39 @@
-{"name":"Kinemon [Neo]","detail":{"captain":"Boosts ATK of Free Spirit characters by 2x, recovers 1x character's RCV in HP at the end of each turn","special":"Reduces Special Cooldown of Slasher and Free Spirit characters by 1 turn and changes adjacent orbs into Matching Orbs","specialName":"Poof [Neo]"},"unit":{"type":"PSY","class":["Slasher","Free Spirit"],"stars":4,"cost":25,"combo":6,"slots":4,"level":70,"exp":1066998,"maxHP":1138,"maxATK":771,"maxRCV":180},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1862.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1862.png"}}
+{
+  "name": "Kinemon [Neo]",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 2x, recovers 1x character's RCV in HP at the end of each turn",
+    "special": "Reduces Special Cooldown of Slasher and Free Spirit characters by 1 turn and changes adjacent orbs into Matching Orbs",
+    "specialName": "Poof [Neo]"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 6,
+    "slots": 4,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1138,
+    "maxATK": 771,
+    "maxRCV": 180
+  },
+  "evolution": {
+    "evolution": 1863,
+    "evolvers": [
+      118,
+      98,
+      98,
+      303,
+      267
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1862.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1862.png"
+  }
+}

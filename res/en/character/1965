@@ -1,1 +1,39 @@
-{"name":"The Devil Oars, Resurrected Legend","detail":{"captain":"Boosts ATK of Powerhouse characters by 2.75x if HP is above 70% at the start of the turn","special":"Deals ??x character's ATK in Typeless damage to all enemies, delays all enemies for 1 turn and changes adjacent orbs into [RCV] orbs","specialName":"Gomu Gomu no Butt Stomp"},"unit":{"type":"QCK","class":["Driven","Powerhouse"],"stars":4,"cost":20,"combo":4,"slots":4,"level":99,"exp":1000000,"maxHP":2975,"maxATK":1454,"maxRCV":0},"evolve":{"evolution":787,"evolvers":[117,78,89,95,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1965.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1965.png"}}
+{
+  "name": "Devil Oars, The Resurrected Legend",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.75x if HP is above 70% at the start of the turn",
+    "special": "Deals ??x character's ATK in Typeless damage to all enemies, delays all enemies for 1 turn and changes adjacent orbs into [RCV] orbs",
+    "specialName": "Gomu Gomu no Butt Stomp"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Driven",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "maxHP": 2975,
+    "maxATK": 1454,
+    "maxRCV": 0
+  },
+  "evolve": {
+    "evolution": 1965,
+    "evolvers": [
+      79,
+      85,
+      90,
+      96,
+      101
+    ],
+    "from": 1964
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1965.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1965.png"
+  }
+}

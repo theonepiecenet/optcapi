@@ -1,1 +1,41 @@
-{"name":"Kanjuro, Wano Country Samurai","detail":{"captain":"Boosts ATK of Striker and Free Spirit characters by 2x","special":"Reduces Bind and Despair duration by 5 turns. If your Captain is a Striker character, locks the chain multiplier at 2.75x for 1 turn","sailor":"Makes [DEX] orbs \"beneficial\" for Striker characters if your Captain is a Striker character","sailorNotes":"#{beneficial}","specialName":"Summon Dragon"},"unit":{"type":"DEX","class":["Striker","Free Spirit"],"stars":4,"cost":15,"combo":4,"slots":3,"level":50,"exp":392109,"maxHP":1100,"maxATK":574,"maxRCV":196},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1657.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1657.png"}}
+{
+  "name": "Kanjuro, Wano Country Samurai",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Free Spirit characters by 2x",
+    "special": "Reduces Bind and Despair duration by 5 turns. If your Captain is a Striker character, locks the chain multiplier at 2.75x for 1 turn",
+    "sailor": "Makes [DEX] orbs \"beneficial\" for Striker characters if your Captain is a Striker character",
+    "sailorNotes": "#{beneficial}",
+    "specialName": "Summon Dragon"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Striker",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1100,
+    "maxATK": 574,
+    "maxRCV": 196
+  },
+  "evolution": {
+    "evolution": 1658,
+    "evolvers": [
+      118,
+      80,
+      86,
+      266,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1657.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1657.png"
+  }
+}

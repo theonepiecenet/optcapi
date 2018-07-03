@@ -1,1 +1,38 @@
-{"name":"Slasher Group Crew Black Pirates","detail":{"special":"Deals 10x character's ATK in character's type damage to one enemy","specialName":"Hyper Slash"},"unit":{"type":"INT","class":"Slasher","stars":2,"cost":7,"combo":5,"slots":0,"level":35,"exp":90778,"maxHP":695,"maxATK":384,"maxRCV":78},"evolution":{"evolution":355,"evolvers":[116,85,90,96]},"evolve":{"evolution":52,"evolvers":[89]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0151.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0151.png"}}
+{
+  "name": "Slasher Group Crew Black Pirates",
+  "detail": {
+    "special": "Deals 10x character's ATK in character's type damage to one enemy",
+    "specialName": "Hyper Slash"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Slasher",
+    "stars": 2,
+    "cost": 7,
+    "combo": 5,
+    "slots": 0,
+    "level": 35,
+    "exp": 90778,
+    "maxHP": 695,
+    "maxATK": 384,
+    "maxRCV": 78
+  },
+  "evolution": {
+    "evolution": 278,
+    "evolvers": [
+      116,
+      99
+    ]
+  },
+  "evolve": {
+    "evolution": 151,
+    "evolvers": [
+      93
+    ],
+    "from": 130
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0151.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0151.png"
+  }
+}

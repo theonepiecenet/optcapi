@@ -1,1 +1,112 @@
-{"name":"One-Hit Namule","detail":{"special":"Boosts ATK of Fighter characters by 1.5x for 1 turn, deals 25x character's ATK in [DEX] damage to one enemy","specialName":"Number Eight's One Hit","captain":"Boosts ATK of Fighter characters by 2x and their HP by 1.5x","sailor":{"base":"Boosts base ATK of Fighter characters by 20","level1":"When any other character uses a special, reduces own cooldown by 2 turns"},"limit":[{"description":"Boosts base HP by 50"},{"description":"Boosts base ATK by 55"},{"description":"Boosts base HP by 50"},{"description":"Acquire Potential 2: Critical Hit"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base HP by 55"},{"description":"Boosts base RCV by 20"},{"description":"Reduce base Special Cooldown by 3 turns"},{"description":"Boosts base ATK by 80"},{"description":"Acquire 1 additional Socket slot"},{"description":"Reduce base Special Cooldown by 3 turns"},{"description":"Boosts base HP by 60"},{"description":"Reduce base Special Cooldown by 3 turns"},{"description":"Acquire Sailor Ability 1: When any other character uses a special, reduces own cooldown by 2 turns"},{"description":"Acquire Potential 2: Cooldown Reduction"}],"potential":[{"Name":"Critical Hit","description":["Level 1: If you hit a perfect with this character, there is a 30% chance to deal 4% of this character's attack in extra damage","Level 2: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage","Level 3: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage","Level 4: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage","Level 5: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage"]},{"Name":"Cooldown Reduction","description":["Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight","Level 2: Reduce own Special Cooldown by ? turn at the start of the fight","Level 3: Reduce own Special Cooldown by ? turn at the start of the fight","Level 4: Reduce own Special Cooldown by ? turn at the start of the fight","Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"]}]},"unit":{"type":"DEX","class":["Fighter","Powerhouse"],"stars":5,"cost":28,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":2398,"maxATK":1303,"maxRCV":262},"evolution":{"evolution":1131,"evolvers":[84,94,95,300,100]},"evolve":{"evolution":189,"evolvers":[118,83,87,303,103]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0451.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0451.png"}}
+{
+  "name": "One-Hit Namule",
+  "detail": {
+    "special": "Boosts ATK of Fighter characters by 1.5x for 1 turn, deals 25x character's ATK in [DEX] damage to one enemy",
+    "specialName": "Number Eight's One Hit",
+    "captain": "Boosts ATK of Fighter characters by 2x and their HP by 1.5x",
+    "sailor": {
+      "base": "Boosts base ATK of Fighter characters by 20",
+      "level1": "When any other character uses a special, reduces own cooldown by 2 turns"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 55"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 55"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base ATK by 80"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: When any other character uses a special, reduces own cooldown by 2 turns"
+      },
+      {
+        "description": "Acquire Potential 2: Cooldown Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 28,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2398,
+    "maxATK": 1303,
+    "maxRCV": 262
+  },
+  "evolve": {
+    "evolution": 451,
+    "evolvers": [
+      118,
+      83,
+      86,
+      302,
+      102
+    ],
+    "from": 450
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0451.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0451.png"
+  }
+}

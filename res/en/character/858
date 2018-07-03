@@ -1,1 +1,39 @@
-{"name":"Jewelry Bonney Ravenous Greedy Santa","detail":{"captain":"Boosts ATK and RCV of [PSY] characters by 2x","specialName":"Bonney's Holiday Feast","special":"Changes adjacent orbs into [RCV] orbs, boosts RCV of [PSY] characters by 1.5x for 1 turn"},"unit":{"type":"PSY","class":["Fighter","Free Spirit"],"stars":5,"cost":19,"combo":4,"slots":3,"level":99,"exp":4000000,"maxHP":2380,"maxATK":769,"maxRCV":338},"evolve":{"evolution":346,"evolvers":[117,87,98,98,303]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0858.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0858.png"}}
+{
+  "name": "Jewelry Bonney Ravenous Greedy Santa",
+  "detail": {
+    "captain": "Boosts ATK and RCV of [PSY] characters by 2x",
+    "specialName": "Bonney's Holiday Feast",
+    "special": "Changes adjacent orbs into [RCV] orbs, boosts RCV of [PSY] characters by 1.5x for 1 turn"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 19,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2380,
+    "maxATK": 769,
+    "maxRCV": 338
+  },
+  "evolve": {
+    "evolution": 858,
+    "evolvers": [
+      117,
+      98,
+      98,
+      303,
+      303
+    ],
+    "from": 857
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0858.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0858.png"
+  }
+}

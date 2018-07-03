@@ -1,1 +1,39 @@
-{"name":"Sanji, Escort of a Nearby Town","detail":{"captain":"Boosts ATK of [DEX] characters by 2.5x if they have a matching orb, by 2x otherwise. Slightly boosts chances of getting [DEX] orbs","special":"Deals 15x character's ATK in [DEX] damage to one enemy and boosts chances of getting [DEX] orbs for 2 turns","specialName":"Diable Jambe: Love Shot"},"unit":{"type":"DEX","class":["Fighter","Powerhouse"],"stars":4,"cost":20,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":2030,"maxATK":1203,"maxRCV":208},"evolve":{"evolution":580,"evolvers":[117,83,84,89,95]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1452.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1452.png"}}
+{
+  "name": "Sanji, Escort of a Nearby Town",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 2.5x if they have a matching orb, by 2x otherwise. Slightly boosts chances of getting [DEX] orbs",
+    "special": "Deals 15x character's ATK in [DEX] damage to one enemy and boosts chances of getting [DEX] orbs for 2 turns",
+    "specialName": "Diable Jambe: Love Shot"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2030,
+    "maxATK": 1203,
+    "maxRCV": 208
+  },
+  "evolve": {
+    "evolution": 1452,
+    "evolvers": [
+      117,
+      80,
+      91,
+      97,
+      102
+    ],
+    "from": 1451
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1452.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1452.png"
+  }
+}

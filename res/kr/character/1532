@@ -1,1 +1,157 @@
-{"name":"갓 우솝","detail":{"captain":"Boosts ATK of all characters by 1.5x if HP is below 50% or by 1.75x 전투 시작 시 체력이 30% 미만이면. Makes [STR], [DEX], [QCK], [PSY], [INT], [RCV], and [TND] orbs \"beneficial\" to all characters.","special":[{"description":"Delays all enemies for 3 턴","cooldown":[13,10]},{"description":"Delays all enemies for 4 턴, adds 0.2x to Chain multiplier for 4 턴","cooldown":[18,15]},{"description":"Delays all enemies for 5 턴, adds 0.3x to Chain multiplier for 4 턴","cooldown":[24,21]}],"specialNotes":"#{stages}","sailor":"Completely resists Blindness","specialName":"Long-Range Attack: Bagworm","limit":[{"description":"공격력 상승 : 15"},{"description":"체력 상승 : 20"},{"description":"회복력 상승 : 10"},{"description":"잠재능력 습득 1: Reduce No Healing duration"},{"description":"회복력 상승 : 10"},{"description":"체력 상승 : 30"},{"description":"공격력 상승 : 15"},{"description":"선원효과 추가 1: Boosts base HP of Shooter characters by 100"},{"description":"공격력 상승 : 15"},{"description":"체력 상승 : 30"},{"description":"회복력 상승 : 10"},{"description":"회복력 상승 : 10"},{"description":"체력 상승 : 40"},{"description":"공격력 상승 : 20"},{"description":"잠재능력 습득 2: Critical Hit"},{"description":"회복력 상승 : 10"},{"description":"공격력 상승 : 20"},{"description":"체력 상승 : 40"},{"description":"공격력 상승 : 20"},{"description":"체력 상승 : 40"},{"description":"회복력 상승 : 25"},{"description":"체력 상승 : 50"},{"description":"공격력 상승 : 25"},{"description":"체력 상승 : 70"},{"description":"공격력 상승 : 30"},{"description":"공격력 상승 : 40"},{"description":"체력 상승 : 80"},{"description":"회복력 상승 : 25"},{"description":"체력 상승 : 100"},{"description":"잠재능력 습득 3: Barrier Penetration"}],"potential":[{"Name":"Reduce No Healing duration","description":["Level 1: 회복 무효 상태 회복 : 1 턴","Level 2: 회복 무효 상태 회복 : 1 턴","Level 3: 회복 무효 상태 회복 : 1 턴","Level 4: 회복 무효 상태 회복 : 2 턴","Level 5: 회복 무효 상태 회복 : 3 턴"]},{"Name":"Critical Hit","description":["Level 1: PERFECT 적중 시, 20% 확률로 공격력의 5% 추가 데미지를 입힌다.","Level 2: If you hit a PERFECT with this character, there is a 30% chance to deal 5% of this character's attack in extra damage","Level 3: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage","Level 4: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage","Level 5: If you hit a PERFECT with this character, there is a 50% chance to deal 10% of this character's attack in extra damage"]},{"Name":"Barrier Penetration","description":["Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.","Level 2: This character's attack will ignore barriers if HP is above 90%","Level 3: This character's attack will ignore barriers if HP is above 70%","Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.","Level 5: This character's attack will ignore barriers if HP is above 30%"]}]}}
+{
+  "name": "갓 우솝",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 1.5x if HP is below 50% or by 1.75x 전투 시작 시 체력이 30% 미만이면. Makes [STR], [DEX], [QCK], [PSY], [INT], [RCV], and [TND] orbs \"beneficial\" to all characters.",
+    "special": [
+      {
+        "description": "Delays all enemies for 3 턴",
+        "cooldown": [
+          13,
+          10
+        ]
+      },
+      {
+        "description": "Delays all enemies for 4 턴, adds 0.2x to Chain multiplier for 4 턴",
+        "cooldown": [
+          18,
+          15
+        ]
+      },
+      {
+        "description": "Delays all enemies for 5 턴, adds 0.3x to Chain multiplier for 4 턴",
+        "cooldown": [
+          24,
+          21
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}",
+    "sailor": "Completely resists Blindness",
+    "specialName": "Long-Range Attack: Bagworm",
+    "limit": [
+      {
+        "description": "공격력 상승 : 15"
+      },
+      {
+        "description": "체력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "잠재능력 습득 1: Reduce No Healing duration"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 15"
+      },
+      {
+        "description": "선원효과 추가 1: Boosts base HP of Shooter characters by 100"
+      },
+      {
+        "description": "공격력 상승 : 15"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "잠재능력 습득 2: Critical Hit"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "회복력 상승 : 25"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "공격력 상승 : 25"
+      },
+      {
+        "description": "체력 상승 : 70"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 80"
+      },
+      {
+        "description": "회복력 상승 : 25"
+      },
+      {
+        "description": "체력 상승 : 100"
+      },
+      {
+        "description": "잠재능력 습득 3: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 1 턴",
+          "Level 3: 회복 무효 상태 회복 : 1 턴",
+          "Level 4: 회복 무효 상태 회복 : 2 턴",
+          "Level 5: 회복 무효 상태 회복 : 3 턴"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: PERFECT 적중 시, 20% 확률로 공격력의 5% 추가 데미지를 입힌다.",
+          "Level 2: If you hit a PERFECT with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 50% chance to deal 10% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 2: This character's attack will ignore barriers if HP is above 90%",
+          "Level 3: This character's attack will ignore barriers if HP is above 70%",
+          "Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 5: This character's attack will ignore barriers if HP is above 30%"
+        ]
+      }
+    ],
+    "captainNotes": "#{beneficial}"
+  }
+}

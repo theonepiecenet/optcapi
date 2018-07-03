@@ -1,1 +1,29 @@
-{"name":"Vivi's Breather","detail":{"special":"Delays all enemies for 1 turn, recovers 3x character's RCV in HP at the end of each turn for 3 turns","specialName":"Captivating Perfume Dance - Relaxation","captain":"Boosts ATK and RCV of Slasher characters by 1.5x"},"unit":{"type":"QCK","class":["Slasher","Free Spirit"],"stars":4,"cost":12,"combo":4,"slots":2,"level":70,"exp":1066998,"maxHP":1028,"maxATK":497,"maxRCV":343},"evolution":{"evolution":1737,"evolvers":[117,82,88,99,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0686.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0686.png"}}
+{
+  "name": "Vivi's Breather",
+  "detail": {
+    "special": "Delays all enemies for 1 turn, recovers 3x character's RCV in HP at the end of each turn for 3 turns",
+    "specialName": "Captivating Perfume Dance - Relaxation",
+    "captain": "Boosts ATK and RCV of Slasher characters by 1.5x"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 12,
+    "combo": 4,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1028,
+    "maxATK": 497,
+    "maxRCV": 343
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0686.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0686.png"
+  }
+}

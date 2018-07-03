@@ -1,1 +1,33 @@
-{"name":"Kung Fu Dugong","detail":{"special":"Removes Poison","specialName":"Dugong Kung Fu Fist of Healing"},"unit":{"type":"STR","class":"Fighter","stars":3,"cost":7,"combo":5,"slots":1,"level":20,"exp":26184,"maxHP":50,"maxATK":355,"maxRCV":95},"evolution":{"evolution":941,"evolvers":[94,97,97,302,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0379.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0379.png"}}
+{
+  "name": "Kung Fu Dugong",
+  "detail": {
+    "special": "Removes Poison",
+    "specialName": "Dugong Kung Fu Fist of Healing"
+  },
+  "unit": {
+    "type": "STR",
+    "class": "Fighter",
+    "stars": 3,
+    "cost": 7,
+    "combo": 5,
+    "slots": 1,
+    "level": 20,
+    "exp": 26184,
+    "maxHP": 50,
+    "maxATK": 355,
+    "maxRCV": 95
+  },
+  "evolution": {
+    "evolution": 380,
+    "evolvers": [
+      115,
+      78,
+      300
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0379.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0379.png"
+  }
+}

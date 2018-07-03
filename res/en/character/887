@@ -1,1 +1,29 @@
-{"name":"Buggy, Cheerfully Crazy","detail":{"captain":"Boosts ATK of Driven characters by 1.5x, boosts amount of Beli received by 1.2x","specialName":"Special Muggy Ball: Flashy","special":"Reduces the defense of all enemies by 80% for 1 turn, deals 15x character's ATK in [QCK] damage to all enemies"},"unit":{"type":"QCK","class":["Driven","Free Spirit"],"stars":4,"cost":17,"combo":5,"slots":2,"level":99,"exp":2000000,"maxHP":1790,"maxATK":694,"maxRCV":285},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0887.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0887.png"}}
+{
+  "name": "Buggy, Cheerfully Crazy",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 1.5x, boosts amount of Beli received by 1.2x",
+    "specialName": "Special Muggy Ball: Flashy",
+    "special": "Reduces the defense of all enemies by 80% for 1 turn, deals 15x character's ATK in [QCK] damage to all enemies"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Driven",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 17,
+    "combo": 5,
+    "slots": 2,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 1790,
+    "maxATK": 694,
+    "maxRCV": 285
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0887.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0887.png"
+  }
+}

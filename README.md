@@ -9,6 +9,11 @@ install composer
 
 `php composer.phar require slim/php-view'`
 
+`curl -s http://getcomposer.org/installer | php`
+
+`php /var/www/html/composer.phar install --no-dev`
+
+
 modify apache conf `/etc/apache2/apache.conf`
 ```
 <Directory /var/www/>

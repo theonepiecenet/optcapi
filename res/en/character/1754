@@ -1,1 +1,40 @@
-{"name":"Sanji, Celebrate 20th Anniversary Cruise","detail":{"captain":"Boosts ATK of Fighter and Powerhouse characters by 2x","special":"Cuts the current HP of one enemy by 15%, removes Poison and amplifies the effects of orbs by 1.75x for 1 turn","sailor":"Boosts base ATK, HP and RCV of all characters by 40","specialName":"Diable Jambe: Collier Strike"},"unit":{"type":"PSY","class":["Fighter","Powerhouse"],"stars":4,"cost":15,"combo":6,"slots":3,"level":50,"exp":392109,"maxHP":1230,"maxATK":698,"maxRCV":200},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1754.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1754.png"}}
+{
+  "name": "Sanji, Celebrate 20th Anniversary Cruise",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Powerhouse characters by 2x",
+    "special": "Cuts the current HP of one enemy by 15%, removes Poison and amplifies the effects of orbs by 1.75x for 1 turn",
+    "sailor": "Boosts base ATK, HP and RCV of all characters by 40",
+    "specialName": "Diable Jambe: Collier Strike"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1230,
+    "maxATK": 698,
+    "maxRCV": 200
+  },
+  "evolution": {
+    "evolution": 1755,
+    "evolvers": [
+      81,
+      87,
+      92,
+      98,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1754.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1754.png"
+  }
+}

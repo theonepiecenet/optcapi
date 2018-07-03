@@ -1,1 +1,31 @@
-{"name":"Saber Apprentice Navy","detail":{"special":"Recovers 5x character's RCV in HP","specialName":"Light Healing"},"unit":{"type":"DEX","class":"Slasher","stars":1,"cost":4,"combo":6,"slots":0,"level":20,"exp":17456,"maxHP":293,"maxATK":194,"maxRCV":44},"evolution":{"evolution":418,"evolvers":[118,83,86,302,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0180.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0180.png"}}
+{
+  "name": "Saber Apprentice Navy",
+  "detail": {
+    "special": "Recovers 5x character's RCV in HP",
+    "specialName": "Light Healing"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Slasher",
+    "stars": 1,
+    "cost": 4,
+    "combo": 6,
+    "slots": 0,
+    "level": 20,
+    "exp": 17456,
+    "maxHP": 293,
+    "maxATK": 194,
+    "maxRCV": 44
+  },
+  "evolution": {
+    "evolution": 185,
+    "evolvers": [
+      80
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0180.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0180.png"
+  }
+}

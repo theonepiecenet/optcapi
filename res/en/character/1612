@@ -1,1 +1,41 @@
-{"name":"Bartholomew Kuma, Clash of the Great Pirate Era [Crew Obliterator]","detail":{"captain":"Boosts ATK of Shooter characters by 2.5x and their HP by 1.2x","special":"Reduces Bind and Despair duration by 7 turns. Recovers 20% of crew's MAX HP and has low chance to eliminate all enemies","specialNotes":"#{instantKill : 10%}","specialName":"Paw Paw Fruit: Scatter and Fly Away","sailor":"If this character has a [PSY] orb and you hit a PERFECT with him, keep his [PSY] orb for the next turn"},"unit":{"type":"PSY","class":["Shooter","Cerebral"],"stars":5,"cost":30,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":3035,"maxATK":1300,"maxRCV":220},"evolve":{"evolution":638,"evolvers":[83,86,94,102,302]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1612.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1612.png"}}
+{
+  "name": "Bartholomew Kuma, Clash of the Great Pirate Era [Crew Obliterator]",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 2.5x and their HP by 1.2x",
+    "special": "Reduces Bind and Despair duration by 7 turns. Recovers 20% of crew's MAX HP and has low chance to eliminate all enemies",
+    "specialNotes": "#{instantKill : 10%}",
+    "specialName": "Paw Paw Fruit: Scatter and Fly Away",
+    "sailor": "If this character has a [PSY] orb and you hit a PERFECT with him, keep his [PSY] orb for the next turn"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Shooter",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 3035,
+    "maxATK": 1300,
+    "maxRCV": 220
+  },
+  "evolve": {
+    "evolution": 1612,
+    "evolvers": [
+      87,
+      98,
+      1180,
+      303,
+      103
+    ],
+    "from": 1611
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1612.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1612.png"
+  }
+}

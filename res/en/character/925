@@ -1,1 +1,39 @@
-{"name":"Secuurity Chief Miss Sadie","detail":{"captain":"Boosts ATK of Powerhouse characters by 2x","specialName":"Let's go, Jailer Beasts!","special":"Deals 15x ATK to 1 enemy in [QCK] damage, boosts ATK against enemies with reduced defense by 1.3x for 3 turns"},"unit":{"type":"QCK","class":["Striker","Free Spirit"],"stars":4,"cost":18,"combo":6,"slots":1,"level":50,"exp":392109,"maxHP":977,"maxATK":544,"maxRCV":191},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0925.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0925.png"}}
+{
+  "name": "Secuurity Chief Miss Sadie",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2x",
+    "specialName": "Let's go, Jailer Beasts!",
+    "special": "Deals 15x ATK to 1 enemy in [QCK] damage, boosts ATK against enemies with reduced defense by 1.3x for 3 turns"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 18,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 977,
+    "maxATK": 544,
+    "maxRCV": 191
+  },
+  "evolution": {
+    "evolution": 926,
+    "evolvers": [
+      117,
+      85,
+      90,
+      96,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0925.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0925.png"
+  }
+}

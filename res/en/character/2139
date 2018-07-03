@@ -1,1 +1,109 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2139.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2139.png"}}
+{
+  "name": "\"Poison Pink\" Vinsmoke Reiju, Germa 66 Science Military Force",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 2.25x and Powerhouse characters by 1.4x and the RCV of Powerhouse characters by 1.2x",
+    "captainNotes": "Attack boost stacks, so a [PSY] Powerhouse character has a 3.15x ATK",
+    "special": "If your captain is [INT] or [PSY], reduces crew's ATK DOWN and Silence duration by 3 turns and inflicts Toxic to all enemies. If the captain is a Powerhouse character, boosts ATK against enemies inflicted with Toxic by 1.75x for 1 turn",
+    "specialName": "Dangerous Butterfly",
+    "specialNotes": "#{toxic : 20x : 2x : 500,000}<br>If enemies are both Poisoned and inflicted with Toxic, only the Toxic damage will damage the enemy at the end of the turn.",
+    "sailor": {
+      "base": "Makes [INT] orbs \"beneficial\" for this unit",
+      "level1": "Reduces Silence duration on this character by 3 turns"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 3 turns"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 1 turn",
+          "Level 3: Reduces No Healing duration by 1 turn",
+          "Level 4: Reduces No Healing duration by 2 turns",
+          "Level 5: Reduces No Healing duration by 3 turns"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Cerebral"
+    ],
+    "stars": "5+",
+    "cost": 40,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2121,
+    "maxATK": 1333,
+    "maxRCV": 452
+  },
+  "evolve": {
+    "evolution": 2139,
+    "evolvers": [],
+    "from": 1834
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2139.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2139.png"
+  }
+}

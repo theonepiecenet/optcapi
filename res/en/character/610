@@ -1,1 +1,25 @@
-{"name":"Hiking Bear","detail":{"special":"Changes [TND] orbs into [RCV] orbs","specialName":"[TND] Slot Change [RCV]"},"unit":{"type":"INT","class":"Fighter","stars":2,"cost":7,"combo":5,"slots":0,"level":35,"exp":90778,"maxHP":1410,"maxATK":225,"maxRCV":30},"evolution":{"evolution":1534,"evolvers":[118,85,266,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0610.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0610.png"}}
+{
+  "name": "Hiking Bear",
+  "detail": {
+    "special": "Changes [TND] orbs into [RCV] orbs",
+    "specialName": "[TND] Slot Change [RCV]"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Fighter",
+    "stars": 2,
+    "cost": 7,
+    "combo": 5,
+    "slots": 0,
+    "level": 35,
+    "exp": 90778,
+    "maxHP": 1410,
+    "maxATK": 225,
+    "maxRCV": 30
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0610.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0610.png"
+  }
+}

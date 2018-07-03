@@ -1,1 +1,82 @@
-{"name":"프랑키 장군, 철의 해적(아이언 파이레츠)","detail":{"captain":"Boosts ATK of all characters by 2.5x if there's a [STR], [DEX], [QCK], [PSY], and [INT] character in your crew, and boosts their HP by 1.5x if there's a Fighter, Slasher, Shooter, Driven, Free Spirit, and Powerhouse character in your crew","special":"Deals 100x character's ATK in typeless damage to all enemies, remove enemies' ATK Up, Enrage, End of 턴 Damage/Percent Cut, and End of 턴 Heal Buffs, and boosts ATK of all characters by 1.5x for 1 턴","specialName":"General Cannon"}}
+{
+  "name": "프랑키 장군, 철의 해적(아이언 파이레츠)",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.5x if there's a [STR], [DEX], [QCK], [PSY], and [INT] character in your crew, and boosts their HP by 1.5x if there's a Fighter, Slasher, Shooter, Driven, Free Spirit, and Powerhouse character in your crew",
+    "special": "Deals 100x character's ATK in typeless damage to all enemies, remove enemies' ATK Up, Enrage, End of 턴 Damage/Percent Cut, and End of 턴 Heal Buffs, and boosts ATK of all characters by 1.5x for 1 턴",
+    "specialName": "General Cannon",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of all characters by 30",
+      "level2": "When any other character uses a special, reduces own cooldown by 1 turn"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 30"
+      },
+      {
+        "description": "Boosts base HP by 120"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: When any other character uses a special, reduces own cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ??% at the start of the turn, heals for ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ??% at the start of the turn, heals for ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ??% at the start of the turn, heals for ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ??% at the start of the turn, heals for ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ]
+  }
+}

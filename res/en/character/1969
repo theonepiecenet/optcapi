@@ -1,1 +1,39 @@
-{"name":"Miss Valentine, Be My Valentine","detail":{"captain":"Boosts HP of [DEX] characters by 1.5x and their RCV by 1.2x.","special":"Reduces Paralysis and Despair duration by 3 turns. Cuts the current HP of one enemy by 10%","specialName":"10,000 Kilo Guillotine - Cake Slice"},"unit":{"type":"DEX","class":["Free Spirit","Cerebral"],"stars":4,"cost":12,"combo":6,"slots":3,"level":50,"exp":261406,"maxHP":1175,"maxATK":577,"maxRCV":224},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1969.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1969.png"}}
+{
+  "name": "Miss Valentine, Be My Valentine",
+  "detail": {
+    "captain": "Boosts HP of [DEX] characters by 1.5x and their RCV by 1.2x.",
+    "special": "Reduces Paralysis and Despair duration by 3 turns. Cuts the current HP of one enemy by 10%",
+    "specialName": "10,000 Kilo Guillotine - Cake Slice"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 12,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 261406,
+    "maxHP": 1175,
+    "maxATK": 577,
+    "maxRCV": 224
+  },
+  "evolution": {
+    "evolution": 1970,
+    "evolvers": [
+      117,
+      80,
+      91,
+      97,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1969.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1969.png"
+  }
+}

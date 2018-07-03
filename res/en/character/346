@@ -1,1 +1,45 @@
-{"name":"Black Jeweled Porc","unit":{"type":"INT","class":"Booster","stars":2,"cost":2,"combo":4,"slots":0,"level":10,"exp":2330,"maxHP":119,"maxATK":88,"maxRCV":14},"evolution":{"evolution":858,"evolvers":[117,98,98,303,303]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0346.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0346.png"}}
+{
+  "name": "Black Jeweled Porc",
+  "unit": {
+    "type": "INT",
+    "class": "Booster",
+    "stars": 2,
+    "cost": 2,
+    "combo": 4,
+    "slots": 0,
+    "level": 10,
+    "exp": 2330,
+    "maxHP": 119,
+    "maxATK": 88,
+    "maxRCV": 14
+  },
+  "evolution": {
+    "evolution": [
+      351,
+      351,
+      351
+    ],
+    "evolvers": [
+      [
+        115,
+        109,
+        109
+      ],
+      [
+        82,
+        109,
+        109
+      ],
+      [
+        93,
+        109,
+        109
+      ]
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0346.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0346.png"
+  }
+}

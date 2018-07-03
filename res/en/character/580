@@ -1,1 +1,39 @@
-{"name":"Roronoa Zoro, Voyage Dream: Master Swordsman","detail":{"special":"Randomizes [BLOCK] orbs into either [QCK] or [DEX] orbs, deals 15x character's ATK in [QCK] damage to all enemies","specialName":"Dragon Twister","captain":"Boosts ATK of [QCK] and [DEX] characters by 2x"},"unit":{"type":"QCK","class":["Slasher","Driven"],"stars":5,"cost":20,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":2250,"maxATK":1118,"maxRCV":201},"evolution":{"evolution":1452,"evolvers":[117,80,91,97,102]},"evolve":{"evolution":243,"evolvers":[116,87,92,98]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0580.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0580.png"}}
+{
+  "name": "Roronoa Zoro, Voyage Dream: Master Swordsman",
+  "detail": {
+    "special": "Randomizes [BLOCK] orbs into either [QCK] or [DEX] orbs, deals 15x character's ATK in [QCK] damage to all enemies",
+    "specialName": "Dragon Twister",
+    "captain": "Boosts ATK of [QCK] and [DEX] characters by 2x"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2250,
+    "maxATK": 1118,
+    "maxRCV": 201
+  },
+  "evolve": {
+    "evolution": 580,
+    "evolvers": [
+      117,
+      85,
+      86,
+      96,
+      97
+    ],
+    "from": 579
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0580.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0580.png"
+  }
+}

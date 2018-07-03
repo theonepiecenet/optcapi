@@ -1,1 +1,56 @@
-{"name":"Sanji, Gathering of the Straw Hats","detail":{"captain":"Boosts ATK of [STR] characters by 2x","special":[{"description":"Reduces damage received by 50% and amplifies the effect of orbs by 1.5x for 1 turn.","cooldown":[11,6]},{"description":"Reduces damage received by 70% and amplifies the effect of orbs by 1.75x for 1 turn.","cooldown":[20,15]}],"specialNotes":"#{orb : 1.75x}<br>#{stages}","sailor":"Boosts base ATK, HP and RCV of all characters by 50","specialName":"Sky Walk"},"unit":{"type":"STR","class":["Fighter","Powerhouse"],"stars":4,"cost":15,"combo":4,"slots":3,"level":50,"exp":392109,"maxHP":1182,"maxATK":556,"maxRCV":148},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1367.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1367.png"}}
+{
+  "name": "Sanji, Gathering of the Straw Hats",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by 2x",
+    "special": [
+      {
+        "description": "Reduces damage received by 50% and amplifies the effect of orbs by 1.5x for 1 turn.",
+        "cooldown": [
+          11,
+          6
+        ]
+      },
+      {
+        "description": "Reduces damage received by 70% and amplifies the effect of orbs by 1.75x for 1 turn.",
+        "cooldown": [
+          20,
+          15
+        ]
+      }
+    ],
+    "specialNotes": "#{orb : 1.75x}<br>#{stages}",
+    "sailor": "Boosts base ATK, HP and RCV of all characters by 50",
+    "specialName": "Sky Walk"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1182,
+    "maxATK": 556,
+    "maxRCV": 148
+  },
+  "evolution": {
+    "evolution": 1368,
+    "evolvers": [
+      1180,
+      117,
+      84,
+      300,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1367.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1367.png"
+  }
+}

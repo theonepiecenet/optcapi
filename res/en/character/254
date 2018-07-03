@@ -1,1 +1,40 @@
-{"name":"Vista","detail":{"special":"Deals 5,000 fixed damage to all enemies","specialName":"Rose Rondo","specialNotes":"#{fixed}","captain":"Boosts ATK and HP of [INT] characters by 2x"},"unit":{"type":"INT","class":["Slasher","Powerhouse"],"stars":4,"cost":18,"combo":5,"slots":3,"level":50,"exp":392109,"maxHP":1388,"maxATK":806,"maxRCV":100},"evolution":{"evolution":739,"evolvers":[117,82,83,99,304]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0254.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0254.png"}}
+{
+  "name": "Vista",
+  "detail": {
+    "special": "Deals 5,000 fixed damage to all enemies",
+    "specialName": "Rose Rondo",
+    "specialNotes": "#{fixed}",
+    "captain": "Boosts ATK and HP of [INT] characters by 2x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 18,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1388,
+    "maxATK": 806,
+    "maxRCV": 100
+  },
+  "evolution": {
+    "evolution": 255,
+    "evolvers": [
+      118,
+      88,
+      94,
+      99,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0254.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0254.png"
+  }
+}

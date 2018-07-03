@@ -1,1 +1,41 @@
-{"name":"Monkey D. Luffy Star of Hope","detail":{"special":"Deals 10 hits of random [INT] damage to random enemies, delays all enemies for 1 turn","specialNotes":"#{randomHits : 10}<br>#{random : 1,000 : 30,000 : for each hit}","specialName":"Gum-Gum Storm","captain":"Boosts ATK of Powerhouse characters by 3x, reduces crew's current HP by 10% at the end of each turn, reduces his own ATK multiplier by 0.1x at the end of each turn","captainNotes":"His ATK multiplier will be 3.0x on the first turn, 2.9x on the second, 2.8x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Powerhouse characters. You will not die to the HP reduction"},"unit":{"type":"INT","class":["Slasher","Powerhouse"],"stars":4,"cost":30,"combo":4,"slots":1,"level":70,"exp":1066998,"maxHP":1400,"maxATK":763,"maxRCV":0},"evolution":{"evolution":1980,"evolvers":[78,84,89,95,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0794.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0794.png"}}
+{
+  "name": "Monkey D. Luffy Star of Hope",
+  "detail": {
+    "special": "Deals 10 hits of random [INT] damage to random enemies, delays all enemies for 1 turn",
+    "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 30,000 : for each hit}",
+    "specialName": "Gum-Gum Storm",
+    "captain": "Boosts ATK of Powerhouse characters by 3x, reduces crew's current HP by 10% at the end of each turn, reduces his own ATK multiplier by 0.1x at the end of each turn",
+    "captainNotes": "His ATK multiplier will be 3.0x on the first turn, 2.9x on the second, 2.8x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Powerhouse characters. You will not die to the HP reduction"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 4,
+    "slots": 1,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1400,
+    "maxATK": 763,
+    "maxRCV": 0
+  },
+  "evolution": {
+    "evolution": 795,
+    "evolvers": [
+      118,
+      88,
+      266,
+      304,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0794.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0794.png"
+  }
+}

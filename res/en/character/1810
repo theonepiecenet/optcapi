@@ -1,1 +1,40 @@
-{"name":"Kingsbird Wanda, Mokomo Dukedom","detail":{"captain":"Boosts chances of getting Matching orbs, boosts ATK of all characters by 2.25x after scoring 2 PERFECTs in a row","special":"Reduces Bind and Paralysis duration by 2 turns. If your Captain is a Slasher character, makes PERFECTs easier to hit for 1 turn","sailor":"Reduces Paralysis for 1 turn for herself","specialName":"Super Express Beast Path"},"unit":{"type":"PSY","class":["Slasher","Free Spirit"],"stars":4,"cost":20,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":2042,"maxATK":1139,"maxRCV":230},"evolve":{"evolution":717,"evolvers":[117,80,86,97,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1810.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1810.png"}}
+{
+  "name": "Kingsbird Wanda, Mokomo Dukedom",
+  "detail": {
+    "captain": "Boosts chances of getting Matching orbs, boosts ATK of all characters by 2.25x after scoring 2 PERFECTs in a row",
+    "special": "Reduces Bind and Paralysis duration by 2 turns. If your Captain is a Slasher character, makes PERFECTs easier to hit for 1 turn",
+    "sailor": "Reduces Paralysis for 1 turn for herself",
+    "specialName": "Super Express Beast Path"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2042,
+    "maxATK": 1139,
+    "maxRCV": 230
+  },
+  "evolve": {
+    "evolution": 1810,
+    "evolvers": [
+      117,
+      81,
+      87,
+      98,
+      103
+    ],
+    "from": 1809
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1810.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1810.png"
+  }
+}

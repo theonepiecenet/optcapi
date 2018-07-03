@@ -1,1 +1,29 @@
-{"name":"Black Arm Zephyr, Former Navy HQ Admiral","detail":{"captain":"Boosts ATK of all characters by 2.75x until the first hit other than PERFECT. Reduces crew's current HP by 10% at the end of each turn","special":"Reduces crew's current HP by 80%, deals 10x the amount of HP subtracted in typeless damage to one enemy. Boosts ATK of [STR] and [INT] characters by 1.75x for 1 turn","specialName":"Black Arm's Last Impact"},"unit":{"type":"STR","class":["Fighter","Driven"],"stars":5,"cost":40,"combo":4,"slots":3,"level":99,"exp":4000000,"maxHP":2620,"maxATK":1500,"maxRCV":0},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1102.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1102.png"}}
+{
+  "name": "Black Arm Zephyr, Former Navy HQ Admiral",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.75x until the first hit other than PERFECT. Reduces crew's current HP by 10% at the end of each turn",
+    "special": "Reduces crew's current HP by 80%, deals 10x the amount of HP subtracted in typeless damage to one enemy. Boosts ATK of [STR] and [INT] characters by 1.75x for 1 turn",
+    "specialName": "Black Arm's Last Impact"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 40,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2620,
+    "maxATK": 1500,
+    "maxRCV": 0
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1102.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1102.png"
+  }
+}

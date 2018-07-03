@@ -1,1 +1,100 @@
-{"name":"델린저, 돈키호테 해적단","detail":{"captain":"Boosts ATK of Powerhouse characters by 2.25x, makes [TND] and [RCV] orbs \"beneficial\" to Powerhouse characters","special":[{"description":"For Powerhouse characters, changes Badly Matching orbs into Matching orbs.","cooldown":[11,5]},{"description":"For all characters, changes Badly Matching orbs into Matching orbs.","cooldown":[20,14]}],"specialName":"Decapitation High Heel"}}
+{
+  "name": "델린저, 돈키호테 해적단",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.25x, makes [TND] and [RCV] orbs \"beneficial\" to Powerhouse characters",
+    "special": [
+      {
+        "description": "For Powerhouse characters, changes Badly Matching orbs into Matching orbs.",
+        "cooldown": [
+          11,
+          5
+        ]
+      },
+      {
+        "description": "For all characters, changes Badly Matching orbs into Matching orbs.",
+        "cooldown": [
+          20,
+          14
+        ]
+      }
+    ],
+    "specialName": "Decapitation High Heel",
+    "captainNotes": "#{beneficial}",
+    "specialNotes": "#{stages}",
+    "sailor": {
+      "base": "None",
+      "level1": "Makes [TND] orbs \"beneficial\" for Powerhouse characters",
+      "level2": "Makes [RCV] orbs \"beneficial\" for Powerhouse characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [TND] orbs \"beneficial\" for Powerhouse characters"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [RCV] orbs \"beneficial\" for Powerhouse characters"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 20% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a ??% chance to deal ??% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a ??% chance to deal ??% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a ??% chance to deal ??% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 50% chance to deal 7% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ]
+  }
+}

@@ -1,1 +1,38 @@
-{"name":"Chaka","detail":{"special":"Deals 25x character's ATK in [STR] damage to one enemy","specialName":"Ringing Fang","captain":"Boosts ATK and HP of [STR] characters by 1.2x"},"unit":{"type":"STR","class":["Slasher","Powerhouse"],"stars":3,"cost":9,"combo":5,"slots":1,"level":35,"exp":136167,"maxHP":822,"maxATK":615,"maxRCV":109},"evolution":{"evolution":1272,"evolvers":[85,94,96,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0507.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0507.png"}}
+{
+  "name": "Chaka",
+  "detail": {
+    "special": "Deals 25x character's ATK in [STR] damage to one enemy",
+    "specialName": "Ringing Fang",
+    "captain": "Boosts ATK and HP of [STR] characters by 1.2x"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 9,
+    "combo": 5,
+    "slots": 1,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 822,
+    "maxATK": 615,
+    "maxRCV": 109
+  },
+  "evolution": {
+    "evolution": 508,
+    "evolvers": [
+      116,
+      89,
+      95,
+      300
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0507.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0507.png"
+  }
+}

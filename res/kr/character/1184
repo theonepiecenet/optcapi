@@ -1,1 +1,80 @@
-{"name":"쌍권건틀렛의 킹듀","detail":{"captain":"Boosts ATK of [PSY] characters by 2.5x","special":"Empties all slots with [PSY] orbs, deals several times the character's ATK in [PSY] damage to one enemy","specialName":"Brass Knuckle Destruction","sailor":"If HP is above 99% at the start of the 턴, boosts ATK of [PSY] characters by 75"}}
+{
+  "name": "쌍권건틀렛의 킹듀",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 2.5x",
+    "special": "Empties all slots with [PSY] orbs, deals several times the character's ATK in [PSY] damage to one enemy",
+    "specialName": "Brass Knuckle Destruction",
+    "sailor": "If HP is above 99% at the start of the 턴, boosts ATK of [PSY] characters by 75",
+    "specialNotes": "The exact multiplier used is chosen based on the number of [PSY] orbs consumed: 1 orb will give a 13x multiplier, 2 orbs 19x, 3 orbs 26x, 4 orbs 65x, 5 orbs 130x, 6 orbs 230x. It's not possible to activate the special without consuming at least one [PSY] orb.",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Boosts base ATK by 70"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 70"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: When HP is above 99% at the start of the turn, boosts own base ATK by 100"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by ??",
+          "Level 3: Boosts base ATK by ??",
+          "Level 4: Boosts base ATK by ??",
+          "Level 5: Boosts base ATK by ??"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

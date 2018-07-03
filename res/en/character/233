@@ -1,1 +1,35 @@
-{"name":"Mr. 8","detail":{"captain":"Boosts HP of [PSY] characters by 1.5x"},"unit":{"type":"PSY","class":["Shooter","Cerebral"],"stars":2,"cost":10,"combo":5,"slots":0,"level":35,"exp":90778,"maxHP":530,"maxATK":248,"maxRCV":151},"evolution":{"evolution":554,"evolvers":[118,83,97,302,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0233.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0233.png"}}
+{
+  "name": "Mr. 8",
+  "detail": {
+    "captain": "Boosts HP of [PSY] characters by 1.5x"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Shooter",
+      "Cerebral"
+    ],
+    "stars": 2,
+    "cost": 10,
+    "combo": 5,
+    "slots": 0,
+    "level": 35,
+    "exp": 90778,
+    "maxHP": 530,
+    "maxATK": 248,
+    "maxRCV": 151
+  },
+  "evolution": {
+    "evolution": 234,
+    "evolvers": [
+      116,
+      81,
+      92
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0233.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0233.png"
+  }
+}

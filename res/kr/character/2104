@@ -1,1 +1,10 @@
-{"name":"Mr. Tanaka, Casino Security Officer","detail":{"captain":"Boosts ATK of Free Spirit and Shooter characters by 1.75x and boosts HP of [DEX] characters by 1.2x","special":"Deal 40x character's ATK in typeless damage to one enemy that will ignore damage negating abilities and barriers and reduces enemies ATK UP, Increased Defense and Enrage duration by 3 turns. If your captain is [DEX] or [QCK], Changes own orb into [DEX] and adds 40x characters ATK as additional typeless damage for 1 turn","specialName":"A Tormenting Show","sailor":"If this character has a [DEX] orb and you hit a GOOD or GREAT with him, keep his [DEX] orb for the next turn"}}
+{
+  "name": "Mr. Tanaka, Casino Security Officer",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit and Shooter characters by 1.75x and boosts HP of [DEX] characters by 1.2x",
+    "special": "Deal 40x character's ATK in typeless damage to one enemy that will ignore damage negating abilities and barriers and reduces enemies ATK UP, Increased Defense and Enrage duration by 3 turns. If your captain is [DEX] or [QCK], Changes own orb into [DEX] and adds 40x characters ATK as additional typeless damage for 1 turn",
+    "specialName": "A Tormenting Show",
+    "sailor": "If this character has a [DEX] orb and you hit a GOOD or GREAT with him, keep his [DEX] orb for the next turn",
+    "specialNotes": "#{ignoreBarrier}"
+  }
+}

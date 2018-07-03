@@ -1,1 +1,56 @@
-{"name":"Gladius, Pop-Pop Man","detail":{"captain":"Boosts ATK of Shooter characters by 1.75x and boosts ATK of Driven characters by 1.3x","captainNotes":"The bonus is cumulative. Shooter Driven characters get a 2.275x bonus.","special":[{"description":"Deals 13x character's ATK in [STR] damage to all enemies, reduces Bind and Despair duration by 1 turn and boosts the Color Affinity of Shooter characters by 1.5x for 1 turn","cooldown":[26,11]},{"description":"Deals 30x character's ATK in [STR] damage to all enemies, reduces Bind and Despair duration by 2 turns and boosts the Color Affinity of Shooter characters by 1.75x for 1 turn","cooldown":[33,18]}],"specialName":"Stonewall Punk","specialNotes":"#{colorAffinity : 1.75}<br>#{stages}"},"unit":{"type":"STR","class":["Driven","Shooter"],"stars":4,"cost":25,"combo":7,"slots":2,"level":70,"exp":1066998,"maxHP":1088,"maxATK":786,"maxRCV":98},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1400.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1400.png"}}
+{
+  "name": "Gladius, Pop-Pop Man",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 1.75x and boosts ATK of Driven characters by 1.3x",
+    "captainNotes": "The bonus is cumulative. Shooter Driven characters get a 2.275x bonus.",
+    "special": [
+      {
+        "description": "Deals 13x character's ATK in [STR] damage to all enemies, reduces Bind and Despair duration by 1 turn and boosts the Color Affinity of Shooter characters by 1.5x for 1 turn",
+        "cooldown": [
+          26,
+          11
+        ]
+      },
+      {
+        "description": "Deals 30x character's ATK in [STR] damage to all enemies, reduces Bind and Despair duration by 2 turns and boosts the Color Affinity of Shooter characters by 1.75x for 1 turn",
+        "cooldown": [
+          33,
+          18
+        ]
+      }
+    ],
+    "specialName": "Stonewall Punk",
+    "specialNotes": "#{colorAffinity : 1.75}<br>#{stages}"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Driven",
+      "Shooter"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 7,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1088,
+    "maxATK": 786,
+    "maxRCV": 98
+  },
+  "evolution": {
+    "evolution": 1401,
+    "evolvers": [
+      118,
+      78,
+      83,
+      95,
+      300
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1400.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1400.png"
+  }
+}

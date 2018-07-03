@@ -1,1 +1,63 @@
-{"name":"Coby, Student of the 'Hero of the Navy', Navy HQ Master Chief Petty Officer","detail":{"captain":"Boosts ATK of all characters by 2.5x after the 2nd PERFECT in a row and by 3.5x after the 5th PERFECT in a row.","special":[{"description":"If HP is below 3,000, reduces No Healing debuff by 1 turn. Recovers 3x character's RCV in HP","cooldown":[15,9]},{"description":"If HP is below 3,000, reduces No Healing debuff by 3 turns. Recovers 6x character's RCV in HP","cooldown":[20,14]},{"description":"If HP is below 3,000, removes No Healing debuff. Recovers 13x character's RCV in HP","cooldown":[24,18]}],"specialNotes":"No Healing debuff completely stops healing abilities. This is the debuff used in Akainu raid<br>#{stages}","sailor":"Reduces Blindness duration by 5 turns","specialName":"Echoing Cry of the Soul"},"unit":{"type":"PSY","class":["Fighter","Driven"],"stars":5,"cost":30,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":2024,"maxATK":1151,"maxRCV":414},"evolve":{"evolution":526,"evolvers":[118,84,94,300,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1316.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1316.png"}}
+{
+  "name": "Coby, Student of the 'Hero of the Navy', Navy HQ Master Chief Petty Officer",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.5x after the 2nd PERFECT in a row and by 3.5x after the 5th PERFECT in a row.",
+    "special": [
+      {
+        "description": "If HP is below 3,000, reduces No Healing debuff by 1 turn. Recovers 3x character's RCV in HP",
+        "cooldown": [
+          15,
+          9
+        ]
+      },
+      {
+        "description": "If HP is below 3,000, reduces No Healing debuff by 3 turns. Recovers 6x character's RCV in HP",
+        "cooldown": [
+          20,
+          14
+        ]
+      },
+      {
+        "description": "If HP is below 3,000, removes No Healing debuff. Recovers 13x character's RCV in HP",
+        "cooldown": [
+          24,
+          18
+        ]
+      }
+    ],
+    "specialNotes": "No Healing debuff completely stops healing abilities. This is the debuff used in Akainu raid<br>#{stages}",
+    "sailor": "Reduces Blindness duration by 5 turns",
+    "specialName": "Echoing Cry of the Soul"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2024,
+    "maxATK": 1151,
+    "maxRCV": 414
+  },
+  "evolve": {
+    "evolution": 1316,
+    "evolvers": [
+      87,
+      94,
+      98,
+      303,
+      103
+    ],
+    "from": 1315
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1316.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1316.png"
+  }
+}

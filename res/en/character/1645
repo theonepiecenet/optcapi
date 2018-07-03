@@ -1,1 +1,31 @@
-{"name":"Skilled Footwork Centaur, Punk Hazard Patrol Troop Corps","detail":{"captain":"Boosts ATK of [DEX] characters by 1.5x and Slasher characters by 1.3x","captainNotes":"The bonus is cumulative. [DEX] Slasher characters get a 1.95x bonus.","special":"Deals 5 hits of random typeless damage to random enemies","specialNotes":"#{randomHits : 5}","specialName":"Random Light Blows"},"unit":{"type":"DEX","class":["Slasher","Powerhouse"],"stars":3,"cost":12,"combo":6,"slots":1,"level":60,"exp":449516,"maxHP":1182,"maxATK":700,"maxRCV":169},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1645.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1645.png"}}
+{
+  "name": "Skilled Footwork Centaur, Punk Hazard Patrol Troop Corps",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 1.5x and Slasher characters by 1.3x",
+    "captainNotes": "The bonus is cumulative. [DEX] Slasher characters get a 1.95x bonus.",
+    "special": "Deals 5 hits of random typeless damage to random enemies",
+    "specialNotes": "#{randomHits : 5}",
+    "specialName": "Random Light Blows"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": 1182,
+    "maxATK": 700,
+    "maxRCV": 169
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1645.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1645.png"
+  }
+}

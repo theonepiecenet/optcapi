@@ -1,1 +1,36 @@
-{"name":"Princess Shirahoshi, Ryugu Kingdom","detail":{"captain":"Boosts ATK and RCV of [INT] characters by 1.75x","special":"Reduces Bind, Despair and Paralysis duration by 2 turns, reduces damage received by 70% for 1 turn","specialName":"Great Dinner Buffet"},"unit":{"type":"INT","class":"Striker","stars":4,"cost":20,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":1536,"maxATK":858,"maxRCV":408},"evolve":{"evolution":634,"evolvers":[118,99,99,304,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1597.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1597.png"}}
+{
+  "name": "Princess Shirahoshi, Ryugu Kingdom",
+  "detail": {
+    "captain": "Boosts ATK and RCV of [INT] characters by 1.75x",
+    "special": "Reduces Bind, Despair and Paralysis duration by 2 turns, reduces damage received by 70% for 1 turn",
+    "specialName": "Great Dinner Buffet"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Striker",
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1536,
+    "maxATK": 858,
+    "maxRCV": 408
+  },
+  "evolve": {
+    "evolution": 1597,
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      104
+    ],
+    "from": 1596
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1597.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1597.png"
+  }
+}

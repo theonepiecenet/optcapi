@@ -1,1 +1,28 @@
-{"name":"Minorhinoceros","detail":{"special":"Changes own orb into [STR], deals 25x character's ATK in [STR] damage to one enemy","specialName":"Bashful Prison Beast's Metal Rod"},"unit":{"type":"STR","class":["Striker","Powerhouse"],"stars":3,"cost":30,"combo":6,"slots":0,"level":70,"exp":1066998,"maxHP":2122,"maxATK":815,"maxRCV":-250},"evolution":{"evolution":1359,"evolvers":[82,82,82,88,88]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0539.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0539.png"}}
+{
+  "name": "Minorhinoceros",
+  "detail": {
+    "special": "Changes own orb into [STR], deals 25x character's ATK in [STR] damage to one enemy",
+    "specialName": "Bashful Prison Beast's Metal Rod"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 30,
+    "combo": 6,
+    "slots": 0,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 2122,
+    "maxATK": 815,
+    "maxRCV": -250
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0539.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0539.png"
+  }
+}

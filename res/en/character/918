@@ -1,1 +1,37 @@
-{"name":"Marguerite, Gaurdian Warrior","detail":{"captain":"Boosts ATK of Shooter characters by 1.75x, recovers a small amount of health at the end of each turn","specialName":"Kuja's Haki Arrow","special":"Deals 5,000 fixed damage to one enemy, delays all enemies for 1 turn, changes [RCV] orbs on Shooter characters into matching orbs","specialNotes":"The orb shuffle only applies to Shooter characters, other classes are unaffected."},"unit":{"type":"QCK","class":"Shooter","stars":4,"cost":20,"combo":5,"slots":2,"level":99,"exp":3000000,"maxHP":1563,"maxATK":1070,"maxRCV":335},"evolve":{"evolution":369,"evolvers":[84,85,86,87,88]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0918.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0918.png"}}
+{
+  "name": "Marguerite, Gaurdian Warrior",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 1.75x, recovers a small amount of health at the end of each turn",
+    "specialName": "Kuja's Haki Arrow",
+    "special": "Deals 5,000 fixed damage to one enemy, delays all enemies for 1 turn, changes [RCV] orbs on Shooter characters into matching orbs",
+    "specialNotes": "The orb shuffle only applies to Shooter characters, other classes are unaffected."
+  },
+  "unit": {
+    "type": "QCK",
+    "class": "Shooter",
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1563,
+    "maxATK": 1070,
+    "maxRCV": 335
+  },
+  "evolve": {
+    "evolution": 918,
+    "evolvers": [
+      117,
+      79,
+      85,
+      96,
+      101
+    ],
+    "from": 917
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0918.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0918.png"
+  }
+}

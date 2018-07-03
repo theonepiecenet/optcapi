@@ -1,1 +1,32 @@
-{"name":"Blenheim, Whitebeard 9th Div. Commander","detail":{"captain":"Boosts ATK of Powerhouse characters by 2.25x","special":"Reduces Despair duration by 2 turns, makes STR, [DEX] and [QCK] orbs \"beneficial\" to Powerhouse characters for 1 turn if HP is below 30% at the start of the turn","specialNotes":"#{beneficial}","sailor":"Makes [TND] orbs \"beneficial\" for this unit","sailorNotes":"#{beneficial}","specialName":"Australian Army Aid Blade"},"unit":{"type":"PSY","class":["Powerhouse","Slasher"],"stars":4,"cost":26,"combo":6,"slots":3,"level":99,"exp":3000000,"maxHP":1959,"maxATK":1246,"maxRCV":248},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1528.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1528.png"}}
+{
+  "name": "Blenheim, Whitebeard 9th Div. Commander",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.25x",
+    "special": "Reduces Despair duration by 2 turns, makes STR, [DEX] and [QCK] orbs \"beneficial\" to Powerhouse characters for 1 turn if HP is below 30% at the start of the turn",
+    "specialNotes": "#{beneficial}",
+    "sailor": "Makes [TND] orbs \"beneficial\" for this unit",
+    "sailorNotes": "#{beneficial}",
+    "specialName": "Australian Army Aid Blade"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 26,
+    "combo": 6,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1959,
+    "maxATK": 1246,
+    "maxRCV": 248
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1528.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1528.png"
+  }
+}

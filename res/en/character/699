@@ -1,1 +1,34 @@
-{"name":"Bazooka Major, Navy HQ","detail":{"special":"Deals 13x character's ATK in character's type damage to all enemies","specialName":"Hyper Burst","captain":"Boosts ATK of Shooter characters by 500, reduces damage received by 10%"},"unit":{"type":"STR","class":"Shooter","stars":3,"cost":13,"combo":6,"slots":1,"level":70,"exp":1066998,"maxHP":1301,"maxATK":833,"maxRCV":117},"evolution":{"evolution":1761,"evolvers":[80,86,91,97,102]},"evolve":{"evolution":286,"evolvers":[116,99,304]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0699.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0699.png"}}
+{
+  "name": "Bazooka Major, Navy HQ",
+  "detail": {
+    "special": "Deals 13x character's ATK in character's type damage to all enemies",
+    "specialName": "Hyper Burst",
+    "captain": "Boosts ATK of Shooter characters by 500, reduces damage received by 10%"
+  },
+  "unit": {
+    "type": "STR",
+    "class": "Shooter",
+    "stars": 3,
+    "cost": 13,
+    "combo": 6,
+    "slots": 1,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1301,
+    "maxATK": 833,
+    "maxRCV": 117
+  },
+  "evolve": {
+    "evolution": 699,
+    "evolvers": [
+      116,
+      95,
+      300
+    ],
+    "from": 694
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0699.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0699.png"
+  }
+}

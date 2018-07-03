@@ -1,1 +1,37 @@
-{"name":"Kaku","detail":{"special":"Amplifies the effect of orbs by 1.5x for 2 turns","specialNotes":"#{orb : 1.5x}","specialName":"Mountain Wind","captain":"Boosts HP and RCV of [QCK] characters by 1.5x"},"unit":{"type":"QCK","class":"Striker","stars":3,"cost":12,"combo":5,"slots":1,"level":50,"exp":392109,"maxHP":1233,"maxATK":635,"maxRCV":131},"evolution":{"evolution":789,"evolvers":[116,80,86]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0323.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0323.png"}}
+{
+  "name": "Kaku",
+  "detail": {
+    "special": "Amplifies the effect of orbs by 1.5x for 2 turns",
+    "specialNotes": "#{orb : 1.5x}",
+    "specialName": "Mountain Wind",
+    "captain": "Boosts HP and RCV of [QCK] characters by 1.5x"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": "Striker",
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1233,
+    "maxATK": 635,
+    "maxRCV": 131
+  },
+  "evolution": {
+    "evolution": 324,
+    "evolvers": [
+      117,
+      90,
+      85,
+      96,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0323.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0323.png"
+  }
+}

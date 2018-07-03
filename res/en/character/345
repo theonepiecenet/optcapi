@@ -1,1 +1,45 @@
-{"name":"Yellow Jeweled Porc","unit":{"type":"PSY","class":"Booster","stars":2,"cost":2,"combo":4,"slots":0,"level":10,"exp":2330,"maxHP":120,"maxATK":58,"maxRCV":28},"evolution":{"evolution":856,"evolvers":[117,86,94,97,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0345.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0345.png"}}
+{
+  "name": "Yellow Jeweled Porc",
+  "unit": {
+    "type": "PSY",
+    "class": "Booster",
+    "stars": 2,
+    "cost": 2,
+    "combo": 4,
+    "slots": 0,
+    "level": 10,
+    "exp": 2330,
+    "maxHP": 120,
+    "maxATK": 58,
+    "maxRCV": 28
+  },
+  "evolution": {
+    "evolution": [
+      350,
+      350,
+      350
+    ],
+    "evolvers": [
+      [
+        115,
+        108,
+        108
+      ],
+      [
+        81,
+        108,
+        108
+      ],
+      [
+        92,
+        108,
+        108
+      ]
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0345.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0345.png"
+  }
+}

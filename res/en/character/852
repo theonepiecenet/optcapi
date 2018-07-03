@@ -1,1 +1,39 @@
-{"name":"Slimmed-down Wapol","detail":{"captain":"Boosts ATK of Driven characters by 2x","specialName":"Snow Country Speciality: Snow Powder Makeup","special":"Deals 20x character's ATK in character's type damage to one enemy, locks all orbs for 1 turn"},"unit":{"type":"QCK","class":["Shooter","Driven"],"stars":4,"cost":20,"combo":5,"slots":2,"level":99,"exp":3000000,"maxHP":1923,"maxATK":867,"maxRCV":247},"evolution":{"evolution":2121,"evolvers":[86,86,266,94,102]},"evolve":{"evolution":344,"evolvers":[117,86,94,97,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0852.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0852.png"}}
+{
+  "name": "Slimmed-down Wapol",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 2x",
+    "specialName": "Snow Country Speciality: Snow Powder Makeup",
+    "special": "Deals 20x character's ATK in character's type damage to one enemy, locks all orbs for 1 turn"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1923,
+    "maxATK": 867,
+    "maxRCV": 247
+  },
+  "evolve": {
+    "evolution": 852,
+    "evolvers": [
+      117,
+      78,
+      85,
+      95,
+      101
+    ],
+    "from": 851
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0852.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0852.png"
+  }
+}

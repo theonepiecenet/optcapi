@@ -1,1 +1,10 @@
-{"name":"갓 에넬, 끝나지 않은 꿈의 천적","detail":{"captain":"일당의 최대 체력이 20% 줄어드는 대신 [RCV] 슬롯 출현율이 상승, 일당의 [RCV] 슬롯을 [유리](\"beneficial\") 슬롯으로 취급하고, 이전 턴의 회복량에 따라 일당의 공격력이 2배~3.25배가 된다","captainNotes":"The range of ATK boost is from 2x to 3.25x. The exact boost is calculated as 2 + <HP recovered in the previous 턴> * 0.000125 and maxes at 10k HP healed. This ignores your max HP, so it doesn't stop counting if you over-heal.","special":"필살기 발동 시까지 최대 체력을 넘어 회복한 값x10배의 무 속성 데미지를 적 전체에게 준다(최대 2,000,000 데미지)","specialNotes":"The excess healing is counted from the last time the special is used and accumulates when you heal more than your maximum HP. For example, if you are at max HP, and you heal 1,000 HP, you will add 10k damage to the special. The amount of damage possible caps at 2,000,000 damage.","specialName":"만 개의 번개"}}
+{
+  "name": "갓 에넬, 끝나지 않은 꿈의 천적",
+  "detail": {
+    "captain": "일당의 최대 체력이 20% 줄어드는 대신 [RCV] 슬롯 출현율이 상승, 일당의 [RCV] 슬롯을 [유리](\"beneficial\") 슬롯으로 취급하고, 이전 턴의 회복량에 따라 일당의 공격력이 2배~3.25배가 된다",
+    "captainNotes": "The range of ATK boost is from 2x to 3.25x. The exact boost is calculated as 2 + <HP recovered in the previous 턴> * 0.000125 and maxes at 10k HP healed. This ignores your max HP, so it doesn't stop counting if you over-heal.",
+    "special": "필살기 발동 시까지 최대 체력을 넘어 회복한 값x10배의 무 속성 데미지를 적 전체에게 준다(최대 2,000,000 데미지)",
+    "specialNotes": "The excess healing is counted from the last time the special is used and accumulates when you heal more than your maximum HP. For example, if you are at max HP, and you heal 1,000 HP, you will add 10k damage to the special. The amount of damage possible caps at 2,000,000 damage.",
+    "specialName": "만 개의 번개"
+  }
+}

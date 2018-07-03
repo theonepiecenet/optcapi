@@ -1,1 +1,25 @@
-{"name":"Sword Bandit","detail":{"special":"Deals 10x character's ATK in character's type damage to one enemy","specialName":"Hyper Slash"},"unit":{"type":"DEX","class":"Slasher","stars":1,"cost":1,"combo":5,"slots":0,"level":20,"exp":8728,"maxHP":348,"maxATK":140,"maxRCV":41},"evolution":{"evolution":253,"evolvers":[118,85,94,96,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0119.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0119.png"}}
+{
+  "name": "Sword Bandit",
+  "detail": {
+    "special": "Deals 10x character's ATK in character's type damage to one enemy",
+    "specialName": "Hyper Slash"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Slasher",
+    "stars": 1,
+    "cost": 1,
+    "combo": 5,
+    "slots": 0,
+    "level": 20,
+    "exp": 8728,
+    "maxHP": 348,
+    "maxATK": 140,
+    "maxRCV": 41
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0119.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0119.png"
+  }
+}

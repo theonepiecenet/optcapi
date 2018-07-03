@@ -1,1 +1,39 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2148.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2148.png"}}
+{
+  "name": "Vinsmoke Sanji, Germa Kingdom's Savior",
+  "detail": {
+    "captain": "If there are 6 Fighter characters in your crew, boosts chain multiplier by 4x and boosts ATK of Fighter characters by 1.75x. Lowers chances of getting Matching orbs proportionally to the crew's current HP.",
+    "captainNotes": "At 1 HP, the rate of Matching orbs is ???% (lower) and at full HP, the rate of Matching orbs is ???%",
+    "special": "Deals 150x character's ATK in [PSY] damage to one enemy. If HP is above ?% at the time the special is activated, boosts ATK of Fighter characters by 2.25x for 1 turn. If Sanji is your Captain or Friend/Guest Captain, reduces Chain Multiplier Limit and Chain Coefficient Reduction duration by 10 turns",
+    "specialName": "Full Course of Hell",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts this character's attack against [INT] characters by 1.2x",
+      "level2": "Makes [PSY] orbs \"beneficial\" for Fighter characters"
+    }
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 3450,
+    "maxATK": 1520,
+    "maxRCV": 376
+  },
+  "evolve": {
+    "evolution": 2148,
+    "evolvers": [],
+    "from": 2147
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2148.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2148.png"
+  }
+}

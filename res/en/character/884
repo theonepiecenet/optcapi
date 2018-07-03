@@ -1,1 +1,39 @@
-{"name":"Dorry the Blue Ogre","detail":{"captain":"Boosts ATK and HP of Powerhouse characters by 1.5x","specialName":"Hakoku Sovereignity","special":"Deals 20x character's ATK in character's type damage to all enemies, boosts ATK of Powerhouse characters by 1.5x for 1 turn. If \"Hakoku Sovereignity\" is used again in the same turn the special is activated in, boosts ATK of Powerhouse characters by 2x instead."},"unit":{"type":"INT","class":["Slasher","Powerhouse"],"stars":5,"cost":30,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":2640,"maxATK":1000,"maxRCV":156},"evolve":{"evolution":357,"evolvers":[117,80,86,97,302]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0884.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0884.png"}}
+{
+  "name": "Dorry the Blue Ogre",
+  "detail": {
+    "captain": "Boosts ATK and HP of Powerhouse characters by 1.5x",
+    "specialName": "Hakoku Sovereignity",
+    "special": "Deals 20x character's ATK in character's type damage to all enemies, boosts ATK of Powerhouse characters by 1.5x for 1 turn. If \"Hakoku Sovereignity\" is used again in the same turn the special is activated in, boosts ATK of Powerhouse characters by 2x instead."
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2640,
+    "maxATK": 1000,
+    "maxRCV": 156
+  },
+  "evolve": {
+    "evolution": 884,
+    "evolvers": [
+      117,
+      88,
+      93,
+      99,
+      104
+    ],
+    "from": 883
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0884.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0884.png"
+  }
+}

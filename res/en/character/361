@@ -1,1 +1,41 @@
-{"name":"Red Flag X Drake","detail":{"special":"Deals 10x character's ATK in [INT] damage to all enemies, protects from defeat as long as HP is above 50% for 1 turn","specialName":"Prehistoric Power","specialNotes":"#{zombie}","captain":"Boosts ATK of [INT] characters by 3x if HP is below 30% at the start of the turn","sailor":"Boosts base HP of Powerhouse characters by 100"},"unit":{"type":"INT","class":["Fighter","Powerhouse"],"stars":5,"cost":28,"combo":6,"slots":4,"level":99,"exp":4000000,"maxHP":3580,"maxATK":1098,"maxRCV":132},"evolution":{"evolution":901,"evolvers":[118,86,94,302,102]},"evolve":{"evolution":154,"evolvers":[118,81,83,303,103]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0361.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0361.png"}}
+{
+  "name": "Red Flag X Drake",
+  "detail": {
+    "special": "Deals 10x character's ATK in [INT] damage to all enemies, protects from defeat as long as HP is above 50% for 1 turn",
+    "specialName": "Prehistoric Power",
+    "specialNotes": "#{zombie}",
+    "captain": "Boosts ATK of [INT] characters by 3x if HP is below 30% at the start of the turn",
+    "sailor": "Boosts base HP of Powerhouse characters by 100"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 28,
+    "combo": 6,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 3580,
+    "maxATK": 1098,
+    "maxRCV": 132
+  },
+  "evolve": {
+    "evolution": 361,
+    "evolvers": [
+      118,
+      82,
+      83,
+      304,
+      104
+    ],
+    "from": 360
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0361.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0361.png"
+  }
+}

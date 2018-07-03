@@ -1,1 +1,29 @@
-{"name":"Heracles'n, Highwayman of the Forest, Teacher of Amazing Weapons","detail":{"captain":"Boosts ATK, HP and RCV of Shooter and Cerebral characters by 1.5x","special":"Randomizes all orbs, including [BLOCK] orbs, switches orbs between slots 3 times","specialName":"Survival Techniques of the Hungry Baron"},"unit":{"type":"DEX","class":["Cerebral","Shooter"],"stars":4,"cost":20,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":2095,"maxATK":899,"maxRCV":303},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1346.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1346.png"}}
+{
+  "name": "Heracles'n, Highwayman of the Forest, Teacher of Amazing Weapons",
+  "detail": {
+    "captain": "Boosts ATK, HP and RCV of Shooter and Cerebral characters by 1.5x",
+    "special": "Randomizes all orbs, including [BLOCK] orbs, switches orbs between slots 3 times",
+    "specialName": "Survival Techniques of the Hungry Baron"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Cerebral",
+      "Shooter"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2095,
+    "maxATK": 899,
+    "maxRCV": 303
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1346.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1346.png"
+  }
+}

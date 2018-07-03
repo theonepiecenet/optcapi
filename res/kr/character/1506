@@ -1,1 +1,9 @@
-{"name":"호디 존스, 각성","detail":{"captain":"Reduces cooldown of all specials by 1 턴 at the start of the fight, boosts ATK of Powerhouse characters by 2.5x 전투 시작 시 체력이 30% 미만이면, 2.25x otherwise","special":"Deals 15x character's ATK in [STR] damage to all enemies that will ignore damage negating abilities and barriers, makes PERFECTs harder to hit for 1 턴, reduces crew's current HP by 90%, boosts own ATK by 2.25x for 1 턴.","specialName":"Shark Arrows"}}
+{
+  "name": "호디 존스, 각성",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 1 턴 at the start of the fight, boosts ATK of Powerhouse characters by 2.5x 전투 시작 시 체력이 30% 미만이면, 2.25x otherwise",
+    "special": "Deals 15x character's ATK in [STR] damage to all enemies that will ignore damage negating abilities and barriers, makes PERFECTs harder to hit for 1 턴, reduces crew's current HP by 90%, boosts own ATK by 2.25x for 1 턴.",
+    "specialName": "Shark Arrows",
+    "specialNotes": "#{ignoreBarrier}"
+  }
+}

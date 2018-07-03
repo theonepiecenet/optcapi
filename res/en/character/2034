@@ -1,1 +1,55 @@
-{"name":"Borsalino, Navy HQ Greatest Military Power","detail":{"captain":"Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of all characters by 2x and boosts RCV of all characters by 1.35x. If you use \"Yasakani no Magatama: Divine Light\" boosts ATK of all characters by 3.5x instead.","special":[{"description":"For Shooter and Slasher characters, randomizes all non-matching orbs. Recovers 6x character's RCV in HP. Deals 20 hits of random typeless damage to random enemies.","cooldown":[9,6]},{"description":"Changes all orbs on Shooter and Slasher characters into Matching orbs. Recovers 15x character's RCV in HP. Deals 20 hits of large random typeless damage to random enemies.","cooldown":[15,12]}],"specialNotes":"#{randomHits : 20}<br>#{random : ??? : ??? : for each hit on Stage 1}<br>#{random : ??? : ??? : for each hit on Stage 2}<br>#{stages}","specialName":"Yasakani no Magatama: Divine Light"},"unit":{"type":"PSY","class":["Slasher","Shooter"],"stars":"6+","cost":65,"combo":7,"slots":4,"level":99,"exp":5000000,"maxHP":2928,"maxATK":1512,"maxRCV":508},"evolve":{"evolution":494,"evolvers":[116,117,78,84,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2034.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2034.png"}}
+{
+  "name": "Borsalino, Navy HQ Greatest Military Power",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of all characters by 2x and boosts RCV of all characters by 1.35x. If you use \"Yasakani no Magatama: Divine Light\" boosts ATK of all characters by 3.5x instead.",
+    "special": [
+      {
+        "description": "For Shooter and Slasher characters, randomizes all non-matching orbs. Recovers 6x character's RCV in HP. Deals 20 hits of random typeless damage to random enemies.",
+        "cooldown": [
+          9,
+          6
+        ]
+      },
+      {
+        "description": "Changes all orbs on Shooter and Slasher characters into Matching orbs. Recovers 15x character's RCV in HP. Deals 20 hits of large random typeless damage to random enemies.",
+        "cooldown": [
+          15,
+          12
+        ]
+      }
+    ],
+    "specialNotes": "#{randomHits : 20}<br>#{random : ??? : ??? : for each hit on Stage 1}<br>#{random : ??? : ??? : for each hit on Stage 2}<br>#{stages}",
+    "specialName": "Yasakani no Magatama: Divine Light"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Shooter"
+    ],
+    "stars": "6+",
+    "cost": 65,
+    "combo": 7,
+    "slots": 4,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 2928,
+    "maxATK": 1512,
+    "maxRCV": 508
+  },
+  "evolve": {
+    "evolution": 2034,
+    "evolvers": [
+      "skullPSY",
+      118,
+      87,
+      303,
+      267
+    ],
+    "from": 1240
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2034.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2034.png"
+  }
+}

@@ -1,1 +1,39 @@
-{"name":"X Drake, Captain of the Drake Pirates","detail":{"captain":"Boosts ATK of all characters by 2x if HP is below 30% at the start of the turn","special":"Deals 25x ATK in [PSY] damage to one enemy. If HP is less than 30% then changes adjacent orbs into matching orbs","specialName":"Double Edge of Revolt"},"unit":{"type":"PSY","class":["Cerebral","Slasher"],"stars":4,"cost":25,"combo":5,"slots":2,"level":70,"exp":1066998,"maxHP":1353,"maxATK":693,"maxRCV":179},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1090.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1090.png"}}
+{
+  "name": "X Drake, Captain of the Drake Pirates",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2x if HP is below 30% at the start of the turn",
+    "special": "Deals 25x ATK in [PSY] damage to one enemy. If HP is less than 30% then changes adjacent orbs into matching orbs",
+    "specialName": "Double Edge of Revolt"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Cerebral",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 5,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1353,
+    "maxATK": 693,
+    "maxRCV": 179
+  },
+  "evolution": {
+    "evolution": 1091,
+    "evolvers": [
+      118,
+      83,
+      87,
+      303,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1090.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1090.png"
+  }
+}

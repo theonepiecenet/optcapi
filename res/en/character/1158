@@ -1,1 +1,40 @@
-{"name":"Chief Warden Magellan","detail":{"captain":"Boosts ATK of Shooter, Striker and Powerhouse characters by 1.75x","special":"Cuts the current HP of all enemies by 20%. Strongly Poisons one enemy and Poisons all other enemies.","specialNotes":"Strong Poison deals 5x character's ATK in fixed damage at the end of each turn. Regular Poison deals .5x character's ATK in fixed damage at the end of each turn.","specialName":"Poison Puffer Fish"},"unit":{"type":"STR","class":["Powerhouse","Shooter"],"stars":3,"cost":18,"combo":4,"slots":1,"level":50,"exp":392109,"maxHP":1093,"maxATK":470,"maxRCV":-250},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1158.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1158.png"}}
+{
+  "name": "Chief Warden Magellan",
+  "detail": {
+    "captain": "Boosts ATK of Shooter, Striker and Powerhouse characters by 1.75x",
+    "special": "Cuts the current HP of all enemies by 20%. Strongly Poisons one enemy and Poisons all other enemies.",
+    "specialNotes": "Strong Poison deals 5x character's ATK in fixed damage at the end of each turn. Regular Poison deals .5x character's ATK in fixed damage at the end of each turn.",
+    "specialName": "Poison Puffer Fish"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Powerhouse",
+      "Shooter"
+    ],
+    "stars": 3,
+    "cost": 18,
+    "combo": 4,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1093,
+    "maxATK": 470,
+    "maxRCV": -250
+  },
+  "evolution": {
+    "evolution": 1159,
+    "evolvers": [
+      118,
+      78,
+      82,
+      95,
+      304
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1158.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1158.png"
+  }
+}

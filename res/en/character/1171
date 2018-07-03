@@ -1,1 +1,37 @@
-{"name":"Mr. Tanaka, Gran Tesoro Security","detail":{"captain":"Boosts ATK of [QCK] characters by 2x","special":"Reduces Bind duration by 3 turns and swaps Badly Matching, [BLOCK] and [BOMB] orbs to [EMPTY]","specialName":"Escape-Escape Fruit"},"unit":{"type":"QCK","class":["Shooter","Free Spirit"],"stars":4,"cost":20,"combo":4,"slots":2,"level":99,"exp":3000000,"maxHP":1706,"maxATK":1089,"maxRCV":305},"evolve":{"evolution":464,"evolvers":[118,92,94,98,303]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1171.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1171.png"}}
+{
+  "name": "Mr. Tanaka, Gran Tesoro Security",
+  "detail": {
+    "captain": "Boosts ATK of [QCK] characters by 2x",
+    "special": "Reduces Bind duration by 3 turns and swaps Badly Matching, [BLOCK] and [BOMB] orbs to [EMPTY]",
+    "specialName": "Escape-Escape Fruit"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1706,
+    "maxATK": 1089,
+    "maxRCV": 305
+  },
+  "evolve": {
+    "evolution": 1171,
+    "evolvers": [
+      116,
+      117,
+      85
+    ],
+    "from": 1170
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1171.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1171.png"
+  }
+}

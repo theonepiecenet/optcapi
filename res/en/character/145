@@ -1,1 +1,39 @@
-{"name":"Fighter Group Crew Yellow Pirates","detail":{"special":"Reduces damage received by 20% for 1 turn","specialName":"Iron Shield"},"unit":{"type":"PSY","class":"Fighter","stars":2,"cost":6,"combo":5,"slots":0,"level":30,"exp":57558,"maxHP":695,"maxATK":398,"maxRCV":41},"evolution":{"evolution":[347,347,347],"evolvers":[[115,105,105],[78,105,105],[89,105,105]]},"evolve":{"evolution":46,"evolvers":[93]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0145.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0145.png"}}
+{
+  "name": "Fighter Group Crew Yellow Pirates",
+  "detail": {
+    "special": "Reduces damage received by 20% for 1 turn",
+    "specialName": "Iron Shield"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": "Fighter",
+    "stars": 2,
+    "cost": 6,
+    "combo": 5,
+    "slots": 0,
+    "level": 30,
+    "exp": 57558,
+    "maxHP": 695,
+    "maxATK": 398,
+    "maxRCV": 41
+  },
+  "evolution": {
+    "evolution": 272,
+    "evolvers": [
+      115,
+      116,
+      92
+    ]
+  },
+  "evolve": {
+    "evolution": 145,
+    "evolvers": [
+      92
+    ],
+    "from": 124
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0145.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0145.png"
+  }
+}

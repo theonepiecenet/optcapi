@@ -1,1 +1,41 @@
-{"name":"Shirahoshi, Be My Valentine","detail":{"captain":"Reduce damage received by 15%.","special":"Reduces Paralysis and Silence and ATK DOWN duration by 5 turns, recovers 7,000 HP at the end of the turn for 3 turns and changes orbs in the top row into Matching orbs","specialName":"An Important Confession from the Mermaid Princess","sailor":"Completely resists Silence on this character","sailorNotes":"#{silence}"},"unit":{"type":"DEX","class":["Cerebral","Free Spirit"],"stars":4,"cost":15,"combo":6,"slots":3,"level":50,"exp":392109,"maxHP":1106,"maxATK":496,"maxRCV":202},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1958.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1958.png"}}
+{
+  "name": "Shirahoshi, Be My Valentine",
+  "detail": {
+    "captain": "Reduce damage received by 15%.",
+    "special": "Reduces Paralysis and Silence  and ATK DOWN duration by 5 turns, recovers 7,000 HP at the end of the turn for 3 turns and changes orbs in the top row into Matching orbs",
+    "specialName": "An Important Confession from the Mermaid Princess",
+    "sailor": "Completely resists Silence on this character",
+    "sailorNotes": "#{silence}"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Cerebral",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1106,
+    "maxATK": 496,
+    "maxRCV": 202
+  },
+  "evolution": {
+    "evolution": 1959,
+    "evolvers": [
+      1180,
+      91,
+      97,
+      302,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1958.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1958.png"
+  }
+}

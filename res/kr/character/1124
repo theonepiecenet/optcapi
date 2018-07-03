@@ -1,1 +1,9 @@
-{"name":"슐레이만","detail":{"captain":"참격 캐릭터의 공격력을 3배로 상승시키고, 턴 경과마다 공격력이 x0.1배씩 감소한다.","special":"적 전체에게 캐릭터 공격력의 x13배의 PST데미지를 주고, 자신과 선장의 슬롯을 자신의 속성으로 변환 한다.","specialName":"게으른 단죄"}}
+{
+  "name": "슐레이만",
+  "detail": {
+    "captain": "참격 캐릭터의 공격력을 3배로 상승시키고, 턴 경과마다 공격력이 x0.1배씩 감소한다.",
+    "special": "적 전체에게 캐릭터 공격력의 x13배의 PST데미지를 주고, 자신과 선장의 슬롯을 자신의 속성으로 변환 한다.",
+    "specialName": "게으른 단죄",
+    "captainNotes": "His ATK multiplier will be 3x on the first turn, 2.9x on the second, 2.8x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Slasher characters."
+  }
+}

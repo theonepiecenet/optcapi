@@ -1,1 +1,139 @@
-{"name":"Bartolomeo the Cannibal, Straw Hat Grand Fleet - \"Son's Cup\"","detail":{"captain":"Boosts ATK of Striker and Driven characters by 3x. If you don't attack with Bartolomeo, reduces damage received by 30% for that turn.","special":"Protects from defeat for 1 turn and boosts ATK of Striker and Driven characters and amplifies orbs of Striker and Driven characters by 1.5x for 1 turn","specialNotes":"#{zombie}","specialName":"An Oath of One's Life and Soul","sailor":{"base":"None","level1":"Boosts base ATK and HP of Striker characters by 60","level2":"Completely resists Paralysis on this character"},"limit":[{"description":"Boosts base ATK by 10"},{"description":"Boosts base HP by 30"},{"description":"Boosts base RCV by 10"},{"description":"Acquire Potential 1: [DEX] Damage Reduction"},{"description":"Boosts base RCV by 15"},{"description":"Boosts base HP by 35"},{"description":"Boosts base ATK by 15"},{"description":"Acquire Sailor Ability 1: Boosts base ATK and HP of Striker characters by 60"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base HP by 40"},{"description":"Boosts base ATK by 25"},{"description":"Boosts base HP by 45"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base HP by 50"},{"description":"Acquire Potential 2: Enrage"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base ATK by 30"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base HP by 55"},{"description":"Boosts base HP by 65"},{"description":"Boosts base ATK by 35"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base HP by 70"},{"description":"Boosts base HP by 80"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base RCV by 40"},{"description":"Acquire Sailor Ability 2: Completely resists Paralysis on this character"},{"description":"Boosts base ATK by 40"},{"description":"Boosts base ATK by 45"},{"description":"Acquire Potential 3: Reduce No Healing duration"}],"potential":[{"Name":"[DEX] Damage Reduction","description":["Level 1: Reduce damage taken from [DEX] characters by 2%","Level 2: Reduce damage taken from [DEX] characters by 3%","Level 3: Reduce damage taken from [DEX] characters by 4%","Level 4: Reduce damage taken from [DEX] characters by 5%","Level 5: Reduce damage taken from [DEX] characters by 7%"]},{"Name":"Enrage","description":["Level 1: Boosts base ATK by 30","Level 2: Boosts base ATK by 60","Level 3: Boosts base ATK by 90","Level 4: Boosts base ATK by 120","Level 5: Boosts base ATK by 150"]},{"Name":"Reduce No Healing duration","description":["Level 1: Reduces No Healing duration by 1 turn","Level 2: Reduces No Healing duration by 2 turns","Level 3: Reduces No Healing duration by 3 turns","Level 4: Reduces No Healing duration by 4 turns","Level 5: Reduces No Healing duration by 5 turns"]}],"potentialNotes":"#{enrage}"}}
+{
+  "name": "Bartolomeo the Cannibal, Straw Hat Grand Fleet - \"Son's Cup\"",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Driven characters by 3x. If you don't attack with Bartolomeo, reduces damage received by 30% for that turn.",
+    "special": "Protects from defeat for 1 turn and boosts ATK of Striker and Driven characters and amplifies orbs of Striker and Driven characters by 1.5x for 1 turn",
+    "specialNotes": "#{zombie}",
+    "specialName": "An Oath of One's Life and Soul",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK and HP of Striker characters by 60",
+      "level2": "Completely resists Paralysis on this character"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 35"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK and HP of Striker characters by 60"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 55"
+      },
+      {
+        "description": "Boosts base HP by 65"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Completely resists Paralysis on this character"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 45"
+      },
+      {
+        "description": "Acquire Potential 3: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by 2%",
+          "Level 2: Reduce damage taken from [DEX] characters by 3%",
+          "Level 3: Reduce damage taken from [DEX] characters by 4%",
+          "Level 4: Reduce damage taken from [DEX] characters by 5%",
+          "Level 5: Reduce damage taken from [DEX] characters by 7%"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 30",
+          "Level 2: Boosts base ATK by 60",
+          "Level 3: Boosts base ATK by 90",
+          "Level 4: Boosts base ATK by 120",
+          "Level 5: Boosts base ATK by 150"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

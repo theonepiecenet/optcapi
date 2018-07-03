@@ -1,1 +1,11 @@
-{"name":"블렌하임, 흰수염 해적단 9번대 대장","detail":{"captain":"Boosts ATK of Powerhouse characters by 2.25x","special":"Reduces Despair duration by 2 턴, makes STR, DEX, and QCK orbs \"beneficial\" to Powerhouse characters for 1 턴 전투 시작 시 체력이 30% 미만이면","sailor":"Makes [TND] orbs \"beneficial\" for this unit","specialName":"Australian Army Aid Blade"}}
+{
+  "name": "블렌하임, 흰수염 해적단 9번대 대장",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.25x",
+    "special": "Reduces Despair duration by 2 턴, makes STR, DEX, and QCK orbs \"beneficial\" to Powerhouse characters for 1 턴 전투 시작 시 체력이 30% 미만이면",
+    "sailor": "Makes [TND] orbs \"beneficial\" for this unit",
+    "specialName": "Australian Army Aid Blade",
+    "specialNotes": "#{beneficial}",
+    "sailorNotes": "#{beneficial}"
+  }
+}

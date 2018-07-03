@@ -1,1 +1,29 @@
-{"name":"Iceburg, Tom's Workers","detail":{"captain":"Boosts ATK of Striker and Cerebral characters by 1.5x","specialName":"First-class Assistant of the Passionate Worker","special":"Changes the top right orb into [DEX], the middle right orb into [STR] and the bottom right orb into [QCK], seals himself for 3 turns"},"unit":{"type":"QCK","class":["Striker","Cerebral"],"stars":3,"cost":13,"combo":6,"slots":2,"level":70,"exp":1066998,"maxHP":1098,"maxATK":694,"maxRCV":203},"evolution":{"evolution":2117,"evolvers":[88,93,304,1180,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0850.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0850.png"}}
+{
+  "name": "Iceburg, Tom's Workers",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Cerebral characters by 1.5x",
+    "specialName": "First-class Assistant of the Passionate Worker",
+    "special": "Changes the top right orb into [DEX], the middle right orb into [STR] and the bottom right orb into [QCK], seals himself for 3 turns"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": 6,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1098,
+    "maxATK": 694,
+    "maxRCV": 203
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0850.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0850.png"
+  }
+}

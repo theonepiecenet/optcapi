@@ -1,1 +1,11 @@
-{"name":"브룩의 브레이크 타임","detail":{"captain":"Boosts ATK of [STR] and [QCK] characters by 1.5x","special":"Cuts the current HP of each enemy by 10% and makes [RCV] orbs \"beneficial\" for all characters for 1 턴","specialName":"Three-Verse Humming: Arrow-Notch Slash - Hail","sailor":"Makes [RCV] orbs \"beneficial\" for this unit"}}
+{
+  "name": "브룩의 브레이크 타임",
+  "detail": {
+    "captain": "Boosts ATK of [STR] and [QCK] characters by 1.5x",
+    "special": "Cuts the current HP of each enemy by 10% and makes [RCV] orbs \"beneficial\" for all characters for 1 턴",
+    "specialName": "Three-Verse Humming: Arrow-Notch Slash - Hail",
+    "sailor": "Makes [RCV] orbs \"beneficial\" for this unit",
+    "specialNotes": "#{beneficial}",
+    "sailorNotes": "#{beneficial}"
+  }
+}

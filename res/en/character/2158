@@ -1,1 +1,123 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2158.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2158.png"}}
+{
+  "name": "Thousand Arm Cracker",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 2.75x and their HP by 1.25x",
+    "special": [
+      {
+        "description": "Changes all orbs to [DEX] orbs, makes [DEX] orbs \"beneficial\" for all characters and cuts the current HP of one enemy by 10% that will ignore damage negating abilities and barriers.",
+        "cooldown": [
+          26,
+          11
+        ]
+      },
+      {
+        "description": "Reduces Chain Multiplier Limit duration by 5 turns, changes all orbs, including [BLOCK] orbs, to [DEX] orbs, makes [DEX] orbs \"beneficial\" for all characters and cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers.",
+        "cooldown": [
+          30,
+          15
+        ]
+      }
+    ],
+    "specialName": "Honey Pretzel",
+    "specialNotes": "#{ignoreBarrier}<br>#{stages}",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK of Cerebral characters by 75",
+      "level2": "Boosts base HP of [DEX] characters by 75"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of Cerebral characters by 75"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 35"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts base HP of [DEX] characters by 75"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by ?%",
+          "Level 2: Reduce damage taken from [QCK] characters by ?%",
+          "Level 3: Reduce damage taken from [QCK] characters by ?%",
+          "Level 4: Reduce damage taken from [QCK] characters by ?%",
+          "Level 5: Reduce damage taken from [QCK] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Cerebral",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 2835,
+    "maxATK": 1510,
+    "maxRCV": 210
+  },
+  "evolve": {
+    "evolution": 2158,
+    "evolvers": [],
+    "from": 2157
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2158.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2158.png"
+  }
+}

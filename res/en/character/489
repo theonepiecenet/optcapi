@@ -1,1 +1,32 @@
-{"name":"Green Nomad, Shandian Warrior","detail":{"special":"Boosts ATK of [DEX] characters by 1.2x for 1 turn","specialName":"Attack Boost DEX"},"unit":{"type":"DEX","class":"Striker","stars":2,"cost":6,"combo":5,"slots":0,"level":30,"exp":57558,"maxHP":517,"maxATK":289,"maxRCV":89},"evolution":{"evolution":1232,"evolvers":[118,83,86,302,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0489.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0489.png"}}
+{
+  "name": "Green Nomad, Shandian Warrior",
+  "detail": {
+    "special": "Boosts ATK of [DEX] characters by 1.2x for 1 turn",
+    "specialName": "Attack Boost DEX"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Striker",
+    "stars": 2,
+    "cost": 6,
+    "combo": 5,
+    "slots": 0,
+    "level": 30,
+    "exp": 57558,
+    "maxHP": 517,
+    "maxATK": 289,
+    "maxRCV": 89
+  },
+  "evolution": {
+    "evolution": 492,
+    "evolvers": [
+      117,
+      302
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0489.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0489.png"
+  }
+}

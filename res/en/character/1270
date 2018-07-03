@@ -1,1 +1,113 @@
-{"name":"\"Demon Sheriff\" Laffitte","detail":{"captain":"Recovers 3x character's RCV in HP at the end of each turn. Deals 7x character's ATK in [DEX] damage to all enemies at the end of each turn.","special":"Reduces Bind and Despair duration by 2 turns. Makes Badly Matching and [BLOCK] orbs not reduce damage for 4 turns","specialNotes":"Ex. A [STR] character with a [QCK] orb will still deal regular damage","sailor":{"base":"Boosts base ATK of all characters by 100 if your captain is a Driven character","level1":"Reduces Blindness duration by 3 turns"},"specialName":"Horrifying Suggestion","limit":[{"description":"Boosts base HP by 10"},{"description":"Boosts base RCV by 10"},{"description":"Boosts base HP by 20"},{"description":"Acquire Potential 1: [QCK] Damage Reduction"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base HP by 30"},{"description":"Boosts base RCV by 40"},{"description":"Boosts base ATK by 15"},{"description":"Boosts base ATK by 25"},{"description":"Boosts base HP by 40"},{"description":"Boosts base ATK by 30"},{"description":"Boosts base RCV by 50"},{"description":"Boosts base HP by 50"},{"description":"Acquire Sailor Ability 1: Reduces Blindness duration by 3 turns"},{"description":"Acquire Potential 2: Slot Bind Self-reduction"}],"potential":[{"Name":"[QCK] Damage Reduction","description":["Level 1: Reduce damage taken from [QCK] characters by 1%","Level 2: Reduce damage taken from [QCK] characters by 2%","Level 3: Reduce damage taken from [QCK] characters by 3%","Level 4: Reduce damage taken from [QCK] characters by 4%","Level 5: Reduce damage taken from [QCK] characters by 5%"]},{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by 1 turn on this character","Level 2: Reduces Slot Bind duration by ? turns on this character","Level 3: Reduces Slot Bind duration by ? turns on this character","Level 4: Reduces Slot Bind duration by ? turns on this character","Level 5: Reduces Slot Bind duration by ? turns on this character"]}]},"unit":{"type":"DEX","class":["Shooter","Driven"],"stars":5,"cost":30,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":2094,"maxATK":1132,"maxRCV":406},"evolve":{"evolution":506,"evolvers":[85,94,96,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1270.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1270.png"}}
+{
+  "name": "\"Demon Sheriff\" Laffitte",
+  "detail": {
+    "captain": "Recovers 3x character's RCV in HP at the end of each turn. Deals 7x character's ATK in [DEX] damage to all enemies at the end of each turn.",
+    "special": "Reduces Bind and Despair duration by 2 turns. Makes Badly Matching and [BLOCK] orbs not reduce damage for 4 turns",
+    "specialNotes": "Ex. A [STR] character with a [QCK] orb will still deal regular damage",
+    "sailor": {
+      "base": "Boosts base ATK of all characters by 100 if your captain is a Driven character",
+      "level1": "Reduces Blindness duration by 3 turns"
+    },
+    "specialName": "Horrifying Suggestion",
+    "limit": [
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Blindness duration by 3 turns"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by 2%",
+          "Level 3: Reduce damage taken from [QCK] characters by 3%",
+          "Level 4: Reduce damage taken from [QCK] characters by 4%",
+          "Level 5: Reduce damage taken from [QCK] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2094,
+    "maxATK": 1132,
+    "maxRCV": 406
+  },
+  "evolve": {
+    "evolution": 1270,
+    "evolvers": [
+      83,
+      86,
+      94,
+      97,
+      302
+    ],
+    "from": 1269
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1270.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1270.png"
+  }
+}

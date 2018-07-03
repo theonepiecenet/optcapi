@@ -1,1 +1,109 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2142.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2142.png"}}
+{
+  "name": "\"Winch Green\" Vinsmoke Yonji, Germa 66 Science Military Force",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by 2.25x, boosts ATK of Powerhouse characters by 1.4x and the HP of Powerhouse characters by 1.2x",
+    "captainNotes": "Attack boost stacks, so a [STR] Powerhouse character has a 3.15x ATK",
+    "special": "If your captain is a [STR] or [INT] character, adds 55x characters ATK as additional typeless damage for 1 turn. If your captain is a Powerhouse character, reduces enemies Percent Damage Reduction and Threshold Damage Reduction duration by 3 turns",
+    "specialName": "Burst End Iron Arm",
+    "specialNotes": "Extra Damage can only be boosted by conditional Boosters.",
+    "sailor": {
+      "base": "Makes [INT] orbs \"beneficial\" for this unit",
+      "level1": "Boosts base HP of all characters by 100"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base HP of all characters by 100"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by 2%",
+          "Level 3: Reduce damage taken from [QCK] characters by 3%",
+          "Level 4: Reduce damage taken from [QCK] characters by 4%",
+          "Level 5: Reduce damage taken from [QCK] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "stars": "5+",
+    "cost": 40,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2540,
+    "maxATK": 1364,
+    "maxRCV": 372
+  },
+  "evolve": {
+    "evolution": 2142,
+    "evolvers": [],
+    "from": 1840
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2142.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2142.png"
+  }
+}

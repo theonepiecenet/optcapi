@@ -1,1 +1,83 @@
-{"name":"코비, Marine HQ Captain","detail":{"captain":"Boosts ATK of Driven characters by 2.5x, recovers 2x character's RCV in HP at the end of each turn and reduce damage received by 7%","special":"Reduces Bind duration for one character completely, locks all orbs for 1 turn and boosts ATK of Driven characters by 1.75x for 3 turns","specialName":"Unshameful Fist of Justice","sailor":{"base":"None","level1":"Boosts base HP of Driven characters by 75","level2":"Makes [PSY] orbs \"beneficial\" for Driven characters"},"sailorNotes":"#{beneficial}","limit":[{"description":"Boosts base RCV by 10"},{"description":"Boosts base RCV by 10"},{"description":"Boosts base RCV by 20"},{"description":"Acquire Potential 1: Pinch Healing"},{"description":"Boosts base HP by 50"},{"description":"Acquire Sailor Ability 1: Boosts base HP of Driven characters by 75"},{"description":"Boosts base HP by 60"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base ATK by 30"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base HP by 80"},{"description":"Boosts base ATK by 30"},{"description":"Boosts base ATK by 50"},{"description":"Acquire Sailor Ability 2: Makes [PSY] orbs \"beneficial\" for Driven characters"},{"description":"Acquire Potential 2: Slot Bind Self-reduction"}],"potential":[{"Name":"Pinch Healing","description":["Level 1: If HP is below 10% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 2: If HP is below 15% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 3: If HP is below 20% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 4: If HP is below 30% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 5: If HP is below 50% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"]},{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by 1 turn on this character","Level 2: Reduces Slot Bind duration by 2 turns on this character","Level 3: Reduces Slot Bind duration by 3 turns on this character","Level 4: Reduces Slot Bind duration by 5 turns on this character","Level 5: Reduces Slot Bind duration by 7 turns on this character"]}]}}
+{
+  "name": "코비, Marine HQ Captain",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 2.5x, recovers 2x character's RCV in HP at the end of each turn and reduce damage received by 7%",
+    "special": "Reduces Bind duration for one character completely, locks all orbs for 1 turn and boosts ATK of Driven characters by 1.75x for 3 turns",
+    "specialName": "Unshameful Fist of Justice",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base HP of Driven characters by 75",
+      "level2": "Makes [PSY] orbs \"beneficial\" for Driven characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base HP of Driven characters by 75"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [PSY] orbs \"beneficial\" for Driven characters"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 7 turns on this character"
+        ]
+      }
+    ]
+  }
+}

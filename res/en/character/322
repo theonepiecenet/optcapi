@@ -1,1 +1,39 @@
-{"name":"Rob Lucci Dock One Sawyer, Treenail Specialist","detail":{"special":"Deals 25x character's ATK in [QCK] damage to one enemy","specialName":"Taciturn Combo","captain":"Boosts ATK of [QCK] type characters by 2x"},"unit":{"type":"QCK","class":["Slasher","Powerhouse"],"stars":4,"cost":18,"combo":6,"slots":2,"level":99,"exp":3000000,"maxHP":2220,"maxATK":1203,"maxRCV":177},"evolution":{"evolution":787,"evolvers":[116,81,87]},"evolve":{"evolution":136,"evolvers":[117,90,85,96,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0322.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0322.png"}}
+{
+  "name": "Rob Lucci Dock One Sawyer, Treenail Specialist",
+  "detail": {
+    "special": "Deals 25x character's ATK in [QCK] damage to one enemy",
+    "specialName": "Taciturn Combo",
+    "captain": "Boosts ATK of [QCK] type characters by 2x"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 18,
+    "combo": 6,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2220,
+    "maxATK": 1203,
+    "maxRCV": 177
+  },
+  "evolve": {
+    "evolution": 322,
+    "evolvers": [
+      117,
+      79,
+      85,
+      96,
+      101
+    ],
+    "from": 321
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0322.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0322.png"
+  }
+}

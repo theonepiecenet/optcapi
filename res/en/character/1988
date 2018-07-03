@@ -1,1 +1,40 @@
-{"name":"Little Oars Jr, The Pathfinder Breakthrough","detail":{"captain":"Boosts ATK of Slasher characters by 2.25x and their RCV by 1.2x","special":"Cuts the current HP of one enemy by 10% and reduces Paralysis and Silence duration by 3 turns. If your captain is a Slasher Character, boosts ATK against delayed enemies by 1.75x for 2 turns","specialName":"Unfaltering Trump Card","sailor":"Reduces Paralysis duration by 1 turn"},"unit":{"type":"PSY","class":["Slasher","Powerhouse"],"stars":4,"cost":15,"combo":4,"slots":3,"level":50,"exp":392109,"maxHP":1020,"maxATK":690,"maxRCV":32},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1988.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1988.png"}}
+{
+  "name": "Little Oars Jr, The Pathfinder Breakthrough",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by 2.25x and their RCV by 1.2x",
+    "special": "Cuts the current HP of one enemy by 10% and reduces Paralysis and Silence duration by 3 turns. If your captain is a Slasher Character, boosts ATK against delayed enemies by 1.75x for 2 turns",
+    "specialName": "Unfaltering Trump Card",
+    "sailor": "Reduces Paralysis duration by 1 turn"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1020,
+    "maxATK": 690,
+    "maxRCV": 32
+  },
+  "evolution": {
+    "evolution": 1989,
+    "evolvers": [
+      118,
+      81,
+      1180,
+      303,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1988.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1988.png"
+  }
+}

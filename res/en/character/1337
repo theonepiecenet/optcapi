@@ -1,1 +1,39 @@
-{"name":"Kanjuro","detail":{"captain":"Boosts ATK of Striker and Free Spirit characters by 2x","special":"Changes [RCV], [TND], [EMPTY], [G] and [BOMB] orbs into Badly Matching orbs and [STR], [QCK], [DEX], [PSY] and [INT] orbs into Matching orbs for Free Spirit and Striker characters.","specialName":"Brushman's Brush"},"unit":{"type":"PSY","class":["Striker","Free Spirit"],"stars":4,"cost":25,"combo":6,"slots":4,"level":70,"exp":1066998,"maxHP":1275,"maxATK":707,"maxRCV":183},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1337.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1337.png"}}
+{
+  "name": "Kanjuro",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Free Spirit characters by 2x",
+    "special": "Changes [RCV], [TND], [EMPTY], [G] and [BOMB] orbs into Badly Matching orbs and [STR], [QCK], [DEX], [PSY] and [INT] orbs into Matching orbs for Free Spirit and Striker characters.",
+    "specialName": "Brushman's Brush"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Striker",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 6,
+    "slots": 4,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1275,
+    "maxATK": 707,
+    "maxRCV": 183
+  },
+  "evolution": {
+    "evolution": 1338,
+    "evolvers": [
+      118,
+      98,
+      98,
+      303,
+      267
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1337.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1337.png"
+  }
+}

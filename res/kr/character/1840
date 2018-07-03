@@ -1,1 +1,84 @@
-{"name":"빈스모크 욘디, 과학전투부대 제르마 66","detail":{"captain":"[DEX]캐릭터의 공격력이 2.25배 증가, 강인 캐릭터의 공격력이 1.3배 증가하고 체력이 1.2배 증가한다.(효과 중복가능)","special":"선장이 DEX 또는 PSY 캐릭터인 경우 1턴 동안 지연 중인 적에게 공격력 1.75배로 증가, 선장이 강인 캐릭터인 경우 2턴 동안 캐릭터 공격력 40배의 무속성 대미지를 추가한다.","specialName":"버스트 엔드 킥","limit":"한계돌파 추가예정"}}
+{
+  "name": "빈스모크 욘디, 과학전투부대 제르마 66",
+  "detail": {
+    "captain": "[DEX]캐릭터의 공격력이 2.25배 증가, 강인 캐릭터의 공격력이 1.3배 증가하고 체력이 1.2배 증가한다.(효과 중복가능)",
+    "special": "선장이 DEX 또는 PSY 캐릭터인 경우 1턴 동안 지연 중인 적에게 공격력 1.75배로 증가, 선장이 강인 캐릭터인 경우 2턴 동안 캐릭터 공격력 40배의 무속성 데미지를 추가한다.",
+    "specialName": "버스트 엔드 킥",
+    "captainNotes": "Attack boost stacks, so a [DEX] Powerhouse character has a 2.925x ATK",
+    "specialNotes": "Extra Damage can only be boosted by conditional Boosters.",
+    "sailor": {
+      "base": "Makes [PSY] orbs \"beneficial\" for this unit",
+      "level1": "Boosts base HP of all characters by 100"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base HP of all characters by 100"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by 2%",
+          "Level 3: Reduce damage taken from [QCK] characters by 3%",
+          "Level 4: Reduce damage taken from [QCK] characters by 4%",
+          "Level 5: Reduce damage taken from [QCK] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+        ]
+      }
+    ]
+  }
+}

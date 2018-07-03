@@ -1,1 +1,10 @@
-{"name":"킹듀","detail":{"captain":"Boosts ATK of [PSY] characters by 2.5x","special":"Empties all slots with [PSY] orbs, deals several times the character's ATK in [PSY] damage to one enemy","specialName":"Brass Knuckle Destruction","sailor":"If HP is above 99% at the start of the 턴, boosts ATK of [PSY] characters by 75"}}
+{
+  "name": "킹듀",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 2.5x",
+    "special": "Empties all slots with [PSY] orbs, deals several times the character's ATK in [PSY] damage to one enemy",
+    "specialName": "Brass Knuckle Destruction",
+    "sailor": "If HP is above 99% at the start of the 턴, boosts ATK of [PSY] characters by 75",
+    "specialNotes": "The exact multiplier used is chosen based on the number of [PSY] orbs consumed: 1 orb will give a 13x multiplier, 2 orbs 19x, 3 orbs 26x, 4 orbs 65x, 5 orbs 130x, 6 orbs 230x. It's not possible to activate the special without consuming at least one [PSY] orb."
+  }
+}

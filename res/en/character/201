@@ -1,1 +1,31 @@
-{"name":"Miss Valentine","detail":{"captain":"Boosts HP of Fighter characters by 1.5x"},"unit":{"type":"QCK","class":"Fighter","stars":3,"cost":11,"combo":5,"slots":1,"level":35,"exp":136167,"maxHP":860,"maxATK":488,"maxRCV":144},"evolution":{"evolution":485,"evolvers":[116,87,92,98]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0201.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0201.png"}}
+{
+  "name": "Miss Valentine",
+  "detail": {
+    "captain": "Boosts HP of Fighter characters by 1.5x"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": "Fighter",
+    "stars": 3,
+    "cost": 11,
+    "combo": 5,
+    "slots": 1,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 860,
+    "maxATK": 488,
+    "maxRCV": 144
+  },
+  "evolution": {
+    "evolution": 202,
+    "evolvers": [
+      94,
+      79
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0201.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0201.png"
+  }
+}

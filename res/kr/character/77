@@ -1,1 +1,81 @@
-{"name":"빨강 머리 샹크스","detail":{"special":"적 전체에 캐릭터의 공격×15배의 PSY 데미지","specialName":"패왕색 패기","captain":"PSY 캐릭터의 공격력이 2.5배가 된다"}}
+{
+  "name": "빨강 머리 샹크스",
+  "detail": {
+    "special": "적 전체에 캐릭터의 공격×15배의 PSY 데미지",
+    "specialName": "패왕색 패기",
+    "captain": "PSY 캐릭터의 공격력이 2.5배가 된다",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of [PSY] characters by 75"
+    },
+    "limit": [
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 250"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 200"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of [PSY] characters by 2.75x and their RCV by 1.2x"
+      },
+      {
+        "description": "Boosts base HP by 400"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of [PSY] characters by 75"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 5% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 5% at the start of the turn, heals for 1.25x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 5% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 10% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 20% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 60% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 70% chance to deal 7% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 80% chance to deal 8% of this character's attack in extra damage"
+        ]
+      }
+    ]
+  }
+}

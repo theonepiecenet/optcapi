@@ -1,1 +1,82 @@
-{"name":"아오키지, “일기토”의 승자","detail":{"captain":"Boosts ATK of Shooter characters by 2.5x and boosts ATK of Shooters by 3.25x after scoring 3 PERFECTS in a row","special":"Locks all orbs for 1 턴. If during that 턴, you hit 2 PERFECTS and your Captain is a Shooter character, boosts ATK of Shooter characters by 2x for 1 턴 in the following 턴.","specialName":"Ice Saber","limit":[{"description":"체력 상승 : 20"},{"description":"체력 상승 : 30"},{"description":"체력 상승 : 40"},{"description":"잠재능력 습득 1: Reduce No Healing duration"},{"description":"회복력 상승 : 10"},{"description":"회복력 상승 : 20"},{"description":"회복력 상승 : 30"},{"description":"공격력 상승 : 20"},{"description":"공격력 상승 : 30"},{"description":"공격력 상승 : 40"},{"description":"선원효과 추가 1: Boosts base HP of Shooter characters by 50"},{"description":"체력 상승 : 60"},{"description":"선원효과 추가 2: 사격 캐릭터의 공격력을 50 상승시킨다."},{"description":"소켓 슬롯 1개 추가"},{"description":"잠재능력 습득 2: Barrier Penetration"}],"potential":[{"Name":"Reduce No Healing duration","description":["Level 1: If there are 6 Shooter characters in your crew, 회복 무효 상태 회복 : 1 턴","Level 2: If there are 6 Shooter characters in your crew, 회복 무효 상태 회복 : 1 턴","Level 3: If there are 6 Shooter characters in your crew, 회복 무효 상태 회복 : 1 턴","Level 4: If there are 6 Shooter characters in your crew, 회복 무효 상태 회복 : 2 턴","Level 5: If there are 6 Shooter characters in your crew, 회복 무효 상태 회복 : 3 턴"]},{"Name":"Barrier Penetration","description":["Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.","Level 2: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.","Level 3: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.","Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.","Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다."]}]}}
+{
+  "name": "아오키지, “일기토”의 승자",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 2.5x and boosts ATK of Shooters by 3.25x after scoring 3 PERFECTS in a row",
+    "special": "Locks all orbs for 1 턴. If during that 턴, you hit 2 PERFECTS and your Captain is a Shooter character, boosts ATK of Shooter characters by 2x for 1 턴 in the following 턴.",
+    "specialName": "Ice Saber",
+    "limit": [
+      {
+        "description": "체력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "잠재능력 습득 1: Reduce No Healing duration"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "선원효과 추가 1: Boosts base HP of Shooter characters by 50"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "선원효과 추가 2: 사격 캐릭터의 공격력을 50 상승시킨다."
+      },
+      {
+        "description": "소켓 슬롯 1개 추가"
+      },
+      {
+        "description": "잠재능력 습득 2: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: If there are 6 Shooter characters in your crew, 회복 무효 상태 회복 : 1 턴",
+          "Level 2: If there are 6 Shooter characters in your crew, 회복 무효 상태 회복 : 1 턴",
+          "Level 3: If there are 6 Shooter characters in your crew, 회복 무효 상태 회복 : 1 턴",
+          "Level 4: If there are 6 Shooter characters in your crew, 회복 무효 상태 회복 : 2 턴",
+          "Level 5: If there are 6 Shooter characters in your crew, 회복 무효 상태 회복 : 3 턴"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 2: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 3: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다."
+        ]
+      }
+    ],
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base HP of Shooter characters by 50",
+      "level2": "Boosts base ATK of Shooter characters by 50"
+    }
+  }
+}

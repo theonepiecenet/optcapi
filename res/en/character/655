@@ -1,1 +1,40 @@
-{"name":"Arlong the Pirate","detail":{"special":"Changes [EMPTY] and [TND] orbs into [STR] orbs, deals 10x character's ATK in [STR] damage to one enemy, amplifies the effect of orbs by 1.25x for 2 turns","specialNotes":"#{orb : 1.25x}","specialName":"Tooth Gum","captain":"Boosts ATK of [STR] characters by 1.5x"},"unit":{"type":"STR","class":["Slasher","Powerhouse"],"stars":3,"cost":12,"combo":6,"slots":1,"level":50,"exp":392109,"maxHP":1332,"maxATK":700,"maxRCV":89},"evolution":{"evolution":1662,"evolvers":[118,85,1180,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0655.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0655.png"}}
+{
+  "name": "Arlong the Pirate",
+  "detail": {
+    "special": "Changes [EMPTY] and [TND] orbs into [STR] orbs, deals 10x character's ATK in [STR] damage to one enemy, amplifies the effect of orbs by 1.25x for 2 turns",
+    "specialNotes": "#{orb : 1.25x}",
+    "specialName": "Tooth Gum",
+    "captain": "Boosts ATK of [STR] characters by 1.5x"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1332,
+    "maxATK": 700,
+    "maxRCV": 89
+  },
+  "evolution": {
+    "evolution": 656,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0655.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0655.png"
+  }
+}

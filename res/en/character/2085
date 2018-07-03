@@ -1,1 +1,39 @@
-{"name":"Sanji, Celebrate the Long Cruise","detail":{"captain":"Boosts ATK of [DEX] and [QCK] characters by 2.25x","special":"Recovers 3,000 HP, changes right column [STR], [DEX], [QCK], [PSY], or [INT] orbs into Matching orbs and boosts ATK of [DEX], [QCK] and [INT] characters by 1.75x for 1 turn","specialName":"A Full Bloom Bright Smile"},"unit":{"type":"DEX","class":["Fighter","Powerhouse"],"stars":4,"cost":15,"combo":7,"slots":3,"level":50,"exp":392109,"maxHP":1302,"maxATK":606,"maxRCV":201},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2085.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2085.png"}}
+{
+  "name": "Sanji, Celebrate the Long Cruise",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] and [QCK] characters by 2.25x",
+    "special": "Recovers 3,000 HP, changes right column [STR], [DEX], [QCK], [PSY], or [INT] orbs into Matching orbs and boosts ATK of [DEX], [QCK] and [INT] characters by 1.75x for 1 turn",
+    "specialName": "A Full Bloom Bright Smile"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 7,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1302,
+    "maxATK": 606,
+    "maxRCV": 201
+  },
+  "evolution": {
+    "evolution": 2086,
+    "evolvers": [
+      83,
+      86,
+      1180,
+      302,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2085.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2085.png"
+  }
+}

@@ -1,1 +1,80 @@
-{"name":"보아 선더소니아, 밀짚모자 일당의 공범자","detail":{"captain":"타격, 강인캐릭터의 공격력이 2.5배, DEX캐릭터의 체력이 1.3배 증가한다.","special":"모든 슬롯을 DEX슬롯으로 변환하고 2턴 동안 적 전체의 방어력을 격감, 2턴 동안 타격과 강인캐릭터의 공격력이 1.75배가 된다","sailor":"[STR}슬롯도 [유리] 슬롯으로 취급한다.","specialName":"뱀머리를 한 팔두사","limit":[{"description":"공격력 상승 : 20"},{"description":"체력 상승 : 30"},{"description":"회복력 상승 : 10"},{"description":"잠재능력 습득 1: Enrage"},{"description":"공격력 상승 : 20"},{"description":"체력 상승 : 40"},{"description":"회복력 상승 : 20"},{"description":"회복력 상승 : 30"},{"description":"체력 상승 : 70"},{"description":"공격력 상승 : 30"},{"description":"선원효과 추가 1: 이 캐릭터의 공격력은 [STR]캐릭터를 상대로 2배 증가한다."},{"description":"공격력 상승 : 40"},{"description":"체력 상승 : 90"},{"description":"소켓 슬롯 1개 추가"},{"description":"잠재능력 습득 2: Reduce No Healing duration"}],"potential":[{"Name":"Enrage","description":["Level 1: 공격력 상승 : 20","Level 2: 공격력 상승 : 40","Level 3: 공격력 상승 : 60","Level 4: 공격력 상승 : 80","Level 5: 공격력 상승 : 100"]},{"Name":"Reduce No Healing duration","description":["Level 1: 회복 무효 상태 회복 : 1 턴","Level 2: 회복 무효 상태 회복 : 1 턴","Level 3: 회복 무효 상태 회복 : 1 턴","Level 4: 회복 무효 상태 회복 : 2 턴","Level 5: 회복 무효 상태 회복 : 3 턴"]}]}}
+{
+  "name": "보아 선더소니아, 밀짚모자 일당의 공범자",
+  "detail": {
+    "captain": "타격, 강인캐릭터의 공격력이 2.5배, DEX캐릭터의 체력이 1.3배 증가한다.",
+    "special": "모든 슬롯을 DEX슬롯으로 변환하고 2턴 동안 적 전체의 방어력을 격감, 2턴 동안 타격과 강인캐릭터의 공격력이 1.75배가 된다",
+    "sailor": "[STR}슬롯도 [유리] 슬롯으로 취급한다.",
+    "specialName": "뱀머리를 한 팔두사",
+    "limit": [
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "잠재능력 습득 1: Enrage"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 70"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "선원효과 추가 1: 이 캐릭터의 공격력은 [STR]캐릭터를 상대로 2배 증가한다."
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 90"
+      },
+      {
+        "description": "소켓 슬롯 1개 추가"
+      },
+      {
+        "description": "잠재능력 습득 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 40",
+          "Level 3: 공격력 상승 : 60",
+          "Level 4: 공격력 상승 : 80",
+          "Level 5: 공격력 상승 : 100"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 1 턴",
+          "Level 3: 회복 무효 상태 회복 : 1 턴",
+          "Level 4: 회복 무효 상태 회복 : 2 턴",
+          "Level 5: 회복 무효 상태 회복 : 3 턴"
+        ]
+      }
+    ],
+    "sailorNotes": "#{beneficial}",
+    "potentialNotes": "#{enrage}"
+  }
+}

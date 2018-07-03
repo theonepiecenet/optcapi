@@ -1,1 +1,39 @@
-{"name":"Perona, Malicious Old Castle Bride","detail":{"captain":"Boosts ATK and RCV of Driven characters by 1.2x","specialName":"Spiritual Bouquet","special":"Boosts ATK and RCV of Driven characters by 1.5x for 1 turn"},"unit":{"type":"PSY","class":["Shooter","Driven"],"stars":4,"cost":13,"combo":4,"slots":2,"level":50,"exp":392109,"maxHP":814,"maxATK":392,"maxRCV":223},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0944.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0944.png"}}
+{
+  "name": "Perona, Malicious Old Castle Bride",
+  "detail": {
+    "captain": "Boosts ATK and RCV of Driven characters by 1.2x",
+    "specialName": "Spiritual Bouquet",
+    "special": "Boosts ATK and RCV of Driven characters by 1.5x for 1 turn"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 13,
+    "combo": 4,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 814,
+    "maxATK": 392,
+    "maxRCV": 223
+  },
+  "evolution": {
+    "evolution": 945,
+    "evolvers": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0944.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0944.png"
+  }
+}

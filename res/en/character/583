@@ -1,1 +1,26 @@
-{"name":"Raki","detail":{"special":"Changes own orb into [INT] and the captain's orb into [DEX], boosts RCV of Shooter characters by 300 for 3 turns","specialName":"Disrupting Fire","captain":"Boosts ATK and RCV of Shooter characters by 1.5x"},"unit":{"type":"INT","class":"Shooter","stars":4,"cost":18,"combo":4,"slots":2,"level":99,"exp":3000000,"maxHP":1544,"maxATK":668,"maxRCV":460},"evolution":{"evolution":1458,"evolvers":[83,85,88,96,99]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0583.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0583.png"}}
+{
+  "name": "Raki",
+  "detail": {
+    "special": "Changes own orb into [INT] and the captain's orb into [DEX], boosts RCV of Shooter characters by 300 for 3 turns",
+    "specialName": "Disrupting Fire",
+    "captain": "Boosts ATK and RCV of Shooter characters by 1.5x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Shooter",
+    "stars": 4,
+    "cost": 18,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1544,
+    "maxATK": 668,
+    "maxRCV": 460
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0583.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0583.png"
+  }
+}

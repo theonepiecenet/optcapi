@@ -1,1 +1,33 @@
-{"name":"Saber Billions Baroque Works","detail":{"special":"Changes [TND] orbs into [DEX] orbs","specialName":"[TND] Slot Change [DEX]"},"unit":{"type":"DEX","class":"Slasher","stars":3,"cost":9,"combo":5,"slots":1,"level":50,"exp":261406,"maxHP":798,"maxATK":508,"maxRCV":120},"evolution":{"evolution":580,"evolvers":[117,85,86,96,97]},"evolve":{"evolution":113,"evolvers":[115,90,96]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0243.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0243.png"}}
+{
+  "name": "Saber Billions Baroque Works",
+  "detail": {
+    "special": "Changes [TND] orbs into [DEX] orbs",
+    "specialName": "[TND] Slot Change [DEX]"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Slasher",
+    "stars": 3,
+    "cost": 9,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 261406,
+    "maxHP": 798,
+    "maxATK": 508,
+    "maxRCV": 120
+  },
+  "evolve": {
+    "evolution": 243,
+    "evolvers": [
+      115,
+      91,
+      97
+    ],
+    "from": 238
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0243.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0243.png"
+  }
+}

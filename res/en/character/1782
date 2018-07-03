@@ -1,1 +1,30 @@
-{"name":"Don Chinjao","detail":{"captain":"Boosts ATK of [QCK] characters by 2.25x, boosts damage of [QCK] specials by 1.75x","captainNotes":"#{noFixedPerc}","special":"Delays all enemies for 2 turns, deals 25x character's ATK in [QCK] damage to all enemies","specialName":"Military Head"},"unit":{"type":"QCK","class":["Fighter","Striker"],"stars":4,"cost":20,"combo":4,"slots":2,"level":99,"exp":3000000,"maxHP":1339,"maxATK":1305,"maxRCV":135},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1782.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1782.png"}}
+{
+  "name": "Don Chinjao",
+  "detail": {
+    "captain": "Boosts ATK of [QCK] characters by 2.25x, boosts damage of [QCK] specials by 1.75x",
+    "captainNotes": "#{noFixedPerc}",
+    "special": "Delays all enemies for 2 turns, deals 25x character's ATK in [QCK] damage to all enemies",
+    "specialName": "Military Head"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1339,
+    "maxATK": 1305,
+    "maxRCV": 135
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1782.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1782.png"
+  }
+}

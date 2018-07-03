@@ -1,1 +1,29 @@
-{"name":"Nami, Jackie 'o Lantern","detail":{"special":"Recovers 3,000 HP","specialName":"Cat Burglar Trick","captain":"Boosts ATK and RCV of Striker characters by 1.5x"},"unit":{"type":"QCK","class":["Striker","Cerebral"],"stars":4,"cost":20,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":1342,"maxATK":699,"maxRCV":416},"evolution":{"evolution":1912,"evolvers":[88,99,104,304,1180]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0764.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0764.png"}}
+{
+  "name": "Nami, Jackie 'o Lantern",
+  "detail": {
+    "special": "Recovers 3,000 HP",
+    "specialName": "Cat Burglar Trick",
+    "captain": "Boosts ATK and RCV of Striker characters by 1.5x"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1342,
+    "maxATK": 699,
+    "maxRCV": 416
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0764.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0764.png"
+  }
+}

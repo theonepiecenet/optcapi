@@ -1,1 +1,39 @@
-{"name":"Violet, Dancing Woman","detail":{"captain":"Boosts ATK of Cerebral characters by 1.5x. Heals for .3x character's RCV at the end of the turn each time you hit a Great.","special":"Reduces the defense of all enemies by 50% for 1 turn and if HP is below 50%, randomizes all orbs to either [RCV] or [TND] orbs","specialName":"Clairvoyance"},"unit":{"type":"DEX","class":["Fighter","Cerebral"],"stars":3,"cost":13,"combo":6,"slots":2,"level":50,"exp":392109,"maxHP":804,"maxATK":403,"maxRCV":234},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1449.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1449.png"}}
+{
+  "name": "Violet, Dancing Woman",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 1.5x. Heals for .3x character's RCV at the end of the turn each time you hit a Great.",
+    "special": "Reduces the defense of all enemies by 50% for 1 turn and if HP is below 50%, randomizes all orbs to either [RCV] or [TND] orbs",
+    "specialName": "Clairvoyance"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": 6,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 804,
+    "maxATK": 403,
+    "maxRCV": 234
+  },
+  "evolution": {
+    "evolution": 1450,
+    "evolvers": [
+      116,
+      80,
+      86,
+      91,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1449.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1449.png"
+  }
+}

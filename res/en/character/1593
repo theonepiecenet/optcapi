@@ -1,1 +1,57 @@
-{"name":"Monkey D. Luffy, Gear 4th - Boundman","detail":{"captain":"Boosts ATK of Fighter characters by 2.5x. If you use \"King Kong Gun\" THIS LUFFY boosts ATK of Fighter characters by 4x instead for 3 turns and reduces damage taken by 56% for 3 turns.","captainNotes":"Using Luffy's special will change his own captain boost to 4x. If both Luffy's specials are used, the total ATK boost will be 16x","special":[{"description":"Deals 100x character's ATK in typeless damage to one enemy and makes [STR], [DEX], [PSY], [INT], [TND] and [RCV] orbs \"beneficial\" for Fighter characters for 1 turn. After 3 turns, Binds and Despairs himself for 7 turns.","cooldown":[13,8]},{"description":"Deals 200x character's ATK in typeless damage to one enemy and makes [STR], [DEX], [PSY], [INT], [TND] and [RCV] orbs \"beneficial\" for Fighter and Free Spirit characters for 3 turns. After 3 turns, Binds and Despairs himself for 7 turns.","cooldown":[18,13]}],"specialNotes":"#{stages}<br>#{beneficial}","sailor":"Completely resists Paralysis on this character","specialName":"King Kong Gun"},"unit":{"type":"PSY","class":["Fighter","Free Spirit"],"stars":"6+","cost":65,"combo":4,"slots":5,"level":99,"exp":5000000,"maxHP":3380,"maxATK":1600,"maxRCV":400},"evolve":{"evolution":561,"evolvers":[1180,87,98,303,103]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1593.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1593.png"}}
+{
+  "name": "Monkey D. Luffy, Gear 4th - Boundman",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 2.5x. If you use \"King Kong Gun\" THIS LUFFY boosts ATK of Fighter characters by 4x instead for 3 turns and reduces damage taken by 56% for 3 turns.",
+    "captainNotes": "Using Luffy's special will change his own captain boost to 4x. If both Luffy's specials are used, the total ATK boost will be 16x",
+    "special": [
+      {
+        "description": "Deals 100x character's ATK in typeless damage to one enemy and makes [STR], [DEX], [PSY], [INT], [TND] and [RCV] orbs \"beneficial\" for Fighter characters for 1 turn. After 3 turns, Binds and Despairs himself for 7 turns.",
+        "cooldown": [
+          13,
+          8
+        ]
+      },
+      {
+        "description": "Deals 200x character's ATK in typeless damage to one enemy and makes [STR], [DEX], [PSY], [INT], [TND] and [RCV] orbs \"beneficial\" for Fighter and Free Spirit characters for 3 turns. After 3 turns, Binds and Despairs himself for 7 turns.",
+        "cooldown": [
+          18,
+          13
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}<br>#{beneficial}",
+    "sailor": "Completely resists Paralysis on this character",
+    "specialName": "King Kong Gun"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": "6+",
+    "cost": 65,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 3380,
+    "maxATK": 1600,
+    "maxRCV": 400
+  },
+  "evolve": {
+    "evolution": 1593,
+    "evolvers": [
+      "skullQCK",
+      "skullPSY",
+      98,
+      303,
+      267
+    ],
+    "from": 1404
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1593.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1593.png"
+  }
+}

@@ -1,1 +1,139 @@
-{"name":"쥬라큘 미호크, 세계 최강의 검사","detail":{"special":"Deals 50% of the damage dealt in the previous 턴 as typeless damage to all enemies","specialNotes":"The special only includes the damage inflicted through normal attacks.","specialName":"Black Sword - Lightning Slash","captain":"Boosts ATK of Slasher characters by a variable factor between 2x and 2.75x based on the timing of the attack of the previous unit in the chain","captainNotes":"A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a PERFECT hit by 2.75x. This bonus is applied only to Slasher characters."}}
+{
+  "name": "매의 눈 미호크, 세계 최강의 검사",
+  "detail": {
+    "special": "이전 턴에 적에게 준 일반 공격에 의한 총 데미지의 50%를 무 속성 데미지로 적 전체에게 준다(추가 데미지 등으로 적을 전멸시키고 다음 배틀로 이동할 시, 이전 턴에 일반 공격으로 준 총 데미지 합계치는 0으로 계산)",
+    "specialNotes": "The special only includes the damage inflicted through normal attacks.",
+    "specialName": "흑도·자전일섬",
+    "captain": "앞 캐릭터의 공격 타이밍에 따라 이후 참격형 캐릭터의 공격이 최소 2배, 최대 2.75배가 된다",
+    "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a PERFECT hit by 2.75x. This bonus is applied only to Slasher characters.",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base HP of Slasher characters by 120",
+      "level2": "Boosts base ATK of Slasher characters by 50"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 5"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 15"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 25"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base HP of Slasher characters by 120"
+      },
+      {
+        "description": "Boosts base HP by 35"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Potential 2: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 55"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 65"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 75"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts base ATK of Slasher characters by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Acquire Potential 3: Critical Hit"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 40",
+          "Level 3: Boosts base ATK by 60",
+          "Level 4: Boosts base ATK by 80",
+          "Level 5: Boosts base ATK by 120"
+        ]
+      },
+      {
+        "Name": "[PSY] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by 2%",
+          "Level 3: Reduce damage taken from [PSY] characters by 3%",
+          "Level 4: Reduce damage taken from [PSY] characters by 4%",
+          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
+        ]
+      }
+    ]
+  }
+}

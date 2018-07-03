@@ -1,1 +1,28 @@
-{"name":"Humandrills","detail":{"special":"Boosts ATK of all characters by 1.2x for 2 turns and amplifies the effect of orbs by 1.2x for 2 turns","specialName":"Imitation Tactics"},"unit":{"type":"STR","class":["Slasher","Powerhouse"],"stars":3,"cost":13,"combo":6,"slots":1,"level":70,"exp":1066998,"maxHP":1600,"maxATK":1020,"maxRCV":0},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1348.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1348.png"}}
+{
+  "name": "Humandrills",
+  "detail": {
+    "special": "Boosts ATK of all characters by 1.2x for 2 turns and amplifies the effect of orbs by 1.2x for 2 turns",
+    "specialName": "Imitation Tactics"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": 6,
+    "slots": 1,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1600,
+    "maxATK": 1020,
+    "maxRCV": 0
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1348.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1348.png"
+  }
+}

@@ -1,1 +1,39 @@
-{"name":"Monet, A Woman Aiming at the Weak ","detail":{"captain":"Boosts ATK of Free Spirit characters by 1.2x","special":"Deals 50,000 fixed damage to one enemy and reduces Bind and enemy's Threshold Damage Reduction duration by 3 turns","specialName":"Fangs of Crushing Ice"},"unit":{"type":"INT","class":["Free Spirit","Fighter"],"stars":4,"cost":12,"combo":4,"slots":3,"level":50,"exp":261406,"maxHP":1064,"maxATK":643,"maxRCV":201},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2010.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2010.png"}}
+{
+  "name": "Monet, A Woman Aiming at the Weak ",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 1.2x",
+    "special": "Deals 50,000 fixed damage to one enemy and reduces Bind and enemy's Threshold Damage Reduction duration by 3 turns",
+    "specialName": "Fangs of Crushing Ice"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 12,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 261406,
+    "maxHP": 1064,
+    "maxATK": 643,
+    "maxRCV": 201
+  },
+  "evolution": {
+    "evolution": 2011,
+    "evolvers": [
+      117,
+      82,
+      93,
+      304,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2010.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2010.png"
+  }
+}

@@ -1,1 +1,40 @@
-{"name":"Sengoku the Buddha, Marine Fleet Admiral","detail":{"captain":"Reduces cooldown of all specials by 2 turns at the start of the fight, boost ATK of characters that are 29 cost or lower by 3.25x and their HP by 1.2x, boost ATK of characters with cost 54 by 3x","captainNotes":"His captain ability also affects his evolved forms, his base form will NOT receive the boost. All evolved and plus evolved Sengoku characters in the team are included in the bonus.","special":"Deals random large [INT] Damage to all enemies, boost ATK of all characters by 1.5x for 1 turn, changes orbs to matching orbs for characters that are 29 cost or lower","specialName":"Requiem Shockwave"},"unit":{"type":"INT","class":["Fighter","Cerebral"],"stars":"6+","cost":54,"combo":4,"slots":5,"level":99,"exp":5000000,"maxHP":3696,"maxATK":1458,"maxRCV":398},"evolve":{"evolution":194,"evolvers":[117,80,86,97,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1847.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1847.png"}}
+{
+  "name": "Sengoku the Buddha, Marine Fleet Admiral",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boost ATK of characters that are 29 cost or lower by 3.25x and their HP by 1.2x, boost ATK of characters with cost 54 by 3x",
+    "captainNotes": "His captain ability also affects his evolved forms, his base form will NOT receive the boost. All evolved and plus evolved Sengoku characters in the team are included in the bonus.",
+    "special": "Deals random large [INT] Damage to all enemies, boost ATK of all characters by 1.5x for 1 turn, changes orbs to matching orbs for characters that are 29 cost or lower",
+    "specialName": "Requiem Shockwave"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": "6+",
+    "cost": 54,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 3696,
+    "maxATK": 1458,
+    "maxRCV": 398
+  },
+  "evolve": {
+    "evolution": 1847,
+    "evolvers": [
+      "skullINT",
+      118,
+      88,
+      304,
+      267
+    ],
+    "from": 459
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1847.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1847.png"
+  }
+}

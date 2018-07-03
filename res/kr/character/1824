@@ -1,1 +1,106 @@
-{"name":"반디 월드, .진화형","detail":{"captain":"사격 캐릭터의 공격력이 2.2배 상승하고 PERFECT를 연속으로 터치할수록 사격 캐릭터읙 오격력이 1.1배씩 상승한다.(최대 약 3.543배)","special":[{"description":"적 1기에 100,000의 고정데미지, 일당에게 걸려있는 공격다운 상태 해제","cooldown":[14,10]},{"description":"적 1기에 300,000의 고정데미지, 일당에게 걸려있는 공격다운 상태 해제","cooldown":[18,14]},{"description":"적 1기에 500,000의 고정데미지, 일당에게 걸려있는 공격다운 상태 해제, 적 전체 HP바에 걸려있는 베리어 1턴 감소","cooldown":[22,18]}],"specialName":"모아 모아: 100배 포","limit":"한계돌파 추가예정"}}
+{
+  "name": "반디 월드, .진화형",
+  "detail": {
+    "captain": "사격 캐릭터의 공격력이 2.2배 상승하고 PERFECT를 연속으로 터치할수록 사격 캐릭터읙 오격력이 1.1배씩 상승한다.(최대 약 3.543배)",
+    "special": [
+      {
+        "description": "적 1기에 100,000의 고정데미지, 일당에게 걸려있는 공격다운 상태 해제",
+        "cooldown": [
+          14,
+          10
+        ]
+      },
+      {
+        "description": "적 1기에 300,000의 고정데미지, 일당에게 걸려있는 공격다운 상태 해제",
+        "cooldown": [
+          18,
+          14
+        ]
+      },
+      {
+        "description": "적 1기에 500,000의 고정데미지, 일당에게 걸려있는 공격다운 상태 해제, 적 전체 HP바에 걸려있는 베리어 1턴 감소",
+        "cooldown": [
+          22,
+          18
+        ]
+      }
+    ],
+    "specialName": "모아 모아: 100배 포",
+    "specialNotes": "#{stages}",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base HP of Shooter characters by 150",
+      "level2": "Boosts base ATK of Shooter characters by 75"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base HP of Shooter characters by 150"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts base ATK of Shooter characters by 75"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 40",
+          "Level 3: Boosts base ATK by 60",
+          "Level 4: Boosts base ATK by 80",
+          "Level 5: Boosts base ATK by 120"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's attack will ignore barriers if HP is above ??%",
+          "Level 2: This character's attack will ignore barriers if HP is above ??%",
+          "Level 3: This character's attack will ignore barriers if HP is above ??%",
+          "Level 4: This character's attack will ignore barriers if HP is above ??%",
+          "Level 5: This character's attack will ignore barriers if HP is above ??%"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

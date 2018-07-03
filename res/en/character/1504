@@ -1,1 +1,29 @@
-{"name":"Vander Decken IX","detail":{"captain":"Boosts ATK of Driven characters by 2x. After scoring 3 PERFECTs in a row, boosts ATK of Driven characters by 2.4x instead.","special":"Changes the orbs in the middle row into [EMPTY] orbs and deals 20x character's ATK as [DEX] damage to all enemies at the end of the turn for 2 turns","specialName":"Inescapable Pursuit"},"unit":{"type":"DEX","class":["Driven","Slasher"],"stars":4,"cost":20,"combo":5,"slots":3,"level":99,"exp":3000000,"maxHP":2218,"maxATK":1182,"maxRCV":188},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1504.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1504.png"}}
+{
+  "name": "Vander Decken IX",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 2x. After scoring 3 PERFECTs in a row, boosts ATK of Driven characters by 2.4x instead.",
+    "special": "Changes the orbs in the middle row into [EMPTY] orbs and deals 20x character's ATK as [DEX] damage to all enemies at the end of the turn for 2 turns",
+    "specialName": "Inescapable Pursuit"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Driven",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2218,
+    "maxATK": 1182,
+    "maxRCV": 188
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1504.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1504.png"
+  }
+}

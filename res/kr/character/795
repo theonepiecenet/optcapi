@@ -1,1 +1,85 @@
-{"name":"나이트메어 루피 희망의 별","detail":{"special":"적 전체의 임의의 대상에 10회 무작위INT 데미지를 주고, 적 공격을 1턴 지연","specialName":"고무고무 폭풍우","captain":"강인타입 캐릭터의 공격을 3.5배가 되지만 턴 경과마다 체력이 10% 감소, 공격이 0.1배 감소한다.","captainNotes":"처음 던전 입장시 3배, 첫턴 경과시 2.9배, 두번째턴 2.8배 최소 1배까지 감소."}}
+{
+  "name": "나이트메어 루피 희망의 별",
+  "detail": {
+    "special": "적 전체의 임의의 대상에 10회 무작위INT 데미지를 주고, 적 공격을 1턴 지연",
+    "specialName": "고무고무 폭풍우",
+    "captain": "강인타입 캐릭터의 공격을 3.5배가 되지만 턴 경과마다 체력이 10% 감소, 공격이 0.1배 감소한다.",
+    "captainNotes": "처음 던전 입장시 3배, 첫턴 경과시 2.9배, 두번째턴 2.8배 최소 1배까지 감소.",
+    "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 30,000 : for each hit}",
+    "sailor": {
+      "base": "None",
+      "level1": "When HP is below ??% at the start of the turn, boosts base ATK of all characters by 40",
+      "level2": "When HP is below ??% at the start of the turn, boosts own base ATK by 80"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: When HP is below ??% at the start of the turn, boosts base ATK of all characters by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: When HP is below ??% at the start of the turn, boosts own base ATK by 80"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

@@ -1,1 +1,79 @@
-{"name":"‘귀신 보안관’ 라피트","detail":{"captain":"Recovers 3x character's RCV in HP at the end of each 턴. Deals 7x character's ATK in [DEX] damage to all enemies at the end of each 턴.","special":"Reduces Bind and Despair duration by 2 턴. Makes Badly Matching and [BLOCK] orbs not reduce damage for 4 턴","specialNotes":"Ex. A STR character with a QCK orb will still deal regular damage","sailor":"Boosts base ATK of all characters by 100 if your captain is a Driven character","specialName":"Horrifying Suggestion"}}
+{
+  "name": "‘귀신 보안관’ 라피트",
+  "detail": {
+    "captain": "Recovers 3x character's RCV in HP at the end of each 턴. Deals 7x character's ATK in [DEX] damage to all enemies at the end of each 턴.",
+    "special": "Reduces Bind and Despair duration by 2 턴. Makes Badly Matching and [BLOCK] orbs not reduce damage for 4 턴",
+    "specialNotes": "Ex. A STR character with a QCK orb will still deal regular damage",
+    "sailor": "Boosts base ATK of all characters by 100 if your captain is a Driven character",
+    "specialName": "Horrifying Suggestion",
+    "limit": [
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Blindness duration by 3 turns"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by 2%",
+          "Level 3: Reduce damage taken from [QCK] characters by 3%",
+          "Level 4: Reduce damage taken from [QCK] characters by 4%",
+          "Level 5: Reduce damage taken from [QCK] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ]
+  }
+}

@@ -1,1 +1,41 @@
-{"name":"Kizaru, A Peaceful Moment with the Admirals","detail":{"captain":"Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Free Spirit and Shooter characters by 1.75x","special":"If your crew has 2 or more characters of the same Type, reduces Special Cooldown of characters of that Type by 1 turn and changes adjacent orbs into Matching Orbs","specialNotes":"How the Cooldown Reduction works exactly is not tested.","sailor":"Boosts base ATK, HP and RCV of all characters by 20","specialName":"The Afterglow of a Fight"},"unit":{"type":"INT","class":["Shooter","Free Spirit"],"stars":4,"cost":12,"combo":5,"slots":2,"level":70,"exp":1066998,"maxHP":1169,"maxATK":538,"maxRCV":128},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2042.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2042.png"}}
+{
+  "name": "Kizaru, A Peaceful Moment with the Admirals",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Free Spirit and Shooter characters by 1.75x",
+    "special": "If your crew has 2 or more characters of the same Type, reduces Special Cooldown of characters of that Type by 1 turn and changes adjacent orbs into Matching Orbs",
+    "specialNotes": "How the Cooldown Reduction works exactly is not tested.",
+    "sailor": "Boosts base ATK, HP and RCV of all characters by 20",
+    "specialName": "The Afterglow of a Fight"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 12,
+    "combo": 5,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1169,
+    "maxATK": 538,
+    "maxRCV": 128
+  },
+  "evolution": {
+    "evolution": 2043,
+    "evolvers": [
+      116,
+      117,
+      82,
+      88,
+      99
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2042.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2042.png"
+  }
+}

@@ -1,1 +1,38 @@
-{"name":"Don Krieg","detail":{"special":"Deals 7x character's ATK in [INT] damage to one enemy","specialName":"Chain Hammer","captain":"Reduces damage received by 10%"},"unit":{"type":"INT","class":["Shooter","Driven"],"stars":3,"cost":10,"combo":6,"slots":0,"level":50,"exp":392109,"maxHP":1454,"maxATK":632,"maxRCV":95},"evolution":{"evolution":156,"evolvers":[93]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0057.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0057.png"}}
+{
+  "name": "Don Krieg",
+  "detail": {
+    "special": "Deals 7x character's ATK in [INT] damage to one enemy",
+    "specialName": "Chain Hammer",
+    "captain": "Reduces damage received by 10%"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 3,
+    "cost": 10,
+    "combo": 6,
+    "slots": 0,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1454,
+    "maxATK": 632,
+    "maxRCV": 95
+  },
+  "evolution": {
+    "evolution": 58,
+    "evolvers": [
+      117,
+      82,
+      93,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0057.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0057.png"
+  }
+}

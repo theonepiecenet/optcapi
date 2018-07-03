@@ -1,1 +1,24 @@
-{"name":"Carne","detail":{"captain":"Recovers 3x character's RCV in HP at the end of each turn"},"unit":{"type":"QCK","class":"Slasher","stars":2,"cost":9,"combo":5,"slots":0,"level":50,"exp":261406,"maxHP":650,"maxATK":428,"maxRCV":169},"evolution":{"evolution":150,"evolvers":[92]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0051.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0051.png"}}
+{
+  "name": "Carne",
+  "detail": {
+    "captain": "Recovers 3x character's RCV in HP at the end of each turn"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": "Slasher",
+    "stars": 2,
+    "cost": 9,
+    "combo": 5,
+    "slots": 0,
+    "level": 50,
+    "exp": 261406,
+    "maxHP": 650,
+    "maxATK": 428,
+    "maxRCV": 169
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0051.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0051.png"
+  }
+}

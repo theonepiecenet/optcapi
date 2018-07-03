@@ -1,1 +1,97 @@
-{"name":"Marco the Phoenix, Guardian of the \"Will\"","detail":{"captain":"Boosts ATK of Fighter characters by 2.5x and their RCV by 1.3x. Recovers 3x character's RCV in HP at the end of each turn.","special":[{"description":"Reduces Bind and Chain Coefficient Reduction and ATK DOWN duration by 3 turns, reduces damage received by 50% for 1 turn. If your crew has 3 or more [STR] characters, adds .5x to Chain multiplier for 1 turn","cooldown":[16,10]},{"description":"Reduces Bind and Chain Coefficient Reduction and ATK DOWN duration by 5 turns, reduces damage received by 90% for 1 turn. If your crew has 3 or more [STR] characters, adds .75x to Chain multiplier for 1 turn","cooldown":[20,14]}],"specialName":"Establishing an Oath of Immortality","sailor":{"base":"Boosts amount healed from [RCV] orbs by 150 each","level1":"Makes [TND] and [RCV] orbs \"beneficial\" for Free Spirit characters"},"sailorNotes":"#{beneficial}","limit":[{"description":"Boosts base RCV by 20"},{"description":"Boosts base HP by 10"},{"description":"Boosts base HP by 30"},{"description":"Acquire Potential 1: Reduce No Healing duration"},{"description":"Boosts base HP by 40"},{"description":"Boosts base ATK by 40"},{"description":"Boosts base ATK by 30"},{"description":"Acquire Sailor Ability 1: Makes [TND] and [RCV] orbs \"beneficial\" for Free Spirit characters"},{"description":"Boosts base ATK by 30"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base RCV by 30"},{"description":"Boosts base HP by 70"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base ATK by 60"},{"description":"Acquire Potential 2: Pinch Healing"}],"potential":[{"Name":"Reduce No Healing duration","description":["Level 1: Reduces No Healing duration by 1 turn","Level 2: Reduces No Healing duration by 2 turns","Level 3: Reduces No Healing duration by 3 turns","Level 4: Reduces No Healing duration by 5 turns","Level 5: Reduces No Healing duration by 7 turns"]},{"Name":"Pinch Healing","description":["Level 1: If HP is below 10% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 2: If HP is below 15% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 3: If HP is below 20% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 4: If HP is below 30% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 5: If HP is below 50% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"]}]}}
+{
+  "name": "마르코 the Phoenix, Guardian of the \"Will\"",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 2.5x and their RCV by 1.3x. Recovers 3x character's RCV in HP at the end of each turn.",
+    "special": [
+      {
+        "description": "Reduces Bind and Chain Coefficient Reduction and ATK DOWN duration by 3 turns, reduces damage received by 50% for 1 turn. If your crew has 3 or more [STR] characters, adds .5x to Chain multiplier for 1 turn",
+        "cooldown": [
+          16,
+          10
+        ]
+      },
+      {
+        "description": "Reduces Bind and Chain Coefficient Reduction and ATK DOWN duration by 5 turns, reduces damage received by 90% for 1 turn. If your crew has 3 or more [STR] characters, adds .75x to Chain multiplier for 1 turn",
+        "cooldown": [
+          20,
+          14
+        ]
+      }
+    ],
+    "specialName": "Establishing an Oath of Immortality",
+    "sailor": {
+      "base": "Boosts amount healed from [RCV] orbs by 150 each",
+      "level1": "Makes [TND] and [RCV] orbs \"beneficial\" for Free Spirit characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [TND] and [RCV] orbs \"beneficial\" for Free Spirit characters"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 5 turns",
+          "Level 5: Reduces No Healing duration by 7 turns"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
+  }
+}

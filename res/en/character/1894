@@ -1,1 +1,39 @@
-{"name":"Urouge, The Supernova from the Sky","detail":{"captain":"Boosts ATK of Fighter characters by 2x and their HP by 1.2x","special":"If HP is below 50% at the time the special is activated, deal 75x character's ATK in [QCK] damage to one enemy, boosts ATK of Fighter characters by 2x for 1 turn","specialName":"The Collapsing Arhat"},"unit":{"type":"QCK","class":["Fighter","Powerhouse"],"stars":4,"cost":20,"combo":5,"slots":3,"level":70,"exp":1066998,"maxHP":1261,"maxATK":690,"maxRCV":169},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1894.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1894.png"}}
+{
+  "name": "Urouge, The Supernova from the Sky",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 2x and their HP by 1.2x",
+    "special": "If HP is below 50% at the time the special is activated, deal 75x character's ATK in [QCK] damage to one enemy, boosts ATK of Fighter characters by 2x for 1 turn",
+    "specialName": "The Collapsing Arhat"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1261,
+    "maxATK": 690,
+    "maxRCV": 169
+  },
+  "evolution": {
+    "evolution": 1895,
+    "evolvers": [
+      118,
+      85,
+      96,
+      301,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1894.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1894.png"
+  }
+}

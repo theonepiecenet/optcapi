@@ -1,1 +1,25 @@
-{"name":"Pistol Bandit","detail":{"special":"Deals 5x character's ATK in character's type damage to all enemies","specialName":"Hyper Shot"},"unit":{"type":"STR","class":"Shooter","stars":1,"cost":1,"combo":5,"slots":0,"level":20,"exp":8728,"maxHP":105,"maxATK":57,"maxRCV":104},"evolution":{"evolution":255,"evolvers":[118,88,94,99,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0120.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0120.png"}}
+{
+  "name": "Pistol Bandit",
+  "detail": {
+    "special": "Deals 5x character's ATK in character's type damage to all enemies",
+    "specialName": "Hyper Shot"
+  },
+  "unit": {
+    "type": "STR",
+    "class": "Shooter",
+    "stars": 1,
+    "cost": 1,
+    "combo": 5,
+    "slots": 0,
+    "level": 20,
+    "exp": 8728,
+    "maxHP": 105,
+    "maxATK": 57,
+    "maxRCV": 104
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0120.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0120.png"
+  }
+}

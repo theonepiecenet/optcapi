@@ -1,1 +1,39 @@
-{"name":"Buggy, Roger Pirates","detail":{"special":"Changes own orb into [INT], switches orbs between slots once","specialName":"Split Split Cannon","captain":"Boosts ATK of characters with fewer than 3 stars by 3x"},"unit":{"type":"INT","class":["Slasher","Driven"],"stars":4,"cost":19,"combo":5,"slots":2,"level":99,"exp":3000000,"maxHP":1602,"maxATK":709,"maxRCV":290},"evolution":{"evolution":[1506,1562],"evolvers":[[118,95,99,300,304],[118,83,85,96,101]]},"evolve":{"evolution":248,"evolvers":[117,81,87,98,103]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0599.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0599.png"}}
+{
+  "name": "Buggy, Roger Pirates",
+  "detail": {
+    "special": "Changes own orb into [INT], switches orbs between slots once",
+    "specialName": "Split Split Cannon",
+    "captain": "Boosts ATK of characters with fewer than 3 stars by 3x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 19,
+    "combo": 5,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1602,
+    "maxATK": 709,
+    "maxRCV": 290
+  },
+  "evolve": {
+    "evolution": 599,
+    "evolvers": [
+      117,
+      82,
+      82,
+      88,
+      88
+    ],
+    "from": 598
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0599.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0599.png"
+  }
+}

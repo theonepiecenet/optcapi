@@ -1,1 +1,40 @@
-{"name":"\"Red Hair\" Shanks, Captain of the Red Hair Pirates","detail":{"captain":"Boosts chances of getting Matching orbs, boosts ATK of Cerebral characters by 2.5x","special":"Reduces Paralysis duration by 3 turns. For Cerebral and Free Spirit characters, amplifies the effects of orbs by 2x for 1 turn. Makes [RCV] and [TND] orbs \"beneficial\" to Cerebral and Free Spirit characters for 1 turn.","specialName":"A Decision Made over Sake","specialNotes":"#{orb : 2x}<br>#{beneficial}"},"unit":{"type":"INT","class":["Cerebral","Free Spirit"],"stars":5,"cost":50,"combo":4,"slots":3,"level":99,"exp":5000000,"maxHP":2552,"maxATK":1440,"maxRCV":353},"evolve":{"evolution":550,"evolvers":[95,96,97,303,304]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1380.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1380.png"}}
+{
+  "name": "\"Red Hair\" Shanks, Captain of the Red Hair Pirates",
+  "detail": {
+    "captain": "Boosts chances of getting Matching orbs, boosts ATK of Cerebral characters by 2.5x",
+    "special": "Reduces Paralysis duration by 3 turns. For Cerebral and Free Spirit characters, amplifies the effects of orbs by 2x for 1 turn. Makes [RCV] and [TND] orbs \"beneficial\" to Cerebral and Free Spirit characters for 1 turn.",
+    "specialName": "A Decision Made over Sake",
+    "specialNotes": "#{orb : 2x}<br>#{beneficial}"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Cerebral",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 2552,
+    "maxATK": 1440,
+    "maxRCV": 353
+  },
+  "evolve": {
+    "evolution": 1380,
+    "evolvers": [
+      118,
+      88,
+      266,
+      99,
+      267
+    ],
+    "from": 1379
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1380.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1380.png"
+  }
+}

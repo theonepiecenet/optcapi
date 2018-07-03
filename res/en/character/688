@@ -1,1 +1,39 @@
-{"name":"Calgara, Great Shandia Warrior","detail":{"special":"Deals 13x character's ATK in [STR] damage to all enemies, boosts ATK of Free Spirit characters by 1.3x for 1 turn","specialName":"First Spear of the Battle","captain":"Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Free Spirit characters by 2x"},"unit":{"type":"STR","class":["Free Spirit","Striker"],"stars":4,"cost":20,"combo":4,"slots":2,"level":99,"exp":3000000,"maxHP":2401,"maxATK":1300,"maxRCV":90},"evolution":{"evolution":1741,"evolvers":[117,86,1180,302,102]},"evolve":{"evolution":281,"evolvers":[117,82,88,99,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0688.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0688.png"}}
+{
+  "name": "Calgara, Great Shandia Warrior",
+  "detail": {
+    "special": "Deals 13x character's ATK in [STR] damage to all enemies, boosts ATK of Free Spirit characters by 1.3x for 1 turn",
+    "specialName": "First Spear of the Battle",
+    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Free Spirit characters by 2x"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Free Spirit",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2401,
+    "maxATK": 1300,
+    "maxRCV": 90
+  },
+  "evolve": {
+    "evolution": 688,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ],
+    "from": 687
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0688.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0688.png"
+  }
+}

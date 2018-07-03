@@ -1,1 +1,8 @@
-{"name":"미노제브라","detail":{"special":"Deals 3 hits of 7x character's ATK in [INT] damage to random enemies.","specialName":"Shy Jailer Beast: Spiked Mace"}}
+{
+  "name": "미노재브라",
+  "detail": {
+    "special": "Deals 3 hits of 7x character's ATK in [INT] damage to random enemies.",
+    "specialName": "Shy Jailer Beast: Spiked Mace",
+    "specialNotes": "#{randomHits : 3}"
+  }
+}

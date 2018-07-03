@@ -1,1 +1,95 @@
-{"name":"바이올렛, 돈키호테 해적단","detail":{"captain":"Boosts amount of Beli received by 3x","special":[{"description":"Reduces Special Cooldown of Cerebral and Fighter specials by 1 턴. Displays the status of all enemies.","cooldown":[13,7]},{"description":"Reduces Special Cooldown of Cerebral and Fighter specials by 2 턴. Displays the status of all enemies.","cooldown":[20,14]}],"specialName":"Peeping Mind","specialNotes":"Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on 턴', and 'Effect after Death'<br>#{stages}","sailor":"Restores her own special by 1 턴 when it is rewinded"}}
+{
+  "name": "바이올렛, 돈키호테 해적단",
+  "detail": {
+    "captain": "베리의 획득량이 3배가 된다(모험 도중에 선장이 되면 효과 무효)",
+    "specialName": "피핑 마인드",
+    "special": [
+      {
+        "description": "적의 능력치가 보이게 되며, 박식형과 격투형의 필살 턴을 1턴 단축한다",
+        "cooldown": [
+          13,
+          7
+        ]
+      },
+      {
+        "description": "적의 능력치가 보이게 되며, 박식형과 격투형의 필살 턴을 2턴 단축한다",
+        "cooldown": [
+          20,
+          14
+        ]
+      }
+    ],
+    "specialNotes": "Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on 턴', and 'Effect after Death'<br>#{stages}",
+    "sailor": "자신의 필살기 턴 되돌리기를 1턴 회복한다",
+    "sailorNotes": "#{rewind : 1}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 70"
+      },
+      {
+        "description": "Boosts base ATK by 80"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration against this unit by 2 turns"
+      },
+      {
+        "description": "Acquire Potential 2: Cooldown Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 3 turns at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ]
+  }
+}

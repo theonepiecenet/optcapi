@@ -1,1 +1,40 @@
-{"name":"Coby, Navy HQ Petty Officer","detail":{"captain":"Boosts ATK of Driven characters by 1.5x, reduces damage received up to 10% depending on the crew's current HP","specialName":"Pleading at the Risk of One's Life","special":"Changes adjacent orbs into [RCV] orbs; if the special is activated with more than 50% health remaining, protects from defeat for 1 turn","specialNotes":"#{zombie}"},"unit":{"type":"PSY","class":["Fighter","Driven"],"stars":4,"cost":18,"combo":5,"slots":2,"level":50,"exp":392109,"maxHP":1193,"maxATK":561,"maxRCV":158},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0859.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0859.png"}}
+{
+  "name": "Coby, Navy HQ Petty Officer",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 1.5x, reduces damage received up to 10% depending on the crew's current HP",
+    "specialName": "Pleading at the Risk of One's Life",
+    "special": "Changes adjacent orbs into [RCV] orbs; if the special is activated with more than 50% health remaining, protects from defeat for 1 turn",
+    "specialNotes": "#{zombie}"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 18,
+    "combo": 5,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1193,
+    "maxATK": 561,
+    "maxRCV": 158
+  },
+  "evolution": {
+    "evolution": 860,
+    "evolvers": [
+      117,
+      87,
+      98,
+      98,
+      303
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0859.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0859.png"
+  }
+}

@@ -1,1 +1,41 @@
-{"name":"Nami, 20th Anniversary Memorial Treasure","detail":{"captain":"Recovers 5x character's RCV in HP at the end of each turn","special":"Reduces damage received by 80% for 1 turn, reduces enemy's Threshold Damage Reduction and ATK UP duration by 3 turns","sailor":"Makes [DEX] orbs \"beneficial\" for this unit","sailorNotes":"#{beneficial}","specialName":"Gust Sword"},"unit":{"type":"STR","class":["Striker","Cerebral"],"stars":5,"cost":30,"combo":6,"slots":5,"level":99,"exp":4000000,"maxHP":2076,"maxATK":1179,"maxRCV":417},"evolve":{"evolution":697,"evolvers":[79,85,90,96,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1757.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1757.png"}}
+{
+  "name": "Nami, 20th Anniversary Memorial Treasure",
+  "detail": {
+    "captain": "Recovers 5x character's RCV in HP at the end of each turn",
+    "special": "Reduces damage received by 80% for 1 turn, reduces enemy's Threshold Damage Reduction and ATK UP duration by 3 turns",
+    "sailor": "Makes [DEX] orbs \"beneficial\" for this unit",
+    "sailorNotes": "#{beneficial}",
+    "specialName": "Gust Sword"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 6,
+    "slots": 5,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2076,
+    "maxATK": 1179,
+    "maxRCV": 417
+  },
+  "evolve": {
+    "evolution": 1757,
+    "evolvers": [
+      78,
+      84,
+      89,
+      95,
+      100
+    ],
+    "from": 1756
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1757.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1757.png"
+  }
+}

@@ -1,1 +1,62 @@
-{"name":"Edward Newgate, Rival of the Pirate King","detail":{"captain":"Boosts ATK of all characters by 2x if HP is below 50% at the start of the turn","special":[{"description":"Cuts the current HP of each enemy by 10%","cooldown":[23,11]},{"description":"Cuts the current HP of each enemy by 20%","cooldown":[28,16]},{"description":"Cuts the current HP of each enemy by 40%","cooldown":[36,24]}],"specialNotes":"#{stages}","specialName":"Earth Shattering Fist"},"unit":{"type":"PSY","class":["Powerhouse","Striker"],"stars":4,"cost":30,"combo":4,"slots":2,"level":70,"exp":1778330,"maxHP":1744,"maxATK":894,"maxRCV":103},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1257.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1257.png"}}
+{
+  "name": "Edward Newgate, Rival of the Pirate King",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2x if HP is below 50% at the start of the turn",
+    "special": [
+      {
+        "description": "Cuts the current HP of each enemy by 10%",
+        "cooldown": [
+          23,
+          11
+        ]
+      },
+      {
+        "description": "Cuts the current HP of each enemy by 20%",
+        "cooldown": [
+          28,
+          16
+        ]
+      },
+      {
+        "description": "Cuts the current HP of each enemy by 40%",
+        "cooldown": [
+          36,
+          24
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}",
+    "specialName": "Earth Shattering Fist"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 4,
+    "slots": 2,
+    "level": 70,
+    "exp": 1778330,
+    "maxHP": 1744,
+    "maxATK": 894,
+    "maxRCV": 103
+  },
+  "evolution": {
+    "evolution": 1258,
+    "evolvers": [
+      118,
+      87,
+      266,
+      98,
+      267
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1257.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1257.png"
+  }
+}

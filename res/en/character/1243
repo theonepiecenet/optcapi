@@ -1,1 +1,41 @@
-{"name":"Hack, Fishman Karate Instructor","detail":{"captain":"Boosts ATK of Fighter and Powerhouse characters by 1.3x","captainNotes":"Attack boost stacks, so a Fighter/Powerhouse character has a 1.69x ATK","special":"Deals 15x character's ATK in [INT] damage to all enemies. Changes own orb into [INT] and changes adjacent orbs into [G] orbs","specialName":"Fishman karate, KO blow","specialNotes":"#{gOrbs}"},"unit":{"type":"INT","class":["Fighter","Powerhouse"],"stars":3,"cost":12,"combo":6,"slots":1,"level":50,"exp":392109,"maxHP":904,"maxATK":570,"maxRCV":91},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1243.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1243.png"}}
+{
+  "name": "Hack, Fishman Karate Instructor",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Powerhouse characters by 1.3x",
+    "captainNotes": "Attack boost stacks, so a Fighter/Powerhouse character has a 1.69x ATK",
+    "special": "Deals 15x character's ATK in [INT] damage to all enemies. Changes own orb into [INT] and changes adjacent orbs into [G] orbs",
+    "specialName": "Fishman karate, KO blow",
+    "specialNotes": "#{gOrbs}"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 904,
+    "maxATK": 570,
+    "maxRCV": 91
+  },
+  "evolution": {
+    "evolution": 1244,
+    "evolvers": [
+      116,
+      117,
+      93,
+      99,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1243.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1243.png"
+  }
+}

@@ -1,1 +1,30 @@
-{"name":"Skilled Fishman Outlaw","detail":{"captain":"Boosts ATK of [DEX] characters by 1.5x","special":"Reduces Silence duration by 1 turn","specialNotes":"#{silence}","specialName":"Special Seal Recovery: Light"},"unit":{"type":"DEX","class":["Powerhouse","Striker"],"stars":3,"cost":12,"combo":6,"slots":1,"level":60,"exp":449516,"maxHP":1143,"maxATK":737,"maxRCV":157},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1495.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1495.png"}}
+{
+  "name": "Skilled Fishman Outlaw",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 1.5x",
+    "special": "Reduces Silence duration by 1 turn",
+    "specialNotes": "#{silence}",
+    "specialName": "Special Seal Recovery: Light"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": 1143,
+    "maxATK": 737,
+    "maxRCV": 157
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1495.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1495.png"
+  }
+}

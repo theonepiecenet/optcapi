@@ -1,1 +1,39 @@
-{"name":"Brook Voyage Dream: Promised Meeting","detail":{"special":"Boosts ATK and RCV of all characters by 45 for 1 turn, reduces damage received by 45% for 1 turn","specialName":"45-Degree Joy","captain":"Boosts ATK, HP and RCV of Slasher characters by 1.5x"},"unit":{"type":"DEX","class":["Slasher","Free Spirit"],"stars":5,"cost":20,"combo":6,"slots":3,"level":99,"exp":3000000,"maxHP":2117,"maxATK":1009,"maxRCV":279},"evolution":{"evolution":1540,"evolvers":[83,88,99,304,104]},"evolve":{"evolution":253,"evolvers":[117,82,83,99,304]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0613.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0613.png"}}
+{
+  "name": "Brook Voyage Dream: Promised Meeting",
+  "detail": {
+    "special": "Boosts ATK and RCV of all characters by 45 for 1 turn, reduces damage received by 45% for 1 turn",
+    "specialName": "45-Degree Joy",
+    "captain": "Boosts ATK, HP and RCV of Slasher characters by 1.5x"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 6,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2117,
+    "maxATK": 1009,
+    "maxRCV": 279
+  },
+  "evolve": {
+    "evolution": 613,
+    "evolvers": [
+      91,
+      94,
+      97,
+      97,
+      302
+    ],
+    "from": 612
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0613.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0613.png"
+  }
+}

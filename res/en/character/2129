@@ -1,1 +1,29 @@
-{"name":"Noble Croc, Brûlée's Faction","detail":{"captain":"Boosts ATK of Powerhouse characters by 2x","special":"Boosts ATK of all characters by 1.2x for 3 turns","specialName":"Anticipation of Unknown Food"},"unit":{"type":"STR","class":["Free Spirit","Powerhouse"],"stars":3,"cost":15,"combo":6,"slots":2,"level":70,"exp":355666,"maxHP":1488,"maxATK":951,"maxRCV":75},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2129.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2129.png"}}
+{
+  "name": "Noble Croc, Brûlée's Faction",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2x",
+    "special": "Boosts ATK of all characters by 1.2x for 3 turns",
+    "specialName": "Anticipation of Unknown Food"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Free Spirit",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 15,
+    "combo": 6,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "maxHP": 1488,
+    "maxATK": 951,
+    "maxRCV": 75
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2129.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2129.png"
+  }
+}

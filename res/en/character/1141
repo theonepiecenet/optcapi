@@ -1,1 +1,39 @@
-{"name":"Gecko Moria, Ruler of Florian Triangle","detail":{"captain":"Boosts ATK of Driven characters by 2.25x, recovers 3x character's RCV in HP at the end of each turn","special":"Changes own orb into [DEX] and deals 300,000 Fixed damage to one enemy","specialName":"Horn Blade Shadow"},"unit":{"type":"DEX","class":["Slasher","Driven"],"stars":5,"cost":40,"combo":4,"slots":3,"level":99,"exp":4000000,"maxHP":3023,"maxATK":1211,"maxRCV":229},"evolve":{"evolution":454,"evolvers":[117,95,99,300,304]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1141.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1141.png"}}
+{
+  "name": "Gecko Moria, Ruler of Florian Triangle",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 2.25x, recovers 3x character's RCV in HP at the end of each turn",
+    "special": "Changes own orb into [DEX] and deals 300,000 Fixed damage to one enemy",
+    "specialName": "Horn Blade Shadow"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 40,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 3023,
+    "maxATK": 1211,
+    "maxRCV": 229
+  },
+  "evolve": {
+    "evolution": 1141,
+    "evolvers": [
+      118,
+      83,
+      86,
+      88,
+      102
+    ],
+    "from": 1140
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1141.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1141.png"
+  }
+}

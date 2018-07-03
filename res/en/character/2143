@@ -1,1 +1,39 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2143.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2143.png"}}
+{
+  "name": "Mr. Diamante",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by 2x and their HP by 1.2x",
+    "special": "Deals 20x character's ATK in [DEX] damage to one enemy and boosts ATK of Slasher characters by 1.5x for 3 turns",
+    "specialName": "Corrida Glaive"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": 1018,
+    "maxATK": 685,
+    "maxRCV": 102
+  },
+  "evolution": {
+    "evolution": 2144,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2143.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2143.png"
+  }
+}

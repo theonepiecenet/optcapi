@@ -1,1 +1,37 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2152.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2152.png"}}
+{
+  "name": "Charlotte Pudding, Malicious Girl",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2x and their HP by 1.3x. If you don't attack with her, reduces damage received by 20% for that turn.",
+    "special": "Changes all orbs on all characters into Pudding's orb, recovers 5,000 HP, reduces damage received by 80% for 1 turn and reduces Bind, Despair, Paralysis and Increase Damage Taken duration by 4 turns",
+    "specialName": "Memory Film",
+    "sailor": {
+      "base": "Reduces Paralysis duration for 5 turns for herself",
+      "level1": "If this character has an [QCK] orb and you hit a PERFECT with her, keep her [QCK] orb for the next turn"
+    }
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2320,
+    "maxATK": 1180,
+    "maxRCV": 402
+  },
+  "evolve": {
+    "evolution": 2152,
+    "evolvers": [],
+    "from": 2151
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2152.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2152.png"
+  }
+}

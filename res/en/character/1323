@@ -1,1 +1,42 @@
-{"name":"Onigumo, Swordsman of the Eight-Sword Style","detail":{"captain":"Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Slasher and Driven characters by 1.3x","captainNotes":"The bonus is cumulative. Slasher + Driven characters get a 1.69x bonus.","special":"Randomize [RCV], [TND] and [BLOCK] orbs. Makes [STR], [DEX] and [QCK] orbs \"beneficial\" to Driven and Slasher characters for 2 turns","specialNotes":"#{beneficial}","specialName":"Onigumo of Dismantling Swordsmanship","sailor":"Reduces Paralysis for 5 turns for himself"},"unit":{"type":"INT","class":["Driven","Slasher"],"stars":4,"cost":15,"combo":6,"slots":3,"level":50,"exp":392109,"maxHP":1294,"maxATK":638,"maxRCV":99},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1323.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1323.png"}}
+{
+  "name": "Onigumo, Swordsman of the Eight-Sword Style",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Slasher and Driven characters by 1.3x",
+    "captainNotes": "The bonus is cumulative. Slasher + Driven characters get a 1.69x bonus.",
+    "special": "Randomize [RCV], [TND] and [BLOCK] orbs. Makes [STR], [DEX] and [QCK] orbs \"beneficial\" to Driven and Slasher characters for 2 turns",
+    "specialNotes": "#{beneficial}",
+    "specialName": "Onigumo of Dismantling Swordsmanship",
+    "sailor": "Reduces Paralysis for 5 turns for himself"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Driven",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1294,
+    "maxATK": 638,
+    "maxRCV": 99
+  },
+  "evolution": {
+    "evolution": 1324,
+    "evolvers": [
+      88,
+      266,
+      99,
+      304,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1323.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1323.png"
+  }
+}

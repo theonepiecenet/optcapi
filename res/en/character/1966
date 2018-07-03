@@ -1,1 +1,29 @@
-{"name":"Doctor Hogback, Artist of Deadly Dolls","detail":{"captain":"Boosts ATK of Cerebral characters by 2.25x and boosts chances of getting [RCV] orbs","special":"Boosts ATK against delayed enemies by 1.5x for 1 turn","specialName":"Affirmative Miracle"},"unit":{"type":"PSY","class":["Driven","Cerebral"],"stars":4,"cost":20,"combo":4,"slots":4,"level":99,"exp":1000000,"maxHP":2160,"maxATK":954,"maxRCV":302},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1966.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1966.png"}}
+{
+  "name": "Doctor Hogback, Artist of Deadly Dolls",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 2.25x and boosts chances of getting [RCV] orbs",
+    "special": "Boosts ATK against delayed enemies by 1.5x for 1 turn",
+    "specialName": "Affirmative Miracle"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Driven",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "maxHP": 2160,
+    "maxATK": 954,
+    "maxRCV": 302
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1966.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1966.png"
+  }
+}

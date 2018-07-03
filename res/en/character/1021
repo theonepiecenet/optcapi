@@ -1,1 +1,40 @@
-{"name":"Sugar Cherry","detail":{"captain":"Boosts ATK and RCV of Shooter and Cerebral characters by 1.75x.","captainNotes":"This effect does not stack for characters that have both classes.","specialName":"Sweet Fruit Trap","special":"Recovers 9x characters RCV in HP. Changes captain's orb into Matching orb"},"unit":{"type":"INT","class":["Shooter","Cerebral"],"stars":5,"cost":20,"combo":5,"slots":3,"level":99,"exp":3000000,"maxHP":1621,"maxATK":717,"maxRCV":442},"evolve":{"evolution":401,"evolvers":[88,266,94,100,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1021.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1021.png"}}
+{
+  "name": "Sugar Cherry",
+  "detail": {
+    "captain": "Boosts ATK and RCV of Shooter and Cerebral characters by 1.75x.",
+    "captainNotes": "This effect does not stack for characters that have both classes.",
+    "specialName": "Sweet Fruit Trap",
+    "special": "Recovers 9x characters RCV in HP. Changes captain's orb into Matching orb"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 5,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1621,
+    "maxATK": 717,
+    "maxRCV": 442
+  },
+  "evolve": {
+    "evolution": 1021,
+    "evolvers": [
+      117,
+      85,
+      88,
+      96,
+      99
+    ],
+    "from": 1020
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1021.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1021.png"
+  }
+}

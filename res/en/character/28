@@ -1,1 +1,26 @@
-{"name":"Master of the Near Sea","detail":{"special":"Deals 10x character's ATK in character's type damage to one enemy","specialName":"Hyper Straight","captain":"Boosts ATK of Fighter characters by 1.2x"},"unit":{"type":"STR","class":"Fighter","stars":2,"cost":20,"combo":5,"slots":0,"level":35,"exp":90778,"maxHP":550,"maxATK":400,"maxRCV":100},"evolution":{"evolution":[44,229],"evolvers":[[116,80,91],[116,81,92]]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0028.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0028.png"}}
+{
+  "name": "Master of the Near Sea",
+  "detail": {
+    "special": "Deals 10x character's ATK in character's type damage to one enemy",
+    "specialName": "Hyper Straight",
+    "captain": "Boosts ATK of Fighter characters by 1.2x"
+  },
+  "unit": {
+    "type": "STR",
+    "class": "Fighter",
+    "stars": 2,
+    "cost": 20,
+    "combo": 5,
+    "slots": 0,
+    "level": 35,
+    "exp": 90778,
+    "maxHP": 550,
+    "maxATK": 400,
+    "maxRCV": 100
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0028.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0028.png"
+  }
+}

@@ -1,1 +1,40 @@
-{"name":"Tashigi Marine Officer: Flower of Justice","detail":{"special":"Delays all enemies for 1 turn, recovers a small random amount of HP","specialName":"Smile of a Natural Beauty","specialNotes":"#{randomHeal : ??? : ???}","captain":"Boosts ATK of Slasher characters by 2x and their RCV by 1.5x"},"unit":{"type":"INT","class":["Slasher","Cerebral"],"stars":5,"cost":20,"combo":5,"slots":3,"level":99,"exp":3000000,"maxHP":1804,"maxATK":890,"maxRCV":378},"evolution":{"evolution":1957,"evolvers":[266,78,94,300,100]},"evolve":{"evolution":320,"evolvers":[116,89,95]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0783.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0783.png"}}
+{
+  "name": "Tashigi Marine Officer: Flower of Justice",
+  "detail": {
+    "special": "Delays all enemies for 1 turn, recovers a small random amount of HP",
+    "specialName": "Smile of a Natural Beauty",
+    "specialNotes": "#{randomHeal : ??? : ???}",
+    "captain": "Boosts ATK of Slasher characters by 2x and their RCV by 1.5x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 5,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1804,
+    "maxATK": 890,
+    "maxRCV": 378
+  },
+  "evolve": {
+    "evolution": 783,
+    "evolvers": [
+      117,
+      93,
+      94,
+      304,
+      104
+    ],
+    "from": 782
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0783.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0783.png"
+  }
+}

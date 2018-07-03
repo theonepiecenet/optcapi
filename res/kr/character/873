@@ -1,1 +1,24 @@
-{"name":"세뇨르 핑크","detail":{"captain":"체력이 30% 이하일때 격투 타입 캐릭터의 공격이 2.5배가 된다.","specialName":"냥냥 수윔(Swim)","special":[{"description":"자신의 슬롯을 [PSY]으로 변환하고, 1턴간 슬롯 영향을 1.5배 확대","cooldown":[13,8]},{"description":"자신의 슬롯을 [PSY]으로 변환하고, 1턴간 슬롯 영향을 1.75배 확대","cooldown":[19,14]}]}}
+{
+  "name": "세뇨르 핑크",
+  "detail": {
+    "captain": "체력이 30% 이하일때 격투 타입 캐릭터의 공격이 2.5배가 된다.",
+    "specialName": "냥냥 수윔(Swim)",
+    "special": [
+      {
+        "description": "자신의 슬롯을 [PSY]으로 변환하고, 1턴간 슬롯 영향을 1.5배 확대",
+        "cooldown": [
+          13,
+          8
+        ]
+      },
+      {
+        "description": "자신의 슬롯을 [PSY]으로 변환하고, 1턴간 슬롯 영향을 1.75배 확대",
+        "cooldown": [
+          19,
+          14
+        ]
+      }
+    ],
+    "specialNotes": "#{orb: 1.5x or 1.75x} #{stages}"
+  }
+}

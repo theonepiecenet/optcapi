@@ -1,1 +1,39 @@
-{"name":"Urouge, Crushing the Worldly Desires","detail":{"captain":"Boosts ATK of Striker and Powerhouse characters by 1.5x. Boosts EXP gained by 1.25x","special":"Changes [RCV], [TND], [G], [BLOCK] and [BOMB] orbs into Matching orbs, recovers 7,600 HP and reduces damage received by 76% for 1 turn","specialName":"Prayers of Paradise"},"unit":{"type":"INT","class":["Striker","Powerhouse"],"stars":4,"cost":15,"combo":5,"slots":3,"level":50,"exp":392109,"maxHP":1250,"maxATK":600,"maxRCV":138},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1911.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1911.png"}}
+{
+  "name": "Urouge, Crushing the Worldly Desires",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Powerhouse characters by 1.5x. Boosts EXP gained by 1.25x",
+    "special": "Changes [RCV], [TND], [G], [BLOCK] and [BOMB] orbs into Matching orbs, recovers 7,600 HP and reduces damage received by 76% for 1 turn",
+    "specialName": "Prayers of Paradise"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Striker",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1250,
+    "maxATK": 600,
+    "maxRCV": 138
+  },
+  "evolution": {
+    "evolution": 1912,
+    "evolvers": [
+      88,
+      99,
+      104,
+      304,
+      1180
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1911.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1911.png"
+  }
+}

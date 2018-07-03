@@ -1,1 +1,138 @@
-{"name":"Red Hair 샹크스, Yonko Changing the Fate of the World","detail":{"captain":"If your crew has 4 or more characters of the same Type, boosts ATK all characters by 3.5x, by 2.75x otherwise and boosts HP of all characters by 1.3x.","special":"Adds .9x to Chain multiplier for 1 turn. If your crew has 4 or more characters of the same Type, boosts ATK of the Dominant Type characters by 2.25x and changes all orbs, including [BLOCK] orbs, to Dominant Type orbs","sailor":{"base":"If your crew has 4 or more characters of the same Type, boosts base ATK of the Dominant Type by 125","level1":"Makes [PSY] orbs \"beneficial\" all characters"},"sailorNotes":"#{beneficial}","specialName":"Closing Declaration","limit":[{"description":"Boosts base HP by 30"},{"description":"Boosts base HP by 30"},{"description":"Boosts base HP by 30"},{"description":"Acquire Potential 1: Enrage"},{"description":"Boosts base RCV by 10"},{"description":"Boosts base RCV by 10"},{"description":"Boosts base RCV by 10"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base HP by 45"},{"description":"Boosts base HP by 45"},{"description":"Boosts base HP by 45"},{"description":"Boosts base HP by 45"},{"description":"Acquire Potential 2: [PSY] Damage Reduction"},{"description":"Boosts base RCV by 15"},{"description":"Boosts base RCV by 15"},{"description":"Boosts base RCV by 15"},{"description":"Boosts base ATK by 25"},{"description":"Boosts base RCV by 15"},{"description":"Boosts base HP by 60"},{"description":"Boosts base ATK by 25"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base HP by 75"},{"description":"Boosts base HP by 105"},{"description":"Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" all characters"},{"description":"Boosts base ATK by 30"},{"description":"Boosts base ATK by 50"},{"description":"Acquire Potential 3: Pinch Healing"}],"potential":[{"Name":"Enrage","description":["Level 1: Boosts base ATK by 60","Level 2: Boosts base ATK by 90","Level 3: Boosts base ATK by 120","Level 4: Boosts base ATK by 150","Level 5: Boosts base ATK by 200"]},{"Name":"[PSY] Damage Reduction","description":["Level 1: Reduce damage taken from [PSY] characters by 1%","Level 2: Reduce damage taken from [PSY] characters by 2%","Level 3: Reduce damage taken from [PSY] characters by 3%","Level 4: Reduce damage taken from [PSY] characters by 5%","Level 5: Reduce damage taken from [PSY] characters by 7%"]},{"Name":"Pinch Healing","description":["Level 1: If HP is below 10% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 2: If HP is below 20% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 3: If HP is below 20% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 4: If HP is below 30% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character","Level 5: If HP is below 30% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"]}],"potentialNotes":"#{enrage}"}}
+{
+  "name": "Red Hair 샹크스, Yonko Changing the Fate of the World",
+  "detail": {
+    "captain": "If your crew has 4 or more characters of the same Type, boosts ATK all characters by 3.5x, by 2.75x otherwise and boosts HP of all characters by 1.3x.",
+    "special": "Adds .9x to Chain multiplier for 1 turn. If your crew has 4 or more characters of the same Type, boosts ATK of the Dominant Type characters by 2.25x and changes all orbs, including [BLOCK] orbs, to Dominant Type orbs",
+    "sailor": {
+      "base": "If your crew has 4 or more characters of the same Type, boosts base ATK of the Dominant Type by 125",
+      "level1": "Makes [PSY] orbs \"beneficial\" all characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "specialName": "Closing Declaration",
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Acquire Potential 2: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 75"
+      },
+      {
+        "description": "Boosts base HP by 105"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" all characters"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 3: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 60",
+          "Level 2: Boosts base ATK by 90",
+          "Level 3: Boosts base ATK by 120",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      },
+      {
+        "Name": "[PSY] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by 2%",
+          "Level 3: Reduce damage taken from [PSY] characters by 3%",
+          "Level 4: Reduce damage taken from [PSY] characters by 5%",
+          "Level 5: Reduce damage taken from [PSY] characters by 7%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 20% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 30% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

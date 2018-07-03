@@ -1,1 +1,114 @@
-{"name":"Mad Monk Urouge, Fallen Monk Pirates Captain","detail":{"special":"Boosts own ATK by a variable factor for 1 turn","specialNotes":"The exact multiplier used is chosen based on the crew's current HP at the time the special is activated: above 50% HP, the multiplier used is 1.5x; between 20% HP and 50% HP, it's 1.75x; below 20% HP, it's 2x.","specialName":"Precept Deification","captain":"Boosts ATK of all characters by 2.5x if HP is below 30% at the start of the turn","sailor":{"base":"None","level1":"Reduces Paralysis duration for 3 turns for himself"},"limit":[{"description":"Boosts base RCV by 10"},{"description":"Boosts base RCV by 20"},{"description":"Boosts base RCV by 30"},{"description":"Acquire Potential 1: [DEX] Damage Reduction"},{"description":"Boosts base HP by 30"},{"description":"Boosts base HP by 40"},{"description":"Boosts base HP by 50"},{"description":"Boosts base HP by 70"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base ATK by 20"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base ATK by 40"},{"description":"Boosts base ATK by 50"},{"description":"Acquire Sailor Ability 1: Reduces Paralysis duration for 3 turns for himself"},{"description":"Acquire Potential 2: Enrage"}],"potential":[{"Name":"[DEX] Damage Reduction","description":["Level 1: Reduce damage taken from [DEX] characters by 1%","Level 2: Reduce damage taken from [DEX] characters by 2%","Level 3: Reduce damage taken from [DEX] characters by 3%","Level 4: Reduce damage taken from [DEX] characters by 4%","Level 5: Reduce damage taken from [DEX] characters by 5%"]},{"Name":"Enrage","description":["Level 1: Boosts base ATK by 20","Level 2: Boosts base ATK by 50","Level 3: Boosts base ATK by 100","Level 4: Boosts base ATK by 150","Level 5: Boosts base ATK by 200"]}],"potentialNotes":"#{enrage}"},"unit":{"type":"STR","class":["Fighter","Striker"],"stars":5,"cost":40,"combo":5,"slots":3,"level":99,"exp":4000000,"maxHP":2824,"maxATK":1324,"maxRCV":203},"evolution":{"evolution":1953,"evolvers":[83,94,99,304,104]},"evolve":{"evolution":319,"evolvers":[117,93,94,304,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0781.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0781.png"}}
+{
+  "name": "Mad Monk Urouge, Fallen Monk Pirates Captain",
+  "detail": {
+    "special": "Boosts own ATK by a variable factor for 1 turn",
+    "specialNotes": "The exact multiplier used is chosen based on the crew's current HP at the time the special is activated: above 50% HP, the multiplier used is 1.5x; between 20% HP and 50% HP, it's 1.75x; below 20% HP, it's 2x.",
+    "specialName": "Precept Deification",
+    "captain": "Boosts ATK of all characters by 2.5x if HP is below 30% at the start of the turn",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Paralysis duration for 3 turns for himself"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration for 3 turns for himself"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by 1%",
+          "Level 2: Reduce damage taken from [DEX] characters by 2%",
+          "Level 3: Reduce damage taken from [DEX] characters by 3%",
+          "Level 4: Reduce damage taken from [DEX] characters by 4%",
+          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 50",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 40,
+    "combo": 5,
+    "slots": 3,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2824,
+    "maxATK": 1324,
+    "maxRCV": 203
+  },
+  "evolve": {
+    "evolution": 781,
+    "evolvers": [
+      118,
+      84,
+      94,
+      300,
+      100
+    ],
+    "from": 780
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0781.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0781.png"
+  }
+}

@@ -1,1 +1,40 @@
-{"name":"Count Butler, King's Power","detail":{"captain":"Boosts ATK of Driven characters by 1.75x and boosts ATK of Powerhouse characters by 1.5x","captainNotes":"The bonus is cumulative. Driven Powerhouse characters get a 2.625x bonus.","special":"Boosts own ATK by 1.3x for 5 turns, reduces damage received by 20% for 5 turns, deals 13x character's ATK as [INT] damage to one enemy","specialName":"Evil Beast's Horn Pierce"},"unit":{"type":"INT","class":["Driven","Powerhouse"],"stars":4,"cost":20,"combo":5,"slots":2,"level":99,"exp":3000000,"maxHP":2152,"maxATK":1100,"maxRCV":220},"evolve":{"evolution":398,"evolvers":[82,83,88,304,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1011.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1011.png"}}
+{
+  "name": "Count Butler, King's Power",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 1.75x and boosts ATK of Powerhouse characters by 1.5x",
+    "captainNotes": "The bonus is cumulative. Driven Powerhouse characters get a 2.625x bonus.",
+    "special": "Boosts own ATK by 1.3x for 5 turns, reduces damage received by 20% for 5 turns, deals 13x character's ATK as [INT] damage to one enemy",
+    "specialName": "Evil Beast's Horn Pierce"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Driven",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2152,
+    "maxATK": 1100,
+    "maxRCV": 220
+  },
+  "evolve": {
+    "evolution": 1011,
+    "evolvers": [
+      116,
+      82,
+      88,
+      93,
+      104
+    ],
+    "from": 1010
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1011.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1011.png"
+  }
+}

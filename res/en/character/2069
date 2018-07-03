@@ -1,1 +1,39 @@
-{"name":"Boa Hancock [Neo], Kuja Pirates Captain","detail":{"captain":"Boosts ATK of Free Spirit characters by 2x","specialName":"Slave Arrow [Neo]","special":"Locks the chain multiplier at 2.5x for 3 turns, delays all enemies for 1 turn and changes own orb and the captain's orb into matching"},"unit":{"type":"INT","class":["Shooter","Free Spirit"],"stars":4,"cost":30,"combo":4,"slots":4,"level":70,"exp":1066998,"maxHP":1011,"maxATK":639,"maxRCV":202},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2069.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2069.png"}}
+{
+  "name": "Boa Hancock [Neo], Kuja Pirates Captain",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 2x",
+    "specialName": "Slave Arrow [Neo]",
+    "special": "Locks the chain multiplier at 2.5x for 3 turns, delays all enemies for 1 turn and changes own orb and the captain's orb into matching"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1011,
+    "maxATK": 639,
+    "maxRCV": 202
+  },
+  "evolution": {
+    "evolution": 2070,
+    "evolvers": [
+      118,
+      94,
+      99,
+      304,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2069.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2069.png"
+  }
+}

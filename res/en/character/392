@@ -1,1 +1,40 @@
-{"name":"Ghost Princess Perona","detail":{"special":"Reduces damage received by 90% for 1 turn, reduces the defense of all enemies by 80% for 1 turn, Poisons enemies for 1,000 damage for a single turn","specialName":"Negative Hollow","specialNotes":"Poison damage deals 1,000 damage exactly and will ignore enemy armor at the end of your turn","captain":"Boosts RCV of [DEX] characters by 2x"},"unit":{"type":"DEX","class":["Shooter","Driven"],"stars":4,"cost":18,"combo":4,"slots":2,"level":99,"exp":3000000,"maxHP":1598,"maxATK":791,"maxRCV":430},"evolution":{"evolution":997,"evolvers":[80,86,266,302,102]},"evolve":{"evolution":169,"evolvers":[79,85,90,301]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0392.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0392.png"}}
+{
+  "name": "Ghost Princess Perona",
+  "detail": {
+    "special": "Reduces damage received by 90% for 1 turn, reduces the defense of all enemies by 80% for 1 turn, Poisons enemies for 1,000 damage for a single turn",
+    "specialName": "Negative Hollow",
+    "specialNotes": "Poison damage deals 1,000 damage exactly and will ignore enemy armor at the end of your turn",
+    "captain": "Boosts RCV of [DEX] characters by 2x"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 18,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1598,
+    "maxATK": 791,
+    "maxRCV": 430
+  },
+  "evolve": {
+    "evolution": 392,
+    "evolvers": [
+      117,
+      86,
+      91,
+      97,
+      102
+    ],
+    "from": 391
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0392.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0392.png"
+  }
+}

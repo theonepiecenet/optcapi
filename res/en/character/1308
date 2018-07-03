@@ -1,1 +1,39 @@
-{"name":"Bartolomeo, Full Moon Wolf Halloween Night - Masquerade","detail":{"captain":"Boosts ATK of Driven characters by 2x. If you don't attack with Bartolomeo, reduces damage received by 20% for that turn.","special":"Reduces damage received by 50% for 1 turn. If during that turn every unit scores a PERFECT hit, reduces damage received by 80% in the following turn","specialName":"Vulgar Provocation"},"unit":{"type":"QCK","class":["Driven","Striker"],"stars":5,"cost":20,"combo":4,"slots":4,"level":99,"exp":3000000,"maxHP":2149,"maxATK":1242,"maxRCV":247},"evolve":{"evolution":522,"evolvers":[118,95,95,300,267]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1308.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1308.png"}}
+{
+  "name": "Bartolomeo, Full Moon Wolf Halloween Night - Masquerade",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 2x. If you don't attack with Bartolomeo, reduces damage received by 20% for that turn.",
+    "special": "Reduces damage received by 50% for 1 turn. If during that turn every unit scores a PERFECT hit, reduces damage received by 80% in the following turn",
+    "specialName": "Vulgar Provocation"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Driven",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2149,
+    "maxATK": 1242,
+    "maxRCV": 247
+  },
+  "evolve": {
+    "evolution": 1308,
+    "evolvers": [
+      117,
+      79,
+      85,
+      301,
+      101
+    ],
+    "from": 1307
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1308.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1308.png"
+  }
+}

@@ -1,1 +1,40 @@
-{"name":"Ben Beckman, Light-Stopping Gunpoint","detail":{"captain":"Boosts ATK of Cerebral characters by 1.2x","special":"Reduces enemies Increased Defense duration by 3 turns, changes own orb into [STR], amplifies the effect of orbs by 1.5x for 1 turn and locks the chain multiplier depending on your Treasure Map Level for 1 turn","specialName":"Trial of Annihilation","specialNotes":"Level 1-10: 2.5x chain lock<br>Level 11-20: 2.75x chain lock<br>Level 21+: 3x chain lock"},"unit":{"type":"STR","class":["Striker","Cerebral"],"stars":4,"cost":12,"combo":6,"slots":3,"level":50,"exp":261406,"maxHP":1408,"maxATK":712,"maxRCV":128},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2059.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2059.png"}}
+{
+  "name": "Ben Beckman, Light-Stopping Gunpoint",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 1.2x",
+    "special": "Reduces enemies Increased Defense duration by 3 turns, changes own orb into [STR], amplifies the effect of orbs by 1.5x for 1 turn and locks the chain multiplier depending on your Treasure Map Level for 1 turn",
+    "specialName": "Trial of Annihilation",
+    "specialNotes": "Level 1-10: 2.5x chain lock<br>Level 11-20: 2.75x chain lock<br>Level 21+: 3x chain lock"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 12,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 261406,
+    "maxHP": 1408,
+    "maxATK": 712,
+    "maxRCV": 128
+  },
+  "evolution": {
+    "evolution": 2060,
+    "evolvers": [
+      117,
+      78,
+      89,
+      95,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2059.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2059.png"
+  }
+}

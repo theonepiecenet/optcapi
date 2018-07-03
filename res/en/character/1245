@@ -1,1 +1,30 @@
-{"name":"\"Straw Hat\" Monkey D. Luffy, Marineford Flight ","detail":{"captain":"Boosts ATK of Fighter characters by 1.75x. If HP is below 10%, boosts ATK of Fighter characters by 3x instead.","special":"Deals random [QCK] damage to all enemies and boosts ATK of Fighter characters by 1.3x for 1 turn. If \"Firefly Light, Fiery Doll\" is used again in the same turn the special is activated in, boosts ATK of Fighter characters by 2x instead.","specialName":"Gomu Gomu no Stamp Gatling","specialNotes":"Firefly Light, Fiery Doll is Event Ace's special ability."},"unit":{"type":"QCK","class":["Fighter","Striker"],"stars":5,"cost":25,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":1890,"maxATK":1242,"maxRCV":309},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1245.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1245.png"}}
+{
+  "name": "\"Straw Hat\" Monkey D. Luffy, Marineford Flight ",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 1.75x. If HP is below 10%, boosts ATK of Fighter characters by 3x instead.",
+    "special": "Deals random [QCK] damage to all enemies and boosts ATK of Fighter characters by 1.3x for 1 turn. If \"Firefly Light, Fiery Doll\" is used again in the same turn the special is activated in, boosts ATK of Fighter characters by 2x instead.",
+    "specialName": "Gomu Gomu no Stamp Gatling",
+    "specialNotes": "Firefly Light, Fiery Doll is Event Ace's special ability."
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 25,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1890,
+    "maxATK": 1242,
+    "maxRCV": 309
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1245.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1245.png"
+  }
+}

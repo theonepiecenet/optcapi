@@ -1,1 +1,129 @@
-{"name":"Violet, Donquixote Pirates","detail":{"captain":"Boosts amount of Beli received by 3x","special":[{"description":"Reduces Special Cooldown of Cerebral and Fighter specials by 1 turn. Displays the status of all enemies.","cooldown":[13,7]},{"description":"Reduces Special Cooldown of Cerebral and Fighter specials by 2 turns. Displays the status of all enemies.","cooldown":[20,14]}],"specialName":"Peeping Mind","specialNotes":"Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on turns' and 'Effect after Death'<br>#{stages}","sailor":{"base":"Restores her own special by 1 turn when it is rewinded","level1":"Reduces Silence duration against this unit by 2 turns"},"sailorNotes":"#{rewind : 1}","limit":[{"description":"Boosts base ATK by 10"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base ATK by 30"},{"description":"Acquire Potential 1: Reduce No Healing duration"},{"description":"Boosts base ATK by 40"},{"description":"Boosts base HP by 80"},{"description":"Boosts base ATK by 50"},{"description":"Boosts base ATK by 50"},{"description":"Boosts base ATK by 50"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base ATK by 70"},{"description":"Boosts base ATK by 80"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Acquire Sailor Ability 1: Reduces Silence duration against this unit by 2 turns"},{"description":"Acquire Potential 2: Cooldown Reduction"}],"potential":[{"Name":"Reduce No Healing duration","description":["Level 1: Reduces No Healing duration by 1 turn","Level 2: Reduces No Healing duration by ? turn","Level 3: Reduces No Healing duration by ? turn","Level 4: Reduces No Healing duration by ? turns","Level 5: Reduces No Healing duration by ? turns"]},{"Name":"Cooldown Reduction","description":["Level 1: Reduce own Special Cooldown by 3 turns at the start of the fight","Level 2: Reduce own Special Cooldown by ? turn at the start of the fight","Level 3: Reduce own Special Cooldown by ? turn at the start of the fight","Level 4: Reduce own Special Cooldown by ? turn at the start of the fight","Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"]}]},"unit":{"type":"PSY","class":["Fighter","Cerebral"],"stars":5,"cost":30,"combo":4,"slots":4,"level":99,"exp":4000000,"maxHP":2217,"maxATK":813,"maxRCV":483},"evolve":{"evolution":391,"evolvers":[80,86,266,302,102]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0995.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0995.png"}}
+{
+  "name": "Violet, Donquixote Pirates",
+  "detail": {
+    "captain": "Boosts amount of Beli received by 3x",
+    "special": [
+      {
+        "description": "Reduces Special Cooldown of Cerebral and Fighter specials by 1 turn. Displays the status of all enemies.",
+        "cooldown": [
+          13,
+          7
+        ]
+      },
+      {
+        "description": "Reduces Special Cooldown of Cerebral and Fighter specials by 2 turns. Displays the status of all enemies.",
+        "cooldown": [
+          20,
+          14
+        ]
+      }
+    ],
+    "specialName": "Peeping Mind",
+    "specialNotes": "Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on turns' and 'Effect after Death'<br>#{stages}",
+    "sailor": {
+      "base": "Restores her own special by 1 turn when it is rewinded",
+      "level1": "Reduces Silence duration against this unit by 2 turns"
+    },
+    "sailorNotes": "#{rewind : 1}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 70"
+      },
+      {
+        "description": "Boosts base ATK by 80"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration against this unit by 2 turns"
+      },
+      {
+        "description": "Acquire Potential 2: Cooldown Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 3 turns at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2217,
+    "maxATK": 813,
+    "maxRCV": 483
+  },
+  "evolve": {
+    "evolution": 995,
+    "evolvers": [
+      118,
+      87,
+      94,
+      303,
+      103
+    ],
+    "from": 994
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0995.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0995.png"
+  }
+}

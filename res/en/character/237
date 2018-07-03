@@ -1,1 +1,33 @@
-{"name":"Knuckle Millions Baroque Works","detail":{"special":"Changes [DEX] orbs into [STR] orbs","specialName":"[DEX] Slot Change [STR]"},"unit":{"type":"STR","class":"Fighter","stars":2,"cost":5,"combo":6,"slots":0,"level":25,"exp":33626,"maxHP":532,"maxATK":352,"maxRCV":50},"evolution":{"evolution":562,"evolvers":[118,86,266,302,267]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0237.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0237.png"}}
+{
+  "name": "Knuckle Millions Baroque Works",
+  "detail": {
+    "special": "Changes [DEX] orbs into [STR] orbs",
+    "specialName": "[DEX] Slot Change [STR]"
+  },
+  "unit": {
+    "type": "STR",
+    "class": "Fighter",
+    "stars": 2,
+    "cost": 5,
+    "combo": 6,
+    "slots": 0,
+    "level": 25,
+    "exp": 33626,
+    "maxHP": 532,
+    "maxATK": 352,
+    "maxRCV": 50
+  },
+  "evolution": {
+    "evolution": 242,
+    "evolvers": [
+      115,
+      89,
+      95
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0237.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0237.png"
+  }
+}

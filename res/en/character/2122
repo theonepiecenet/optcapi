@@ -1,1 +1,41 @@
-{"name":"Neptune, The Great Knight of the Sea","detail":{"captain":"Boosts ATK of all characters by 1.5x and EXP gained by 1.25x","captainNotes":"EXP boost does not take effect if he becomes your captain in the middle of the adventure.","special":"Reduces Despair and ATK DOWN duration by 5 turns and reduces enemies' Resilience Buffs by 5 turns. Reduces the defense of all enemies by ?% and amplifies the effect of orbs by 1.75x for Cerebral and Powerhouse characters for 3 turns","sailor":"Boosts base ATK, HP and RCV of Cerebral characters by 75","specialName":"Great Ocean Current of Resuscitation"},"unit":{"type":"INT","class":["Cerebral","Powerhouse"],"stars":4,"cost":25,"combo":6,"slots":4,"level":70,"exp":1066998,"maxHP":1379,"maxATK":935,"maxRCV":133},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2122.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2122.png"}}
+{
+  "name": "Neptune, The Great Knight of the Sea",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 1.5x and EXP gained by 1.25x",
+    "captainNotes": "EXP boost does not take effect if he becomes your captain in the middle of the adventure.",
+    "special": "Reduces Despair and ATK DOWN duration by 5 turns and reduces enemies' Resilience Buffs by 5 turns. Reduces the defense of all enemies by ?% and amplifies the effect of orbs by 1.75x for Cerebral and Powerhouse characters for 3 turns",
+    "sailor": "Boosts base ATK, HP and RCV of Cerebral characters by 75",
+    "specialName": "Great Ocean Current of Resuscitation"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Cerebral",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 6,
+    "slots": 4,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1379,
+    "maxATK": 935,
+    "maxRCV": 133
+  },
+  "evolution": {
+    "evolution": 2123,
+    "evolvers": [
+      118,
+      99,
+      1180,
+      304,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2122.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2122.png"
+  }
+}

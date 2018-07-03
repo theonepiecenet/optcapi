@@ -1,1 +1,83 @@
-{"name":"토니토니 쵸파 폭주 후","detail":{"special":"적 1명에게 랜덤으로 힘 속성 데미지","specialName":"폭주","specialNotes":"랜덤 데미지 : 2,000 ~ 200,000","captain":"STR 캐릭터의 체력을 대폭(60%) 줄이고 공격력이 3배가 된다."}}
+{
+  "name": "토니토니 쵸파 폭주 후",
+  "detail": {
+    "special": "적 1명에게 랜덤으로 힘 속성 데미지",
+    "specialName": "폭주",
+    "specialNotes": "랜덤 데미지 : 2,000 ~ 200,000",
+    "captain": "STR 캐릭터의 체력을 대폭(60%) 줄이고 공격력이 3배가 된다.",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK of all characters by 50"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 70"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base ATK by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of all characters by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 40",
+          "Level 3: Boosts base ATK by 60",
+          "Level 4: Boosts base ATK by 80",
+          "Level 5: Boosts base ATK by 150"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 20% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

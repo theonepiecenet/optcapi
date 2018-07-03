@@ -1,1 +1,39 @@
-{"name":"Nami, Fine Tempo","detail":{"special":"Changes [PSY] orbs into [INT] orbs","specialName":"Fine Tempo","captain":"Boosts ATK of [INT] characters by 2x"},"unit":{"type":"INT","class":["Striker","Cerebral"],"stars":4,"cost":15,"combo":5,"slots":2,"level":50,"exp":392109,"maxHP":1062,"maxATK":421,"maxRCV":102},"evolution":{"evolution":524,"evolvers":[118,85,96,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0220.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0220.png"}}
+{
+  "name": "Nami, Fine Tempo",
+  "detail": {
+    "special": "Changes [PSY] orbs into [INT] orbs",
+    "specialName": "Fine Tempo",
+    "captain": "Boosts ATK of [INT] characters by 2x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1062,
+    "maxATK": 421,
+    "maxRCV": 102
+  },
+  "evolution": {
+    "evolution": 221,
+    "evolvers": [
+      118,
+      88,
+      104,
+      94,
+      93
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0220.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0220.png"
+  }
+}

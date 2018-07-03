@@ -1,1 +1,84 @@
-{"name":"폭군 바솔로뮤 쿠마 정부의 인간병기","detail":{"captain":"박식 타입 캐릭터의 공격과 체력이 2배가 되고, 적으로부터 받은 데미지의 5배를 턴 종료시 적 전체에 STR 데미지를 준다.","specialName":"밀쳐내기 압력포","special":"[RCV], [TND], [EMPTY], [BLOCK], [BOMB] 슬롯을 자슬롯으로 변환하고, 1턴동안 슬롯 영향을 1.75배 상승"}}
+{
+  "name": "폭군 바솔로뮤 쿠마 정부의 인간병기",
+  "detail": {
+    "captain": "박식 타입 캐릭터의 공격과 체력이 2배가 되고, 적으로부터 받은 데미지의 5배를 턴 종료시 적 전체에 STR 데미지를 준다.",
+    "specialName": "밀쳐내기 압력포",
+    "special": "[RCV], [TND], [EMPTY], [BLOCK], [BOMB] 슬롯을 자슬롯으로 변환하고, 1턴동안 슬롯 영향을 1.75배 상승",
+    "specialNotes": "#{orb : 1.75x}",
+    "sailor": {
+      "base": "None",
+      "level1": "If HP is above 99% at the start of the turn, boosts own base ATK by 50",
+      "level2": "When HP is below ??% at the start of the turn, boosts own base ATK by 75"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If HP is above 99% at the start of the turn, boosts own base ATK by 50"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: When HP is below ??% at the start of the turn, boosts own base ATK by 75"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by 1%",
+          "Level 2: Reduce damage taken from [DEX] characters by 2%",
+          "Level 3: Reduce damage taken from [DEX] characters by 3%",
+          "Level 4: Reduce damage taken from [DEX] characters by 4%",
+          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

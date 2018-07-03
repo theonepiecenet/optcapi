@@ -1,1 +1,40 @@
-{"name":"Nefeltari Vivi, Princess of Alabasta Kingdom","detail":{"special":"Deals [PSY] damage to one enemy according to HP, recovers 5x character's RCV in HP at the end of each turn for 5 turns","specialNotes":"The exact damage is proportional to the crew's remaining HP and is higher the lower the HP is. The formula used is 80000 * (1 - (current HP) / (total HP))","specialName":"Vivi's Important Security Guard","captain":"Recovers 2x character's RCV in HP at the end of each turn"},"unit":{"type":"PSY","class":["Striker","Free Spirit"],"stars":3,"cost":9,"combo":6,"slots":1,"level":35,"exp":136167,"maxHP":285,"maxATK":104,"maxRCV":225},"evolution":{"evolution":1682,"evolvers":[78,84,89,95,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0663.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0663.png"}}
+{
+  "name": "Nefeltari Vivi, Princess of Alabasta Kingdom",
+  "detail": {
+    "special": "Deals [PSY] damage to one enemy according to HP, recovers 5x character's RCV in HP at the end of each turn for 5 turns",
+    "specialNotes": "The exact damage is proportional to the crew's remaining HP and is higher the lower the HP is. The formula used is 80000 * (1 - (current HP) / (total HP))",
+    "specialName": "Vivi's Important Security Guard",
+    "captain": "Recovers 2x character's RCV in HP at the end of each turn"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Striker",
+      "Free Spirit"
+    ],
+    "stars": 3,
+    "cost": 9,
+    "combo": 6,
+    "slots": 1,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 285,
+    "maxATK": 104,
+    "maxRCV": 225
+  },
+  "evolution": {
+    "evolution": 664,
+    "evolvers": [
+      117,
+      81,
+      87,
+      98,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0663.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0663.png"
+  }
+}

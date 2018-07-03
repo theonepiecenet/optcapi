@@ -1,1 +1,31 @@
-{"name":"Namule Whitebeard 8th Div. Commander","detail":{"captain":"Boosts ATK of Fighter and Powerhouse characters by 2x and sharply reduces their RCV","captainNotes":"The RCV Reduction is around 90%","specialName":"Martial Art Diving Fist","special":"Boosts own ATK by 1.75x for 1 turn and deals 800 fixed damage to one enemy","specialNotes":"#{fixed}"},"unit":{"type":"PSY","class":["Fighter","Powerhouse"],"stars":4,"cost":25,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":2148,"maxATK":1305,"maxRCV":154},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0981.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0981.png"}}
+{
+  "name": "Namule Whitebeard 8th Div. Commander",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Powerhouse characters by 2x and sharply reduces their RCV",
+    "captainNotes": "The RCV Reduction is around 90%",
+    "specialName": "Martial Art Diving Fist",
+    "special": "Boosts own ATK by 1.75x for 1 turn and deals 800 fixed damage to one enemy",
+    "specialNotes": "#{fixed}"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2148,
+    "maxATK": 1305,
+    "maxRCV": 154
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0981.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0981.png"
+  }
+}

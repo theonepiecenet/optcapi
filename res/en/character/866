@@ -1,1 +1,29 @@
-{"name":"Nico Robin Cien Fleur Wing: The Storm","detail":{"captain":"Boosts ATK of Cerebral characters by 2x","specialName":"Cien Fleur Wing: The Storm","special":"Boosts ATK of Slasher and Cerebral characters by 1.3x for 2 turns, reduces Bind duration by 2 turns"},"unit":{"type":"INT","class":["Cerebral","Slasher"],"stars":4,"cost":15,"combo":4,"slots":2,"level":99,"exp":2000000,"maxHP":1518,"maxATK":1061,"maxRCV":290},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0866.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0866.png"}}
+{
+  "name": "Nico Robin Cien Fleur Wing: The Storm",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 2x",
+    "specialName": "Cien Fleur Wing: The Storm",
+    "special": "Boosts ATK of Slasher and Cerebral characters by 1.3x for 2 turns, reduces Bind duration by 2 turns"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Cerebral",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 1518,
+    "maxATK": 1061,
+    "maxRCV": 290
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0866.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0866.png"
+  }
+}

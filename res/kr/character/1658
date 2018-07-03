@@ -1,1 +1,79 @@
-{"name":"소나기 칸주로, 와노국의 사무라이","detail":{"captain":"타격, 자유 캐릭터의 공격력이 2.5배가 된다","special":"봉인과 선장효과 무효 상태를 5턴 회복하고 선장이 타격 타입이라면 1턴 동안 체인 계수가 2.75배로 고정된다.","sailor":"선장이 타격 타입이라면, 자신의 [DEX]슬롯이 유리 슬롯 취급","specialName":"용오름"}}
+{
+  "name": "소낙비 칸주로, 화노쿠니의 사무라이",
+  "detail": {
+    "captain": "타격형과 자유형 캐릭터의 공격력이 2.5배가 된다",
+    "special": "봉쇄·선장효과 무효 상태를 5턴 회복하고, 선장이 타격형이면 1턴 동안 체인 계수가 2.75배로 고정된다",
+    "sailor": "선장이 타격형일 경우 타격형 캐릭터의 [DEX] 슬롯을 [유리] 슬롯으로 취급한다",
+    "specialName": "승룡",
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Striker characters by 75"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Potential 2: [QCK] Damage Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[STR] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [STR] characters by 1%",
+          "Level 2: Reduce damage taken from [STR] characters by ?%",
+          "Level 3: Reduce damage taken from [STR] characters by ?%",
+          "Level 4: Reduce damage taken from [STR] characters by ?%",
+          "Level 5: Reduce damage taken from [STR] characters by ?%"
+        ]
+      },
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by ?%",
+          "Level 3: Reduce damage taken from [QCK] characters by ?%",
+          "Level 4: Reduce damage taken from [QCK] characters by ?%",
+          "Level 5: Reduce damage taken from [QCK] characters by ?%"
+        ]
+      }
+    ]
+  }
+}

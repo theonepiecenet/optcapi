@@ -1,1 +1,39 @@
-{"name":"Giolla, Art Human","detail":{"captain":"Boosts ATK of all characters by 1.2x. Boosts ATK of all characters by 2.4x after scoring 4 PERFECTs in a row","special":"Reduces damage received by 90% for 1 turn and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX] or [QCK] orbs","specialName":"Sprouting with Beautiful Passion"},"unit":{"type":"STR","class":["Shooter","Free Spirit"],"stars":3,"cost":13,"combo":4,"slots":3,"level":50,"exp":392109,"maxHP":700,"maxATK":505,"maxRCV":165},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1648.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1648.png"}}
+{
+  "name": "Giolla, Art Human",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 1.2x. Boosts ATK of all characters by 2.4x after scoring 4 PERFECTs in a row",
+    "special": "Reduces damage received by 90% for 1 turn and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX] or [QCK] orbs",
+    "specialName": "Sprouting with Beautiful Passion"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 700,
+    "maxATK": 505,
+    "maxRCV": 165
+  },
+  "evolution": {
+    "evolution": 1649,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1648.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1648.png"
+  }
+}

@@ -1,1 +1,10 @@
-{"name":"아트모스","detail":{"captain":"Boosts ATK of [STR] characters by 2.5x","special":"Deals 7 hits of random damage to random enemies. Reduces Bind and Despair duration by 3 턴","specialName":"Advancing Continuous Sword Attack","sailor":"Boosts base ATK, HP, and RCV of all characters by 20"}}
+{
+  "name": "아트모스",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by 2.5x",
+    "special": "Deals 7 hits of random damage to random enemies. Reduces Bind and Despair duration by 3 턴",
+    "specialName": "Advancing Continuous Sword Attack",
+    "sailor": "Boosts base ATK, HP, and RCV of all characters by 20",
+    "specialNotes": "#{randomHits : 7}<br>#{random : 5000 : 20000 : for each hit}"
+  }
+}

@@ -1,1 +1,39 @@
-{"name":"Jaguar D. Saul, Navy HQ Vice Admiral","detail":{"captain":"Boosts ATK of [PSY] characters by 2x","special":"Reduces Bind duration by 4 turns and Reduces damage received by 50% for 2 turns","specialName":"Dereshishishi Towards Hope"},"unit":{"type":"PSY","class":["Powerhouse","Free Spirit"],"stars":4,"cost":20,"combo":4,"slots":2,"level":99,"exp":3000000,"maxHP":2448,"maxATK":929,"maxRCV":236},"evolve":{"evolution":417,"evolvers":[117,79,90,96]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1051.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1051.png"}}
+{
+  "name": "Jaguar D. Saul, Navy HQ Vice Admiral",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 2x",
+    "special": "Reduces Bind duration by 4 turns and Reduces damage received by 50% for 2 turns",
+    "specialName": "Dereshishishi Towards Hope"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2448,
+    "maxATK": 929,
+    "maxRCV": 236
+  },
+  "evolve": {
+    "evolution": 1051,
+    "evolvers": [
+      117,
+      92,
+      92,
+      98,
+      103
+    ],
+    "from": 1050
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1051.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1051.png"
+  }
+}

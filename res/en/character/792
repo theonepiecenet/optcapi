@@ -1,1 +1,36 @@
-{"name":"Iceburg","detail":{"special":"Randomizes all orbs into either [STR], [QCK], [DEX], [PSY] or [INT] orbs, switches orbs between slots twice, locks all orbs for 1 turn","specialName":"The Entushiasm to Keep Skilled Workers in Line"},"unit":{"type":"INT","class":["Shooter","Cerebral"],"stars":3,"cost":9,"combo":6,"slots":2,"level":35,"exp":136167,"maxHP":790,"maxATK":392,"maxRCV":167},"evolution":{"evolution":1976,"evolvers":[118,83,85,301,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0792.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0792.png"}}
+{
+  "name": "Iceburg",
+  "detail": {
+    "special": "Randomizes all orbs into either [STR], [QCK], [DEX], [PSY] or [INT] orbs, switches orbs between slots twice, locks all orbs for 1 turn",
+    "specialName": "The Entushiasm to Keep Skilled Workers in Line"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": 9,
+    "combo": 6,
+    "slots": 2,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 790,
+    "maxATK": 392,
+    "maxRCV": 167
+  },
+  "evolution": {
+    "evolution": 793,
+    "evolvers": [
+      116,
+      117,
+      99
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0792.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0792.png"
+  }
+}

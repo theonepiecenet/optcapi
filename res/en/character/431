@@ -1,1 +1,39 @@
-{"name":"Bellamy the Hyena","detail":{"special":"Amplifies the effect of orbs by 1.5x for 1 turn","specialNotes":"#{orb : 1.5x}","specialName":"Spring Hopper","captain":"Boosts ATK and HP of [DEX] characters by 1.5x"},"unit":{"type":"DEX","class":["Fighter","Driven"],"stars":4,"cost":15,"combo":6,"slots":2,"level":70,"exp":1066998,"maxHP":1072,"maxATK":986,"maxRCV":170},"evolution":{"evolution":1089,"evolvers":[117,85,96,301,101]},"evolve":{"evolution":182,"evolvers":[117,85,433,434,96]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0431.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0431.png"}}
+{
+  "name": "Bellamy the Hyena",
+  "detail": {
+    "special": "Amplifies the effect of orbs by 1.5x for 1 turn",
+    "specialNotes": "#{orb : 1.5x}",
+    "specialName": "Spring Hopper",
+    "captain": "Boosts ATK and HP of [DEX] characters by 1.5x"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1072,
+    "maxATK": 986,
+    "maxRCV": 170
+  },
+  "evolve": {
+    "evolution": 431,
+    "evolvers": [
+      116,
+      86,
+      91,
+      97
+    ],
+    "from": 430
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0431.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0431.png"
+  }
+}

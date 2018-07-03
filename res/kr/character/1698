@@ -1,1 +1,137 @@
-{"name":"마젤란, 지옥의 지배자","detail":{"captain":"Boosts ATK of all characters by 2.25x and their HP by 1.5x if there's a [STR], [DEX], [QCK], [PSY], and [INT] character in your crew. Cuts the current HP of each enemy by 15% at the end of each 턴","special":"Inflicts Toxic to all enemies, recovers 13x character's RCV in HP at the end of each 턴 for 3 턴","specialNotes":"Toxic starts at 50x character's attack and increases by 2x at the end of every 턴 until 2,000,000 damage per 턴.","specialName":"Venom Cloud","limit":[{"description":"공격력 상승 : 15"},{"description":"체력 상승 : 20"},{"description":"회복력 상승 : 10"},{"description":"잠재능력 습득 1: Pinch Healing"},{"description":"회복력 상승 : 10"},{"description":"체력 상승 : 30"},{"description":"공격력 상승 : 15"},{"description":"선원효과 추가 1: Cannot be blown away"},{"description":"공격력 상승 : 15"},{"description":"체력 상승 : 30"},{"description":"회복력 상승 : 10"},{"description":"회복력 상승 : 10"},{"description":"체력 상승 : 40"},{"description":"공격력 상승 : 20"},{"description":"잠재능력 습득 2: Barrier Penetration"},{"description":"회복력 상승 : 10"},{"description":"공격력 상승 : 20"},{"description":"체력 상승 : 40"},{"description":"공격력 상승 : 30"},{"description":"체력 상승 : 60"},{"description":"회복력 상승 : 15"},{"description":"필살기 턴 단축 : 1턴"},{"description":"회복력 상승 : 15"},{"description":"체력 상승 : 90"},{"description":"공격력 상승 : 40"},{"description":"공격력 상승 : 45"},{"description":"체력 상승 : 90"},{"description":"회복력 상승 : 20"},{"description":"체력 상승 : 100"},{"description":"잠재능력 습득 3: Reduce No Healing duration"}],"potential":[{"Name":"Pinch Healing","description":["Level 1: 전투 시작 시 체력이 10% 미만이면, heals for 2x this character's RCV at the end of the 턴 each time you hit a PERFECT","Level 2: 전투 시작 시 체력이 15% 미만이면, heals for 2x this character's RCV at the end of the 턴 each time you hit a PERFECT","Level 3: 전투 시작 시 체력이 20% 미만이면, heals for 2x this character's RCV at the end of the 턴 each time you hit a PERFECT","Level 4: 전투 시작 시 체력이 30% 미만이면, heals for 2x this character's RCV at the end of the 턴 each time you hit a PERFECT","Level 5: 전투 시작 시 체력이 30% 미만이면, heals for 3x this character's RCV at the end of the 턴 each time you hit a PERFECT"]},{"Name":"Barrier Penetration","description":["Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.","Level 2: This character's attack will ignore barriers if HP is above 90%","Level 3: This character's attack will ignore barriers if HP is above 70%","Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.","Level 5: This character's attack will ignore barriers"]},{"Name":"Reduce No Healing duration","description":["Level 1: 회복 무효 상태 회복 : 1 턴","Level 2: 회복 무효 상태 회복 : 2 턴","Level 3: 회복 무효 상태 회복 : 3 턴","Level 4: 회복 무효 상태 회복 : 4 턴","Level 5: 회복 무효 상태 회복 : 5 턴"]}]}}
+{
+  "name": "마젤란, 지옥의 지배자",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.25x and their HP by 1.5x if there's a [STR], [DEX], [QCK], [PSY], and [INT] character in your crew. Cuts the current HP of each enemy by 15% at the end of each 턴",
+    "special": "Inflicts Toxic to all enemies, recovers 13x character's RCV in HP at the end of each 턴 for 3 턴",
+    "specialNotes": "Toxic starts at 50x character's attack and increases by 2x at the end of every 턴 until 2,000,000 damage per 턴.",
+    "specialName": "Venom Cloud",
+    "limit": [
+      {
+        "description": "공격력 상승 : 15"
+      },
+      {
+        "description": "체력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "잠재능력 습득 1: Pinch Healing"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 15"
+      },
+      {
+        "description": "선원효과 추가 1: Cannot be blown away"
+      },
+      {
+        "description": "공격력 상승 : 15"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "잠재능력 습득 2: Barrier Penetration"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "체력 상승 : 90"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 45"
+      },
+      {
+        "description": "체력 상승 : 90"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 100"
+      },
+      {
+        "description": "잠재능력 습득 3: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: 전투 시작 시 체력이 10% 미만이면, heals for 2x this character's RCV at the end of the 턴 each time you hit a PERFECT",
+          "Level 2: 전투 시작 시 체력이 15% 미만이면, heals for 2x this character's RCV at the end of the 턴 each time you hit a PERFECT",
+          "Level 3: 전투 시작 시 체력이 20% 미만이면, heals for 2x this character's RCV at the end of the 턴 each time you hit a PERFECT",
+          "Level 4: 전투 시작 시 체력이 30% 미만이면, heals for 2x this character's RCV at the end of the 턴 each time you hit a PERFECT",
+          "Level 5: 전투 시작 시 체력이 30% 미만이면, heals for 3x this character's RCV at the end of the 턴 each time you hit a PERFECT"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 2: This character's attack will ignore barriers if HP is above 90%",
+          "Level 3: This character's attack will ignore barriers if HP is above 70%",
+          "Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 5: This character's attack will ignore barriers"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 2 턴",
+          "Level 3: 회복 무효 상태 회복 : 3 턴",
+          "Level 4: 회복 무효 상태 회복 : 4 턴",
+          "Level 5: 회복 무효 상태 회복 : 5 턴"
+        ]
+      }
+    ],
+    "sailor": {
+      "base": "None",
+      "level1": "Cannot be blown away"
+    }
+  }
+}

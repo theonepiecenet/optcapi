@@ -1,1 +1,39 @@
-{"name":"Ace, Wasting Time Until Twilight","detail":{"captain":"Boosts ATK of Shooter characters by 2x","special":"Recovers 3,000 HP and boosts ATK of Free Spirit characters by 1.75x for 1 turn","specialName":"Looking to the Full Moon"},"unit":{"type":"STR","class":["Free Spirit","Shooter"],"stars":4,"cost":13,"combo":6,"slots":2,"level":50,"exp":392109,"maxHP":961,"maxATK":584,"maxRCV":174},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1265.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1265.png"}}
+{
+  "name": "Ace, Wasting Time Until Twilight",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 2x",
+    "special": "Recovers 3,000 HP and boosts ATK of Free Spirit characters by 1.75x for 1 turn",
+    "specialName": "Looking to the Full Moon"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Free Spirit",
+      "Shooter"
+    ],
+    "stars": 4,
+    "cost": 13,
+    "combo": 6,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 961,
+    "maxATK": 584,
+    "maxRCV": 174
+  },
+  "evolution": {
+    "evolution": 1266,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1265.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1265.png"
+  }
+}

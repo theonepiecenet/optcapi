@@ -1,1 +1,29 @@
-{"name":"Chopper's Snow Day","detail":{"captain":"Boosts ATK of [DEX] chracters by 1.5x, reduces damage received by 10%","specialName":"Guard Point: Winter Coat","special":"Reduces damage received by 50% for 3 turns, slightly boosts chances of getting [DEX] orbs for 3 turns"},"unit":{"type":"DEX","class":["Fighter","Powerhouse"],"stars":4,"cost":15,"combo":5,"slots":2,"level":99,"exp":2000000,"maxHP":1920,"maxATK":614,"maxRCV":293},"evolution":{"evolution":2132,"evolvers":[117,81,92,98,103]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0854.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0854.png"}}
+{
+  "name": "Chopper's Snow Day",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] chracters by 1.5x, reduces damage received by 10%",
+    "specialName": "Guard Point: Winter Coat",
+    "special": "Reduces damage received by 50% for 3 turns, slightly boosts chances of getting [DEX] orbs for 3 turns"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 2,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 1920,
+    "maxATK": 614,
+    "maxRCV": 293
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0854.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0854.png"
+  }
+}

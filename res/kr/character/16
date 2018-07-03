@@ -1,1 +1,81 @@
-{"name":"저격왕","detail":{"special":"적 전체의 공격을 3턴 지연시키고, 캐릭터의 공격15배의 PSY 데미지","specialName":"화조성","captain":"PSY 캐릭터의 체력과 공격이 1.5배가 된다"}}
+{
+  "name": "저격왕",
+  "detail": {
+    "special": "적 전체의 공격을 3턴 지연시키고, 캐릭터의 공격15배의 PSY 데미지",
+    "specialName": "화조성",
+    "captain": "PSY 캐릭터의 체력과 공격이 1.5배가 된다",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of Shooter characters by 20"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Shooter characters by 20"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: If there are 6 Shooter characters in your crew, reduces No Healing duration by 1 turn",
+          "Level 2: If there are 5 Shooter characters in your crew, reduces No Healing duration by 1 turn",
+          "Level 3: If there are 4 Shooter characters in your crew, reduces No Healing duration by 1 turn",
+          "Level 4: If there are 4 Shooter characters in your crew, reduces No Healing duration by 2 turns",
+          "Level 5: If there are 4 Shooter characters in your crew, reduces No Healing duration by 3 turns"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's attack will ignore barriers if HP is above 99%",
+          "Level 2: This character's attack will ignore barriers if HP is above 99%",
+          "Level 3: This character's attack will ignore barriers if HP is above 99%",
+          "Level 4: This character's attack will ignore barriers if HP is above 80%",
+          "Level 5: This character's attack will ignore barriers if HP is above 50%"
+        ]
+      }
+    ]
+  }
+}

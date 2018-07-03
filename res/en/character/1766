@@ -1,1 +1,39 @@
-{"name":"Longleg Blue Gilly, Jao Kun Do Martial Artist","detail":{"captain":"Boosts chain multiplier by 1.5x and boosts ATK of Fighter characters by 1.5x","special":"Deals 10 hits of 5x character's ATK in typeless damage to random enemies, reduces the defense of all enemies by 50% for 1 turn, randomizes non-matching orbs, including [BLOCK] orbs","specialName":"Jao Kun Do Consecutive Thrusting Kick"},"unit":{"type":"DEX","class":["Fighter","Free Spirit"],"stars":4,"cost":20,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":2208,"maxATK":1185,"maxRCV":187},"evolve":{"evolution":701,"evolvers":[118,88,99,304,104]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1766.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1766.png"}}
+{
+  "name": "Longleg Blue Gilly, Jao Kun Do Martial Artist",
+  "detail": {
+    "captain": "Boosts chain multiplier by 1.5x and boosts ATK of Fighter characters by 1.5x",
+    "special": "Deals 10 hits of 5x character's ATK in typeless damage to random enemies, reduces the defense of all enemies by 50% for 1 turn, randomizes non-matching orbs, including [BLOCK] orbs",
+    "specialName": "Jao Kun Do Consecutive Thrusting Kick"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2208,
+    "maxATK": 1185,
+    "maxRCV": 187
+  },
+  "evolve": {
+    "evolution": 1766,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ],
+    "from": 1765
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1766.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1766.png"
+  }
+}

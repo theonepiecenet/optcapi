@@ -1,1 +1,55 @@
-{"name":"Destruction Cannon Ideo","detail":{"captain":"Boosts ATK of Fighter characters by 2.25x and their HP by 1.5x. Recovers 2x character's RCV in HP at the end of each turn","special":[{"description":"Deals severe [QCK] damage to all enemies, boosts ATK of Fighter characters by 1.5x for 1 turn","cooldown":[18,12]},{"description":"Deals severe [QCK] damage to all enemies, boosts ATK of Fighter and Shooter characters by 1.75x for 1 turn","cooldown":[23,17]}],"specialNotes":"#{stages}","specialName":"Destruction Cannon"},"unit":{"type":"QCK","class":["Shooter","Fighter"],"stars":5,"cost":30,"combo":5,"slots":4,"level":99,"exp":4000000,"maxHP":2404,"maxATK":1318,"maxRCV":294},"evolve":{"evolution":452,"evolvers":[117,82,93,99]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1133.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1133.png"}}
+{
+  "name": "Destruction Cannon Ideo",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 2.25x and their HP by 1.5x. Recovers 2x character's RCV in HP at the end of each turn",
+    "special": [
+      {
+        "description": "Deals severe [QCK] damage to all enemies, boosts ATK of Fighter characters by 1.5x for 1 turn",
+        "cooldown": [
+          18,
+          12
+        ]
+      },
+      {
+        "description": "Deals severe [QCK] damage to all enemies, boosts ATK of Fighter and Shooter characters by 1.75x for 1 turn",
+        "cooldown": [
+          23,
+          17
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}",
+    "specialName": "Destruction Cannon"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Fighter"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2404,
+    "maxATK": 1318,
+    "maxRCV": 294
+  },
+  "evolve": {
+    "evolution": 1133,
+    "evolvers": [
+      118,
+      83,
+      88,
+      304,
+      104
+    ],
+    "from": 1132
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1133.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1133.png"
+  }
+}

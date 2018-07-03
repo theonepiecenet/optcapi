@@ -1,1 +1,10 @@
-{"name":"토니토니 쵸파, 20th Anniversary Memorial Treasure","detail":{"captain":"[DEX][INT]캐릭터의 공격력을 2.5배로 증가시킨다.","special":"일당의 슬롯을 오른쪽에서 [INT][PSY][DEX], 왼쪽에서 [INT][RCV][DEX]로 변환한다.","sailor":"자신의 필살기 봉인 상태와 필살기 턴 되감기를 2 턴 회복","specialName":"지혜의 괴물"}}
+{
+  "name": "토니토니 쵸파, 20th Anniversary Memorial Treasure",
+  "detail": {
+    "captain": "[DEX][INT]캐릭터의 공격력을 2.5배로 증가시킨다.",
+    "special": "일당의 슬롯을 오른쪽에서 [INT][PSY][DEX], 왼쪽에서 [INT][RCV][DEX]로 변환한다.",
+    "sailor": "자신의 필살기 봉인 상태와 필살기 턴 되감기를 2 턴 회복",
+    "specialName": "지혜의 괴물",
+    "sailorNotes": "#{silence}<br>#{rewind : 2}"
+  }
+}

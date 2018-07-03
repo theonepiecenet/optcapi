@@ -1,1 +1,11 @@
-{"name":"박더 덱켄 IX, 플라잉 해적단 선장","detail":{"captain":"Boosts ATK by 2.5x after the 2nd PERFECT in a row and by 3.5x after the 5th PERFECT in a row.","special":"Deals 200,000 fixed damage to one enemy that will ignore damage negating abilities and barriers, reduces Bind and Silence duration by 2 턴","specialNotes":"#{ignoreBarrier}<br>#{silence}","sailor":"Restores his own special by 1 턴 when it is rewinded and reduces Silence for 3 턴 for himself","sailorNotes":"#{rewind : 1}<br>#{silence}","specialName":"Stalking Rose Axe"}}
+{
+  "name": "박더 덱켄 IX, 플라잉 해적단 선장",
+  "detail": {
+    "captain": "Boosts ATK by 2.5x after the 2nd PERFECT in a row and by 3.5x after the 5th PERFECT in a row.",
+    "special": "Deals 200,000 fixed damage to one enemy that will ignore damage negating abilities and barriers, reduces Bind and Silence duration by 2 턴",
+    "specialNotes": "#{ignoreBarrier}<br>#{silence}",
+    "sailor": "Restores his own special by 1 턴 when it is rewinded and reduces Silence for 3 턴 for himself",
+    "sailorNotes": "#{rewind : 1}<br>#{silence}",
+    "specialName": "Stalking Rose Axe"
+  }
+}

@@ -1,1 +1,40 @@
-{"name":"Kraken Surume","detail":{"special":"Randomizes all orbs into either [STR] or [QCK] orbs, deals random [STR] damage to all enemies","specialName":"Kraken Tentacle Crush","specialNotes":"#{random : 1 : 15,000}","captain":"Boosts ATK of Striker characters by 2x"},"unit":{"type":"STR","class":["Striker","Powerhouse"],"stars":3,"cost":12,"combo":6,"slots":1,"level":50,"exp":392109,"maxHP":1440,"maxATK":685,"maxRCV":133},"evolution":{"evolution":842,"evolvers":[118,83,87,303,103]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0340.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0340.png"}}
+{
+  "name": "Kraken Surume",
+  "detail": {
+    "special": "Randomizes all orbs into either [STR] or [QCK] orbs, deals random [STR] damage to all enemies",
+    "specialName": "Kraken Tentacle Crush",
+    "specialNotes": "#{random : 1 : 15,000}",
+    "captain": "Boosts ATK of Striker characters by 2x"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1440,
+    "maxATK": 685,
+    "maxRCV": 133
+  },
+  "evolution": {
+    "evolution": 341,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0340.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0340.png"
+  }
+}

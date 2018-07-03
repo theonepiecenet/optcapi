@@ -1,1 +1,36 @@
-{"name":"Crocus","detail":{"special":"Removes Poison, reduces Bind and Despair duration by 2 turns","specialName":"Merciful Painkiller","captain":"Recovers 3x character's RCV in HP at the end of each turn"},"unit":{"type":"INT","class":["Striker","Cerebral"],"stars":3,"cost":9,"combo":4,"slots":1,"level":35,"exp":136167,"maxHP":886,"maxATK":301,"maxRCV":203},"evolution":{"evolution":1467,"evolvers":[117,85,87,96,98]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0587.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0587.png"}}
+{
+  "name": "Crocus",
+  "detail": {
+    "special": "Removes Poison, reduces Bind and Despair duration by 2 turns",
+    "specialName": "Merciful Painkiller",
+    "captain": "Recovers 3x character's RCV in HP at the end of each turn"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": 9,
+    "combo": 4,
+    "slots": 1,
+    "level": 35,
+    "exp": 136167,
+    "maxHP": 886,
+    "maxATK": 301,
+    "maxRCV": 203
+  },
+  "evolution": {
+    "evolution": 588,
+    "evolvers": [
+      117,
+      304
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0587.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0587.png"
+  }
+}

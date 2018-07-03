@@ -1,1 +1,29 @@
-{"name":"Van Augur, BlackBeard Pirates","detail":{"captain":"Boosts ATK of Shooters by 2x","special":"Deals 10x character's ATK in [DEX] damage to one enemy, locks orbs for 1 turn and boosts ATK of Shooter characters by 1.5x for 1 turn","specialName":"Painless Bullet"},"unit":{"type":"DEX","class":["Shooter","Driven"],"stars":4,"cost":25,"combo":5,"slots":4,"level":99,"exp":3000000,"maxHP":2006,"maxATK":1050,"maxRCV":280},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1607.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1607.png"}}
+{
+  "name": "Van Augur, BlackBeard Pirates",
+  "detail": {
+    "captain": "Boosts ATK of Shooters by 2x",
+    "special": "Deals 10x character's ATK in [DEX] damage to one enemy, locks orbs for 1 turn and boosts ATK of Shooter characters by 1.5x for 1 turn",
+    "specialName": "Painless Bullet"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 2006,
+    "maxATK": 1050,
+    "maxRCV": 280
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1607.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1607.png"
+  }
+}

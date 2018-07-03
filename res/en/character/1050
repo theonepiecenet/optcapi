@@ -1,1 +1,39 @@
-{"name":"Jaguar D. Saul","detail":{"captain":"Boosts ATK of [PSY] characters by 1.5x","special":"Reduces Bind duration by 4 turns and Reduces damage received by 50% for 2 turns","specialName":"Dereshishishi Towards Hope"},"unit":{"type":"PSY","class":["Powerhouse","Free Spirit"],"stars":3,"cost":12,"combo":5,"slots":1,"level":50,"exp":392109,"maxHP":1353,"maxATK":514,"maxRCV":157},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1050.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1050.png"}}
+{
+  "name": "Jaguar D. Saul",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 1.5x",
+    "special": "Reduces Bind duration by 4 turns and Reduces damage received by 50% for 2 turns",
+    "specialName": "Dereshishishi Towards Hope"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Free Spirit"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1353,
+    "maxATK": 514,
+    "maxRCV": 157
+  },
+  "evolution": {
+    "evolution": 1051,
+    "evolvers": [
+      117,
+      92,
+      92,
+      98,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1050.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1050.png"
+  }
+}

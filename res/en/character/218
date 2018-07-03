@@ -1,1 +1,39 @@
-{"name":"Roronoa Zoro, Streaming Wolf Swords","detail":{"special":"Reduces damage received from [STR] enemies by 100% for 1 turn","specialName":"Streaming Wolf Swords","captain":"Reduces damage received by 80% if HP is above 99% at the start of the turn"},"unit":{"type":"DEX","class":["Slasher","Driven"],"stars":4,"cost":15,"combo":5,"slots":2,"level":50,"exp":392109,"maxHP":1902,"maxATK":582,"maxRCV":19},"evolution":{"evolution":520,"evolvers":[118,84,95,94,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0218.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0218.png"}}
+{
+  "name": "Roronoa Zoro, Streaming Wolf Swords",
+  "detail": {
+    "special": "Reduces damage received from [STR] enemies by 100% for 1 turn",
+    "specialName": "Streaming Wolf Swords",
+    "captain": "Reduces damage received by 80% if HP is above 99% at the start of the turn"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1902,
+    "maxATK": 582,
+    "maxRCV": 19
+  },
+  "evolution": {
+    "evolution": 219,
+    "evolvers": [
+      118,
+      86,
+      102,
+      94,
+      91
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0218.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0218.png"
+  }
+}

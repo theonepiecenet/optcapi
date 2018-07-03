@@ -1,1 +1,83 @@
-{"name":"Dark King 레일리, Master of Haki","detail":{"captain":"Boosts chances of getting Matching orbs, boosts ATK of Free Spirit and Slasher characters by 2.5x","special":"Cuts the current HP of one enemy by 20%, reduces Bind and Silence duration by 3 turns, boosts chances of getting [DEX], [PSY] and [INT] orbs for 3 turns and makes [DEX], [PSY] and [INT] orbs \"beneficial\" to Free Spirit characters for 3 turns","specialNotes":"#{beneficial}","specialName":"Unabated Surge","sailor":{"base":"Reduces Silence duration on this character by 3 turns","level1":"Boosts base ATK of Free Spirit characters by 35"},"sailorNotes":"#{silence}","limit":[{"description":"Boosts base ATK by 10"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base ATK by 20"},{"description":"Acquire Potential 1: Slot Bind Self-reduction"},{"description":"Boosts base RCV by 30"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base HP by 40"},{"description":"Acquire Sailor Ability 1: Boosts base ATK of Free Spirit characters by 35"},{"description":"Boosts base ATK by 40"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base ATK by 20"},{"description":"Boosts base HP by 30"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"Boosts base ATK by 20"},{"description":"Acquire Potential 2: [QCK] Damage Reduction"}],"potential":[{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by 1 turn on this character","Level 2: Reduces Slot Bind duration by 2 turns on this character","Level 3: Reduces Slot Bind duration by 3 turns on this character","Level 4: Reduces Slot Bind duration by 4 turns on this character","Level 5: Reduces Slot Bind duration by 5 turns on this character"]},{"Name":"[QCK] Damage Reduction","description":["Level 1: Reduce damage taken from [QCK] characters by 1%","Level 2: Reduce damage taken from [QCK] characters by 2%","Level 3: Reduce damage taken from [QCK] characters by 3%","Level 4: Reduce damage taken from [QCK] characters by 4%","Level 5: Reduce damage taken from [QCK] characters by 5%"]}]}}
+{
+  "name": "명왕 레일리, Master of Haki",
+  "detail": {
+    "captain": "Boosts chances of getting Matching orbs, boosts ATK of Free Spirit and Slasher characters by 2.5x",
+    "special": "Cuts the current HP of one enemy by 20%, reduces Bind and Silence duration by 3 turns, boosts chances of getting [DEX], [PSY] and [INT] orbs for 3 turns and makes [DEX], [PSY] and [INT] orbs \"beneficial\" to Free Spirit characters for 3 turns",
+    "specialNotes": "#{beneficial}",
+    "specialName": "Unabated Surge",
+    "sailor": {
+      "base": "Reduces Silence duration on this character by 3 turns",
+      "level1": "Boosts base ATK of Free Spirit characters by 35"
+    },
+    "sailorNotes": "#{silence}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of Free Spirit characters by 35"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 2: [QCK] Damage Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      },
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by 2%",
+          "Level 3: Reduce damage taken from [QCK] characters by 3%",
+          "Level 4: Reduce damage taken from [QCK] characters by 4%",
+          "Level 5: Reduce damage taken from [QCK] characters by 5%"
+        ]
+      }
+    ]
+  }
+}

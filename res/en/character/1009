@@ -1,1 +1,30 @@
-{"name":"Kizuna BOOST Luffy","detail":{"special":"Changes [BLOCK] orbs into [STR], deals 20x character's ATK in [STR] damage to one enemy","specialName":"Gum-Gum Flail","captain":"Boosts ATK of [STR] and Fighter characters by 1.5x, reduces cooldown of all specials by 1 turn at the start of the fight","captainNotes":"The bonus is cumulative. [STR] Fighter characters get a 2.25x bonus."},"unit":{"type":"STR","class":["Fighter","Powerhouse"],"stars":4,"cost":20,"combo":6,"slots":2,"level":99,"exp":3000000,"maxHP":1978,"maxATK":1170,"maxRCV":220},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1009.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1009.png"}}
+{
+  "name": "Kizuna BOOST Luffy",
+  "detail": {
+    "special": "Changes [BLOCK] orbs into [STR], deals 20x character's ATK in [STR] damage to one enemy",
+    "specialName": "Gum-Gum Flail",
+    "captain": "Boosts ATK of [STR] and Fighter characters by 1.5x, reduces cooldown of all specials by 1 turn at the start of the fight",
+    "captainNotes": "The bonus is cumulative. [STR] Fighter characters get a 2.25x bonus."
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 6,
+    "slots": 2,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1978,
+    "maxATK": 1170,
+    "maxRCV": 220
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1009.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1009.png"
+  }
+}

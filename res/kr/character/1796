@@ -1,1 +1,78 @@
-{"name":"디아만테, 드레스로자 현 국왕의 패밀리","detail":{"captain":"참격과 야심 타입 캐릭터의 공격력이 2.5배가 된다","special":"적 전체의 공격을 2턴 지연시키고 적에게 걸려있는 방어력 증가, 대미지 감소 상태(일정 대미지 이상 격감 제외)를 3턴 줄이고 오른쪽 열의 속성 슬롯을 자속성 슬롯을 변환한다","sailor":"자신이 STR캐릭터에게 주는 대미지가 1.1배가 된다","specialName":"뱀의 검d","limit":[{"description":"공격력 상승 : 10"},{"description":"공격력 상승 : 20"},{"description":"공격력 상승 : 30"},{"description":"잠재능력 습득 1: Barrier Penetration"},{"description":"회복력 상승 : 10"},{"description":"회복력 상승 : 20"},{"description":"체력 상승 : 30"},{"description":"체력 상승 : 40"},{"description":"체력 상승 : 50"},{"description":"선원효과 추가 1: 캐릭터의 침묵상태가 3 턴 감소한다"},{"description":"회복력 상승 : 30"},{"description":"공격력 상승 : 40"},{"description":"체력 상승 : 90"},{"description":"소켓 슬롯 1개 추가"},{"description":"잠재능력 습득 2: Slot Bind Self-reduction"}],"potential":[{"Name":"Barrier Penetration","description":["Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.","Level 2: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.","Level 3: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.","Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.","Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다."]},{"Name":"Slot Bind Self-reduction","description":["Level 1: 캐릭터의 봉인상태를 1턴 감소시킨다.","Level 2: 캐릭터의 봉인상태를 2턴 감소시킨다.","Level 3: 캐릭터의 봉인상태를 3턴 감소시킨다.","Level 4: 캐릭터의 봉인상태를 5턴 감소시킨다.","Level 5: 캐릭터의 봉인상태를 10턴 감소시킨다."]}]}}
+{
+  "name": "디아만테, 드레스로자 현 국왕의 패밀리",
+  "detail": {
+    "captain": "참격과 야심 타입 캐릭터의 공격력이 2.5배가 된다",
+    "special": "적 전체의 공격을 2턴 지연시키고 적에게 걸려있는 방어력 증가, 데미지 감소 상태(일정 데미지 이상 격감 제외)를 3턴 줄이고 오른쪽 열의 속성 슬롯을 자속성 슬롯을 변환한다",
+    "sailor": "자신이 STR캐릭터에게 주는 데미지가 1.1배가 된다",
+    "specialName": "뱀의 검",
+    "limit": [
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "잠재능력 습득 1: Barrier Penetration"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "선원효과 추가 1: 캐릭터의 침묵상태가 3 턴 감소한다"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 90"
+      },
+      {
+        "description": "소켓 슬롯 1개 추가"
+      },
+      {
+        "description": "잠재능력 습득 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 2: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 3: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다."
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: 캐릭터의 봉인상태를 1턴 감소시킨다.",
+          "Level 2: 캐릭터의 봉인상태를 2턴 감소시킨다.",
+          "Level 3: 캐릭터의 봉인상태를 3턴 감소시킨다.",
+          "Level 4: 캐릭터의 봉인상태를 5턴 감소시킨다.",
+          "Level 5: 캐릭터의 봉인상태를 10턴 감소시킨다."
+        ]
+      }
+    ]
+  }
+}

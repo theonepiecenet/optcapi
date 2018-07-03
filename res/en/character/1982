@@ -1,1 +1,39 @@
-{"name":"\"Big Eater\" Jewelry Bonney, Supernova","detail":{"captain":"Boosts RCV of Fighter characters by 1.2x and boosts ATK of Fighter characters by 2.25x if HP is above ??% at the start of the turn, by 2x otherwise","special":"Changes [RCV] orbs into matching orbs and recovers 15x character's RCV in HP at the end of the turn for 2 turns","specialName":"Glutonous Meal"},"unit":{"type":"QCK","class":["Fighter","Free Spirit"],"stars":4,"cost":20,"combo":6,"slots":4,"level":99,"exp":1000000,"maxHP":2295,"maxATK":734,"maxRCV":329},"evolve":{"evolution":795,"evolvers":[83,94,95,300,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1982.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1982.png"}}
+{
+  "name": "\"Big Eater\" Jewelry Bonney, Supernova",
+  "detail": {
+    "captain": "Boosts RCV of Fighter characters by 1.2x and boosts ATK of Fighter characters by 2.25x if HP is above ??% at the start of the turn, by 2x otherwise",
+    "special": "Changes [RCV] orbs into matching orbs and recovers 15x character's RCV in HP at the end of the turn for 2 turns",
+    "specialName": "Glutonous Meal"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 6,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "maxHP": 2295,
+    "maxATK": 734,
+    "maxRCV": 329
+  },
+  "evolve": {
+    "evolution": 1982,
+    "evolvers": [
+      79,
+      85,
+      90,
+      96,
+      101
+    ],
+    "from": 1981
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1982.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1982.png"
+  }
+}

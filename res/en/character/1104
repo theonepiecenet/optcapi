@@ -1,1 +1,62 @@
-{"name":"Ain, Zephyr's Last Pupil","detail":{"captain":"Boosts ATK and RCV of Cerebral characters by 1.75x","special":[{"description":"Recovers 12% of crew's MAX HP and randomizes all orbs including [BLOCK] orbs","cooldown":[21,11]},{"description":"Recovers 24% of crew's MAX HP and randomizes all orbs including [BLOCK] orbs","cooldown":[24,14]},{"description":"Recovers 36% of crew's MAX HP and randomizes all orbs including [BLOCK] orbs","cooldown":[27,17]}],"specialNotes":"#{stages}","specialName":"Return Return Fruit"},"unit":{"type":"INT","class":["Slasher","Cerebral"],"stars":5,"cost":30,"combo":4,"slots":3,"level":99,"exp":3000000,"maxHP":1986,"maxATK":870,"maxRCV":357},"evolve":{"evolution":438,"evolvers":[117,80,86,97,302]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1104.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1104.png"}}
+{
+  "name": "Ain, Zephyr's Last Pupil",
+  "detail": {
+    "captain": "Boosts ATK and RCV of Cerebral characters by 1.75x",
+    "special": [
+      {
+        "description": "Recovers 12% of crew's MAX HP and randomizes all orbs including [BLOCK] orbs",
+        "cooldown": [
+          21,
+          11
+        ]
+      },
+      {
+        "description": "Recovers 24% of crew's MAX HP and randomizes all orbs including [BLOCK] orbs",
+        "cooldown": [
+          24,
+          14
+        ]
+      },
+      {
+        "description": "Recovers 36% of crew's MAX HP and randomizes all orbs including [BLOCK] orbs",
+        "cooldown": [
+          27,
+          17
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}",
+    "specialName": "Return Return Fruit"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1986,
+    "maxATK": 870,
+    "maxRCV": 357
+  },
+  "evolve": {
+    "evolution": 1104,
+    "evolvers": [
+      117,
+      82,
+      88,
+      304,
+      104
+    ],
+    "from": 1103
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1104.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1104.png"
+  }
+}

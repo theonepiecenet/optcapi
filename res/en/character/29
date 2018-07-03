@@ -1,1 +1,38 @@
-{"name":"Iron-Mace Alvida","detail":{"special":"Deals 7x character's ATK in [STR] damage to one enemy","specialName":"Iron Mace Beauty","captain":"Reduces damage received from [STR] enemies by 30%"},"unit":{"type":"STR","class":["Striker","Powerhouse"],"stars":3,"cost":10,"combo":5,"slots":0,"level":50,"exp":392109,"maxHP":1412,"maxATK":755,"maxRCV":61},"evolution":{"evolution":46,"evolvers":[117,79,90,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0029.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0029.png"}}
+{
+  "name": "Iron-Mace Alvida",
+  "detail": {
+    "special": "Deals 7x character's ATK in [STR] damage to one enemy",
+    "specialName": "Iron Mace Beauty",
+    "captain": "Reduces damage received from [STR] enemies by 30%"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 10,
+    "combo": 5,
+    "slots": 0,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1412,
+    "maxATK": 755,
+    "maxRCV": 61
+  },
+  "evolution": {
+    "evolution": 30,
+    "evolvers": [
+      117,
+      78,
+      89,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0029.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0029.png"
+  }
+}

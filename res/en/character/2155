@@ -1,1 +1,34 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2155.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2155.png"}}
+{
+  "name": "Pekoms, Former Inhabitant of Mokomo Dukedom",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 1.5x, protects from defeat as long as HP is above ?%",
+    "special": "Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers and removes enemies Increased Defense buff",
+    "specialName": "Flicker Power Knuckle",
+    "specialNotes": "#{ignoreBarrier}"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 970,
+    "maxATK": 871,
+    "maxRCV": 120
+  },
+  "evolution": {
+    "evolution": 2156,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2155.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2155.png"
+  }
+}

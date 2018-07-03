@@ -1,1 +1,25 @@
-{"name":"Assassin Master","detail":{"special":"Reduces damage received by 20% for 1 turn","specialName":"Iron Shield"},"unit":{"type":"INT","class":"Shooter","stars":3,"cost":7,"combo":5,"slots":1,"level":50,"exp":392109,"maxHP":1532,"maxATK":557,"maxRCV":79},"evolution":{"evolution":405,"evolvers":[117,84,89,95,100]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0174.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0174.png"}}
+{
+  "name": "Assassin Master",
+  "detail": {
+    "special": "Reduces damage received by 20% for 1 turn",
+    "specialName": "Iron Shield"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Shooter",
+    "stars": 3,
+    "cost": 7,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1532,
+    "maxATK": 557,
+    "maxRCV": 79
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0174.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0174.png"
+  }
+}

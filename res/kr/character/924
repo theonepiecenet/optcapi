@@ -1,1 +1,84 @@
-{"name":"캡틴 키드 키드 해적단 선장","detail":{"captain":"Boosts ATK of Driven Characters by 2.75x 전투 시작 시 체력이 30% 미만이면, 2x otherwise","specialName":"Repel: Weapons Reflect","special":"Empties all slots, deals [STR] damage based on number of [STR] slots emptied to all enemies","specialNotes":"The exact multiplier used is chosen based on the number of [STR] orbs consumed: 0 orbs - 3.5x ATK; 1 orb - 7x ATK; 2 orbs - 14x ATK; 3 orbs - 21x ATK; 4 orbs - 35x ATK; 5 orbs - 91x ATK; 6 orbs - 140x ATK."}}
+{
+  "name": "캡틴 키드 키드 해적단 선장",
+  "detail": {
+    "captain": "Boosts ATK of Driven Characters by 2.75x 전투 시작 시 체력이 30% 미만이면, 2x otherwise",
+    "specialName": "Repel: Weapons Reflect",
+    "special": "Empties all slots, deals [STR] damage based on number of [STR] slots emptied to all enemies",
+    "specialNotes": "The exact multiplier used is chosen based on the number of [STR] orbs consumed: 0 orbs - 3.5x ATK; 1 orb - 7x ATK; 2 orbs - 14x ATK; 3 orbs - 21x ATK; 4 orbs - 35x ATK; 5 orbs - 91x ATK; 6 orbs - 140x ATK.",
+    "sailor": {
+      "base": "None",
+      "level1": "Changes all orbs into [STR] orbs at the start of the fight",
+      "level2": "Boosts own base ATK by 100 if this character is the last in the chain to attack"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Changes all orbs into [STR] orbs at the start of the fight"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base ATK by 80"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts own base ATK by 100 if this character is the last in the chain to attack"
+      },
+      {
+        "description": "Acquire Potential 2: Cooldown Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by ?",
+          "Level 2: Boosts base ATK by ?",
+          "Level 3: Boosts base ATK by ?",
+          "Level 4: Boosts base ATK by ?",
+          "Level 5: Boosts base ATK by ?"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turns at the start of the fight"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

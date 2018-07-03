@@ -1,1 +1,36 @@
-{"name":"Franky, Franky Family","detail":{"special":"Empties all slots including those with [BLOCK] orbs, deals random [INT] damage to all enemies","specialName":"Master Nail","captain":"Boosts ATK of characters with 3 or fewer stars by 2x"},"unit":{"type":"INT","class":"Fighter","stars":3,"cost":17,"combo":5,"slots":2,"level":70,"exp":1066998,"maxHP":1712,"maxATK":831,"maxRCV":85},"evolution":{"evolution":1586,"evolvers":[117,79,85,96,301]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0629.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0629.png"}}
+{
+  "name": "Franky, Franky Family",
+  "detail": {
+    "special": "Empties all slots including those with [BLOCK] orbs, deals random [INT] damage to all enemies",
+    "specialName": "Master Nail",
+    "captain": "Boosts ATK of characters with 3 or fewer stars by 2x"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Fighter",
+    "stars": 3,
+    "cost": 17,
+    "combo": 5,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1712,
+    "maxATK": 831,
+    "maxRCV": 85
+  },
+  "evolution": {
+    "evolution": 739,
+    "evolvers": [
+      117,
+      82,
+      83,
+      99,
+      304
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0629.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0629.png"
+  }
+}

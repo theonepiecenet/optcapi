@@ -1,1 +1,41 @@
-{"name":"Pedro","detail":{"captain":"Boosts ATK of [INT] characters by 2x","special":"Reduces crew's HP to 1, deals 7x the amount of HP subtracted in typeless damage to all enemies, amplifies the effect of orbs by 1.75x for 1 turn","sailor":"Makes [INT] orbs \"beneficial\" for Slasher and Cerebral characters","sailorNotes":"#{beneficial}","specialName":"Charge Drive"},"unit":{"type":"INT","class":["Slasher","Cerebral"],"stars":4,"cost":15,"combo":5,"slots":3,"level":50,"exp":392109,"maxHP":957,"maxATK":620,"maxRCV":213},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1653.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1653.png"}}
+{
+  "name": "Pedro",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by 2x",
+    "special": "Reduces crew's HP to 1, deals 7x the amount of HP subtracted in typeless damage to all enemies, amplifies the effect of orbs by 1.75x for 1 turn",
+    "sailor": "Makes [INT] orbs \"beneficial\" for Slasher and Cerebral characters",
+    "sailorNotes": "#{beneficial}",
+    "specialName": "Charge Drive"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 957,
+    "maxATK": 620,
+    "maxRCV": 213
+  },
+  "evolution": {
+    "evolution": 1654,
+    "evolvers": [
+      88,
+      99,
+      1180,
+      304,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1653.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1653.png"
+  }
+}

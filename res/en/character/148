@@ -1,1 +1,38 @@
-{"name":"Slasher Group Crew Blue Pirates","detail":{"special":"Reduces the defense of all enemies by 50% for 1 turn","specialName":"Shield Crusher"},"unit":{"type":"QCK","class":"Slasher","stars":2,"cost":7,"combo":5,"slots":0,"level":35,"exp":90778,"maxHP":659,"maxATK":372,"maxRCV":88},"evolution":{"evolution":[350,350,350],"evolvers":[[115,108,108],[81,108,108],[92,108,108]]},"evolve":{"evolution":49,"evolvers":[91]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0148.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0148.png"}}
+{
+  "name": "Slasher Group Crew Blue Pirates",
+  "detail": {
+    "special": "Reduces the defense of all enemies by 50% for 1 turn",
+    "specialName": "Shield Crusher"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": "Slasher",
+    "stars": 2,
+    "cost": 7,
+    "combo": 5,
+    "slots": 0,
+    "level": 35,
+    "exp": 90778,
+    "maxHP": 659,
+    "maxATK": 372,
+    "maxRCV": 88
+  },
+  "evolution": {
+    "evolution": 275,
+    "evolvers": [
+      116,
+      96
+    ]
+  },
+  "evolve": {
+    "evolution": 148,
+    "evolvers": [
+      90
+    ],
+    "from": 127
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0148.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0148.png"
+  }
+}

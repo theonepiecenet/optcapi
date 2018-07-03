@@ -1,1 +1,29 @@
-{"name":"Monkey D. Luffy, Let's go for Pirate Festival","detail":{"captain":"Boosts ATK of all characters by 2x. If you use \"Gomu Gomu no Octopus Stamp: Banquet\" boosts ATK of all characters by 2.6x instead.","special":"Deals 15x character's ATK in [STR] damage to all enemies, recovers 2,000 HP and adds .5x to Chain multiplier for 1 turn.","specialName":"Gomu Gomu no Octopus Stamp: Banquet"},"unit":{"type":"STR","class":["Fighter","Free Spirit"],"stars":4,"cost":20,"combo":4,"slots":4,"level":99,"exp":1000000,"maxHP":2278,"maxATK":1327,"maxRCV":128},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2087.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2087.png"}}
+{
+  "name": "Monkey D. Luffy, Let's go for Pirate Festival",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2x. If you use \"Gomu Gomu no Octopus Stamp: Banquet\"  boosts ATK of all characters by 2.6x instead.",
+    "special": "Deals 15x character's ATK in [STR] damage to all enemies, recovers 2,000 HP and adds .5x to Chain multiplier for 1 turn.",
+    "specialName": "Gomu Gomu no Octopus Stamp: Banquet"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "maxHP": 2278,
+    "maxATK": 1327,
+    "maxRCV": 128
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2087.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2087.png"
+  }
+}

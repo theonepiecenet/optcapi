@@ -1,1 +1,40 @@
-{"name":"Akainu","detail":{"captain":"Boosts ATK of all characters by 2.5x following a chain of [STR] > [STR] > [STR] attacks no lower than Good","special":"Deals 50x character's ATK in [STR] damage to all enemies. Changes orbs for [STR] characters into [STR] orbs. Boosts the Color Affinity of [STR] characters by 1.75x for 1 turn","specialNotes":"#{colorAffinity : 1.75}","specialName":"Great Eruption"},"unit":{"type":"STR","class":["Driven","Fighter"],"stars":4,"cost":30,"combo":4,"slots":2,"level":70,"exp":1066998,"maxHP":1618,"maxATK":816,"maxRCV":49},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1297.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1297.png"}}
+{
+  "name": "Akainu",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.5x following a chain of [STR] > [STR] > [STR] attacks no lower than Good",
+    "special": "Deals 50x character's ATK in [STR] damage to all enemies. Changes orbs for [STR] characters into [STR] orbs. Boosts the Color Affinity of [STR] characters by 1.75x for 1 turn",
+    "specialNotes": "#{colorAffinity : 1.75}",
+    "specialName": "Great Eruption"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Driven",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 4,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1618,
+    "maxATK": 816,
+    "maxRCV": 49
+  },
+  "evolution": {
+    "evolution": 1298,
+    "evolvers": [
+      118,
+      94,
+      300,
+      300,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1297.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1297.png"
+  }
+}

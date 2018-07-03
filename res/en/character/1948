@@ -1,1 +1,39 @@
-{"name":"Wadatsumi, Flying Pirates Crew Member","detail":{"captain":"Boosts ATK of Powerhouse characters by 2x","special":"Increases damage received by 2x for 2 turns and reduces Special Cooldown of Fighter and Powerhouse characters by 2 turns","specialName":"Expanding Superpower"},"unit":{"type":"PSY","class":["Fighter","Powerhouse"],"stars":3,"cost":13,"combo":6,"slots":3,"level":50,"exp":130703,"maxHP":979,"maxATK":699,"maxRCV":143},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1948.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1948.png"}}
+{
+  "name": "Wadatsumi, Flying Pirates Crew Member",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2x",
+    "special": "Increases damage received by 2x for 2 turns and reduces Special Cooldown of Fighter and Powerhouse characters by 2 turns",
+    "specialName": "Expanding Superpower"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": 979,
+    "maxATK": 699,
+    "maxRCV": 143
+  },
+  "evolution": {
+    "evolution": 1949,
+    "evolvers": [
+      81,
+      87,
+      92,
+      98,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1948.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1948.png"
+  }
+}

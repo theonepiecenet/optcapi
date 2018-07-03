@@ -1,1 +1,99 @@
-{"name":"글라디우스, 피카군 간부","detail":{"captain":"Boosts ATK of Shooter characters by 1.75x and boosts ATK of Driven characters by 1.5x","captainNotes":"The bonus is cumulative. Shooter Driven characters get a 2.625x bonus.","special":[{"description":"Deals 13x character's ATK in [STR] damage to all enemies, reduces Bind and Despair duration by 1 턴 and boosts the Color Affinity of Shooter characters by 1.5x for 1 턴","cooldown":[26,11]},{"description":"Deals 30x character's ATK in [STR] damage to all enemies, reduces Bind and Despair duration by 2 턴 and boosts the Color Affinity of Shooter characters by 1.75x for 1 턴","cooldown":[33,18]}],"specialName":"Stonewall Punk","specialNotes":"#{colorAffinity : 1.75}<br>#{stages}","limit":[{"description":"체력 상승 : 10"},{"description":"회복력 상승 : 10"},{"description":"체력 상승 : 20"},{"description":"잠재능력 습득 1: Enrage"},{"description":"공격력 상승 : 30"},{"description":"공격력 상승 : 40"},{"description":"회복력 상승 : 30"},{"description":"체력 상승 : 40"},{"description":"회복력 상승 : 40"},{"description":"선원효과 추가 1: "},{"description":"체력 상승 : 50"},{"description":"체력 상승 : 70"},{"description":"소켓 슬롯 1개 추가"},{"description":"필살기 턴 단축 : 2턴"},{"description":"잠재능력 습득 2: Barrier Penetration"}],"potential":[{"Name":"Enrage","description":["Level 1: 공격력 상승 : 20","Level 2: 공격력 상승 : 30","Level 3: 공격력 상승 : 40","Level 4: 공격력 상승 : 50","Level 5: 공격력 상승 : 100"]},{"Name":"Barrier Penetration","description":["Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.","Level 2: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.","Level 3: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.","Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.","Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다."]}],"potentialNotes":"Enrage is activated when your crew took damage from your enemies in the previous 턴"}}
+{
+  "name": "글라디우스, 피카군 간부",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 1.75x and boosts ATK of Driven characters by 1.5x",
+    "captainNotes": "The bonus is cumulative. Shooter Driven characters get a 2.625x bonus.",
+    "special": [
+      {
+        "description": "Deals 13x character's ATK in [STR] damage to all enemies, reduces Bind and Despair duration by 1 턴 and boosts the Color Affinity of Shooter characters by 1.5x for 1 턴",
+        "cooldown": [
+          26,
+          11
+        ]
+      },
+      {
+        "description": "Deals 30x character's ATK in [STR] damage to all enemies, reduces Bind and Despair duration by 2 턴 and boosts the Color Affinity of Shooter characters by 1.75x for 1 턴",
+        "cooldown": [
+          33,
+          18
+        ]
+      }
+    ],
+    "specialName": "Stonewall Punk",
+    "specialNotes": "#{colorAffinity : 1.75}<br>#{stages}",
+    "limit": [
+      {
+        "description": "체력 상승 : 10"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 20"
+      },
+      {
+        "description": "잠재능력 습득 1: Enrage"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "회복력 상승 : 40"
+      },
+      {
+        "description": "선원효과 추가 1: "
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "체력 상승 : 70"
+      },
+      {
+        "description": "소켓 슬롯 1개 추가"
+      },
+      {
+        "description": "필살기 턴 단축 : 2턴"
+      },
+      {
+        "description": "잠재능력 습득 2: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 30",
+          "Level 3: 공격력 상승 : 40",
+          "Level 4: 공격력 상승 : 50",
+          "Level 5: 공격력 상승 : 100"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 2: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 3: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
+          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다."
+        ]
+      }
+    ],
+    "potentialNotes": "Enrage is activated when your crew took damage from your enemies in the previous 턴",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Silence duration against this unit by 2 turns"
+    }
+  }
+}

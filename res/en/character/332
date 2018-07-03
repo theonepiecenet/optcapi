@@ -1,1 +1,34 @@
-{"name":"Chessmarimo","detail":{"special":"Changes [STR] orbs into [RCV] orbs, changes [RCV] orbs into [DEX] orbs","specialName":"Snow-Slicing Blade","captain":"Boosts ATK, HP and RCV of Striker characters by 1.2x"},"unit":{"type":"DEX","class":"Striker","stars":4,"cost":11,"combo":7,"slots":2,"level":70,"exp":1066998,"maxHP":1290,"maxATK":840,"maxRCV":185},"evolution":{"evolution":[810,810],"evolvers":[[116,78,84,89,95],[404]]},"evolve":{"evolution":141,"evolvers":[116,82,304]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0332.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0332.png"}}
+{
+  "name": "Chessmarimo",
+  "detail": {
+    "special": "Changes [STR] orbs into [RCV] orbs, changes [RCV] orbs into [DEX] orbs",
+    "specialName": "Snow-Slicing Blade",
+    "captain": "Boosts ATK, HP and RCV of Striker characters by 1.2x"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Striker",
+    "stars": 4,
+    "cost": 11,
+    "combo": 7,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1290,
+    "maxATK": 840,
+    "maxRCV": 185
+  },
+  "evolve": {
+    "evolution": 332,
+    "evolvers": [
+      116,
+      330,
+      302
+    ],
+    "from": 331
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0332.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0332.png"
+  }
+}

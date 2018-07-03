@@ -1,1 +1,39 @@
-{"name":"Nico Robin, Capturing the Sickle Weasel","detail":{"captain":"Boosts ATK of Cerebral characters by 2.25x and their HP by 1.2x","special":"Reduces Paralysis duration by 2 turns, Changes [EMPTY] orbs into Matching orbs and delays all enemies for 1 turn","specialName":"Blooming Flower Spear"},"unit":{"type":"INT","class":["Fighter","Cerebral"],"stars":5,"cost":20,"combo":4,"slots":4,"level":99,"exp":2000000,"maxHP":2239,"maxATK":1130,"maxRCV":367},"evolve":{"evolution":751,"evolvers":[117,79,90,96,101]},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1885.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1885.png"}}
+{
+  "name": "Nico Robin, Capturing the Sickle Weasel",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 2.25x and their HP by 1.2x",
+    "special": "Reduces Paralysis duration by 2 turns, Changes [EMPTY] orbs into Matching orbs and delays all enemies for 1 turn",
+    "specialName": "Blooming Flower Spear"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 2239,
+    "maxATK": 1130,
+    "maxRCV": 367
+  },
+  "evolve": {
+    "evolution": 1885,
+    "evolvers": [
+      117,
+      82,
+      93,
+      99,
+      104
+    ],
+    "from": 1884
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1885.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1885.png"
+  }
+}

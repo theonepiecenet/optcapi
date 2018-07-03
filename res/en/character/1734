@@ -1,1 +1,39 @@
-{"name":"Sugar, Hobby Hobby Fruit Ability User","detail":{"captain":"Boosts ATK of Cerebral and Fighter characters by 1.5x and recovers 3x character's RCV in HP at the end of each turn","special":"Changes bottom right orb to [STR] and bottom left orb to [INT]. Switches orbs between slots twice.","specialName":"Toy's Close Combat"},"unit":{"type":"STR","class":["Cerebral","Fighter"],"stars":3,"cost":13,"combo":4,"slots":2,"level":50,"exp":392109,"maxHP":646,"maxATK":367,"maxRCV":220},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1734.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1734.png"}}
+{
+  "name": "Sugar, Hobby Hobby Fruit Ability User",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral and Fighter characters by 1.5x and recovers 3x character's RCV in HP at the end of each turn",
+    "special": "Changes bottom right orb to [STR] and bottom left orb to [INT]. Switches orbs between slots twice.",
+    "specialName": "Toy's Close Combat"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Cerebral",
+      "Fighter"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": 4,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 646,
+    "maxATK": 367,
+    "maxRCV": 220
+  },
+  "evolution": {
+    "evolution": 1735,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1734.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1734.png"
+  }
+}

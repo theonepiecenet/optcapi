@@ -1,1 +1,38 @@
-{"name":"Baby 5, Dressed for the Shirne","detail":{"captain":"Boosts ATK of [STR] and [QCK] characters by 1.5x and their RCV by 1.1x","special":"Recovers 7x character's RCV in HP. Boosts ATK of Fighter and Striker characters by 1.5x for 1 turn","specialName":"Nation's Ambition"},"unit":{"type":"QCK","class":["Slasher","Striker"],"stars":4,"cost":13,"combo":6,"slots":2,"level":50,"exp":392109,"maxHP":993,"maxATK":561,"maxRCV":206},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1394.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1394.png"}}
+{
+  "name": "Baby 5, Dressed for the Shirne",
+  "detail": {
+    "captain": "Boosts ATK of [STR] and [QCK] characters by 1.5x and their RCV by 1.1x",
+    "special": "Recovers 7x character's RCV in HP. Boosts ATK of Fighter and Striker characters by 1.5x for 1 turn",
+    "specialName": "Nation's Ambition"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 13,
+    "combo": 6,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 993,
+    "maxATK": 561,
+    "maxRCV": 206
+  },
+  "evolution": {
+    "evolution": 1395,
+    "evolvers": [
+      117,
+      118,
+      84,
+      85
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1394.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1394.png"
+  }
+}
