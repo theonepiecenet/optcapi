@@ -23,8 +23,6 @@ $app->get('/{lang}/tags', function($request, $response) {
             {
               if($json[$j]['tag_local'] == $local_json[$i]['tag'] && $local_json[$i]['tag_local'])
                   $json[$j]['tag_local'] = $local_json[$i]['tag_local'];
-              //else
-              //    $json[$j]['tag_local'] = $local_json[$i]['tag'];
             }
         }
     }
@@ -63,9 +61,15 @@ $app->get('/{lang}/character/{id}', function($request, $response) {
         {
             if(array_search($id, $tag[$i]['target']) > -1)
             {
-                $original_arr['tags'][$j]['tag'] = $tag_local[$i]['tag'];
-                $original_arr['tags'][$j]['match'] = $tag_local[$i]['match'];
-                $j++;
+                for($k=0; $k<count($tag_local);$k++)
+                {
+                    if($tag[$i]['tag'] == $tag_local[$k]['tag'])
+                    {
+                        $original_arr['tags'][$j]['tag'] = $tag_local[$k]['tag'];
+                        $original_arr['tags'][$j]['match'] = $tag_local[$k]['match'];
+                        $j++;
+                    }
+                }
             }
         }
         $json = json_encode($original_arr, JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);
