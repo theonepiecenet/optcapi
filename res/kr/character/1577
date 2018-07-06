@@ -1,11 +1,11 @@
 {
-  "name": "여우불 킨에몬, 와노국의 사무라이",
+  "name": "여우불 킨에몬, 와노쿠니의 사무라이",
   "detail": {
-    "captain": "Recovers 3x character's RCV in HP at the end of each 턴. Boosts ATK by 3.5x following a chain of Good > Great > PERFECT hits",
-    "special": "Deals 60x character's ATK in typeless damage to all enemies, and changes all orbs on all characters into Kinemon's orb.",
+    "captain": "턴 종료 시에 캐릭터의 회복력x3배의 체력을 회복하고, GOOD→GREAT→PERFECT 순으로 공격한 이후부터 캐릭터의 공격력이 3.5배가 된다",
+    "special": "적 전체에게 무 속성 특대 데미지를 주고, 모든 슬롯을 자신과 같은 슬롯으로 바꾼다",
     "specialNotes": "Upon activating the special, all orbs will be changed to the orb Kinemon has, including [RAINBOW] and [BLOCK] orbs. This will not override other [BLOCK] orbs.",
-    "sailor": "Makes [STR] and [QCK] orbs \"beneficial\" for this unit",
-    "specialName": "Flaming Flash",
+    "sailor": "자신은 [STR][QCK] 슬롯도 [유리] 슬롯으로 취급한다",
+    "specialName": "화류일섬",
     "sailorNotes": "#{beneficial}",
     "limit": [
       {

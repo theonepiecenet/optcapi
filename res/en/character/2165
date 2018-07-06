@@ -1,0 +1,34 @@
+{
+  "name": "Baby 5, Sai's Proposal",
+  "detail": {
+    "captain": "Boosts ATK of Slasher, Striker and Shooter characters by 1.75x",
+    "special": "Changes the captain's orb into [DEX], amplifies the effect of orbs for Fighter characters by 1.75x for 1 turn",
+    "specialName": "Baby 5 Special",
+    "sailor": "If your Captain is a Fighter character, Adds 1.5x character's ATK as Additional Typeless Damage"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": null,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "evolve": {
+    "evolution": 2165,
+    "evolvers": [],
+    "from": 2164
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2165.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2165.png"
+  }
+}

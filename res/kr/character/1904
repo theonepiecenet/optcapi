@@ -1,13 +1,10 @@
 {
-  "name": "세뇨르 핑크, Donquixote Family, The Gatekeeper of the Underground World",
+  "name": "세뇨르 핑크, 돈키호테 패밀리 지하 세계의 문지기",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit characters by 2.75x",
-    "special": "Reduces enemy Barrier duration by 1 turn, Reduces enemies Damage Nullification duration by 1 turn and deals 30x character's ATK in [QCK] damage to all enemies",
-    "specialName": "Diaper Bomb",
-    "sailor": {
-      "base": "Makes [DEX] orbs \"beneficial\" for this unit",
-      "level1": "Boosts base ATK, HP and RCV of Free Spirit characters by 50"
-    },
+    "captain": "자유형 캐릭터의 공격력을 2.75배로 만든다",
+    "special": "적 전체에게 캐릭터의 공격력x30배의 [QCK] 데미지를 주고, 적의 HP 바에 걸려있는 모든 배리어와 데미지 무효 상태를 1턴 줄인다",
+    "specialName": "기저귀 폭탄",
+    "sailor": "자신은 [DEX] 슬롯도 [유리] 슬롯으로 취급한다",
     "sailorNotes": "#{beneficial}",
     "limit": [
       {

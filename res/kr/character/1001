@@ -1,7 +1,7 @@
 {
   "name": "돈키호테 로시난테",
   "detail": {
-    "captain": "공격시작 전 남은 체력이 많을수록 일당의 공격력이 높아지며 턴 종료 시, GREAT 1회당 캐릭터의 회복력x0.5배, GOOD 1회당 캐릭터의 회복력x1.5배의 체력을 회복한다.",
+    "captain": "공격 시작 전 남은 체력이 많을수록 일당의 공격력이 높아지며 턴 종료 시, GREAT 1회당 캐릭터의 회복력x0.5배, GOOD 1회당 캐릭터의 회복력x1.5배의 체력을 회복한다",
     "special": "캐릭터의 회복력x25배의 체력을 회복하고, 봉쇄ㆍ선장효과 무효 상태를 3턴 회복한다",
     "specialName": "사랑의 새크리파이스",
     "captainNotes": "#{captainProportional : higher : 1 + 1 * (remaining HP) / (total HP) : 2 : 1 }",

@@ -1,25 +1,26 @@
 {
-  "name": "Donquixote Doflamingo",
+  "name": "The Pirate Donquixote Doflamingo, Warlord of the Sea",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by ?x and their HP by ?x. If you use \"Doffy Special\" boosts ATK of Shooter characters by ?x instead.",
+    "captain": "Boosts ATK of Shooter characters by ?x and their HP by ?x. If you use \"Punishment for the Weak\" boosts ATK of Shooter characters by ?x instead.",
     "special": "Makes Damage and Health Cutting Specials of Shooter characters bypass all defensive Buffs, deals 150x character's ATK in [QCK] damage to one enemy, changes [RCV],  [TND] and [BLOCK] orbs into Matching orbs and amplifies the effect of orbs for Shooter characters by 2x for 1 turn",
-    "specialName": "Doffy Special"
+    "specialName": "Punishment for the Weak",
+    "sailor": "Boosts base ATK of Shooter characters by 75"
   },
   "unit": {
     "type": "QCK",
     "class": [
       "Shooter",
-      "???"
+      "Driven"
     ],
     "stars": 4,
     "cost": 20,
-    "combo": null,
-    "slots": null,
+    "combo": 5,
+    "slots": 4,
     "level": 70,
     "exp": 1066998,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 929,
+    "maxATK": 721,
+    "maxRCV": 196
   },
   "evolution": {
     "evolution": 2161,

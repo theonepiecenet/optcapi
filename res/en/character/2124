@@ -1,0 +1,29 @@
+{
+  "name": "Trebol",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by 2.5x and boosts HP of Driven characters by 1.5x",
+    "special": "Reduces crew's current HP by 60%, deals 8x the amount of HP subtracted in typeless damage to all enemies and amplifies the effect of orbs for Striker characters by 1.5x for 1 turn",
+    "specialName": "Trebol Special"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Striker",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": null,
+    "slots": null,
+    "level": 99,
+    "exp": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2124.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2124.png"
+  }
+}

@@ -4,6 +4,12 @@
     "captain": " 일당에게 [STR][DEX][QCK]이 있을 때, [STR][DEX][QCK]은 공격력이 2.75배, 체력이 1.3배, [DEX][QCK]슬롯도 유리한 슬롯 취급, [STR]슬롯 출현률 격감, 일당에 [PSY][INT]이 없을 때는 [STR][DEX][QCK]의 공격력이 1.35배 증가 (공격력이 2.75 배가되는 효과와 중복 가능)",
     "special": "1턴 동안 [STR][DEX][QCK]의 공격력이 1.75배, 그 턴 동안 PERFECT 공격 4번 이상 성공하면 다음 턴에 [STR][DEX][QCK]의 공격력이 2배가 된다",
     "specialName": "용의 발톱·파동 상쇄",
+    "sailor": {
+      "base": "None",
+      "level1": "자신의 필살기 턴 되돌리기를 2턴 회복한다",
+      "level2": "[STR][DEX][QCK] 속성 캐릭터의 기본 능력치가 50 상승한다"
+    },
+    "sailorNotes": "#{rewind : 2}",
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -129,12 +135,6 @@
       }
     ],
     "captainNotes": "Sabo boosts ATK by 3.7125x if you have [STR], [DEX] and [QCK] type characters and no [PSY] or [INT] characters at all.<br>#{beneficial}",
-    "sailor": {
-      "base": "None",
-      "level1": "Restores his own special by 2 turns when it is rewinded",
-      "level2": "Boosts base ATK, HP and RCV of [STR], [DEX] and [QCK] characters by 50"
-    },
-    "sailorNotes": "#{rewind : 2}",
     "potentialNotes": "#{enrage}"
   }
 }

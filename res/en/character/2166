@@ -1,0 +1,33 @@
+{
+  "name": "Don Sai",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Fighter characters by ?x after scoring 3 Greats in a row, by ?x otherwise.",
+    "special": "Deals 50,000 fixed damage to one enemy that will ignore damage negating abilities and barriers. If your captain is a Fighter or Striker character, randomizes orbs, including [BLOCK] orbs.",
+    "specialName": "Don Sai Special"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Striker"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "evolution": {
+    "evolution": 2167,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2166.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2166.png"
+  }
+}

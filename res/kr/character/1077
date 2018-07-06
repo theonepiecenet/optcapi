@@ -1,24 +1,24 @@
 {
-  "name": "레오 톤타타족 전사장",
+  "name": "레오, 톤타타족 전사장",
   "detail": {
-    "captain": "Boosts ATK of Striker and Free Spirit characters by 2.25x and their RCV by 1.5x",
+    "captain": "타격형과 자유형의 공격력을 2.25배, 회복력을 1.5배로 만든다",
     "special": [
       {
-        "description": "Delays all enemies for 1 턴. Locks all orbs for 1 턴. Cuts the current HP of all enemies by 10%",
+        "description": "일당의 슬롯을 1턴 고정하고, 적 전체의 공격을 1턴 지연, 적 전체의 HP를 10% 줄인다",
         "cooldown": [
           16,
           12
         ]
       },
       {
-        "description": "Delays all enemies for 1 턴. Locks all orbs for 1 턴. Cuts the current HP of all enemies by 20%",
+        "description": "일당의 슬롯을 1턴 고정하고, 적 전체의 공격을 1턴 지연, 적 전체의 HP를 20% 줄인다",
         "cooldown": [
           20,
           16
         ]
       }
     ],
-    "specialName": "Haute Couture: Patchwork",
+    "specialName": "오트 쿠튀르 패치★워크",
     "limit": [
       {
         "description": "회복력 상승 : 20"

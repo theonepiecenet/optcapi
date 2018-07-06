@@ -1,0 +1,29 @@
+{
+  "name": "Jesus Burgess",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 2.5x and reduces damage received by 10%",
+    "special": "Cuts the current HP of one enemy by 25% that will ignore damage negating abilities and barriers",
+    "specialName": "Jesus Burgess Special"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": null,
+    "slots": null,
+    "level": 99,
+    "exp": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2125.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2125.png"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Don Sai, Commander's Oath",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Fighter characters by 2.5x after scoring 3 Greats in a row, by 2x otherwise.",
+    "special": "Deals 50,000 fixed damage to one enemy that will ignore damage negating abilities and barriers. If your captain is a Fighter or Striker character, randomizes orbs, including [BLOCK] orbs.",
+    "specialName": "Don Sai Special"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": null,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "evolve": {
+    "evolution": 2167,
+    "evolvers": [],
+    "from": 2166
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2167.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2167.png"
+  }
+}

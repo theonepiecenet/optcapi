@@ -1,10 +1,10 @@
 {
-  "name": "실드 랜스 스피드 질",
+  "name": "방패와 창의 스피드 질",
   "detail": {
-    "captain": "Boosts ATK of [QCK] characters by 2.25x, makes [DEX] orbs \"beneficial\" to [QCK] characters",
-    "special": "Reduces enemy Barrier duration by 1 턴",
-    "specialName": "Break Bullet",
-    "sailor": "Boosts base ATK of [QCK] characters by 40",
+    "captain": "[QCK] 캐릭터의 공격력을 2.25배로 만들고, [QCK] 캐릭터는 [DEX] 슬롯도 [유리] 슬롯으로 취급한다",
+    "special": "적 전체의 체력 게이지에 붙어있는 배리어의 턴을 1턴 줄인다(hit 배리어 등)",
+    "specialName": "브레이크 불릿",
+    "sailor": "[QCK] 캐릭터의 기본 공격력이 40 상승한다",
     "captainNotes": "#{beneficial}",
     "specialNotes": "Does not affect DEF Boost or % Damage reduction buffs. Reduces timers for Barriers such as PERFECT/Great/Good Barriers, Combo Hit Barriers and Orb Hit Barriers",
     "sailorNotes": "#{beneficial}",
