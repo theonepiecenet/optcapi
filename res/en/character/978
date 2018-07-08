@@ -88,11 +88,11 @@
       {
         "Name": "Barrier Penetration",
         "description": [
-          "Level 1: This character's attack will ignore barriers if HP is above 99%",
-          "Level 2: This character's attack will ignore barriers if HP is above 99%",
-          "Level 3: This character's attack will ignore barriers if HP is above 99%",
-          "Level 4: This character's attack will ignore barriers if HP is above 80%",
-          "Level 5: This character's attack will ignore barriers if HP is above 50%"
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
     ]

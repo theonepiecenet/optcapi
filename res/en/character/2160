@@ -1,8 +1,8 @@
 {
   "name": "The Pirate Donquixote Doflamingo, Warlord of the Sea",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by ?x and their HP by ?x. If you use \"Punishment for the Weak\" boosts ATK of Shooter characters by ?x instead.",
-    "special": "Makes Damage and Health Cutting Specials of Shooter characters bypass all defensive Buffs, deals 150x character's ATK in [QCK] damage to one enemy, changes [RCV],  [TND] and [BLOCK] orbs into Matching orbs and amplifies the effect of orbs for Shooter characters by 2x for 1 turn",
+    "captain": "Boosts ATK of Shooter characters by 2.25x. If you use \"Punishment for the Weak\" boosts ATK of Shooter characters by 2.7x instead.",
+    "special": "Makes Damage and Health Cutting Specials of Shooter characters bypass all defensive Buffs, deals 150x character's ATK in [QCK] damage to one enemy, changes [RCV], [TND] and [BLOCK] orbs into Matching orbs and amplifies the effect of orbs for Shooter characters by 2x for 1 turn",
     "specialName": "Punishment for the Weak",
     "sailor": "Boosts base ATK of Shooter characters by 75"
   },
@@ -15,7 +15,7 @@
     "stars": 4,
     "cost": 20,
     "combo": 5,
-    "slots": 4,
+    "slots": 3,
     "level": 70,
     "exp": 1066998,
     "maxHP": 929,
@@ -24,7 +24,13 @@
   },
   "evolution": {
     "evolution": 2161,
-    "evolvers": []
+    "evolvers": [
+      118,
+      85,
+      96,
+      301,
+      101
+    ]
   },
   "evolve": [],
   "image": {

@@ -1,9 +1,9 @@
 {
-  "name": "Trebol",
+  "name": "Trebol, Heavenly Demon's Officer",
   "detail": {
     "captain": "Boosts ATK of Striker characters by 2.5x and boosts HP of Driven characters by 1.5x",
     "special": "Reduces crew's current HP by 60%, deals 8x the amount of HP subtracted in typeless damage to all enemies and amplifies the effect of orbs for Striker characters by 1.5x for 1 turn",
-    "specialName": "Trebol Special"
+    "specialName": "Beta Betton Mucous Launcher"
   },
   "unit": {
     "type": "PSY",
@@ -13,13 +13,13 @@
     ],
     "stars": 4,
     "cost": 20,
-    "combo": null,
-    "slots": null,
+    "combo": 6,
+    "slots": 2,
     "level": 99,
-    "exp": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "exp": 3000000,
+    "maxHP": 2472,
+    "maxATK": 1145,
+    "maxRCV": 207
   },
   "evolve": [],
   "image": {

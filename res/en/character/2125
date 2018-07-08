@@ -1,9 +1,10 @@
 {
-  "name": "Jesus Burgess",
+  "name": "Jesus Burgess, The Titantic Captain's Devil Fruit Hunting",
   "detail": {
-    "captain": "Boosts ATK of Fighter characters by 2.5x and reduces damage received by 10%",
+    "captain": "Boosts ATK of Powerhouse characters by 2.5x and reduces damage received by 10%",
     "special": "Cuts the current HP of one enemy by 25% that will ignore damage negating abilities and barriers",
-    "specialName": "Jesus Burgess Special"
+    "specialName": "The Mouth that Induces Hatred",
+    "specialNotes": "#{ignoreBarrier}"
   },
   "unit": {
     "type": "QCK",
@@ -13,13 +14,13 @@
     ],
     "stars": 4,
     "cost": 20,
-    "combo": null,
-    "slots": null,
+    "combo": 6,
+    "slots": 2,
     "level": 99,
-    "exp": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "exp": 3000000,
+    "maxHP": 2272,
+    "maxATK": 1260,
+    "maxRCV": 202
   },
   "evolve": [],
   "image": {
