@@ -14,17 +14,23 @@
     ],
     "stars": 4,
     "cost": 20,
-    "combo": null,
+    "combo": 4,
     "slots": 4,
     "level": 99,
     "exp": 1000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1429,
+    "maxATK": 1148,
+    "maxRCV": 301
   },
   "evolve": {
     "evolution": 2165,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      79,
+      85,
+      96,
+      101
+    ],
     "from": 2164
   },
   "image": {

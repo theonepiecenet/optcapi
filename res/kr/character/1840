@@ -5,7 +5,7 @@
     "special": "선장이 DEX 또는 PSY 캐릭터인 경우 1턴 동안 지연 중인 적에게 공격력 1.75배로 증가, 선장이 강인 캐릭터인 경우 2턴 동안 캐릭터 공격력 40배의 무속성 데미지를 추가한다.",
     "specialName": "버스트 엔드 킥",
     "captainNotes": "Attack boost stacks, so a [DEX] Powerhouse character has a 2.925x ATK",
-    "specialNotes": "Extra Damage can only be boosted by conditional Boosters.",
+    "specialNotes": "#{additionalDamage : 40x}",
     "sailor": {
       "base": "Makes [PSY] orbs \"beneficial\" for this unit",
       "level1": "Boosts base HP of all characters by 100"

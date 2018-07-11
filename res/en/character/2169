@@ -1,0 +1,36 @@
+{
+  "name": "\"Ruler of Day\" Inuarashi, Warrior of Mokomo Dukedom",
+  "detail": {
+    "captain": "If there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, boosts ATK of all characters by 2.25x and their HP by 1.2x. If you use \"Lightning Counterattack\" in this turn and there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew boosts ATK of all characters by 3x instead, by 1.55x otherwise.",
+    "special": "Reduces Silence duration by 4 turns and reduces enemy Threshold Damage Reduction duration by 3 turns. If you are on a Treasure Map, amplifies the effects of orbs for all characters depending on your Treasure Map Level for 1 turn",
+    "specialName": "Lightning Counterattack",
+    "specialNotes": "Level 1-10: 1.75x orb boost<br>Level 11-20: 2x orb boost<br>Level 21+: 2.25x orb boost",
+    "sailor": "Reduces Silence duration against this unit by 3 turns",
+    "sailorNotes": "#{silence}"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": null,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 2000,
+    "maxATK": 1300,
+    "maxRCV": 300
+  },
+  "evolve": {
+    "evolution": 2169,
+    "evolvers": [],
+    "from": 2168
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2169.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2169.png"
+  }
+}

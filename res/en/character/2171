@@ -1,0 +1,33 @@
+{
+  "name": "Full Power Sicilian, Mokomo Dukedom - Inuarashi Musketeer Squad Commander",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 2.25x",
+    "special": "Deals 15x character's ATK in [DEX] damage to all enemies, delays all enemies for 1 turn and if enemies have a barrier at the time the special was activated, boosts ATK of all characters by 1.75x, 1.5x otherwise.",
+    "specialName": "Lightning Slash"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": null,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 2000,
+    "maxATK": 1300,
+    "maxRCV": 300
+  },
+  "evolve": {
+    "evolution": 2171,
+    "evolvers": [],
+    "from": 2170
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2171.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2171.png"
+  }
+}

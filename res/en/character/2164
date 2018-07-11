@@ -1,5 +1,5 @@
 {
-  "name": "Baby 5",
+  "name": "Baby 5, Unrequited Love for Sai",
   "detail": {
     "captain": "Boosts ATK of Slasher, Striker and Shooter characters by ?x",
     "special": "Changes the captain's orb into [DEX], amplifies the effect of orbs for Fighter characters by 1.75x for 1 turn",
@@ -14,17 +14,23 @@
     ],
     "stars": 3,
     "cost": 13,
-    "combo": null,
+    "combo": 6,
     "slots": 3,
     "level": 50,
     "exp": 130703,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 828,
+    "maxATK": 552,
+    "maxRCV": 162
   },
   "evolution": {
     "evolution": 2165,
-    "evolvers": []
+    "evolvers": [
+      117,
+      79,
+      85,
+      96,
+      101
+    ]
   },
   "evolve": [],
   "image": {

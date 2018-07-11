@@ -1,0 +1,33 @@
+{
+  "name": "Summer Shirahoshi, Evolved",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by 2.25x, recovers 2x character's RCV in HP at the end of each turn",
+    "special": "Reduces enemy's Percent Damage Reduction and crew's Chain Coefficient Reduction duration by 4 turns, changes Badly Matching orbs into Matching orbs and adds .65x to Chain multiplier for 1 turn.",
+    "specialName": "Spending Some Time with Megalo"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": null,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 2000,
+    "maxATK": 1300,
+    "maxRCV": 300
+  },
+  "evolve": {
+    "evolution": 2173,
+    "evolvers": [],
+    "from": 2172
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2173.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2173.png"
+  }
+}

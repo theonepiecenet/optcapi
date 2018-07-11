@@ -4,7 +4,7 @@
     "captain": "Boosts ATK of Free Spirit characters by 3.5x following a chain of Good > Great > PERFECT hits",
     "specialName": "Dragon Claw Fist: Dragon's Breath [Neo]",
     "special": "Deals random typeless damage to all enemies. Adds 55x character's ATK as Additional Typeless Damage for 2 turns",
-    "specialNotes": "#{random : 10,000 : 30,000} <br> Extra Damage can only be boosted by conditional Boosters"
+    "specialNotes": "#{random : 10,000 : 30,000} <br> #{additionalDamage : 55x}"
   },
   "unit": {
     "type": "PSY",

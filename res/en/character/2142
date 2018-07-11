@@ -5,7 +5,7 @@
     "captainNotes": "Attack boost stacks, so a [STR] Powerhouse character has a 3.15x ATK",
     "special": "If your Captain is a [STR] or [INT] character, adds 55x characters ATK as additional typeless damage for 1 turn. If your Captain is a Powerhouse character, reduces enemies Percent Damage Reduction and Threshold Damage Reduction duration by 3 turns",
     "specialName": "Burst End Iron Arm",
-    "specialNotes": "Extra Damage can only be boosted by conditional Boosters.",
+    "specialNotes": "#{additionalDamage : 55x}",
     "sailor": {
       "base": "Makes [INT] orbs \"beneficial\" for this unit",
       "level1": "Boosts base HP of all characters by 100"

@@ -1,5 +1,5 @@
 {
-  "name": "Don Sai",
+  "name": "Don Sai, Man Fighting Baby 5",
   "detail": {
     "captain": "Boosts ATK of Striker and Fighter characters by ?x after scoring 3 GREATS in a row, by ?x otherwise.",
     "special": "Deals 50,000 fixed damage to one enemy that will ignore damage negating abilities and barriers. If your captain is a Fighter or Striker character, randomizes orbs, including [BLOCK] orbs.",
@@ -14,17 +14,23 @@
     ],
     "stars": 3,
     "cost": 13,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 130703,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1047,
+    "maxATK": 598,
+    "maxRCV": 103
   },
   "evolution": {
     "evolution": 2167,
-    "evolvers": []
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ]
   },
   "evolve": [],
   "image": {
