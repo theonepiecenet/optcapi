@@ -105,7 +105,7 @@
     ],
     "potential": [
       {
-        "Name": "[INT] Damage Reduction",
+        "Name": "[INT]데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [INT] characters by 1%",
           "Level 2: Reduce damage taken from [INT] characters by 2%",
@@ -115,7 +115,7 @@
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
           "Level 1: Reduces Slot Bind duration by 1 turn on this character",
           "Level 2: Reduces Slot Bind duration by 3 turns on this character",
@@ -125,7 +125,7 @@
         ]
       },
       {
-        "Name": "Barrier Penetration",
+        "Name": "배리어 관통",
         "description": [
           "Level 1: This character's attack will ignore barriers if HP is above 99%",
           "Level 2: This character's attack will ignore barriers if HP is above 90%",

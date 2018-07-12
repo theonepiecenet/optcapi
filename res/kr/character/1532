@@ -122,7 +122,7 @@
     ],
     "potential": [
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: 회복 무효 상태 회복 : 1 턴",
           "Level 2: 회복 무효 상태 회복 : 1 턴",
@@ -132,7 +132,7 @@
         ]
       },
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
           "Level 1: PERFECT 적중 시, 20% 확률로 공격력의 5% 추가 데미지를 입힌다.",
           "Level 2: If you hit a PERFECT with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "Name": "Barrier Penetration",
+        "Name": "배리어 관통",
         "description": [
           "Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
           "Level 2: This character's attack will ignore barriers if HP is above 90%",

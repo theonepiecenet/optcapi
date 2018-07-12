@@ -98,7 +98,7 @@
     ],
     "potential": [
       {
-        "Name": "Pinch Healing",
+        "Name": "긴급 회복",
         "description": [
           "Level 1: 턴 시작시 체력이 10% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다.",
           "Level 2: 턴 시작시 체력이 15% 미만이면, PERFECT 적중으로 턴을 종료 할때 캐릭터 회복력의 2배 만큼 회복한다.",
@@ -108,7 +108,7 @@
         ]
       },
       {
-        "Name": "Barrier Penetration",
+        "Name": "배리어 관통",
         "description": [
           "Level 1: 남은 체력이 99%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
           "Level 2: 남은 체력이 99%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
@@ -118,7 +118,7 @@
         ]
       },
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: 회복 무효 상태 회복 : 1 턴",
           "Level 2: 회복 무효 상태 회복 : 2 턴",

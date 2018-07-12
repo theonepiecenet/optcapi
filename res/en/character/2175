@@ -1,0 +1,170 @@
+{
+  "name": "Jack, Evolved",
+  "detail": {
+    "captain": {
+      "base": "Boosts ATK of Powerhouse characters by 2x and reduces damage received by 5%",
+      "level1": "Not Translated",
+      "level2": "Not Translated",
+      "level3": "Not Translated",
+      "level4": "Not Translated",
+      "level5": "Not Translated",
+      "level6": "Boosts ATK of Powerhouse characters by 2.75x and reduces damage received by 20%"
+    },
+    "special": "Reduces enemies Percent Damage Reduction, Increased Defense and Damage Nullification duration by 2 turns and deals fixed Typeless damage, proportional to the number of enemies on the stage, to one enemy that will ignore damage negating abilities and barriers.",
+    "specialNotes": "<br><b>1 enemy:</b> 300,000 damage<br><b>2 enemies:</b> 500,000 damage<br><b>3 enemies:</b> 800,000 damage<br><b>4 enemies:</b> 1,100,000 damage<br><b>5 enemies:</b> 1,500,000 damage<br><b>6 enemies:</b> 2,000,000 damage<br>",
+    "specialName": "Genocide Shotel",
+    "sailor": {
+      "base": "None",
+      "level1": "Not Translated",
+      "level2": "Not Translated"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      }
+    ]
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 60,
+    "combo": null,
+    "slots": 1,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "evolve": {
+    "evolution": 2175,
+    "evolvers": [],
+    "from": 2174
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2175.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2175.png"
+  }
+}

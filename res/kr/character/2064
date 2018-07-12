@@ -142,7 +142,7 @@
     ],
     "potential": [
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turns",
@@ -152,7 +152,7 @@
         ]
       },
       {
-        "Name": "Pinch Healing",
+        "Name": "긴급 회복",
         "description": [
           "Level 1: If HP is below 20% at the start of the turn, heals for .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
           "Level 2: If HP is below 25% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
