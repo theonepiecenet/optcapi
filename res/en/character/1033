@@ -7,7 +7,7 @@
     "sailor": {
       "base": "None",
       "level1": "Boosts ATK and HP of Slasher and Striker characters by 50",
-      "level2": "Restores his own special by 1 turn when it is rewinded"
+      "level2": "Restores his own special cooldown by 1 turn when it is rewinded"
     },
     "sailorNotes": "#{rewind : 1}",
     "limit": [
@@ -51,7 +51,7 @@
         "description": "Boosts base HP by 60"
       },
       {
-        "description": "Acquire Sailor Ability 2: Restores his own special by 1 turn when it is rewinded"
+        "description": "Acquire Sailor Ability 2: Restores his own special cooldown by 1 turn when it is rewinded"
       },
       {
         "description": "Acquire Potential 2: Critical Hit"

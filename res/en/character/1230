@@ -29,7 +29,7 @@
     "specialName": "Leg-Locked Heave-Ho",
     "sailor": {
       "base": "Cannot be Blown Away",
-      "level1": "Restores his own special by 2 turns when it is rewinded"
+      "level1": "Restores his own special cooldown by 2 turns when it is rewinded"
     },
     "sailorNotes": "#{rewind : 2}",
     "limit": [
@@ -73,7 +73,7 @@
         "description": "Boosts base ATK by 100"
       },
       {
-        "description": "Acquire Sailor Ability 1: Restores his own special by 2 turns when it is rewinded"
+        "description": "Acquire Sailor Ability 1: Restores his own special cooldown by 2 turns when it is rewinded"
       },
       {
         "description": "Acquire Potential 2: Cooldown Reduction"

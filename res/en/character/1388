@@ -6,7 +6,7 @@
     "specialName": "Ittoriyu: Unfortunate Port Bird",
     "sailor": {
       "base": "None",
-      "level1": "Restores his own special by 1 turn when it is rewinded",
+      "level1": "Restores his own special cooldown by 1 turn when it is rewinded",
       "level2": "Boosts base ATK of [DEX] characters by 40"
     },
     "sailorNotes": "#{rewind : 1}",
@@ -30,7 +30,7 @@
         "description": "Boosts base RCV by 20"
       },
       {
-        "description": "Acquire Sailor Ability 1: Restores his own special by 1 turn when it is rewinded"
+        "description": "Acquire Sailor Ability 1: Restores his own special cooldown by 1 turn when it is rewinded"
       },
       {
         "description": "Boosts base RCV by 30"

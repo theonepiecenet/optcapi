@@ -24,7 +24,7 @@
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK and HP of Powerhouse characters by 60",
-      "level2": "Restores his own special by 2 turns when it is rewinded"
+      "level2": "Restores his own special cooldown by 2 turns when it is rewinded"
     },
     "sailorNotes": "#{rewind : 2}",
     "limit": [
@@ -107,7 +107,7 @@
         "description": "Boosts base HP by 80"
       },
       {
-        "description": "Acquire Sailor Ability 2: Restores his own special by 2 turns when it is rewinded"
+        "description": "Acquire Sailor Ability 2: Restores his own special cooldown by 2 turns when it is rewinded"
       },
       {
         "description": "Boosts base HP by 90"

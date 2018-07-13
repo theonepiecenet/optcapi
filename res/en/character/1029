@@ -4,7 +4,82 @@
     "captain": "Boosts ATK of all characters by 2.5x after the 21st hit in the chain and by 3.5x after the 36th hit",
     "specialName": "Rah-Rah-Rah Rampage",
     "special": "Deals random damage to all enemies, boosts ATK of all characters by 1.75x after 30th hit in the chain for 3 turns.",
-    "specialNotes": "Buffalo's Captain as a Special essentially"
+    "specialNotes": "Buffalo's Captain as a Special essentially",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of Fighter characters by 50",
+      "level2": "Makes [DEX] orbs \"beneficial\" for Fighter characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Fighter characters by 50"
+      },
+      {
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [DEX] orbs \"beneficial\" for Fighter characters"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Acquire Potential 2: Cooldown Reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by ?%",
+          "Level 3: Reduce damage taken from [QCK] characters by ?%",
+          "Level 4: Reduce damage taken from [QCK] characters by ?%",
+          "Level 5: Reduce damage taken from [QCK] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turns at the start of the fight"
+        ]
+      }
+    ]
   },
   "unit": {
     "type": "DEX",

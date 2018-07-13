@@ -22,7 +22,7 @@
     "specialNotes": "#{stages}",
     "specialName": "Extreme Speed - One Sword Style, Ten Slashes",
     "sailor": {
-      "base": "Restores his own special by 1 turn when it is rewinded",
+      "base": "Restores his own special cooldown by 1 turn when it is rewinded",
       "level1": "If this character has an [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"
     },
     "sailorNotes": "#{rewind : 1}",

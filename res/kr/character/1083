@@ -76,7 +76,7 @@
     "specialNotes": "Below 30% -> 1.75 boost, between 30% and 70% -> 1.5, above 70% -> 1.2",
     "sailor": {
       "base": "None",
-      "level1": "Restores his own special by 2 turns when it is rewinded",
+      "level1": "Restores his own special cooldown by 2 turns when it is rewinded",
       "level2": "Makes [QCK] orbs \"beneficial\" for this unit"
     },
     "sailorNotes": "#{beneficial}<br>#{rewind : 2}",

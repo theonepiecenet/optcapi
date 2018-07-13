@@ -7,7 +7,7 @@
     "specialName": "Drill Dragon: Drill Nail",
     "sailor": {
       "base": "None",
-      "level1": "Restores his own special by 2 turns when it is rewinded",
+      "level1": "Restores his own special cooldown by 2 turns when it is rewinded",
       "level2": "Makes [QCK] orbs \"beneficial\" for this unit"
     },
     "sailorNotes": "#{beneficial}<br>#{rewind : 2}",
@@ -34,7 +34,7 @@
         "description": "Boosts base HP by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Restores his own special by 2 turns when it is rewinded"
+        "description": "Acquire Sailor Ability 1: Restores his own special cooldown by 2 turns when it is rewinded"
       },
       {
         "description": "Boosts base ATK by 50"

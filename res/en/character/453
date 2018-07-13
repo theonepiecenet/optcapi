@@ -7,7 +7,7 @@
     "sailor": {
       "base": "None",
       "level1": "Makes [PSY] orbs \"beneficial\" for Striker characters",
-      "level2": "Restores his own special by 5 turn when it is rewinded"
+      "level2": "Restores his own special cooldown by 5 turn when it is rewinded"
     },
     "sailorNotes": "#{beneficial} <br> #{rewind : 5}",
     "limit": [
@@ -51,7 +51,7 @@
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Acquire Sailor Ability 2: Restores his own special by 5 turn when it is rewinded"
+        "description": "Acquire Sailor Ability 2: Restores his own special cooldown by 5 turn when it is rewinded"
       },
       {
         "description": "Acquire Potential 2: Cooldown Reduction"

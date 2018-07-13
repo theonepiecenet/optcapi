@@ -7,7 +7,7 @@
     "captain": "Boosts ATK of Powerhouse characters by 2.5x",
     "sailor": {
       "base": "None",
-      "level1": "Restores his own special by 1 turn when it is rewinded",
+      "level1": "Restores his own special cooldown by 1 turn when it is rewinded",
       "level2": "Makes [RCV] and [TND] orbs \"beneficial\" for this unit"
     },
     "sailorNotes": "#{beneficial}<br>#{rewind : 1}",
@@ -34,7 +34,7 @@
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Acquire Sailor Ability 1: Restores his own special by 1 turn when it is rewinded"
+        "description": "Acquire Sailor Ability 1: Restores his own special cooldown by 1 turn when it is rewinded"
       },
       {
         "description": "Boosts base HP by 90"
