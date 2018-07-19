@@ -6,7 +6,7 @@
     "captain": "Boosts ATK and RCV of [INT] characters by 2x",
     "sailor": {
       "base": "Reduces Blindness duration by 3 turns",
-      "level1": "Makes [PSY] orbs \"beneficial\" for this unit"
+      "level1": "Makes [PSY] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -32,7 +32,7 @@
         "description": "Boosts base ATK by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base RCV by 20"

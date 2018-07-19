@@ -22,7 +22,7 @@
     "specialNotes": "Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on turns' and 'Effect after Death'<br>#{stages}",
     "sailor": {
       "base": "Restores her own special by 1 turn when it is rewinded",
-      "level1": "Reduces Silence duration against this unit by 2 turns"
+      "level1": "Reduces Silence duration on this character by 2 turns"
     },
     "sailorNotes": "#{rewind : 1}",
     "limit": [
@@ -66,7 +66,7 @@
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Silence duration against this unit by 2 turns"
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 2 turns"
       },
       {
         "description": "Acquire Potential 2: Cooldown Reduction"

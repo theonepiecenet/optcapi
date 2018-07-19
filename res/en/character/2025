@@ -8,7 +8,7 @@
     "sailor": {
       "base": "None",
       "level1": "Boosts base HP and ATK of [QCK] and [PSY] characters by 100",
-      "level2": "Makes [STR] and [INT] orbs \"beneficial\" for this unit"
+      "level2": "Makes [STR] and [INT] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -91,7 +91,7 @@
         "description": "Boosts base RCV by 30"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [STR] and [INT] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 2: Makes [STR] and [INT] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base ATK by 35"

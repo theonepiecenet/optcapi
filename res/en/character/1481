@@ -6,8 +6,8 @@
     "specialNotes": "#{ignoreBarrier}<br>#{silence}",
     "specialName": "Stalking Rose Axe",
     "sailor": {
-      "base": "Restores his own special cooldown by 1 turn when it is rewinded and reduces Silence for 3 turns for himself",
-      "level1": "Reduces Paralysis duration for 3 turns for himself"
+      "base": "Restores his own special cooldown by 1 turn when it is rewinded and reduces own Silence for 3 turns",
+      "level1": "Reduces Paralysis duration on this character by 3 turns"
     },
     "sailorNotes": "#{rewind : 1}<br>#{silence}",
     "limit": [
@@ -51,7 +51,7 @@
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration for 3 turns for himself"
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 3 turns"
       },
       {
         "description": "Acquire Potential 2: Barrier Penetration"

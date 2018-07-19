@@ -7,7 +7,7 @@
     "captainNotes": "#{beneficial}",
     "sailor": {
       "base": "None",
-      "level1": "Makes [RCV] orbs \"beneficial\" for this unit",
+      "level1": "Makes [RCV] orbs \"beneficial\" for this character",
       "level2": "Boosts base ATK of characters with cost 30 or less by 300"
     },
     "sailorNotes": "#{beneficial}",
@@ -34,7 +34,7 @@
         "description": "Boosts base HP by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base ATK by 50"

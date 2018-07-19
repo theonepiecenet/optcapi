@@ -5,8 +5,8 @@
     "special": "Reduces damage received by 50% for 2 turns and boosts ATK against enemies inflicted with Toxic by 1.75x for 2 turns",
     "specialName": "Inferno Hell Wheel",
     "sailor": {
-      "base": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this unit if your Captain is a Striker character",
-      "level1": "Makes [RCV] and [TND] orbs \"beneficial\" for this unit if your Captain is a Driven character"
+      "base": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this character if your Captain is a Striker character",
+      "level1": "Makes [RCV] and [TND] orbs \"beneficial\" for this character if your Captain is a Driven character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -44,7 +44,7 @@
         "description": "Boosts base ATK by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs \"beneficial\" for this unit if your Captain is a Driven character"
+        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs \"beneficial\" for this character if your Captain is a Driven character"
       },
       {
         "description": "Boosts base HP by 200"

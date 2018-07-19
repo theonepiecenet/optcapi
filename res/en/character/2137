@@ -16,8 +16,8 @@
     "specialName": "Scorpion Tail",
     "sailor": {
       "base": "None",
-      "level1": "Makes [PSY] orbs \"beneficial\" for this unit",
-      "level2": "Makes [TND] orbs \"beneficial\" for this unit"
+      "level1": "Makes [PSY] orbs \"beneficial\" for this character",
+      "level2": "Makes [TND] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -40,7 +40,7 @@
         "description": "Acquire new Captain Ability: "
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base RCV by 20"
@@ -109,7 +109,7 @@
         "description": "Boosts base HP by 70"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [TND] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 2: Makes [TND] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base ATK by 40"

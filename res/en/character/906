@@ -33,7 +33,7 @@
     "sailor": {
       "base": "None",
       "level1": "If this character has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next turn",
-      "level2": "Makes [DEX] orbs \"beneficial\" for this unit"
+      "level2": "Makes [DEX] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -77,7 +77,7 @@
         "description": "Boosts base HP by 90"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [DEX] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 2: Makes [DEX] orbs \"beneficial\" for this character"
       },
       {
         "description": "Acquire Potential 2: Critical Hit"

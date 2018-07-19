@@ -6,7 +6,7 @@
     "special": "Reduces damage received from [QCK] enemies by 100% for 1 턴",
     "sailor": {
       "base": "None",
-      "level1": "Makes [TND] orbs \"beneficial\" for this unit",
+      "level1": "Makes [TND] orbs \"beneficial\" for this character",
       "level2": "Completely resists Paralysis on this character"
     },
     "sailorNotes": "#{beneficial}",
@@ -33,7 +33,7 @@
         "description": "Boosts base ATK by 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [TND] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [TND] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base RCV by 20"

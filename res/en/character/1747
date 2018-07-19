@@ -8,7 +8,7 @@
     "specialName": "Pistol Kisses",
     "sailor": {
       "base": "None",
-      "level1": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this unit if your Captain is a Free Spirit character"
+      "level1": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this character if your Captain is a Free Spirit character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -43,7 +43,7 @@
         "description": "Boosts base ATK by 20"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this unit if your Captain is a Free Spirit character"
+        "description": "Acquire Sailor Ability 1: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this character if your Captain is a Free Spirit character"
       },
       {
         "description": "Boosts base RCV by 15"

@@ -1,0 +1,34 @@
+{
+  "name": "Nekomamushi",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by ?x and their HP by ?x",
+    "special": "Reduces Silence duration by 2 turns and changes own orb into [QCK]. If your Captain is a Striker character, adds .5x to Chain multiplier for 2 turns.",
+    "specialName": "Nekomamushi Special"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 13,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2177,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2176.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2176.png"
+  }
+}

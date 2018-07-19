@@ -6,7 +6,7 @@
     "sailor": {
       "base": "None",
       "level1": "When HP is below 10% at the start of the turn, boosts base RCV of Slasher and Free Spirit characters by 300",
-      "level2": "Makes [INT], [RCV] and [TND] orbs \"beneficial\" for this unit"
+      "level2": "Makes [INT], [RCV] and [TND] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
     "special": "Makes Damage and Health Cutting Specials of all characters bypass all defensive Buffs, deals 100x character's ATK in [PSY] damage to one enemy, reduces Special Cooldown of all characters by 1 turn",
@@ -90,7 +90,7 @@
         "description": "Boosts base HP by 85"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [INT], [RCV] and [TND] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 2: Makes [INT], [RCV] and [TND] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base HP by 95"

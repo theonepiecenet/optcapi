@@ -23,7 +23,7 @@
     "specialNotes": "#{colorAffinity : 1.75}<br>#{stages}",
     "sailor": {
       "base": "None",
-      "level1": "Reduces Silence duration against this unit by 2 turns"
+      "level1": "Reduces Silence duration on this character by 2 turns"
     },
     "limit": [
       {
@@ -54,7 +54,7 @@
         "description": "Boosts base RCV by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Silence duration against this unit by 2 turns"
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 2 turns"
       },
       {
         "description": "Boosts base HP by 50"

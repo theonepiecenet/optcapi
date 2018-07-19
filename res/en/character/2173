@@ -1,5 +1,5 @@
 {
-  "name": "Summer Shirahoshi, Evolved",
+  "name": "Shirahoshi, Deep Sea Mermaid",
   "detail": {
     "captain": "Boosts ATK of Striker characters by 2.25x, recovers 2x character's RCV in HP at the end of each turn",
     "special": "Reduces enemy's Percent Damage Reduction and crew's Chain Coefficient Reduction duration by 4 turns, changes Badly Matching orbs into Matching orbs and adds .65x to Chain multiplier for 1 turn.",
@@ -16,7 +16,7 @@
     "combo": 4,
     "slots": 3,
     "level": 99,
-    "exp": 2000000,
+    "exp": 3000000,
     "maxHP": 1830,
     "maxATK": 849,
     "maxRCV": 412
@@ -27,7 +27,13 @@
   ],
   "evolve": {
     "evolution": 2173,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      81,
+      92,
+      98,
+      103
+    ],
     "from": 2172
   },
   "image": {

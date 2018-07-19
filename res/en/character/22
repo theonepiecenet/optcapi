@@ -6,7 +6,7 @@
     "captain": "Boosts RCV of [PSY] characters by 1.5x",
     "sailor": {
       "base": "None",
-      "level1": "Makes [TND] orbs \"beneficial\" for this unit",
+      "level1": "Makes [TND] orbs \"beneficial\" for this character",
       "level2": "Boosts base ATK, HP and RCV of all characters by 30"
     },
     "sailorNotes": "#{beneficial}",
@@ -33,7 +33,7 @@
         "description": "Boosts base ATK by 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [TND] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [TND] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base HP by 100"

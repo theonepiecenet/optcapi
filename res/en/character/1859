@@ -5,7 +5,7 @@
     "special": "Reduce 3 turns of paralysis, randomize non-matching orbs, including [BLOCK] orbs, Adds 65x character's ATK as Additional Typeless Damage for 1 turn, when your Captain is a Striker Character reduces enemies Percent Damage Reduction duration by 3 turns",
     "sailor": {
       "base": "If this character has an [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn",
-      "level1": "Makes [PSY] orbs \"beneficial\" for this unit"
+      "level1": "Makes [PSY] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -49,7 +49,7 @@
         "description": "Boosts base ATK by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this character"
       },
       {
         "description": "Acquire Potential 2: Slot Bind Self-reduction"

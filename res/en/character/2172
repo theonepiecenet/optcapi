@@ -1,7 +1,7 @@
 {
-  "name": "Summer Shirahoshi",
+  "name": "Shirahoshi, Midsummer Mermaid",
   "detail": {
-    "captain": "Boosts ATK of Striker characters by ?x, recovers ?x character's RCV in HP at the end of each turn",
+    "captain": "Boosts ATK of Striker characters by 1.75x, recovers 1x character's RCV in HP at the end of each turn",
     "special": "Reduces enemy's Percent Damage Reduction and crew's Chain Coefficient Reduction duration by 4 turns, changes Badly Matching orbs into Matching orbs and adds .65x to Chain multiplier for 1 turn.",
     "specialName": "Spending Some Time with Megalo"
   },
@@ -13,13 +13,13 @@
     ],
     "stars": 4,
     "cost": 13,
-    "combo": null,
-    "slots": null,
-    "level": null,
-    "exp": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "combo": 5,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 986,
+    "maxATK": 424,
+    "maxRCV": 191
   },
   "cooldown": [
     11,
@@ -27,7 +27,13 @@
   ],
   "evolution": {
     "evolution": 2173,
-    "evolvers": []
+    "evolvers": [
+      117,
+      81,
+      92,
+      98,
+      103
+    ]
   },
   "evolve": [],
   "image": {

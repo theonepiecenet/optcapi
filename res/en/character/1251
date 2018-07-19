@@ -23,7 +23,7 @@
     "specialName": "Burning Vanguard",
     "sailor": {
       "base": "None",
-      "level1": "Reduces Paralysis duration for 3 turns for himself"
+      "level1": "Reduces Paralysis duration on this character by 3 turn"
     },
     "limit": [
       {
@@ -66,7 +66,7 @@
         "description": "Boosts base ATK by 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration for 3 turns for himself"
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 3 turn"
       },
       {
         "description": "Acquire Potential 2: Reduce No Healing duration"

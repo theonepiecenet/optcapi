@@ -1,0 +1,30 @@
+{
+  "name": "Blackback",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Cerebral characters by 1.5x",
+    "special": "Reduces damage received by 50% for 1 turn and boosts the Color Affinity of [STR] characters by 1.25x for 1 turn.",
+    "specialName": "Roddy Special"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": null,
+    "combo": null,
+    "slots": 70,
+    "level": 355666,
+    "exp": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2179.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2179.png"
+  }
+}

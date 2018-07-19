@@ -7,7 +7,7 @@
     "captain": "Boosts ATK of all characters by 2.5x if HP is below 30% at the start of the turn",
     "sailor": {
       "base": "None",
-      "level1": "Reduces Paralysis duration for 3 turns for himself"
+      "level1": "Reduces Paralysis duration on this character by 3 turns"
     },
     "limit": [
       {
@@ -50,7 +50,7 @@
         "description": "Boosts base ATK by 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration for 3 turns for himself"
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 3 turns"
       },
       {
         "description": "Acquire Potential 2: Enrage"

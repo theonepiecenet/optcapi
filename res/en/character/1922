@@ -7,7 +7,7 @@
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK of Striker characters by 50",
-      "level2": "Makes [RCV] and [TND] orbs \"beneficial\" for this unit"
+      "level2": "Makes [RCV] and [TND] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -93,7 +93,7 @@
         "description": "Boosts base RCV by 30"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [RCV] and [TND] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 2: Makes [RCV] and [TND] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base HP by 90"

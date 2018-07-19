@@ -7,7 +7,7 @@
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of all characters by 25",
-      "level2": "Reduces Silence duration against this unit by 2 turns"
+      "level2": "Reduces Silence duration on this character by 2 turns"
     },
     "limit": [
       {
@@ -50,7 +50,7 @@
         "description": "Boosts base HP by 90"
       },
       {
-        "description": "Acquire Sailor Ability 2: Reduces Silence duration against this unit by 2 turns"
+        "description": "Acquire Sailor Ability 2: Reduces Silence duration on this character by 2 turns"
       },
       {
         "description": "Acquire Potential 2: Slot Bind Self-reduction"

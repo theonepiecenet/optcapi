@@ -6,8 +6,8 @@
     "captain": "Boosts ATK of [INT] characters by 3x if HP is above 99% at the start of the turn",
     "sailor": {
       "base": "None",
-      "level1": "Makes [PSY] orbs \"beneficial\" for this unit",
-      "level2": "Makes [QCK] orbs \"beneficial\" for this unit"
+      "level1": "Makes [PSY] orbs \"beneficial\" for this character",
+      "level2": "Makes [QCK] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -42,7 +42,7 @@
         "description": "Boosts base ATK by 100"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base ATK by 210"
@@ -51,7 +51,7 @@
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [QCK] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 2: Makes [QCK] orbs \"beneficial\" for this character"
       },
       {
         "description": "Acquire Potential 2: [INT] Damage Reduction"

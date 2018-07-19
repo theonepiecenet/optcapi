@@ -6,7 +6,7 @@
     "captain": "Boosts ATK and RCV of [PSY] characters by 1.5x",
     "sailor": {
       "base": "None",
-      "level1": "Reduces Paralysis duration on this character for 3 turns",
+      "level1": "Reduces Paralysis duration on this character by 3 turns",
       "level2": "Reduces Silence duration on this character by 3 turns"
     },
     "limit": [
@@ -32,7 +32,7 @@
         "description": "Boosts base ATK by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration for 3 turns for herself"
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 3 turns"
       },
       {
         "description": "Boosts base HP by 90"

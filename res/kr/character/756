@@ -6,7 +6,7 @@
     "captain": "[INT] 캐릭터이 2배가 되고, [PSY] 캐릭터로부터 받는 데미지가 약 30% 감소",
     "sailor": {
       "base": "None",
-      "level1": "Makes [STR] orbs \"beneficial\" for this unit",
+      "level1": "Makes [STR] orbs \"beneficial\" for this character",
       "level2": "Boosts base HP of Powerhouse characters by 150"
     },
     "sailorNotes": "#{beneficial}",
@@ -33,7 +33,7 @@
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [STR] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [STR] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base RCV by 10"

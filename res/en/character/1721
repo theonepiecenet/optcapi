@@ -6,7 +6,7 @@
     "specialName": "Passive Aggressive Boss",
     "sailor": {
       "base": "None",
-      "level1": "Makes [STR] and [DEX] orbs \"beneficial\" for this unit"
+      "level1": "Makes [STR] and [DEX] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -50,7 +50,7 @@
         "description": "Boosts base RCV by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [STR] and [DEX] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [STR] and [DEX] orbs \"beneficial\" for this character"
       },
       {
         "description": "Acquire Potential 2: Slot Bind Self-reduction"

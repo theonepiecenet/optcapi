@@ -3,9 +3,81 @@
   "detail": {
     "captain": "Boosts ATK of [DEX] and [INT] characters by 2.5x",
     "special": "Changes the orbs in the left column into [INT], [RCV] and [DEX], the orbs in the right column into [INT], [PSY] and [DEX]",
-    "sailor": "Restores his own special cooldown by 2 turns when it is rewinded and reduces Silence duration on this character by 2 turns",
-    "sailorNotes": "#{silence}<br>#{rewind : 2}",
-    "specialName": "Intelligent Monster"
+    "specialName": "Intelligent Monster",
+    "sailor": {
+      "base": "Restores his own special cooldown by 2 turns when it is rewinded and reduces Silence duration on this character by 2 turns",
+      "level1": "Makes [RCV] orbs \"beneficial\" for this character"
+    },
+    "sailorNotes": "#{silence}<br>#{rewind : 2}<br>#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs \"beneficial\" for this character"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by ?%",
+          "Level 3: Reduce damage taken from [QCK] characters by ?%",
+          "Level 4: Reduce damage taken from [QCK] characters by ?%",
+          "Level 5: Reduce damage taken from [QCK] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ]
   },
   "unit": {
     "type": "DEX",

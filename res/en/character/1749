@@ -5,7 +5,7 @@
     "special": "Cuts the current HP of one enemy by 15% and reduces enemy's Threshold Damage Reduction duration by 5 turns",
     "sailor": {
       "base": "If this character has a [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn",
-      "level1": "Makes [DEX] orbs \"beneficial\" for this unit"
+      "level1": "Makes [DEX] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
     "specialName": "Bear Rush Out",
@@ -38,7 +38,7 @@
         "description": "Boosts base ATK by 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base RCV by 30"

@@ -6,7 +6,7 @@
     "captain": "격 시작 전에 체력이 가득 차 있으면 PSY 캐릭터의 공격력이 3배가 된다.",
     "sailor": {
       "base": "None",
-      "level1": "Reduces Paralysis duration for 5 turns for himself"
+      "level1": "Reduces Paralysis duration on this character by 5 turns"
     },
     "limit": [
       {
@@ -49,7 +49,7 @@
         "description": "Boosts base ATK by 70"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration for 5 turns for himself"
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 5 turns"
       },
       {
         "description": "Acquire Potential 2: [PSY] Damage Reduction"

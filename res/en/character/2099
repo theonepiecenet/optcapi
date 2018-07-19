@@ -7,7 +7,7 @@
     "specialName": "Gon Inferno",
     "sailor": {
       "base": "None",
-      "level1": "Makes [STR], [DEX], [RCV], [TND] orbs \"beneficial\" for this unit",
+      "level1": "Makes [STR], [DEX], [RCV], [TND] orbs \"beneficial\" for this character",
       "level2": "Boosts base ATK and HP of Driven and Striker characters by 50"
     },
     "sailorNotes": "#{beneficial}",
@@ -46,7 +46,7 @@
         "description": "Boosts base RCV by 15"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [STR], [DEX], [RCV], [TND] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [STR], [DEX], [RCV], [TND] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base HP by 75"

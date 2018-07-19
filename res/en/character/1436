@@ -7,7 +7,7 @@
     "specialNotes": "Decreases timing window to hit a PERFECT. (Animation remains the same)",
     "sailor": {
       "base": "Boosts base ATK of all characters by 150 if there are 6 Powerhouse characters in your crew",
-      "level1": "Reduces Paralysis duration for 3 turns for himself"
+      "level1": "Reduces Paralysis duration on this character by 3 turns"
     },
     "limit": [
       {
@@ -50,7 +50,7 @@
         "description": "Boosts base ATK by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration for 3 turns for himself"
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 3 turns"
       },
       {
         "description": "Acquire Potential 2: Reduce No Healing duration"

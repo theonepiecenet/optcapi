@@ -14,7 +14,7 @@
     "specialName": "The Harmony that Interweaves the Souls",
     "sailor": {
       "base": "None",
-      "level1": "Makes [RCV] orbs \"beneficial\" for this unit",
+      "level1": "Makes [RCV] orbs \"beneficial\" for this character",
       "level2": "Cannot be Blown Away"
     },
     "sailorNotes": "#{beneficial}",
@@ -38,7 +38,7 @@
         "description": "Acquire new Captain Ability: If there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, boosts ATK of all characters by 1.5x, boosts damage of [STR], [DEX], [QCK], [PSY] and [INT] specials by 1.5x and cuts the current HP of each enemy by 6% at the end of each turn. Recovers 1x character's RCV in HP at the end of each turn."
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base ATK by 15"

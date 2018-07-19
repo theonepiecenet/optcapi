@@ -6,7 +6,7 @@
     "captain": "일당의 회복력을 큰 폭으로 낮추고(90%감소), 받는 피해를 40% 줄인다.",
     "sailor": {
       "base": "None",
-      "level1": "Makes [PSY] orbs \"beneficial\" for this unit"
+      "level1": "Makes [PSY] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -35,7 +35,7 @@
         "description": "Boosts base HP by 60"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base ATK by 60"

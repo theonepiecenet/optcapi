@@ -6,7 +6,7 @@
     "captain": "Boosts ATK of all characters by 3.5x after scoring 3 PERFECTs in a row",
     "sailor": {
       "base": "None",
-      "level1": "Makes [RCV] and [TND] orbs \"beneficial\" for this unit",
+      "level1": "Makes [RCV] and [TND] orbs \"beneficial\" for this character",
       "level2": "Boosts own base ATK by 200 if this character is the last in the chain to attack"
     },
     "sailorNotes": "#{beneficial}",
@@ -33,7 +33,7 @@
         "description": "Boosts base RCV by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base RCV by 50"

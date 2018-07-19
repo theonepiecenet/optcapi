@@ -6,7 +6,7 @@
     "special": "Deals 60x character's ATK in [INT] damage to all enemies, changes all orbs on Fighter characters into matching orbs and reduces enemy's Percent Damage Reduction and Increased Defense duration by 5 turns.",
     "sailor": {
       "base": "None",
-      "level1": "Makes [RCV] and [TND] orbs \"beneficial\" for this unit",
+      "level1": "Makes [RCV] and [TND] orbs \"beneficial\" for this character",
       "level2": "Restores his own special cooldown completely when it is rewinded"
     },
     "sailorNotes": "#{beneficial}<br>#{rewind : all}",
@@ -69,7 +69,7 @@
         "description": "Boosts base ATK by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs \"beneficial\" for this character"
       },
       {
         "description": "Boosts base ATK by 30"
