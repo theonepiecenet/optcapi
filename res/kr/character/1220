@@ -1,25 +1,25 @@
 {
   "name": "반디 월드, 월드 해적단 선장",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by 1x. If you defeat an enemy, increases ATK boost slighty. Stacks up to 10 times to a maximum of 3.25x.",
+    "captain": "이전 턴에 적을 1명이라도 격파하면 사격형의 공격력 배율이 상승한다(최대 10턴으로 공격력 3.25배)",
     "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
     "special": [
       {
-        "description": "Deals 7x character's ATK in [INT] damage to one enemy. Reduces crew's current HP by 50%. Boosts ATK of Shooter characters by 1.2x for 1 턴",
+        "description": "체력이 50% 감소하는 대신 적 1명에게 공격력x7배의 [INT] 데미지를 주고, 1턴 동안 사격형의 공격력이 1.2배가 된다",
         "cooldown": [
           22,
           6
         ]
       },
       {
-        "description": "Deals 15x character's ATK in [INT] damage to one enemy. Reduces crew's current HP by 50%. Boosts ATK of Shooter characters by 1.5x for 1 턴",
+        "description": "체력이 50% 감소하는 대신 적 1명에게 공격력x15배의 [INT] 데미지를 주고, 1턴 동안 사격형의 공격력이 1.5배가 된다",
         "cooldown": [
           28,
           12
         ]
       },
       {
-        "description": "Deals 25x character's ATK in [INT] damage to one enemy. Reduces crew's current HP by 50%. Boosts ATK of Shooter characters by 2x for 1 턴",
+        "description": "체력이 50% 감소하는 대신 적 1명에게 공격력x25배의 [INT] 데미지를 주고, 1턴 동안 사격형의 공격력이 2배가 된다",
         "cooldown": [
           34,
           18
@@ -27,7 +27,7 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "More More, 10 Times \"Iron Hammer\"",
+    "specialName": "모아모아 10배속 「철퇴」",
     "limit": [
       {
         "description": "체력 상승 : 10"

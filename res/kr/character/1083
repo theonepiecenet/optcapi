@@ -45,7 +45,7 @@
         "description": "필살기 턴 단축 : 2턴"
       },
       {
-        "description": "선원효과 추가 2: Makes [QCK] orbs \"beneficial\" for this unit"
+        "description": "선원효과 추가 2: Makes [QCK] orbs “beneficial” for this unit"
       },
       {
         "description": "잠재능력 습득 2: Enrage"
@@ -77,7 +77,7 @@
     "sailor": {
       "base": "None",
       "level1": "Restores his own special cooldown by 2 turns when it is rewinded",
-      "level2": "Makes [QCK] orbs \"beneficial\" for this character"
+      "level2": "Makes [QCK] orbs “beneficial” for this character"
     },
     "sailorNotes": "#{beneficial}<br>#{rewind : 2}",
     "potentialNotes": "#{enrage}"

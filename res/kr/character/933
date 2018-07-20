@@ -1,18 +1,18 @@
 {
-  "name": "피카 돈키호테 해적단",
+  "name": "피카, 돈키호테 해적단",
   "detail": {
-    "captain": "Boosts ATK of Powerhouse characters by 2.25x, and their HP by 1.5x",
-    "specialName": "Rock Domination Wall",
+    "captain": "강인형의 공격력을 2.25배, 체력을 1.5배로 만든다",
+    "specialName": "암석지배 지옥의 벽 짓누르기",
     "special": [
       {
-        "description": "For Driven and Powerhouse characters, changes [EMPTY] and Badly Matching orbs into Matching orbs. Cuts the current HP of all enemies by 10%",
+        "description": "야심형과 강인형의 [EMPTY][불리] 슬롯을 속성 일치 슬롯으로 바꾸고 적 전체의 HP를 10% 줄인다",
         "cooldown": [
           25,
           11
         ]
       },
       {
-        "description": "Changes [EMPTY] and Badly Matching orbs into Matching orbs. Cuts the current HP of all enemies by 20%",
+        "description": "일당의 [EMPTY][불리] 슬롯을 속성 일치 슬롯으로 바꾸고 적 전체의 HP를 20% 줄인다",
         "cooldown": [
           31,
           17

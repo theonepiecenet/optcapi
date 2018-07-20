@@ -10,13 +10,13 @@
       "level5": "Not Translated",
       "level6": "If there is a [STR], [QCK] and [PSY] character in your crew, boosts ATK of [STR], [QCK] and [PSY] characters by 3.44x if they have a [STR] orb, by 2.75x otherwise and their HP and RCV by 1.2x"
     },
-    "special": "Changes all orbs, including [BLOCK] orbs, to [STR] orbs, boosts ATK of [STR], [QCK] and [PSY] characters by 1.75x for 1 turn and makes [STR] orbs \"beneficial\" for [STR], [QCK] and [PSY] characters if your Captain is a Free Spirit character",
+    "special": "Changes all orbs, including [BLOCK] orbs, to [STR] orbs, boosts ATK of [STR], [QCK] and [PSY] characters by 1.75x for 1 turn and makes [STR] orbs “beneficial” for [STR], [QCK] and [PSY] characters if your Captain is a Free Spirit character",
     "specialNotes": "#{beneficial}",
     "specialName": "Sacred Flames: Unknown Fire",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Free Spirit characters by 30",
-      "level2": "Makes [PSY] orbs \"beneficial\" for this unit"
+      "level2": "Makes [PSY] orbs “beneficial” for this unit"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -108,7 +108,7 @@
         "description": "Boosts base HP by 50"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [PSY] orbs \"beneficial\" for this unit"
+        "description": "Acquire Sailor Ability 2: Makes [PSY] orbs “beneficial” for this unit"
       },
       {
         "description": "Boosts base ATK by 50"

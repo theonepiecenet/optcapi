@@ -3,11 +3,11 @@
   "detail": {
     "specialName": "정의의 편! 쵸파 마스크!!",
     "special": "체력을 5,000 회복하고 2턴 동안 [PSY] 캐릭터의 공격력이 1.5배가 된다",
-    "captain": "[PSY] 캐릭터를 공격력 2배, 회복력 1.5배로 만들고, [PSY] 캐릭터는 [INT] 슬롯도 [유리](\"beneficial\") 슬롯으로 취급한다",
+    "captain": "[PSY] 캐릭터를 공격력 2배, 회복력 1.5배로 만들고, [PSY] 캐릭터는 [INT] 슬롯도 [유리](“beneficial”) 슬롯으로 취급한다",
     "captainNotes": "#{beneficial}",
     "sailor": {
       "base": "None",
-      "level1": "Makes [RCV] orbs \"beneficial\" for this character",
+      "level1": "Makes [RCV] orbs “beneficial” for this character",
       "level2": "Boosts base ATK of characters with cost 30 or less by 300"
     },
     "sailorNotes": "#{beneficial}",
@@ -34,7 +34,7 @@
         "description": "Boosts base HP by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs “beneficial” for this character"
       },
       {
         "description": "Boosts base ATK by 50"

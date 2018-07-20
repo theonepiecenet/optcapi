@@ -1,11 +1,11 @@
 {
   "name": "엘리자베스, 밀짚모자 일당의 공범자",
   "detail": {
-    "captain": "Boosts RCV and HP by 1.2x, boosts ATK by 2.5x following a chain of [STR] > [DEX] > [QCK] attacks no lower than Good",
-    "special": "Recovers 13x character's RCV in HP, adds .5x to Chain multiplier, and reduces the defense of all enemies by 100% for 1 턴",
-    "sailor": "Restores her own special by 2 턴 when it is rewinded",
+    "captain": "일당의 체력과 회복력을 약간 상승시키고, [STR]→[DEX]→[QCK] 캐릭터 순으로 GOOD 이상의 공격을 하면 이후 캐릭터의 공격력이 2.5배가 된다",
+    "special": "캐릭터의 회복력x13배로 체력을 회복하고, 1턴 동안 체인 계수를 +0.5, 적 전체의 방어력을 0으로 만든다",
+    "sailor": "자신의 필살기 턴 되돌리기를 2턴 회복한다",
     "sailorNotes": "#{rewind : 1}",
-    "specialName": "Soft and Gentle Fluffy Kisses",
+    "specialName": "둥실둥실 부드럽고 상냥한 입맞춤",
     "limit": [
       {
         "description": "Boosts base ATK by 10"

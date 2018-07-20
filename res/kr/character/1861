@@ -1,24 +1,24 @@
 {
-  "name": "Raizo of the Mist, Wano Country Ninja",
+  "name": "안개의 라이조, 와노쿠니의 닌자",
   "detail": {
-    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Shooter characters by 2.5x",
+    "captain": "모험 시작 시 필살기 턴을 2턴 단축하고, 사격형 캐릭터의 공격력을 2.5배로 만든다",
     "special": [
       {
-        "description": "Deals 3x character's ATK in [QCK] damage to all enemies, changes [TND] and [RCV] orbs on Shooter characters into Matching Orbs,",
+        "description": "적 전체에게 캐릭터의 공격력x3배의 [QCK] 데미지를 주고, 사격형 캐릭터의 [RCV][TND] 슬롯을 속성 일치 슬롯으로 바꾼다",
         "cooldown": [
           19,
           4
         ]
       },
       {
-        "description": "Deals 7x character's ATK in [QCK] damage to all enemies, changes [TND] and [RCV] orbs on Shooter characters into Matching Orbs. If your captain is a Shooter Character, boosts ATK against delayed enemies by 1.35x for 1 turn",
+        "description": "적 전체에게 캐릭터의 공격력x7배의 [QCK] 데미지를 주고, 사격형 캐릭터의 [RCV][TND] 슬롯을 속성 일치 슬롯으로 바꾸고, 선장이 사격형이라면 1턴 동안 지연 중인 적에게 주는 데미지가 1.35배가 된다",
         "cooldown": [
           24,
           9
         ]
       },
       {
-        "description": "Deals 11x character's ATK in [QCK] damage to all enemies, changes [TND] and [RCV] orbs on Shooter characters into Matching Orbs. If your captain is a Shooter Character, boosts ATK against delayed enemies by 1.75x for 1 turn",
+        "description": "적 전체에게 캐릭터의 공격력x7배의 [QCK] 데미지를 주고, 사격형 캐릭터의 [RCV][TND] 슬롯을 속성 일치 슬롯으로 바꾸고, 선장이 사격형이라면 1턴 동안 지연 중인 적에게 주는 데미지가 1.75배가 된다",
         "cooldown": [
           30,
           15
@@ -26,7 +26,7 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "Flower Shuriken",
+    "specialName": "꽃 수리검",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Shooter characters by 30",

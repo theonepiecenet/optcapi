@@ -1,23 +1,23 @@
 {
-  "name": "코라손, 사라질 빗소리",
+  "name": "코라손, 사라진 빗소리",
   "detail": {
-    "captain": "Boosts ATK of [PSY], [QCK], and [DEX] characters by 2.5x and recovers 500 HP at end of each 턴",
+    "captain": "[DEX][QCK][PSY] 속성 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시 체력을 500 회복한다",
     "special": [
       {
-        "description": "Reduces Special Cooldown of Cerebral and Free Spirit characters by 1 턴.",
+        "description": "자유형과 박식형의 필살기 턴을 1턴 단축한다",
         "cooldown": [
           6,
           6
         ]
       },
       {
-        "description": "Locks the chain multiplier at 2.5x for 1 턴 and reduces Special Cooldown of Cerebral and Free Spirit characters by 1 턴.",
+        "description": "1턴 동안 체인 계수를 2.5배로 고정하고 자유형과 박식형의 필살기 턴을 1턴 단축한다",
         "cooldown": [
           10,
           10
         ]
       }
     ],
-    "specialName": "The Sun under the Rain"
+    "specialName": "비구름에 숨은 태양"
   }
 }

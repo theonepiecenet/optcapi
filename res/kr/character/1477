@@ -1,11 +1,11 @@
 {
   "name": "후카보시, 용궁 왕국 왕자",
   "detail": {
-    "captain": "Boosts ATK of Striker characters by 2.5x and boosts HP of Powerhouse characters by 1.25x",
+    "captain": "타격형 캐릭터의 공격력을 2.5배로 만들고, 강인형 캐릭터의 체력을 1.25배로 만든다",
     "captainNotes": "This effect does stack for characters that have both classes, so Striker/Powerhouse characters will have 2.5x ATK and 1.25x HP",
-    "special": "Delays all enemies by 1 턴, and boosts ATK of Striker and Powerhouse characters by 1.75x for 1 턴",
-    "sailor": "Boosts base HP, RCV and ATK of all characters by 50",
-    "specialName": "Merman Gujutsu - Spear of the Ages",
+    "special": "적 전체의 공격을 1턴 지연시키고, 타격형과 강인형 캐릭터의 공격력을 1턴 동안 1.75배로 만든다",
+    "sailor": "일당의 기본 능력치가 50 증가한다",
+    "specialName": "인어 구술 광음유수창",
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
@@ -42,7 +42,7 @@
         "description": "Boosts base RCV by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [QCK] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [QCK] orbs “beneficial” for this character"
       },
       {
         "description": "Boosts base ATK by 50"
