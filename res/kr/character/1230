@@ -4,21 +4,21 @@
     "captain": "Boosts ATK of Powerhouse characters by 2.5x, but boost his OWN ATK by 2.75x. Reduces damage received by 10%",
     "special": [
       {
-        "description": "Deals 500 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 턴",
+        "description": "Deals 500 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 turn",
         "cooldown": [
           11,
           4
         ]
       },
       {
-        "description": "Deals 5,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 턴",
+        "description": "Deals 5,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 turn",
         "cooldown": [
           15,
           8
         ]
       },
       {
-        "description": "Deals 100,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 2 턴",
+        "description": "Deals 100,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 2 turns",
         "cooldown": [
           22,
           15
@@ -26,8 +26,11 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "sailor": "Cannot be Blown Away (Such as Raid Boss Kuma)",
     "specialName": "Leg-Locked Heave-Ho",
+    "sailor": {
+      "base": "Cannot be Blown Away",
+      "level1": "Restores his own special by 2 turns when it is rewinded"
+    },
     "sailorNotes": "#{rewind : 2}",
     "limit": [
       {
@@ -70,7 +73,7 @@
         "description": "Boosts base ATK by 100"
       },
       {
-        "description": "Acquire Sailor Ability 1: Restores his own special cooldown by 2 turns when it is rewinded"
+        "description": "Acquire Sailor Ability 1: Restores his own special by 2 turns when it is rewinded"
       },
       {
         "description": "Acquire Potential 2: Cooldown Reduction"

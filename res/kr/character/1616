@@ -1,10 +1,10 @@
 {
-  "name": "Mr.0, 대해적 시대의 사투 [이상향]",
+  "name": "Mr.0, 대해적 시대의 사투 ‘유토피아’",
   "detail": {
-    "captain": "Boosts ATK of Striker characters by 2.5x and recovers 1.5x character's RCV in HP at the end of each 턴",
-    "special": "Deals 20x character's ATK in [INT] damage to all enemies, reduces Special Cooldown of Striker characters by 1 턴 and boosts ATK of Striker characters and amplifies orbs of Striker characters by 1.5x for 1 턴",
-    "specialName": "Desert Spada",
-    "sailor": "Restores his own special by 2 턴 when it is rewinded",
+    "captain": "타격형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 후 캐릭터의 회복력x1.5배의 체력을 회복한다",
+    "special": "적 전체에게 캐릭터의 공격력x20배의 [INT] 데미지를 주고, 타격형 캐릭터의 필살기 턴을 1턴 단축하고, 1턴 동안 타격형의 공격력과 슬롯의 영향을 증폭시킨다",
+    "specialName": "사막의 금강 보검",
+    "sailor": "자신의 필살기 턴 되돌리기를 2턴 회복한다",
     "sailorNotes": "#{rewind : 2}",
     "limit": [
       {

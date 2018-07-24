@@ -1,9 +1,9 @@
 {
   "name": "스크래치멘 아푸",
   "detail": {
-    "special": "[TND],[RCV]슬롯을 [DEX]슬롯으로 변환 적 전체에 랜덤의 [DEX]데미지.",
-    "specialName": "스크래치 바디",
+    "special": "[TND][RCV]슬롯을 [DEX]로 바꾸고, 적 전체에게 랜덤의 [DEX] 데미지",
+    "specialName": "스크래치 보디",
     "specialNotes": "랜덤 데미지 범위는 5,000 ~ 20,000 사이",
-    "captain": "전투가 시작되기전 체력이 가득 차 있으면 [DEX] 캐릭터의 공격력이 2.5배가 된다."
+    "captain": "공격 시작 전에 체력이 가득 차 있으면 [DEX] 캐릭터의 공격력이 2.5배가 된다."
   }
 }

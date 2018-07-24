@@ -1,16 +1,8 @@
 {
   "name": "몽키 D. 루피 기어 4, 신의 천적",
   "detail": {
-    "captain": {
-      "base": "Boosts ATK of Powerhouse and Free Spirit characters by 2x after scoring 2 PERFECTs in a row",
-      "level1": "Boosts ATK of Powerhouse and Free Spirit characters by 2x after scoring 2 PERFECTs in a row and reduce damage received by 2%",
-      "level2": "Boosts ATK of Powerhouse and Free Spirit characters by 2x after scoring 2 PERFECTs in a row and reduce damage received by 4%",
-      "level3": "Boosts ATK of Powerhouse and Free Spirit characters by 2x after scoring 2 PERFECTs in a row, boosts by 3x after scoring 4 PERFECTs in a row and reduce damage received by 4%",
-      "level4": "Boosts ATK of Powerhouse and Free Spirit characters by 2x after scoring 2 PERFECTs in a row, boosts by 3.25x after scoring 4 PERFECTs in a row and reduce damage received by 4%",
-      "level5": "Boosts ATK of Powerhouse and Free Spirit characters by 2x after scoring 2 PERFECTs in a row, boosts by 3.5x after scoring 4 PERFECTs in a row and reduce damage received by 4%",
-      "level6": "Boosts ATK of Powerhouse and Free Spirit characters by 2x after scoring 2 PERFECTs in a row, boosts by 4x after scoring 4 PERFECTs in a row and reduce damage received by 4%"
-    },
-    "special": "[BLOCK]를 포함한 모든 슬롯을 랜덤으로 바꾼 후, 자신의 슬롯을 [QCK]으로 바꾸고, 적 1명에게 캐릭터의 공격력x300의 무 속성 데미지를 주며, 1턴 동안 일당의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
+    "captain": "PERFECT 2연속, 4연속 달성 시 이후 자유형 및 강인형 캐릭터의 공격력이 2배, 4배로 상승하며 받는 데미지가 4% 감소한다",
+    "special": "[BLOCK]를 포함한 모든 슬롯을 랜덤으로 바꾼 후, 자신의 슬롯을 [QCK]으로 바꾸고, 적 1명에게 캐릭터의 공격력x300배의 무 속성 데미지를 주며, 1턴 동안 일당의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
     "specialName": "고무고무 레오 바주카",
     "sailor": {
       "base": "None",

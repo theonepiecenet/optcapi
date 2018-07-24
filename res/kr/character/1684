@@ -1,11 +1,11 @@
 {
   "name": "니코 로빈, 20th Anniversary Memorial Treasure",
   "detail": {
-    "captain": "Boosts ATK of Cerebral characters by 2.5x, and their RCV by 1.3x",
-    "special": "Binds self for 1 턴, empties all slots with [BLOCK] orbs, deals several times the character's ATK in typeless damage to one enemy and boosts ATK against enemies with reduced defense by 1.5x for 2 턴",
-    "specialName": "Mil Fleur: Gigantesco Mano",
+    "captain": "박식형 캐릭터의 공격력이 2.5배, 회복력이 1.3배가 된다",
+    "special": "1턴 동안 자신이 봉쇄 상태가 되는 대신 [BLOCK] 슬롯을 소비하여 적 전체에 소비한 [BLOCK] 슬롯(0개~6개)의 수에 따라 커지는 무 속성 데미지를 주고, 2턴 동안 방어력 감소 중인 적에게 주는 데미지를 1.5배로 만든다",
+    "specialName": "「밀 플루르」 천 송이 꽃 히간테스코 마노",
     "specialNotes": "The exact multiplier used is chosen based on the number of [BLOCK] orbs consumed: 0 orbs - Unknown; 1 orb - ???x ATK; 2 orbs - ???x ATK; 3 orbs - ???x ATK; 4 orbs - ???x ATK; 5 orbs - ???x ATK; 6 orbs - ???x ATK.",
-    "sailor": "Makes [TND] orbs “beneficial” for all characters if your Captain is a Fighter character",
+    "sailor": "선장이 격투형일 경우, 일당의 [TND] 슬롯을 [유리] 슬롯으로 취급한다",
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
