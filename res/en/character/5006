@@ -1,0 +1,32 @@
+{
+  "name": "[Dual Unit] Portgas D. Ace, Reunion at War",
+  "detail": {
+    "captain": "Boosts HP of Free Spirit characters by 1.2x and boosts ATK of Free Spirit characters by 3.5x if they have a matching orb, by 2.25x otherwise",
+    "special": "Deals 75x character's ATK in typeless damage to all enemies, changes [STR], [DEX], [QCK], [INT], and [PSY] orbs on Free Spirit characters into Matching orbs, amplifies the effect of orbs by 2x for 1 turn and becomes Luffy & Ace for 3 turns",
+    "specialNotes": "Change Action: When Change is activated, this character removes all Despair, Paralysis, and Slot Bind on themselves and changes their own orb, including [BLOCK] orbs, into a Matching orb",
+    "specialName": "Brotherly Bond",
+    "sailor": "Makes [STR] orbs \"beneficial\" for Free Spirit characters",
+    "sailorNotes": "#{beneficial}"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Free Spirit",
+      "Shooter"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 5,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": 1410,
+    "maxATK": 891,
+    "maxRCV": 240
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5006.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5006.png"
+  }
+}

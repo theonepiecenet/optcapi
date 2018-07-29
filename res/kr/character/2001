@@ -12,94 +12,94 @@
     "special": "Makes Damage and Health Cutting Specials of all characters bypass all defensive Buffs, deals 100x character's ATK in [PSY] damage to one enemy, reduces Special Cooldown of all characters by 1 turn",
     "limit": [
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Acquire Potential 1: [INT] Damage Reduction"
+        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Boosts base ATK by 15"
+        "description": "공격력 상승 : 15"
       },
       {
-        "description": "Acquire Sailor Ability 1: When HP is below 10% at the start of the turn, boosts base RCV of Slasher and Free Spirit characters by 300"
+        "description": "선원 효과 추가 1: When HP is below 10% at the start of the turn, boosts base RCV of Slasher and Free Spirit characters by 300"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "Boosts base HP by 45"
+        "description": "체력 상승 : 45"
       },
       {
-        "description": "Boosts base HP by 55"
+        "description": "체력 상승 : 55"
       },
       {
-        "description": "Acquire Potential 2: Barrier Penetration"
+        "description": "잠재능력 습득 2: 배리어 관통"
       },
       {
-        "description": "Boosts base HP by 65"
+        "description": "체력 상승 : 65"
       },
       {
-        "description": "Boosts base HP by 75"
+        "description": "체력 상승 : 75"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base RCV by 35"
+        "description": "회복력 상승 : 35"
       },
       {
-        "description": "Boosts base ATK by 25"
+        "description": "공격력 상승 : 25"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "Boosts base HP by 85"
+        "description": "체력 상승 : 85"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [INT], [RCV] and [TND] orbs “beneficial” for this unit"
+        "description": "선원 효과 추가 2: Makes [INT], [RCV] and [TND] orbs “beneficial” for this unit"
       },
       {
-        "description": "Boosts base HP by 95"
+        "description": "체력 상승 : 95"
       },
       {
-        "description": "Boosts base ATK by 60"
+        "description": "공격력 상승 : 60"
       },
       {
-        "description": "Acquire Potential 3: Critical Hit"
+        "description": "잠재능력 습득 3: 크리티컬 공격"
       }
     ],
     "potential": [
@@ -126,11 +126,11 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 시의 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 시의 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 시의 데미지에 8%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 90% 확률로 자신의 최종 히트 시의 데미지에 10%의 추가 데미지가 가산된다"
         ]
       }
     ]

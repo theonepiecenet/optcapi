@@ -1,0 +1,34 @@
+{
+  "name": "[Dual Unit] Marco, The Fierce Battle at the Paramount War",
+  "detail": {
+    "captain": "Boosts ATK of INT characters by 3.5x, boosts ATK of all other characters by 2.75x, boosts RCV of all characters by 1.25x and makes [PSY] orbs \"beneficial\" to all characters",
+    "special": "Cuts the current HP of each enemy by 30%, recovers 20,000 HP, randomizes all orbs into either [PSY], [INT] or [RCV] orbs and becomes Whitebeard & Marco for 3 turns",
+    "specialNotes": "Change Action: When Change is activated, reduces Paralysis and Silence duration by 1 turn, makes [RCV] orbs \"beneficial\" for all characters for 1 turn and changes their own orb into a [RCV] orb<br>#{beneficial}",
+    "specialName": "Immortal Blue Flame Shockwave",
+    "sailor": {
+      "base": "Boosts base HP and RCV of [PSY] and [INT] characters by 75",
+      "level1": "Completely resists Paralysis and Silence on this character"
+    }
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 3000,
+    "maxATK": 1500,
+    "maxRCV": 300
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5019.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5019.png"
+  }
+}

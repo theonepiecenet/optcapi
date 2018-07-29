@@ -12,16 +12,19 @@
       "Powerhouse"
     ],
     "stars": 3,
-    "cost": null,
-    "combo": null,
-    "slots": 70,
-    "level": 355666,
-    "exp": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "cost": 15,
+    "combo": 5,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "maxHP": 1870,
+    "maxATK": 700,
+    "maxRCV": 95
   },
-  "cooldown": null,
+  "cooldown": [
+    17,
+    11
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2179.png",

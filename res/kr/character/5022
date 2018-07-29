@@ -1,0 +1,45 @@
+{
+  "name": "[Dual Unit] 흰 수염 & 마르코, The Fierce Battle at the Paramount War",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] and [INT] characters by 4.25x, boosts ATK of all other characters by 3x, boosts RCV of all characters by 1.5x, reduce damage received by 20% and makes [PSY] and [INT] orbs “beneficial” to all characters",
+    "special": "Cuts the current HP of each enemy by 30%, recovers 20,000 HP, randomizes all orbs into either [PSY], [INT] or [RCV] orbs and becomes Whitebeard & Marco for 3 turns",
+    "specialNotes": "Change Action: When Change is activated, reduces Paralysis and Silence duration by 1 turn, makes [RCV] orbs “beneficial” for all characters for 1 turn and changes their own orb into a [RCV] orb<br>#{beneficial}",
+    "specialName": "Immortal Blue Flame Shockwave",
+    "sailor": {
+      "base": "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 100",
+      "level1": "Completely resists Paralysis and Silence on this character"
+    },
+    "potential": [
+      {
+        "Name": "[PSY] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by 2%",
+          "Level 3: Reduce damage taken from [PSY] characters by 3%",
+          "Level 4: Reduce damage taken from [PSY] characters by 5%",
+          "Level 5: Reduce damage taken from [PSY] characters by 7%"
+        ]
+      },
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 5%",
+          "Level 5: Reduce damage taken from [INT] characters by 7%"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 3 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 5 turn on this character",
+          "Level 3: Reduces Slot Bind duration by 7 turn on this character",
+          "Level 4: Reduces Slot Bind duration by 10 turn on this character",
+          "Level 5: Reduces Slot Bind completely on this character"
+        ]
+      }
+    ]
+  }
+}

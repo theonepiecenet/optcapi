@@ -1,9 +1,9 @@
 {
   "name": "부처님 센고쿠",
   "detail": {
-    "special": "적 전체에게 랜덤의 [PSY] 데미지를 입히고, 1턴 동안 모든 캐릭터의 공격력을 1.5배로 만든다.",
+    "special": "적 전체에게 랜덤의 [PSY] 데미지를 입히고, 1턴 동안 모든 캐릭터의 공격력이 1.5배가 된다.",
     "specialName": "부처의 충격파",
-    "captain": "전투가 시작될때 필살기를 2턴 줄이고, 코스트가 20이하인 캐릭터와 ‘부처님 센코쿠’의 공격력을 3배로 만든다.",
+    "captain": "전투가 시작될때 필살기를 2턴 줄이고, 코스트가 20이하인 캐릭터와 ‘부처님 센코쿠’의 공격력이 3배가 된다.",
     "specialNotes": "#{random : 30,000 : 150,000}",
     "captainNotes": "His captain ability also affects his evolved forms, his base form will NOT receive the boost. All evolved and plus evolved Sengoku characters in the team are included in the bonus."
   }

@@ -1,0 +1,38 @@
+{
+  "name": "Monkey D. Luffy, Kung Fu Training",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 3.5x after the 2nd PERFECTs in a row, by 4x after the 5th PERFECTs in a row and boosts HP of all characters by 1.5x",
+    "special": "Deals 150x character's ATK in Typeless damage to all enemies, changes adjacent orbs into Matching Orbs, boosts ATK of all characters by 1.75x, reduces any damage received above 5,656 HP by ?% and makes PERFECTs easier to hit for 2 turns",
+    "sailor": "Adds 3x character's ATK as Additional Typeless Damage",
+    "specialName": "Gum-Gum Giant Rifle: Kung Fu"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": [
+    20,
+    14
+  ],
+  "evolution": {
+    "evolution": 2503,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2502.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2502.png"
+  }
+}

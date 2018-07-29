@@ -1,0 +1,32 @@
+{
+  "name": "Dracule Mihawk",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by ?x and boosts HP of [PSY] characters by ?x",
+    "special": "Deal 50x character's ATK in typeless damage to one enemy and reduces enemy Barrier duration by 1 turn. If your crew has 3 or more [PSY] characters, changes own orb into [PSY] and amplifies the effect of orbs by 2x for 1 turn",
+    "specialName": "Hawk Eyes' Instantaneous Killing",
+    "sailor": "Boosts base ATK and HP of [PSY] and [INT] characters by 50"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": "Slasher",
+    "stars": 4,
+    "cost": null,
+    "combo": 6,
+    "slots": null,
+    "level": null,
+    "exp": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2185,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2184.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2184.png"
+  }
+}

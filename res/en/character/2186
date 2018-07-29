@@ -1,0 +1,35 @@
+{
+  "name": "Kizaru",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by ? turn at the start of the fight, boosts ATK of Shooter and Fighter characters by ?x and their HP by ?x",
+    "special": "Reduces Special Cooldown of [PSY] and [INT] characters by 1 turn and changes adjacent orbs into Matching Orbs. If your Captain is a [PSY] or [INT] character, locks the chain multiplier at 3x for 1 turn.",
+    "specialName": "Amaterasu Descent",
+    "sailor": "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 30"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Shooter",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": null,
+    "combo": 5,
+    "slots": null,
+    "level": null,
+    "exp": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2187,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2186.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2186.png"
+  }
+}

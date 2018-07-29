@@ -39,7 +39,7 @@
         "description": "회복력 상승 : 10"
       },
       {
-        "description": "잠재능력 습득 1: Reduce No Healing duration"
+        "description": "잠재능력 습득 1: 회복 무효 내성"
       },
       {
         "description": "회복력 상승 : 10"
@@ -72,7 +72,7 @@
         "description": "공격력 상승 : 20"
       },
       {
-        "description": "잠재능력 습득 2: Critical Hit"
+        "description": "잠재능력 습득 2: 크리티컬 공격"
       },
       {
         "description": "회복력 상승 : 10"
@@ -117,7 +117,7 @@
         "description": "체력 상승 : 100"
       },
       {
-        "description": "잠재능력 습득 3: Barrier Penetration"
+        "description": "잠재능력 습득 3: 배리어 관통"
       }
     ],
     "potential": [
@@ -135,10 +135,10 @@
         "Name": "크리티컬 공격",
         "description": [
           "Level 1: PERFECT 적중 시, 20% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 2: If you hit a PERFECT with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a 50% chance to deal 10% of this character's attack in extra damage"
+          "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 시의 데미지에 10%의 추가 데미지가 가산된다"
         ]
       },
       {

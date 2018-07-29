@@ -12,16 +12,19 @@
       "Fighter"
     ],
     "stars": 3,
-    "cost": null,
-    "combo": null,
-    "slots": 70,
-    "level": 355666,
-    "exp": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "cost": 15,
+    "combo": 4,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "maxHP": 2026,
+    "maxATK": 598,
+    "maxRCV": 103
   },
-  "cooldown": null,
+  "cooldown": [
+    19,
+    13
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2178.png",
