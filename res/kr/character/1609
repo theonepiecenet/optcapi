@@ -1,5 +1,5 @@
 {
-  "name": "갓 에넬, 끝나지 않은 꿈의 천적",
+  "name": "갓 에넬, 끝나지 않은 꿈의 숙적",
   "detail": {
     "captain": "일당의 최대 체력이 20% 줄어드는 대신 [RCV] 슬롯 출현율이 상승, 일당의 [RCV] 슬롯을 [유리](“beneficial”) 슬롯으로 취급하고, 이전 턴의 회복량에 따라 일당의 공격력이 2배~3.25배가 된다",
     "captainNotes": "The range of ATK boost is from 2x to 3.25x. The exact boost is calculated as 2 + <HP recovered in the previous 턴> * 0.000125 and maxes at 10k HP healed. This ignores your max HP, so it doesn't stop counting if you over-heal.",

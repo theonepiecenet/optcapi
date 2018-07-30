@@ -1,9 +1,9 @@
 {
-  "name": "샹크스 흑의의 사황",
+  "name": "샹크스, 검은 옷의 사황",
   "detail": {
-    "special": "적 전체에 캐릭터 공격력 × 35 배의 PSY데미지를 준 후 2 턴 동안 적의 방어력을 0으로한다",
-    "specialName": "패왕색 패기: 황제",
-    "captain": "[PSY]슬롯 출현율 상승!, 공격 시작 전에 체력이 많을수록 PSY의 공격이 커진다",
+    "special": "적 전체에게 캐릭터의 공격력 × 35배의 [PSY] 데미지, 방어력이 0이 된다(2턴)",
+    "specialName": "패왕색의 패기·황제",
+    "captain": "[PSY]슬롯 출현율 상승, 공격 개시 전에 체력이 많을수록 [PSY] 공격력 증가",
     "captainNotes": "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}",
     "sailor": {
       "base": "None",

@@ -1,0 +1,33 @@
+{
+  "name": "빈스모크 Reiju",
+  "detail": {
+    "captain": "Boosts ATK of all characters by ?x and their RCV by ?x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 8 times to a maximum of ?x.",
+    "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
+    "special": [
+      {
+        "description": "Delays all enemies for 1 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
+        "cooldown": [
+          null,
+          null
+        ]
+      },
+      {
+        "description": "Delays all enemies for 1 turn, reduces Paralysis, Bind, Despair and Silence duration by 1 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
+        "cooldown": [
+          null,
+          null
+        ]
+      },
+      {
+        "description": "Delays all enemies for 2 turn, reduces Paralysis, Bind, Despair and Silence duration by 2 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
+        "cooldown": [
+          null,
+          null
+        ]
+      }
+    ],
+    "specialName": "Tropical Country Flowers",
+    "specialNotes": "#{stages}",
+    "sailor": "Reduces Silence duration on this character by 3 turns"
+  }
+}

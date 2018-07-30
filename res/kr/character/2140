@@ -1,0 +1,84 @@
+{
+  "name": "‘Sparking Red’ 빈스모크 Ichiji, Germa 66 Science Military Force",
+  "detail": {
+    "captain": "Boosts ATK of [QCK] characters by 2.25x, boosts ATK of Powerhouse characters by 1.4x and the HP of Powerhouse characters by 1.2x",
+    "captainNotes": "Attack boost stacks, so a [STR] Powerhouse character has a 3.15x ATK",
+    "special": "If your captain is [QCK] or [INT] character, amplifies the effect of orbs by 2x for 1 turn. If your Captain is a Powerhouse character, reduces Increase Damage Taken duration by 3 turns",
+    "specialName": "Sparking Figure",
+    "sailor": {
+      "base": "Makes [INT] orbs “beneficial” for this character",
+      "level1": "Boosts base ATK of all characters by 50"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of all characters by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 40",
+          "Level 3: Boosts base ATK by 60",
+          "Level 4: Boosts base ATK by 80",
+          "Level 5: Boosts base ATK by 100"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

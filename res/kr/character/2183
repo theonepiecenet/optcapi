@@ -1,0 +1,34 @@
+{
+  "name": "보아 핸콕, Chaos at Marineford - ‘Pirate Empress’",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] and [INT] characters by 2.5x and their RCV by 1.2x",
+    "special": "Delays all enemies for 1 turn. If your crew has 3 or more [INT] characters, changes [BLOCK] orbs into Matching orbs and boosts ATK of [PSY] and [INT] characters by 2x for 1 turn",
+    "specialName": "Mero Mero Slave Arrow",
+    "sailor": {
+      "base": "Boosts base RCV of [PSY] and [INT] characters by 50",
+      "level1": "Makes [STR], [QCK], [DEX] and [INT] orbs “beneficial” for this character if your Captain is a [PSY] or [INT] character"
+    },
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turn on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turn on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turn on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turn on this character"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 10% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 15% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 20% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 30% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
+  }
+}

@@ -2,16 +2,16 @@
   "name": "캐번디시, White Christmas Knight",
   "detail": {
     "captain": {
-      "base": "Boosts ATK of Driven characters by 1.5x, recovers 1.5x character's RCV in HP at the end of each turn. Boosts ATK of Driven characters by 1.8x following a chain of 3 same Type attacks no lower than Good",
-      "level1": "Boosts ATK of Driven characters by 1.5x, recovers 1.6x character's RCV in HP at the end of each turn. Boosts ATK of Driven characters by 1.95x following a chain of 3 same Type attacks no lower than Good",
-      "level2": "Boosts ATK of Driven characters by 1.5x, recovers 1.7x character's RCV in HP at the end of each turn. Boosts ATK of Driven characters by 2.1x following a chain of 3 same Type attacks no lower than Good",
-      "level3": "Boosts ATK of Driven characters by 1.5x, recovers 1.8x character's RCV in HP at the end of each turn. Boosts ATK of Driven characters by 2.25x following a chain of 3 same Type attacks no lower than Good",
-      "level4": "Boosts ATK of Driven characters by 1.75x, recovers 1.9x character's RCV in HP at the end of each turn. Boosts ATK of Driven characters by 2.625x following a chain of 3 same Type attacks no lower than Good",
-      "level5": "Boosts ATK of Driven characters by 2x, recovers 2x character's RCV in HP at the end of each turn. Boosts ATK of Driven characters by 3x following a chain of 3 same Type attacks no lower than Good",
-      "level6": "Boosts ATK of Driven characters by 2.5x, recovers 2 character's RCV in HP at the end of each turn. Boosts ATK of Driven characters by 3.75x following a chain of 3 same Type attacks no lower than Good"
+      "base": "야심형 캐릭터의 공격력이 1.5배가 되고, 턴 종료 시 캐릭터의 회복력x1.5배의 체력을 회복하며, 같은 속성의 캐릭터로 3연속 GOOD 이상 공격 시 이후 야심형 캐릭터의 공격력이 1.2배 더 상승한다",
+      "level1": "야심형 캐릭터의 공격력이 1.5배가 되고, 턴 종료 시 캐릭터의 회복력x1.6배의 체력을 회복하며, 같은 속성의 캐릭터로 3연속 GOOD 이상 공격 시 이후 야심형 캐릭터의 공격력이 1.95배 더 상승한다",
+      "level2": "야심형 캐릭터의 공격력이 1.5배가 되고, 턴 종료 시 캐릭터의 회복력x1.7배의 체력을 회복하며, 같은 속성의 캐릭터로 3연속 GOOD 이상 공격 시 이후 야심형 캐릭터의 공격력이 2.1배 더 상승한다",
+      "level3": "야심형 캐릭터의 공격력이 1.5배가 되고, 턴 종료 시 캐릭터의 회복력x1.8배의 체력을 회복하며, 같은 속성의 캐릭터로 3연속 GOOD 이상 공격 시 이후 야심형 캐릭터의 공격력이 2.25배 더 상승한다",
+      "level4": "야심형 캐릭터의 공격력이 1.75배가 되고, 턴 종료 시 캐릭터의 회복력x1.9배의 체력을 회복하며, 같은 속성의 캐릭터로 3연속 GOOD 이상 공격 시 이후 야심형 캐릭터의 공격력이 2.625배 더 상승한다",
+      "level5": "야심형 캐릭터의 공격력이 2배가 되고, 턴 종료 시 캐릭터의 회복력x2배의 체력을 회복하며, 같은 속성의 캐릭터로 3연속 GOOD 이상 공격 시 이후 야심형 캐릭터의 공격력이 3배 더 상승한다",
+      "level6": "야심형 캐릭터의 공격력이 2.5배가 되고, 턴 종료 시 캐릭터의 회복력x2배의 체력을 회복하며, 같은 속성의 캐릭터로 3연속 GOOD 이상 공격 시 이후 야심형 캐릭터의 공격력이 3.75배 더 상승한다"
     },
-    "special": "Removes all positive buffs on your team, recovers 1,224 HP, changes Badly Matching orbs into Matching orbs. Boosts ATK of Driven characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for Driven characters for 1 turn",
-    "specialName": "A Star Descending from the Twinkling Night Sky",
+    "special": "일당에게 걸려 있는 모든 유리 효과를 해제하고, 체력을 1,224 회복하며, 일당의 [불리] 슬롯을 속성 일치 슬롯으로 바꾸고, 1턴 동안 야심형 캐릭터의 공격력과 슬롯의 영향을 상당히 증폭시킨다",
+    "specialName": "별이 떨어지는 밤의 반짝임",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Driven characters by 50",

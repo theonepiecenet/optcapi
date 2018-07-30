@@ -1,0 +1,83 @@
+{
+  "name": "Baron Tamago, Pedro's Nemesis",
+  "detail": {
+    "captain": "Boosts ATK of Fighter Characters by 2.75x if they have a matching orb, by 2.5x otherwise",
+    "special": "Deals 75x character's ATK in [DEX] damage to one enemy that will ignore damage negating abilities and barriers. If your Captain is a Fighter character, changes all orbs, including [BLOCK] orbs, on Fighter characters into Matching orbs",
+    "specialName": "Legs Benedict",
+    "specialNotes": "#{ignoreBarrier}",
+    "sailor": {
+      "base": "When HP is above 50% at the start of the turn, boosts ATK of Fighter characters by 125",
+      "level1": "Makes [DEX] orbs “beneficial” for Fighter characters"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs “beneficial” for Fighter characters"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 40",
+          "Level 3: Boosts base ATK by 60",
+          "Level 4: Boosts base ATK by 80",
+          "Level 5: Boosts base ATK by 120"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a Perfect with this character",
+          "Level 2: If HP is below 15% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a Perfect with this character",
+          "Level 3: If HP is below 20% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a Perfect with this character",
+          "Level 4: If HP is below 30% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a Perfect with this character",
+          "Level 5: If HP is below 50% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a Perfect with this character"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

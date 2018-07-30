@@ -1,0 +1,169 @@
+{
+  "name": "Sir Crocodile, The Pirate that Controls Drought",
+  "detail": {
+    "captain": {
+      "base": "Boosts ATK of all characters by 2x. If this character becomes your captain in the middle of an island, boosts ATK of all characters by 2.5x instead",
+      "level1": "Not Translated",
+      "level2": "Not Translated",
+      "level3": "Not Translated",
+      "level4": "Not Translated",
+      "level5": "Not Translated",
+      "level6": "Boosts ATK of all characters by 2.5x and makes [STR], [DEX] and [INT] orbs “beneficial” to all characters. If this character becomes your captain in the middle of an island, boosts ATK of all characters by 4x instead"
+    },
+    "captainNotes": "#{beneficial}",
+    "special": "Deals 30x character's ATK in [INT] damage to one enemy, boosts own ATK by 2x and swaps this unit with your captain for 1 turn",
+    "specialNotes": "This is the same type of ability as raid boss Shiki's swap. You cannot use it if another effect swaps your captain. (Such as if Shiki swaps first)",
+    "specialName": "Scorpion Tail",
+    "sailor": {
+      "base": "None",
+      "level1": "Makes [PSY] orbs “beneficial” for this character",
+      "level2": "Makes [TND] orbs “beneficial” for this character"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs “beneficial” for this character"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [TND] orbs “beneficial” for this character"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 5 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 50% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 60% chance to deal 7% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 70% chance to deal 8% of this character's attack in extra damage"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}
