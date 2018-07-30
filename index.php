@@ -72,6 +72,14 @@ $app->get('/{lang}/character/{id}', function($request, $response) {
                 }
             }
         }
+        if(!file_exists("res/thumbs/".sprintf("%04d",$id).".png"))
+        {
+            $original_arr['image']['thumb'] = "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/noimage.png";
+        }
+        if(!file_exists("res/characters/".sprintf("%04d",$id).".png"))
+        {
+            $original_arr['image']['character'] = "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/noimage.png";
+        }
         $json = json_encode($original_arr, JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);
         $response->getBody()->write($json);
     }
