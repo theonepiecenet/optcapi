@@ -6401,7 +6401,7 @@
     ]
   },
   {
-    "name": "Mr.0 바로크워크스 사장",
+    "name": "Mr.0, 바로크 워크스 사장",
     "type": [
       "INT"
     ],
@@ -6414,11 +6414,13 @@
       "Mr.0 バロックワークス社長",
       "Crocodile",
       "Mr 0",
-      "Mr.0 바로크워크스 사장"
+      "Mr.0 바로크워크스 사장",
+      "Mr.0",
+      " 바로크 워크스 사장"
     ]
   },
   {
-    "name": "크로커다일",
+    "name": "Sir 크로커다일",
     "type": [
       "INT"
     ],
@@ -6434,7 +6436,8 @@
       "Mr 0",
       "Mr. 0",
       "크로커다일",
-      "Crocodile"
+      "Crocodile",
+      "Sir 크로커다일"
     ]
   },
   {
@@ -6817,7 +6820,7 @@
     ]
   },
   {
-    "name": "Sir 크로커다일 왕의 부하 칠무해",
+    "name": "Sir 크로커다일, 왕의 부하 칠무해",
     "type": [
       "INT"
     ],
@@ -6830,7 +6833,9 @@
       "サー・クロコダイル 王下七武海",
       "Slasherdile",
       "Sir 크로커다일 왕의 부하 칠무해",
-      "Crocodile"
+      "Crocodile",
+      "Sir 크로커다일",
+      " 왕의 부하 칠무해"
     ]
   },
   {
@@ -10146,50 +10151,6 @@
     ]
   },
   {
-    "name": "토니토니 쵸파, 항해의 기록 밀짚모자 일당",
-    "type": [
-      "STR"
-    ],
-    "class": [
-      "Fighter",
-      "Powerhouse"
-    ],
-    "id": 596,
-    "aliases": [
-      "トニートニー・チョッパー 航海の記録・麦わらの一味",
-      "Log Chopper",
-      "Endless Dream Chopper",
-      "Tony Tony Chopper",
-      " Wake of an Endless Dream - Straw Hat Pirates",
-      "토니토니 쵸파 항해의 기록 밀짚모자 일당",
-      "토니토니 쵸파",
-      " Wakes of the Endless Dream",
-      " Straw Hat Crew",
-      " 항해의 기록 밀짚모자 일당"
-    ]
-  },
-  {
-    "name": "토니토니 쵸파, 항해의동경「위대한 의사」",
-    "type": [
-      "STR"
-    ],
-    "class": [
-      "Fighter",
-      "Powerhouse"
-    ],
-    "id": 597,
-    "aliases": [
-      "トニートニー・チョッパー 航海の憧れ「偉大な医者」",
-      "Log Chopper",
-      "Endless Dream Chopper",
-      "Tony Tony Chopper",
-      " A Vow in the Great Age of Pirates - Great Doctor",
-      "토니토니 쵸파 항해의동경「위대한 의사」",
-      "토니토니 쵸파",
-      " 항해의동경「위대한 의사」"
-    ]
-  },
-  {
     "name": "버기, 해적견습생",
     "type": [
       "INT"
@@ -12084,7 +12045,7 @@
     ]
   },
   {
-    "name": "블루노 사이퍼 폴 No.9",
+    "name": "블루노, 사이퍼 폴 No.9",
     "type": [
       "STR"
     ],
@@ -12096,11 +12057,13 @@
     "aliases": [
       "ブルーノ サイファーポールNo.9",
       "블루노 사이퍼 폴 No.9",
-      "Blueno"
+      "Blueno",
+      "블루노",
+      " 사이퍼 폴 No.9"
     ]
   },
   {
-    "name": "블루노 육식 사이퍼 폴 No.9",
+    "name": "블루노 육식, 사이퍼 폴 No.9",
     "type": [
       "STR"
     ],
@@ -12112,11 +12075,13 @@
     "aliases": [
       "ブルーノ 六式 サイファーポールNo.9",
       "블루노 육식 사이퍼 폴 No.9",
-      "Blueno"
+      "Blueno",
+      "블루노 육식",
+      " 사이퍼 폴 No.9"
     ]
   },
   {
-    "name": "니코 로빈 악마의 자식",
+    "name": "니코 로빈, 악마의 아이",
     "type": [
       "PSY"
     ],
@@ -12129,11 +12094,12 @@
       "ニコ・ロビン 悪魔の子",
       "니코 로빈 악마의 자식",
       "Nico Robin",
-      "니코 로빈"
+      "니코 로빈",
+      " 악마의 아이"
     ]
   },
   {
-    "name": "니코 로빈 밀짚모자 일당",
+    "name": "니코 로빈, 밀짚모자 일당",
     "type": [
       "PSY"
     ],
@@ -12146,7 +12112,8 @@
       "ニコ・ロビン 麦わらの一味",
       "니코 로빈 밀짚모자 일당",
       "Nico Robin",
-      "니코 로빈"
+      "니코 로빈",
+      " 밀짚모자 일당"
     ]
   },
   {
@@ -12464,7 +12431,7 @@
     ]
   },
   {
-    "name": "몽키 D. 루피 고무 고무 총난타",
+    "name": "몽키 D. 루피, 고무 고무 총난타",
     "type": [
       "DEX"
     ],
@@ -12477,7 +12444,8 @@
       "モンキー・D・ルフィ ゴムゴムの銃乱打 (ガトリング)",
       "몽키 D. 루피 고무 고무 총난타",
       "Monkey D. Luffy",
-      "몽키 D. 루피"
+      "몽키 D. 루피",
+      " 고무 고무 총난타"
     ]
   },
   {
@@ -12766,7 +12734,7 @@
     ]
   },
   {
-    "name": "포트거스 D.에이스 항해의 기록: 흰 수염 해적단",
+    "name": "포트거스 D.에이스, 항해의 기록: 흰 수염 해적단",
     "type": [
       "QCK"
     ],
@@ -12781,11 +12749,12 @@
       "포트거스 D. 에이스 항해의 기록: 흰수염 해적단",
       "Portgas D. Ace",
       "포트거스 D. 에이스",
-      "포트거스 D.에이스 항해의 기록: 흰 수염 해적단"
+      "포트거스 D.에이스",
+      " 항해의 기록: 흰 수염 해적단"
     ]
   },
   {
-    "name": "포트거스 D.에이스 항해의 꿈: 해적의 높은 곳",
+    "name": "포트거스 D.에이스, 항해의 꿈: 해적의 높은 곳",
     "type": [
       "QCK"
     ],
@@ -12800,7 +12769,8 @@
       "포트거스 D. 에이스 항해의 꿈: 해적의 높은 곳",
       "Portgas D. Ace",
       "포트거스 D. 에이스",
-      "포트거스 D.에이스 항해의 꿈: 해적의 높은 곳"
+      "포트거스 D.에이스",
+      " 항해의 꿈: 해적의 높은 곳"
     ]
   },
   {
@@ -12819,7 +12789,7 @@
     ]
   },
   {
-    "name": "로브 루치 어둠의 정의의 ‘CP9’",
+    "name": "로브 루치, 어둠의 정의의 ‘CP9’",
     "type": [
       "STR"
     ],
@@ -12835,11 +12805,11 @@
       "로브 루치 어둠의 정의의 CP9",
       "Rob Lucci",
       "로브 루치",
-      "로브 루치 어둠의 정의의 ‘CP9’"
+      " 어둠의 정의의 ‘CP9’"
     ]
   },
   {
-    "name": "로브 루치 역대 최강의 ‘CP9’",
+    "name": "로브 루치, 역대 최강의 ‘CP9’",
     "type": [
       "STR"
     ],
@@ -12855,11 +12825,11 @@
       "로브 루치 역대 최강의 CP9",
       "Rob Lucci",
       "로브 루치",
-      "로브 루치 역대 최강의 ‘CP9’"
+      " 역대 최강의 ‘CP9’"
     ]
   },
   {
-    "name": "카쿠 어둠의 정의의 ‘CP9’",
+    "name": "카쿠, 어둠의 정의의 ‘CP9’",
     "type": [
       "DEX"
     ],
@@ -12873,7 +12843,7 @@
       "카쿠 어둠의 정의의 CP9",
       "Kaku",
       "카쿠",
-      "카쿠 어둠의 정의의 ‘CP9’"
+      " 어둠의 정의의 ‘CP9’"
     ]
   },
   {
@@ -13521,7 +13491,7 @@
     ]
   },
   {
-    "name": "겐씨",
+    "name": "겐 씨",
     "type": [
       "STR"
     ],
@@ -13533,7 +13503,8 @@
     "aliases": [
       "ゲンさん",
       "겐씨",
-      "Genzo"
+      "Genzo",
+      "겐 씨"
     ]
   },
   {
@@ -13571,7 +13542,7 @@
     ]
   },
   {
-    "name": "Dr. 히루루크 돌팔이 의사",
+    "name": "Dr. 히루루크, 돌팔이 의사",
     "type": [
       "PSY"
     ],
@@ -13586,7 +13557,9 @@
       " Quack Doctor",
       "Dr Hiruruk",
       "Dr. 히루루크 돌팔이 의사",
-      "Dr. Hiluluk"
+      "Dr. Hiluluk",
+      "Dr. 히루루크",
+      " 돌팔이 의사"
     ]
   },
   {
@@ -13622,7 +13595,7 @@
     ]
   },
   {
-    "name": "양파 & 피망 & 당근",
+    "name": "양파&피망&당근",
     "type": [
       "QCK"
     ],
@@ -13637,11 +13610,12 @@
       "Tamanegi",
       " Piiman & Ninjin",
       "양파 & 피망 & 당근",
-      "우솝 Pirates"
+      "우솝 Pirates",
+      "양파&피망&당근"
     ]
   },
   {
-    "name": "양파 & 피망 & 당근 우솝 해적단",
+    "name": "양파&피망&당근, 우솝 해적단",
     "type": [
       "QCK"
     ],
@@ -13656,7 +13630,9 @@
       "Tamanegi",
       " Piiman & Ninjin",
       "양파 & 피망 & 당근 우솝 해적단",
-      "우솝 Pirates"
+      "우솝 Pirates",
+      "양파&피망&당근",
+      " 우솝 해적단"
     ]
   },
   {
@@ -13677,7 +13653,7 @@
     ]
   },
   {
-    "name": "아이스버그 W7 시장 & 갈레라 컴퍼니 사장",
+    "name": "아이스버그, W7 시장 & 갈레라 컴퍼니 사장",
     "type": [
       "INT"
     ],
@@ -13692,11 +13668,12 @@
       " Mayor of W7 and President of Galley-La Company",
       "아이스버그 W7 시장 & 갈레라 컴퍼니 사장",
       "Iceburg",
-      "아이스버그"
+      "아이스버그",
+      " W7 시장 & 갈레라 컴퍼니 사장"
     ]
   },
   {
-    "name": "몽키 D. 루피 희망의 별",
+    "name": "몽키 D. 루피, 희망의 별",
     "type": [
       "INT"
     ],
@@ -13713,11 +13690,12 @@
       "Raid NM 루피",
       "Raid 루피",
       "Monkey D. Luffy",
-      "몽키 D. 루피"
+      "몽키 D. 루피",
+      " 희망의 별"
     ]
   },
   {
-    "name": "나이트메어 루피 희망의 별",
+    "name": "나이트메어 루피, 희망의 전사",
     "type": [
       "INT"
     ],
@@ -13734,7 +13712,9 @@
       "Raid NM 루피",
       "Raid 루피",
       "Monkey D. Luffy",
-      "몽키 D. 루피"
+      "몽키 D. 루피",
+      "나이트메어 루피",
+      " 희망의 전사"
     ]
   },
   {
@@ -13754,7 +13734,7 @@
     ]
   },
   {
-    "name": "블리드, 페트페트 열매 능력자",
+    "name": "블리드, 페트페트 열매의 능력자",
     "type": [
       "INT"
     ],
@@ -13769,7 +13749,7 @@
       "Breed",
       "브리드",
       "블리드",
-      " 페트페트 열매 능력자"
+      " 페트페트 열매의 능력자"
     ]
   },
   {
@@ -13791,7 +13771,7 @@
     ]
   },
   {
-    "name": "씨 라판, 해수 해적단",
+    "name": "씨라판, 해수 해적단",
     "type": [
       "QCK"
     ],
@@ -13809,7 +13789,7 @@
       "씨 라판 해수 해적단",
       "Lapin",
       "라팡",
-      "씨 라판",
+      "씨라판",
       " 해수 해적단"
     ]
   },
@@ -21958,7 +21938,7 @@
     ]
   },
   {
-    "name": "포트거스 D.에이스, 처형대의 ‘불주먹’",
+    "name": "포트거스 D.에이스, 사형대의 ‘불주먹’",
     "type": [
       "STR"
     ],
@@ -21974,7 +21954,7 @@
       " 처형대의 '불주먹'",
       "Portgas D. Ace",
       "포트거스 D.에이스",
-      " 처형대의 ‘불주먹’"
+      " 사형대의 ‘불주먹’"
     ]
   },
   {
@@ -36451,7 +36431,7 @@
     ]
   },
   {
-    "name": "세뇨르 핑크, 돈키호테 패밀리 Fighter Group",
+    "name": "세뇨르 핑크, 돈키호테 패밀리 격투집단",
     "type": [
       "QCK"
     ],
@@ -36467,7 +36447,7 @@
       "Señor Pink",
       "Se챰or Pink",
       "세뇨르 핑크",
-      " 돈키호테 패밀리 Fighter Group"
+      " 돈키호테 패밀리 격투집단"
     ]
   },
   {
@@ -40133,44 +40113,6 @@
     ]
   },
   {
-    "name": "몽키 D. 루피, 쿵후 수행",
-    "type": [
-      "DEX"
-    ],
-    "class": [
-      "Fighter",
-      "Free Spirit"
-    ],
-    "id": 2502,
-    "aliases": [
-      "Kung Fu Luffy",
-      "KFL",
-      "LINE Luffy",
-      "The Hero Global Needed",
-      "몽키 D. 루피",
-      " 쿵후 수행"
-    ]
-  },
-  {
-    "name": "몽키 D. 루피, 쿵후왕으로의 길",
-    "type": [
-      "DEX"
-    ],
-    "class": [
-      "Fighter",
-      "Free Spirit"
-    ],
-    "id": 2503,
-    "aliases": [
-      "Kung Fu Luffy",
-      "KFL",
-      "LINE Luffy",
-      "The Hero Global Needed",
-      "몽키 D. 루피",
-      " 쿵후왕으로의 길"
-    ]
-  },
-  {
     "name": "크로커다일 & 다즈, Revived Duo",
     "type": [
       "DEX",
@@ -40195,423 +40137,93 @@
     ]
   },
   {
-    "name": "[Dual Unit] 스모커, The Marines Chasing the Strawhats",
+    "name": "토니토니 쵸파, 끝나지 않는 꿈의 항로·밀짚모자 일당",
     "type": [
-      "INT"
+      "Type"
     ],
     "class": [
-      "Striker",
-      "Driven"
-    ],
-    "id": 5000,
-    "aliases": [
-      "[Dual Unit] 스모커",
-      " The Marines Chasing the Strawhats"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 타시기, The Marines Chasing the Strawhats",
-    "type": [
-      "PSY"
-    ],
-    "class": [
-      "Slasher",
-      "Cerebral"
-    ],
-    "id": 5001,
-    "aliases": [
-      "[Dual Unit] 타시기",
-      " The Marines Chasing the Strawhats"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 스모커 & 타시기, The Marines Chasing the Strawhats",
-    "type": [
-      "INT"
-    ],
-    "class": [
-      "Striker",
-      "Slasher"
-    ],
-    "id": 5002,
-    "aliases": [
-      "[Dual Unit] 스모커 & 타시기",
-      " The Marines Chasing the Strawhats"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 스모커 & 타시기, The Marines Chasing the Strawhats",
-    "type": [
-      "PSY"
-    ],
-    "class": [
-      "Striker",
-      "Slasher"
-    ],
-    "id": 5003,
-    "aliases": [
-      "[Dual Unit] 스모커 & 타시기",
-      " The Marines Chasing the Strawhats"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 몽키 D. 루피, Reunion at War",
-    "type": [
-      "QCK"
-    ],
-    "class": [
-      "Free Spirit",
-      "Fighter"
-    ],
-    "id": 5004,
-    "aliases": [
-      "[Dual Unit] 몽키 D. 루피",
-      " Reunion at War"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 몽키 D. 루피, Pirates Rising",
-    "type": [
-      "QCK"
-    ],
-    "class": [
-      "Free Spirit",
-      "Fighter"
-    ],
-    "id": 5005,
-    "aliases": [
-      "[Dual Unit] 몽키 D. 루피",
-      " Pirates Rising"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 포트거스 D.에이스, Reunion at War",
-    "type": [
-      "STR"
-    ],
-    "class": [
-      "Free Spirit",
-      "Shooter"
-    ],
-    "id": 5006,
-    "aliases": [
-      "[Dual Unit] 포트거스 D.에이스",
-      " Reunion at War"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 포트거스 D.에이스, Pirates Rising",
-    "type": [
-      "STR"
-    ],
-    "class": [
-      "Free Spirit",
-      "Shooter"
+      "Class1",
+      "Class2"
     ],
     "id": 5007,
     "aliases": [
-      "[Dual Unit] 포트거스 D.에이스",
-      " Pirates Rising"
+      "토니토니 쵸파",
+      " 끝나지 않는 꿈의 항로·밀짚모자 일당"
     ]
   },
   {
-    "name": "[Dual Unit] 루피 & 에이스, Reunion at War",
+    "name": "토니토니 쵸파, 대해적시대에 대한 맹세 ‘위대한 의사’",
     "type": [
-      "QCK"
+      "STR"
     ],
     "class": [
-      "Free Spirit",
-      "Fighter"
+      "Fighter",
+      "Powerhouse"
     ],
     "id": 5008,
     "aliases": [
-      "[Dual Unit] 루피 & 에이스",
-      " Reunion at War"
+      "토니토니 쵸파",
+      " 대해적시대에 대한 맹세 ‘위대한 의사’"
     ]
   },
   {
-    "name": "[Dual Unit] 루피 & 에이스, Reunion at War",
+    "name": "돈키호테 도플라밍고, 나라를 멸하는 실",
     "type": [
-      "STR"
+      "INT"
     ],
     "class": [
-      "Free Spirit",
-      "Fighter"
-    ],
-    "id": 5009,
-    "aliases": [
-      "[Dual Unit] 루피 & 에이스",
-      " Reunion at War"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 루피 & 에이스, Pirates Rising",
-    "type": [
-      "QCK"
-    ],
-    "class": [
-      "Free Spirit",
-      "Fighter"
-    ],
-    "id": 5010,
-    "aliases": [
-      "[Dual Unit] 루피 & 에이스",
-      " Pirates Rising"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 루피 & 에이스, Pirates Rising",
-    "type": [
-      "STR"
-    ],
-    "class": [
-      "Free Spirit",
-      "Fighter"
+      "Driven",
+      "Cerebral"
     ],
     "id": 5011,
     "aliases": [
-      "[Dual Unit] 루피 & 에이스",
-      " Pirates Rising"
+      "돈키호테 도플라밍고",
+      " 나라를 멸하는 실"
     ]
   },
   {
-    "name": "[Dual Unit] 상디, Strawhat Pirates Unmatched Duo",
+    "name": "돈키호테 도플라밍고, 세계를 멸하는 실",
     "type": [
-      "PSY"
+      "INT"
     ],
     "class": [
-      "Fighter",
-      "Powerhouse"
+      "Driven",
+      "Cerebral"
     ],
     "id": 5012,
     "aliases": [
-      "[Dual Unit] 상디",
-      " Strawhat Pirates Unmatched Duo"
+      "돈키호테 도플라밍고",
+      " 세계를 멸하는 실"
     ]
   },
   {
-    "name": "[Dual Unit] 조로, Strawhat Pirates Unmatched Duo",
+    "name": "몽키 D. 루피, 쿵후 수행",
     "type": [
       "DEX"
     ],
     "class": [
-      "Slasher",
-      "Driven"
+      "Fighter",
+      "Free Spirit"
     ],
     "id": 5013,
     "aliases": [
-      "[Dual Unit] 조로",
-      " Strawhat Pirates Unmatched Duo"
+      "몽키 D. 루피",
+      " 쿵후 수행"
     ]
   },
   {
-    "name": "[Dual Unit] 상디 & 조로, Strawhat Pirates Unmatched Duo",
+    "name": "몽키 D. 루피, 쿵후왕으로의 길",
     "type": [
-      "PSY"
+      "DEX"
     ],
     "class": [
       "Fighter",
-      "Slasher"
+      "Free Spirit"
     ],
     "id": 5014,
     "aliases": [
-      "[Dual Unit] 상디 & 조로",
-      " Strawhat Pirates Unmatched Duo"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 상디 & 조로, Strawhat Pirates Unmatched Duo",
-    "type": [
-      "DEX"
-    ],
-    "class": [
-      "Fighter",
-      "Slasher"
-    ],
-    "id": 5015,
-    "aliases": [
-      "[Dual Unit] 상디 & 조로",
-      " Strawhat Pirates Unmatched Duo"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 흰 수염, The Foundation of the Paramount War",
-    "type": [
-      "PSY"
-    ],
-    "class": [
-      "Striker",
-      "Powerhouse"
-    ],
-    "id": 5016,
-    "aliases": [
-      "[Dual Unit] 흰 수염",
-      " The Foundation of the Paramount War"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 흰 수염, The Fierce Battle at the Paramount War",
-    "type": [
-      "PSY"
-    ],
-    "class": [
-      "Striker",
-      "Powerhouse"
-    ],
-    "id": 5017,
-    "aliases": [
-      "[Dual Unit] 흰 수염",
-      " The Fierce Battle at the Paramount War"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 마르코, The Foundation of the Paramount War",
-    "type": [
-      "INT"
-    ],
-    "class": [
-      "Fighter",
-      "Powerhouse"
-    ],
-    "id": 5018,
-    "aliases": [
-      "[Dual Unit] 마르코",
-      " The Foundation of the Paramount War"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 마르코, The Fierce Battle at the Paramount War",
-    "type": [
-      "INT"
-    ],
-    "class": [
-      "Fighter",
-      "Powerhouse"
-    ],
-    "id": 5019,
-    "aliases": [
-      "[Dual Unit] 마르코",
-      " The Fierce Battle at the Paramount War"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 흰 수염 & 마르코, The Foundation of the Paramount War",
-    "type": [
-      "PSY"
-    ],
-    "class": [
-      "Striker",
-      "Powerhouse"
-    ],
-    "id": 5020,
-    "aliases": [
-      "[Dual Unit] 흰 수염 & 마르코",
-      " The Foundation of the Paramount War"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 흰 수염 & 마르코, The Foundation of the Paramount War",
-    "type": [
-      "INT"
-    ],
-    "class": [
-      "Striker",
-      "Powerhouse"
-    ],
-    "id": 5021,
-    "aliases": [
-      "[Dual Unit] 흰 수염 & 마르코",
-      " The Foundation of the Paramount War"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 흰 수염 & 마르코, The Fierce Battle at the Paramount War",
-    "type": [
-      "PSY"
-    ],
-    "class": [
-      "Striker",
-      "Powerhouse"
-    ],
-    "id": 5022,
-    "aliases": [
-      "[Dual Unit] 흰 수염 & 마르코",
-      " The Fierce Battle at the Paramount War"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 흰 수염 & 마르코, The Fierce Battle at the Paramount War",
-    "type": [
-      "INT"
-    ],
-    "class": [
-      "Striker",
-      "Powerhouse"
-    ],
-    "id": 5023,
-    "aliases": [
-      "[Dual Unit] 흰 수염 & 마르코",
-      " The Fierce Battle at the Paramount War"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 크로커다일, Revived Pirate",
-    "type": [
-      "DEX"
-    ],
-    "class": [
-      "Striker",
-      "Driven"
-    ],
-    "id": 5024,
-    "aliases": [
-      "[Dual Unit] 크로커다일",
-      " Revived Pirate"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 다즈, Revived Assassin",
-    "type": [
-      "STR"
-    ],
-    "class": [
-      "Slasher",
-      "Cerebral"
-    ],
-    "id": 5025,
-    "aliases": [
-      "[Dual Unit] 다즈",
-      " Revived Assassin"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 크로커다일 & 다즈, Revived Duo",
-    "type": [
-      "DEX"
-    ],
-    "class": [
-      "Striker",
-      "Slasher"
-    ],
-    "id": 5026,
-    "aliases": [
-      "[Dual Unit] 크로커다일 & 다즈",
-      " Revived Duo"
-    ]
-  },
-  {
-    "name": "[Dual Unit] 크로커다일 & 다즈, Revived Duo",
-    "type": [
-      "STR"
-    ],
-    "class": [
-      "Striker",
-      "Slasher"
-    ],
-    "id": 5027,
-    "aliases": [
-      "[Dual Unit] 크로커다일 & 다즈",
-      " Revived Duo"
+      "몽키 D. 루피",
+      " 쿵후왕으로의 길"
     ]
   }
 ]
