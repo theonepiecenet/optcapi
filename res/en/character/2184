@@ -1,5 +1,5 @@
 {
-  "name": "Dracule Mihawk",
+  "name": "Dracule Mihawk, War at Marineford - \"Swordsman\"",
   "detail": {
     "captain": "Boosts ATK of Slasher characters by ?x and boosts HP of [PSY] characters by ?x",
     "special": "Deal 50x character's ATK in typeless damage to one enemy and reduces enemy Barrier duration by 1 turn. If your crew has 3 or more [PSY] characters, changes own orb into [PSY] and amplifies the effect of orbs by 2x for 1 turn",
@@ -10,16 +10,16 @@
     "type": "PSY",
     "class": "Slasher",
     "stars": 4,
-    "cost": null,
+    "cost": 15,
     "combo": 6,
-    "slots": null,
-    "level": null,
-    "exp": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
     "maxHP": null,
     "maxATK": null,
     "maxRCV": null
   },
-  "cooldown": null,
+  "cooldown": 21,
   "evolution": {
     "evolution": 2185,
     "evolvers": []

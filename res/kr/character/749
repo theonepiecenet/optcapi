@@ -1,10 +1,10 @@
 {
-  "name": "카쿠 어둠의 정의의 ‘CP9’",
+  "name": "카쿠, 어둠의 정의의 ‘CP9’",
   "detail": {
-    "special": "Deals random DEX damage to all enemies, randomizes all orbs",
-    "specialName": "Tempest Kick: Sky Slicer",
+    "special": "적 전체에 랜덤 [DEX] 데미지를 주고, 랜덤으로 슬롯을 바꾼다",
+    "specialName": "‘람각’ 주단",
     "specialNotes": "#{random : 10,000 : 90,000}",
-    "captain": "Boosts ATK of DEX characters by 1.5x, boosts damage of DEX specials by 1.5x",
+    "captain": "[DEX] 캐릭터의 공격력이 1.5배가 되고, 필살기로 주는 [DEX] 데미지가 1.5배가 된다",
     "captainNotes": "#{noFixedPerc}"
   }
 }
