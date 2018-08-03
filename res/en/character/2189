@@ -8,6 +8,53 @@
       "base": "When any other [PSY] or [INT] character uses a special, reduces own cooldown by 3 turns",
       "level1": "Makes [TND] orbs \"beneficial\" for [PSY] and [INT] characters"
     },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [TND] orbs \"beneficial\" for [PSY] and [INT] characters"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
     "potential": [
       {
         "Name": "Critical Hit",
@@ -43,14 +90,23 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 2391,
+    "maxATK": 1261,
+    "maxRCV": 362
   },
-  "cooldown": null,
+  "cooldown": [
+    17,
+    12
+  ],
   "evolve": {
     "evolution": 2189,
-    "evolvers": [],
+    "evolvers": [
+      83,
+      266,
+      99,
+      304,
+      104
+    ],
     "from": 2188
   },
   "image": {

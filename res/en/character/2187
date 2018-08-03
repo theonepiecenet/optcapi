@@ -1,5 +1,5 @@
 {
-  "name": "Boraslino, Chaos at Marineford - \"Navy Admiral\"",
+  "name": "Borsalino, Chaos at Marineford - \"Navy Admiral\"",
   "detail": {
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Shooter and Fighter characters by 2.25x and their HP by 1.25x",
     "special": "Reduces Special Cooldown of [PSY] and [INT] characters by 1 turn and changes adjacent orbs into Matching Orbs. If your Captain is a [PSY] or [INT] character, locks the chain multiplier at 3x for 1 turn.",
@@ -8,6 +8,53 @@
       "base": "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 30",
       "level1": "Makes [INT] orbs \"beneficial\" for this character"
     },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [INT] orbs \"beneficial\" for this character"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
     "potential": [
       {
         "Name": "[INT] Damage Reduction",
@@ -43,14 +90,23 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 2432,
+    "maxATK": 1341,
+    "maxRCV": 312
   },
-  "cooldown": 18,
+  "cooldown": [
+    18,
+    12
+  ],
   "evolve": {
     "evolution": 2187,
-    "evolvers": [],
+    "evolvers": [
+      83,
+      266,
+      98,
+      303,
+      103
+    ],
     "from": 2186
   },
   "image": {

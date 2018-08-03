@@ -4,26 +4,76 @@
     "captain": "Boosts ATK of Shooter characters by 2.5x and recovers 2x character's RCV in HP at the end of each turn",
     "special": "Reduces enemy's Threshold Damage Reduction and Percent Damage Reduction duration by 3 turns and changes adjacent orbs into [RCV] orbs. If there are 2 enemies or more on the stage, instantly defeats one enemy with HP equal to or below 350x character's ATK, cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers otherwise",
     "specialName": "Erasing Palm Strike",
-    "sailor": "Boosts base HP of Shooter characters by 75",
+    "sailor": {
+      "base": "Boosts base HP of Shooter characters by 75",
+      "level1": "Makes [PSY] orbs \"beneficial\" for Shooter characters"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for Shooter characters"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
     "potential": [
       {
         "Name": "Reduce No Healing duration",
         "description": [
-          "Level 1: Reduces No Healing duration by ? turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 1 turn",
+          "Level 3: Reduces No Healing duration by 1 turn",
+          "Level 4: Reduces No Healing duration by 2 turns",
+          "Level 5: Reduces No Healing duration by 3 turns"
         ]
       },
       {
         "Name": "Barrier Penetration",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
     ]
@@ -35,19 +85,28 @@
       "Cerebral"
     ],
     "stars": 5,
-    "cost": null,
-    "combo": null,
-    "slots": null,
+    "cost": 40,
+    "combo": 5,
+    "slots": 4,
     "level": 99,
-    "exp": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "exp": 4000000,
+    "maxHP": 3129,
+    "maxATK": 1382,
+    "maxRCV": 192
   },
-  "cooldown": null,
+  "cooldown": [
+    28,
+    14
+  ],
   "evolve": {
     "evolution": 2193,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      98,
+      1180,
+      303,
+      103
+    ],
     "from": 2192
   },
   "image": {

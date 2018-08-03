@@ -1,7 +1,7 @@
 {
   "name": "Boa Hancock, War at Marineford - \"Pirate Empress\"",
   "detail": {
-    "captain": "Boosts ATK of [PSY] and [INT] characters by ?x and their RCV by ?x",
+    "captain": "Boosts ATK of [PSY] and [INT] characters by 2.25x",
     "special": "Delays all enemies for 1 turn. If your crew has 3 or more [INT] characters, changes [BLOCK] orbs into Matching orbs and boosts ATK of [PSY] and [INT] characters by 2x for 1 turn",
     "specialName": "Mero Mero Slave Arrow",
     "sailor": "Boosts base RCV of [PSY] and [INT] characters by 50"
@@ -18,14 +18,23 @@
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 902,
+    "maxATK": 647,
+    "maxRCV": 221
   },
-  "cooldown": 20,
+  "cooldown": [
+    20,
+    14
+  ],
   "evolution": {
     "evolution": 2183,
-    "evolvers": []
+    "evolvers": [
+      88,
+      99,
+      1180,
+      304,
+      104
+    ]
   },
   "evolve": [],
   "image": {

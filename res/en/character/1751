@@ -1,7 +1,7 @@
 {
   "name": "\"Warlord of the Sea\" Trafalgar Law, Aim for \"Joker\"",
   "detail": {
-    "captain": "Boosts ATK of Striker characters by 3x and heals for .5x his RCV at the end of the turn each time you hit a PERFECT",
+    "captain": "Boosts ATK of Striker characters by 3x and recovers .5x his RCV at the end of the turn each time you hit a PERFECT",
     "special": [
       {
         "description": "Deals 50,000 fixed damage to one enemy and for Striker characters, amplifies the effect of orbs by 1.75x for 1 turn",
@@ -122,11 +122,11 @@
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below 10% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 15% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 20% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 30% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 50% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: If HP is below 10% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
@@ -146,7 +146,7 @@
           "Level 2: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
           "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
           "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers at the start of the turn"
+          "Level 5: This character's normal attack will ignore barriers"
         ]
       }
     ]

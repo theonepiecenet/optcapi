@@ -1,7 +1,7 @@
 {
-  "name": "Swimsuit Rebecca",
+  "name": "Rebecca, Peppy Summer Girl",
   "detail": {
-    "captain": "Boosts ATK of Striker and Slasher characters proportionally to the crew's current HP, by ?x at max and reduce damage received by ?%",
+    "captain": "Boosts ATK of Striker and Slasher characters proportionally to the crew's current HP, by 2.25x at max and reduce damage received by 7%",
     "special": "Reduces enemy's Threshold Damage Reduction duration by 5 turns and boosts ATK of Slasher and Striker characters by 1.75x for 1 turn. If your Captain is a Slasher or Striker character, reduces RCV DOWN and Increase Damage Taken duration by 3 turns.",
     "specialName": "Heart-Throbbing Beach Volleyball",
     "sailor": "If your Captain is a Slasher or Striker character, reduces Blindness duration by 5 turns"
@@ -13,19 +13,28 @@
       "Slasher"
     ],
     "stars": 4,
-    "cost": null,
+    "cost": 13,
     "combo": 5,
-    "slots": null,
-    "level": null,
-    "exp": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 901,
+    "maxATK": 501,
+    "maxRCV": 131
   },
-  "cooldown": null,
+  "cooldown": [
+    12,
+    12
+  ],
   "evolution": {
     "evolution": 2191,
-    "evolvers": []
+    "evolvers": [
+      117,
+      88,
+      93,
+      99,
+      104
+    ]
   },
   "evolve": [],
   "image": {

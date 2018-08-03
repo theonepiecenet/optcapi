@@ -17,7 +17,7 @@
     },
     "potential": [
       {
-        "Name": "[PSY] Damage Reduction",
+        "Name": "[PSY] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [PSY] characters by 1%",
           "Level 2: Reduce damage taken from [PSY] characters by 2%",
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "Name": "[INT] Damage Reduction",
+        "Name": "[INT] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [INT] characters by 1%",
           "Level 2: Reduce damage taken from [INT] characters by 2%",
@@ -45,6 +45,98 @@
           "Level 4: Reduces Slot Bind duration by 10 turn on this character",
           "Level 5: Reduces Slot Bind completely on this character"
         ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 2: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Boosts base HP by 120"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Completely resists Paralysis and Silence on this character"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 3: Slot Bind Self-reduction"
       }
     ]
   }

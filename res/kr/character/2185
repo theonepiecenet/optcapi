@@ -12,11 +12,11 @@
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by 30",
-          "Level 2: Boosts base ATK by 60",
-          "Level 3: Boosts base ATK by 90",
-          "Level 4: Boosts base ATK by 120",
-          "Level 5: Boosts base ATK by 150"
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : 60",
+          "Level 3: 공격력 상승 : 90",
+          "Level 4: 공격력 상승 : 120",
+          "Level 5: 공격력 상승 : 150"
         ]
       },
       {
@@ -30,6 +30,53 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts this character's attack against [INT] characters by 1.1x"
+      },
+      {
+        "description": "Boosts base HP by 55"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 65"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ]
   }
 }

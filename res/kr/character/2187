@@ -10,7 +10,7 @@
     },
     "potential": [
       {
-        "Name": "[INT] Damage Reduction",
+        "Name": "[INT] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [INT] characters by 1%",
           "Level 2: Reduce damage taken from [INT] characters by 2%",
@@ -28,6 +28,53 @@
           "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
           "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [INT] orbs “beneficial” for this character"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
       }
     ]
   }

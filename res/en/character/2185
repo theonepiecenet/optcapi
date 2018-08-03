@@ -8,6 +8,53 @@
       "base": "Boosts base ATK and HP of [PSY] and [INT] characters by 50",
       "level1": "Boosts this character's attack against [INT] characters by 1.1x"
     },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts this character's attack against [INT] characters by 1.1x"
+      },
+      {
+        "description": "Boosts base HP by 55"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 65"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
     "potential": [
       {
         "Name": "Enrage",
@@ -41,14 +88,23 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 2859,
+    "maxATK": 1381,
+    "maxRCV": 173
   },
-  "cooldown": 21,
+  "cooldown": [
+    21,
+    15
+  ],
   "evolve": {
     "evolution": 2185,
-    "evolvers": [],
+    "evolvers": [
+      87,
+      98,
+      1180,
+      303,
+      103
+    ],
     "from": 2184
   },
   "image": {

@@ -1,7 +1,7 @@
 {
   "name": "Dracule Mihawk, War at Marineford - \"Swordsman\"",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters by ?x and boosts HP of [PSY] characters by ?x",
+    "captain": "Boosts ATK of Slasher characters by 2x",
     "special": "Deal 50x character's ATK in typeless damage to one enemy and reduces enemy Barrier duration by 1 turn. If your crew has 3 or more [PSY] characters, changes own orb into [PSY] and amplifies the effect of orbs by 2x for 1 turn",
     "specialName": "Hawk Eyes' Instantaneous Killing",
     "sailor": "Boosts base ATK and HP of [PSY] and [INT] characters by 50"
@@ -15,14 +15,23 @@
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1020,
+    "maxATK": 690,
+    "maxRCV": 32
   },
-  "cooldown": 21,
+  "cooldown": [
+    21,
+    15
+  ],
   "evolution": {
     "evolution": 2185,
-    "evolvers": []
+    "evolvers": [
+      87,
+      98,
+      1180,
+      303,
+      103
+    ]
   },
   "evolve": [],
   "image": {

@@ -1,7 +1,7 @@
 {
   "name": "Strawberry, War at Marineford - \"Vice Admiral\"",
   "detail": {
-    "captain": "Boosts ATK of Slasher and Cerebral characters by ?x and reduce damage received by ?%",
+    "captain": "Boosts ATK of Slasher and Cerebral characters by 2x",
     "special": "Reduces Bind, Despair, ATK DOWN and Chain Multiplier Limit duration by 2 turns, reduces enemy Barrier duration by 1 turn and deals 50,000 fixed damage to one enemy",
     "specialName": "Heartful Twin Slashes",
     "sailor": "When any other [PSY] or [INT] character uses a special, reduces own cooldown by 3 turns"
@@ -18,14 +18,23 @@
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1001,
+    "maxATK": 652,
+    "maxRCV": 181
   },
-  "cooldown": null,
+  "cooldown": [
+    17,
+    12
+  ],
   "evolution": {
     "evolution": 2189,
-    "evolvers": []
+    "evolvers": [
+      83,
+      266,
+      99,
+      304,
+      104
+    ]
   },
   "evolve": [],
   "image": {
