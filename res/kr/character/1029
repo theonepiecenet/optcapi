@@ -3,7 +3,7 @@
   "detail": {
     "captain": "Boosts ATK of all characters by 2.5x after the 21st hit in the chain and by 3.5x after the 36th hit",
     "specialName": "Rah-Rah-Rah Rampage",
-    "special": "Deals random damage to all enemies, boosts ATK of all characters by 1.75x after 30th hit in the chain for 3 턴.",
+    "special": "Deals random damage to all enemies, boosts ATK of all characters by 1.75x after 30th hit in the chain for 3 turns.",
     "specialNotes": "Buffalo's Captain as a Special essentially",
     "sailor": {
       "base": "None",
@@ -13,54 +13,54 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Fighter characters by 50"
+        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of Fighter characters by 50"
       },
       {
-        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+        "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base HP by 80"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [DEX] orbs “beneficial” for Fighter characters"
+        "description": "선원 효과 추가 2: Makes [DEX] orbs “beneficial” for Fighter characters"
       },
       {
-        "description": "Boosts base RCV by 40"
+        "description": "회복력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 90"
+        "description": "체력 상승 : 90"
       },
       {
-        "description": "Acquire Potential 2: Cooldown Reduction"
+        "description": "잠재능력 습득 2: Cooldown Reduction"
       }
     ],
     "potential": [
       {
-        "Name": "[QCK] Damage Reduction",
+        "Name": "[QCK] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [QCK] characters by 1%",
           "Level 2: Reduce damage taken from [QCK] characters by ?%",

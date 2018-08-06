@@ -2,9 +2,9 @@
   "name": "빈스모크 욘디, 과학전투부대 제르마 66",
   "detail": {
     "captain": "[DEX]캐릭터의 공격력이 2.25배 증가, 강인 캐릭터의 공격력이 1.3배 증가하고 체력이 1.2배 증가한다.(효과 중복가능)",
+    "captainNotes": "Attack boost stacks, so a [DEX] Powerhouse character has a 2.925x ATK",
     "special": "선장이 DEX 또는 PSY 캐릭터인 경우 1턴 동안 지연 중인 적에게 공격력 1.75배로 증가, 선장이 강인 캐릭터인 경우 2턴 동안 캐릭터 공격력 40배의 무속성 데미지를 추가한다.",
     "specialName": "버스트 엔드 킥",
-    "captainNotes": "Attack boost stacks, so a [DEX] Powerhouse character has a 2.925x ATK",
     "specialNotes": "#{additionalDamage : 40x}",
     "sailor": {
       "base": "Makes [PSY] orbs “beneficial” for this character",
@@ -13,54 +13,54 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+        "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base RCV by 25"
+        "description": "회복력 상승 : 25"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Boosts base HP by 70"
+        "description": "체력 상승 : 70"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base HP of all characters by 100"
+        "description": "선원 효과 추가 1: Boosts base HP of all characters by 100"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 2: Slot Bind Self-reduction"
       }
     ],
     "potential": [
       {
-        "Name": "[QCK] Damage Reduction",
+        "Name": "[QCK] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [QCK] characters by 1%",
           "Level 2: Reduce damage taken from [QCK] characters by 2%",

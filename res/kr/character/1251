@@ -1,18 +1,18 @@
 {
   "name": "마르코, 부활의 불꽃 흰 수염 해적단",
   "detail": {
-    "captain": "Boosts ATK of Powerhouse characters by 2x and Recovers a variable amount of character's RCV in HP at the end of each 턴 depending on how many Powerhouse characters are on your team",
-    "captainNotes": "1x Powerhouse: .5x RCV | 2x Powerhouse: .75x RCV | 3x Powerhouse: 1x RCV | 4x Powerhouse: 1.5x RCV | 5x Powerhouse: 2x RCV | 6x Powerhouse: 2.5x RCV",
+    "captain": "Boosts ATK of Powerhouse characters by 2x and Recovers a variable amount of character's RCV in HP at the end of each turn depending on how many Powerhouse characters are on your team",
+    "captainNotes": "1x Powerhouse: .5x RCV | 2x Powerhouse: .75x RCV | 3x Powerhouse: 1x RCV | 4x Powerhouse: 1.5x RCV | 5x Powerhouse: 2x RCV | 6x Powerhouse: 3.5x RCV",
     "special": [
       {
-        "description": "Randomizes all orbs, and boosts ATK of Powerhouse characters by 1.5x for 1 턴",
+        "description": "Randomizes all orbs and boosts ATK of Powerhouse characters by 1.5x for 1 turn",
         "cooldown": [
           21,
           6
         ]
       },
       {
-        "description": "Randomizes non-matching orbs, and boosts ATK of Powerhouse characters by 1.5x for 1 턴",
+        "description": "Randomizes non-matching orbs and boosts ATK of Powerhouse characters by 1.5x for 1 turn",
         "cooldown": [
           24,
           9
@@ -27,54 +27,54 @@
     },
     "limit": [
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: [STR] Damage Reduction"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 3 turn"
+        "description": "선원 효과 추가 1: Reduces Paralysis duration on this character by 3 turn"
       },
       {
-        "description": "Acquire Potential 2: Reduce No Healing duration"
+        "description": "잠재능력 습득 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] Damage Reduction",
+        "Name": "[STR] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [STR] characters by 1%",
           "Level 2: Reduce damage taken from [STR] characters by 2%",

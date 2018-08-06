@@ -2,10 +2,10 @@
   "name": "넵튠",
   "detail": {
     "captain": "일당의 공격력을 1.5배로 만들고, 획득하는 해적 EXP가 1.5배가 된다(획득 해적 EXP 증가 효과는 모험 도중 선장이 된 경우에는 발휘 되지 않음)",
+    "captainNotes": "EXP boost does not take effect if he becomes your captain in the middle of the adventure.",
     "special": "일당의 슬롯을 1턴 고정하여, 최대 HP가 가장 높은 적의 HP가 50% 이상일 때는 적 전체의 HP를 20% 줄이고, HP가 50% 미만일 때는 적 전체에 공격력x140배의 무 속성 데미지를 준다",
     "sailor": "PSY,INT과 TND도 [유리] 슬롯으로 취급한다",
-    "specialName": "머맨 컴배트 울트라 마린",
-    "captainNotes": "EXP boost does not take effect if he becomes your captain in the middle of the adventure.",
-    "sailorNotes": "#{beneficial}"
+    "sailorNotes": "#{beneficial}",
+    "specialName": "머맨 컴배트 울트라 마린"
   }
 }

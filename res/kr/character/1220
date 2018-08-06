@@ -28,6 +28,10 @@
     ],
     "specialNotes": "#{stages}",
     "specialName": "모아모아 10배속 「철퇴」",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts own base ATK by 100 if this character is the last in the chain to attack"
+    },
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -97,10 +101,6 @@
         ]
       }
     ],
-    "potentialNotes": "Enrage is activated when your crew took damage from your enemies in the previous 턴",
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts own base ATK by 100 if this character is the last in the chain to attack"
-    }
+    "potentialNotes": "Enrage is activated when your crew took damage from your enemies in the previous 턴"
   }
 }

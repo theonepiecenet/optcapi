@@ -4,14 +4,14 @@
     "captain": "Boosts amount of Beli received by 2x",
     "special": [
       {
-        "description": "Reduces Special Cooldown of Cerebral and Fighter specials by 1 턴. Displays the status of all enemies.",
+        "description": "Reduces Special Cooldown of Cerebral and Fighter specials by 1 turn. Displays the status of all enemies.",
         "cooldown": [
           13,
           7
         ]
       },
       {
-        "description": "Reduces Special Cooldown of Cerebral and Fighter specials by 2 턴. Displays the status of all enemies.",
+        "description": "Reduces Special Cooldown of Cerebral and Fighter specials by 2 turns. Displays the status of all enemies.",
         "cooldown": [
           20,
           14
@@ -19,8 +19,8 @@
       }
     ],
     "specialName": "Peeping Mind",
-    "specialNotes": "Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on 턴', and 'Effect after Death'<br>#{stages}",
-    "sailor": "Restores her own special by 1 턴 when it is rewinded",
+    "specialNotes": "Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on turns' and 'Effect after Death'<br>#{stages}",
+    "sailor": "Restores her own special by 1 turn when it is rewinded",
     "sailorNotes": "#{rewind : 1}"
   }
 }

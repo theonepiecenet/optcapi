@@ -2,6 +2,7 @@
   "name": "작은 질풍의 검사 할타",
   "detail": {
     "captain": "Boosts ATK of Slasher and Cerebral characters by 1.75x. Gives chance of duplicating a drop upon completion of the island.",
+    "captainNotes": "Does not work if he was not your captain upon starting the island. Stacks with other additional drop captains, giving you two chances of getting an extra drop.",
     "special": [
       {
         "description": "적 전체에 공격력x4배의 [INT] 데미지를 주고, 자신의 슬롯을 [INT]로 바꾼다",
@@ -18,71 +19,73 @@
         ]
       }
     ],
-    "specialName": "신속한 일검류 십자베기",
-    "sailor": "자신의 필살기 턴 되돌리기를 1턴 회복한다",
-    "captainNotes": "Does not work if he was not your captain upon starting the island. Stacks with other additional drop captains, giving you two chances of getting an extra drop.",
     "specialNotes": "#{stages}",
+    "specialName": "신속한 일검류 십자베기",
+    "sailor": {
+      "base": "자신의 필살기 턴 되돌리기를 1턴 회복한다",
+      "level1": "If this character has an [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"
+    },
     "sailorNotes": "#{rewind : 1}",
     "limit": [
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Acquire Potential 1: Enrage"
+        "description": "잠재능력 습득 1: Enrage"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base HP by 80"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: If this character has an [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"
+        "description": "선원 효과 추가 1: If this character has an [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"
       },
       {
-        "description": "Acquire Potential 2: Critical Hit"
+        "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
     "potential": [
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by 30",
-          "Level 2: Boosts base ATK by ??",
-          "Level 3: Boosts base ATK by ??",
-          "Level 4: Boosts base ATK by ??",
-          "Level 5: Boosts base ATK by ??"
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : ??"
         ]
       },
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
           "Level 1: If you hit a perfect with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
           "Level 2: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",

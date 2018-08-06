@@ -18,7 +18,14 @@
         ]
       }
     ],
+    "specialNotes": "#{stages}",
     "specialName": "인젝션 샷",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK of Striker characters by 50",
+      "level2": "Makes [RCV] and [TND] orbs “beneficial” for this character"
+    },
+    "sailorNotes": "#{beneficial}",
     "limit": [
       {
         "description": "선원효과 개방 10"
@@ -142,13 +149,6 @@
           "Level 5: 이 캐릭터의 공격은 베리어를 완전히 무시한다."
         ]
       }
-    ],
-    "specialNotes": "#{stages}",
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts base ATK of Striker characters by 50",
-      "level2": "Makes [RCV] and [TND] orbs “beneficial” for this character"
-    },
-    "sailorNotes": "#{beneficial}"
+    ]
   }
 }

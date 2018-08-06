@@ -2,9 +2,9 @@
   "name": "길드 테조로, 황금선의 카지노 왕",
   "detail": {
     "captain": "Boosts ATK of PSY characters by 1.75x. Also boosts ATK of Driven and Cerebral characters by 1.5x. Boosts amount of Beli received by 2x",
+    "captainNotes": "Attack boost stacks, so a [PSY] Driven or a [PSY] Cerebral character has a 2.625x ATK",
     "special": "Deals large [PSY] damage to all enemies, and if HP is above 50%, changes all orbs to [PSY] orbs",
     "specialName": "Gold-Gold Fruit",
-    "captainNotes": "Attack boost stacks, so a [PSY] Driven or a [PSY] Cerebral character has a 2.625x ATK",
     "sailor": {
       "base": "None",
       "level1": "Makes [PSY] orbs “beneficial” for Cerebral characters",
@@ -13,54 +13,54 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Acquire Potential 1: [INT] Damage Reduction"
+        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 80"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Boosts base HP by 100"
+        "description": "체력 상승 : 100"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs “beneficial” for Cerebral characters"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base ATK by 40"
+        "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” for Cerebral characters"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [PSY] orbs “beneficial” for Driven characters"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for Driven characters"
+      },
+      {
+        "description": "잠재능력 습득 2: Slot Bind Self-reduction"
       }
     ],
     "potential": [
       {
-        "Name": "[INT] Damage Reduction",
+        "Name": "[INT] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [INT] characters by 1%",
           "Level 2: Reduce damage taken from [INT] characters by 2%",

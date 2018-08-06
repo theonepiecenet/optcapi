@@ -1,8 +1,8 @@
 {
   "name": "아카이누, 마그마 인간",
   "detail": {
-    "captain": "Boosts ATK by 3x following a chain of [STR] > [STR] > [STR] attacks no lower than Good",
-    "special": "Deals 50x character's ATK in [STR] damage to all enemies. Changes orbs for [STR] characters into [STR] orbs. Boosts the Color Affinity of [STR] characters by 1.75x for 1 턴",
+    "captain": "Boosts ATK of all characters by 3x following a chain of [STR] > [STR] > [STR] attacks no lower than Good",
+    "special": "Deals 50x character's ATK in [STR] damage to all enemies. Changes orbs for [STR] characters into [STR] orbs. Boosts the Color Affinity of [STR] characters by 1.75x for 1 turn",
     "specialNotes": "#{colorAffinity : 1.75}",
     "specialName": "Great Eruption",
     "sailor": {
@@ -12,54 +12,54 @@
     },
     "limit": [
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+        "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base HP of [STR] characters by 100"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 2 turns"
-      },
-      {
-        "description": "Boosts base ATK by 50"
+        "description": "선원 효과 추가 1: Boosts base HP of [STR] characters by 100"
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts base ATK of [STR] characters by 75"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "선원 효과 추가 2: Boosts base ATK of [STR] characters by 75"
+      },
+      {
+        "description": "잠재능력 습득 2: Slot Bind Self-reduction"
       }
     ],
     "potential": [
       {
-        "Name": "[DEX] Damage Reduction",
+        "Name": "[DEX] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [DEX] characters by 1%",
           "Level 2: Reduce damage taken from [DEX] characters by 2%",

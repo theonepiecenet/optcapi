@@ -1,5 +1,5 @@
 {
-  "name": "Sir Crocodile, Remains of an Utopian Dream",
+  "name": "Sir 크로커다일, Remains of an Utopian Dream",
   "detail": {
     "captain": "Boosts ATK of Cerebral characters proportionally to the crew's current HP, by 3.5x at max",
     "captainNotes": "#{captainProportional : lower : 2 + 1.5 * (1 - (remaining HP) / (total HP)) : 2 : 3.5}",

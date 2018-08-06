@@ -4,6 +4,12 @@
     "captain": "[STR] 캐릭터의 공격력이 2배가 되고, 다른 속성 캐릭터의 공격력이 1.5배가 된다",
     "special": "적 1명에게 캐릭터 공격x25배의 [STR] 데미지",
     "specialName": "고무고무 트윈 JET총",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts own base ATK by 100 if this character is the last in the chain to attack",
+      "level2": "Makes [QCK] orbs “beneficial” for this character"
+    },
+    "sailorNotes": "#{beneficial}",
     "limit": [
       {
         "description": "필살기 턴 단축 : 1턴"
@@ -73,12 +79,6 @@
         ]
       }
     ],
-    "potentialNotes": "격분은 선원이 이전 턴에 적으로부터 공격을 받을 경우 활성화 된다.",
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts own base ATK by 100 if this character is the last in the chain to attack",
-      "level2": "Makes [QCK] orbs “beneficial” for this character"
-    },
-    "sailorNotes": "#{beneficial}"
+    "potentialNotes": "격분은 선원이 이전 턴에 적으로부터 공격을 받을 경우 활성화 된다."
   }
 }

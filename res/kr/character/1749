@@ -1,9 +1,13 @@
 {
   "name": "베포, 밀짚모자 루피의 공범자",
   "detail": {
-    "captain": "모험 시작 시 필살기 턴을 2턴 단축하고, [QCK]dml rhdrurfurrhk cpfurdmf 2qofh aksemsek",
+    "captain": "모험 시작 시 필살기 턴을 2턴 단축하고, [QCK]의 공격력과 체력을 2배로 만든다",
     "special": "적의 [DAMAGE REDUCTION]상태를 5턴 줄이고, 적 1명의 HP를 15% 줄인다",
-    "sailor": "자신의 PERFECT 공격 성공 시 [QCK] 슬롯이 다음 턴에도 이어진다",
+    "sailor": {
+      "base": "자신의 PERFECT 공격 성공 시 [QCK] 슬롯이 다음 턴에도 이어진다",
+      "level1": "Makes [DEX] orbs “beneficial” for this character"
+    },
+    "sailorNotes": "#{beneficial}",
     "specialName": "베어즈 러쉬 아웃",
     "limit": [
       {
@@ -73,7 +77,6 @@
           "Level 5: 캐릭터의 봉인상태를 10턴 감소시킨다."
         ]
       }
-    ],
-    "sailorNotes": "#{beneficial}"
+    ]
   }
 }

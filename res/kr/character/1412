@@ -5,57 +5,60 @@
     "special": "적의 방어력 상승과 데미지 감소 상태를 3턴 줄이고, 적 전체에 무 속성 특대 데미지를 준다",
     "specialNotes": "This does not affect threshold damage reduction. Damage Reduction is the rainbow shield buff enemies have, and Increased Defense is the blue shield buff enemies have",
     "specialName": "발굽 「팔메」",
-    "sailor": "자신의 PERFECT 공격 성공 시 [STR] 슬롯이 다음 턴에도 이어진다",
+    "sailor": {
+      "base": "자신의 PERFECT 공격 성공 시 [STR] 슬롯이 다음 턴에도 이어진다",
+      "level1": "When any other [STR] character uses a special, reduces own cooldown by 2 turns"
+    },
     "limit": [
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+        "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Acquire Sailor Ability 1: When any other [STR] character uses a special, reduces own cooldown by 2 turns"
+        "description": "선원 효과 추가 1: When any other [STR] character uses a special, reduces own cooldown by 2 turns"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base HP by 100"
+        "description": "체력 상승 : 100"
       },
       {
-        "description": "Boosts base HP by 100"
+        "description": "체력 상승 : 100"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 2: Reduce No Healing duration"
+        "description": "잠재능력 습득 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
-        "Name": "[DEX] Damage Reduction",
+        "Name": "[DEX] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [DEX] characters by 1%",
           "Level 2: Reduce damage taken from [DEX] characters by 2%",

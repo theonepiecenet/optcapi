@@ -1,10 +1,10 @@
 {
   "name": "쿠잔",
   "detail": {
-    "captain": "Boosts ATK of all characters by 2x and their HP by 1.2x. If you defeat an enemy, increases ATK boost slighty. Stacks up to 8 times to a maximum of 3.5x.",
-    "special": "Increases duration of any Class/Type boosting buffs and Orb Amplification buffs by 1 턴",
-    "specialName": "Ice Age",
+    "captain": "Boosts ATK of all characters by 2x and their HP by 1.2x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 8 times to a maximum of 3.5x.",
     "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
+    "special": "Increases duration of any Class/Type boosting buffs and Orb Amplification buffs by 1 turn",
+    "specialName": "Ice Age",
     "sailor": {
       "base": "None",
       "level1": "Makes [QCK] orbs “beneficial” for Striker and Shooter characters",
@@ -13,99 +13,99 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base ATK by 5"
+        "description": "공격력 상승 : 5"
       },
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Acquire Potential 1: [STR] Damage Reduction"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 15"
+        "description": "공격력 상승 : 15"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 2: Critical Hit"
+        "description": "잠재능력 습득 2: 크리티컬 공격"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [QCK] orbs “beneficial” for this Striker and Shooter characters"
+        "description": "선원 효과 추가 1: Makes [QCK] orbs “beneficial” for this Striker and Shooter characters"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Sailor Ability 2: If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn"
+        "description": "선원 효과 추가 2: If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn"
       },
       {
-        "description": "Boosts base HP by 70"
+        "description": "체력 상승 : 70"
       },
       {
-        "description": "Boosts base HP by 80"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Acquire Potential 3: Barrier Penetration"
+        "description": "잠재능력 습득 3: Barrier Penetration"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] Damage Reduction",
+        "Name": "[STR] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [STR] characters by 1%",
           "Level 2: Reduce damage taken from [STR] characters by 2%",
@@ -115,7 +115,7 @@
         ]
       },
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
           "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
           "Level 2: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",

@@ -1,9 +1,9 @@
 {
-  "name": "나미 미라쥬 템포 ‘천’",
+  "name": "나미, 미라쥬 템포 ‘천’",
   "detail": {
-    "special": "INT의 공격을 1 턴 무효화하고 체력을 랜덤 량 회복",
-    "specialName": "미라쥬 템포: 하늘",
-    "captain": "INT캐릭터의 능력치가 1.5 배가 된다",
-    "specialNotes": "#{randomHeal : 1,000 : 3,000}"
+    "special": "[INT]의 공격을 1턴 동안 무효로 만들고, 체력을 랜덤량 회복",
+    "specialName": "미라쥬 템포 「천」",
+    "specialNotes": "#{randomHeal : 1,000 : 3,000}",
+    "captain": "[INT] 캐릭터의 능력치가 1.5배가 된다"
   }
 }

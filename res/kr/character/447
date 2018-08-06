@@ -4,6 +4,10 @@
     "special": "적 전체에 이전 턴에받은 데미지 × 10 배의 무 속성데미지",
     "specialName": "Black Hole",
     "captain": "받는 데미지가 2 배가 되지만, STR캐릭터의 공격력이 2.5 배 체력이 2.25 배가 된다",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base HP of [STR] characters by 120"
+    },
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -72,10 +76,6 @@
           "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다."
         ]
       }
-    ],
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts base HP of [STR] characters by 120"
-    }
+    ]
   }
 }

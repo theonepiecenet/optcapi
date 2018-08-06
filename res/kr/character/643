@@ -5,57 +5,60 @@
     "specialNotes": "#{fixed} #{orb : 1.75x}",
     "specialName": "Raging Greatsword",
     "captain": "Boosts ATK of PSY characters by 3x 전투 시작 시 체력이 30% 미만이면",
-    "sailor": "Recovers 2 턴 of Paralysis on self",
+    "sailor": {
+      "base": "Recovers 2 turns of Paralysis on self",
+      "level1": "Reduces Blindness duration by 2 turns"
+    },
     "limit": [
       {
-        "description": "Boosts base RCV by 25"
+        "description": "회복력 상승 : 25"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base RCV by 35"
+        "description": "회복력 상승 : 35"
       },
       {
-        "description": "Acquire Potential 1: [STR] Damage Reduction"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 2 turns"
-      },
-      {
-        "description": "Boosts base HP by 60"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Reduces Blindness duration by 2 turns"
-      },
-      {
-        "description": "Boosts base ATK by 60"
-      },
-      {
-        "description": "Boosts base RCV by 40"
+        "description": "체력 상승 : 40"
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Boosts base RCV by 50"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "선원 효과 추가 1: Reduces Blindness duration by 2 turns"
       },
       {
-        "description": "Acquire Potential 2: [INT] Damage Reduction"
+        "description": "공격력 상승 : 60"
+      },
+      {
+        "description": "회복력 상승 : 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "회복력 상승 : 50"
+      },
+      {
+        "description": "잠재능력 소켓슬롯 추가 : 1"
+      },
+      {
+        "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] Damage Reduction",
+        "Name": "[STR] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [STR] characters by 1%",
           "Level 2: Reduce damage taken from [STR] characters by 2%",
@@ -65,7 +68,7 @@
         ]
       },
       {
-        "Name": "[INT] Damage Reduction",
+        "Name": "[INT] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [INT] characters by 1%",
           "Level 2: Reduce damage taken from [INT] characters by 2%",

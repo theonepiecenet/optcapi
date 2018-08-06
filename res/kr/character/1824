@@ -25,8 +25,8 @@
         ]
       }
     ],
-    "specialName": "모아 모아: 100배 포",
     "specialNotes": "#{stages}",
+    "specialName": "모아 모아: 100배 포",
     "sailor": {
       "base": "None",
       "level1": "Boosts base HP of Shooter characters by 150",
@@ -34,60 +34,60 @@
     },
     "limit": [
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 1: Enrage"
+        "description": "잠재능력 습득 1: Enrage"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 70"
+        "description": "체력 상승 : 70"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base HP of Shooter characters by 150"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "선원 효과 추가 1: Boosts base HP of Shooter characters by 150"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts base ATK of Shooter characters by 75"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Acquire Potential 2: Barrier Penetration"
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "선원 효과 추가 2: Boosts base ATK of Shooter characters by 75"
+      },
+      {
+        "description": "잠재능력 습득 2: Barrier Penetration"
       }
     ],
     "potential": [
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by 20",
-          "Level 2: Boosts base ATK by 40",
-          "Level 3: Boosts base ATK by 60",
-          "Level 4: Boosts base ATK by 80",
-          "Level 5: Boosts base ATK by 120"
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 40",
+          "Level 3: 공격력 상승 : 60",
+          "Level 4: 공격력 상승 : 80",
+          "Level 5: 공격력 상승 : 120"
         ]
       },
       {

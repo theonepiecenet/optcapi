@@ -1,5 +1,5 @@
 {
-  "name": "‘Garuda’ 빈스모크 Judge, Germa 66 Science Military Force",
+  "name": "‘Garuda’ 빈스모크 Judge, 과학전투부대 제르마 66",
   "detail": {
     "captain": "Increase the rate of [INT] orbs, reduces damage received by 15%, boosts the HP of all characters by 1.25x and if there is a [STR], [DEX], [QCK], [PSY] and [INT] characters in your crew, makes Badly Matching orbs “beneficial” to all characters boosts ATK of all characters by 3.9375x if they have a matching orb, by 2.25x otherwise",
     "special": "Reduces damage received by 30% for 2 turns and boost ATK of Fighter, Driven and Powerhouse characters by 2x for 1 turn. If this character is the captain or the friend captain, changes all orbs, including [BLOCK] orbs, to [INT] orbs",
@@ -53,7 +53,7 @@
         "description": "체력 상승 : 40"
       },
       {
-        "description": "잠재능력 습득 2: Critical Hit"
+        "description": "잠재능력 습득 2: 크리티컬 공격"
       },
       {
         "description": "회복력 상승 : 20"
@@ -113,7 +113,7 @@
         ]
       },
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
           "Level 1: If you hit a perfect with this character, there is a 20% chance to deal 3% of this character's attack in extra damage",
           "Level 2: If you hit a perfect with this character, there is a 30% chance to deal 3% of this character's attack in extra damage",

@@ -2,59 +2,62 @@
   "name": "니코 로빈, 신생 밀짚모자 일당",
   "detail": {
     "captain": "Boosts ATK of [DEX] and [PSY] characters by 2.25x and their RCV by 1.5x",
-    "special": "Reduces Despair duration by 3 턴 and boosts ATK of [DEX] and [PSY] characters by 2x for 1 턴",
+    "special": "Reduces Despair duration by 3 turns and boosts ATK of [DEX] and [PSY] characters by 2x for 1 turn",
     "specialName": "Mil Fleur: Gigantesco Mano Stomp",
-    "sailor": "Reduces Blindness duration by 3 턴",
+    "sailor": {
+      "base": "Reduces Blindness duration by 3 turns",
+      "level1": "When any other [DEX] or [PSY] character uses a special, reduces own cooldown by 2 turns"
+    },
     "limit": [
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+        "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Acquire Sailor Ability : When any other [DEX] or [PSY] character uses a special, reduces own cooldown by 2 turns"
+        "description": "선원 효과 추가 : When any other [DEX] or [PSY] character uses a special, reduces own cooldown by 2 turns"
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "잠재능력 습득 2: Enrage"
       }
     ],
     "potential": [
       {
-        "Name": "[QCK] Damage Reduction",
+        "Name": "[QCK] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [QCK] characters by 1%",
           "Level 2: Reduce damage taken from [QCK] characters by 2%",
@@ -66,11 +69,11 @@
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by 50",
-          "Level 2: Boosts base ATK by ??",
-          "Level 3: Boosts base ATK by ??",
-          "Level 4: Boosts base ATK by ??",
-          "Level 5: Boosts base ATK by ??"
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : ??"
         ]
       }
     ],

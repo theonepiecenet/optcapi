@@ -2,61 +2,64 @@
   "name": "빈스모크 니디, 과학전투부대 제르마 66",
   "detail": {
     "captain": "[QCK]캐릭터의 공격력이 2.25배 증가, 강인 캐릭터의 공격력이 1.3배 증가하고 체력이 1.2배 증가한다.(효과 중복가능)",
+    "captainNotes": "Attack boost stacks, so a [QCK] Powerhouse character has a 2.925x ATK",
     "special": "선장이 QCK 또는 PSY 캐릭터인 경우, 2턴 동안 모든 캐릭터의 공격력이 1.75배로 증가, 선장이 강인 캐릭터인 경우 1턴 동안 모든 슬롯을 고정한다.",
     "specialName": "블리츠 니들",
-    "sailor": "PSY슬롯도 [유리] 슬롯으로 취급한다.",
-    "captainNotes": "Attack boost stacks, so a [QCK] Powerhouse character has a 2.925x ATK",
+    "sailor": {
+      "base": "[PSY] 슬롯도 [유리] 슬롯으로 취급한다.",
+      "level1": "Boosts base ATK, HP and RCV of all characters by 20"
+    },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base HP by 35"
+        "description": "체력 상승 : 35"
       },
       {
-        "description": "Boosts base HP by 45"
+        "description": "체력 상승 : 45"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Acquire Potential 1: Critical Hit"
+        "description": "잠재능력 습득 1: 크리티컬 공격"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Boosts base RCV by 25"
+        "description": "회복력 상승 : 25"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 90"
+        "description": "체력 상승 : 90"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 20"
+        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of all characters by 20"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 2: Slot Bind Self-reduction"
       }
     ],
     "potential": [
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
           "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
           "Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",

@@ -21,6 +21,10 @@
     ],
     "specialName": "Stonewall Punk",
     "specialNotes": "#{colorAffinity : 1.75}<br>#{stages}",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Silence duration on this character by 2 turns"
+    },
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -90,10 +94,6 @@
         ]
       }
     ],
-    "potentialNotes": "Enrage is activated when your crew took damage from your enemies in the previous 턴",
-    "sailor": {
-      "base": "None",
-      "level1": "Reduces Silence duration on this character by 2 turns"
-    }
+    "potentialNotes": "#{enrage}"
   }
 }

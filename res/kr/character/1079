@@ -25,8 +25,8 @@
         ]
       }
     ],
-    "specialName": "치유들레",
     "specialNotes": "#{stages}",
+    "specialName": "치유들레",
     "sailor": {
       "base": "None",
       "level1": "Reduces Paralysis duration on this character by 1 turn",
@@ -34,54 +34,54 @@
     },
     "limit": [
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 25"
+        "description": "공격력 상승 : 25"
       },
       {
-        "description": "Acquire Potential 1: [INT] Damage Reduction"
+        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 1 turn"
-      },
-      {
-        "description": "Boosts base HP by 55"
+        "description": "체력 상승 : 50"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 45"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Sailor Ability 2: Reduces Silence duration on this character by 2 turns"
+        "description": "선원 효과 추가 1: Reduces Paralysis duration on this character by 1 turn"
       },
       {
-        "description": "Boosts base HP by 65"
+        "description": "체력 상승 : 55"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Potential 2: Reduce No Healing duration"
+        "description": "공격력 상승 : 45"
+      },
+      {
+        "description": "선원 효과 추가 2: Reduces Silence duration on this character by 2 turns"
+      },
+      {
+        "description": "체력 상승 : 65"
+      },
+      {
+        "description": "잠재능력 소켓슬롯 추가 : 1"
+      },
+      {
+        "description": "잠재능력 습득 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
-        "Name": "[INT] Damage Reduction",
+        "Name": "[INT] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [INT] characters by 1%",
           "Level 2: Reduce damage taken from [INT] characters by 2%",

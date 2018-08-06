@@ -3,65 +3,68 @@
   "detail": {
     "captain": "[PSY] 캐릭터의 공격력을 2.5배로 만든다",
     "special": "일당 모두의 [PSY] 슬롯을 소비하고, 적 1명에게 소비한 슬롯 수에 따라 증폭되는 [PSY] 데미지를 준다",
-    "specialName": "격멸의 브래스 너클",
-    "sailor": "공격 시작 전에 체력이 가득 차 있으면 [PSY] 캐릭터의 기본 공격력이 75 상승한다",
     "specialNotes": "The exact multiplier used is chosen based on the number of [PSY] orbs consumed: 1 orb will give a 13x multiplier, 2 orbs 19x, 3 orbs 26x, 4 orbs 65x, 5 orbs 130x, 6 orbs 230x. It's not possible to activate the special without consuming at least one [PSY] orb.",
+    "specialName": "격멸의 브래스 너클",
+    "sailor": {
+      "base": "공격 시작 전에 체력이 가득 차 있으면 [PSY] 캐릭터의 기본 공격력이 75 상승한다",
+      "level1": "When HP is above 99% at the start of the turn, boosts own base ATK by 100"
+    },
     "limit": [
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: Enrage"
+        "description": "잠재능력 습득 1: Enrage"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Boosts base RCV by 40"
+        "description": "회복력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 70"
+        "description": "공격력 상승 : 70"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Boosts base ATK by 70"
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "공격력 상승 : 70"
       },
       {
         "description": "Reduce base Special Cooldown by 3 turns"
       },
       {
-        "description": "Acquire Sailor Ability 1: When HP is above 99% at the start of the turn, boosts own base ATK by 100"
+        "description": "선원 효과 추가 1: When HP is above 99% at the start of the turn, boosts own base ATK by 100"
       },
       {
-        "description": "Acquire Potential 2: Reduce No Healing duration"
+        "description": "잠재능력 습득 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by 50",
-          "Level 2: Boosts base ATK by ??",
-          "Level 3: Boosts base ATK by ??",
-          "Level 4: Boosts base ATK by ??",
-          "Level 5: Boosts base ATK by ??"
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : ??"
         ]
       },
       {

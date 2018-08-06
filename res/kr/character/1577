@@ -4,54 +4,57 @@
     "captain": "턴 종료 시에 캐릭터의 회복력x3배의 체력을 회복하고, GOOD→GREAT→PERFECT 순으로 공격한 이후부터 캐릭터의 공격력이 3.5배가 된다",
     "special": "적 전체에게 무 속성 특대 데미지를 주고, 모든 슬롯을 자신과 같은 슬롯으로 바꾼다",
     "specialNotes": "Upon activating the special, all orbs will be changed to the orb Kinemon has, including [RAINBOW] and [BLOCK] orbs. This will not override other [BLOCK] orbs.",
-    "sailor": "자신은 [STR][QCK] 슬롯도 [유리] 슬롯으로 취급한다",
     "specialName": "화류일섬",
+    "sailor": {
+      "base": "자신은 [STR][QCK] 슬롯도 [유리] 슬롯으로 취급한다",
+      "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character"
+    },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 1: Slot Bind Self-reduction"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs “beneficial” for this character"
+        "description": "선원 효과 추가 1: Makes [RCV] and [TND] orbs “beneficial” for this character"
       },
       {
-        "description": "Acquire Potential 2: Pinch Healing"
+        "description": "잠재능력 습득 2: 긴급 회복"
       }
     ],
     "potential": [
@@ -66,7 +69,7 @@
         ]
       },
       {
-        "Name": "Pinch Healing",
+        "Name": "긴급 회복",
         "description": [
           "Level 1: If HP is below 20% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
           "Level 2: If HP is below ??% at the start of the turn, recovers ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character",

@@ -4,6 +4,11 @@
     "captain": "PERFECT 이외의 공격을 할 때까지 강인형 캐릭터의 공격력을 2.75배, 턴 종료 시 체력을 300 회복한다",
     "specialName": "디아블 잠브 주 슛",
     "special": "적 1명에게 캐릭터의 공격력x150배의 무 속성 데미지를 주고, 1턴 동안 강인형 캐릭터의 공격력이 2배가 된다",
+    "sailor": {
+      "base": "None",
+      "level1": "Makes [RCV] orbs “beneficial” for all characters"
+    },
+    "sailorNotes": "#{beneficial}",
     "limit": [
       {
         "description": "체력 상승 : 20"
@@ -73,11 +78,6 @@
         ]
       }
     ],
-    "sailor": {
-      "base": "None",
-      "level1": "Makes [RCV] orbs “beneficial” for all characters"
-    },
-    "sailorNotes": "#{beneficial}",
     "potentialNotes": "#{enrage}"
   }
 }

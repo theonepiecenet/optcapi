@@ -21,7 +21,7 @@
         "description": "회복력 상승 : 10"
       },
       {
-        "description": "잠재능력 습득 1: Pinch Healing"
+        "description": "잠재능력 습득 1: 긴급 회복"
       },
       {
         "description": "회복력 상승 : 10"
@@ -104,7 +104,7 @@
     ],
     "potential": [
       {
-        "Name": "Pinch Healing",
+        "Name": "긴급 회복",
         "description": [
           "Level 1: If HP is below 10% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
           "Level 2: If HP is below 15% at the start of the turn, heals for 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",

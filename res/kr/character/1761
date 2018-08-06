@@ -3,59 +3,62 @@
   "detail": {
     "captain": "[DEX]과 [INT]의 공격력을 2.5배로 만든다",
     "special": "일당의 슬롯을 우측 상단부터 [INT][PSY][DEX]로, 좌측 상단부터 [INT][RCV][DEX]로 바꾼다",
-    "sailor": "자신은 필살기 봉쇄 상태와 필살기 턴 되돌리기를 2턴 회복한다",
     "specialName": "지혜의 괴물",
+    "sailor": {
+      "base": "자신은 필살기 봉쇄 상태와 필살기 턴 되돌리기를 2턴 회복한다",
+      "level1": "Makes [RCV] orbs “beneficial” for this character"
+    },
     "sailorNotes": "#{silence}<br>#{rewind : 2}<br>#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+        "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs “beneficial” for this character"
+        "description": "선원 효과 추가 1: Makes [RCV] orbs “beneficial” for this character"
       },
       {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 40"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Acquire Potential 2: Reduce No Healing duration"
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "잠재능력 습득 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
-        "Name": "[QCK] Damage Reduction",
+        "Name": "[QCK] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [QCK] characters by 1%",
           "Level 2: Reduce damage taken from [QCK] characters by ?%",

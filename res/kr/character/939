@@ -1,7 +1,10 @@
 {
   "name": "나미, 하늘섬 웨더리아의 도둑고양이",
   "detail": {
-    "captain": "모험 시작 시 필살 턴을 3턴 단축하고, 박식형 캐릭터의 공격력을 2배로 만든다",
+    "captain": {
+      "base": "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Cerebral characters by 2x",
+      "level1": "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Cerebral characters by 2.25x"
+    },
     "specialName": "사이클론 버스트",
     "special": "1명의 봉쇄 상태를 완전히 해제하고 타격형과 박식형의 [불리] 슬롯을 속성이 일치하는 슬롯으로 바꾼다",
     "sailor": {
@@ -12,54 +15,54 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
       },
       {
-        "description": "Acquire new Captain Ability: Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Cerebral characters by 2.25x"
+        "description": "새로운 선장 효과 습득: Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Cerebral characters by 2.25x"
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs “beneficial” for Cerebral and Striker characters"
+        "description": "선원 효과 추가 1: Makes [RCV] orbs “beneficial” for Cerebral and Striker characters"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
         "description": "Reduce base Special Cooldown by 3 turns"
       },
       {
-        "description": "Boosts base HP by 80"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts base ATK, HP and RCV of Cerebral and Striker characters by 50"
+        "description": "선원 효과 추가 2: Boosts base ATK, HP and RCV of Cerebral and Striker characters by 50"
       },
       {
-        "description": "Boosts base ATK by 60"
+        "description": "공격력 상승 : 60"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Acquire Potential 2: [INT] Damage Reduction"
+        "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
       }
     ],
     "potential": [
       {
-        "Name": "[PSY] Damage Reduction",
+        "Name": "[PSY] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [PSY] characters by 1%",
           "Level 2: Reduce damage taken from [PSY] characters by 2%",
@@ -69,7 +72,7 @@
         ]
       },
       {
-        "Name": "[INT] Damage Reduction",
+        "Name": "[INT] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [INT] characters by 1%",
           "Level 2: Reduce damage taken from [INT] characters by 2%",

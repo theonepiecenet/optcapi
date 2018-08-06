@@ -26,7 +26,11 @@
       }
     ],
     "specialName": "잔털정리권",
-    "sailor": "이 캐릭터는 마비효과 면역",
+    "specialNotes": "#{stages}",
+    "sailor": {
+      "base": "Completely resists Paralysis on this character",
+      "level1": "When any other Free Spirit character uses a special, reduces own cooldown by 1 turn"
+    },
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -95,7 +99,6 @@
           "Level 5: 회복 무효 상태 회복 : 3 턴"
         ]
       }
-    ],
-    "specialNotes": "#{stages}"
+    ]
   }
 }

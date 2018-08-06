@@ -4,6 +4,11 @@
     "captain": "콤보수가 11이상 시점에서 1.5배, 22이상 시점에서 2.5배, 30이상 시점에서 2.75배, 40이상 시점에서 3.5배 공격력이 상승한다.",
     "specialName": "돌풍 「마타사부로 (又三郎)」",
     "special": "자신의 슬롯을 [QCK] 으로 변환하고, 다른 슬롯을 랜덤으로 변환",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK of all characters by 30",
+      "level2": "Boosts this character's attack against [DEX] characters by 2x"
+    },
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -72,11 +77,6 @@
           "Level 5: 캐릭터의 봉인상태를 5턴 감소시킨다."
         ]
       }
-    ],
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts base ATK of all characters by 30",
-      "level2": "Boosts this character's attack against [DEX] characters by 2x"
-    }
+    ]
   }
 }

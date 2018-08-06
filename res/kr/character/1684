@@ -5,58 +5,61 @@
     "special": "1턴 동안 자신이 봉쇄 상태가 되는 대신 [BLOCK] 슬롯을 소비하여 적 전체에 소비한 [BLOCK] 슬롯(0개~6개)의 수에 따라 커지는 무 속성 데미지를 주고, 2턴 동안 방어력 감소 중인 적에게 주는 데미지를 1.5배로 만든다",
     "specialName": "「밀 플루르」 천 송이 꽃 히간테스코 마노",
     "specialNotes": "The exact multiplier used is chosen based on the number of [BLOCK] orbs consumed: 0 orbs - Unknown; 1 orb - ???x ATK; 2 orbs - ???x ATK; 3 orbs - ???x ATK; 4 orbs - ???x ATK; 5 orbs - ???x ATK; 6 orbs - ???x ATK.",
-    "sailor": "선장이 격투형일 경우, 일당의 [TND] 슬롯을 [유리] 슬롯으로 취급한다",
+    "sailor": {
+      "base": "선장이 격투형일 경우, 일당의 [TND] 슬롯을 [유리] 슬롯으로 취급한다",
+      "level1": "Makes [DEX] orbs “beneficial” for this character"
+    },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: [STR] Damage Reduction"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs “beneficial” for this character"
+        "description": "선원 효과 추가 1: Makes [DEX] orbs “beneficial” for this character"
       },
       {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base RCV by 30"
-      },
-      {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 50"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 2: Reduce No Healing duration"
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "잠재능력 습득 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] Damage Reduction",
+        "Name": "[STR] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [STR] characters by 1%",
           "Level 2: Reduce damage taken from [STR] characters by ?%",

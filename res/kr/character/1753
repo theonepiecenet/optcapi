@@ -3,58 +3,61 @@
   "detail": {
     "captain": "B코스트 30 이하의 캐릭터의 공격력을 2.5배, 체력을 1.3배, PERFECT 3회 연속 이후 일당의 공격력이 추가로 1.4배 증가한다.",
     "special": "적 1기에게 지능 속성의 큰 데미지를 주고, 1턴 동안 코스트 30 이하 캐릭터의 공격력이 1.75배, 자신이 선장, 친구 선장, 조력자 선장일 때, 이 턴에서 PERFECT를 4회 성공하면 다음 턴에 코스트 30 이하 캐릭터의 공격력이 2배가 된다.",
-    "sailor": "참격 캐릭터의 기본 공격력을 +50",
     "specialName": "삼도류: 극 호랑이 사냥",
+    "sailor": {
+      "base": "참격 캐릭터의 기본 공격력을 +50",
+      "level1": "Adds 2x character's ATK as Additional Typeless Damage"
+    },
     "limit": [
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Adds 2x character's ATK as Additional Typeless Damage"
+        "description": "선원 효과 추가 1: Adds 2x character's ATK as Additional Typeless Damage"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "잠재능력 습득 2: Enrage"
       }
     ],
     "potential": [
       {
-        "Name": "[PSY] Damage Reduction",
+        "Name": "[PSY] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [PSY] characters by 1%",
           "Level 2: Reduce damage taken from [PSY] characters by ?%",
@@ -66,11 +69,11 @@
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by 50",
-          "Level 2: Boosts base ATK by ?",
-          "Level 3: Boosts base ATK by ?",
-          "Level 4: Boosts base ATK by ?",
-          "Level 5: Boosts base ATK by ?"
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : ?",
+          "Level 3: 공격력 상승 : ?",
+          "Level 4: 공격력 상승 : ?",
+          "Level 5: 공격력 상승 : ?"
         ]
       }
     ],

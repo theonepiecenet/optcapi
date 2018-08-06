@@ -3,58 +3,61 @@
   "detail": {
     "captain": "일당의 회복력을 크게 감소시키고 공격 시작 전, 체력이 가득 차 있으면 참격형과 타격형 캐릭터의 공격력이 2.75배가 된다",
     "special": "일당의 체력을 10% 줄이고, 참격형과 타격형의 [BLOCK][TND][RCV] 슬롯을 속성 일치 슬롯으로 바꾼다",
-    "sailor": "[RCV] 획득 시 추가로 체력을 150 회복한다",
+    "sailor": {
+      "base": "[RCV] 획득 시 추가로 체력을 150 회복한다",
+      "level1": "Boosts base ATK and HP of Striker characters by 50"
+    },
     "specialName": "목숨을 건 목 베기",
     "limit": [
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 25"
+        "description": "공격력 상승 : 25"
       },
       {
-        "description": "Acquire Potential 1: [INT] Damage Reduction"
+        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK and HP of Striker characters by 50"
+        "description": "선원 효과 추가 1: Boosts base ATK and HP of Striker characters by 50"
       },
       {
-        "description": "Boosts base ATK by 35"
+        "description": "공격력 상승 : 35"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "잠재능력 습득 2: Enrage"
       }
     ],
     "potential": [
       {
-        "Name": "[INT] Damage Reduction",
+        "Name": "[INT] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [INT] characters by 1%",
           "Level 2: Reduce damage taken from [INT] characters by 2%",
@@ -66,11 +69,11 @@
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by 30",
-          "Level 2: Boosts base ATK by 60",
-          "Level 3: Boosts base ATK by 90",
-          "Level 4: Boosts base ATK by 120",
-          "Level 5: Boosts base ATK by 150"
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : 60",
+          "Level 3: 공격력 상승 : 90",
+          "Level 4: 공격력 상승 : 120",
+          "Level 5: 공격력 상승 : 150"
         ]
       }
     ],

@@ -3,7 +3,11 @@
   "detail": {
     "captain": "타격형과 강인형 캐릭터의 공격력을 2.5배, [DEX]의 체력을 1.3배로 만든다",
     "special": "모든 슬롯을 [DEX]로 바꾸고, 2턴 동안 적 전체의 방어력을 대폭 감소시키며, 타격형과 강인형 캐릭터의 공격력을 2턴 동안 1.75배로 만든다",
-    "sailor": "자신은 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
+    "sailor": {
+      "base": "자신은 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
+      "level1": "Boosts this character's attack against [STR] characters by 2x"
+    },
+    "sailorNotes": "#{beneficial}",
     "specialName": "뱀머리칼 강림 팔기대사",
     "limit": [
       {
@@ -74,7 +78,6 @@
         ]
       }
     ],
-    "sailorNotes": "#{beneficial}",
     "potentialNotes": "#{enrage}"
   }
 }

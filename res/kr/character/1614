@@ -2,60 +2,63 @@
   "name": "로브 루치, 대해적 시대의 사투 [어둠의 정의]",
   "detail": {
     "captain": "Boosts ATK of Fighter characters by 2.5x and their HP by 1.25x",
-    "special": "Cuts the current HP of each enemy by 10%, reduces the defense of all enemies by 50% and amplifies the effects of orbs by 1.75x for 1 턴",
+    "special": "Cuts the current HP of each enemy by 10%, reduces the defense of all enemies by 50% and amplifies the effects of orbs by 1.75x for 1 turn",
     "specialName": "4000 Power Level Technique: Tempest Kick",
-    "sailor": "Adds 2x character's ATK as Additional Typeless Damage",
+    "sailor": {
+      "base": "Adds 2x character's ATK as Additional Typeless Damage",
+      "level1": "If this character has a [DEX] orb and you hit a Perfect with him, keep his [DEX] orb for the next turn"
+    },
     "sailorNotes": "#{additionalDamage : 2x}",
     "limit": [
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+        "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: If this character has a [DEX] orb and you hit a Perfect with him, keep his [DEX] orb for the next turn"
+        "description": "선원 효과 추가 1: If this character has a [DEX] orb and you hit a Perfect with him, keep his [DEX] orb for the next turn"
       },
       {
-        "description": "Acquire Potential 2: Critical Hit"
+        "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
     "potential": [
       {
-        "Name": "[QCK] Damage Reduction",
+        "Name": "[QCK] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [QCK] characters by 1%",
           "Level 2: Reduce damage taken from [QCK] characters by ?%",
@@ -65,7 +68,7 @@
         ]
       },
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
           "Level 1: If you hit a perfect with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
           "Level 2: If you hit a perfect with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",

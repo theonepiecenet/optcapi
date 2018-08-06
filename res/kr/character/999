@@ -1,9 +1,9 @@
 {
   "name": "디아만테, 돈키호테 해적단",
   "detail": {
-    "captain": "Boosts ATK of Driven characters by 2.25x and reduces cooldown of all specials by 2 턴 at the start of the fight",
+    "captain": "Boosts ATK of Driven characters by 2.25x and reduces cooldown of all specials by 2 turns at the start of the fight",
     "specialName": "Hira Release: Death Enjambre",
-    "special": "Delays all enemies for 2 턴, deals 50x character's ATK as typeless damage to all enemies at the end of the 턴 for 5 턴",
+    "special": "Delays all enemies for 2 turns, deals 50x character's ATK as typeless damage to all enemies at the end of the turn for 5 turns",
     "sailor": {
       "base": "None",
       "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character"
@@ -11,54 +11,54 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: Critical Hit"
+        "description": "잠재능력 습득 1: 크리티컬 공격"
       },
       {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base ATK by 40"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs “beneficial” for this character"
-      },
-      {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "선원 효과 추가 1: Makes [RCV] and [TND] orbs “beneficial” for this character"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Potential 2: [DEX] Damage Reduction"
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "잠재능력 소켓슬롯 추가 : 1"
+      },
+      {
+        "description": "잠재능력 습득 2: [DEX] 데미지 피해 감소"
       }
     ],
     "potential": [
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
           "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
           "Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "Name": "[DEX] Damage Reduction",
+        "Name": "[DEX] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [DEX] characters by 1%",
           "Level 2: Reduce damage taken from [DEX] characters by 2%",

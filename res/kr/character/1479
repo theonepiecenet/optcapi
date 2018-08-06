@@ -4,7 +4,11 @@
     "captain": "Boosts ATK of all characters by 1.75x after the 11th hit in the chain, by 2.5x after the 22nd hit, by 2.75x after the 33th hit, by 3.5x after the 44th hit",
     "special": "Deals 15 hits of 12x character's ATK in typeless damage to random enemies and boosts ATK of [QCK] and [INT] characters by 2x for 1 턴",
     "specialNotes": "#{randomHits : 15}",
-    "sailor": "Completely resists Paralysis on this character",
+    "sailor": {
+      "base": "Completely resists Paralysis on this character",
+      "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character"
+    },
+    "sailorNotes": "#{beneficial}",
     "specialName": "Swamp-Swamp Gatling Gun",
     "limit": [
       {
@@ -75,7 +79,6 @@
         ]
       }
     ],
-    "potentialNotes": "Enrage is activated when your crew took damage from your enemies in the previous 턴",
-    "sailorNotes": "#{beneficial}"
+    "potentialNotes": "Enrage is activated when your crew took damage from your enemies in the previous 턴"
   }
 }

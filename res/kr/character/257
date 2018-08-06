@@ -4,6 +4,11 @@
     "special": "[STR],[QCK] 슬롯이 [DEX] 슬롯으로 바뀐다.",
     "specialName": "화려한 쌍권총",
     "captain": "[DEX] 캐릭터의 공격력과 회복력이 2배가 된다",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of [DEX] characters by 50",
+      "level2": "Boosts base ATK of Shooter characters by 50"
+    },
     "limit": [
       {
         "description": "필살기 턴 단축 : 1턴"
@@ -51,6 +56,7 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
+    "limitnotes": "선장효과는 중첩됩니다. 그래서 [DEX] 사격 캐릭터는 공격력이 2.4배가 됩니다.",
     "potential": [
       {
         "Name": "크리티컬 공격",
@@ -72,12 +78,6 @@
           "Level 5: 회복 무효 상태 회복 : 3 턴"
         ]
       }
-    ],
-    "captainNotes": "Attack boost stacks, so a [DEX] Shooter character has a 2.4x ATK",
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of [DEX] characters by 50",
-      "level2": "Boosts base ATK of Shooter characters by 50"
-    }
+    ]
   }
 }

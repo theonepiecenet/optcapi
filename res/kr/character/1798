@@ -25,7 +25,11 @@
         ]
       }
     ],
-    "sailor": "[STR][DEX][QCK]캐릭터는 기본 능력치가 +75가 된다",
+    "specialNotes": "#{stages}",
+    "sailor": {
+      "base": "[STR][DEX][QCK]캐릭터는 기본 능력치가 +75가 된다",
+      "level1": "Reduces Silence duration on this character by 3 turns"
+    },
     "specialName": "파동 엘보",
     "limit": [
       {
@@ -96,7 +100,6 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
     "potentialNotes": "#{enrage}"
   }
 }

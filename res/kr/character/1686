@@ -1,61 +1,64 @@
 {
   "name": "우솝, 20th Anniversary Memorial Treasure",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by 3.25x following a chain of GOOD→GREAT→PERFECT hits",
-    "special": "Changes [EMPTY] orbs into Matching orbs, changes Badly Matching orbs into [RCV] orbs and delays all enemies for 1 턴",
+    "captain": "Boosts ATK of Shooter characters by 3.25x following a chain of Good > Great > PERFECT hits",
+    "special": "Changes [EMPTY] orbs into Matching orbs, changes Badly Matching orbs into [RCV] orbs and delays all enemies for 1 turn",
     "specialName": "Green Star: Bamboo Javelin-Grove",
-    "sailor": "Reduces Silence duration on this character by 4 턴",
+    "sailor": {
+      "base": "Reduces Silence duration on this character by 4 turns",
+      "level1": "Boosts base ATK and HP of Shooter characters by 50"
+    },
     "sailorNotes": "#{silence}",
     "limit": [
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK and HP of Shooter characters by 50"
+        "description": "선원 효과 추가 1: Boosts base ATK and HP of Shooter characters by 50"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Acquire Potential 2: Barrier Penetration"
+        "description": "잠재능력 습득 2: Barrier Penetration"
       }
     ],
     "potential": [
       {
-        "Name": "[PSY] Damage Reduction",
+        "Name": "[PSY] 데미지 피해 감소",
         "description": [
           "Level 1: Reduce damage taken from [PSY] characters by 1%",
           "Level 2: Reduce damage taken from [PSY] characters by ?%",

@@ -4,7 +4,11 @@
     "captain": "INT캐릭터의 공격력이 2.5배 증가하고 턴 종료 시 캐릭터 회복력 2배의 체력을 회복한다.",
     "special": "2턴 동안 받는 데미지를 50% 감소시키고, 2턴 동안 독에 중독된 적에게 주는 데미지가 1.75배가 된다.",
     "specialName": "초열지옥차",
-    "sailor": "선장이 타격 캐릭터면 [STR][QCK][DEX][PSY][INT]슬롯도 [유리] 슬롯으로 취급한다.",
+    "sailor": {
+      "base": "선장이 타격 캐릭터면 [STR][QCK][DEX][PSY][INT]슬롯도 [유리] 슬롯으로 취급한다.",
+      "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character if your Captain is a Driven character"
+    },
+    "sailorNotes": "#{beneficial}",
     "limit": [
       {
         "description": "체력 상승 : 20"
@@ -74,7 +78,6 @@
         ]
       }
     ],
-    "sailorNotes": "#{beneficial}",
     "potentialNotes": "#{enrage}"
   }
 }

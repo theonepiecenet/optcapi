@@ -4,21 +4,21 @@
     "captain": "Boosts ATK of Striker and Free Spirit characters by 1.75x",
     "special": [
       {
-        "description": "Delays all enemies for 1 턴. Locks all orbs for 1 턴. Cuts the current HP of all enemies by 10%",
+        "description": "Delays all enemies for 1 turn. Locks all orbs for 1 turn. Cuts the current HP of all enemies by 10%",
         "cooldown": [
           16,
           12
         ]
       },
       {
-        "description": "Delays all enemies for 1 턴. Locks all orbs for 1 턴. Cuts the current HP of all enemies by 20%",
+        "description": "Delays all enemies for 1 turn. Locks all orbs for 1 turn. Cuts the current HP of all enemies by 20%",
         "cooldown": [
           20,
           16
         ]
       }
     ],
-    "specialName": "Haute Couture: Patchwork",
-    "specialNotes": "#{stages}"
+    "specialNotes": "#{stages}",
+    "specialName": "Haute Couture: Patchwork"
   }
 }

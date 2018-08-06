@@ -2,7 +2,7 @@
   "name": "퀴로스 전 리쿠왕군 군대장",
   "detail": {
     "captain": "Boosts ATK of characters with cost 30 or less by 2.5x",
-    "special": "Deals [DEX] damage to one enemy, changes own orb to [DEX] and boosts own ATK by 2x for 1 턴",
+    "special": "Deals [DEX] damage to one enemy, changes own orb to [DEX] and boosts own ATK by 2x for 1 turn",
     "specialName": "Trueno Bastardo",
     "sailor": {
       "base": "None",
@@ -11,60 +11,60 @@
     },
     "limit": [
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Acquire Potential 1: Enrage"
+        "description": "잠재능력 습득 1: Enrage"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 2 turns"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "선원 효과 추가 1: Reduces Paralysis duration on this character by 2 turns"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts base ATK of all characters by 50"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Acquire Potential 2: Reduce No Healing duration"
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "선원 효과 추가 2: Boosts base ATK of all characters by 50"
+      },
+      {
+        "description": "잠재능력 습득 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by 20",
-          "Level 2: Boosts base ATK by ??",
-          "Level 3: Boosts base ATK by ??",
-          "Level 4: Boosts base ATK by ??",
-          "Level 5: Boosts base ATK by ??"
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : ??"
         ]
       },
       {

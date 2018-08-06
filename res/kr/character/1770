@@ -4,6 +4,11 @@
     "captain": "박식형 캐릭터의 공격력이 2.5배, 체력이 1.2배가 되며, GOOD→GREAT→PERFECT  판정 이후 같은형 캐릭터의 공격력이 3.25배가 된다",
     "special": "적 전체의 공격을 1턴 지연시키고 선장이 박식 타입일 경우 1턴 동안 지연 중의 적에게 주는 데미지가 1.5배가 되며, 인접 슬롯이 자속성 슬롯을 변환한다",
     "specialName": "억제의 총구",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Blindness duration by 3 turns",
+      "level2": "Adds 2x character's ATK as Additional Typeless Damage"
+    },
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -73,11 +78,6 @@
         ]
       }
     ],
-    "sailor": {
-      "base": "None",
-      "level1": "Reduces Blindness duration by 3 turns",
-      "level2": "Adds 2x character's ATK as Additional Typeless Damage"
-    },
     "potentialNotes": "#{enrage}"
   }
 }

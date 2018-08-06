@@ -12,60 +12,60 @@
     },
     "limit": [
       {
-        "description": "Boosts base RCV by 25"
+        "description": "회복력 상승 : 25"
       },
       {
-        "description": "Boosts base RCV by 25"
+        "description": "회복력 상승 : 25"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: Enrage"
+        "description": "잠재능력 습득 1: Enrage"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base HP by 70"
+        "description": "체력 상승 : 70"
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Acquire Sailor Ability 1: Changes all orbs into [STR] orbs at the start of the fight"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 3 turns"
-      },
-      {
-        "description": "Boosts base ATK by 80"
+        "description": "선원 효과 추가 1: Changes all orbs into [STR] orbs at the start of the fight"
       },
       {
         "description": "Reduce base Special Cooldown by 3 turns"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts own base ATK by 100 if this character is the last in the chain to attack"
+        "description": "공격력 상승 : 80"
       },
       {
-        "description": "Acquire Potential 2: Cooldown Reduction"
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "선원 효과 추가 2: Boosts own base ATK by 100 if this character is the last in the chain to attack"
+      },
+      {
+        "description": "잠재능력 습득 2: Cooldown Reduction"
       }
     ],
     "potential": [
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by ?",
-          "Level 2: Boosts base ATK by ?",
-          "Level 3: Boosts base ATK by ?",
-          "Level 4: Boosts base ATK by ?",
-          "Level 5: Boosts base ATK by ?"
+          "Level 1: 공격력 상승 : ?",
+          "Level 2: 공격력 상승 : ?",
+          "Level 3: 공격력 상승 : ?",
+          "Level 4: 공격력 상승 : ?",
+          "Level 5: 공격력 상승 : ?"
         ]
       },
       {

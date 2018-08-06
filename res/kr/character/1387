@@ -4,6 +4,12 @@
     "captain": "일당의 공격력을 2.25배, 체력을 1.25배, 4연속 PERFECT를 달성하면 이후 캐릭터의 공격력이 1.25배 더 상승한다",
     "special": "적 전체에게 공격력x40배의 [STR] 데미지를 주고, 공격을 1턴 지연시킨다",
     "specialName": "고무고무 코끼리 총",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts own base ATK by 100 if this character is the last in the chain to attack",
+      "level2": "Makes [QCK] orbs “beneficial” for this character"
+    },
+    "sailorNotes": "#{beneficial}",
     "limit": [
       {
         "description": "필살기 턴 단축 : 1턴"
@@ -73,12 +79,6 @@
         ]
       }
     ],
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts own base ATK by 100 if this character is the last in the chain to attack",
-      "level2": "Makes [QCK] orbs “beneficial” for this character"
-    },
-    "sailorNotes": "#{beneficial}",
     "potentialNotes": "#{enrage}"
   }
 }
