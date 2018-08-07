@@ -9,7 +9,7 @@
     "sailor": {
       "base": "None",
       "level1": "Cannot be Blown Away",
-      "level2": "Boosts ATK, HP and RCV of Powerhouse and Driven characters by 50"
+      "level2": "Boosts ATK, HP and RCV of Powerhouse and 야심형 characters by 50"
     },
     "limit": [
       {
@@ -73,7 +73,7 @@
         "description": "체력 상승 : 60"
       },
       {
-        "description": "선원효과 추가 2: Boosts ATK, HP and RCV of Powerhouse and Driven characters by 50"
+        "description": "선원효과 추가 2: Boosts ATK, HP and RCV of Powerhouse and 야심형 characters by 50"
       },
       {
         "description": "회복력 상승 : 15"
@@ -118,19 +118,19 @@
         "Name": "크리티컬 공격",
         "description": [
           "Level 1: PERFECT 적중 시, 20% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 시의 데미지에 10%의 추가 데미지가 가산된다"
+          "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
         ]
       },
       {
         "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 3 턴 on this character",
-          "Level 2: 캐릭터의 봉인상태를 5턴 감소시킨다.",
-          "Level 3: Reduces Slot Bind duration by 7 턴 on this character",
-          "Level 4: 캐릭터의 봉인상태를 10턴 감소시킨다.",
+          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 감소시킨다.",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 5턴 감소시킨다.",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 7턴 감소시킨다.",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 10턴 감소시킨다.",
           "Level 5: Reduces Slot Bind completely on this character"
         ]
       }

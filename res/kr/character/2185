@@ -1,7 +1,7 @@
 {
   "name": "매의 눈 미호크, Chaos at Marineford - ‘Swordsman’",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters by 2.5x and boosts HP of [PSY] characters by 1.3x",
+    "captain": "Boosts ATK of 참격형 characters by 2.5x and boosts HP of [PSY] characters by 1.3x",
     "special": "Deal 50x character's ATK in typeless damage to one enemy and reduces enemy Barrier duration by 1 turn. If your crew has 3 or more [PSY] characters, changes own orb into [PSY] and amplifies the effect of orbs by 2x for 1 turn",
     "specialName": "Hawk Eyes' Instantaneous Killing",
     "sailor": {
@@ -10,7 +10,7 @@
     },
     "potential": [
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
           "Level 1: 공격력 상승 : 30",
           "Level 2: 공격력 상승 : 60",
@@ -22,11 +22,11 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a 50% chance to deal 6% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a 60% chance to deal 7% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a 70% chance to deal 8% of this character's attack in extra damage"
+          "Level 1: PERFECT 적중 시, 30% 확률로 공격력의 4% 추가 데미지를 입힌다.",
+          "Level 2: PERFECT 적중 시, 40% 확률로 공격력의 5% 추가 데미지를 입힌다.",
+          "Level 3: PERFECT 적중 시, 50% 확률로 공격력의 6% 추가 데미지를 입힌다.",
+          "Level 4: PERFECT 적중 시, 60% 확률로 공격력의 7% 추가 데미지를 입힌다.",
+          "Level 5: PERFECT 적중 시, 70% 확률로 공격력의 8% 추가 데미지를 입힌다."
         ]
       }
     ],

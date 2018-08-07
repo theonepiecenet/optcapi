@@ -1,11 +1,11 @@
 {
   "name": "페드로, “Soul King’s” Partner",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters by 2.5x and reduces damage received by 7%",
+    "captain": "Boosts ATK of 참격형 characters by 2.5x and reduces damage received by 7%",
     "special": "Cuts the current HP of one enemy by 10%. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, amplifies the effect of orbs by 1.75x for 1 turn and boosts ATK of all characters by 1.75x for 1 turn",
     "specialName": "Risky Diversion",
     "sailor": {
-      "base": "Boosts base ATK of Slasher characters by 40",
+      "base": "Boosts base ATK of 참격형 characters by 40",
       "level1": "Makes [DEX] orbs “beneficial” for himself"
     },
     "sailorNotes": "#{beneficial}",
@@ -60,21 +60,21 @@
       {
         "Name": "[STR]데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [STR] characters by 1%",
-          "Level 2: Reduce damage taken from [STR] characters by 2%",
-          "Level 3: Reduce damage taken from [STR] characters by 3%",
-          "Level 4: Reduce damage taken from [STR] characters by 4%",
-          "Level 5: Reduce damage taken from [STR] characters by 5%"
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 시의 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 시의 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 시의 데미지에 7%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 시의 데미지에 8%의 추가 데미지가 가산된다"
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"
         ]
       }
     ]

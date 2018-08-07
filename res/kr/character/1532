@@ -29,7 +29,7 @@
     "specialNotes": "#{stages}",
     "sailor": {
       "base": "Completely resists Blindness",
-      "level1": "Boosts base HP of Shooter characters by 100"
+      "level1": "사격형 캐릭터의 기본 체력이 100 상승한다"
     },
     "specialName": "Long-Range Attack: Bagworm",
     "limit": [
@@ -55,7 +55,7 @@
         "description": "공격력 상승 : 15"
       },
       {
-        "description": "선원효과 추가 1: Boosts base HP of Shooter characters by 100"
+        "description": "선원효과 추가 1: 사격형 캐릭터의 기본 체력이 100 상승한다"
       },
       {
         "description": "공격력 상승 : 15"
@@ -139,20 +139,20 @@
         "Name": "크리티컬 공격",
         "description": [
           "Level 1: PERFECT 적중 시, 20% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 시의 데미지에 10%의 추가 데미지가 가산된다"
+          "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
         ]
       },
       {
         "Name": "배리어 관통",
         "description": [
-          "Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
-          "Level 2: This character's attack will ignore barriers if HP is above 90%",
-          "Level 3: This character's attack will ignore barriers if HP is above 70%",
-          "Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
-          "Level 5: This character's attack will ignore barriers if HP is above 30%"
+          "Level 1: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 일당의 체력이 90% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 3: 일당의 체력이 70% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 5: 일당의 체력이 30% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다"
         ]
       }
     ]

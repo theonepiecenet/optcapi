@@ -6,7 +6,7 @@
     "specialName": "The Great Final Act of One's Victory",
     "sailor": {
       "base": "If this character has a [PSY] orb and you hit a GOOD or GREAT with her, keep her [PSY] orb for the next turn",
-      "level1": "If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, Powerhouse and Driven character on your crew, Changes all orbs into Matching orbs at the start of the fight"
+      "level1": "If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, Powerhouse and 야심형 character on your crew, Changes all orbs into Matching orbs at the start of the fight"
     },
     "limit": [
       {
@@ -37,7 +37,7 @@
         "description": "회복력 상승 : 30"
       },
       {
-        "description": "선원 효과 추가 1: If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, Powerhouse and Driven character on your crew, Changes all orbs into Matching orbs at the start of the fight"
+        "description": "선원 효과 추가 1: If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, Powerhouse and 야심형 character on your crew, Changes all orbs into Matching orbs at the start of the fight"
       },
       {
         "description": "체력 상승 : 60"
@@ -59,21 +59,21 @@
       {
         "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
         ]
       },
       {
         "Name": "[INT]데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 2%",
-          "Level 2: Reduce damage taken from [INT] characters by 3%",
-          "Level 3: Reduce damage taken from [INT] characters by 4%",
-          "Level 4: Reduce damage taken from [INT] characters by 5%",
-          "Level 5: Reduce damage taken from [INT] characters by 7%"
+          "Level 1: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"
         ]
       }
     ]

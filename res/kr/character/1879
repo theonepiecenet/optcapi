@@ -64,7 +64,7 @@
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base HP of all characters by 150"
+        "description": "선원 효과 추가 1: 일당의 기본 체력이 150 상승한다"
       },
       {
         "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
@@ -74,21 +74,21 @@
       {
         "Name": "[PSY]데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by 1%",
-          "Level 2: Reduce damage taken from [PSY] characters by 2%",
-          "Level 3: Reduce damage taken from [PSY] characters by 3%",
-          "Level 4: Reduce damage taken from [PSY] characters by 4%",
-          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
         "Name": "[INT]데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by 2%",
-          "Level 3: Reduce damage taken from [INT] characters by 3%",
-          "Level 4: Reduce damage taken from [INT] characters by 4%",
-          "Level 5: Reduce damage taken from [INT] characters by 5%"
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       }
     ]

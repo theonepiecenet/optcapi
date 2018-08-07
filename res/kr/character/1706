@@ -6,7 +6,7 @@
     "specialName": "지옥에 남기는 말",
     "sailor": {
       "base": "일당의 기본 능력치가 50 상승한다",
-      "level1": "Restores his own special cooldown by 2 turns when it is rewinded"
+      "level1": "자신의 필살기 턴 되돌리기를 2턴 회복한다"
     },
     "sailorNotes": "#{rewind : 2}",
     "limit": [
@@ -47,13 +47,13 @@
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "선원효과 추가 1: 필살기 턴 되감기가 2턴 회복된다."
+        "description": "선원효과 추가 1: 자신의 필살기 턴 되돌리기를 2턴 회복한다"
       },
       {
         "description": "소켓 슬롯 1개 추가"
       },
       {
-        "description": "잠재능력 습득 #: 피격 시 공격력 상승"
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
     "potential": [

@@ -1,13 +1,13 @@
 {
   "name": "코비, Marine HQ Captain",
   "detail": {
-    "captain": "Boosts ATK of Driven characters by 2.5x, recovers 2x character's RCV in HP at the end of each turn and reduce damage received by 7%",
-    "special": "Reduces Bind duration for one character completely, locks all orbs for 1 turn and boosts ATK of Driven characters by 1.75x for 3 turns",
+    "captain": "Boosts ATK of 야심형 characters by 2.5x, recovers 2x character's RCV in HP at the end of each turn and reduce damage received by 7%",
+    "special": "Reduces Bind duration for one character completely, locks all orbs for 1 turn and boosts ATK of 야심형 characters by 1.75x for 3 turns",
     "specialName": "Unshameful Fist of Justice",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base HP of Driven characters by 75",
-      "level2": "Makes [PSY] orbs “beneficial” for Driven characters"
+      "level1": "Boosts base HP of 야심형 characters by 75",
+      "level2": "Makes [PSY] orbs “beneficial” for 야심형 characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -27,7 +27,7 @@
         "description": "체력 상승 : 50"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base HP of Driven characters by 75"
+        "description": "선원 효과 추가 1: Boosts base HP of 야심형 characters by 75"
       },
       {
         "description": "체력 상승 : 60"
@@ -51,7 +51,7 @@
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for Driven characters"
+        "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for 야심형 characters"
       },
       {
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
@@ -71,11 +71,11 @@
       {
         "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 7 turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
         ]
       }
     ]

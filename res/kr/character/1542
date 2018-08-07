@@ -5,7 +5,7 @@
     "special": "캐릭터의 회복력x13배로 체력을 회복하고, 1턴 동안 체인 계수를 +0.5, 적 전체의 방어력을 0으로 만든다",
     "sailor": {
       "base": "자신의 필살기 턴 되돌리기를 2턴 회복한다",
-      "level1": "Boosts base HP of all characters by 100"
+      "level1": "일당의 기본 체력이 100 상승한다"
     },
     "sailorNotes": "#{rewind : 1}",
     "specialName": "둥실둥실 부드럽고 상냥한 입맞춤",
@@ -26,7 +26,7 @@
         "description": "공격력 상승 : 20"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "공격력 상승 : 30"
@@ -47,10 +47,10 @@
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base HP of all characters by 100"
+        "description": "선원 효과 추가 1: 일당의 기본 체력이 100 상승한다"
       },
       {
         "description": "잠재능력 습득 2: 긴급 회복"
@@ -60,11 +60,11 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage"
+          "Level 1: PERFECT 적중 시, 10% 확률로 공격력의 3% 추가 데미지를 입힌다.",
+          "Level 2: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
+          "Level 3: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
+          "Level 4: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
+          "Level 5: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다."
         ]
       },
       {

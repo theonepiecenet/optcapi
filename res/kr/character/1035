@@ -49,13 +49,13 @@
         "description": "체력 상승 : 45"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "체력 상승 : 50"
       },
       {
-        "description": "잠재능력 습득 2: Enrage"
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       },
       {
         "description": "회복력 상승 : 20"
@@ -64,7 +64,7 @@
         "description": "공격력 상승 : 30"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "체력 상승 : 55"
@@ -76,7 +76,7 @@
         "description": "공격력 상승 : 35"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "체력 상승 : 70"
@@ -85,7 +85,7 @@
         "description": "체력 상승 : 80"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "회복력 상승 : 40"
@@ -107,15 +107,15 @@
       {
         "Name": "[DEX] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [DEX] characters by 2%",
-          "Level 2: Reduce damage taken from [DEX] characters by 3%",
-          "Level 3: Reduce damage taken from [DEX] characters by 4%",
-          "Level 4: Reduce damage taken from [DEX] characters by 5%",
-          "Level 5: Reduce damage taken from [DEX] characters by 7%"
+          "Level 1: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 7% 감소시킨다"
         ]
       },
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
           "Level 1: 공격력 상승 : 30",
           "Level 2: 공격력 상승 : 60",

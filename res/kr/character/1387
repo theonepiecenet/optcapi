@@ -6,8 +6,8 @@
     "specialName": "고무고무 코끼리 총",
     "sailor": {
       "base": "None",
-      "level1": "Boosts own base ATK by 100 if this character is the last in the chain to attack",
-      "level2": "Makes [QCK] orbs “beneficial” for this character"
+      "level1": "자신이 마지막으로 공격할 때 자신의 기본 공격력이 100 상승한다",
+      "level2": "자신은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -39,7 +39,7 @@
         "description": "체력 강화 : 50"
       },
       {
-        "description": "선원효과 추가 1: 자신이 마지막으로 공격할 때 자신의 기본 공격력이 100증가한다."
+        "description": "선원효과 추가 1: 자신이 마지막으로 공격할 때 자신의 기본 공격력이 100 상승한다"
       },
       {
         "description": "체력강화 : 50"
@@ -51,7 +51,7 @@
         "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "선원효과 추가 2: [QCK] 슬롯도 [유리] 슬롯으로 만든다."
+        "description": "선원효과 추가 2: 자신은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다"
       },
       {
         "description": "잠재능력 습득 2: 회복 무효 상태 회복"

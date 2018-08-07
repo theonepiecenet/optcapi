@@ -28,10 +28,10 @@
         "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
       },
       {
-        "description": "새로운 선장 효과 습득: Boosts ATK of all characters proportionally to the crew's current HP, by 2.35x at max and their HP by 1.2x"
+        "description": "새로운 선장 효과 습득: 일당의 체력이 1.2배, 공격 시작 전 남은 체력이 적을수록 일당의 공격력이 상승한다(최대 2.35배)"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base HP of all characters by 100"
+        "description": "선원 효과 추가 1: 일당의 기본 체력이 100 상승한다"
       },
       {
         "description": "공격력 상승 : 15"
@@ -43,7 +43,7 @@
         "description": "회복력 상승 : 10"
       },
       {
-        "description": "새로운 선장 효과 습득: Boosts ATK of all characters proportionally to the crew's current HP, by 2.45x at max and their HP by 1.2x"
+        "description": "새로운 선장 효과 습득: 일당의 체력이 1.2배, 공격 시작 전 남은 체력이 적을수록 일당의 공격력이 상승한다(최대 2.45배)"
       },
       {
         "description": "소켓 슬롯 1개 추가"
@@ -61,7 +61,7 @@
         "description": "회복력 상승 : 15"
       },
       {
-        "description": "새로운 선장 효과 습득: Boosts ATK of all characters proportionally to the crew's current HP, by 2.55x at max and their HP by 1.2x"
+        "description": "새로운 선장 효과 습득: 일당의 체력이 1.2배, 공격 시작 전 남은 체력이 적을수록 일당의 공격력이 상승한다(최대 2.55배)"
       },
       {
         "description": "필살기 턴 단축 : 2턴"
@@ -91,7 +91,7 @@
         "description": "필살기 턴 단축 : 4턴"
       },
       {
-        "description": "새로운 선장 효과 습득: Boosts ATK of all characters proportionally to the crew's current HP, by 2.65x at max and their HP by 1.2x"
+        "description": "새로운 선장 효과 습득: 일당의 체력이 1.2배, 공격 시작 전 남은 체력이 적을수록 일당의 공격력이 상승한다(최대 2.65배)"
       },
       {
         "description": "공격력 상승 : 30"
@@ -100,7 +100,7 @@
         "description": "체력 상승 : 70"
       },
       {
-        "description": "선원 효과 추가 2: Boosts base ATK of all characters by 50"
+        "description": "선원 효과 추가 2: 일당의 기본 공격력이 50 상승한다"
       },
       {
         "description": "공격력 상승 : 35"
@@ -118,7 +118,7 @@
         "description": "소켓 슬롯 1개 추가"
       },
       {
-        "description": "새로운 선장 효과 습득: Boosts ATK of all characters proportionally to the crew's current HP, by 2.75x at max and their HP by 1.35x"
+        "description": "새로운 선장 효과 습득: 일당의 체력이 1.2배, 공격 시작 전 남은 체력이 적을수록 일당의 공격력이 상승한다(최대 2.75배)"
       },
       {
         "description": "공격력 상승 : 40"
@@ -127,7 +127,7 @@
         "description": "체력 상승 : 100"
       },
       {
-        "description": "새로운 선장 효과 습득: Boosts ATK of all characters proportionally to the crew's current HP, by 3.25x at max and their HP by 1.35x"
+        "description": "새로운 선장 효과 습득: 일당의 체력이 1.35배, 공격 시작 전 남은 체력이 적을수록 일당의 공격력이 상승한다(최대 3.25배)"
       },
       {
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
@@ -137,11 +137,11 @@
       {
         "Name": "[PSY]데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by 1%",
-          "Level 2: Reduce damage taken from [PSY] characters by 2%",
-          "Level 3: Reduce damage taken from [PSY] characters by 3%",
-          "Level 4: Reduce damage taken from [PSY] characters by 4%",
-          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {

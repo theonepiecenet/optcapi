@@ -1,26 +1,26 @@
 {
   "name": "바이올렛",
   "detail": {
-    "captain": "Boosts amount of Beli received by 2x",
+    "captain": "베리의 획득량이 2배가 된다(모험 도중에 선장이 되면 효과 무효)",
+    "specialName": "피핑 마인드",
     "special": [
       {
-        "description": "Reduces Special Cooldown of Cerebral and Fighter specials by 1 turn. Displays the status of all enemies.",
+        "description": "적의 능력치가 보이게 되며, 박식형과 격투형의 필살 턴을 1턴 단축한다",
         "cooldown": [
           13,
           7
         ]
       },
       {
-        "description": "Reduces Special Cooldown of Cerebral and Fighter specials by 2 turns. Displays the status of all enemies.",
+        "description": "적의 능력치가 보이게 되며, 박식형과 격투형의 필살 턴을 2턴 단축한다",
         "cooldown": [
           20,
           14
         ]
       }
     ],
-    "specialName": "Peeping Mind",
     "specialNotes": "Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on turns' and 'Effect after Death'<br>#{stages}",
-    "sailor": "Restores her own special by 1 turn when it is rewinded",
+    "sailor": "자신의 필살기 턴 되돌리기를 1턴 회복한다",
     "sailorNotes": "#{rewind : 1}"
   }
 }

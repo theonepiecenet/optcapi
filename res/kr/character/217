@@ -15,7 +15,7 @@
         "description": "회복력 상승 : 10"
       },
       {
-        "description": "Reduce base Special Cooldown by 4 turns"
+        "description": "필살기 턴 수 단축: 4"
       },
       {
         "description": "회복력 상승 : 20"
@@ -27,7 +27,7 @@
         "description": "회복력 상승 : 30"
       },
       {
-        "description": "Reduce base Special Cooldown by 5 turns"
+        "description": "필살기 턴 수 단축: 5"
       },
       {
         "description": "회복력 상승 : 40"
@@ -48,7 +48,7 @@
         "description": "회복력 상승 : 60"
       },
       {
-        "description": "Reduce base Special Cooldown by 5 turns"
+        "description": "필살기 턴 수 단축: 5"
       },
       {
         "description": "선원 효과 추가 2: Boosts own base ATK by 200 if this character is the last in the chain to attack"
@@ -61,11 +61,11 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a 40% chance to deal 7% of this character's attack in extra damage"
+          "Level 1: PERFECT 적중 시, 10% 확률로 공격력의 3% 추가 데미지를 입힌다.",
+          "Level 2: PERFECT 적중 시, 10% 확률로 공격력의 5% 추가 데미지를 입힌다.",
+          "Level 3: PERFECT 적중 시, 15% 확률로 공격력의 5% 추가 데미지를 입힌다.",
+          "Level 4: PERFECT 적중 시, 20% 확률로 공격력의 5% 추가 데미지를 입힌다.",
+          "Level 5: PERFECT 적중 시, 40% 확률로 공격력의 7% 추가 데미지를 입힌다."
         ]
       },
       {

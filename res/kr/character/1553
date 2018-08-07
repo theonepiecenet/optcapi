@@ -6,7 +6,7 @@
     "specialName": "거인의 천둥",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base HP of all characters by 100"
+      "level1": "일당의 기본 체력이 100 상승한다"
     },
     "limit": [
       {
@@ -34,7 +34,7 @@
         "description": "체력 상승 : 60"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "체력 상승 : 80"
@@ -43,31 +43,31 @@
         "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "공격력 상승 : 60"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base HP of all characters by 100"
+        "description": "선원 효과 추가 1: 일당의 기본 체력이 100 상승한다"
       },
       {
-        "description": "잠재능력 습득 2: Enrage"
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
     "potential": [
       {
         "Name": "[DEX] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [DEX] characters by 1%",
-          "Level 2: Reduce damage taken from [DEX] characters by 2%",
-          "Level 3: Reduce damage taken from [DEX] characters by 3%",
-          "Level 4: Reduce damage taken from [DEX] characters by 4%",
-          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
           "Level 1: 공격력 상승 : 20",
           "Level 2: 공격력 상승 : 30",

@@ -5,8 +5,8 @@
     "special": "Deals 20x character's ATK in [STR] damage to all enemies. Boosts ATK of all characters by 2x after 30th hit in the chain for 1 turn.",
     "specialName": "Shark Cutter - Flash",
     "sailor": {
-      "base": "Makes [QCK] orbs “beneficial” for this character",
-      "level1": "Boosts base ATK, HP and RCV of all characters by 50"
+      "base": "자신은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다",
+      "level1": "일당의 기본 능력치가 50 상승한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -20,7 +20,7 @@
         "description": "회복력 상승 : 20"
       },
       {
-        "description": "잠재능력 습득 1: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 1: 슬롯 봉쇄 내성"
       },
       {
         "description": "공격력 상승 : 30"
@@ -29,19 +29,19 @@
         "description": "체력 상승 : 60"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "회복력 상승 : 30"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "체력 상승 : 90"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "새로운 선장 효과 습득: Boosts HP of all characters by 1.25x. Boosts ATK of all characters by 2x after the 12th hit in the chain and by 3x after the 28th hit"
@@ -50,7 +50,7 @@
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of all characters by 50"
+        "description": "선원 효과 추가 1: 일당의 기본 능력치가 50 상승한다"
       },
       {
         "description": "잠재능력 습득 2: 크리티컬 공격"
@@ -58,23 +58,23 @@
     ],
     "potential": [
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
         ]
       },
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage"
+          "Level 1: PERFECT 적중 시, 40% 확률로 공격력의 4% 추가 데미지를 입힌다.",
+          "Level 2: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
+          "Level 3: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
+          "Level 4: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
+          "Level 5: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다."
         ]
       }
     ]

@@ -21,7 +21,7 @@
         "description": "체력 상승 : 40"
       },
       {
-        "description": "잠재능력 습득 1: Enrage"
+        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
       },
       {
         "description": "회복력 상승 : 30"
@@ -36,7 +36,7 @@
         "description": "선원 효과 추가 1: Makes [RCV] orbs “beneficial” for this character"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "체력 상승 : 70"
@@ -54,12 +54,12 @@
         "description": "선원 효과 추가 2: Boosts base ATK of [PSY] characters by 65"
       },
       {
-        "description": "잠재능력 습득 2: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
     "potential": [
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
           "Level 1: 공격력 상승 : 20",
           "Level 2: 공격력 상승 : 40",
@@ -69,13 +69,13 @@
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
         ]
       }
     ],

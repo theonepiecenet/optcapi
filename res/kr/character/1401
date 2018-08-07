@@ -1,8 +1,8 @@
 {
   "name": "글라디우스, 피카군 간부",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by 1.75x and boosts ATK of Driven characters by 1.5x",
-    "captainNotes": "The bonus is cumulative. Shooter Driven characters get a 2.625x bonus.",
+    "captain": "Boosts ATK of Shooter characters by 1.75x and boosts ATK of 야심형 characters by 1.5x",
+    "captainNotes": "The bonus is cumulative. Shooter 야심형 characters get a 2.625x bonus.",
     "special": [
       {
         "description": "Deals 13x character's ATK in [STR] damage to all enemies, reduces Bind and Despair duration by 1 턴 and boosts the Color Affinity of Shooter characters by 1.5x for 1 턴",
@@ -86,11 +86,11 @@
       {
         "Name": "배리어 관통",
         "description": [
-          "Level 1: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
-          "Level 2: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
-          "Level 3: 일당의 체력이 가득 차 있을시, 이 캐릭터의 공격은 베리어를 무시한다.",
-          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
-          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 베리어를 무시한다."
+          "Level 1: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 3: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다.",
+          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다."
         ]
       }
     ],

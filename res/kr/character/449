@@ -6,7 +6,7 @@
     "captain": "공격 시작 전 체력이 꽉 차있으면 [QCK] 캐릭터 공격력을 3배가 된다.",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of all characters by 20",
+      "level1": "일당의 기본 능력치가 20 상승한다",
       "level2": "Makes [DEX] orbs “beneficial” for this character"
     },
     "sailorNotes": "#{beneficial}",
@@ -21,7 +21,7 @@
         "description": "회복력 상승 : 20"
       },
       {
-        "description": "잠재능력 습득 1: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 1: 슬롯 봉쇄 내성"
       },
       {
         "description": "공격력 상승 : 30"
@@ -33,7 +33,7 @@
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of all characters by 20"
+        "description": "선원 효과 추가 1: 일당의 기본 능력치가 20 상승한다"
       },
       {
         "description": "회복력 상승 : 20"
@@ -48,7 +48,7 @@
         "description": "공격력 상승 : 60"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "선원 효과 추가 2: Makes [DEX] orbs “beneficial” for this character"
@@ -59,13 +59,13 @@
     ],
     "potential": [
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
         ]
       },
       {

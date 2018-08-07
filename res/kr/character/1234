@@ -1,13 +1,13 @@
 {
   "name": "타시기, 해군 GL 제5지부 ‘G-5’ 대령 ",
   "detail": {
-    "captain": "Boosts ATK of Slasher and Cerebral characters by 1.6x and their RCV by 1.3x",
+    "captain": "Boosts ATK of 참격형 and Cerebral characters by 1.6x and their RCV by 1.3x",
     "captainNotes": "Attack boost stacks, so a Slasher/Cerebral character has a 2.56x ATK",
-    "special": "Deals 15x character's ATK in [QCK] damage to all enemies. Boosts the Color Affinity of Slasher and Cerebral characters by 1.5x for 2 turns",
+    "special": "Deals 15x character's ATK in [QCK] damage to all enemies. Boosts the Color Affinity of 참격형 and Cerebral characters by 1.5x for 2 turns",
     "specialNotes": "#{colorAffinity : 1.5}",
     "specialName": "Cutting Drizzle",
     "sailor": {
-      "base": "Boosts base RCV of Slasher characters by 30",
+      "base": "Boosts base RCV of 참격형 characters by 30",
       "level1": "Boosts base ATK and HP of all characters by 30"
     },
     "limit": [
@@ -21,13 +21,13 @@
         "description": "체력 상승 : 60"
       },
       {
-        "description": "잠재능력 습득 1: Enrage"
+        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
       },
       {
         "description": "공격력 상승 : 20"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
         "description": "체력 상승 : 80"
@@ -42,7 +42,7 @@
         "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
         "description": "체력 상승 : 80"
@@ -59,7 +59,7 @@
     ],
     "potential": [
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
           "Level 1: 공격력 상승 : 30",
           "Level 2: 공격력 상승 : 60",

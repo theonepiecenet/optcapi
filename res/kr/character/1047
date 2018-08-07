@@ -22,7 +22,7 @@
         "description": "체력 상승 : 30"
       },
       {
-        "description": "잠재능력 습득 1: Enrage"
+        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
       },
       {
         "description": "회복력 상승 : 20"
@@ -49,7 +49,7 @@
         "description": "체력 상승 : 90"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "선원 효과 추가 2: Adds 2x character's ATK as Additional Typeless Damage"
@@ -60,7 +60,7 @@
     ],
     "potential": [
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
           "Level 1: 공격력 상승 : 50",
           "Level 2: 공격력 상승 : 75",

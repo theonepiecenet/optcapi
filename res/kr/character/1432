@@ -6,7 +6,7 @@
     "specialName": "장군포",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of all characters by 30",
+      "level1": "일당의 기본 능력치가 30 상승한다",
       "level2": "When any other character uses a special, reduces own cooldown by 1 turn"
     },
     "limit": [
@@ -32,7 +32,7 @@
         "description": "공격력 상승 : 20"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of all characters by 30"
+        "description": "선원 효과 추가 1: 일당의 기본 능력치가 30 상승한다"
       },
       {
         "description": "체력 상승 : 120"
@@ -47,13 +47,13 @@
         "description": "공격력 상승 : 40"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "선원 효과 추가 2: When any other character uses a special, reduces own cooldown by 1 turn"
       },
       {
-        "description": "잠재능력 습득 2: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
     "potential": [
@@ -68,13 +68,13 @@
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
         ]
       }
     ]

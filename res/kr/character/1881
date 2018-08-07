@@ -1,8 +1,8 @@
 {
   "name": "매의 눈 미호크, The Black Blade [Yoru]",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters by a variable factor between 1.5x and 3.5x based on the timing of the attack of the previous unit in the chain",
-    "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 1.5x, a Good hit by 2x, a Great hit by 2.75x and a PERFECT hit by 3.5x. This bonus is applied only to Slasher characters.",
+    "captain": "Boosts ATK of 참격형 characters by a variable factor between 1.5x and 3.5x based on the timing of the attack of the previous unit in the chain",
+    "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 1.5x, a Good hit by 2x, a Great hit by 2.75x and a PERFECT hit by 3.5x. This bonus is applied only to 참격형 characters.",
     "special": [
       {
         "description": "Deals 30% of the damage dealt in the previous turn as typeless damage to all enemies",
@@ -23,8 +23,8 @@
     "specialName": "Flash of [Yoru]",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base HP of Slasher characters by 120",
-      "level2": "Boosts base ATK of Slasher characters by 50"
+      "level1": "Boosts base HP of 참격형 characters by 120",
+      "level2": "Boosts base ATK of 참격형 characters by 50"
     },
     "limit": [
       {
@@ -49,7 +49,7 @@
         "description": "체력 상승 : 30"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base HP of Slasher characters by 120"
+        "description": "선원 효과 추가 1: Boosts base HP of 참격형 characters by 120"
       },
       {
         "description": "체력 상승 : 35"
@@ -106,7 +106,7 @@
         "description": "공격력 상승 : 40"
       },
       {
-        "description": "선원 효과 추가 2: Boosts base ATK of Slasher characters by 50"
+        "description": "선원 효과 추가 2: Boosts base ATK of 참격형 characters by 50"
       },
       {
         "description": "공격력 상승 : 50"
@@ -132,21 +132,21 @@
       {
         "Name": "[PSY]데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by 1%",
-          "Level 2: Reduce damage taken from [PSY] characters by 2%",
-          "Level 3: Reduce damage taken from [PSY] characters by 3%",
-          "Level 4: Reduce damage taken from [PSY] characters by 4%",
-          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 시의 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 시의 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 시의 데미지에 8%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 90% 확률로 자신의 최종 히트 시의 데미지에 10%의 추가 데미지가 가산된다"
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 90% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
         ]
       }
     ]

@@ -6,7 +6,7 @@
     "specialNotes": "#{ignoreBarrier}",
     "sailor": {
       "base": "선장이 [STR]이면 자신이 [STR]에게 주는 일반 공격에 의한 데미지가 1.5배가 된다",
-      "level1": "선장이 [STR]이면 [DEX][QCK]의 기본 공격력과 기본 체력이 75 상승한다"
+      "level1": "선장이 [STR] 속성이면 [DEX][QCK]의 기본 공격력과 기본 체력이 75 상승한다"
     },
     "specialName": "고무고무 호크 라이플",
     "limit": [
@@ -38,7 +38,7 @@
         "description": "회복력 상승 : 20"
       },
       {
-        "description": "선원효과 추가 1:선장이 [STR] 속성이라면 [DEX][QCK] 속성의 공격과 체력이 +75 "
+        "description": "선원효과 추가 1:선장이 [STR] 속성이면 [DEX][QCK]의 기본 공격력과 기본 체력이 75 상승한다"
       },
       {
         "description": "체력 상승 : 60"

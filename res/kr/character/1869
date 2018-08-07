@@ -6,8 +6,8 @@
     "specialName": "종전의 비",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of Slasher characters by 40",
-      "level2": "Makes [STR], [QCK], [DEX] and [PSY] orbs “beneficial” for this unit if your Captain is a Slasher character"
+      "level1": "Boosts base ATK, HP and RCV of 참격형 characters by 40",
+      "level2": "Makes [STR], [QCK], [DEX] and [PSY] orbs “beneficial” for this unit if your Captain is a 참격형 character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -33,7 +33,7 @@
         "description": "회복력 상승 : 10"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of Slasher characters by 40"
+        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of 참격형 characters by 40"
       },
       {
         "description": "공격력 상승 : 15"
@@ -90,7 +90,7 @@
         "description": "체력 상승 : 80"
       },
       {
-        "description": "선원 효과 추가 2: Makes [STR], [QCK], [DEX] and [PSY] orbs “beneficial” for this unit if your Captain is a Slasher character"
+        "description": "선원 효과 추가 2: Makes [STR], [QCK], [DEX] and [PSY] orbs “beneficial” for this unit if your Captain is a 참격형 character"
       },
       {
         "description": "공격력 상승 : 40"
@@ -126,11 +126,11 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 시의 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 시의 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 시의 데미지에 8%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 90% 확률로 자신의 최종 히트 시의 데미지에 10%의 추가 데미지가 가산된다"
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 90% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
         ]
       }
     ],

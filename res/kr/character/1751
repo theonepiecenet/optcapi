@@ -23,7 +23,7 @@
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK of Striker characters by 50",
-      "level2": "Makes [RCV] and [TND] orbs “beneficial” for this character"
+      "level2": "자신은 [RCV] and [TND] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -142,11 +142,11 @@
       {
         "Name": "배리어 관통",
         "description": [
-          "Level 1: 남은 체력이 99%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
-          "Level 2: 남은 체력이 80%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
-          "Level 3: 남은 체력이 70%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
-          "Level 4: 남은 체력이 50%이상이면, 이 캐릭터의 공격은 베리어를 무시한다.",
-          "Level 5: 이 캐릭터의 공격은 베리어를 완전히 무시한다."
+          "Level 1: 남은 체력이 99%이상이면, 이 캐릭터의 공격은 배리어를 무시한다.",
+          "Level 2: 남은 체력이 80%이상이면, 이 캐릭터의 공격은 배리어를 무시한다.",
+          "Level 3: 남은 체력이 70%이상이면, 이 캐릭터의 공격은 배리어를 무시한다.",
+          "Level 4: 남은 체력이 50%이상이면, 이 캐릭터의 공격은 배리어를 무시한다.",
+          "Level 5: 이 캐릭터의 공격은 배리어를 완전히 무시한다."
         ]
       }
     ]

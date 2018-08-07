@@ -6,8 +6,8 @@
     "special": "적 전체에 캐릭터의 공격 X15배 STR 데미지를 주고, 1턴간 사격형 캐릭터의 공격을 1.5배 상승. 필살기 사용 턴에 일당 전원 PERFECT 공격 성공시 다음턴에 사격, 참격, 타격형 캐릭터의 공격을 1.5배 상승",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base HP of Shooter, Slasher and Striker characters by 100",
-      "level2": "Boosts base ATK of Shooter, Slasher and Striker characters by 50"
+      "level1": "Boosts base HP of Shooter, 참격형 and Striker characters by 100",
+      "level2": "Boosts base ATK of Shooter, 참격형 and Striker characters by 50"
     },
     "limit": [
       {
@@ -29,28 +29,28 @@
         "description": "공격력 상승 : 40"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
         "description": "체력 상승 : 90"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base HP of Shooter, Slasher and Striker characters by 100"
+        "description": "선원 효과 추가 1: Boosts base HP of Shooter, 참격형 and Striker characters by 100"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
-        "description": "선원 효과 추가 2: Boosts base ATK of Shooter, Slasher and Striker characters by 50"
+        "description": "선원 효과 추가 2: Boosts base ATK of Shooter, 참격형 and Striker characters by 50"
       },
       {
         "description": "잠재능력 습득 2: Barrier Penetration"
@@ -60,11 +60,11 @@
       {
         "Name": "[DEX] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [DEX] characters by 1%",
-          "Level 2: Reduce damage taken from [DEX] characters by 2%",
-          "Level 3: Reduce damage taken from [DEX] characters by 3%",
-          "Level 4: Reduce damage taken from [DEX] characters by 4%",
-          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {

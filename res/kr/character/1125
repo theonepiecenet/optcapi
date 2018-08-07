@@ -2,13 +2,13 @@
   "name": "참수가 슐레이만",
   "detail": {
     "captain": "참격 캐릭터의 공격력을 3.5배로 상승시키고, 턴 경과마다 공격력이 x0.1배씩 감소한다.",
-    "captainNotes": "His ATK multiplier will be 3.5x on the first turn, 3.4x on the second, 3.3x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Slasher characters.",
+    "captainNotes": "His ATK multiplier will be 3.5x on the first turn, 3.4x on the second, 3.3x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all 참격형 characters.",
     "special": "적 전체에게 캐릭터 공격력의 x13배의 PST데미지를 주고, 자신과 선장의 슬롯을 자신의 속성으로 변환 한다.",
     "specialName": "게으른 단죄",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK of Slasher characters by 60",
-      "level2": "Makes [PSY] orbs “beneficial” for Slasher characters"
+      "level1": "Boosts base ATK of 참격형 characters by 60",
+      "level2": "Makes [PSY] orbs “beneficial” for 참격형 characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -22,37 +22,37 @@
         "description": "공격력 상승 : 20"
       },
       {
-        "description": "잠재능력 습득 1: Enrage"
+        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "공격력 상승 : 30"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
         "description": "공격력 상승 : 35"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK of Slasher characters by 60"
+        "description": "선원 효과 추가 1: Boosts base ATK of 참격형 characters by 60"
       },
       {
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
         "description": "공격력 상승 : 60"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
-        "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for Slasher characters"
+        "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for 참격형 characters"
       },
       {
         "description": "잠재능력 습득 2: 크리티컬 공격"
@@ -60,7 +60,7 @@
     ],
     "potential": [
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
           "Level 1: 공격력 상승 : 30",
           "Level 2: 공격력 상승 : ??",
@@ -72,11 +72,11 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage"
+          "Level 1: PERFECT 적중 시, 40% 확률로 공격력의 4% 추가 데미지를 입힌다.",
+          "Level 2: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
+          "Level 3: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
+          "Level 4: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
+          "Level 5: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다."
         ]
       }
     ],

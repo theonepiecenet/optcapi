@@ -5,11 +5,11 @@
     "specialNotes": "The special only includes the damage inflicted through normal attacks.",
     "specialName": "흑도·자전일섬",
     "captain": "앞 캐릭터의 공격 타이밍에 따라 이후 참격형 캐릭터의 공격이 최소 2배, 최대 2.75배가 된다",
-    "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a PERFECT hit by 2.75x. This bonus is applied only to Slasher characters.",
+    "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a PERFECT hit by 2.75x. This bonus is applied only to 참격형 characters.",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base HP of Slasher characters by 120",
-      "level2": "Boosts base ATK of Slasher characters by 50"
+      "level1": "Boosts base HP of 참격형 characters by 120",
+      "level2": "Boosts base ATK of 참격형 characters by 50"
     },
     "limit": [
       {
@@ -22,7 +22,7 @@
         "description": "체력 상승 : 15"
       },
       {
-        "description": "잠재능력 습득 1: Enrage"
+        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
       },
       {
         "description": "체력 상승 : 20"
@@ -34,7 +34,7 @@
         "description": "체력 상승 : 30"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base HP of Slasher characters by 120"
+        "description": "선원 효과 추가 1: Boosts base HP of 참격형 characters by 120"
       },
       {
         "description": "체력 상승 : 35"
@@ -79,7 +79,7 @@
         "description": "체력 상승 : 75"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "공격력 상승 : 20"
@@ -91,7 +91,7 @@
         "description": "공격력 상승 : 40"
       },
       {
-        "description": "선원 효과 추가 2: Boosts base ATK of Slasher characters by 50"
+        "description": "선원 효과 추가 2: Boosts base ATK of 참격형 characters by 50"
       },
       {
         "description": "공격력 상승 : 50"
@@ -105,7 +105,7 @@
     ],
     "potential": [
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
           "Level 1: 공격력 상승 : 20",
           "Level 2: 공격력 상승 : 40",
@@ -117,21 +117,21 @@
       {
         "Name": "[PSY] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by 1%",
-          "Level 2: Reduce damage taken from [PSY] characters by 2%",
-          "Level 3: Reduce damage taken from [PSY] characters by 3%",
-          "Level 4: Reduce damage taken from [PSY] characters by 4%",
-          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
+          "Level 1: PERFECT 적중 시, 40% 확률로 공격력의 4% 추가 데미지를 입힌다.",
+          "Level 2: PERFECT 적중 시, 50% 확률로 공격력의 5% 추가 데미지를 입힌다.",
+          "Level 3: PERFECT 적중 시, 70% 확률로 공격력의 6% 추가 데미지를 입힌다.",
+          "Level 4: PERFECT 적중 시, 80% 확률로 공격력의 8% 추가 데미지를 입힌다.",
+          "Level 5: PERFECT 적중 시, 90% 확률로 공격력의 10% 추가 데미지를 입힌다."
         ]
       }
     ]

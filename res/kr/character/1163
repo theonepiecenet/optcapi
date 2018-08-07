@@ -1,14 +1,14 @@
 {
   "name": "길드 테조로, 황금선의 카지노 왕",
   "detail": {
-    "captain": "Boosts ATK of PSY characters by 1.75x. Also boosts ATK of Driven and Cerebral characters by 1.5x. Boosts amount of Beli received by 2x",
-    "captainNotes": "Attack boost stacks, so a [PSY] Driven or a [PSY] Cerebral character has a 2.625x ATK",
+    "captain": "Boosts ATK of PSY characters by 1.75x. Also boosts ATK of 야심형 and Cerebral characters by 1.5x. Boosts amount of Beli received by 2x",
+    "captainNotes": "Attack boost stacks, so a [PSY] 야심형 or a [PSY] Cerebral character has a 2.625x ATK",
     "special": "Deals large [PSY] damage to all enemies, and if HP is above 50%, changes all orbs to [PSY] orbs",
     "specialName": "Gold-Gold Fruit",
     "sailor": {
       "base": "None",
       "level1": "Makes [PSY] orbs “beneficial” for Cerebral characters",
-      "level2": "Makes [PSY] orbs “beneficial” for Driven characters"
+      "level2": "Makes [PSY] orbs “beneficial” for 야심형 characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -43,40 +43,40 @@
         "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” for Cerebral characters"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "공격력 상승 : 40"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for Driven characters"
+        "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for 야심형 characters"
       },
       {
-        "description": "잠재능력 습득 2: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
     "potential": [
       {
         "Name": "[INT] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by 2%",
-          "Level 3: Reduce damage taken from [INT] characters by 3%",
-          "Level 4: Reduce damage taken from [INT] characters by 4%",
-          "Level 5: Reduce damage taken from [INT] characters by 5%"
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
         ]
       }
     ]

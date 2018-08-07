@@ -25,13 +25,13 @@
         "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
       },
       {
-        "description": "Reduce base Special Cooldown by 3 turns"
+        "description": "필살기 턴 수 단축: 3"
       },
       {
         "description": "새로운 선장 효과 습득: Boosts ATK of all Striker characters proportionally to the crew's current HP, by 3x at 1 HP and their HP by 1.5x"
       },
       {
-        "description": "Reduce base Special Cooldown by 3 turns"
+        "description": "필살기 턴 수 단축: 3"
       },
       {
         "description": "체력 상승 : 70"
@@ -46,7 +46,7 @@
         "description": "회복력 상승 : 25"
       },
       {
-        "description": "Reduce base Special Cooldown by 3 turns"
+        "description": "필살기 턴 수 단축: 3"
       },
       {
         "description": "체력 상승 : 80"
@@ -55,22 +55,22 @@
         "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "잠재능력 습득 2: Enrage"
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
     "potential": [
       {
         "Name": "[INT] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by 2%",
-          "Level 3: Reduce damage taken from [INT] characters by 3%",
-          "Level 4: Reduce damage taken from [INT] characters by 4%",
-          "Level 5: Reduce damage taken from [INT] characters by 5%"
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
           "Level 1: 공격력 상승 : 30",
           "Level 2: 공격력 상승 : ??",

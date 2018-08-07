@@ -1,12 +1,12 @@
 {
   "name": "Fierce Little Oars Jr, The Pathfinder Breakthrough",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters by 2.5x and their RCV by 1.5x",
-    "special": "Cuts the current HP of one enemy by 10% and reduces Paralysis and Silence duration by 3 turns. If your captain is a Slasher Character, boosts ATK against delayed enemies by 1.75x for 2 turns",
+    "captain": "Boosts ATK of 참격형 characters by 2.5x and their RCV by 1.5x",
+    "special": "Cuts the current HP of one enemy by 10% and reduces Paralysis and Silence duration by 3 turns. If your captain is a 참격형 Character, boosts ATK against delayed enemies by 1.75x for 2 turns",
     "specialName": "Unfaltering Trump Card",
     "sailor": {
       "base": "Reduces Paralysis duration by 1 turn",
-      "level1": "Boosts base ATK of Slasher and Powerhouse characters by 75"
+      "level1": "Boosts base ATK of 참격형 and Powerhouse characters by 75"
     },
     "limit": [
       {
@@ -31,7 +31,7 @@
         "description": "공격력 상승 : 30"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK of Slasher and Powerhouse characters by 75"
+        "description": "선원 효과 추가 1: Boosts base ATK of 참격형 and Powerhouse characters by 75"
       },
       {
         "description": "체력 상승 : 50"
@@ -59,21 +59,21 @@
       {
         "Name": "[INT]데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by 2%",
-          "Level 3: Reduce damage taken from [INT] characters by 3%",
-          "Level 4: Reduce damage taken from [INT] characters by 4%",
-          "Level 5: Reduce damage taken from [INT] characters by 5%"
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 시의 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 시의 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 시의 데미지에 7%의 추가 데미지가 가산된다"
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
         ]
       }
     ]

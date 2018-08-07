@@ -15,7 +15,7 @@
     "specialName": "Genocide Shotel",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base HP of all characters by 75",
+      "level1": "일당의 기본 체력이 75 상승한다",
       "level2": "Completely resists Paralysis on this character"
     },
     "sailorNotes": "#{beneficial}",
@@ -33,13 +33,13 @@
         "description": "회복력 상승 : 20"
       },
       {
-        "description": "잠재능력 습득 1: Enrage"
+        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
       },
       {
         "description": "새로운 선장 효과 습득: Boosts ATK of Powerhouse characters by 2.25x and reduces damage received by 5%"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base HP of all characters by 75"
+        "description": "선원 효과 추가 1: 일당의 기본 체력이 75 상승한다"
       },
       {
         "description": "회복력 상승 : 20"
@@ -57,7 +57,7 @@
         "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
         "description": "체력 상승 : 20"
@@ -72,7 +72,7 @@
         "description": "새로운 선장 효과 습득: Boosts ATK of Powerhouse characters by 2.25x and reduces damage received by 10%"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
         "description": "체력 상승 : 30"
@@ -84,7 +84,7 @@
         "description": "체력 상승 : 30"
       },
       {
-        "description": "Reduce base Special Cooldown by 3 turns"
+        "description": "필살기 턴 수 단축: 3"
       },
       {
         "description": "잠재능력 소켓슬롯 추가 : 1"
@@ -96,7 +96,7 @@
         "description": "체력 상승 : 50"
       },
       {
-        "description": "Reduce base Special Cooldown by 4 turns"
+        "description": "필살기 턴 수 단축: 4"
       },
       {
         "description": "새로운 선장 효과 습득: Boosts ATK of Powerhouse characters by 2.5x and reduces damage received by 15%"
@@ -120,7 +120,7 @@
         "description": "공격력 상승 : 40"
       },
       {
-        "description": "Reduce base Special Cooldown by 5 turns"
+        "description": "필살기 턴 수 단축: 5"
       },
       {
         "description": "잠재능력 소켓슬롯 추가 : 1"
@@ -143,7 +143,7 @@
     ],
     "potential": [
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
           "Level 1: 공격력 상승 : 50",
           "Level 2: 공격력 상승 : 75",
