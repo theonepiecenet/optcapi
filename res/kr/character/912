@@ -4,21 +4,21 @@
     "specialName": "Diable Jambe: Premier Hachis",
     "special": [
       {
-        "description": "Deals 13x character's ATK in DEX damage to one enemy, boosts ATK of Powerhouse characters by 1.2x for 1 턴",
+        "description": "Deals 13x character's ATK in DEX damage to one enemy, boosts ATK of 강인형 characters by 1.2x for 1 턴",
         "cooldown": [
           15,
           8
         ]
       },
       {
-        "description": "Deals 20x character's ATK in DEX damage to one enemy, boosts ATK of Powerhouse characters by 2x for 1 턴",
+        "description": "Deals 20x character's ATK in DEX damage to one enemy, boosts ATK of 강인형 characters by 2x for 1 턴",
         "cooldown": [
           25,
           18
         ]
       }
     ],
-    "captain": "Boosts ATK of Powerhouse characters by 2.25x, and their HP by 1.5x. Recovers 2x character's RCV in HP at the end of each 턴",
+    "captain": "Boosts ATK of 강인형 characters by 2.25x, and their HP by 1.5x. Recovers 2x character's RCV in HP at the end of each 턴",
     "specialNotes": "#{stages}"
   }
 }

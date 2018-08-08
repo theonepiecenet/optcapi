@@ -12,7 +12,7 @@
     "sailor": {
       "base": "None",
       "level1": "When any other character uses a special, reduces own cooldown by 1 turn",
-      "level2": "Boosts base ATK and HP of 참격형 and Powerhouse characters by 50"
+      "level2": "Boosts base ATK and HP of 참격형 and 강인형 characters by 50"
     },
     "limit": [
       {
@@ -55,7 +55,7 @@
         "description": "필살기 턴 수 단축: 4"
       },
       {
-        "description": "선원 효과 추가 2: Boosts base ATK and HP of 참격형 and Powerhouse characters by 50"
+        "description": "선원 효과 추가 2: Boosts base ATK and HP of 참격형 and 강인형 characters by 50"
       },
       {
         "description": "잠재능력 습득 2: Reduce No Healing duration"

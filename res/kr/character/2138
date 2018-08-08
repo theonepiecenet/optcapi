@@ -2,11 +2,11 @@
   "name": "‘Garuda’ 빈스모크 Judge, 과학전투부대 제르마 66",
   "detail": {
     "captain": "Increase the rate of [INT] orbs, reduces damage received by 15%, boosts the HP of all characters by 1.25x and if there is a [STR], [DEX], [QCK], [PSY] and [INT] characters in your crew, makes Badly Matching orbs “beneficial” to all characters boosts ATK of all characters by 3.9375x if they have a matching orb, by 2.25x otherwise",
-    "special": "Reduces damage received by 30% for 2 turns and boost ATK of Fighter, 야심형 and Powerhouse characters by 2x for 1 turn. If this character is the captain or the friend captain, changes all orbs, including [BLOCK] orbs, to [INT] orbs",
+    "special": "Reduces damage received by 30% for 2 turns and boost ATK of Fighter, 야심형 and 강인형 characters by 2x for 1 turn. If this character is the captain or the friend captain, changes all orbs, including [BLOCK] orbs, to [INT]슬롯으로 바꾼다",
     "specialName": "Dengi Crack - Blaster",
     "sailor": {
       "base": "None",
-      "level1": "Powerhouse 캐릭터의 기본 공격력과 체력이 60 상승한다",
+      "level1": "강인형 캐릭터의 기본 공격력과 체력이 60 상승한다",
       "level2": "Completely resists Paralysis on this character"
     },
     "limit": [
@@ -32,7 +32,7 @@
         "description": "공격력 상승 : 25"
       },
       {
-        "description": "선원 효과 추가 1: Powerhouse 캐릭터의 기본 공격력과 체력이 60 상승한다"
+        "description": "선원 효과 추가 1: 강인형 캐릭터의 기본 공격력과 체력이 60 상승한다"
       },
       {
         "description": "공격력 상승 : 10"

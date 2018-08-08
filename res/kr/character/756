@@ -7,7 +7,7 @@
     "sailor": {
       "base": "None",
       "level1": "Makes [STR] orbs “beneficial” for this character",
-      "level2": "Boosts base HP of Powerhouse characters by 150"
+      "level2": "Boosts base HP of 강인형 characters by 150"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -51,7 +51,7 @@
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "선원 효과 추가 2: Boosts base HP of Powerhouse characters by 150"
+        "description": "선원 효과 추가 2: Boosts base HP of 강인형 characters by 150"
       },
       {
         "description": "잠재능력 습득 2: Reduce No Healing duration"

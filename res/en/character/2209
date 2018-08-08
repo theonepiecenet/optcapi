@@ -1,1 +1,30 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2209.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2209.png"}}
+{
+  "name": "Ganfor, Divine Return",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by 1.5x and their HP by 1.2x",
+    "special": "Reduces crew's ATK DOWN and Bind duration by 3 turns and changes bottom row orbs into matching orbs",
+    "specialName": "Heavenly Charge"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Striker",
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2209.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2209.png"
+  }
+}

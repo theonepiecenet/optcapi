@@ -46,7 +46,10 @@
     "maxATK": 541,
     "maxRCV": 102
   },
-  "cooldown": null,
+  "cooldown": [
+    22,
+    15
+  ],
   "evolution": {
     "evolution": 2215,
     "evolvers": [

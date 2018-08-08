@@ -3,11 +3,11 @@
   "detail": {
     "special": "Deals 75x character's ATK in typeless damage to one enemy, greatly boosts chances of getting matching orbs for 3 turns",
     "specialName": "Six Powers Supreme: Six King Gun",
-    "captain": "Boosts ATK of Powerhouse characters by 3.5x if they have a matching orb, by 2.5x otherwise, reduces crew's RCV to 0",
+    "captain": "Boosts ATK of 강인형 characters by 3.5x if they have a matching orb, by 2.5x otherwise, reduces crew's RCV to 0",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of Powerhouse characters by 30",
-      "level2": "Makes [RCV] and [TND] orbs “beneficial” for Powerhouse characters"
+      "level1": "Boosts base ATK, HP and RCV of 강인형 characters by 30",
+      "level2": "Makes [RCV] and [TND] orbs “beneficial” for 강인형 characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -33,7 +33,7 @@
         "description": "체력 상승 : 40"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of Powerhouse characters by 30"
+        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of 강인형 characters by 30"
       },
       {
         "description": "회복력 상승 : 5"
@@ -90,7 +90,7 @@
         "description": "체력 상승 : 80"
       },
       {
-        "description": "선원 효과 추가 2: Makes [RCV] and [TND] orbs “beneficial” for Powerhouse characters"
+        "description": "선원 효과 추가 2: Makes [RCV] and [TND] orbs “beneficial” for 강인형 characters"
       },
       {
         "description": "체력 상승 : 90"

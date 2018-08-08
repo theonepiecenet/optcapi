@@ -1,1 +1,30 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2208.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2208.png"}}
+{
+  "name": "Ganfor",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by ?x and their HP by ?x",
+    "special": "Reduces crew's ATK DOWN and Bind duration by 3 turns and changes bottom row orbs into matching orbs",
+    "specialName": "Heavenly Charge"
+  },
+  "unit": {
+    "type": "INT",
+    "class": "Striker",
+    "stars": 4,
+    "cost": 12,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 261406,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2208.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2208.png"
+  }
+}

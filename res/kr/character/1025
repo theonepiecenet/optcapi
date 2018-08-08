@@ -2,8 +2,8 @@
   "name": "돈 칭자오, 꽃의 나라의 갱",
   "detail": {
     "captain": {
-      "base": "Boosts ATK of Powerhouse characters by 2x and boosts the HP of Striker characters by 2x",
-      "level1": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Powerhouse characters by 2.25x and boosts the HP of Striker characters by 2x"
+      "base": "Boosts ATK of 강인형 characters by 2x and boosts the HP of Striker characters by 2x",
+      "level1": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of 강인형 characters by 2.25x and boosts the HP of Striker characters by 2x"
     },
     "captainNotes": "A character with both classes will get both boosts",
     "special": "Amplifies the effect of orbs for 2 턴, the exact multiplier changes depending on the current HP at the time the special was activated. ",
@@ -11,7 +11,7 @@
     "specialName": "Eight-Impact Fist! Blow of Resentment",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK and HP of Powerhouse and Striker characters by 50"
+      "level1": "Boosts base ATK and HP of 강인형 and Striker characters by 50"
     },
     "limit": [
       {
@@ -36,13 +36,13 @@
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "선원효과 추가 1: Boosts ATK and HP of Powerhouse and Striker characters by 50"
+        "description": "선원효과 추가 1: Boosts ATK and HP of 강인형 and Striker characters by 50"
       },
       {
         "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "새로운 선장 효과 습득: Reduces cooldown of all specials by 2 턴 at the start of the fight, boosts ATK of Powerhouse characters by 2.25x and boosts the HP of Striker characters by 2x"
+        "description": "새로운 선장 효과 습득: Reduces cooldown of all specials by 2 턴 at the start of the fight, boosts ATK of 강인형 characters by 2.25x and boosts the HP of Striker characters by 2x"
       },
       {
         "description": "필살기 턴 단축 : 1턴"

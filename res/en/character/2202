@@ -1,1 +1,32 @@
-{"name":"","unit":{"type":"Type","class":["Class1","Class2"],"stars":null,"cost":null,"combo":null,"slots":null,"level":null,"exp":null,"maxHP":null,"maxATK":null,"maxRCV":null},"image":{"thumb":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2202.png","character":"https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2202.png"}}
+{
+  "name": "Dr Indigo",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by ?x and their RCV by ?x",
+    "special": "If HP is below 10%, recovers all missing HP. If your Captain is a Driven character, removes Poison and Blindness duration completely and reduces damage received by 50% for 3 turns.",
+    "specialName": "Chemical Juggling",
+    "sailor": "Reduces Silence duration on this character by 3 turns",
+    "sailorNotes": "#{silence}"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": 21,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2202.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2202.png"
+  }
+}

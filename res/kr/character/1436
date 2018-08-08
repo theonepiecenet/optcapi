@@ -1,12 +1,12 @@
 {
   "name": "효조, 어인가의 망령",
   "detail": {
-    "captain": "Boosts ATK of 참격형 characters by 2.5x and HP of Powerhouse characters by 1.25x",
-    "special": "Makes PERFECTs harder to hit for 1 turn, changes [STR], [QCK], [DEX], [PSY] and [INT] orbs into Matching orbs for Powerhouse characters, delays all enemies for 1 turn, recovers 20% of crew's MAX HP.",
+    "captain": "Boosts ATK of 참격형 characters by 2.5x and HP of 강인형 characters by 1.25x",
+    "special": "Makes PERFECTs harder to hit for 1 turn, changes [STR], [QCK], [DEX], [PSY] and [INT] orbs into Matching orbs for 강인형 characters, delays all enemies for 1 turn, recovers 20% of crew's MAX HP.",
     "specialName": "Staggering Slash",
     "specialNotes": "Decreases timing window to hit a PERFECT. (Animation remains the same)",
     "sailor": {
-      "base": "Boosts base ATK of all characters by 150 if there are 6 Powerhouse characters in your crew",
+      "base": "Boosts base ATK of all characters by 150 if there are 6 강인형 characters in your crew",
       "level1": "Reduces Paralysis duration on this character by 3 turns"
     },
     "limit": [

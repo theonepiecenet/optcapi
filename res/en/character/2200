@@ -1,40 +1,27 @@
 {
-  "name": "Donquixote Doflamingo, Country's Future Hanging by a Thread ",
+  "name": "Shiki",
   "detail": {
-    "captain": "Boosts ATK of Driven and Cerebral characters by 2.5x when HP is 50% or below, 1.5x otherwise",
-    "special": "Randomizes all non-matching orbs, including [BLOCK] slots and locks all orbs for 1 turn. If your Captain is a Cerebral or Driven character, increases duration of any Class/Type boosting buffs and Orb Amplification buffs by 2 turns",
-    "specialName": "Athlete"
+    "captain": "Boosts ATK of [DEX], [QCK] and [INT] characters by 2.75x at the start of the chain, boosts ATK by 4x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good and boosts HP by 1.35x. Makes [TND] and [RCV] orbs \"beneficial\" to all characters",
+    "special": "Reduces crew's current HP by 99%, deals 30x the amount of HP subtracted in typeless damage to all enemies and changes all orbs, including [BLOCK] orbs, into [RCV] orbs",
+    "specialName": "Lion's Threat: Earth Bind"
   },
   "unit": {
-    "type": "INT",
+    "type": "QCK",
     "class": [
       "Driven",
-      "Cerebral"
+      "Striker"
     ],
-    "stars": 4,
+    "stars": 5,
     "cost": 30,
-    "combo": 6,
-    "slots": 2,
+    "combo": null,
+    "slots": 3,
     "level": 70,
     "exp": 1066998,
-    "maxHP": 1167,
-    "maxATK": 794,
-    "maxRCV": 191
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
   },
-  "cooldown": [
-    29,
-    14
-  ],
-  "evolution": {
-    "evolution": 2201,
-    "evolvers": [
-      118,
-      267,
-      88,
-      304,
-      83
-    ]
-  },
+  "cooldown": 19,
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2200.png",
