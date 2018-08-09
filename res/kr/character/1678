@@ -53,26 +53,26 @@
         "description": "선원 효과 추가 2: Reduces Paralysis duration by 1 turn"
       },
       {
-        "description": "잠재능력 습득 2: Barrier Penetration"
+        "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
     "potential": [
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: PERFECT 적중 시, 10% 확률로 공격력의 3% 추가 데미지를 입힌다.",
-          "Level 2: PERFECT 적중 시, 10% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 3: PERFECT 적중 시, 15% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 4: PERFECT 적중 시, 20% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 5: PERFECT 적중 시, 20% 확률로 공격력의 10% 추가 데미지를 입힌다."
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
         ]
       },
       {
-        "Name": "Barrier Penetration",
+        "Name": "배리어 관통",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
           "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
           "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]

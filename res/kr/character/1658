@@ -5,7 +5,7 @@
     "special": "봉쇄·선장효과 무효 상태를 5턴 회복하고, 선장이 타격형이면 1턴 동안 체인 계수가 2.75배로 고정된다",
     "sailor": {
       "base": "선장이 타격형일 경우 타격형 캐릭터의 [DEX] 슬롯을 [유리] 슬롯으로 취급한다",
-      "level1": "Boosts base ATK, HP and RCV of Striker characters by 75"
+      "level1": "타격형 캐릭터의 기본 능력치가 75 상승한다"
     },
     "sailorNotes": "#{beneficial}",
     "specialName": "승룡",
@@ -44,7 +44,7 @@
         "description": "체력 상승 : 30"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of Striker characters by 75"
+        "description": "선원 효과 추가 1: 타격형 캐릭터의 기본 능력치가 75 상승한다"
       },
       {
         "description": "체력 상승 : 40"

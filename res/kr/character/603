@@ -1,5 +1,5 @@
 {
-  "name": "에넬, 천둥인간 2억볼트 뇌신",
+  "name": "에넬 번개 인간, 2억 볼트 뇌신",
   "detail": {
     "special": "체력을 대폭 줄이고 적 전체에게 고정 데미지 20,000+[QCK] 캐릭터의 공격력이 1턴 동안 2배가 된다",
     "specialName": "2억 볼트 뇌신",
@@ -7,8 +7,8 @@
     "captain": "[QCK] 캐릭터의 공격력이 2.25배가 되고, 턴 종료 시 캐릭터 회복력x5배의 체력이 회복된다",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK of [QCK] characters by 60",
-      "level2": "If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn"
+      "level1": "[QCK] 속성의 기본 공격력이 60 상승한다",
+      "level2": "자신이 PERFECT 공격을 성공하면 자신의 [QCK] 슬롯이 다음 턴에도 출현한다"
     },
     "limit": [
       {
@@ -33,7 +33,7 @@
         "description": "체력 상승 : 40"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK of [QCK] characters by 60"
+        "description": "선원 효과 추가 1: [QCK] 속성의 기본 공격력이 60 상승한다"
       },
       {
         "description": "공격력 상승 : 40"
@@ -51,10 +51,10 @@
         "description": "회복력 상승 : 50"
       },
       {
-        "description": "선원 효과 추가 2: If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn"
+        "description": "선원 효과 추가 2: 자신이 PERFECT 공격을 성공하면 자신의 [QCK] 슬롯이 다음 턴에도 출현한다"
       },
       {
-        "description": "잠재능력 습득 2: Barrier Penetration"
+        "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
     "potential": [
@@ -69,11 +69,11 @@
         ]
       },
       {
-        "Name": "Barrier Penetration",
+        "Name": "배리어 관통",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
           "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
           "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]

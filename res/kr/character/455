@@ -11,7 +11,7 @@
     "sailor": {
       "base": "None",
       "level1": "When any other [STR] character uses a special, reduces own cooldown by 1 turn",
-      "level2": "Boosts base ATK of [STR] characters by 50"
+      "level2": "[STR] 속성의 기본 공격력이 50 상승한다"
     },
     "limit": [
       {
@@ -54,7 +54,7 @@
         "description": "필살기 턴 수 단축: 3"
       },
       {
-        "description": "선원 효과 추가 2: Boosts base ATK of [STR] characters by 50"
+        "description": "선원 효과 추가 2: [STR] 속성의 기본 공격력이 50 상승한다"
       },
       {
         "description": "잠재능력 습득 2: 크리티컬 공격"
@@ -74,11 +74,11 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: PERFECT 적중 시, 30% 확률로 공격력의 4% 추가 데미지를 입힌다.",
-          "Level 2: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 3: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 4: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 5: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다."
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
         ]
       }
     ],

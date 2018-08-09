@@ -56,21 +56,21 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: PERFECT 적중 시, 10% 확률로 공격력의 3% 추가 데미지를 입힌다.",
-          "Level 2: PERFECT 적중 시, 10% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 3: PERFECT 적중 시, 15% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 4: PERFECT 적중 시, 20% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 5: PERFECT 적중 시, 20% 확률로 공격력의 10% 추가 데미지를 입힌다."
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
         ]
       },
       {
         "Name": "회복 무효 내성",
         "description": [
-          "Level 1: If there are 6 Shooter characters in your crew, 회복 무효 상태 회복 : 1 턴",
-          "Level 2: If there are 5 Shooter characters in your crew, 회복 무효 상태 회복 : 1 턴",
-          "Level 3: If there are 4 Shooter characters in your crew, 회복 무효 상태 회복 : 1 턴",
-          "Level 4: If there are 4 Shooter characters in your crew, 회복 무효 상태 회복 : 2 턴",
-          "Level 5: If there are 4 Shooter characters in your crew, 회복 무효 상태 회복 : 3 턴"
+          "Level 1: 일당에 사격형이 6명 있을 때 회복 무효 상태를 1턴 회복한다",
+          "Level 2: 일당에 사격형이 5명 있을 때 회복 무효 상태를 1턴 회복한다",
+          "Level 3: 일당에 사격형이 4명 있을 때 회복 무효 상태를 1턴 회복한다",
+          "Level 4: 일당에 사격형이 4명 있을 때 회복 무효 상태를 2턴 회복한다",
+          "Level 5: 일당에 사격형이 4명 있을 때 회복 무효 상태를 3턴 회복한다"
         ]
       }
     ]

@@ -1,9 +1,9 @@
 {
   "name": "도크 Q",
   "detail": {
-    "captain": "Reduces RCV of all characters by 99%. Boosts ATK of 참격형 and Striker characters by 2.25x if HP is above 99% at the start of the 턴",
-    "special": "Reduces crew's current HP by 10%. Changes [BLOCK], [TND], and [RCV] orbs on 참격형 and Striker characters into Matching Orbs.",
-    "sailor": "Boosts amount healed from [RCV] orbs by 150 each",
-    "specialName": "Reaping of Desperate Lives"
+    "captain": "일당의 회복력을 크게 감소시키고 공격 시작 전, 체력이 가득 차 있으면 참격형과 타격형 캐릭터의 공격력이 2.25배가 된다",
+    "special": "일당의 체력을 10% 줄이고, 참격형과 타격형의 [BLOCK][TND][RCV] 슬롯을 속성 일치 슬롯으로 바꾼다",
+    "sailor": "[RCV] 획득 시 추가로 체력을 150 회복한다",
+    "specialName": "목숨을 건 목 베기"
   }
 }

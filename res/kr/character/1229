@@ -1,24 +1,24 @@
 {
   "name": "센토마루, 해군 본부 장교",
   "detail": {
-    "captain": "Boosts ATK of 강인형 characters by 2x and his OWN ATK by 2x.",
+    "captain": "자신 및 강인형 캐릭터의 공격력이 2배가 된다",
     "special": [
       {
-        "description": "Deals 500 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 turn",
+        "description": "적 1명에게 고정 데미지 500을 주고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
         "cooldown": [
           11,
           4
         ]
       },
       {
-        "description": "Deals 5,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 turn",
+        "description": "적 1명에게 고정 데미지 5,000을 주고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
         "cooldown": [
           15,
           8
         ]
       },
       {
-        "description": "Deals 100,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 2 turns",
+        "description": "적 1명에게 고정 데미지 100,000을 주고, 상단 캐릭터의 필살기 턴을 2턴 단축한다",
         "cooldown": [
           22,
           15
@@ -26,7 +26,7 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "sailor": "Cannot be Blown Away",
-    "specialName": "Leg-Locked Heave-Ho"
+    "sailor": "자신은 날아가지 않는다",
+    "specialName": "족공동행"
   }
 }

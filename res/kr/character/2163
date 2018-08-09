@@ -52,7 +52,7 @@
         "description": "선원 효과 추가 1: Reduces Silence duration on this character by 3 turns"
       },
       {
-        "description": "잠재능력 습득 2: Reduce No Healing duration"
+        "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
     "potential": [
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turn",

@@ -52,7 +52,7 @@
         "description": "체력 상승 : 60"
       },
       {
-        "description": "잠재능력 습득 2: Barrier Penetration"
+        "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
     "potential": [
@@ -67,11 +67,11 @@
         ]
       },
       {
-        "Name": "Barrier Penetration",
+        "Name": "배리어 관통",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
           "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
           "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]

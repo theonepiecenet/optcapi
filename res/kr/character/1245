@@ -1,12 +1,12 @@
 {
-  "name": "몽키 D. 루피, 마린포드에서 날뛰는 ‘밀짚모자’",
+  "name": "몽키 D. 루피, 마린포드에서 싸우는 ‘밀짚모자’",
   "detail": {
     "captain": {
-      "base": "Boosts ATK of Fighter characters by 3x if HP is below 10%, by 1.75x otherwise",
-      "level1": "Boosts ATK of Fighter characters by 3.25x if HP is below 10%, by 1.75x otherwise"
+      "base": "격투형 캐릭터의 공격력을 1.75배, 남은 체력이 10% 이하일 때는 3배가 된다",
+      "level1": "격투형 캐릭터의 공격력을 1.75배, 남은 체력이 10% 이하일 때는 3.25배가 된다"
     },
-    "special": "Deals random [QCK] damage to all enemies and boosts ATK of Fighter characters by 1.3x for 1 turn. If \"Firefly Light, Fiery Doll\" is used again in the same turn the special is activated in, boosts ATK of Fighter characters by 2x instead.",
-    "specialName": "Gomu Gomu no Stamp Gatling",
+    "special": "적 전체에 랜덤으로 [QCK] 데미지를 주고, 1턴 동안 격투형의 공격력을 1.3배로 만들며, 같은 턴 안에 이미 「반디 불덩이」를 사용했다면 2배가 된다",
+    "specialName": "고무고무 스탬프 난타",
     "specialNotes": "Firefly Light, Fiery Doll is Event Ace's special ability.",
     "sailor": {
       "base": "None",
@@ -54,7 +54,7 @@
         "description": "선원 효과 추가 2: Reduces Paralysis duration by 1 turn"
       },
       {
-        "description": "새로운 선장 효과 습득: Boosts ATK of Fighter characters by 3.25x if HP is below 10%, by 1.75x otherwise"
+        "description": "새로운 선장 효과 습득: 격투형 캐릭터의 공격력을 1.75배, 남은 체력이 10% 이하일 때는 3.25배가 된다"
       },
       {
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"

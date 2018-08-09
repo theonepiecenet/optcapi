@@ -7,7 +7,7 @@
     "specialName": "살오징어의 창",
     "sailor": {
       "base": "강인형 6명으로 편성 시 자신은 모든 속성 슬롯이 [유리] 슬롯으로 취급된다",
-      "level1": "Boosts base ATK, HP and RCV of 강인형 characters by 30"
+      "level1": "강인형 캐릭터의 기본 능력치가 30 상승한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -51,7 +51,7 @@
         "description": "공격력 상승 : 40"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of 강인형 characters by 30"
+        "description": "선원 효과 추가 1: 강인형 캐릭터의 기본 능력치가 30 상승한다"
       },
       {
         "description": "잠재능력 습득 2: 긴급 회복"
@@ -71,11 +71,11 @@
       {
         "Name": "긴급 회복",
         "description": [
-          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a Perfect with this character",
-          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a Perfect with this character",
-          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a Perfect with this character",
-          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a Perfect with this character",
-          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a Perfect with this character"
+          "Level 1: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 2: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 3: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 4: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 5: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
         ]
       }
     ]

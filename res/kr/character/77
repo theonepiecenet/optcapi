@@ -62,21 +62,21 @@
       {
         "Name": "긴급 회복",
         "description": [
-          "Level 1: If HP is below 5% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 5% at the start of the turn, recovers 1.25x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 5% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 10% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 20% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 2: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.25배의 체력을 회복한다",
+          "Level 3: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 4: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 5: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
         ]
       },
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: PERFECT 적중 시, 40% 확률로 공격력의 4% 추가 데미지를 입힌다.",
-          "Level 2: PERFECT 적중 시, 50% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 3: PERFECT 적중 시, 60% 확률로 공격력의 6% 추가 데미지를 입힌다.",
-          "Level 4: PERFECT 적중 시, 70% 확률로 공격력의 7% 추가 데미지를 입힌다.",
-          "Level 5: PERFECT 적중 시, 80% 확률로 공격력의 8% 추가 데미지를 입힌다."
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"
         ]
       }
     ]

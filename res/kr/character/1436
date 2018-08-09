@@ -53,22 +53,22 @@
         "description": "선원 효과 추가 1: Reduces Paralysis duration on this character by 3 turns"
       },
       {
-        "description": "잠재능력 습득 2: Reduce No Healing duration"
+        "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
     "potential": [
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: PERFECT 적중 시, 20% 확률로 공격력의 3% 추가 데미지를 입힌다.",
-          "Level 2: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 3: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 4: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 5: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다."
+          "Level 1: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
         ]
       },
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by ? turns",

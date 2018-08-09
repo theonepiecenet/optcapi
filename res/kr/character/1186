@@ -1,7 +1,7 @@
 {
   "name": "작은 질풍의 검사 할타",
   "detail": {
-    "captain": "Boosts ATK of 참격형 and Cerebral characters by 1.75x. Gives chance of duplicating a drop upon completion of the island.",
+    "captain": "참격형과 박식형의 공격력을 1.75배로 만들고 일정 확률로 모험에서 획득한 보물이 한 개 추가된다(보물 추가 효과는 모험 도중에 선장이 되면 발동되지 않습니다)",
     "captainNotes": "Does not work if he was not your captain upon starting the island. Stacks with other additional drop captains, giving you two chances of getting an extra drop.",
     "special": [
       {
@@ -12,7 +12,7 @@
         ]
       },
       {
-        "description": "적 전체에 공격력x15배의 [INT] 데미지를 주고, 자신의 슬롯을 [INT]로 바꾸며, 참격형과 박식형의 필살기 턴을 1턴 단축한다",
+        "description": "적 전체에 공격력x15배의 [INT] 데미지를 주고, 자신의 슬롯을 [INT]로 바꾸며 참격형과 박식형의 필살기 턴을 1턴 단축한다",
         "cooldown": [
           17,
           12
@@ -87,11 +87,11 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: PERFECT 적중 시, 40% 확률로 공격력의 4% 추가 데미지를 입힌다.",
-          "Level 2: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 3: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 4: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 5: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다."
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
         ]
       }
     ],

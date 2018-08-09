@@ -53,7 +53,7 @@
         "description": "선원 효과 추가 1: 자신은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다"
       },
       {
-        "description": "잠재능력 습득 2: Reduce No Healing duration"
+        "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
     "potential": [
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by ? turns",

@@ -7,7 +7,7 @@
     "special": "선장의 슬롯을 자슬롯으로 변환하고, 1턴간 슬롯을 고정하고, 캐릭터의 공격 X13배 INT 데미지를 준다.",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of 야심형 characters by 30",
+      "level1": "야심형 캐릭터의 기본 능력치가 30 상승한다",
       "level2": "Reduces Paralysis duration by 1 turn"
     },
     "limit": [
@@ -15,7 +15,7 @@
         "description": "체력 상승 : 30"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of 야심형 characters by 30"
+        "description": "선원 효과 추가 1: 야심형 캐릭터의 기본 능력치가 30 상승한다"
       },
       {
         "description": "체력 상승 : 50"

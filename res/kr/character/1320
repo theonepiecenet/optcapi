@@ -1,7 +1,10 @@
 {
   "name": "‘대 참모’ 츠루, 해군본부 준장",
   "detail": {
-    "captain": "턴 종료 시에 PERFECT 1회마다 캐릭터의 회복력x0.1배, GOOD 1회마다 캐릭터의 회복력x1.5배의 체력을 회복한다",
+    "captain": {
+      "base": "턴 종료 시에 PERFECT 1회마다 캐릭터의 회복력x0.1배, GOOD 1회마다 캐릭터의 회복력x1.5배의 체력을 회복한다",
+      "level1": "일당의 공격력이 1.2배가 되고, 턴 종료 시에 PERFECT 1회마다 캐릭터의 회복력x0.3배, GOOD 1회마다 캐릭터의 회복력x1.5배의 체력을 회복한다"
+    },
     "special": "무작위의 적에게 [QCK] 큰 데미지를 10회 주고, 1턴 동안 일당의 공격력이 1.5배가 된다",
     "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 32,000 : for each hit}",
     "sailor": "일당의 마비 상태를 1턴 회복한다",
@@ -38,10 +41,10 @@
         "description": "공격력 상승 : 60"
       },
       {
-        "description": "선원효과 추가 1: Reduces Blindness duration by 3 턴"
+        "description": "선원효과 추가 1: 의성어 은폐 상태를 3턴 회복한다"
       },
       {
-        "description": "새로운 선장 효과 습득: Boosts ATK of all characters by 1.2x, heals for 1.5x her RCV at the end of the 턴 each time you hit a Good. Heals for .3x her RCV at the end of the 턴 each time you hit a PERFECT"
+        "description": "새로운 선장 효과 습득: 일당의 공격력이 1.2배가 되고, 턴 종료 시에 PERFECT 1회마다 캐릭터의 회복력x0.3배, GOOD 1회마다 캐릭터의 회복력x1.5배의 체력을 회복한다"
       },
       {
         "description": "필살기 턴 단축 : 2턴"

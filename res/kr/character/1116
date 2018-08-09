@@ -1,5 +1,5 @@
 {
-  "name": "상디, 꿈을 좇는 모험가",
+  "name": "상디, 꿈을 좇는 모험자",
   "detail": {
     "special": "적 전체에 파티의 체력이 적을수록 큰 INT 데미지를 준다.",
     "specialNotes": "#{specialProportional : lower : 100 * ( 1 - (remaining HP) / (total HP) )}",

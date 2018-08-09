@@ -1,17 +1,17 @@
 {
-  "name": "보아 샌더소니아, 쿠자의 전사",
+  "name": "보아 썬더소니아, 구사의 전사",
   "detail": {
-    "captain": "Boosts ATK of Fighter characters by 1.75x, deals 2 times the damage received in the previous 턴 in [PSY] damage to all enemies at the end of each 턴",
+    "captain": "격투형 캐릭터의 공격력을 1.75배로 만들고, 적에게 받는 데미지의 2배를 턴 종료 시 적 전체에게 준다",
     "special": [
       {
-        "description": "Changes Captain orb into Matching, and reduces damage received from [PSY] enemies by 40%",
+        "description": "선장의 슬롯을 속성 일치 슬롯으로 바꾸고 [PSY]에게 받는 데미지를 1턴 동안 40% 줄인다",
         "cooldown": [
           21,
           11
         ]
       },
       {
-        "description": "Changes Captain orb into Matching, and reduces damage received from [PSY] enemies by a variable factor.",
+        "description": "선장의 슬롯을 속성 일치 슬롯으로 바꾸고 [PSY]에게 받는 데미지를 1턴 동안 발동 시의 체력이 50% 이상일 경우 50% 감소, 50% 미만 10% 이상일 경우 80% 감소, 10% 미만일 경우 무효가 된다",
         "cooldown": [
           26,
           16
@@ -19,6 +19,6 @@
       }
     ],
     "specialNotes": "The exact multiplier used is chosen based on the crew's current HP at the time the special is activated: above 50% HP, the multiplier used is 50%; between 50% and 10%, it's 80%; below 10% HP, it's 100%.<br>#{stages}",
-    "specialName": "Snake Dance"
+    "specialName": "스네이크 댄스"
   }
 }

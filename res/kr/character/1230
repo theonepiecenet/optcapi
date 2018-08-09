@@ -4,21 +4,21 @@
     "captain": "Boosts ATK of 강인형 characters by 2.5x, but boost his OWN ATK by 2.75x. Reduces damage received by 10%",
     "special": [
       {
-        "description": "Deals 500 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 turn",
+        "description": "적 1명에게 고정 데미지 500을 주고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
         "cooldown": [
           11,
           4
         ]
       },
       {
-        "description": "Deals 5,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 turn",
+        "description": "적 1명에게 고정 데미지 5,000을 주고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
         "cooldown": [
           15,
           8
         ]
       },
       {
-        "description": "Deals 100,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 2 turns",
+        "description": "적 1명에게 고정 데미지 100,000을 주고, 상단 캐릭터의 필살기 턴을 2턴 단축한다",
         "cooldown": [
           22,
           15
@@ -26,9 +26,9 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "Leg-Locked Heave-Ho",
+    "specialName": "족공동행",
     "sailor": {
-      "base": "Cannot be Blown Away",
+      "base": "자신은 날아가지 않는다",
       "level1": "Restores his own special by 2 turns when it is rewinded"
     },
     "sailorNotes": "#{rewind : 2}",

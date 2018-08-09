@@ -6,7 +6,7 @@
     "captain": "Boosts ATK of 강인형 characters by 3.5x if they have a matching orb, by 2.5x otherwise, reduces crew's RCV to 0",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of 강인형 characters by 30",
+      "level1": "강인형 캐릭터의 기본 능력치가 30 상승한다",
       "level2": "Makes [RCV] and [TND] orbs “beneficial” for 강인형 characters"
     },
     "sailorNotes": "#{beneficial}",
@@ -33,7 +33,7 @@
         "description": "체력 상승 : 40"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of 강인형 characters by 30"
+        "description": "선원 효과 추가 1: 강인형 캐릭터의 기본 능력치가 30 상승한다"
       },
       {
         "description": "회복력 상승 : 5"
@@ -99,7 +99,7 @@
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "잠재능력 습득 3: Reduce No Healing duration"
+        "description": "잠재능력 습득 3: 회복 무효 내성"
       }
     ],
     "potential": [
@@ -124,7 +124,7 @@
         ]
       },
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by ? turns",

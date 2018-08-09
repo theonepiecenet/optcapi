@@ -1,14 +1,14 @@
 {
   "name": "‘악마 1보안관’ 라피트",
   "detail": {
-    "captain": "Recovers 3x character's RCV in HP at the end of each turn. Deals 7x character's ATK in [DEX] damage to all enemies at the end of each turn.",
-    "special": "Reduces Bind and Despair duration by 2 turns. Makes Badly Matching and [BLOCK] orbs not reduce damage for 4 turns",
+    "captain": "턴 종료 시 회복력x3배의 체력을 회복하고, 적 전체에 공격력x7배의 데미지를 준다",
+    "special": "봉쇄·선장효과 무효 상태를 2턴 회복하고, 4턴 동안 일당의 슬롯에 의한 공격력 감소를 무효화한다",
     "specialNotes": "Ex. A [STR] character with a [QCK] orb will still deal regular damage",
     "sailor": {
-      "base": "Boosts base ATK of all characters by 100 if your Captain is a 야심형 character",
+      "base": "선장이 야심형일 경우, 일당의 기본 공격력이 100 상승한다",
       "level1": "Reduces Blindness duration by 3 turns"
     },
-    "specialName": "Horrifying Suggestion",
+    "specialName": "괴기한 암시",
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -50,7 +50,7 @@
         "description": "체력 상승 : 50"
       },
       {
-        "description": "선원 효과 추가 1: Reduces Blindness duration by 3 turns"
+        "description": "선원 효과 추가 1: 의성어 은폐 상태를 3턴 회복한다"
       },
       {
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"

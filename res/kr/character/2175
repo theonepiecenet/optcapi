@@ -16,7 +16,7 @@
     "sailor": {
       "base": "None",
       "level1": "일당의 기본 체력이 75 상승한다",
-      "level2": "Completely resists Paralysis on this character"
+      "level2": "자신의 마비 상태를 완전히 회복한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -108,7 +108,7 @@
         "description": "체력 상승 : 70"
       },
       {
-        "description": "선원 효과 추가 2: Completely resists Paralysis on this character"
+        "description": "선원 효과 추가 2: 자신의 마비 상태를 완전히 회복한다"
       },
       {
         "description": "공격력 상승 : 40"
@@ -138,7 +138,7 @@
         "description": "새로운 선장 효과 습득: Boosts ATK of 강인형 characters by 2.75x and reduces damage received by 20%"
       },
       {
-        "description": "잠재능력 습득 2: Reduce No Healing duration"
+        "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
     "potential": [
@@ -153,7 +153,7 @@
         ]
       },
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turns",

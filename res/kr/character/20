@@ -7,7 +7,7 @@
     "specialNotes": "#{fixed}",
     "sailor": {
       "base": "None",
-      "level1": "Makes [RCV] orbs “beneficial” for all characters",
+      "level1": "일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다",
       "level2": "일당의 기본 능력치가 40 상승한다"
     },
     "sailorNotes": "#{beneficial}",
@@ -37,7 +37,7 @@
         "description": "공격력 상승 : 60"
       },
       {
-        "description": "선원 효과 추가 1: Makes [RCV] orbs “beneficial” for all characters"
+        "description": "선원 효과 추가 1: 일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다"
       },
       {
         "description": "회복력 상승 : 20"
@@ -72,11 +72,11 @@
       {
         "Name": "긴급 회복",
         "description": [
-          "Level 1: If HP is below 5% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 5% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 5% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 10% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 20% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 2: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 3: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 4: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 5: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
         ]
       }
     ]

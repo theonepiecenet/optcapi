@@ -1,13 +1,13 @@
 {
   "name": "타시기, 해군 GL 제5지부 ‘G-5’ 대령 ",
   "detail": {
-    "captain": "Boosts ATK of 참격형 and Cerebral characters by 1.6x and their RCV by 1.3x",
+    "captain": "참격형과 박식형 캐릭터의 공격력이 각각 1.6배, 회복력이 각각 1.3배가 된다",
     "captainNotes": "Attack boost stacks, so a Slasher/Cerebral character has a 2.56x ATK",
-    "special": "Deals 15x character's ATK in [QCK] damage to all enemies. Boosts the Color Affinity of 참격형 and Cerebral characters by 1.5x for 2 turns",
+    "special": "적 전체에게 캐릭터의 공격력x15배의 [QCK] 데미지를 주고, 2턴 동안 참격형과 박식형의 일반 공격에 의한 속성 상성의 영향을 증폭시킨다",
     "specialNotes": "#{colorAffinity : 1.5}",
-    "specialName": "Cutting Drizzle",
+    "specialName": "참격맹폭",
     "sailor": {
-      "base": "Boosts base RCV of 참격형 characters by 30",
+      "base": "참격형의 기본 회복력이 30 상승한다",
       "level1": "Boosts base ATK and HP of all characters by 30"
     },
     "limit": [
@@ -54,7 +54,7 @@
         "description": "공격력 상승 : 70"
       },
       {
-        "description": "잠재능력 습득 2: Reduce No Healing duration"
+        "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
     "potential": [
@@ -69,7 +69,7 @@
         ]
       },
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turns",

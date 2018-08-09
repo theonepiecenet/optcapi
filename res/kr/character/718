@@ -8,8 +8,8 @@
     "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a PERFECT hit by 2.75x. This bonus is applied only to 참격형 characters.",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base HP of 참격형 characters by 120",
-      "level2": "Boosts base ATK of 참격형 characters by 50"
+      "level1": "참격형 캐릭터의 기본 체력이 120 상승한다",
+      "level2": "참격형 캐릭터의 기본 공격력이 50 상승한다"
     },
     "limit": [
       {
@@ -34,7 +34,7 @@
         "description": "체력 상승 : 30"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base HP of 참격형 characters by 120"
+        "description": "선원 효과 추가 1: 참격형 캐릭터의 기본 체력이 120 상승한다"
       },
       {
         "description": "체력 상승 : 35"
@@ -91,7 +91,7 @@
         "description": "공격력 상승 : 40"
       },
       {
-        "description": "선원 효과 추가 2: Boosts base ATK of 참격형 characters by 50"
+        "description": "선원 효과 추가 2: 참격형 캐릭터의 기본 공격력이 50 상승한다"
       },
       {
         "description": "공격력 상승 : 50"
@@ -127,11 +127,11 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: PERFECT 적중 시, 40% 확률로 공격력의 4% 추가 데미지를 입힌다.",
-          "Level 2: PERFECT 적중 시, 50% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 3: PERFECT 적중 시, 70% 확률로 공격력의 6% 추가 데미지를 입힌다.",
-          "Level 4: PERFECT 적중 시, 80% 확률로 공격력의 8% 추가 데미지를 입힌다.",
-          "Level 5: PERFECT 적중 시, 90% 확률로 공격력의 10% 추가 데미지를 입힌다."
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 90% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
         ]
       }
     ]

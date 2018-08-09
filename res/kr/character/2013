@@ -23,7 +23,7 @@
     "specialName": "A Small Dine and Dash",
     "sailor": {
       "base": "Reduces Silence duration on this character by 3 turns",
-      "level1": "Makes [RCV] orbs “beneficial” for all characters"
+      "level1": "일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{silence}<br>#{beneficial}",
     "limit": [
@@ -67,7 +67,7 @@
         "description": "공격력 상승 : 50"
       },
       {
-        "description": "선원 효과 추가 1: Makes [RCV] orbs “beneficial” for all characters"
+        "description": "선원 효과 추가 1: 일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다"
       },
       {
         "description": "잠재능력 습득 2: 긴급 회복"

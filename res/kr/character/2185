@@ -6,7 +6,7 @@
     "specialName": "Hawk Eyes' Instantaneous Killing",
     "sailor": {
       "base": "Boosts base ATK and HP of [PSY] and [INT] characters by 50",
-      "level1": "Boosts this character's attack against [INT] characters by 1.1x"
+      "level1": "자신이 [INT] 속성에게 주는 일반 공격에 의한 데미지가 1.1배가 된다"
     },
     "potential": [
       {
@@ -22,11 +22,11 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: PERFECT 적중 시, 30% 확률로 공격력의 4% 추가 데미지를 입힌다.",
-          "Level 2: PERFECT 적중 시, 40% 확률로 공격력의 5% 추가 데미지를 입힌다.",
-          "Level 3: PERFECT 적중 시, 50% 확률로 공격력의 6% 추가 데미지를 입힌다.",
-          "Level 4: PERFECT 적중 시, 60% 확률로 공격력의 7% 추가 데미지를 입힌다.",
-          "Level 5: PERFECT 적중 시, 70% 확률로 공격력의 8% 추가 데미지를 입힌다."
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"
         ]
       }
     ],

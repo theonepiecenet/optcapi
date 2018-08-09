@@ -6,8 +6,8 @@
     "captain": "Reduces cooldown of all specials by 3 턴 at the start of the fight, boosts ATK of Fighter characters by 2x",
     "sailor": {
       "base": "None",
-      "level1": "Boosts this character's attack against [DEX] characters by 1.1x",
-      "level2": "Boosts this character's attack against [QCK] characters by 2x"
+      "level1": "자신이 [DEX] 속성에게 주는 일반 공격에 의한 데미지가 1.1배가 된다",
+      "level2": "자신이 [QCK] 속성에게 주는 일반 공격에 의한 데미지가 2배가 된다"
     },
     "limit": [
       {
@@ -20,7 +20,7 @@
         "description": "회복력 상승 : 20"
       },
       {
-        "description": "잠재능력 습득 1: Reduce No Healing duration"
+        "description": "잠재능력 습득 1: 회복 무효 내성"
       },
       {
         "description": "체력 상승 : 30"
@@ -38,7 +38,7 @@
         "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "선원 효과 추가 1: Boosts this character's attack against [DEX] characters by 1.1x"
+        "description": "선원 효과 추가 1: 자신이 [DEX] 속성에게 주는 일반 공격에 의한 데미지가 1.1배가 된다"
       },
       {
         "description": "체력 상승 : 70"
@@ -50,7 +50,7 @@
         "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "선원 효과 추가 2: Boosts this character's attack against [QCK] characters by 2x"
+        "description": "선원 효과 추가 2: 자신이 [QCK] 속성에게 주는 일반 공격에 의한 데미지가 2배가 된다"
       },
       {
         "description": "잠재능력 습득 2: Cooldown Reduction"
@@ -58,7 +58,7 @@
     ],
     "potential": [
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by ? turns",

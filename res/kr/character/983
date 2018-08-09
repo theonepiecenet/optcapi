@@ -7,7 +7,7 @@
     "special": "적 1명에게 공격력x25배의 [QCK] 데미지를 주고, 하단 슬롯을 속성 일치 슬롯으로 바꾼다",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK of 참격형 characters by 60",
+      "level1": "참격형 캐릭터의 기본 공격력이 60 상승한다",
       "level2": "Makes [DEX] orbs “beneficial” for this character"
     },
     "sailorNotes": "#{beneficial}",
@@ -34,7 +34,7 @@
         "description": "회복력 상승 : 30"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK of 참격형 characters by 60"
+        "description": "선원 효과 추가 1: 참격형 캐릭터의 기본 공격력이 60 상승한다"
       },
       {
         "description": "체력 상승 : 70"
@@ -72,11 +72,11 @@
       {
         "Name": "크리티컬 공격",
         "description": [
-          "Level 1: PERFECT 적중 시, 40% 확률로 공격력의 4% 추가 데미지를 입힌다.",
-          "Level 2: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 3: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 4: PERFECT 적중 시, ??% 확률로 공격력의 ?% 추가 데미지를 입힌다.",
-          "Level 5: PERFECT 적중 시, 80% 확률로 공격력의 7% 추가 데미지를 입힌다."
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
         ]
       }
     ]
