@@ -4,7 +4,7 @@
     "special": "적 1명에게 캐릭터의 공격×25배의 DEX 데미지",
     "specialName": "사자의 노래",
     "captain": {
-      "base": "공격 시작 전에 체력이 가득 차 있으면 받는 데미지가 큰 폭(80%)으로 감소",
+      "base": "체력이 가득 찼을 때 받는 데미지 큰 폭으로 감소",
       "level1": "Boosts ATK of all characters by 1.5x and reduces damage received by 80% if HP is above 99% at the start of the turn"
     },
     "sailor": {

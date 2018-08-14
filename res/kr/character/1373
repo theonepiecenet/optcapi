@@ -1,24 +1,24 @@
 {
   "name": "마젤란",
   "detail": {
-    "captain": "Boosts ATK of INT characters by 1.5x and their HP by 1.2x, deals 5 times the damage received in the previous 턴 in [INT] damage to all enemies at the end of each 턴",
+    "captain": "[INT] 캐릭터의 공격력을 1.5배, 체력을 1.2배로 만들고, 적으로부터 받은 데미지의 2배를 턴 종료 시에 적 전체에게 돌려준다",
     "special": [
       {
-        "description": "Poisons all enemies and delays all enemies for 1 턴.",
+        "description": "적 전체를 독 상태로 만들고 공격을 1턴 지연시킨다",
         "cooldown": [
           25,
           10
         ]
       },
       {
-        "description": "Inflicts Toxic to all enemies and delays all enemies for 1 턴.",
+        "description": "적 전체를 서서히 데미지량이 늘어나는 독 상태로 만들고(최대 데미지 1,500,000), 공격을 1턴 지연시킨다",
         "cooldown": [
           31,
           16
         ]
       }
     ],
-    "specialName": "Poison Dragon",
+    "specialName": "히드라",
     "specialNotes": "Toxic starts at 0.5x character's attack and increases by 3x at the end of every 턴 until 1,500,000 damage per 턴.<br>#{stages}"
   }
 }

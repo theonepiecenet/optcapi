@@ -1,24 +1,24 @@
 {
-  "name": "해군 상사 코비, 위대한 항로 해병",
+  "name": "해군본부 상사 코비, ‘위대한 항로’의 해병",
   "detail": {
-    "captain": "Boosts ATK of all characters by 2x after the 2nd PERFECT in a row and by 3x after the 5th PERFECT in a row.",
+    "captain": "PERFECT 타이밍을 2연속, 5연속 성공 시에 이후 캐릭터의 공격력이 각각 2배, 3배가 된다",
     "special": [
       {
-        "description": "If HP is below 3,000 when the special is activated, reduces No Healing debuff by 1 턴. Recovers 3x character's RCV in HP",
+        "description": "남은 체력이 3,000 이하인 경우, 회복 무효 상태를 1턴 줄이고, 회복력x3배의 체력을 회복한다",
         "cooldown": [
           15,
           9
         ]
       },
       {
-        "description": "If HP is below 3,000 when the special is activated, reduces No Healing debuff by 3 턴. Recovers 6x character's RCV in HP",
+        "description": "남은 체력이 3,000 이하인 경우, 회복 무효 상태를 3턴 줄이고, 회복력x6배의 체력을 회복한다",
         "cooldown": [
           20,
           14
         ]
       },
       {
-        "description": "If HP is below 3,000 when the special is activated, removes No Healing debuff. Recovers 13x character's RCV in HP",
+        "description": "남은 체력이 3,000 이하인 경우, 회복 무효 상태를 해제하고 회복력x13배의 체력을 회복한다",
         "cooldown": [
           24,
           18
