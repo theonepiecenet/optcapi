@@ -43,6 +43,7 @@ $app->get('/{lang}/character/{id}', function($request, $response) {
     }
     else
     {
+    	log_file($id);
         $original_arr = json_decode($original_json, true);
         if($lang != "en")
         {
@@ -88,9 +89,11 @@ $app->get('/{lang}/character/{id}', function($request, $response) {
 });
 $app->post('/{lang}/search', function($request, $response) {
     log_file(json_encode($_POST, JSON_UNESCAPED_SLASHES|JSON_UNESCAPED_UNICODE));
-    $result_arr = [];
-    $result_name = [];
-    $result_key = [];
+    $result_arr   = [];
+    $result_name  = [];
+    $result_key   = [];
+    $result_type  = [];
+    $result_class = [];
     $lang = $request->getAttribute('lang');
     $allPostPutVars = $request->getParsedBody();
     foreach($allPostPutVars as $key => $param){
@@ -110,23 +113,35 @@ $app->post('/{lang}/search', function($request, $response) {
                 }
             }
         }
-        elseif($key == "type" || $key == "class")
+        elseif($key == "type")
         {
             $value = json_decode($param, true);
             $name = json_decode(getFile("res/en/name.json"), true);
-            $result_tmp = [];
             for($i=0; $i<count($value);$i++)
             {
                 for($j=0; $j<count($name);$j++)
                 {
                     if(array_search($value[$i], $name[$j][$key]) > -1)
                     {
-                        array_push($result_key,$name[$j]['id']);
+                        array_push($result_type,$name[$j]['id']);
                     }
                 }
             }
-            if(count($result_tmp) > 0)
-                $result_key = array_values(array_intersect($result_tmp, $result_key));
+        }
+        elseif($key == "class")
+        {
+            $value = json_decode($param, true);
+            $name = json_decode(getFile("res/en/name.json"), true);
+            for($i=0; $i<count($value);$i++)
+            {
+                for($j=0; $j<count($name);$j++)
+                {
+                    if(array_search($value[$i], $name[$j][$key]) > -1)
+                    {
+                        array_push($result_class,$name[$j]['id']);
+                    }
+                }
+            }
         }
         elseif($key == "captain" || $key == "sailor" || $key == "special" || $key == "limit")
         {
@@ -149,6 +164,18 @@ $app->post('/{lang}/search', function($request, $response) {
                 }
             }
         }
+    }
+    if(count($result_type) > 0 && count($result_class) > 0)
+    {
+        $result_key= array_values(array_intersect($result_type, $result_class));
+    }
+    elseif(count($result_type) > 0 && count($result_class) == 0)
+    {
+        $result_key = $result_type;
+    }
+    elseif(count($result_class) > 0 && count($result_type) == 0)
+    {
+        $result_key = $result_class;
     }
     if(count($result_arr) > 0)
         $result_arr = array_values($result_arr);
