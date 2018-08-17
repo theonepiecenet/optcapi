@@ -14,18 +14,28 @@
     ],
     "stars": 4,
     "cost": 12,
-    "combo": null,
+    "combo": 4,
     "slots": 3,
     "level": 50,
     "exp": 261406,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1338,
+    "maxATK": 675,
+    "maxRCV": 102
   },
   "cooldown": [
     13,
     13
   ],
+  "evolution": {
+    "evolution": 2207,
+    "evolvers": [
+      117,
+      80,
+      91,
+      97,
+      102
+    ]
+  },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2206.png",

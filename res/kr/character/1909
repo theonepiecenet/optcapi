@@ -1,10 +1,10 @@
 {
   "name": "돈키호테 도플라밍고, 드레스로자 현 국왕",
   "detail": {
-    "captain": "일당에 야심형 캐릭터가 6명일 때, 야심형 캐릭터의 체력을 1.2배, 평상시에 공격력을 3.25배, 슬롯 일치 시엔 공격력을 3.9배로 만들고, [DEX][QCK] 슬롯도 [유리] 슬롯으로 취급하며, [STR] 슬롯 출현율을 대폭 감소시킨다",
+    "captain": "If there are 6 Driven characters in your crew, boosts ATK of Driven characters by 3.9x if they have a matching orb, by 3.25x otherwise and their HP by 1.2x. Lowers chances of getting [STR] orbs and makes [DEX] and [QCK] orbs “beneficial” to Driven characters",
     "captainNotes": "#{beneficial}",
-    "special": "이전 턴에 일반 공격으로 적의 HP를 초과해서 준 데미지 합계치의 2배의 무 속성 데미지를 적 전체에게 준다(추가 데미지 등으로 적을 전멸시키고 다음 배틀로 이동할 시, 일반 공격으로 적의 HP를 초과해서 준 데미지 합계치는 0으로 계산)",
+    "special": "Deals 200% of the damage dealt in Overkill Damage in the previous turn as typeless damage to all enemies.",
     "specialNotes": "Overkill Damage is damage dealt over the enemy's current HP with normal attacks that killed them. For example, dealing 2,100,000 damage to an enemy with 1,000,000 HP will count as 1,100,000 Overkill Damage. This stacks for each enemy killed in the previous turn. If the enemy dies by End-Of-Turn damage, your Overkill Damage dealt last turn will be 0.",
-    "specialName": "천 발의 화살 플랩 스레드"
+    "specialName": "Thousand Arrows: Flap Thread"
   }
 }

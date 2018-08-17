@@ -1,10 +1,10 @@
 {
   "name": "마샬 D. 티치, 검은수염 해적단 선장",
   "detail": {
-    "captain": "적의 방어 효과를 무시하고 일반 공격을 할 수 있지만, 일당의 방어 효과가 모두 무효가 된다. 또한 일당에 격투형, 참격형, 타격형, 사격형이 모두 편성되어 있을 시 일당의 공격력이 2.75배, 체력은 1.5배가 된다",
+    "captain": "Boosts ATK of all characters by 2.75x and their HP by 1.5x if you have a Striker, Shooter, Fighter and Slasher on your crew. Attacks will ignore defensive barriers and buffs.",
     "captainNotes": "Attacks are still affected by DEF value. DEF boost buffs (Blue shield) still reduce your damage, but Damage Negating (Yellow shield) and % Damage Reduction (Rainbow shield) are ignored). Multiple class characters count as a character of each class. Enemy attacks will go through YOUR defensive buffs.",
-    "special": "적 전체의 HP를 30% 줄인다(자신이 선장, 조력자 선장, 친구 선장일 때는 모든 방어 효과를 관통한다)",
-    "specialNotes": "If Blackbeard is not a captain, the effect works exactly like Whitebeard special and is affected by barriers.",
-    "specialName": "세계를 뒤흔드는 충격"
+    "special": "Cuts the current HP of each enemy by 30%. If Blackbeard is a captain, this ability will ignore damage negating abilities and barriers",
+    "specialNotes": "If Blackbeard is not a captain, the effect works exactly like Whitebeard special and is affected by barriers.<br>#{ignoreBarrier}",
+    "specialName": "World Shaking Impact"
   }
 }

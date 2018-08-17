@@ -16,13 +16,20 @@
     "cost": 15,
     "combo": null,
     "slots": 3,
-    "level": 70,
-    "exp": 1066998,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1412,
+    "maxATK": 601,
+    "maxRCV": 72
   },
-  "cooldown": 20,
+  "cooldown": [
+    20,
+    14
+  ],
+  "evolution": {
+    "evolution": 2205,
+    "evolvers": []
+  },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2204.png",

@@ -1,17 +1,17 @@
 {
   "name": "레오",
   "detail": {
-    "captain": "타격형과 자유형의 공격력을 2.25배, 회복력을 1.75배로 만든다",
+    "captain": "Boosts ATK of Striker and Free Spirit characters by 1.75x",
     "special": [
       {
-        "description": "일당의 슬롯을 1턴 고정하고, 적 전체의 공격을 1턴 지연, 적 전체의 HP를 10% 줄인다",
+        "description": "Delays all enemies for 1 turn. Locks all orbs for 1 turn. Cuts the current HP of all enemies by 10%",
         "cooldown": [
           16,
           12
         ]
       },
       {
-        "description": "일당의 슬롯을 1턴 고정하고, 적 전체의 공격을 1턴 지연, 적 전체의 HP를 20% 줄인다",
+        "description": "Delays all enemies for 1 turn. Locks all orbs for 1 turn. Cuts the current HP of all enemies by 20%",
         "cooldown": [
           20,
           16
@@ -19,6 +19,6 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "오트 쿠튀르 패치★워크"
+    "specialName": "Haute Couture: Patchwork"
   }
 }

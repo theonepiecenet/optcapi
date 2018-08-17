@@ -1,80 +1,80 @@
 {
   "name": "대와거미 스쿼드",
   "detail": {
-    "special": "Reduces crew's current HP by 30%, deals 10x character's ATK in fixed damage to one enemy, amplifies the effect of orbs by 1.75x for 1 턴",
+    "special": "Reduces crew's current HP by 30%, deals 10x character's ATK in fixed damage to one enemy, amplifies the effect of orbs by 1.75x for 1 turn",
     "specialNotes": "#{fixed} #{orb : 1.75x}",
     "specialName": "Raging Greatsword",
-    "captain": "Boosts ATK of PSY characters by 3x 전투 시작 시 체력이 30% 미만이면",
+    "captain": "Boosts ATK of [PSY] characters by 3x if HP is below 30% at the start of the turn",
     "sailor": {
       "base": "Recovers 2 turns of Paralysis on self",
       "level1": "Reduces Blindness duration by 2 turns"
     },
     "limit": [
       {
-        "description": "회복력 상승 : 25"
+        "description": "Boosts base RCV by 25"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "회복력 상승 : 35"
+        "description": "Boosts base RCV by 35"
       },
       {
-        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "필살기 턴 수 단축: 2"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "선원 효과 추가 1: 의성어 은폐 상태를 2턴 회복한다"
+        "description": "Acquire Sailor Ability 1: Reduces Blindness duration by 2 turns"
       },
       {
-        "description": "공격력 상승 : 60"
+        "description": "Boosts base ATK by 60"
       },
       {
-        "description": "회복력 상승 : 40"
+        "description": "Boosts base RCV by 40"
       },
       {
-        "description": "필살기 턴 수 단축: 2"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "회복력 상승 : 50"
+        "description": "Boosts base RCV by 50"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
+        "description": "Acquire Potential 2: [INT] Damage Reduction"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] 데미지 피해 감소",
+        "Name": "[STR] Damage Reduction",
         "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Reduce damage taken from [STR] characters by 1%",
+          "Level 2: Reduce damage taken from [STR] characters by 2%",
+          "Level 3: Reduce damage taken from [STR] characters by 3%",
+          "Level 4: Reduce damage taken from [STR] characters by 4%",
+          "Level 5: Reduce damage taken from [STR] characters by 5%"
         ]
       },
       {
-        "Name": "[INT] 데미지 피해 감소",
+        "Name": "[INT] Damage Reduction",
         "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
         ]
       }
     ]

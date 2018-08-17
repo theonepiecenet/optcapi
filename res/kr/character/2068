@@ -1,70 +1,70 @@
 {
   "name": "타시기, Ambitions of a Female Swordsman",
   "detail": {
-    "captain": "Boosts ATK of 참격형 characters by 2.75x at the start of the chain, by 3.4375x after scoring 3 PERFECTs in a row and recovers 1.25x character's RCV in HP at the end of each turn",
+    "captain": "Boosts ATK of Slasher characters by 2.75x at the start of the chain, by 3.4375x after scoring 3 PERFECTs in a row and recovers 1.25x character's RCV in HP at the end of each turn",
     "special": "Reduces ATK DOWN and Increase Damage Taken duration by 5 turns, changes [BLOCK], [STR] and [QCK] orbs into Matching orbs and locks the chain multiplier at 2.75x for 3 turns",
     "specialName": "Spinning Jump Attack",
     "sailor": {
-      "base": "Boosts base ATK, HP and RCV for 참격형 characters by 50",
-      "level1": "Makes [PSY] orbs “beneficial” for 참격형 characters"
+      "base": "Boosts base ATK, HP and RCV for Slasher characters by 50",
+      "level1": "Makes [PSY] orbs “beneficial” for Slasher characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "잠재능력 습득 1: 크리티컬 공격"
+        "description": "Acquire Potential 1: Critical Hit"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” for 참격형 characters"
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs “beneficial” for Slasher characters"
       },
       {
-        "description": "잠재능력 습득 2: Cooldown Reduction"
+        "description": "Acquire Potential 2: Cooldown Reduction"
       }
     ],
     "potential": [
       {
-        "Name": "크리티컬 공격",
+        "Name": "Critical Hit",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 2%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다"
+          "Level 1: If you hit a perfect with this character, there is a 30% chance to deal 2% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 40% chance to deal 3% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 50% chance to deal 4% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 60% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 70% chance to deal 6% of this character's attack in extra damage"
         ]
       },
       {

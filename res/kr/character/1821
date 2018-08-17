@@ -1,25 +1,25 @@
 {
   "name": "상디, 무대의상 해적",
   "detail": {
-    "captain": "모든 캐릭터의 공격력이 1.5배 상승하고, 턴 종료시 캐릭터 회복력의 x1배 만큼 체력을 보충한다.",
+    "captain": "Boosts ATK of all characters by 1.5x. Recovers 1x character's RCV in HP at the end of each turn",
     "special": [
       {
-        "description": "캐릭터 회복력의 x4배 만큼 체력을 보충하고, 1턴 동안 받는 데미지를 반감한다. [BLOCK]를 포함 모든 슬롯을 [STR],[DEX],[QCK],[RCV] 슬롯으로 랜덤 교체한다.",
+        "description": "Recovers 4x character's RCV in HP, reduces damage received by 50% for 1 turn. Randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX], [QCK] or [RCV] orbs.",
         "cooldown": [
           8,
           8
         ]
       },
       {
-        "description": "캐릭터 회복력의 x10배 만큼 체력을 보충하고, 1턴 동안 받는 데미지를 반감한다. [BLOCK]를 포함 모든 슬롯을 [STR],[DEX],[QCK],[RCV] 슬롯으로 랜덤 교체한다.",
+        "description": "Recovers 10x character's RCV in HP, reduces damage received by 50% for 1 turn. Randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX], [QCK] or [RCV] orbs.",
         "cooldown": [
           14,
           14
         ]
       }
     ],
-    "specialName": "스위트 데코레이션",
-    "sailor": "[RCV]슬롯도 [유리] 슬롯으로 취급한다.",
+    "specialName": "Suite ・ Decoration",
+    "sailor": "Makes [RCV] orbs “beneficial” for this character",
     "sailorNotes": "#{beneficial}"
   }
 }

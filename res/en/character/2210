@@ -1,10 +1,15 @@
 {
   "name": "TM Enel",
+  "detail": {
+    "captain": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+    "special": "Deals 565,600 fixed damage to all enemies and locks all orbs for 1 turn.",
+    "specialName": "God's Judgement: El Thor"
+  },
   "unit": {
-    "type": "Unknown",
+    "type": "PSY",
     "class": [
-      "Unknown",
-      "Unknown"
+      "Striker",
+      "Driven"
     ],
     "stars": 4,
     "cost": 30,
@@ -17,6 +22,10 @@
     "maxRCV": null
   },
   "cooldown": null,
+  "evolution": {
+    "evolution": 2211,
+    "evolvers": []
+  },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2210.png",

@@ -1,9 +1,9 @@
 {
   "name": "엠포리오 이반코프 뉴하프왕국 여왕【영구결번】",
   "detail": {
-    "special": "자신의 슬롯을 [QCK] 으로 바꾸고 다른 슬롯을 [RCV], [STR], [DEX] 또는 [QCK] 슬롯으로 변환 시킨다.",
-    "specialName": "헬 윙크",
-    "captain": "[DEX] -> [INT] -> [QCK] 캐릭터 순서로 GOOD 이상 연계하면 공격력이 2.75배로 증가한다.",
+    "special": "Randomizes all orbs into either [RCV], [STR], [DEX] or [QCK] orbs and changes own orb into [QCK]",
+    "specialName": "Hell Wink",
+    "captain": "Boosts ATK of all characters by 2.75x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good",
     "sailor": {
       "base": "None",
       "level1": "Makes [STR], [DEX] and [RCV] orbs “beneficial” for this character",
@@ -12,60 +12,60 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "잠재능력 습득 1: 긴급 회복"
+        "description": "Acquire Potential 1: Pinch Healing"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "선원 효과 추가 1: Makes [STR], [DEX] and [RCV] orbs “beneficial” for this character"
+        "description": "Acquire Sailor Ability 1: Makes [STR], [DEX] and [RCV] orbs “beneficial” for this character"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "선원 효과 추가 2: When any other character uses a special, reduces own cooldown by 1 turn"
+        "description": "Acquire Sailor Ability 2: When any other character uses a special, reduces own cooldown by 1 turn"
       },
       {
-        "description": "잠재능력 습득 2: Cooldown Reduction"
+        "description": "Acquire Potential 2: Cooldown Reduction"
       }
     ],
     "potential": [
       {
-        "Name": "긴급 회복",
+        "Name": "Pinch Healing",
         "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 5: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
+          "Level 1: If HP is below 10% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ??% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ??% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ??% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ??% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {

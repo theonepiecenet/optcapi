@@ -1,74 +1,74 @@
 {
   "name": "쌍권 건틀릿의 킹듀",
   "detail": {
-    "captain": "[PSY] 캐릭터의 공격력을 2.5배로 만든다",
-    "special": "일당 모두의 [PSY] 슬롯을 소비하고, 적 1명에게 소비한 슬롯 수에 따라 증폭되는 [PSY] 데미지를 준다",
+    "captain": "Boosts ATK of [PSY] characters by 2.5x",
+    "special": "Empties all slots with [PSY] orbs, deals several times the character's ATK in [PSY] damage to one enemy",
     "specialNotes": "The exact multiplier used is chosen based on the number of [PSY] orbs consumed: 1 orb will give a 13x multiplier, 2 orbs 19x, 3 orbs 26x, 4 orbs 65x, 5 orbs 130x, 6 orbs 230x. It's not possible to activate the special without consuming at least one [PSY] orb.",
-    "specialName": "격멸의 브래스 너클",
+    "specialName": "Brass Knuckle Destruction",
     "sailor": {
-      "base": "공격 시작 전에 체력이 가득 차 있으면 [PSY] 캐릭터의 기본 공격력이 75 상승한다",
+      "base": "If HP is above 99% at the start of the turn, boosts ATK of [PSY] characters by 75",
       "level1": "When HP is above 99% at the start of the turn, boosts own base ATK by 100"
     },
     "limit": [
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "회복력 상승 : 40"
+        "description": "Boosts base RCV by 40"
       },
       {
-        "description": "공격력 상승 : 70"
+        "description": "Boosts base ATK by 70"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "필살기 턴 수 단축: 2"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "필살기 턴 수 단축: 2"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "공격력 상승 : 70"
+        "description": "Boosts base ATK by 70"
       },
       {
-        "description": "필살기 턴 수 단축: 3"
+        "description": "Reduce base Special Cooldown by 3 turns"
       },
       {
-        "description": "선원 효과 추가 1: When HP is above 99% at the start of the turn, boosts own base ATK by 100"
+        "description": "Acquire Sailor Ability 1: When HP is above 99% at the start of the turn, boosts own base ATK by 100"
       },
       {
-        "description": "잠재능력 습득 2: 회복 무효 내성"
+        "description": "Acquire Potential 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : ??",
-          "Level 3: 공격력 상승 : ??",
-          "Level 4: 공격력 상승 : ??",
-          "Level 5: 공격력 상승 : ??"
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by ??",
+          "Level 3: Boosts base ATK by ??",
+          "Level 4: Boosts base ATK by ??",
+          "Level 5: Boosts base ATK by ??"
         ]
       },
       {
-        "Name": "회복 무효 내성",
+        "Name": "Reduce No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by ? turn",

@@ -1,18 +1,18 @@
 {
   "name": "식인종 바르톨로메오, 해적단 ‘바르토 클럽’ 선장",
   "detail": {
-    "captain": "일당의 공격력을 2.25배, 체력을 1.35배로 만들고, 받는 데미지를 10% 줄이며, ‘배리어 크래시’를 사용한 턴은 일당의 공격력이 약 2.75배가 된다",
-    "specialName": "배리어 크래시",
+    "captain": "Boosts ATK of all characters by 2.25x and their HP by 1.35x and reduces damage received by 10%. If you use \"Barrier Crash\" in this turn boosts ATK of all characters by 2.75x instead.",
+    "specialName": "Barrier Crash",
     "special": [
       {
-        "description": "2턴 동안 적 각각에 대해 5,000이 넘는 부분의 데미지를 초대폭 감소시키고, 최대 체력의 20%를 회복하며, 적의 ATK Up, Enrage Buff를 5턴 줄인다",
+        "description": "Reduces any damage received above 5,000 HP by 97% for 2 turns, recovers 20% of crew's MAX HP, reduces enemies' ATK Up and Enrage Buffs by 5 turns.",
         "cooldown": [
           28,
           13
         ]
       },
       {
-        "description": "2턴 동안 적 각각에 대해 3,000이 넘는 부분의 데미지를 초대폭 감소시키고, 최대 체력의 50%를 회복하며, 적의 ATK Up, Enrage, End of Turn Damage/Percent Cut&남은 체력 1로 버티는 효과를 5턴 줄인다",
+        "description": "Reduces any damage received above 3,000 HP by 97% for 2 turns, recovers 50% of crew's MAX HP, reduces enemies' ATK Up, Enrage, End of Turn Damage/Percent Cut and Resilience Buffs by 5 turns.",
         "cooldown": [
           33,
           18
@@ -21,74 +21,74 @@
     ],
     "sailor": {
       "base": "None",
-      "level1": "일당의 기본 체력이 150 상승한다"
+      "level1": "Boosts base HP of all characters by 150"
     },
     "limit": [
       {
-        "description": "체력 상승 : 10"
+        "description": "Boosts base HP by 10"
       },
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "체력 상승 : 25"
+        "description": "Boosts base HP by 25"
       },
       {
-        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "체력 상승 : 35"
+        "description": "Boosts base HP by 35"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "체력 상승 : 45"
+        "description": "Boosts base HP by 45"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "필살기 턴 단축 : 1턴"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "선원 효과 추가 1: 일당의 기본 체력이 150 상승한다"
+        "description": "Acquire Sailor Ability 1: Boosts base HP of all characters by 150"
       },
       {
-        "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
+        "description": "Acquire Potential 2: [INT] Damage Reduction"
       }
     ],
     "potential": [
       {
-        "Name": "[PSY]데미지 피해 감소",
+        "Name": "[PSY] Damage Reduction",
         "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by 2%",
+          "Level 3: Reduce damage taken from [PSY] characters by 3%",
+          "Level 4: Reduce damage taken from [PSY] characters by 4%",
+          "Level 5: Reduce damage taken from [PSY] characters by 5%"
         ]
       },
       {
-        "Name": "[INT]데미지 피해 감소",
+        "Name": "[INT] Damage Reduction",
         "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
         ]
       }
     ]

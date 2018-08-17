@@ -1,18 +1,18 @@
 {
   "name": "피카, 돈키호테 해적단",
   "detail": {
-    "captain": "강인형의 공격력을 2.25배, 체력을 1.5배로 만든다",
-    "specialName": "암석지배 지옥의 벽 짓누르기",
+    "captain": "Boosts ATK of Powerhouse characters by 2.25x and their HP by 1.5x",
+    "specialName": "Rock Domination Wall",
     "special": [
       {
-        "description": "야심형과 강인형의 [EMPTY][불리] 슬롯을 속성 일치 슬롯으로 바꾸고 적 전체의 HP를 10% 줄인다",
+        "description": "For Driven and Powerhouse characters, changes [EMPTY] and Badly Matching orbs into Matching orbs. Cuts the current HP of all enemies by 10%",
         "cooldown": [
           25,
           11
         ]
       },
       {
-        "description": "일당의 [EMPTY][불리] 슬롯을 속성 일치 슬롯으로 바꾸고 적 전체의 HP를 20% 줄인다",
+        "description": "Changes [EMPTY] and Badly Matching orbs into Matching orbs. Cuts the current HP of all enemies by 20%",
         "cooldown": [
           31,
           17
@@ -22,68 +22,68 @@
     "specialNotes": "#{stages}",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK of 강인형 and 야심형 characters by 30"
+      "level1": "Boosts base ATK of Powerhouse and Driven characters by 30"
     },
     "limit": [
       {
-        "description": "체력 상승 : 5"
+        "description": "Boosts base HP by 5"
       },
       {
-        "description": "체력 상승 : 10"
+        "description": "Boosts base HP by 10"
       },
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "체력 상승 : 25"
+        "description": "Boosts base HP by 25"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "체력 상승 : 70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "체력 상승 : 90"
+        "description": "Boosts base HP by 90"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK of 강인형 and 야심형 characters by 30"
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of Powerhouse and Driven characters by 30"
       },
       {
-        "description": "잠재능력 습득 2: 회복 무효 내성"
+        "description": "Acquire Potential 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 40",
-          "Level 3: 공격력 상승 : 60",
-          "Level 4: 공격력 상승 : 80",
-          "Level 5: 공격력 상승 : 120"
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 40",
+          "Level 3: Boosts base ATK by 60",
+          "Level 4: Boosts base ATK by 80",
+          "Level 5: Boosts base ATK by 120"
         ]
       },
       {
-        "Name": "회복 무효 내성",
+        "Name": "Reduce No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turns",

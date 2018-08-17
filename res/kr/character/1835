@@ -1,11 +1,11 @@
 {
   "name": "빈스모크 이치디",
   "detail": {
-    "captain": "[STR]캐릭터의 공격력이 1.75배 증가, 강인 캐릭터의 공격력이 1.2배 증가하고 체력이 1.2배 증가한다.(효과 중복가능)",
-    "captainNotes": "Attack boost stacks, so a [STR] 강인형 character has a 2.1x ATK",
-    "special": "선장이 STR 또는 PSY 캐릭터인 경우, 2턴 동안 체인 계수를 2.5배로 고정하고 선장이 강인 캐릭터인 경우 2턴 동안 적의 공격을 지연 시킨다.",
-    "specialName": "마제스틱 임팩트",
-    "sailor": "PSY슬롯도 [유리] 슬롯으로 취급한다.",
+    "captain": "Boosts ATK of [STR] characters by 1.75x, boosts ATK of Powerhouse characters by 1.2x and the HP of Powerhouse characters by 1.2x",
+    "captainNotes": "Attack boost stacks, so a [STR] Powerhouse character has a 2.1x ATK",
+    "special": "If your captain is [STR] or [PSY] character, locks the chain multiplier at 2.5x for 2 turns. If your Captain is a Powerhouse character, delays all enemies for 2 turns",
+    "specialName": "Majestic Impact",
+    "sailor": "Makes [PSY] orbs “beneficial” for this character",
     "sailorNotes": "#{beneficial}"
   }
 }

@@ -1,9 +1,9 @@
 {
   "name": "프레쉬 프랑키 건강제일",
   "detail": {
-    "captain": "공격 시작 전에 체력이 가득 차 있으면 사격형 캐릭터의 공격이 2배가 된다.",
-    "specialName": "프랑키 파괴 포",
-    "special": "적 전체의 랜덤 대상에 2000 고정데미지를 6회 주고, 사격과 자유형 캐릭터의 역슬롯을 [G] 슬롯으로 변환",
-    "specialNotes": "이 슬롯은 오직 사격과 자유 타입 슬롯만 변환되고, 다른 타입 슬롯에는 영향이 없다. #{gOrbs}"
+    "captain": "Boosts ATK of Shooter characters by 2x if HP is above 99% at the start of the turn",
+    "specialName": "Franky Destroy Gun",
+    "special": "Deals 6 hits of 2,000 fixed damage to random enemies and for Shooter and Free Spirit characters, randomizes Badly Matching orbs into [G] orbs or Matching orbs",
+    "specialNotes": "The orb shuffle only applies to Shooter and Free Spirit characters, other classes are unaffected. #{gOrbs}"
   }
 }

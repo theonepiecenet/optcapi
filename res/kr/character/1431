@@ -1,8 +1,8 @@
 {
   "name": "프랑키 장군",
   "detail": {
-    "captain": "일당에 5속성 캐릭터가 모두 있으면 일당의 공격력이 2.5배가 되고, 일당에 격투형, 참격형, 사격형, 야심형, 자유형, 강인형이 모두 있으면 일당의 체력이 1.5배가 된다",
-    "special": "적 전체에게 무 속성 슈퍼 데미지를 주고, 적에게 걸려 있는 [ATK UP], [ENRAGE], [DAMAGE CUT], [RCV]을(를) 완전히 해제, 1턴 동안 일당의 공격력이 1.5배가 된다",
-    "specialName": "장군포"
+    "captain": "Boosts ATK of all characters by 2x if there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew and boosts their HP by 1.2x if there's a Fighter, Slasher, Shooter, Driven, Free Spirit and Powerhouse character in your crew",
+    "special": "Deals 100x character's ATK in typeless damage to all enemies, removes enemies' ATK Up, Enrage, End of Turn Damage/Percent Cut and End of Turn Heal Buffs and boosts ATK of all characters by 1.5x for 1 turn",
+    "specialName": "General Cannon"
   }
 }

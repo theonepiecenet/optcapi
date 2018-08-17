@@ -1,9 +1,9 @@
 {
   "name": "쵸파, 메르비유의 모험자",
   "detail": {
-    "special": "독 · 맹독 상태를 회복하고 캐릭터 회복력 × 15 배의 체력을 회복",
-    "specialName": "헌신의 치유 ‘무사해서 다행이야’",
-    "captain": "DEX캐릭터의 공격력과 회복력이 1.5 배가 된다",
-    "sailor": "남은 체력이 적을 때 (30%) 자신의 회복력이 50 증가"
+    "special": "Removes Poison, recovers 15x character's RCV in HP",
+    "specialName": "Devoted Healing - \"I'm Glad You are Safe\"",
+    "captain": "Boosts ATK and RCV of [DEX] characters by 1.5x",
+    "sailor": "When HP is below 30% at the start of the turn, boosts base RCV of himself by 50"
   }
 }

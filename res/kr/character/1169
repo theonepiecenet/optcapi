@@ -3,7 +3,7 @@
   "detail": {
     "captain": "Boosts ATK of [STR] characters proportionally to the crew's current HP",
     "captainNotes": "#{captainProportional : lower : 1 + 1.5 * (1 - (remaining HP) / (total HP)) : 1 : 2.5}",
-    "special": "Boosts ATK of [STR] characters by a variable factor for 1 턴",
+    "special": "Boosts ATK of [STR] characters by a variable factor for 1 turn",
     "specialNotes": "The exact multiplier used is chosen based on the crew's current HP at the time the special is activated<br>HP > 50%: 1.1x<br>50% > HP > 30%: 1.25x<br>30% > HP > 10%: 1.5x<br>HP < 10%: 1.75x",
     "specialName": "Trump Card Dealer"
   }

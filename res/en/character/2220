@@ -1,0 +1,30 @@
+{
+  "name": "Miyagi",
+  "detail": {
+    "captain": "Boosts RCV of Cerebral characters by 1.5x",
+    "special": "Removes Blindness duration completely.",
+    "specialName": "Positive Therapy"
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Free Spirit",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": 15,
+    "combo": 6,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": 9,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2220.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2220.png"
+  }
+}

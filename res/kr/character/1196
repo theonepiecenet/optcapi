@@ -1,79 +1,79 @@
 {
   "name": "간 폴, 스카이피아의 신",
   "detail": {
-    "captain": "타격형 캐릭터의 공격력을 2.5배로 만들고, 받는 데미지를 10% 감소시킨다",
-    "special": "적 1명에게 공격력x50배의 [DEX] 데미지를 주고, 1턴 동안 타격형 캐릭터의 슬롯의 영향을 상당히 크게 증폭시키고, 1턴 동안 받는 데미지를 50% 감소시킨다",
-    "specialName": "순흑의 도깨비",
+    "captain": "Boosts ATK of Striker characters by 2x. Recovers 5x character's RCV in HP at the end of each turn",
+    "special": "Reduces crew's current HP by 60%, deals 8x the amount of HP subtracted in typeless damage to all enemies. Boosts ATK of Striker characters by 1.75x for 1 turn",
+    "specialName": "Split Air Hole",
     "sailor": {
       "base": "None",
-      "level1": "타격형 캐릭터의 기본 능력치가 25 상승한다"
+      "level1": "Boosts base ATK, HP and RCV of Striker characters by 25"
     },
     "limit": [
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
       },
       {
-        "description": "회복력 상승 : 15"
+        "description": "Boosts base RCV by 15"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "회복력 상승 : 25"
+        "description": "Boosts base RCV by 25"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "선원 효과 추가 1: 타격형 캐릭터의 기본 능력치가 25 상승한다"
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Striker characters by 25"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "잠재능력 습득 2: 긴급 회복"
+        "description": "Acquire Potential 2: Pinch Healing"
       }
     ],
     "potential": [
       {
-        "Name": "[INT] 데미지 피해 감소",
+        "Name": "[INT] Damage Reduction",
         "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
         ]
       },
       {
-        "Name": "긴급 회복",
+        "Name": "Pinch Healing",
         "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 5: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ??% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ??% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ??% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ??% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
     ]

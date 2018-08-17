@@ -1,10 +1,10 @@
 {
   "name": "디칼반 형제",
   "detail": {
-    "special": "자신의 슬롯을 [DEX]로 바꾸고, 자기편의 체력이 적을수록 적 1명에게 큰 [DEX] 데미지를 준다",
+    "special": "Changes own orb into [DEX], deals several times the character's ATK in [DEX] damage to one enemy",
     "specialNotes": "#{specialProportional : lower : 50 * ( 1 - (remaining HP) / (total HP) )}",
-    "specialName": "해적 형제 쌍연격",
-    "captain": "격투형 캐릭터의 공격력이 2배가 되고, 턴 종료 시에 공격력x2배의 추가 데미지",
-    "sailor": "남은 체력이 적을 때 격투형 캐릭터의 기본 공격력이 100 상승한다"
+    "specialName": "Pirate Brothers: Twin Strike",
+    "captain": "Boosts ATK of Fighter characters by 2x, deals 2x character's ATK in [DEX] damage to all enemies at the end of each turn",
+    "sailor": "When HP is below 30% at the start of the turn, boosts ATK of Fighter characters by 100"
   }
 }

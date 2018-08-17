@@ -1,10 +1,10 @@
 {
-  "name": "해군 본부 중장 모몬가, 괴물 베기의 명장",
+  "name": "해군본부 중장 모몬가, 괴물 베기의 명장",
   "detail": {
-    "captain": "Boosts ATK of Cerebral and 참격형 characters by 2.5x and reduces damage received by 10% if there's a [STR], [DEX], [QCK], [INT] and [PSY] character on your crew.",
+    "captain": "Boosts ATK of Cerebral and Slasher characters by 2.5x and reduces damage received by 10% if there's a [STR], [DEX], [QCK], [INT] and [PSY] character on your crew.",
     "special": "Deals 15x character's ATK as [DEX] damage to all enemies. Boosts ATK against delayed enemies by 1.5x for 2 turns",
     "specialName": "Front Line Dissection",
-    "sailor": "Boosts base ATK of 참격형 and Cerebral characters by 75 if your Captain is a Cerebral character",
+    "sailor": "Boosts base ATK of Slasher and Cerebral characters by 75 if your Captain is a Cerebral character",
     "limit": [
       {
         "description": ""
@@ -49,7 +49,7 @@
         "description": ""
       },
       {
-        "description": "잠재능력 습득 2: "
+        "description": "Acquire Potential 2: "
       }
     ]
   }

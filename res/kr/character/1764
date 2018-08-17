@@ -1,11 +1,11 @@
 {
   "name": "쿠잔, 전 해군 본부 최고 전력",
   "detail": {
-    "captain": "일당의 공격력을 2.25배, 체력을 1.25배, 이전 턴에 적을 1명이라도 격파했다면 공격력 배율이 상승한다(최대 5턴으로 공격력 3.5배)",
+    "captain": "Boosts ATK of all characters by 2.25x and their HP by 1.25x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 5 times to a maximum of 3.5x.",
     "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
-    "special": "필살기 발동 시 일당에 걸려 있는 공격력 상승 및 슬롯 영향 증폭 효과를 1턴 연장, 1턴 동안 체인 계수를 2.5배로 고정, 모든 방어 효과를 무시하고 적 전체에게 고정 데미지 100,000을 준다",
+    "special": "Increases duration of any Class/Type boosting buffs and Orb Amplification buffs by 1 turn, locks the chain multiplier at 2.5x for 1 turn and deals 100,000 fixed damage to all enemies that will ignore damage negating abilities and barriers.",
     "specialNotes": "#{ignoreBarrier}",
-    "specialName": "결단을 내린 남자의 얼음 공격",
+    "specialName": "Determined Man's Ice Attack",
     "sailor": {
       "base": "None",
       "level1": "Makes [QCK] orbs “beneficial” for this Striker and Shooter characters",
@@ -14,121 +14,121 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "공격력 상승 : 5"
+        "description": "Boosts base ATK by 5"
       },
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "회복력 상승 : 5"
+        "description": "Boosts base RCV by 5"
       },
       {
-        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
       },
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "공격력 상승 : 15"
+        "description": "Boosts base ATK by 15"
       },
       {
-        "description": "회복력 상승 : 15"
+        "description": "Boosts base RCV by 15"
       },
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "잠재능력 습득 2: 크리티컬 공격"
+        "description": "Acquire Potential 2: Critical Hit"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "선원 효과 추가 1: Makes [QCK] orbs “beneficial” for this Striker and Shooter characters"
+        "description": "Acquire Sailor Ability 1: Makes [QCK] orbs “beneficial” for this Striker and Shooter characters"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "선원 효과 추가 2: If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn"
+        "description": "Acquire Sailor Ability 2: If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn"
       },
       {
-        "description": "체력 상승 : 70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "잠재능력 습득 3: 배리어 관통"
+        "description": "Acquire Potential 3: Barrier Penetration"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] 데미지 피해 감소",
+        "Name": "[STR] Damage Reduction",
         "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Reduce damage taken from [STR] characters by 1%",
+          "Level 2: Reduce damage taken from [STR] characters by 2%",
+          "Level 3: Reduce damage taken from [STR] characters by 3%",
+          "Level 4: Reduce damage taken from [STR] characters by 4%",
+          "Level 5: Reduce damage taken from [STR] characters by 5%"
         ]
       },
       {
-        "Name": "크리티컬 공격",
+        "Name": "Critical Hit",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 50% chance to deal 7% of this character's attack in extra damage"
         ]
       },
       {
-        "Name": "배리어 관통",
+        "Name": "Barrier Penetration",
         "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
           "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
           "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
           "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",

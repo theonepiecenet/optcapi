@@ -1,84 +1,84 @@
 {
   "name": "바다천둥 스크래치멘 아푸",
   "detail": {
-    "special": "[TND][RCV]슬롯을 [DEX]로 바꾸고, 적 전체에게 랜덤 [DEX] 데미지.",
-    "specialName": "스크래치 바디",
-    "specialNotes": "랜덤 데미지 범위는 5,000 ~ 20,000 사이",
+    "special": "Changes [TND] and [RCV] orbs into [DEX] orbs, deals random [DEX] damage to all enemies",
+    "specialName": "Scratch Body",
+    "specialNotes": "#{random : 5,000 : 20,000}",
     "captain": {
-      "base": "공격 시작 전에 체력이 가득 차 있으면 [DEX] 캐릭터의 공격력이 3배가 된다.",
+      "base": "Boosts ATK of [DEX] characters by 3x if HP is above 99% at the start of the turn",
       "level1": "Boosts ATK of [DEX] characters by 3x if HP is above 99% at the start of the turn, 2x otherwise"
     },
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of [DEX] characters by 30",
-      "level2": "사격형 캐릭터의 기본 공격력이 50 상승한다"
+      "level2": "Boosts base ATK of Shooter characters by 50"
     },
     "limit": [
       {
-        "description": "필살기 턴 단축 : 1턴"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "잠재능력 습득 1: 긴급 회복"
+        "description": "Acquire Potential 1: Pinch Healing"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "회복력 상승 : 40"
+        "description": "Boosts base RCV by 40"
       },
       {
-        "description": "공격력 상승 : 100"
+        "description": "Boosts base ATK by 100"
       },
       {
-        "description": "필살기 턴 단축 : 2턴"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "선원효과 추가 1: [DEX]캐릭터의 공격력, 체력, 회복력이 30 상승한다."
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of [DEX] characters by 30"
       },
       {
-        "description": "체력 상승 : 150"
+        "description": "Boosts base HP by 150"
       },
       {
-        "description": "선원효과 추가 2: 사격 캐릭터의 공격력이 50 상승시킨다."
+        "description": "Acquire Sailor Ability 2: Boosts base ATK of Shooter characters by 50"
       },
       {
-        "description": "필살기 턴 단축 : 2턴"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "새로운 선장 효과 습득: 전투 시작시 체력이 가득 차 있으면 [DEX]캐릭터의 공격력이 3배 상승하고, 그렇지 않으면 2배 상승한다."
+        "description": "Acquire new Captain Ability: Boosts ATK of [DEX] characters by 3x if HP is above 99% at the start of the turn, 2x otherwise"
       },
       {
-        "description": "소켓 슬롯 1개 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "잠재능력 습득 2: 배리어 관통"
+        "description": "Acquire Potential 2: Barrier Penetration"
       }
     ],
     "potential": [
       {
-        "Name": "긴급 회복",
+        "Name": "Pinch Healing",
         "description": [
-          "Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
-          "Level 2: 전투 시작 시 체력이 15% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
-          "Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
-          "Level 4: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
-          "Level 5: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다."
+          "Level 1: If HP is below 10% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
-        "Name": "배리어 관통",
+        "Name": "Barrier Penetration",
         "description": [
-          "Level 1: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 3: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다.",
-          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다."
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
     ]

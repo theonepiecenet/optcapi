@@ -1,9 +1,9 @@
 {
   "name": "마샬 D. 티치, 태양에 도전하는 어둠",
   "detail": {
-    "captain": "[INT]의 공격력을 1.75배로 만든다",
-    "special": "2턴 동안 GOOD, GREAT, PERFECT 공격 시 캐릭터의 공격력x15배의 무 속성 데미지가 가산되며, 모든 방어 효과를 무시하고 적 전체의 HP를 Lv 1~20인 트레저 맵에서는 10%, Lv 21 이상일 때는 25% 감소시킨다",
+    "captain": "Boosts ATK of [INT] characters by 1.75x",
+    "special": "Adds 15x character's ATK as Additional Typeless Damage for 2 turns. If you are on a Training Map, Cuts the current HP of all enemies depending on your Treasure Map Level that will ignore damage negating abilities and barriers",
     "specialNotes": "Level 1-20: 10% Health Cut<br>Level 21+: 25% Health Cut<br>#{ignoreBarrier}",
-    "specialName": "해방"
+    "specialName": "Sacred Flames: Unknown Fire"
   }
 }

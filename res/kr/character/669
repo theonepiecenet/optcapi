@@ -1,9 +1,9 @@
 {
   "name": "사보, 혁명군",
   "detail": {
-    "special": "1턴 동안 자유형 캐릭터의 공격력이 1.5배가 되고, 그 턴 내에 일당 전원이 PERFECT 공격에 성공하면 다음 턴에 자유형 캐릭터의 공격력이 2배가 된다",
-    "specialName": "용의 발톱",
-    "captain": "일당의 체력과 회복력을 조금 올리고, 공격 개시 전에 체력이 많을수록 자유형 캐릭터의 공격력이 상승한다",
+    "special": "Boosts ATK of Free Spirit characters by 1.5x for 1 turn. If during that turn every unit scores a PERFECT hit, boosts ATK of Free Spirit characters by 2x in the following turn.",
+    "specialName": "Dragon's Claw",
+    "captain": "Boosts HP and RCV of all characters by 1.2x, boosts ATK of Free Spirit characters proportionally to the crew's current HP",
     "captainNotes": "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}",
     "sailor": {
       "base": "None",
@@ -13,125 +13,125 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "회복력 상승 : 5"
+        "description": "Boosts base RCV by 5"
       },
       {
-        "description": "회복력 상승 : 5"
+        "description": "Boosts base RCV by 5"
       },
       {
-        "description": "회복력 상승 : 5"
+        "description": "Boosts base RCV by 5"
       },
       {
-        "description": "잠재능력 습득 1: 슬롯 봉쇄 내성"
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
       },
       {
-        "description": "체력 상승 : 25"
+        "description": "Boosts base HP by 25"
       },
       {
-        "description": "체력 상승 : 25"
+        "description": "Boosts base HP by 25"
       },
       {
-        "description": "체력 상승 : 25"
+        "description": "Boosts base HP by 25"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of Free Spirit characters by 50"
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Free Spirit characters by 50"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
+        "description": "Acquire Potential 2: [INT] Damage Reduction"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "체력 상승 : 70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "체력 상승 : 90"
+        "description": "Boosts base HP by 90"
       },
       {
-        "description": "선원 효과 추가 2: Makes [INT] orbs “beneficial” for Free Spirit characters"
+        "description": "Acquire Sailor Ability 2: Makes [INT] orbs “beneficial” for Free Spirit characters"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "공격력 상승 : 60"
+        "description": "Boosts base ATK by 60"
       },
       {
-        "description": "잠재능력 습득 3: 긴급 회복"
+        "description": "Acquire Potential 3: Pinch Healing"
       }
     ],
     "potential": [
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
         ]
       },
       {
-        "Name": "[INT] 데미지 피해 감소",
+        "Name": "[INT] Damage Reduction",
         "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"
+          "Level 1: Reduce damage taken from [INT] characters by 2%",
+          "Level 2: Reduce damage taken from [INT] characters by 3%",
+          "Level 3: Reduce damage taken from [INT] characters by 4%",
+          "Level 4: Reduce damage taken from [INT] characters by 5%",
+          "Level 5: Reduce damage taken from [INT] characters by 7%"
         ]
       },
       {
-        "Name": "긴급 회복",
+        "Name": "Pinch Healing",
         "description": [
-          "Level 1: 남은 체력이 40% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.75배의 체력을 회복한다",
-          "Level 2: 남은 체력이 40% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 3: 남은 체력이 40% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.25배의 체력을 회복한다",
-          "Level 4: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
-          "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다"
+          "Level 1: If HP is below 40% at the start of the turn, recovers .75x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 40% at the start of the turn, recovers 1.25x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
     ]

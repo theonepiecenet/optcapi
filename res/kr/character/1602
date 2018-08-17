@@ -1,9 +1,9 @@
 {
   "name": "비의 시류, 검은 수염 해적단",
   "detail": {
-    "captain": "참격형 캐릭터의 공격력을 2배로 만들고, PERFECT 3연속 달성 시, 이후 참격형 캐릭터의 공격력이 1.5배 더 상승한다",
-    "special": "남은 HP가 필살기 발동자의 공격력x75배의 값 이하인 적 모두를 격파하고, 모든 독 상태를 회복하며, 3턴 동안 받는 데미지를 50% 줄인다",
-    "specialName": "피로 물든 「철벽」",
-    "sailor": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 100 상승한다"
+    "captain": "Boosts ATK of Slasher characters by 2x at the start of the chain, by 3x after the 3rd PERFECT in a row",
+    "special": "Instantly defeats all enemies with HP equal to or below 75x character's ATK, removes Poison and reduces damage received by 50% for 3 turns,",
+    "specialName": "Blood Stained 'Iron Wall'",
+    "sailor": "Boosts own base ATK by 100 if this character is the last in the chain to attack"
   }
 }

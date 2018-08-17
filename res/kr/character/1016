@@ -1,8 +1,8 @@
 {
   "name": "카포네 ‘갱’ 벳지, 파이어 탱크 해적단 선장",
   "detail": {
-    "captain": "[INT] 캐릭터의 공격력을 슬롯 일치 시 3배, 평상시 1.5배로 만든다",
-    "special": "슬롯을 랜덤으로 바꾸고, 1턴 동안 [INT] 캐릭터의 공격력을 1.5배로 만들며 그 턴 내에 일당 전원이 PERFECT 공격에 성공하면 추가로 2턴 동안 공격력이 1.5배가 된다",
-    "specialName": "허안의 킬링샷"
+    "captain": "Boosts ATK of [INT] characters by 3x if they have a matching orb, by 1.5x otherwise",
+    "special": "Randomizes all orbs. Boosts ATK of [INT] characters by 1.5x for 1 turn. If during that turn every unit scores a PERFECT hit, boosts ATK of [INT] characters by 1.5x for the next 2 turns",
+    "specialName": "Hollow Eye Killing Shot"
   }
 }

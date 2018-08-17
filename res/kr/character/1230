@@ -1,24 +1,24 @@
 {
   "name": "도끼의 센토마루, 해군 본부 장교",
   "detail": {
-    "captain": "Boosts ATK of 강인형 characters by 2.5x, but boost his OWN ATK by 2.75x. Reduces damage received by 10%",
+    "captain": "Boosts ATK of Powerhouse characters by 2.5x, but boost his OWN ATK by 2.75x. Reduces damage received by 10%",
     "special": [
       {
-        "description": "적 1명에게 고정 데미지 500을 주고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
+        "description": "Deals 500 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 turn",
         "cooldown": [
           11,
           4
         ]
       },
       {
-        "description": "적 1명에게 고정 데미지 5,000을 주고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
+        "description": "Deals 5,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 1 turn",
         "cooldown": [
           15,
           8
         ]
       },
       {
-        "description": "적 1명에게 고정 데미지 100,000을 주고, 상단 캐릭터의 필살기 턴을 2턴 단축한다",
+        "description": "Deals 100,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 2 turns",
         "cooldown": [
           22,
           15
@@ -26,68 +26,68 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "족공동행",
+    "specialName": "Leg-Locked Heave-Ho",
     "sailor": {
-      "base": "자신은 날아가지 않는다",
-      "level1": "Restores his own special by 2 turns when it is rewinded"
+      "base": "Cannot be Blown Away",
+      "level1": "Restores his own special cooldown by 2 turns when it is rewinded"
     },
     "sailorNotes": "#{rewind : 2}",
     "limit": [
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
       },
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "소켓 슬롯 1개 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "공격력 상승 : 60"
+        "description": "Boosts base ATK by 60"
       },
       {
-        "description": "공격력 상승 : 100"
+        "description": "Boosts base ATK by 100"
       },
       {
-        "description": "선원 효과 추가 1: Restores his own special by 2 turns when it is rewinded"
+        "description": "Acquire Sailor Ability 1: Restores his own special cooldown by 2 turns when it is rewinded"
       },
       {
-        "description": "잠재능력 습득 2: Cooldown Reduction"
+        "description": "Acquire Potential 2: Cooldown Reduction"
       }
     ],
     "potential": [
       {
-        "Name": "[PSY] 데미지 피해 감소",
+        "Name": "[PSY] Damage Reduction",
         "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by 2%",
+          "Level 3: Reduce damage taken from [PSY] characters by 3%",
+          "Level 4: Reduce damage taken from [PSY] characters by 4%",
+          "Level 5: Reduce damage taken from [PSY] characters by 5%"
         ]
       },
       {

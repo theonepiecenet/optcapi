@@ -1,81 +1,81 @@
 {
   "name": "디아만테, 돈키호테 패밀리 최고 간부",
   "detail": {
-    "captain": "야심형 캐릭터의 공격력을 2.25배, 참격형과 타격형 캐릭터의 체력을 1.5배로 만든다",
-    "special": "적 전체에 [INT] 큰 데미지를 주고, 1턴 동안 야심형 캐릭터의 공격력이 1.5배, 필살기 발동 시 체력이 가득 차 있으면 2배가 된다",
-    "specialName": "반…월~ 글레이브",
+    "captain": "Boosts ATK of Driven characters by 2.25x and boosts HP of Striker and Slasher characters by 1.5x",
+    "special": "Deals 20x Character's ATK in [INT] damage to all enemies. If HP is full at the time the special was activated, boosts ATK of Driven characters by 2x for 1 turn, 1.5x otherwise",
+    "specialName": "Half Moon Glaive",
     "sailor": {
       "base": "None",
-      "level1": "자신은 [RCV] and [TND] 슬롯도 [유리] 슬롯으로 취급한다",
+      "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character",
       "level2": "If HP is above 99% at the start of the turn, boosts base ATK of all characters by 50"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "선원 효과 추가 1: 자신은 [RCV] and [TND] 슬롯도 [유리] 슬롯으로 취급한다"
+        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs “beneficial” for this character"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "선원 효과 추가 2: If HP is above 99% at the start of the turn, boosts base ATK of all characters by 50"
+        "description": "Acquire Sailor Ability 2: If HP is above 99% at the start of the turn, boosts base ATK of all characters by 50"
       },
       {
-        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : ??",
-          "Level 3: 공격력 상승 : ??",
-          "Level 4: 공격력 상승 : ??",
-          "Level 5: 공격력 상승 : ??"
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by ??",
+          "Level 3: Boosts base ATK by ??",
+          "Level 4: Boosts base ATK by ??",
+          "Level 5: Boosts base ATK by ??"
         ]
       },
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
         ]
       }
     ],

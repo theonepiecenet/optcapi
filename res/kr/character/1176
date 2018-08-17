@@ -1,9 +1,9 @@
 {
   "name": "쵸파, 꿈을 좇는 모험자",
   "detail": {
-    "special": "모든 독 상태를 회복하고, 캐릭터의 회복력x15배의 체력을 회복한다",
-    "specialName": "치유의 보상 「괜찮은 거야!?」",
-    "captain": "[DEX] 캐릭터의 공격력과 회복력이 1.5배가 된다",
-    "sailor": "남은 체력이 적을 때 자신의 기본 회복력이 50 상승한다"
+    "special": "Removes Poison, recovers 15x character's RCV in HP",
+    "specialName": "Devoted Healing - \"I'm Glad You are Safe\"",
+    "captain": "Boosts ATK and RCV of [DEX] characters by 1.5x",
+    "sailor": "When HP is below 30% at the start of the turn, boosts base RCV of himself by 50"
   }
 }

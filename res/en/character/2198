@@ -1,5 +1,5 @@
 {
-  "name": "Killer, A Leading Figure Initiating an Allaince",
+  "name": "Killer, A Leading Figure Initiating an Alliance",
   "detail": {
     "captain": "Boosts ATK of Striker characters by ?x and their HP by ?x. If you defeat an enemy, increases ATK boost slightly. Stacks up to ? times to a maximum of ?x.",
     "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
@@ -24,6 +24,10 @@
     "maxRCV": null
   },
   "cooldown": 20,
+  "evolution": {
+    "evolution": 2199,
+    "evolvers": []
+  },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2198.png",

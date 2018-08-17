@@ -1,11 +1,11 @@
 {
   "name": "시류",
   "detail": {
-    "captain": "참격형 캐릭터의 공격력과 체력이 1.5배가 된다",
-    "special": "적 전체의 각각의 대상을 일정 확률로 격파한다",
+    "captain": "Boosts ATK and HP of Slasher characters by 1.5x",
+    "special": "Has a small chance to instantly defeat each enemy",
     "specialNotes": "#{instantKill : 25%}",
-    "sailor": "자신은 필살기 봉쇄 상태를 완전히 회피한다",
+    "sailor": "Completely resists Silence on this character",
     "sailorNotes": "#{silence}",
-    "specialName": "지옥의 심판"
+    "specialName": "Handling Hell"
   }
 }

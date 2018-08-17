@@ -1,9 +1,9 @@
 {
   "name": "술레이만",
   "detail": {
-    "captain": "참격형 캐릭터의 공격력을 3.5배로 만들고 턴이 경과할 때마다 공격력이 감소한다",
-    "captainNotes": "His ATK multiplier will be 3x on the first turn, 2.9x on the second, 2.8x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all 참격형 characters.",
-    "special": "적 전체에 캐릭터의 공격력x13배의 [PSY] 데미지를 주고, 자신과 선장의 슬롯을 속성이 일치하는 슬롯으로 바꾼다",
-    "specialName": "귀찮음의 단죄"
+    "captain": "Boosts ATK of Slasher characters by 3x, reduces his own ATK multiplier by 0.1x at the end of each turn",
+    "captainNotes": "His ATK multiplier will be 3x on the first turn, 2.9x on the second, 2.8x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Slasher characters.",
+    "special": "Deals 13x character's ATK in [PSY] damage to all enemies, changes own orb and captain's orb into Matching orbs.",
+    "specialName": "Idle Execution"
   }
 }

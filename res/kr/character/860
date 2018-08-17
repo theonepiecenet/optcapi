@@ -1,9 +1,9 @@
 {
   "name": "전화의 용사 코비, 해군 본부 상사",
   "detail": {
-    "captain": "야심형 캐릭터의 공격이 2배가 되고, 체력이 적을때 받는 데미지를 최대 30%감소한다.",
-    "specialName": "목숨을 건 중재",
-    "special": "인접한 슬롯을 [RCV]슬롯으로 변환하고 필살기 발동시 체력이 50% 이상일때 일정 이상 공격을 받아도 죽지 않는다.",
+    "captain": "Boosts ATK of Driven characters by 2x, reduces damage received up to 30% depending on the crew's current HP",
+    "specialName": "Pleading at the Risk of One's Life",
+    "special": "Changes adjacent orbs into [RCV] orbs; if the special is activated with more than 50% health remaining, protects from defeat for 1 turn",
     "specialNotes": "#{zombie}"
   }
 }

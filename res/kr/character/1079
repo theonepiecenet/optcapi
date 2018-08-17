@@ -1,24 +1,24 @@
 {
   "name": "맨셸리, 톤타타족 왕녀",
   "detail": {
-    "captain": "턴 종료 후 캐릭터의 회복력x4배의 체력을 회복한다",
+    "captain": "Recovers 4x character's RCV in HP at the end of each turn",
     "special": [
       {
-        "description": "마비 상태를 3턴 회복하고, 캐릭터의 회복력x6배의 체력을 회복한다",
+        "description": "Recovers 6x character's RCV in HP. Reduces Paralysis duration by 3 turns",
         "cooldown": [
           14,
           8
         ]
       },
       {
-        "description": "모든 독·마비·회복력 감소·의성어 은폐 상태를 회복하고, 캐릭터의 회복력x15배의 체력을 회복한다",
+        "description": "Recovers 15x character's RCV in HP. Removes Paralysis, Poison, RCV DOWN and Blindness duration completely",
         "cooldown": [
           19,
           13
         ]
       },
       {
-        "description": "모든 독·마비·회복력 감소·의성어 은폐 상태를 회복하고, 캐릭터의 회복력x50배의 체력을 회복한다",
+        "description": "Recovers 50x character's RCV in HP. Removes Paralysis, Poison, RCV DOWN and Blindness duration completely",
         "cooldown": [
           24,
           18
@@ -26,7 +26,7 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "치유들레",
+    "specialName": "Chiyupopo",
     "sailor": {
       "base": "None",
       "level1": "Reduces Paralysis duration on this character by 1 turn",
@@ -34,64 +34,64 @@
     },
     "limit": [
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "공격력 상승 : 25"
+        "description": "Boosts base ATK by 25"
       },
       {
-        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "선원 효과 추가 1: Reduces Paralysis duration on this character by 1 turn"
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 1 turn"
       },
       {
-        "description": "체력 상승 : 55"
+        "description": "Boosts base HP by 55"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "공격력 상승 : 45"
+        "description": "Boosts base ATK by 45"
       },
       {
-        "description": "선원 효과 추가 2: Reduces Silence duration on this character by 2 turns"
+        "description": "Acquire Sailor Ability 2: Reduces Silence duration on this character by 2 turns"
       },
       {
-        "description": "체력 상승 : 65"
+        "description": "Boosts base HP by 65"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "잠재능력 습득 2: 회복 무효 내성"
+        "description": "Acquire Potential 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
-        "Name": "[INT] 데미지 피해 감소",
+        "Name": "[INT] Damage Reduction",
         "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
         ]
       },
       {
-        "Name": "회복 무효 내성",
+        "Name": "Reduce No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turns",

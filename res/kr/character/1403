@@ -1,25 +1,25 @@
 {
   "name": "몽키 D. 루피, 집결한 밀짚모자 일당",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit characters by 2.5x and reduce damage received by 15%. If you use \"Gomu Gomu no Red Hawk\" THIS LUFFY boosts ATK of Free Spirit characters by 4x instead for 3 턴.",
+    "captain": "Boosts ATK of Free Spirit characters by 2.5x and reduce damage received by 15%. If you use \"Gomu Gomu no Red Hawk\" THIS LUFFY boosts ATK of Free Spirit characters by 4x instead for 3 turns.",
     "captainNotes": "Using Luffy's special will change his own captain boost to 4x. If both Luffy's specials are used, the total ATK boost will be 16x",
     "special": [
       {
-        "description": "Deals 25x character's ATK in [QCK] damage to one enemy, and makes [QCK], [DEX], and [PSY] orbs “beneficial” to Fighter and Free Spirit characters for 1 턴",
+        "description": "Deals 25x character's ATK in [QCK] damage to one enemy and makes [QCK], [DEX] and [PSY] orbs “beneficial” to Fighter and Free Spirit characters for 1 turn",
         "cooldown": [
           13,
           8
         ]
       },
       {
-        "description": "Deals 60x character's ATK in [QCK] damage to one enemy, and makes [QCK], [DEX], and [PSY] orbs “beneficial” for 3 턴",
+        "description": "Deals 60x character's ATK in [QCK] damage to one enemy and makes [QCK], [DEX] and [PSY] orbs “beneficial” for 3 turns",
         "cooldown": [
           18,
           13
         ]
       }
     ],
-    "specialNotes": "#{stages}",
+    "specialNotes": "#{stages}<br>#{beneficial}",
     "specialName": "Gomu Gomu no Red Hawk"
   }
 }

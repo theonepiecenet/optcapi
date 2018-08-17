@@ -1,76 +1,76 @@
 {
   "name": "베이비 5 돈키호테 해적단",
   "detail": {
-    "captain": "참격, 타격형 캐릭터의 공격이 2배가 된다.",
-    "specialName": "무기변모 「미사일 소녀」",
-    "special": "적 전체에 캐릭터의 공격 X15배 STR 데미지를 주고, 1턴간 사격형 캐릭터의 공격을 1.5배 상승. 필살기 사용 턴에 일당 전원 PERFECT 공격 성공시 다음턴에 사격, 참격, 타격형 캐릭터의 공격을 1.5배 상승",
+    "captain": "Boosts ATK of Slasher, Striker and Shooter characters by 2x",
+    "specialName": "Arms-Morphosis: Missile Girl",
+    "special": "Deals 15x character's ATK in [STR] damage to all enemies, boosts ATK of Shooter characters by 1.5x for 1 turn. If during that turn every unit scores a PERFECT hit, boosts ATK of Shooter, Striker and Slasher characters by 1.5x in the following turn.",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base HP of Shooter, 참격형 and Striker characters by 100",
-      "level2": "Boosts base ATK of Shooter, 참격형 and Striker characters by 50"
+      "level1": "Boosts base HP of Shooter, Slasher and Striker characters by 100",
+      "level2": "Boosts base ATK of Shooter, Slasher and Striker characters by 50"
     },
     "limit": [
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "필살기 턴 수 단축: 2"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "체력 상승 : 90"
+        "description": "Boosts base HP by 90"
       },
       {
-        "description": "필살기 턴 수 단축: 2"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base HP of Shooter, 참격형 and Striker characters by 100"
+        "description": "Acquire Sailor Ability 1: Boosts base HP of Shooter, Slasher and Striker characters by 100"
       },
       {
-        "description": "필살기 턴 수 단축: 2"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "필살기 턴 수 단축: 2"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "선원 효과 추가 2: Boosts base ATK of Shooter, 참격형 and Striker characters by 50"
+        "description": "Acquire Sailor Ability 2: Boosts base ATK of Shooter, Slasher and Striker characters by 50"
       },
       {
-        "description": "잠재능력 습득 2: 배리어 관통"
+        "description": "Acquire Potential 2: Barrier Penetration"
       }
     ],
     "potential": [
       {
-        "Name": "[DEX] 데미지 피해 감소",
+        "Name": "[DEX] Damage Reduction",
         "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Reduce damage taken from [DEX] characters by 1%",
+          "Level 2: Reduce damage taken from [DEX] characters by 2%",
+          "Level 3: Reduce damage taken from [DEX] characters by 3%",
+          "Level 4: Reduce damage taken from [DEX] characters by 4%",
+          "Level 5: Reduce damage taken from [DEX] characters by 5%"
         ]
       },
       {
-        "Name": "배리어 관통",
+        "Name": "Barrier Penetration",
         "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
           "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
           "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
           "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",

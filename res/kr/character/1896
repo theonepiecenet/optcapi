@@ -1,25 +1,25 @@
 {
   "name": "에넬, 스카이피아의 유일신",
   "detail": {
-    "captain": "야심형 캐릭터의 공격력을 1.25배로 만들고, 공격 개시 전 남은 체력이 많을수록 야심형 캐릭터의 공격력이 더욱 상승한다(최대 체력일 때 공격력 2.25배)",
+    "captain": "Boosts ATK of Driven characters proportionally to the crew's current HP, by 2.25x at max",
     "captainNotes": "#{captainProportional : higher : 1.25 + 1 * ((remaining HP) / (total HP)) : 2.25 : 1.25}",
     "special": [
       {
-        "description": "자신의 슬롯을 [STR]으로 바꾸고, 공격력 감소 & 체인 계수 상한 고정 & 마비 상태를 2턴 회복하며, 선장이 야심형일 경우 1턴 동안 체인 계수가 +0.3이 된다",
+        "description": "Changes own orb into [STR], reduces crew's ATK DOWN, Chain Multiplier Limit and Paralysis duration by 2 turns. If your Captain is a Driven character, adds .3x to Chain multiplier for 1 turn",
         "cooldown": [
           23,
           9
         ]
       },
       {
-        "description": "자신의 슬롯을 [STR]으로 바꾸고, 공격력 감소 & 체인 계수 상한 고정 & 마비 상태를 5턴 회복하며, 선장이 야심형일 경우 1턴 동안 체인 계수가 +0.7 된다",
+        "description": "Changes own orb into [STR], reduces crew's ATK DOWN, Chain Multiplier Limit and Paralysis duration by 5 turns. If your Captain is a Driven character, adds .7x to Chain multiplier for 1 turn",
         "cooldown": [
           28,
           14
         ]
       }
     ],
-    "specialName": "3,000만 볼트 뇌조",
+    "specialName": "30,000,000 Volt: Hino",
     "specialNotes": "#{stages}"
   }
 }

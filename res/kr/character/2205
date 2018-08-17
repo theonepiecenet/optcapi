@@ -4,6 +4,32 @@
     "captain": "Boosts ATK of Fighter and Powerhouse characters by 3.25x following a chain of Good > Great > PERFECT hits",
     "special": "If HP is below 10%, amplifies the effect of orbs by 2x for 1 turn. If your Captain is a Driven character, reduces enemies' ATK Up, Enrage and End of Turn Damage/Percent Cut duration by 5 turns.",
     "specialName": "Chemical Juggling",
-    "sailor": "If your Captain is a Driven character, boosts own base ATK by 100"
+    "sailor": {
+      "base": "If your Captain is a Driven character, boosts own base ATK by 100",
+      "level1": "Boosts base ATK of all characters by 50"
+    },
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 30",
+          "Level 2: Boosts base ATK by 60",
+          "Level 3: Boosts base ATK by 90",
+          "Level 4: Boosts base ATK by 120",
+          "Level 5: Boosts base ATK by 150"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 50% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 60% chance to deal 7% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 70% chance to deal 8% of this character's attack in extra damage"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
   }
 }

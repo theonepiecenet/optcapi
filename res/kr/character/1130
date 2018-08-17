@@ -1,24 +1,24 @@
 {
   "name": "엘리자벨로 2세",
   "detail": {
-    "captain": "격투형과 강인형 캐릭터의 공격력과 체력을 1.5배로 만든다",
+    "captain": "Boosts ATK and HP of Fighter and Powerhouse characters by 1.5x",
     "special": [
       {
-        "description": "적 전체에 공격력x7배의 무 속성 데미지를 준다",
+        "description": "Deals 7x character's ATK in typeless damage to all enemies",
         "cooldown": [
           12,
           6
         ]
       },
       {
-        "description": "적 전체에 공격력x15배의 무 속성 데미지를 준다",
+        "description": "Deals 15x character's ATK in typeless damage to all enemies",
         "cooldown": [
           20,
           14
         ]
       },
       {
-        "description": "적 전체에 공격력x25배의 무 속성 데미지를 주며 또한 필살 턴을 계속 쌓으면 위력이 올라간다",
+        "description": "Deals 25x character's ATK in typeless damage to all enemies",
         "cooldown": [
           26,
           20
@@ -26,6 +26,6 @@
       }
     ],
     "specialNotes": "For each turn AFTER Elizabello's special reaches stage 3, damage is boosted by 23.75x per turn for an additional 20 turns, for a max damage of 500x character's ATK to all enemies.<br>#{stages}",
-    "specialName": "킹 펀치"
+    "specialName": "King Punch"
   }
 }

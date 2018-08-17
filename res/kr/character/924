@@ -1,9 +1,9 @@
 {
   "name": "캡틴 키드, 키드 해적단 선장",
   "detail": {
-    "captain": "야심형 캐릭터의 공격력을 2배로 만들고, 남은 체력이 적을 때는 2.75배가 된다",
-    "specialName": "리펠 웨폰즈 리플렉트",
-    "special": "일당 모두의 슬롯을 소비하고, 적 전체에 소비한 [STR] 슬롯 수에 맞춰 증폭되는 [STR] 데미지를 가한다",
+    "captain": "Boosts ATK of Driven Characters by 2.75x if HP is below 30% at the start of the turn, 2x otherwise",
+    "specialName": "Repel: Weapons Reflect",
+    "special": "Empties all slots, deals [STR] damage based on number of [STR] slots emptied to all enemies",
     "specialNotes": "The exact multiplier used is chosen based on the number of [STR] orbs consumed: 0 orbs - 3.5x ATK; 1 orb - 7x ATK; 2 orbs - 14x ATK; 3 orbs - 21x ATK; 4 orbs - 35x ATK; 5 orbs - 91x ATK; 6 orbs - 140x ATK.",
     "sailor": {
       "base": "None",
@@ -12,60 +12,60 @@
     },
     "limit": [
       {
-        "description": "회복력 상승 : 25"
+        "description": "Boosts base RCV by 25"
       },
       {
-        "description": "회복력 상승 : 25"
+        "description": "Boosts base RCV by 25"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "체력 상승 : 70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "필살기 턴 수 단축: 2"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "선원 효과 추가 1: Changes all orbs into [STR] orbs at the start of the fight"
+        "description": "Acquire Sailor Ability 1: Changes all orbs into [STR] orbs at the start of the fight"
       },
       {
-        "description": "필살기 턴 수 단축: 3"
+        "description": "Reduce base Special Cooldown by 3 turns"
       },
       {
-        "description": "공격력 상승 : 80"
+        "description": "Boosts base ATK by 80"
       },
       {
-        "description": "필살기 턴 수 단축: 3"
+        "description": "Reduce base Special Cooldown by 3 turns"
       },
       {
-        "description": "선원 효과 추가 2: Boosts own base ATK by 100 if this character is the last in the chain to attack"
+        "description": "Acquire Sailor Ability 2: Boosts own base ATK by 100 if this character is the last in the chain to attack"
       },
       {
-        "description": "잠재능력 습득 2: Cooldown Reduction"
+        "description": "Acquire Potential 2: Cooldown Reduction"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : ?",
-          "Level 2: 공격력 상승 : ?",
-          "Level 3: 공격력 상승 : ?",
-          "Level 4: 공격력 상승 : ?",
-          "Level 5: 공격력 상승 : ?"
+          "Level 1: Boosts base ATK by ?",
+          "Level 2: Boosts base ATK by ?",
+          "Level 3: Boosts base ATK by ?",
+          "Level 4: Boosts base ATK by ?",
+          "Level 5: Boosts base ATK by ?"
         ]
       },
       {

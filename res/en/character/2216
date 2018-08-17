@@ -1,0 +1,37 @@
+{
+  "name": "Summer Conis",
+  "detail": {
+    "captain": "Boosts ATK, HP and RCV of all characters by ?x",
+    "special": "Removes Poison, reduces RCV DOWN duration by 10 turns, boosts RCV of all characters by 1.5x for 1 turn and reduces Special Cooldown of your top row by 1 turn.",
+    "specialName": "Angel Cruising"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 13,
+    "combo": null,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 794,
+    "maxATK": 438,
+    "maxRCV": 169
+  },
+  "cooldown": [
+    16,
+    9
+  ],
+  "evolution": {
+    "evolution": 2217,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2216.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2216.png"
+  }
+}

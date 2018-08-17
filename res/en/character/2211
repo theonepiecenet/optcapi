@@ -1,14 +1,55 @@
 {
-  "name": "TM Enel, Evolved",
+  "name": "Kami Enel, The Natural Calamity of Skypiea",
+  "detail": {
+    "captain": {
+      "base": "Boosts ATK of all characters by 2x, deals 5656 in [PSY] damage to all enemies at the end of each turn and recovers 51 HP at end of each turn",
+      "level1": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+      "level2": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+      "level3": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+      "level4": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+      "level5": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+      "level6": "Boosts ATK of all characters by 2.5x, deals 56560 in [PSY] damage to all enemies at the end of each turn and recovers 510 HP at end of each turn"
+    },
+    "special": "Deals 565,600 fixed damage to all enemies and locks all orbs for 1 turn.",
+    "specialName": "God's Judgement: El Thor",
+    "sailor": {
+      "base": "None",
+      "level1": "When any other character uses a special, reduces own cooldown by 5 turns",
+      "level2": "Makes [RCV] orbs \"beneficial\" for this character"
+    },
+    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 50% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 60% chance to deal 7% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 70% chance to deal 8% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 5 turns",
+          "Level 5: Reduces No Healing duration by 7 turns"
+        ]
+      }
+    ]
+  },
   "unit": {
-    "type": "Unknown",
+    "type": "PSY",
     "class": [
-      "Unknown",
-      "Unknown"
+      "Striker",
+      "Driven"
     ],
     "stars": 5,
     "cost": 60,
-    "combo": null,
+    "combo": 4,
     "slots": 1,
     "level": 99,
     "exp": 5000000,
@@ -17,7 +58,11 @@
     "maxRCV": null
   },
   "cooldown": null,
-  "evolve": [],
+  "evolve": {
+    "evolution": 2211,
+    "evolvers": [],
+    "from": 2210
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2211.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2211.png"

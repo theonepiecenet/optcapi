@@ -1,82 +1,82 @@
 {
   "name": "살육지배자 올럼버스",
   "detail": {
-    "captain": "[DEX] 캐릭터의 공격력을 2.25배, 체력을 1.5배로 만든다",
-    "special": "[BLOCK] 슬롯을 삭제하고, 적 전체에 삭제한 방해 슬롯의 수에 따라 커지는 무 속성 데미지를 준다. 동시에 [EMPTY]을 자신의 속성 슬롯으로 변환한다.",
-    "specialNotes": "[BLOCK] 슬롯 갯수에 따른 무 속성 데미지량 : 0 슬롯 - 효과 없음; 1 슬롯 - 20배 상승; 2 슬롯 - 40배 상승; 3 슬롯 - 100배 상승; 4 슬롯 - 200배 상승; 5 슬롯 - 300배 상승; 6 슬롯 - 500배 상승.",
-    "specialName": "제독 킬러 볼링",
+    "captain": "Boosts ATK of [DEX] characters by 2.25x and their HP by 1.5x",
+    "special": "Empties all slots with [BLOCK] orbs, deals severe typeless damage based on number of [BLOCK] slots emptied to all enemies. Changes [EMPTY] orbs into Matching orbs",
+    "specialNotes": "The exact multiplier used is chosen based on the number of [BLOCK] orbs consumed: 0 orbs - Cannot Activate; 1 orb - 20x ATK; 2 orbs - 40x ATK; 3 orbs - 100x ATK; 4 orbs - 200x ATK; 5 orbs - 300x ATK; 6 orbs - 500x ATK.",
+    "specialName": "Admiral Killer Bowling",
     "sailor": {
       "base": "None",
       "level1": "Adds 2x character's ATK as Additional Typeless Damage",
-      "level2": "타격형 캐릭터의 기본 능력치가 50 상승한다"
+      "level2": "Boosts base ATK, HP and RCV of Striker characters by 50"
     },
     "sailorNotes": "#{additionalDamage : 2x}",
     "limit": [
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "선원 효과 추가 1: Adds 2x character's ATK as Additional Typeless Damage"
+        "description": "Acquire Sailor Ability 1: Adds 2x character's ATK as Additional Typeless Damage"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "선원 효과 추가 2: 타격형 캐릭터의 기본 능력치가 50 상승한다"
+        "description": "Acquire Sailor Ability 2: Boosts base ATK, HP and RCV of Striker characters by 50"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
       }
     ],
     "potential": [
       {
-        "Name": "[QCK] 데미지 피해 감소",
+        "Name": "[QCK] Damage Reduction",
         "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다"
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by ?%",
+          "Level 3: Reduce damage taken from [QCK] characters by ?%",
+          "Level 4: Reduce damage taken from [QCK] characters by ?%",
+          "Level 5: Reduce damage taken from [QCK] characters by ?%"
         ]
       },
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
         ]
       }
     ]

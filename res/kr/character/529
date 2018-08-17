@@ -1,9 +1,9 @@
 {
   "name": "샹크스, 검은 옷의 빨강 머리",
   "detail": {
-    "special": "적 전체에게 캐릭터의 공격력 × 35배의 [PSY] 데미지, 방어력이 0이 된다(2턴)",
-    "specialName": "패왕색의 패기·황제",
-    "captain": "[PSY]슬롯 출현율 상승, 공격 개시 전에 체력이 많을수록 [PSY] 공격력 증가",
+    "special": "Deals 35x character's ATK in [PSY] damage to all enemies, reduces the defense of all enemies by 100% for 2 turns",
+    "specialName": "Conqueror's Haki: Emperor",
+    "captain": "Boosts chances of getting [PSY] orbs, boosts ATK of [PSY] characters proportionally to the crew's current HP",
     "captainNotes": "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}"
   }
 }

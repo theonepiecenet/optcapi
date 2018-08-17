@@ -1,82 +1,82 @@
 {
   "name": "아카이누, 정상전쟁의 업화",
   "detail": {
-    "captain": "야심 캐릭터의 공격력이 2.5배 증가한다, 이전 턴에 적을 격파했으면 일당의 공격 배율이 상승한다 (최대 3턴, 공격력 3.25배)",
+    "captain": "Boosts ATK of Driven characters by 2.5x. If you defeat an enemy last turn, increases ATK boost slightly. Stacks up to 3 times to a maximum of 3.25x.",
     "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
-    "special": "적 전체에게 캐릭터 공격력 50배의 무속성 데미지를 주고 1턴 동안 야심 캐릭터의 슬롯 영향력을 2배로 증가시킨다.",
-    "specialName": "견교홍련",
+    "special": "Deals 50x character's ATK as typeless damage to all enemies. Amplifies the effect of orbs for Driven characters by 2x for 1 turn.",
+    "specialName": "Blazing Hound Crimson Lotus",
     "sailor": {
       "base": "None",
-      "level1": "자신은 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
-      "level2": "Makes [INT] orbs “beneficial” for 야심형 characters"
+      "level1": "Makes [STR] orbs “beneficial” for this character",
+      "level2": "Makes [INT] orbs “beneficial” for Driven characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "선원효과 추가 1: "
+        "description": "Acquire Sailor Ability 1: Makes [STR] orbs “beneficial” for this character"
       },
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "소켓 슬롯 1개 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "체력 상승 : 100"
+        "description": "Boosts base HP by 100"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "선원효과 추가 2: "
+        "description": "Acquire Sailor Ability 2: Makes [INT] orbs “beneficial” for Driven characters"
       },
       {
-        "description": "잠재능력 습득 #: 슬롯 봉쇄 내성"
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 30",
-          "Level 3: 공격력 상승 : 40",
-          "Level 4: 공격력 상승 : 50",
-          "Level 5: 공격력 상승 : 100"
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 30",
+          "Level 3: Boosts base ATK by 40",
+          "Level 4: Boosts base ATK by 50",
+          "Level 5: Boosts base ATK by 100"
         ]
       },
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: 캐릭터의 봉인상태를 1턴 감소시킨다.",
-          "Level 2: 캐릭터의 봉인상태를 2턴 감소시킨다.",
-          "Level 3: 캐릭터의 봉인상태를 3턴 감소시킨다.",
-          "Level 4: 캐릭터의 봉인상태를 4턴 감소시킨다.",
-          "Level 5: 캐릭터의 봉인상태를 5턴 감소시킨다."
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
         ]
       }
     ],
