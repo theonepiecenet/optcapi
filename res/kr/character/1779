@@ -1,18 +1,18 @@
 {
   "name": "키자루 「개」",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by 2x",
-    "specialName": "Yata no Kagami (Sacred Mirror) Neo",
+    "captain": "사격형 캐릭터의 공격력이 2 배가 된다",
+    "specialName": "팔치경「Neo」",
     "special": [
       {
-        "description": "Changes own orb into [DEX]. Reduces Special Cooldown of Shooter and Fighter specials by 1 turn",
+        "description": "자신의 슬롯을 [DEX]으로 변환한다. 사격과 격투형 캐릭터의 필살턴을 1턴 단축한다",
         "cooldown": [
           14,
           5
         ]
       },
       {
-        "description": "Changes own orb into [DEX]. Reduces Special Cooldown of Shooter and Fighter specials by 1 turn. Adds .5x to Chain multiplier for 2 turns",
+        "description": "자신의 슬롯을 [DEX]으로 변환한다. 사격과 격투형 캐릭터의 필살턴을 1턴 단축한다. 2 턴 동안 체인 계수가 +0.5된다",
         "cooldown": [
           20,
           11

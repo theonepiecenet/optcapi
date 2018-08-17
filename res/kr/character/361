@@ -1,10 +1,10 @@
 {
   "name": "붉은깃발 X 드레이크",
   "detail": {
-    "special": "Deals 10x character's ATK in [INT] damage to all enemies, protects from defeat as long as HP is above 50% for 1 turn",
-    "specialName": "Prehistoric Power",
+    "special": "적 전체에 공격력 X10배의 [INT] 데미지,체력이 50% 이상 일때 1턴 동안 공격을 받아도 쓰러지지 않는다.",
+    "specialName": "동물 고대 종의 힘",
     "specialNotes": "#{zombie}",
-    "captain": "Boosts ATK of [INT] characters by 3x if HP is below 30% at the start of the turn",
-    "sailor": "Boosts base HP of Powerhouse characters by 100"
+    "captain": "전투가 시작될때 체력이 30%이하면 [INT]캐릭터의 공격력을 3배가 된다.",
+    "sailor": "강인 캐릭터의 체력을 100 상승시킨다."
   }
 }

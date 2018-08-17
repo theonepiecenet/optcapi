@@ -1,10 +1,10 @@
 {
   "name": "프랑키, 미래국의 초 과학 병기",
   "detail": {
-    "captain": "Boosts ATK of all characters by 3x and their HP by 1.3x if there are 6 characters in your crew with Fighter, Slasher, Shooter or Striker classes. <br> <b>Action:</b> Franky brings the entire crew into General Franky for 1 turn, immune to Blow Away inflicted to the crew. During this turn, boosts ATK of all characters by 4x instead and reduces damage taken by 38%",
-    "captainNotes": "All characters on your crew must have one of the 4 classes listed, but you do not need one of each. Franky Captain Action lasts one turn and can be reactivated after a 4 turn cooldown. Only 1 Franky Captain Action can be activated at once. <br> During transformation:<br>If you attack with a Fighter character, deal 1.25x damage to targeted enemy<br>If you attack with a Slasher character, deal full damage to targeted enemy, but partial damage (??%) to all enemies in the same row<br>If you attack with a Striker character, deal 0.5x damage to all enemies on the stage<br>If you attack with a Shooter character, deal .75x damage to targeted enemy but deal 0.3x damage to all other enemies on the stage",
-    "special": "Cuts the current HP of all enemies by 10%, randomizes all non-matching orbs, including [BLOCK] orbs and boosts ATK of Fighter, Slasher, Shooter and Striker characters by 2x for 1 turn",
-    "specialName": "Franky Cannon",
+    "captain": "격투형, 참격형, 타격형, 사격형을 포함한 캐릭터 6명으로 일당을 편성하면 선장 효과가 발동한다. 일당의 공격력을 3배, 체력을 1.3배로 만든다. [선장 액션: 합체] 1턴 동안 선장 효과가 다음과 같이 변경된다. 일당의 공격력을 약 4배, 체력을 1.3배로 만들고, 받는 데미지가 38% 감소하며, 날아가지 않는다. 공격하는 캐릭터의 타입에 따라 공격 방법이 변화한다(선장 교체의 효과를 받지 않으며, 선장 교체 중에는 발동할 수 없습니다. 자세한 내용은 모험 내의 MENU에서 확인할 수 있습니다)",
+    "captainNotes": "All characters on your crew must have one of the 4 classes listed, but you do not need one of each. Franky Captain Action lasts one turn and can be reactivated after a 4 turn cooldown. Only 1 Franky Captain Action can be activated at once. <br> During transformation:<br>If you attack with a Fighter character, deal 1.25x damage to targeted enemy<br>If you attack with a 참격형 character, deal full damage to targeted enemy, but partial damage (??%) to all enemies in the same row<br>If you attack with a Striker character, deal 0.5x damage to all enemies on the stage<br>If you attack with a Shooter character, deal .75x damage to targeted enemy but deal 0.3x damage to all other enemies on the stage",
+    "special": "적 전체의 HP를 10% 줄이고, 속성 일치 슬롯 이외의 모든 슬롯을 랜덤하게 바꾸며([방해] 슬롯도 변환 가능), 1턴 동안 격투형, 참격형, 타격형, 사격형 캐릭터의 공격력이 2배가 된다",
+    "specialName": "프랑키 대포",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Shooter, Slasher, Fighter and Striker characters by 50",
@@ -13,125 +13,125 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base ATK by 2"
+        "description": "공격력 상승 : 2"
       },
       {
-        "description": "Boosts base ATK by 2"
+        "description": "공격력 상승 : 2"
       },
       {
-        "description": "Boosts base ATK by 38"
+        "description": "공격력 상승 : 38"
       },
       {
-        "description": "Acquire Potential 1: [STR] Damage Reduction"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Shooter, Slasher, Fighter and Striker characters by 50"
+        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of Shooter, Slasher, Fighter and Striker characters by 50"
       },
       {
-        "description": "Boosts base RCV by 1"
+        "description": "회복력 상승 : 1"
       },
       {
-        "description": "Boosts base RCV by 1"
+        "description": "회복력 상승 : 1"
       },
       {
-        "description": "Boosts base RCV by 38"
+        "description": "회복력 상승 : 38"
       },
       {
-        "description": "Boosts base ATK by 3"
+        "description": "공격력 상승 : 3"
       },
       {
-        "description": "Boosts base ATK by 38"
+        "description": "공격력 상승 : 38"
       },
       {
-        "description": "Boosts base ATK by 38"
+        "description": "공격력 상승 : 38"
       },
       {
-        "description": "Acquire Potential 2: Reduce No Healing duration"
+        "description": "잠재능력 습득 2: 회복 무효 내성"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "Boosts base ATK by 38"
+        "description": "공격력 상승 : 38"
       },
       {
-        "description": "Boosts base RCV by 38"
+        "description": "회복력 상승 : 38"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [QCK] orbs “beneficial” for Shooter, Slasher, Fighter and Striker characters"
+        "description": "선원 효과 추가 2: Makes [QCK] orbs “beneficial” for Shooter, Slasher, Fighter and Striker characters"
       },
       {
-        "description": "Boosts base ATK by 38"
+        "description": "공격력 상승 : 38"
       },
       {
-        "description": "Boosts base HP by 38"
+        "description": "체력 상승 : 38"
       },
       {
-        "description": "Acquire Potential 3: Barrier Penetration"
+        "description": "잠재능력 습득 3: 배리어 관통"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] Damage Reduction",
+        "Name": "[STR]데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [STR] characters by 1%",
-          "Level 2: Reduce damage taken from [STR] characters by 2%",
-          "Level 3: Reduce damage taken from [STR] characters by 3%",
-          "Level 4: Reduce damage taken from [STR] characters by 4%",
-          "Level 5: Reduce damage taken from [STR] characters by 5%"
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 5 turns",
-          "Level 5: Reduces No Healing duration by 7 turns"
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 2 턴",
+          "Level 3: 회복 무효 상태 회복 : 3 턴",
+          "Level 4: 회복 무효 상태 회복 : 5 턴",
+          "Level 5: 회복 무효 상태 회복 : 7 턴"
         ]
       },
       {
-        "Name": "Barrier Penetration",
+        "Name": "배리어 관통",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers"
+          "Level 1: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 2: 일당의 체력이 90% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 3: 일당의 체력이 70% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 5: This character's attack will ignore barriers"
         ]
       }
     ]

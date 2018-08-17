@@ -1,9 +1,9 @@
 {
   "name": "조라, 돈키호테 해적단",
   "detail": {
-    "captain": "Boosts ATK of all characters by 1.5x, boosts amount of Beli received by 2x",
-    "specialName": "Heaven's Do Art",
-    "special": "Reduces any damage received above 2,000 HP by 88% for 2 turns",
-    "specialNotes": "The exact formula for the damage received is: 2000 + ((total damage) - 2000) * 0.12"
+    "captain": "일당의 공격력이 1.5배가 되고, 획득하는 베리가 2배가 된다(획득 베리 증가 효과는 모험 도중에 선장이 되었을 경우에는 발휘되지 않습니다)",
+    "specialName": "헤븐즈 도어 아트",
+    "special": "2턴 동안 각각의 적에게 받는 데미지 중 2,000을 넘는 부분을 예술적으로 줄인다",
+    "specialNotes": "정확한 데미지 공식: 2000 + ((총 데미지) - 2000) * 0.12"
   }
 }

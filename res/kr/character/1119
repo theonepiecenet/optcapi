@@ -1,11 +1,11 @@
 {
   "name": "나미, 신념을 지키는 밀짚모자 일당",
   "detail": {
-    "special": "Randomizes all orbs, protects from defeat as long as HP is above 50% for 1 turn",
-    "specialName": "10,000-Carat Smile",
+    "special": "슬롯을 무작위로 바꾸고, 1턴 동안 아군의 체력이 일정 이상이면 공격을 받아도 쓰러지지 않는다",
+    "specialName": "1만 캐럿의 미소",
     "specialNotes": "#{zombie}",
-    "captain": "Boosts ATK of Striker characters by 2x and their RCV by 1.5x",
-    "sailor": "Makes [DEX] orbs “beneficial” for this character",
+    "captain": "타격형 캐릭터의 공격력이 2배, 회복력이 1.5배가 된다",
+    "sailor": "자신은 [DEX] 슬롯도 [유리] 슬롯으로 취급한다",
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
@@ -51,7 +51,7 @@
         "description": ""
       },
       {
-        "description": "Acquire Potential 2: "
+        "description": "잠재능력 습득 2: "
       }
     ]
   }

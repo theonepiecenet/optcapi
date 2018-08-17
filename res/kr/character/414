@@ -1,9 +1,9 @@
 {
   "name": "겟코 모리아 왕의 부하 칠무해",
   "detail": {
-    "special": "Changes [STR] and [DEX] orbs into [INT] orbs",
-    "specialName": "Doppelman",
-    "captain": "Boosts ATK of [INT] characters by 3x if HP is above 99% at the start of the turn",
+    "special": "[STR],[DEX]슬롯을 [INT]슬롯으로 변환",
+    "specialName": "그림자",
+    "captain": "전투가 시작될때 체력이 가득 차 있으면 [INT] 캐릭터의 공격력이 3배가 된다.",
     "sailor": {
       "base": "None",
       "level1": "Makes [PSY] orbs “beneficial” for this character",
@@ -12,70 +12,70 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Boosts base ATK by 80"
+        "description": "공격력 상승 : 80"
       },
       {
-        "description": "Boosts base HP by 70"
+        "description": "체력 상승 : 70"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base ATK by 100"
+        "description": "공격력 상승 : 100"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs “beneficial” for this character"
+        "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” for this character"
       },
       {
-        "description": "Boosts base ATK by 210"
+        "description": "공격력 상승 : 210"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [QCK] orbs “beneficial” for this character"
+        "description": "선원 효과 추가 2: Makes [QCK] orbs “beneficial” for this character"
       },
       {
-        "description": "Acquire Potential 2: [INT] Damage Reduction"
+        "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
       }
     ],
     "potential": [
       {
-        "Name": "[PSY] Damage Reduction",
+        "Name": "[PSY] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by 1%",
-          "Level 2: Reduce damage taken from [PSY] characters by ?%",
-          "Level 3: Reduce damage taken from [PSY] characters by ?%",
-          "Level 4: Reduce damage taken from [PSY] characters by ?%",
-          "Level 5: Reduce damage taken from [PSY] characters by ?%"
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"
         ]
       },
       {
-        "Name": "[INT] Damage Reduction",
+        "Name": "[INT] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by ?%",
-          "Level 3: Reduce damage taken from [INT] characters by ?%",
-          "Level 4: Reduce damage taken from [INT] characters by ?%",
-          "Level 5: Reduce damage taken from [INT] characters by ?%"
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"
         ]
       }
     ]

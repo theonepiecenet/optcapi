@@ -1,11 +1,11 @@
 {
   "name": "나미와 뇌조비리",
   "detail": {
-    "special": "Randomizes all orbs, protects from defeat as long as HP is above 50% for 1 turn",
-    "specialName": "Billy's Electrical Discharge",
+    "special": "슬롯을 랜덤으로 교체, 1 턴 동안 체력이 일정 이상일 때 공격을 받아도 쓰러지지 않는다",
+    "specialName": "빌리 방전 ‘비리비리비리!’",
     "specialNotes": "#{zombie}",
-    "captain": "Boosts ATK of Striker characters by 2x and their RCV by 1.5x",
-    "sailor": "Makes [DEX] orbs “beneficial” for this character",
+    "captain": "타격형 캐릭터의 공격력이 2배가 되고 회복력이 1.5 배가 된다",
+    "sailor": "[DEX]슬롯도 [유리] 슬롯으로 취급한다.",
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
@@ -51,7 +51,7 @@
         "description": ""
       },
       {
-        "description": "Acquire Potential 2: "
+        "description": "잠재능력 습득 2: "
       }
     ]
   }

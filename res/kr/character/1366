@@ -1,24 +1,24 @@
 {
   "name": "나미, 신생 밀짚모자 일당",
   "detail": {
-    "captain": "Boosts RCV of Cerebral characters by 1.5x and their ATK by 2.75x if they have a matching orb, by 1.5x otherwise",
+    "captain": "박식형 캐릭터의 공격력과 회복력이 1.5배가 되고, 슬롯 일치 시엔 공격력이 2.75배가 된다",
     "special": [
       {
-        "description": "Reduces Paralysis and Silence duration by 1 turn. Delays all enemies for 1 turn",
+        "description": "마비, 필살기 봉쇄 상태를 1턴 회복하고 적 전체를 1턴 지연시킨다",
         "cooldown": [
           13,
           8
         ]
       },
       {
-        "description": "Reduces Paralysis and Silence duration by 2 turns. Delays all enemies for 1 turn",
+        "description": "마비, 필살기 봉쇄 상태를 2턴 회복하고 적 전체를 1턴 지연시킨다",
         "cooldown": [
           15,
           10
         ]
       },
       {
-        "description": "Reduces Paralysis and Silence duration by 5 turns. Delays all enemies for 2 turns",
+        "description": "마비, 필살기 봉쇄 상태를 5턴 회복하고 적 전체를 2턴 지연시킨다",
         "cooldown": [
           18,
           13
@@ -26,7 +26,7 @@
       }
     ],
     "specialNotes": "#{silence}<br>#{stages}",
-    "specialName": "Black Ball - Thundercloud Rod",
+    "specialName": "뇌운 로드",
     "sailor": {
       "base": "Completely resists Silence on this character",
       "level1": "Reduces Paralysis duration by 1 turn"
@@ -34,70 +34,70 @@
     "sailorNotes": "#{silence}",
     "limit": [
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration by 1 turn"
+        "description": "선원 효과 추가 1: Reduces Paralysis duration by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
     "potential": [
       {
-        "Name": "[PSY] Damage Reduction",
+        "Name": "[PSY] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by 1%",
-          "Level 2: Reduce damage taken from [PSY] characters by 2%",
-          "Level 3: Reduce damage taken from [PSY] characters by 3%",
-          "Level 4: Reduce damage taken from [PSY] characters by 4%",
-          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 10턴 회복한다"
         ]
       }
     ]

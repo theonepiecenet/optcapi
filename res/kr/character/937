@@ -2,80 +2,80 @@
   "name": "몽키 D. 루피, 동료와 맹세 『３Ｄ２Ｙ』",
   "detail": {
     "captain": "Boosts Chain Multiplier by 3.5x and boosts HP by 1.25x",
-    "specialName": "Gum-Gum Giant Jet Shell",
-    "special": "Deals 20x character's ATK in [QCK] damage and makes PERFECTs easier to hit for 3 turns",
+    "specialName": "고무고무 거인의 JET 포탄",
+    "special": "적 1명에게 캐릭터의 공격력x20배의 [QCK] 데미지를 주고, 3턴 동안 PERFECT 타이밍이 매우 쉬워진다",
     "specialNotes": "Increases timing window to hit a PERFECT. (Animation remains the same)",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of all characters by 30",
-      "level2": "Completely resists Paralysis on this character"
+      "level1": "일당의 기본 능력치가 30 상승한다",
+      "level2": "자신의 마비 상태를 완전히 회복한다"
     },
     "limit": [
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Acquire Potential 1: [STR] Damage Reduction"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
-        "description": "Boosts base HP by 70"
+        "description": "체력 상승 : 70"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 30"
+        "description": "선원 효과 추가 1: 일당의 기본 능력치가 30 상승한다"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base HP by 90"
+        "description": "체력 상승 : 90"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Reduce base Special Cooldown by 3 turns"
+        "description": "필살기 턴 수 단축: 3"
       },
       {
-        "description": "Acquire Sailor Ability 2: Completely resists Paralysis on this character"
+        "description": "선원 효과 추가 2: 자신의 마비 상태를 완전히 회복한다"
       },
       {
-        "description": "Acquire Potential 2: Pinch Healing"
+        "description": "잠재능력 습득 2: 긴급 회복"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] Damage Reduction",
+        "Name": "[STR] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [STR] characters by 1%",
-          "Level 2: Reduce damage taken from [STR] characters by 2%",
-          "Level 3: Reduce damage taken from [STR] characters by 3%",
-          "Level 4: Reduce damage taken from [STR] characters by 4%",
-          "Level 5: Reduce damage taken from [STR] characters by 5%"
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Pinch Healing",
+        "Name": "긴급 회복",
         "description": [
-          "Level 1: If HP is below 20% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below ??% at the start of the turn, recovers ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below ??% at the start of the turn, recovers ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below ??% at the start of the turn, recovers ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below ??% at the start of the turn, recovers ??x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다",
+          "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다",
+          "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다",
+          "Level 5: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다"
         ]
       }
     ]

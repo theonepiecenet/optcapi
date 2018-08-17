@@ -1,10 +1,10 @@
 {
   "name": "브룩, 집결한 밀짚모자 일당",
   "detail": {
-    "captain": "Protects from defeat as long as HP is above 50%",
+    "captain": "체력이 일정 비율 이상인 경우, 공격을 받아도 쓰러지지 않는다",
     "captainNotes": "#{zombie}",
-    "special": "Delays all enemies by 1 turn and boosts ATK of Slasher and Free Spirit characters by 1.75x for 1 turn",
-    "specialName": "Soul's Murder Soul: Soul Solid",
-    "sailor": "Completely resists Paralysis on this character"
+    "special": "적 전체의 공격을 1턴 지연시키고, 참격형과 자유형 캐릭터의 공격력을 1턴 동안 1.75배로 만든다",
+    "specialName": "소울 솔리드",
+    "sailor": "자신은 마비 상태를 완전히 회피한다"
   }
 }

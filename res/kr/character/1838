@@ -1,81 +1,81 @@
 {
   "name": "빈스모크 니디, 과학전투부대 제르마 66",
   "detail": {
-    "captain": "Boosts ATK of [QCK] characters by 2.25x, boosts ATK of Powerhouse characters by 1.3x and the HP of Powerhouse characters by 1.2x",
-    "captainNotes": "Attack boost stacks, so a [QCK] Powerhouse character has a 2.925x ATK",
-    "special": "If your Captain is a [QCK] or [PSY] character, boosts ATK of all characters by 1.75x for 2 turns. If your Captain is a Powerhouse character, locks all orbs for 1 turn",
-    "specialName": "Blitz Needle",
+    "captain": "[QCK]캐릭터의 공격력이 2.25배 증가, 강인 캐릭터의 공격력이 1.3배 증가하고 체력이 1.2배 증가한다.(효과 중복가능)",
+    "captainNotes": "Attack boost stacks, so a [QCK] 강인형 character has a 2.925x ATK",
+    "special": "선장이 [QCK] 또는 [PSY] 캐릭터인 경우, 2턴 동안 모든 캐릭터의 공격력이 1.75배로 증가, 선장이 강인 캐릭터인 경우 1턴 동안 모든 슬롯을 고정한다.",
+    "specialName": "블리츠 니들",
     "sailor": {
-      "base": "Makes [PSY] orbs “beneficial” for this character",
-      "level1": "Boosts base ATK, HP and RCV of all characters by 20"
+      "base": "[PSY] 슬롯도 [유리] 슬롯으로 취급한다.",
+      "level1": "일당의 기본 능력치가 20 상승한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base HP by 35"
+        "description": "체력 상승 : 35"
       },
       {
-        "description": "Boosts base HP by 45"
+        "description": "체력 상승 : 45"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Acquire Potential 1: Critical Hit"
+        "description": "잠재능력 습득 1: 크리티컬 공격"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Boosts base RCV by 25"
+        "description": "회복력 상승 : 25"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 90"
+        "description": "체력 상승 : 90"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 20"
+        "description": "선원 효과 추가 1: 일당의 기본 능력치가 20 상승한다"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
     "potential": [
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a 30% chance to deal 9% of this character's attack in extra damage"
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 9%의 추가 데미지가 가산된다"
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 8턴 회복한다"
         ]
       }
     ]

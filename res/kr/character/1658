@@ -1,80 +1,80 @@
 {
   "name": "소낙비 칸주로, 화노쿠니의 사무라이",
   "detail": {
-    "captain": "Boosts ATK of Striker and Free Spirit characters by 2.5x",
-    "special": "Reduces Bind and Despair duration by 5 turns. If your Captain is a Striker character, locks the chain multiplier at 2.75x for 1 turn",
-    "specialName": "Summon Dragon",
+    "captain": "타격형과 자유형 캐릭터의 공격력이 2.5배가 된다",
+    "special": "봉쇄·선장효과 무효 상태를 5턴 회복하고, 선장이 타격형이면 1턴 동안 체인 계수가 2.75배로 고정된다",
     "sailor": {
-      "base": "If your Captain is a Striker character, makes [DEX] orbs “beneficial” for Striker characters",
-      "level1": "Boosts base ATK, HP and RCV of Striker characters by 75"
+      "base": "선장이 타격형일 경우 타격형 캐릭터의 [DEX] 슬롯을 [유리] 슬롯으로 취급한다",
+      "level1": "타격형 캐릭터의 기본 능력치가 75 상승한다"
     },
     "sailorNotes": "#{beneficial}",
+    "specialName": "승룡",
     "limit": [
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Acquire Potential 1: [STR] Damage Reduction"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Striker characters by 75"
+        "description": "선원 효과 추가 1: 타격형 캐릭터의 기본 능력치가 75 상승한다"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Acquire Potential 2: [QCK] Damage Reduction"
+        "description": "잠재능력 습득 2: [QCK] 데미지 피해 감소"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] Damage Reduction",
+        "Name": "[STR] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [STR] characters by 1%",
-          "Level 2: Reduce damage taken from [STR] characters by ?%",
-          "Level 3: Reduce damage taken from [STR] characters by ?%",
-          "Level 4: Reduce damage taken from [STR] characters by ?%",
-          "Level 5: Reduce damage taken from [STR] characters by ?%"
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 ?% 감소시킨다"
         ]
       },
       {
-        "Name": "[QCK] Damage Reduction",
+        "Name": "[QCK] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [QCK] characters by 1%",
-          "Level 2: Reduce damage taken from [QCK] characters by ?%",
-          "Level 3: Reduce damage taken from [QCK] characters by ?%",
-          "Level 4: Reduce damage taken from [QCK] characters by ?%",
-          "Level 5: Reduce damage taken from [QCK] characters by ?%"
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다"
         ]
       }
     ]

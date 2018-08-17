@@ -1,69 +1,69 @@
 {
   "name": "일격의 나무르",
   "detail": {
-    "special": "Boosts ATK of Fighter characters by 1.5x for 1 turn, deals 25x character's ATK in [DEX] damage to one enemy",
-    "specialName": "Number Eight's One Hit",
-    "captain": "Boosts ATK of Fighter characters by 2x and their HP by 1.5x",
+    "special": "1턴 동안 격투형 캐릭터의 공격력을 1.5배로 만들고, 적 한명에게 캐릭터 공격력의 25배 [DEX] 데미지를 입힌다.",
+    "specialName": "넘버 에이트의 일격",
+    "captain": "격투형 캐릭터의 공격력을 2배로, 체력은 1.5배가 된다.",
     "sailor": {
-      "base": "Boosts base ATK of Fighter characters by 20",
+      "base": "격투 캐릭터의 공격력이 20 상승시킨다.",
       "level1": "When any other character uses a special, reduces own cooldown by 2 turns"
     },
     "limit": [
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base ATK by 55"
+        "description": "공격력 상승 : 55"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 2: Critical Hit"
+        "description": "잠재능력 습득 2: 크리티컬 공격"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 55"
+        "description": "체력 상승 : 55"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Reduce base Special Cooldown by 3 turns"
+        "description": "필살기 턴 수 단축: 3"
       },
       {
-        "description": "Boosts base ATK by 80"
+        "description": "공격력 상승 : 80"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Reduce base Special Cooldown by 3 turns"
+        "description": "필살기 턴 수 단축: 3"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Reduce base Special Cooldown by 3 turns"
+        "description": "필살기 턴 수 단축: 3"
       },
       {
-        "description": "Acquire Sailor Ability 1: When any other character uses a special, reduces own cooldown by 2 turns"
+        "description": "선원 효과 추가 1: When any other character uses a special, reduces own cooldown by 2 turns"
       },
       {
-        "description": "Acquire Potential 2: Cooldown Reduction"
+        "description": "잠재능력 습득 2: Cooldown Reduction"
       }
     ],
     "potential": [
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage"
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
         ]
       },
       {

@@ -1,75 +1,75 @@
 {
   "name": "니코 로빈, 20th Anniversary Memorial Treasure",
   "detail": {
-    "captain": "Boosts ATK of Cerebral characters by 2.5x and their RCV by 1.3x",
-    "special": "Binds self for 1 turn, empties all slots with [BLOCK] orbs, deals several times the character's ATK in typeless damage to all enemies and boosts ATK against enemies with reduced defense by 1.5x for 2 turns",
-    "specialName": "Mil Fleur: Gigantesco Mano",
-    "specialNotes": "The exact multiplier used is chosen based on the number of [BLOCK] orbs consumed: 0 orbs - Unknown; 1 orb - 36x ATK; 2 orbs - 60x ATK; 3 orbs - 105x ATK; 4 orbs - 195x ATK; 5 orbs - 300x ATK; 6 orbs - 450x ATK.",
+    "captain": "박식형 캐릭터의 공격력이 2.5배, 회복력이 1.3배가 된다",
+    "special": "1턴 동안 자신이 봉쇄 상태가 되는 대신 [BLOCK] 슬롯을 소비하여 적 전체에 소비한 [BLOCK] 슬롯(0개~6개)의 수에 따라 커지는 무 속성 데미지를 주고, 2턴 동안 방어력 감소 중인 적에게 주는 데미지를 1.5배로 만든다",
+    "specialName": "「밀 플루르」 천 송이 꽃 히간테스코 마노",
+    "specialNotes": "The exact multiplier used is chosen based on the number of [BLOCK] orbs consumed: 0 orbs - Unknown; 1 orb - ???x ATK; 2 orbs - ???x ATK; 3 orbs - ???x ATK; 4 orbs - ???x ATK; 5 orbs - ???x ATK; 6 orbs - ???x ATK.",
     "sailor": {
-      "base": "Makes [TND] orbs “beneficial” for all characters if your Captain is a Fighter character",
-      "level1": "Makes [DEX] orbs “beneficial” for this character"
+      "base": "선장이 격투형일 경우, 일당의 [TND] 슬롯을 [유리] 슬롯으로 취급한다",
+      "level1": "자신은 [DEX] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: [STR] Damage Reduction"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs “beneficial” for this character"
+        "description": "선원 효과 추가 1: 자신은 [DEX] 슬롯도 [유리] 슬롯으로 취급한다"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 2: Reduce No Healing duration"
+        "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] Damage Reduction",
+        "Name": "[STR] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [STR] characters by 1%",
-          "Level 2: Reduce damage taken from [STR] characters by ?%",
-          "Level 3: Reduce damage taken from [STR] characters by ?%",
-          "Level 4: Reduce damage taken from [STR] characters by ?%",
-          "Level 5: Reduce damage taken from [STR] characters by ?%"
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 ?% 감소시킨다"
         ]
       },
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by ? turns",

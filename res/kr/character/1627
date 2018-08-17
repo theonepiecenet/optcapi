@@ -1,24 +1,24 @@
 {
   "name": "마하 바이스, 과체중 인간",
   "detail": {
-    "captain": "Boosts ATK Free Spirit characters by 2x",
+    "captain": "자유형 캐릭터의 공격력을 2배로 만든다",
     "special": [
       {
-        "description": "Reduces Chain Multiplier Limit duration by 1 turn and boosts the Color Affinity of Striker characters by 1.25x for 1 turn",
+        "description": "체인 계수 상한 고정 상태를 1턴 회복하고, 1턴 동안 타격형 캐릭터의 일반 공격에 의한 속성 상성의 영향을 조금 증폭시킨다",
         "cooldown": [
           23,
           9
         ]
       },
       {
-        "description": "Reduces Chain Multiplier Limit duration by 3 turns and boosts the Color Affinity of Striker characters by 1.5x for 1 turn",
+        "description": "체인 계수 상한 고정 상태를 3턴 회복하고, 1턴 동안 타격형 캐릭터의 일반 공격에 의한 속성 상성의 영향을 증폭시킨다",
         "cooldown": [
           27,
           13
         ]
       },
       {
-        "description": "Reduces Chain Multiplier Limit duration by 5 turns and boosts the Color Affinity of Striker characters by 1.75x for 1 turn",
+        "description": "체인 계수 상한 고정 상태를 5턴 회복하고, 1턴 동안 타격형 캐릭터의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
         "cooldown": [
           31,
           17
@@ -26,6 +26,6 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "Thousand Ton Destruction"
+    "specialName": "파괴의 천 톤 바이스"
   }
 }

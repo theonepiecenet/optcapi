@@ -1,24 +1,24 @@
 {
   "name": "아인 제파의 마지막 제자",
   "detail": {
-    "captain": "Boosts ATK and RCV of Cerebral characters by 1.75x",
+    "captain": "박식 캐릭터의 공격력과 회복력이 1.75배가 된다.",
     "special": [
       {
-        "description": "Recovers 12% of crew's MAX HP and randomizes all orbs including [BLOCK] orbs",
+        "description": "최대 체력의 12%를 회복하고,[BLOCK]슬롯을 포함한 모든 슬롯을 랜덤으로 교체한다.",
         "cooldown": [
           21,
           11
         ]
       },
       {
-        "description": "Recovers 24% of crew's MAX HP and randomizes all orbs including [BLOCK] orbs",
+        "description": "최대 체력의 24%를 회복하고,[BLOCK]슬롯을 포함한 모든 슬롯을 랜덤으로 교체한다.",
         "cooldown": [
           24,
           14
         ]
       },
       {
-        "description": "Recovers 36% of crew's MAX HP and randomizes all orbs including [BLOCK] orbs",
+        "description": "최대 체력의 36%를 회복하고,[BLOCK]슬롯을 포함한 모든 슬롯을 랜덤으로 교체한다.",
         "cooldown": [
           27,
           17
@@ -26,6 +26,6 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "Return Return Fruit"
+    "specialName": "뒤로 뒤로 열매"
   }
 }

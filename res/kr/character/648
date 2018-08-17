@@ -1,9 +1,9 @@
 {
   "name": "마르코, 흰 수염 해적단 1번대 대장",
   "detail": {
-    "special": "Recovers 100x character's RCV in HP, amplifies the effect of orbs by 1.5x for 2 turns",
+    "special": "캐릭터의 회복력x100배의 체력을 회복하고, 슬롯의 영향을 크게 만든다 (2턴)",
     "specialNotes": "#{orb : 1.5x}",
-    "specialName": "Blue Flame Kick",
-    "captain": "Reduces damage received by 30% if HP is above 70% at the start of the turn, boosts ATK of [QCK] and [PSY] characters by 2.75x if HP is above 70% at the start the turn"
+    "specialName": "창염의 축격",
+    "captain": "공격 개시 전에 체력이 일정량 이상이면 [QCK]과 [PSY] 속성 캐릭터의 공격력이 2.75배가 되고 받는 데미지가 30% 감소"
   }
 }

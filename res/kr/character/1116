@@ -1,10 +1,10 @@
 {
   "name": "상디, 꿈을 좇는 모험자",
   "detail": {
-    "special": "Deals several times the character's ATK in [INT] damage to all enemies",
+    "special": "적 전체에 파티의 체력이 적을수록 큰 [INT] 데미지를 준다.",
     "specialNotes": "#{specialProportional : lower : 100 * ( 1 - (remaining HP) / (total HP) )}",
-    "specialName": "Diable Jambe: Concassé",
-    "captain": "Reduces damage received by 80% if HP is above 99% at the start of the turn",
-    "sailor": "Reduces Paralysis by 3 turns for self"
+    "specialName": "디아블 잠브 : 분쇄",
+    "captain": "체력이 가득 차 있을때 받는 데미지를 크게(80%) 감소한다.",
+    "sailor": "자신의 저림 상태를 3턴 줄여준다."
   }
 }

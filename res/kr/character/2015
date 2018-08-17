@@ -11,70 +11,70 @@
     },
     "limit": [
       {
-        "description": "Boosts base HP by 10"
+        "description": "체력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "Boosts base RCV by 55"
+        "description": "회복력 상승 : 55"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 45"
+        "description": "공격력 상승 : 45"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK of Fighter characters by 100"
+        "description": "선원 효과 추가 1: Boosts base ATK of Fighter characters by 100"
       },
       {
-        "description": "Acquire Potential 2: Barrier Penetration"
+        "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
     "potential": [
       {
-        "Name": "[PSY] Damage Reduction",
+        "Name": "[INT]데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by 1%",
-          "Level 2: Reduce damage taken from [PSY] characters by 2%",
-          "Level 3: Reduce damage taken from [PSY] characters by 3%",
-          "Level 4: Reduce damage taken from [PSY] characters by 4%",
-          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Barrier Penetration",
+        "Name": "배리어 관통",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers"
+          "Level 1: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 2: 일당의 체력이 90% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 3: 일당의 체력이 70% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 5: This character's attack will ignore barriers"
         ]
       }
     ]

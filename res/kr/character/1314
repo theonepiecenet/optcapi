@@ -1,135 +1,135 @@
 {
   "name": "사카즈키",
   "detail": {
-    "captain": "If any character has a [STR] orb, boosts ATK of all characters by 3.9375x, boosts ATK of all characters by 2.25x otherwise. Boosts chances of getting [STR] orbs",
+    "captain": "일당의 공격력을 2.25배로 만들고, STR슬롯이 나온 캐릭터의 공격력은 1.76배 더 상승하며, STR슬롯 출현율이 상승한다.",
     "captainNotes": "If a character has a [STR] orb, regardless of type, they will have a 3.9375x ATK boost",
-    "special": "Deals 125x character's ATK typeless damage to all enemies and randomizes non-[STR] orbs. Boosts ATK of characters with cost 50 or higher by 1.75x for 2 turns",
-    "specialName": "Meteor Volcano",
+    "special": "적 전체에 무 속성(x125배) 초월데미지를 주고, STR슬롯 외의 다른 슬롯을 랜덤으로 바꾸며, 코스트 50이상인 캐릭터의 공격력을 2턴동안 1.76배가 된다.",
+    "specialName": "유성화산",
     "sailor": {
       "base": "None",
-      "level1": "Boosts this character's attack against [QCK] characters by 2x"
+      "level1": "자신이 [QCK] 속성에게 주는 일반 공격에 의한 데미지가 2배가 된다"
     },
     "limit": [
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Acquire Potential 1: Critical Hit"
+        "description": "잠재능력 습득 1: 크리티컬 공격"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts this character's attack against [QCK] characters by 2x"
+        "description": "선원효과 추가 1: 자신이 QCK에게 입히는 통상 공격 데미지 2배 증가한다."
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base ATK by 25"
+        "description": "공격력 상승 : 25"
       },
       {
-        "description": "Boosts base ATK by 25"
+        "description": "공격력 상승 : 25"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 3: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 3: 슬롯 봉쇄 내성"
       }
     ],
     "potential": [
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a 50% chance to deal 10% of this character's attack in extra damage"
+          "Level 1: 만약 PERFECT를 적중하면, 20% 확률로 캐릭터 공격력의 5%에 해당하는 추가데미지를 입힌다.",
+          "Level 2: 만약 PERFECT를 적중하면, 30% 확률로 캐릭터 공격력의 5%에 해당하는 추가데미지를 입힌다.",
+          "Level 3: 만약 PERFECT를 적중하면, 40% 확률로 캐릭터 공격력의 5%에 해당하는 추가데미지를 입힌다.",
+          "Level 4: 만약 PERFECT를 적중하면, 50% 확률로 캐릭터 공격력의 5%에 해당하는 추가데미지를 입힌다.",
+          "Level 5: 만약 PERFECT를 적중하면, 50% 확률로 캐릭터 공격력의 10%에 해당하는 추가데미지를 입힌다."
         ]
       },
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
-          "Level 1: Boosts base ATK by 20",
-          "Level 2: Boosts base ATK by 40",
-          "Level 3: Boosts base ATK by 60",
-          "Level 4: Boosts base ATK by 80",
-          "Level 5: Boosts base ATK by 100"
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 40",
+          "Level 3: 공격력 상승 : 60",
+          "Level 4: 공격력 상승 : 80",
+          "Level 5: 공격력 상승 : 100"
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 2: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 7 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 10 turns on this character",
-          "Level 5: Reduces Slot Bind completely on this character"
+          "Level 1: 캐릭터의 봉인상태를 3턴 감소시킨다.",
+          "Level 2: 캐릭터의 봉인상태를 5턴 감소시킨다.",
+          "Level 3: 캐릭터의 봉인상태를 7턴 감소시킨다.",
+          "Level 4: 캐릭터의 봉인상태를 10턴 감소시킨다.",
+          "Level 5: 캐릭터의 봉인상태가 무효화된다."
         ]
       }
     ],

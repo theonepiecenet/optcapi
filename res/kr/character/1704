@@ -1,80 +1,80 @@
 {
   "name": "한냐발, 지금은 지배자의 심복",
   "detail": {
-    "captain": "Boosts ATK of [INT] characters by 2.5x, recovers 2x character's RCV in HP at the end of each turn",
-    "special": "Reduces damage received by 50% for 2 turns and boosts ATK against enemies inflicted with Toxic by 1.75x for 2 turns",
-    "specialName": "Inferno Hell Wheel",
+    "captain": "INT캐릭터의 공격력이 2.5배 증가하고 턴 종료 시 캐릭터 회복력 2배의 체력을 회복한다.",
+    "special": "2턴 동안 받는 데미지를 50% 감소시키고, 2턴 동안 독에 중독된 적에게 주는 데미지가 1.75배가 된다.",
+    "specialName": "초열지옥차",
     "sailor": {
-      "base": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs “beneficial” for this character if your Captain is a Striker character",
-      "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character if your Captain is a Driven character"
+      "base": "선장이 타격 캐릭터면 [STR][QCK][DEX][PSY][INT]슬롯도 [유리] 슬롯으로 취급한다.",
+      "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character if your Captain is a 야심형 character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 1: Pinch Healing"
+        "description": "잠재능력 습득 1: 긴급 회복"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs “beneficial” for this character if your Captain is a Driven character"
+        "description": "선원효과 추가 1: 선장이 야심 캐릭터면 [RCV],[TND]도 [유리] 슬롯으로 만든다. "
       },
       {
-        "description": "Boosts base HP by 200"
+        "description": "체력 상승 : 200"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "소켓 슬롯 1개 추가"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
     "potential": [
       {
-        "Name": "Pinch Healing",
+        "Name": "긴급 회복",
         "description": [
-          "Level 1: If HP is below 5% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 5% at the start of the turn, recovers 1.25x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 5% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 10% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 20% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: 전투 시작 시 체력이 5% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 2: 전투 시작 시 체력이 5% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.25배 만큼 체력을 회복한다",
+          "Level 3: 전투 시작 시 체력이 5% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다",
+          "Level 4: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다",
+          "Level 5: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다"
         ]
       },
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
-          "Level 1: Boosts base ATK by 30",
-          "Level 2: Boosts base ATK by 60",
-          "Level 3: Boosts base ATK by 90",
-          "Level 4: Boosts base ATK by 100",
-          "Level 5: Boosts base ATK by 150"
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : 60",
+          "Level 3: 공격력 상승 : 90",
+          "Level 4: 공격력 상승 : 100",
+          "Level 5: 공격력 상승 : 150"
         ]
       }
     ],

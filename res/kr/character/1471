@@ -1,7 +1,7 @@
 {
   "name": "‘깊은 상처’ 알비온",
   "detail": {
-    "captain": "Boosts ATK of Slasher and Driven characters proportionally to the crew's current HP",
+    "captain": "Boosts ATK of 참격형 and Driven characters proportionally to the crew's current HP",
     "captainNotes": "#{captainProportional : lower : 1 + 1 * (1 - (remaining HP) / (total HP)) : 1 : 2}",
     "special": "Reduces crew's HP by 90%, deals 1x the removed HP as damage to all enemies.",
     "specialName": "Deep Claw Stab"

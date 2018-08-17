@@ -1,9 +1,9 @@
 {
   "name": "나미, 썬더 브리드 템포",
   "detail": {
-    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [INT] characters by 2x and their RCV by 1.5x.",
-    "special": "Deals 20x character's ATK in [INT] damage to all enemies. Amplifies the effect of orbs for [INT] characters by 1.75x for 1 turn",
-    "specialName": "Weather Egg: Thunder Breed Tempo",
+    "captain": "모험 시작 시 필살기 턴을 1턴 단축하고 [INT] 캐릭터의 공격력을 2배, 회복력을 1.5배로 만든다",
+    "special": "적 전체에게 공격력x20배의 [INT] 데미지를 주고, 1턴 동안 [INT] 캐릭터의 슬롯의 영향을 상당히 증폭시킨다",
+    "specialName": "썬더 브리드 템포",
     "specialNotes": "#{orb : 1.75x}",
     "sailor": {
       "base": "None",
@@ -13,70 +13,70 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Acquire Potential 1: Pinch Healing"
+        "description": "잠재능력 습득 1: 긴급 회복"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs “beneficial” for [INT] characters"
+        "description": "선원 효과 추가 1: Makes [RCV] orbs “beneficial” for [INT] characters"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 80"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts base ATK, HP and RCV of [INT] characters by 50"
+        "description": "선원 효과 추가 2: Boosts base ATK, HP and RCV of [INT] characters by 50"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
     "potential": [
       {
-        "Name": "Pinch Healing",
+        "Name": "긴급 회복",
         "description": [
-          "Level 1: If HP is below 10% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 15% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 20% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 30% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 4: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다"
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 7 turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
         ]
       }
     ]

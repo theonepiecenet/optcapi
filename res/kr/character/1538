@@ -1,79 +1,79 @@
 {
   "name": "헤라클레슨, 밀짚모자 일당의 공범자",
   "detail": {
-    "captain": "Boosts ATK of [STR] characters by 2.5x and boosts HP of Shooter and Striker characters by 1.25x",
-    "special": "Cuts the current HP of each enemy by 20%, changes right column [STR], [QCK], [DEX], [PSY] and [INT] orbs into Matching orbs for Shooter and Striker characters",
-    "specialName": "Greenstone Threat",
+    "captain": "[STR]의 공격력을 2.5배, 타격형과 사격형 캐릭터의 체력을 1.25배로 만든다",
+    "special": "적 전체의 HP를 20% 줄이고, 오른쪽 줄의 타격형과 사격형 캐릭터의 속성 슬롯을 속성 일치 슬롯으로 바꾼다",
+    "specialName": "그린 스톤의 위협",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base HP of [STR] characters by 150",
+      "level1": "[STR]의 기본 체력이 150 상승한다",
       "level2": "Makes [STR] orbs “beneficial” for all characters if your Captain is a Striker or Shooter character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base HP by 10"
+        "description": "체력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 25"
+        "description": "회복력 상승 : 25"
       },
       {
-        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+        "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [STR] orbs “beneficial” for Shooter characters"
+        "description": "선원 효과 추가 2: Makes [STR] orbs “beneficial” for Shooter characters"
       },
       {
-        "description": "Acquire Potential 2: Barrier Penetration"
+        "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
     "potential": [
       {
-        "Name": "[DEX] Damage Reduction",
+        "Name": "[DEX] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [DEX] characters by 1%",
-          "Level 2: Reduce damage taken from [DEX] characters by 2%",
-          "Level 3: Reduce damage taken from [DEX] characters by 3%",
-          "Level 4: Reduce damage taken from [DEX] characters by 4%",
-          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Barrier Penetration",
+        "Name": "배리어 관통",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
           "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
           "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]

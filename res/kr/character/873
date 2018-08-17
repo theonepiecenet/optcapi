@@ -1,18 +1,18 @@
 {
   "name": "세뇨르 핑크",
   "detail": {
-    "captain": "Boosts ATK of Fighter characters by 2.5x if HP is below 30% at the start of the turn",
-    "specialName": "Nyan Nyan Swim",
+    "captain": "남은 체력이 적을 때 격투형 캐릭터의 공격력이 2.5배가 된다고 계집들아!!",
+    "specialName": "냥냥 헤엄",
     "special": [
       {
-        "description": "Changes own orb into [PSY], amplifies the effect of orbs by 1.5x for 1 turn",
+        "description": "자신의 슬롯을 [PSY]으로 바꾸고, 1턴 동안 일당의 슬롯의 영향을 증폭시킨다",
         "cooldown": [
           13,
           8
         ]
       },
       {
-        "description": "Changes own orb into [PSY], amplifies the effect of orbs by 1.75x for 1 turn",
+        "description": "자신의 슬롯을 [PSY]으로 바꾸고, 1턴 동안 일당의 슬롯의 영향을 상당히 증폭시킨다",
         "cooldown": [
           19,
           14

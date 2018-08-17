@@ -1,10 +1,10 @@
 {
   "name": "한냐발, 지배자의 심복",
   "detail": {
-    "captain": "Boosts ATK of [INT] characters by 2x",
-    "special": "Reduces damage received by 50% for 2 turns and boosts ATK against enemies inflicted with Toxic by 1.75x for 2 turns",
-    "specialName": "Inferno Hell Wheel",
-    "sailor": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs “beneficial” for this character if your Captain is a Striker character",
+    "captain": "INT캐릭터의 공격력이 2배 증가한다.",
+    "special": "2턴 동안 받는 데미지를 50% 감소시키고, 2턴 동안 독에 중독된 적에게 주는 데미지가 1.75배가 된다.",
+    "specialName": "초열지옥차",
+    "sailor": "선장이 타격 캐릭터면 [STR][QCK][DEX][PSY][INT]슬롯도 [유리] 슬롯으로 취급한다.",
     "sailorNotes": "#{beneficial}"
   }
 }

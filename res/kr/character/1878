@@ -1,18 +1,18 @@
 {
-  "name": "바르톨로메오, “Barto Club” Pirates Captain",
+  "name": "바르톨로메오, 해적단 ‘바르토 클럽’ 선장",
   "detail": {
-    "captain": "Boosts ATK of all characters by 1.5x and reduces damage received by 10%. If you use \"Barrier Crash\" in this turn boosts ATK of all characters by 2.25x instead.",
-    "specialName": "Barrier Crash",
+    "captain": "일당의 공격력을 1.5배로 만들고, 받는 데미지를 10% 줄이며, ‘배리어 크래시’를 사용한 턴은 일당의 공격력이 약 2.25배가 된다",
+    "specialName": "배리어 크래시",
     "special": [
       {
-        "description": "Reduces any damage received above 5,000 HP by 97% for 2 turns, recovers 20% of crew's MAX HP, reduces enemies' ATK Up and Enrage Buffs by 5 turns.",
+        "description": "2턴 동안 적 각각에 대해 5,000이 넘는 부분의 데미지를 초대폭 감소시키고, 최대 체력의 20%를 회복하며, 적의 [ATK UP] [ENRAGE]를 5턴 줄인다",
         "cooldown": [
           28,
           13
         ]
       },
       {
-        "description": "Reduces any damage received above 3,000 HP by 97% for 2 turns, recovers 50% of crew's MAX HP, reduces enemies' ATK Up, Enrage, End of Turn Damage/Percent Cut and Resilience Buffs by 5 turns.",
+        "description": "2턴 동안 적 각각에 대해 3,000이 넘는 부분의 데미지를 초대폭 감소시키고, 최대 체력의 50%를 회복하며, 적의 [DAMAGE REDUCTION] [ATK UP] [ENRAGE] & 남은 체력 1로 버티는 효과를 5턴 줄인다",
         "cooldown": [
           33,
           18

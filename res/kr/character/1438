@@ -1,81 +1,81 @@
 {
   "name": "이카로스 뭇히, 어인가의 망령",
   "detail": {
-    "captain": "Boosts ATK of Powerhouse and Striker characters by 1.6x",
-    "captainNotes": "The bonus is cumulative. Powerhouse + Striker characters get a 2.56x bonus.",
-    "special": "Reduces crew's current HP by 50%, amplifies the effect of orbs for Powerhouse characters by 1.75x and boosts ATK against delayed enemies by 1.5x for 1 turn",
-    "specialName": "Squid Spear",
+    "captain": "강인형과 타격형의 공격력을 각각 1.6배로 만든다",
+    "captainNotes": "The bonus is cumulative. 강인형 + Striker characters get a 2.56x bonus.",
+    "special": "일당의 체력을 50% 줄이고, 1턴 동안 지연 중인 적에게 주는 데미지가 1.5배, 강인형 캐릭터의 슬롯의 영향을 상당히 증폭시킨다",
+    "specialName": "살오징어의 창",
     "sailor": {
-      "base": "Makes [STR], [QCK], [DEX] and [INT] orbs “beneficial” for this character if there are 6 Powerhouse characters in your crew",
-      "level1": "Boosts base ATK, HP and RCV of Powerhouse characters by 30"
+      "base": "강인형 6명으로 편성 시 자신은 모든 속성 슬롯이 [유리] 슬롯으로 취급된다",
+      "level1": "강인형 캐릭터의 기본 능력치가 30 상승한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 1: [INT] Damage Reduction"
+        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Powerhouse characters by 30"
+        "description": "선원 효과 추가 1: 강인형 캐릭터의 기본 능력치가 30 상승한다"
       },
       {
-        "description": "Acquire Potential 2: Pinch Healing"
+        "description": "잠재능력 습득 2: 긴급 회복"
       }
     ],
     "potential": [
       {
-        "Name": "[INT] Damage Reduction",
+        "Name": "[INT] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by ?%",
-          "Level 3: Reduce damage taken from [INT] characters by ?%",
-          "Level 4: Reduce damage taken from [INT] characters by ?%",
-          "Level 5: Reduce damage taken from [INT] characters by ?%"
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"
         ]
       },
       {
-        "Name": "Pinch Healing",
+        "Name": "긴급 회복",
         "description": [
-          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a Perfect with this character",
-          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a Perfect with this character",
-          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a Perfect with this character",
-          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a Perfect with this character",
-          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a Perfect with this character"
+          "Level 1: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 2: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 3: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 4: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 5: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
         ]
       }
     ]
