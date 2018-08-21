@@ -1,156 +1,164 @@
 {
   "name": "매의 눈 미호크, 전 세계 검사의 정점에 선 사나이",
   "detail": {
-    "captain": "참격형 캐릭터의 공격력이 1.2배, 체력이 1.1배, 「흑도·극한의 일도」'를 사용한 턴은 참격형 캐릭터의 공격력이 1.35배 더 상승한다",
-    "special": "적 전체에게 캐릭터의 공격력x100배의 무 속성 데미지를 주고, 선장이 참격형 캐릭터라면 1턴 동안 일당의 체인 계수가 2.75배로 고정되고 참격형 캐릭터의 슬롯의 영향을 2배로 증폭시킨다",
-    "specialName": "흑도·극한의 일도",
+    "captain": {
+      "base": "Boosts ATK of Slasher characters by 1.2x and their HP by 1.1x. If you use \"Black Blade • The Ultimate Sword\" in this turn boosts ATK of Slasher characters by 1.62x instead.",
+      "level1": "Boosts ATK of Slasher characters by 1.35x and their HP by 1.1x. If you use \"Black Blade • The Ultimate Sword\" in this turn boosts ATK of Slasher characters by 1.8225x instead.",
+      "level2": "Boosts ATK of Slasher characters by 1.6x and their HP by 1.1x. If you use \"Black Blade • The Ultimate Sword\" in this turn boosts ATK of Slasher characters by 2.16x instead.",
+      "level3": "Boosts ATK of Slasher characters by 1.8x and their HP by 1.2x. If you use \"Black Blade • The Ultimate Sword\" in this turn boosts ATK of Slasher characters by 2.43x instead.",
+      "level4": "Boosts ATK of Slasher characters by 2x and their HP by 1.2x. If you use \"Black Blade • The Ultimate Sword\" in this turn boosts ATK of Slasher characters by 2.7x instead.",
+      "level5": "Boosts ATK of Slasher characters by 2x and their HP by 1.3x. If you use \"Black Blade • The Ultimate Sword\" in this turn boosts ATK of Slasher characters by 2.7x instead.",
+      "level6": "Boosts ATK of Slasher characters by 2.5x and their HP by 1.3x. If you use \"Black Blade • The Ultimate Sword\" in this turn boosts ATK of Slasher characters by 3.5x instead."
+    },
+    "special": "Deals 100x character's ATK in typeless damage to all enemies, if your Captain is a Slasher character, amplifies the effects of orbs for Slasher characters by 2x for 1 turn and locks the chain multiplier at 2.75x for 1 turn",
+    "specialName": "Black Blade • The Ultimate Sword",
     "sailor": {
       "base": "None",
-      "level1": "참격형 캐릭터의 기본 공격력이 50 상승한다",
-      "level2": "자신은 [QCK] 슬롯을 [유리] 슬롯으로 취급한다"
+      "level1": "Boosts base ATK of Slasher characters by 50",
+      "level2": "Makes [QCK] orbs “beneficial” for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "소켓 슬롯 1 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "기본 공격력 +10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "기본 체력 +30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "기본 회복력 +5"
+        "description": "Boosts base RCV by 5"
       },
       {
-        "description": "잠재능력 개방 1: 크리티컬 공격"
+        "description": "Acquire Potential 1: Critical Hit"
       },
       {
-        "description": "새로운 선장효과 개방: "
+        "description": "Acquire new Captain Ability: Boosts ATK of Slasher characters by 1.35x and their HP by 1.1x. If you use \"Black Blade • The Ultimate Sword\" boosts ATK of Slasher characters by 1.8225x instead for 1 turn."
       },
       {
-        "description": "선원효과 개방 1: 참격 캐릭터의 기본 공격력 +50"
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of Slasher characters by 50"
       },
       {
-        "description": "기본 공격력 +15"
+        "description": "Boosts base ATK by 15"
       },
       {
-        "description": "기본 체력 +40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "기본 회복력 +10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "새로운 선장효과 개방: 참격형 캐릭터의 공격력이 1.6배, 체력이 1.1배, 「흑도·극한의 일도」'를 사용한 턴은 참격형 캐릭터의 공격력이 1.35배 더 상승한다"
+        "description": "Acquire new Captain Ability: Boosts ATK of Slasher characters by 1.6x and their HP by 1.1x. If you use \"Black Blade • The Ultimate Sword\" boosts ATK of Slasher characters by 2.16x instead for 1 turn."
       },
       {
-        "description": "소켓슬롯 1 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "필살기 턴 감소 1 턴"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "기본 공격력 +20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "기본 체력 +50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "기본 회복력 +15"
+        "description": "Boosts base RCV by 15"
       },
       {
-        "description": "새로운 선장효과 개방: "
+        "description": "Acquire new Captain Ability: Boosts ATK of Slasher characters by 1.8x and their HP by 1.2x. If you use \"Black Blade • The Ultimate Sword\" boosts ATK of Slasher characters by 2.43x instead for 1 turn."
       },
       {
-        "description": "필살기 턴 감소 2 턴"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "기본 공격력 +25"
+        "description": "Boosts base ATK by 25"
       },
       {
-        "description": "기본 체력 +60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "기본 회복력 +20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "필살기 턴 감소 3 턴"
+        "description": "Reduce base Special Cooldown by 3 turns"
       },
       {
-        "description": "소켓슬롯 1 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "기본 공격력 +30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "기본 체력 +65"
+        "description": "Boosts base HP by 65"
       },
       {
-        "description": "필살기 턴 감소 4 턴"
+        "description": "Reduce base Special Cooldown by 4 turns"
       },
       {
-        "description": "새로운 선장효과 개방: "
+        "description": "Acquire new Captain Ability: Boosts ATK of Slasher characters by 2x and their HP by 1.2x. If you use \"Black Blade • The Ultimate Sword\" boosts ATK of Slasher characters by 2.7x instead for 1 turn."
       },
       {
-        "description": "기본 공격력 +35"
+        "description": "Boosts base ATK by 35"
       },
       {
-        "description": "기본 체력 +70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "선원효과 개방 2: [QCK]슬롯도 [유리] 슬롯으로 취급"
+        "description": "Acquire Sailor Ability 2: Makes [QCK] orbs “beneficial” for this character"
       },
       {
-        "description": "기본 공격력 +40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "기본 체력 +75"
+        "description": "Boosts base HP by 75"
       },
       {
-        "description": "기본 회복력 +30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "필살기 턴 감소 5 턴"
+        "description": "Reduce base Special Cooldown by 5 turns"
       },
       {
-        "description": "소켓슬롯 1 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "새로운 선장효과 개방: "
+        "description": "Acquire new Captain Ability: Boosts ATK of Slasher characters by 2x and their HP by 1.3x. If you use \"Black Blade • The Ultimate Sword\" boosts ATK of Slasher characters by 2.7x instead for 1 turn."
       },
       {
-        "description": "기본 공격력 +50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "기본 체력 +80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "새로운 선장효과 개방: 참격형 캐릭터의 공격력이 2.5배, 체력이 1.3배, 「흑도·극한의 일도」'를 사용한 턴은 참격형 캐릭터의 공격력이 1.4배 더 상승한다"
+        "description": "Acquire new Captain Ability: Boosts ATK of Slasher characters by 2.5x and their HP by 1.3x. If you use \"Black Blade • The Ultimate Sword\" boosts ATK of Slasher characters by 3.5x instead for 1 turn."
       },
       {
-        "description": "잠재능력 개방 2: 슬롯 봉쇄 내성"
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
       }
     ],
     "potential": [
       {
-        "Name": "크리티컬 공격",
+        "Name": "Critical Hit",
         "description": [
-          "Level 1: 만약 이 캐릭터가 PERFECT를 적중하면 10% 확률로 캐릭터 공격력의 3%의 추가 데미지를 입힌다.",
-          "Level 2: 만약 이 캐릭터가 PERFECT를 적중하면 15% 확률로 캐릭터 공격력의 5%의 추가 데미지를 입힌다.",
-          "Level 3: 만약 이 캐릭터가 PERFECT를 적중하면 20% 확률로 캐릭터 공격력의 5%의 추가 데미지를 입힌다.",
-          "Level 4: 만약 이 캐릭터가 PERFECT를 적중하면 25% 확률로 캐릭터 공격력의 5%의 추가 데미지를 입힌다.",
-          "Level 5: 만약 이 캐릭터가 PERFECT를 적중하면 50% 확률로 캐릭터 공격력의 7%의 추가 데미지를 입힌다."
+          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 25% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 50% chance to deal 7% of this character's attack in extra damage"
         ]
       },
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: 캐릭터 봉쇄 상태가 1턴 회복된다.",
-          "Level 2: 캐릭터 봉쇄 상태가 2턴 회복된다.",
-          "Level 3: 캐릭터 봉쇄 상태가 3턴 회복된다.",
-          "Level 4: 캐릭터 봉쇄 상태가 5턴 회복된다.",
-          "Level 5: 캐릭터 봉쇄 상태가 10턴 회복된다."
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
         ]
       }
     ]

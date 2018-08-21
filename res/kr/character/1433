@@ -1,18 +1,18 @@
 {
   "name": "호디 존스, 신 어인 해적단 선장",
   "detail": {
-    "captain": "Reduces cooldown of 강인형 specials by 1 턴 at the start of the fight, reduces crew's current HP by 10% at the end of each 턴, and boosts ATK of Powerhouse characters by 3x if there are 6 Powerhouse characters in your crew and boosts HP of Powerhouse characters by up to 2x depending on how many Powerhouse characters are in your crew.",
-    "captainNotes": "Hody's HP boost is dependent on how many Powerhouse characters are in your crew. With 6 Powerhouse characters, the boost is 2x, with 5 the boost is 1.5x, with 4 the boost is 1.4x, with 3 the boost is 1.3x, with 2 the boost is 1.2x, and with 1 the boost is 1.1x.",
+    "captain": "Reduces cooldown of Powerhouse specials by 1 turn at the start of the fight, reduces crew's current HP by 10% at the end of each turn, boosts ATK of Powerhouse characters by 3x if there are 6 Powerhouse characters in your crew and boosts HP of Powerhouse characters by up to 2x depending on how many Powerhouse characters are in your crew.",
+    "captainNotes": "Hody's HP boost is dependent on how many Powerhouse characters are in your crew. With 6 Powerhouse characters, the boost is 2x, with 5 the boost is 1.5x, with 4 the boost is 1.4x, with 3 the boost is 1.3x, with 2 the boost is 1.2x and with 1 the boost is 1.1x.",
     "special": [
       {
-        "description": "Deals 10x character's ATK in [INT] damage to one enemy that will ignore damage negating abilities and barriers, reduces Special Cooldown of Powerhouse characters by 1 턴, reduces damage received by 60% for 1 turn",
+        "description": "Deals 10x character's ATK in [INT] damage to one enemy that will ignore damage negating abilities and barriers, reduces Special Cooldown of Powerhouse characters by 1 turn, reduces damage received by 60% for 1 turn",
         "cooldown": [
           12,
           7
         ]
       },
       {
-        "description": "Deals 60x character's ATK in [INT] damage to one enemy that will ignore damage negating abilities and barriers, reduces Special Cooldown of Powerhouse characters by 2 턴, reduces damage received by 90% for 1 turn",
+        "description": "Deals 60x character's ATK in [INT] damage to one enemy that will ignore damage negating abilities and barriers, reduces Special Cooldown of Powerhouse characters by 2 turns, reduces damage received by 90% for 1 turn",
         "cooldown": [
           22,
           17

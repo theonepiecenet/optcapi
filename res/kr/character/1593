@@ -1,18 +1,18 @@
 {
   "name": "몽키 D. 루피, 기어 ‘4’ ‘바운드맨’",
   "detail": {
-    "captain": "격투 캐릭터의 공격력을 2.5배로 상승시키고, 만약 \"킹콩 건\"을 사용하면, 3턴 동안 선장효과인 격투 캐릭터의 공격력 증가가 4배로 상승하며, 3턴 동안 받는 데미지가 56% 감소한다.",
+    "captain": "Boosts ATK of Fighter characters by 2.5x. If you use \"King Kong Gun\" THIS LUFFY boosts ATK of Fighter characters by 4x instead for 3 turns and reduces damage taken by 56% for 3 turns.",
     "captainNotes": "Using Luffy's special will change his own captain boost to 4x. If both Luffy's specials are used, the total ATK boost will be 16x",
     "special": [
       {
-        "description": "적 1기에 캐릭터 공격력 100배의 무속성 데미지를 주고, 1턴 동안 격투 캐릭터의 [STR], [DEX], [PSY], [INT], [TND], [RCV] 슬롯을 [유리] 슬롯으로 취급한다. 3턴 후 7턴 동안 캐릭터 봉쇄, 선장효과 무효가 발생한다.",
+        "description": "Deals 100x character's ATK in typeless damage to one enemy and makes [STR], [DEX], [PSY], [INT], [TND] and [RCV] orbs “beneficial” for Fighter characters for 1 turn. After 3 turns, Binds and Despairs himself for 7 turns.",
         "cooldown": [
           13,
           8
         ]
       },
       {
-        "description": "적 1기에 캐릭터 공격력 200배의 무속성 데미지를 주고, 3턴 동안 격투,자유 캐릭터의 [STR], [DEX], [PSY], [INT], [TND], [RCV] 슬롯을 [유리] 슬롯으로 취급한다. 3턴 후 7턴 동안 캐릭터 봉쇄, 선장효과 무효가 발생한다.",
+        "description": "Deals 200x character's ATK in typeless damage to one enemy and makes [STR], [DEX], [PSY], [INT], [TND] and [RCV] orbs “beneficial” for Fighter and Free Spirit characters for 3 turns. After 3 turns, Binds and Despairs himself for 7 turns.",
         "cooldown": [
           18,
           13
@@ -20,7 +20,7 @@
       }
     ],
     "specialNotes": "#{stages}<br>#{beneficial}",
-    "sailor": "이 캐릭터는 저림효과에 완전히 면역된다.",
-    "specialName": "킹콩 건"
+    "sailor": "Completely resists Paralysis on this character",
+    "specialName": "King Kong Gun"
   }
 }

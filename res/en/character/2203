@@ -9,6 +9,53 @@
       "level1": "If your Captain is a Driven character, reduces Paralysis duration by 1 turn"
     },
     "sailorNotes": "#{silence}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If your Captain is a Driven character, reduces Paralysis duration by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 45"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
     "potential": [
       {
         "Name": "Slot Bind Self-reduction",
@@ -54,7 +101,13 @@
   ],
   "evolve": {
     "evolution": 2203,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      86,
+      226,
+      302,
+      102
+    ],
     "from": 2202
   },
   "image": {

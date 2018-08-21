@@ -1,9 +1,9 @@
 {
   "name": "Sir 크로커다일 로기아, 왕의 부하 칠무해",
   "detail": {
-    "special": "1턴 동안 박식형 캐릭터의 공격력이 1.5배, 필살기 발동 시 일당의 체력이 적을 때는 2배가 되고, 적 전체에게 큰 [DEX] 데미지를 준다",
-    "specialName": "모래 폭풍 ‘헤비’",
-    "captain": "공격 개시 전의 체력이 적을수록 박식형 캐릭터의 공격력이 상승한다",
+    "special": "Boosts ATK of Cerebral characters by 2x if HP is below 30% when the special is activated, otherwise boosts ATK of Cerebral characters by 1.5x, deals 20x character's ATK in [DEX] damage to all enemies",
+    "specialName": "Sables: Pesado",
+    "captain": "Boosts ATK of Cerebral characters proportionally to the crew's current HP",
     "captainNotes": "#{captainProportional : lower : 1.5 + 1.75 * (1 - (remaining HP) / (total HP)) : 1.5 : 3.25}"
   }
 }

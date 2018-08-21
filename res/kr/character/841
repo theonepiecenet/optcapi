@@ -1,8 +1,8 @@
 {
   "name": "모네",
   "detail": {
-    "captain": "턴 종료 시 체력을 회복력x3배 회복하고, 전 전체에 공격력x3배의 [PSY] 데미지를 준다",
-    "specialName": "눈토끼",
-    "special": "적 전체 공격을 1턴 지연시키고, 2턴 동안 지연된 적에게 주는 데미지가 1.25배가 된다"
+    "captain": "Recovers 3x character's RCV in HP at the end of each turn, deals 3x character's ATK in [PSY] damage to all enemies at the end of each turn",
+    "specialName": "Snow Rabbit",
+    "special": "Delays all enemies for 1 turn, boosts ATK against delayed enemies by 1.25x for 2 turns"
   }
 }

@@ -1,17 +1,17 @@
 {
   "name": "상디, 집결한 밀짚모자 일당",
   "detail": {
-    "captain": "[STR] 캐릭터의 공격력이 2배가 된다",
+    "captain": "Boosts ATK of [STR] characters by 2x",
     "special": [
       {
-        "description": "1턴 동안 받는 데미지를 50% 줄이고, 슬롯의 영향을 증폭시킨다",
+        "description": "Reduces damage received by 50% and amplifies the effect of orbs by 1.5x for 1 turn.",
         "cooldown": [
           11,
           6
         ]
       },
       {
-        "description": "1턴 동안 받는 데미지를 70% 줄이고, 슬롯의 영향을 상당히 증폭시킨다",
+        "description": "Reduces damage received by 70% and amplifies the effect of orbs by 1.75x for 1 turn.",
         "cooldown": [
           20,
           15
@@ -19,7 +19,7 @@
       }
     ],
     "specialNotes": "#{orb : 1.75x}<br>#{stages}",
-    "sailor": "일당의 기본 능력치가 50 상승한다",
-    "specialName": "스카이 워크"
+    "sailor": "Boosts base ATK, HP and RCV of all characters by 50",
+    "specialName": "Sky Walk"
   }
 }

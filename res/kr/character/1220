@@ -1,25 +1,25 @@
 {
   "name": "반디 월드, 월드 해적단 선장",
   "detail": {
-    "captain": "이전 턴에 적을 1명이라도 격파하면 사격형의 공격력 배율이 상승한다(최대 10턴으로 공격력 3.25배)",
+    "captain": "Boosts ATK of Shooter characters by 1x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 10 times to a maximum of 3.25x.",
     "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
     "special": [
       {
-        "description": "체력이 50% 감소하는 대신 적 1명에게 공격력x7배의 [INT] 데미지를 주고, 1턴 동안 사격형의 공격력이 1.2배가 된다",
+        "description": "Deals 7x character's ATK in [INT] damage to one enemy. Reduces crew's current HP by 50%. Boosts ATK of Shooter characters by 1.2x for 1 turn",
         "cooldown": [
           22,
           6
         ]
       },
       {
-        "description": "체력이 50% 감소하는 대신 적 1명에게 공격력x15배의 [INT] 데미지를 주고, 1턴 동안 사격형의 공격력이 1.5배가 된다",
+        "description": "Deals 15x character's ATK in [INT] damage to one enemy. Reduces crew's current HP by 50%. Boosts ATK of Shooter characters by 1.5x for 1 turn",
         "cooldown": [
           28,
           12
         ]
       },
       {
-        "description": "체력이 50% 감소하는 대신 적 1명에게 공격력x25배의 [INT] 데미지를 주고, 1턴 동안 사격형의 공격력이 2배가 된다",
+        "description": "Deals 25x character's ATK in [INT] damage to one enemy. Reduces crew's current HP by 50%. Boosts ATK of Shooter characters by 2x for 1 turn",
         "cooldown": [
           34,
           18
@@ -27,80 +27,80 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "모아모아 10배속 「철퇴」",
+    "specialName": "More More, 10 Times \"Iron Hammer\"",
     "sailor": {
       "base": "None",
       "level1": "Boosts own base ATK by 100 if this character is the last in the chain to attack"
     },
     "limit": [
       {
-        "description": "체력 상승 : 10"
+        "description": "Boosts base HP by 10"
       },
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "필살기 턴 단축 : 1턴"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "필살기 턴 단축 : 1턴"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "소켓 슬롯 1개 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "선원효과 추가 1: Boosts own ATK by 100 if this character is the last in the chain to attack"
+        "description": "Acquire Sailor Ability 1: Boosts own base ATK by 100 if this character is the last in the chain to attack"
       },
       {
-        "description": "잠재능력 습득 2: 배리어 관통"
+        "description": "Acquire Potential 2: Barrier Penetration"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 30",
-          "Level 3: 공격력 상승 : 40",
-          "Level 4: 공격력 상승 : 50",
-          "Level 5: 공격력 상승 : 100"
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 30",
+          "Level 3: Boosts base ATK by 40",
+          "Level 4: Boosts base ATK by 50",
+          "Level 5: Boosts base ATK by 100"
         ]
       },
       {
-        "Name": "배리어 관통",
+        "Name": "Barrier Penetration",
         "description": [
-          "Level 1: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 3: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다.",
-          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다."
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
     ],
-    "potentialNotes": "Enrage is activated when your crew took damage from your enemies in the previous 턴"
+    "potentialNotes": "#{enrage}"
   }
 }

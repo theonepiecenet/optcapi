@@ -1,82 +1,82 @@
 {
   "name": "제파, NEO 해군 총수",
   "detail": {
-    "special": "2턴 동안 사격형 캐릭터의 공격력이 1.75배가 된다",
-    "specialName": "스매쉬 버스터",
+    "special": "Boosts ATK of Shooter characters by 1.75x for 2 turns",
+    "specialName": "Smash Buster",
     "captain": {
-      "base": "사격형 캐릭터의 공격력이 2.5배가 된다",
+      "base": "Boosts ATK of Shooter characters by 2.5x",
       "level1": "Boosts ATK of Shooter characters by 2.5x and their HP by 1.2x and recovers 300 HP at end of each turn"
     },
     "sailor": {
       "base": "None",
-      "level1": "사격형 캐릭터의 기본 능력치가 20 상승한다"
+      "level1": "Boosts base ATK, HP and RCV of Shooter characters by 20"
     },
     "limit": [
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "소켓 슬롯 1개 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "필살기 턴 단축 : 1턴"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "선원효과 추가 1: 사격형 캐릭터의 기본 능력치가 20 상승한다"
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Shooter characters by 20"
       },
       {
-        "description": "필살기 턴 단축 : 1턴"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "회복력 상승 : 40"
+        "description": "Boosts base RCV by 40"
       },
       {
-        "description": "새로운 선장 효과 습득: 사격형 캐릭터의 공격력이 2.5배, 체력이 1.2배, 턴 종료 시 체력을 300 회복한다"
+        "description": "Acquire new Captain Ability: Boosts ATK of Shooter characters by 2.5x and their HP by 1.2x and recovers 300 HP at end of each turn"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "잠재능력 습득 2: 배리어 관통"
+        "description": "Acquire Potential 2: Barrier Penetration"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 30",
-          "Level 3: 공격력 상승 : 40",
-          "Level 4: 공격력 상승 : 50",
-          "Level 5: 공격력 상승 : 100"
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 30",
+          "Level 3: Boosts base ATK by 40",
+          "Level 4: Boosts base ATK by 50",
+          "Level 5: Boosts base ATK by 100"
         ]
       },
       {
-        "Name": "배리어 관통",
+        "Name": "Barrier Penetration",
         "description": [
-          "Level 1: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 3: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다.",
-          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다."
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
     ],

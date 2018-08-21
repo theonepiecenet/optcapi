@@ -1,9 +1,9 @@
 {
   "name": "라오 G",
   "detail": {
-    "captain": "모험을 시작할 때 필살 턴을 2턴 단축하고, 격투형 캐릭터의 공격력이 1.75배가 된다",
-    "specialName": "전투보권 만귀해소",
-    "special": "[BLOCK] 슬롯을 포함하여 모든 슬롯을 [G] 슬롯을 바꾸고, 적 전체에게 랜덤 무 속성 큰 데미지",
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Fighter characters by 1.75x",
+    "specialName": "Battle Preservation Fist: Manki Kayaku",
+    "special": "Changes all orbs including [BLOCK] orbs into [G] orbs, deals random typeless damage to all enemies",
     "specialNotes": "#{gOrbs}<br>#{random : 5,000 : 100,000}"
   }
 }

@@ -1,120 +1,120 @@
 {
   "name": "상디, 제르마 왕국의 왕자",
   "detail": {
-    "captain": " 일당의 공격력을 2.5배, 체력을 1.3배로 만든다[선장 액션:스카이 워크] 스카이 워크 발동 직후에 공격할 수 없지만, 자신을 대상으로 하는 일부 효과를 막을 수 있으며, 다음 턴에 자신의 공격력이 2.5배(일당 중에 공격하는 캐릭터가 없을 때는 발동 불가) 더 상승한다",
-    "captainNotes": "Multiple Sanjis can Sky Walk at the same time. Even while Sky Walking, will still boost all characters by 2.5x. Sky Walk is not a type boost, and will stack with other boosts",
-    "special": "적 전체에게 고정 데미지 100,000을 주고, 일당의 [BLOCK][TND] 슬롯, 자신의 슬롯 및 자신과 인접한 슬롯을 속성 일치 슬롯으로 변환하며, 1턴 동안 자신의 공격력을 2배로 만든다",
+    "captain": "Boosts ATK of all characters by 2.5x and their HP by 1.3x <br> <b>Action:</b> Sanji Sky Walks into the air for 1 turn, preventing all debuffs to himself (Including, but not limited to, Bind, Despair, Silence and Paralysis). This does not remove the his own Captain boost while he is unable to attack. During the next turn, boosts own ATK by 6.25x instead",
+    "captainNotes": "Sanji Captain Action lasts for 2 turns and can be reactivated after no cooldown. Even while Sky Walking, will still boost all characters by 2.5x. Sky Walk is not a type boost and will stack with other boosts",
+    "special": "Deals 100,000 fixed damage to all enemies. Changes [BLOCK], [TND], adjacent orbs and own orb into Matching orbs. Boosts own attack by 2x for 1 turn",
+    "specialName": "Hell Memories",
     "sailor": {
-      "base": "일당은 [RCV] 슬롯도 [유리](“beneficial”) 슬롯으로 취급한다",
+      "base": "Makes [RCV] orbs “beneficial” for all characters",
       "level1": "Boosts amount healed from [RCV] orbs by 300 each"
     },
     "sailorNotes": "#{beneficial}",
-    "specialName": "헬 메모리즈",
     "limit": [
       {
-        "description": "공격력 상승 : 5"
+        "description": "Boosts base ATK by 5"
       },
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "회복력 상승 : 5"
+        "description": "Boosts base RCV by 5"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "공격력 상승 : 15"
+        "description": "Boosts base ATK by 15"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "회복력 상승 : 15"
+        "description": "Boosts base RCV by 15"
       },
       {
-        "description": "회복력 상승 : 15"
+        "description": "Boosts base RCV by 15"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "잠재능력 습득 2: 회복 무효 내성"
+        "description": "Acquire Potential 2: Reduce No Healing duration"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "선원 효과 추가 1: Boosts amount healed from [RCV] orbs by 300 each"
+        "description": "Acquire Sailor Ability 1: Boosts amount healed from [RCV] orbs by 300 each"
       },
       {
-        "description": "체력 상승 : 70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "잠재능력 습득 3: 크리티컬 공격"
+        "description": "Acquire Potential 3: Critical Hit"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
         ]
       },
       {
-        "Name": "회복 무효 내성",
+        "Name": "Reduce No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turns",
@@ -124,13 +124,13 @@
         ]
       },
       {
-        "Name": "크리티컬 공격",
+        "Name": "Critical Hit",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 90% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
+          "Level 1: If you hit a perfect with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
         ]
       }
     ],

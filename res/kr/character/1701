@@ -1,32 +1,32 @@
 {
   "name": "엠포리오 이반코프, ‘뉴카마 랜드’의 죄수",
   "detail": {
-    "captain": "자유형 캐릭터의 공격력을 2배가 된다.",
+    "captain": "Boosts ATK of Free Spirit characters by 2x",
     "special": [
       {
-        "description": "일당의 슬롯을 랜덤으로 바꾼다",
+        "description": "Randomizes all orbs",
         "cooldown": [
           9,
           4
         ]
       },
       {
-        "description": "일당의 [BLOCK]슬롯을 속성 일치 슬롯으로 바꾼다",
+        "description": "Changes [BLOCK] orbs into Matching orbs",
         "cooldown": [
           12,
           7
         ]
       },
       {
-        "description": "일당의 [불리][BLOCK] 슬롯을 속성 일치 슬롯으로 바꾼다",
+        "description": "Changes [BLOCK] and Badly Matching orbs into Matching orbs",
         "cooldown": [
           15,
           10
         ]
       }
     ],
-    "specialName": "잔털정리권",
+    "specialName": "Hair Removal Fist",
     "specialNotes": "#{stages}",
-    "sailor": "이 캐릭터는 마비효과 면역"
+    "sailor": "Completely resists Paralysis on this character"
   }
 }

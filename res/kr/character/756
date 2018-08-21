@@ -1,9 +1,9 @@
 {
   "name": "블루노, 역대 최강의 ‘CP9’",
   "detail": {
-    "special": "1턴 동안 받는 데미지를 반으로 줄이고, 강인형 캐릭터의 공격력이 1.75배가 된다",
-    "specialName": "‘철괴’ 륜",
-    "captain": "[INT] 캐릭터이 2배가 되고, [PSY] 캐릭터로부터 받는 데미지가 약 30% 감소",
+    "special": "Reduces damage received by 50% for 1 turn, boosts ATK of Powerhouse characters by 1.75x for 1 turn",
+    "specialName": "Tekkai - Rin",
+    "captain": "Boosts ATK of [INT] characters by 2x, reduces damage received from [PSY] enemies by 30%",
     "sailor": {
       "base": "None",
       "level1": "Makes [STR] orbs “beneficial” for this character",
@@ -12,64 +12,64 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "체력 상승 : 10"
+        "description": "Boosts base HP by 10"
       },
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
       },
       {
-        "description": "체력 상승 : 70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "체력 상승 : 90"
+        "description": "Boosts base HP by 90"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "선원 효과 추가 1: Makes [STR] orbs “beneficial” for this character"
+        "description": "Acquire Sailor Ability 1: Makes [STR] orbs “beneficial” for this character"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "선원 효과 추가 2: Boosts base HP of Powerhouse characters by 150"
+        "description": "Acquire Sailor Ability 2: Boosts base HP of Powerhouse characters by 150"
       },
       {
-        "description": "잠재능력 습득 2: 회복 무효 내성"
+        "description": "Acquire Potential 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
-        "Name": "[PSY] 데미지 피해 감소",
+        "Name": "[PSY] Damage Reduction",
         "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by ?%",
+          "Level 3: Reduce damage taken from [PSY] characters by ?%",
+          "Level 4: Reduce damage taken from [PSY] characters by ?%",
+          "Level 5: Reduce damage taken from [PSY] characters by ?%"
         ]
       },
       {
-        "Name": "회복 무효 내성",
+        "Name": "Reduce No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by ? turn",

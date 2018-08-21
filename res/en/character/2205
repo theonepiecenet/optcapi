@@ -8,6 +8,53 @@
       "base": "If your Captain is a Driven character, boosts own base ATK by 100",
       "level1": "Boosts base ATK of all characters by 50"
     },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of all characters by 50"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
     "potential": [
       {
         "Name": "Enrage",
@@ -54,7 +101,13 @@
   ],
   "evolve": {
     "evolution": 2205,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      99,
+      1180,
+      304,
+      104
+    ],
     "from": 2204
   },
   "image": {

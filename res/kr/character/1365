@@ -1,24 +1,24 @@
 {
   "name": "나미, 집결한 밀짚모자 일당",
   "detail": {
-    "captain": "박식형 캐릭터의 공격력과 회복력이 1.5배가 된다",
+    "captain": "Boosts ATK and RCV of Cerebral characters by 1.5x",
     "special": [
       {
-        "description": "마비, 필살기 봉쇄 상태를 1턴 회복하고 적 전체를 1턴 지연시킨다",
+        "description": "Reduces Paralysis and Silence duration by 1 turn. Delays all enemies for 1 turn",
         "cooldown": [
           13,
           8
         ]
       },
       {
-        "description": "마비, 필살기 봉쇄 상태를 2턴 회복하고 적 전체를 1턴 지연시킨다",
+        "description": "Reduces Paralysis and Silence duration by 2 turns. Delays all enemies for 1 turn",
         "cooldown": [
           15,
           10
         ]
       },
       {
-        "description": "마비, 필살기 봉쇄 상태를 5턴 회복하고 적 전체를 2턴 지연시킨다",
+        "description": "Reduces Paralysis and Silence duration by 5 turns. Delays all enemies for 2 turns",
         "cooldown": [
           18,
           13
@@ -26,8 +26,8 @@
       }
     ],
     "sailorNotes": "#{silence}",
-    "sailor": "자신은 필살기 봉쇄 상태를 완전히 회피한다",
+    "sailor": "Completely resists Silence on this character",
     "specialNotes": "#{silence}<br>#{stages}",
-    "specialName": "뇌운 로드"
+    "specialName": "Black Ball - Thundercloud Rod"
   }
 }

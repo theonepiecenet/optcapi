@@ -1,9 +1,9 @@
 {
   "name": "레베카 수인 검투사",
   "detail": {
-    "special": "적 1체에 일당 체력이 적을수록 [QCK] 큰 데미지를 주고, 자신의 슬롯을 [QCK] 변환",
+    "special": "Deals several times the character's ATK in [QCK] damage to one enemy, changes own orb into [QCK]",
     "specialNotes": "#{specialProportional : lower : 125 * ( 1 - (remaining HP) / (total HP) )}",
-    "specialName": "무패의 검기",
-    "captain": "받는 데미지를 20% 감소한다."
+    "specialName": "Undefeated Sword Technique",
+    "captain": "Reduces damage received by 20%"
   }
 }

@@ -1,11 +1,11 @@
 {
   "name": "페로나, 대담한 수영복 차림의 프린세스",
   "detail": {
-    "captain": "일당의 공격력을 2.25배로 만들고, 획득하는 해적 EXP가 1.5배가 된다(획득 해적 EXP 증가 효과는 모험 도중에 선장이 된 경우에는 발휘되지 않습니다)",
-    "special": "1턴 동안 적 전체의 방어력을 초대폭 감소시키고, 1턴 동안 받는 데미지를 70% 줄이며, 일당의 필살기 봉쇄 상태를 2턴 회복한다",
+    "captain": "Boosts ATK of all characters by 2.25x and boosts EXP gained by 1.5x",
+    "special": "Reduces damage received by 70% for 1 turn, reduces the defense of all enemies by 90% for 1 turn and reduces Silence duration by 2 turns.",
     "specialNotes": "#{silence}",
-    "sailor": "자신은 필살기 봉쇄 상태를 완전히 회피한다",
+    "sailor": "Completely resists Silence on this character",
     "sailorNotes": "#{silence}",
-    "specialName": "로맨티스트 프린세스"
+    "specialName": "Romantic Princess"
   }
 }

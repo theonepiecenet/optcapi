@@ -1,80 +1,80 @@
 {
   "name": "실버즈 레일리, 밀짚모자 일당의 공범자",
   "detail": {
-    "captain": "[QCK]의 공격력을 2.5배, 체력을 1.2배, 4연속 PERFECT 이후 같은 속성의 공격력이 3배가 된다",
-    "special": "[BLOCK] 슬롯을 포함한 모든 슬롯을 [QCK] 슬롯으로 바꾼다",
-    "specialName": "사부로부터의 최종 시련",
+    "captain": "Boosts ATK of [QCK] characters by 2.5x and their HP by 1.2x at the start of the chain, by 3x after the 4th PERFECT in a row.",
+    "special": "Changes all orbs, including [BLOCK] orbs, to [QCK] orbs",
+    "specialName": "The Teacher's Final Ordeal",
     "sailor": {
-      "base": "자신은 [STR][INT][DEX] 슬롯도 [유리] 슬롯으로 취급한다",
-      "level1": "일당의 기본 능력치가 30 상승한다"
+      "base": "Makes [STR], [INT] and [DEX] orbs “beneficial” for this character",
+      "level1": "Boosts base ATK, HP and RCV of all characters by 30"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "잠재능력 습득 1: 슬롯 봉쇄 내성"
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "체력 상승 : 70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "공격력 상승 : 60"
+        "description": "Boosts base ATK by 60"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "선원 효과 추가 1: 일당의 기본 능력치가 30 상승한다"
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 30"
       },
       {
-        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
+        "description": "Acquire Potential 2: Enrage"
       }
     ],
     "potential": [
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
         ]
       },
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
         ]
       }
     ],

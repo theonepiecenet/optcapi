@@ -1,10 +1,10 @@
 {
   "name": "화검 비스타",
   "detail": {
-    "special": "적 전체에게 고정 데미지 5000",
-    "specialName": "로즈 론도",
+    "special": "Deals 5,000 fixed damage to all enemies",
+    "specialName": "Rose Rondo",
     "specialNotes": "#{fixed}",
-    "captain": "INT 캐릭터의 공격력과 체력이 2배가 된다",
+    "captain": "Boosts ATK and HP of [INT] characters by 2x",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of [INT] characters by 30",
@@ -12,70 +12,70 @@
     },
     "limit": [
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
       },
       {
-        "description": "공격력 상승 : 25"
+        "description": "Boosts base ATK by 25"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of [INT] characters by 30"
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of [INT] characters by 30"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "체력 상승 : 100"
+        "description": "Boosts base HP by 100"
       },
       {
-        "description": "선원 효과 추가 2: If this character has an [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"
+        "description": "Acquire Sailor Ability 2: If this character has an [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"
       },
       {
-        "description": "잠재능력 습득 2: 크리티컬 공격"
+        "description": "Acquire Potential 2: Critical Hit"
       }
     ],
     "potential": [
       {
-        "Name": "[PSY] 데미지 피해 감소",
+        "Name": "[PSY] Damage Reduction",
         "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by 2%",
+          "Level 3: Reduce damage taken from [PSY] characters by 3%",
+          "Level 4: Reduce damage taken from [PSY] characters by 4%",
+          "Level 5: Reduce damage taken from [PSY] characters by 5%"
         ]
       },
       {
-        "Name": "크리티컬 공격",
+        "Name": "Critical Hit",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+          "Level 1: If you hit a perfect with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 80% chance to deal 7% of this character's attack in extra damage"
         ]
       }
     ]

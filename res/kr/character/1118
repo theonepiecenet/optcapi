@@ -1,11 +1,11 @@
 {
   "name": "나미, 꿈을 좇는 모험자",
   "detail": {
-    "special": "슬롯을 무작위로 바꾸고, 1턴 동안 아군의 체력이 일정 이상이면 공격을 받아도 쓰러지지 않는다",
-    "specialName": "1만 캐럿의 미소",
+    "special": "Randomizes all orbs, protects from defeat as long as HP is above 50% for 1 turn",
+    "specialName": "10,000-Carat Smile",
     "specialNotes": "#{zombie}",
-    "captain": "타격형 캐릭터의 공격력과 회복력이 1.5배가 된다",
-    "sailor": "자신은 [DEX] 슬롯도 [유리] 슬롯으로 취급한다",
+    "captain": "Boosts ATK and RCV of Striker characters by 1.5x",
+    "sailor": "Makes [DEX] orbs “beneficial” for this character",
     "sailorNotes": "#{beneficial}"
   }
 }

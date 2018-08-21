@@ -1,9 +1,9 @@
 {
   "name": "센고쿠",
   "detail": {
-    "special": "적 전체에게 랜덤 [PSY] 데미지를 주고, 모든 속성 캐릭터의 공격력이 1.5배가 된다(1턴)",
-    "specialName": "부처님의 충격파",
+    "special": "Deals random [PSY] damage to all enemies, boosts ATK of all characters by 1.5x for 1 turn",
+    "specialName": "Zen Shockwave",
     "specialNotes": "#{random : 30,000 : 150,000}",
-    "captain": "모험을 시작할 때 필살 턴을 단축하고 (2턴), 코스트 20 이하 캐릭터의 공격력이 3배가 된다."
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of characters with cost 20 or less by 3x"
   }
 }

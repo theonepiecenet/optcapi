@@ -1,9 +1,9 @@
 {
   "name": "네코마무시, 고래의 숲 수호자",
   "detail": {
-    "captain": "[STR]의 공격력을 2배, 타격형과 강인형 캐릭터의 체력을 1.1배로 만든다",
-    "special": "적 1명에게 모든 방어 효과를 무시하고 캐릭터의 공격력x50배의 무 속성 데미지를 주며, 적이 지연 무효, 상태 이상 무효일 때 [방해]를 포함한 모든 슬롯을 속성 일치 슬롯으로 바꾸고, 1턴 동안 타격형과 강인형 캐릭터의 공격력이 1.75배가 된다",
+    "captain": "Boosts ATK of [STR] characters by 2x, boosts HP of Striker and Powerhouse characters by 1.1x",
+    "special": "Deals 50x character's ATK in fixed typeless damage to one enemy that will ignore damage negating abilities and barriers. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, boosts ATK of Striker and Powerhouse characters by 1.75x for 1 turn and changes all orbs, including [BLOCK] orbs, into Matching orbs",
     "specialNotes": "#{ignoreBarrier}<br>#{fixed}",
-    "specialName": "맹공의 수호자"
+    "specialName": "Battle Guardian"
   }
 }

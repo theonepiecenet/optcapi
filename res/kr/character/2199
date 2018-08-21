@@ -7,7 +7,7 @@
     "specialName": "Soaring Massacre Blades",
     "sailor": {
       "base": "Boosts own base ATK by 200 if this character is the last in the chain to attack",
-      "level2": "자신이 [PSY] 속성에게 주는 일반 공격에 의한 데미지가 1.2배가 된다"
+      "level1": "Boosts this character's attack against [PSY] characters by 1.2x"
     },
     "potential": [
       {
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "Name": "회복 무효 내성",
+        "Name": "Reduce No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turn",

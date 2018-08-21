@@ -1,10 +1,10 @@
 {
   "name": "비올라, 전 돈키호테 해적단",
   "detail": {
-    "captain": "획득하는 베리가 2.5배가 된다(모험 진행 도중에 선장이 된 경우는 효과가 발휘되지 않습니다)",
-    "special": "마비 및 필살기 봉쇄 상태를 2턴 회복하고, [BLOCK][EMPTY][RCV][TND] 슬롯을 속성 일치 슬롯으로 바꾸고, 1턴 동안 체인 계수가 +0.5 된다",
-    "specialName": "정열의 잔혹 심문",
-    "sailor": "자신은 필살기 봉쇄 상태를 완전히 회피한다",
+    "captain": "Boosts amount of Beli received by 2.5x",
+    "special": "Changes [RCV], [TND], [EMPTY] and [BLOCK] orbs into Matching orbs, reduces Paralysis and Silence duration by 2 turns and adds .5x to Chain multiplier for 1 turn",
+    "specialName": "Violent Interrogation of Passion",
+    "sailor": "Completely resists Silence on this character",
     "sailorNotes": "#{silence}"
   }
 }

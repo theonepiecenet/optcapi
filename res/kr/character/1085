@@ -1,136 +1,136 @@
 {
   "name": "잇쇼",
   "detail": {
-    "captain": "슬롯 일치 시 야심형 캐릭터의 공격력을 3배, 평상시 1.5배, 체력을 1.5배로 만들고, 야심형은 [RCV][TND] 슬롯도 [유리] 슬롯으로 취급된다",
+    "captain": "Boosts HP of Driven characters by 1.5x and boosts ATK of Driven characters by 3x if they have a matching orb, by 1.5x otherwise. Makes [TND] and [RCV] orbs “beneficial” to Driven characters",
     "captainNotes": "#{beneficial}",
-    "special": "적 전체의 HP를 20% 줄이고, 3턴 동안 턴 종료 시 적 전체의 HP를 20% 줄인다",
+    "special": "Cuts the current HP of each enemy by 20%. At the end of the turn, cuts the current HP of each enemy by 20% for 3 turns",
     "specialNotes": "Does not stack with other 'end of turn damage' abilities",
-    "specialName": "중력도 「천락」",
+    "specialName": "Gravito: Heavens Fall",
     "sailor": {
       "base": "None",
       "level1": "Cannot be Blown Away",
-      "level2": "Boosts ATK, HP and RCV of 강인형 and Driven characters by 50"
+      "level2": "Boosts ATK, HP and RCV of Powerhouse and Driven characters by 50"
     },
     "limit": [
       {
-        "description": "체력 상승 : 25"
+        "description": "Boosts base HP by 25"
       },
       {
-        "description": "체력 상승 : 25"
+        "description": "Boosts base HP by 25"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "회복력 상승 : 15"
+        "description": "Boosts base RCV by 15"
       },
       {
-        "description": "선원효과 추가 1: Cannot be Blown Away"
+        "description": "Acquire Sailor Ability 1: Cannot be Blown Away"
       },
       {
-        "description": "회복력 상승 : 15"
+        "description": "Boosts base RCV by 15"
       },
       {
-        "description": "회복력 상승 : 15"
+        "description": "Boosts base RCV by 15"
       },
       {
-        "description": "회복력 상승 : 15"
+        "description": "Boosts base RCV by 15"
       },
       {
-        "description": "잠재능력 습득 2: 크리티컬 공격"
+        "description": "Acquire Potential 2: Critical Hit"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "선원효과 추가 2: Boosts ATK, HP and RCV of 강인형 and Driven characters by 50"
+        "description": "Acquire Sailor Ability 2: Boosts ATK, HP and RCV of Powerhouse and Driven characters by 50"
       },
       {
-        "description": "회복력 상승 : 15"
+        "description": "Boosts base RCV by 15"
       },
       {
-        "description": "공격력 상승 : 25"
+        "description": "Boosts base ATK by 25"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "필살기 턴 단축 : 1"
+        "description": "Reduce base Special Cooldown by 1"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "체력 상승 : 70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "체력 상승 : 100"
+        "description": "Boosts base HP by 100"
       },
       {
-        "description": "잠재능력 습득 3: 슬롯 봉쇄 내성"
+        "description": "Acquire Potential 3: Slot Bind Self-reduction"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 40",
-          "Level 3: 공격력 상승 : 60",
-          "Level 4: 공격력 상승 : 80",
-          "Level 5: 공격력 상승 : 100"
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 40",
+          "Level 3: Boosts base ATK by 60",
+          "Level 4: Boosts base ATK by 80",
+          "Level 5: Boosts base ATK by 100"
         ]
       },
       {
-        "Name": "크리티컬 공격",
+        "Name": "Critical Hit",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
+          "Level 1: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 50% chance to deal 10% of this character's attack in extra damage"
         ]
       },
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 감소시킨다.",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 5턴 감소시킨다.",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 7턴 감소시킨다.",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 10턴 감소시킨다.",
+          "Level 1: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 2: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 10 turns on this character",
           "Level 5: Reduces Slot Bind completely on this character"
         ]
       }

@@ -1,7 +1,7 @@
 {
-  "name": "Ganfor",
+  "name": "Ganfor, Skypiea Guide",
   "detail": {
-    "captain": "Boosts ATK of [INT] characters by ?x and their HP by ?x",
+    "captain": "Boosts ATK of [INT] characters by 1.25x",
     "special": "Reduces crew's ATK DOWN and Bind duration by 3 turns and changes bottom row orbs into matching orbs",
     "specialName": "Heavenly Charge"
   },
@@ -10,7 +10,7 @@
     "class": "Striker",
     "stars": 4,
     "cost": 12,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 261406,
@@ -24,7 +24,13 @@
   ],
   "evolution": {
     "evolution": 2209,
-    "evolvers": []
+    "evolvers": [
+      117,
+      82,
+      93,
+      99,
+      104
+    ]
   },
   "evolve": [],
   "image": {

@@ -2,79 +2,82 @@
   "name": "‘대 참모’ 츠루, 해군본부 준장",
   "detail": {
     "captain": {
-      "base": "턴 종료 시에 PERFECT 1회마다 캐릭터의 회복력x0.1배, GOOD 1회마다 캐릭터의 회복력x1.5배의 체력을 회복한다",
-      "level1": "일당의 공격력이 1.2배가 되고, 턴 종료 시에 PERFECT 1회마다 캐릭터의 회복력x0.3배, GOOD 1회마다 캐릭터의 회복력x1.5배의 체력을 회복한다"
+      "base": "Recovers 1.5x her RCV at the end of the turn each time you hit a Good. Recovers .1x her RCV at the end of the turn each time you hit a PERFECT",
+      "level1": "Boosts ATK of all characters by 1.2x, recovers 1.5x her RCV at the end of the turn each time you hit a Good. Recovers .3x her RCV at the end of the turn each time you hit a PERFECT"
     },
-    "special": "무작위의 적에게 [QCK] 큰 데미지를 10회 주고, 1턴 동안 일당의 공격력이 1.5배가 된다",
+    "special": "Deals 10 hits of random [QCK] damage to random enemies. Boosts ATK of all characters by 1.5x for 1 turn",
     "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 32,000 : for each hit}",
-    "sailor": "일당의 마비 상태를 1턴 회복한다",
-    "specialName": "노장의 큰 호령",
+    "sailor": {
+      "base": "Reduces Paralysis duration by 1 turn",
+      "level1": "Reduces Blindness duration by 3 turns"
+    },
+    "specialName": "A Decree of the Veteran",
     "limit": [
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "잠재능력 습득 1: 긴급 회복"
+        "description": "Acquire Potential 1: Pinch Healing"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "필살기 턴 단축 : 1"
+        "description": "Reduce base Special Cooldown by 1"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "공격력 상승 : 60"
+        "description": "Boosts base ATK by 60"
       },
       {
-        "description": "선원효과 추가 1: 의성어 은폐 상태를 3턴 회복한다"
+        "description": "Acquire Sailor Ability 1: Reduces Blindness duration by 3 turns"
       },
       {
-        "description": "새로운 선장 효과 습득: 일당의 공격력이 1.2배가 되고, 턴 종료 시에 PERFECT 1회마다 캐릭터의 회복력x0.3배, GOOD 1회마다 캐릭터의 회복력x1.5배의 체력을 회복한다"
+        "description": "Acquire new Captain Ability: Boosts ATK of all characters by 1.2x, recovers 1.5x her RCV at the end of the turn each time you hit a Good. Recovers .3x her RCV at the end of the turn each time you hit a PERFECT"
       },
       {
-        "description": "필살기 턴 단축 : 2턴"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "소켓 슬롯 1개 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "잠재능력 습득 2: 회복 무효 내성"
+        "description": "Acquire Potential 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
-        "Name": "긴급 회복",
+        "Name": "Pinch Healing",
         "description": [
-          "Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
-          "Level 2: 전투 시작 시 체력이 15% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
-          "Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
-          "Level 4: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
-          "Level 5: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다."
+          "Level 1: If HP is below 10% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
-        "Name": "회복 무효 내성",
+        "Name": "Reduce No Healing duration",
         "description": [
-          "Level 1: 회복 무효 상태 회복 : 1 턴",
-          "Level 2: 회복 무효 상태 회복 : 1 턴",
-          "Level 3: 회복 무효 상태 회복 : 1 턴",
-          "Level 4: 회복 무효 상태 회복 : 2 턴",
-          "Level 5: 회복 무효 상태 회복 : 3 턴"
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 1 turn",
+          "Level 3: Reduces No Healing duration by 1 turn",
+          "Level 4: Reduces No Healing duration by 2 turns",
+          "Level 5: Reduces No Healing duration by 3 turns"
         ]
       }
     ]

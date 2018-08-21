@@ -1,17 +1,17 @@
 {
   "name": "돈 칭자오, 팔보수군",
   "detail": {
-    "captain": "PERFECT 이외의 공격을 할 때까지 강인형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시 체력을 120 회복한다",
+    "captain": "Boosts ATK of Driven characters by 2.5x until the first hit other than PERFECT and recovers 120 HP at end of each turn",
     "special": [
       {
-        "description": "적 1명의 HP를 20% 줄이고, 1턴 동안 받는 데미지를 50% 줄인다",
+        "description": "Cuts the current HP of one enemy by 20%, reduces damage received by 50% for 1 turn",
         "cooldown": [
           25,
           10
         ]
       },
       {
-        "description": "적 1명의 HP를 25% 줄이고, 1턴 동안 받는 데미지를 70% 줄인다",
+        "description": "Cuts the current HP of one enemy by 25%, reduces damage received by 70% for 1 turn",
         "cooldown": [
           30,
           15
@@ -19,6 +19,6 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "팔충권 비기 추룡 송곳못"
+    "specialName": "Legend Told to the Grandchild"
   }
 }

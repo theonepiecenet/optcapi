@@ -4,7 +4,7 @@
     "special": "Changes adjacent orbs into [DEX], deals 1,000 fixed damage to all enemies",
     "specialName": "Ashura Ugui",
     "specialNotes": "#{fixed}",
-    "captain": "Boosts ATK of [DEX] characters by 2.75x 전투 시작 시 체력이 30% 미만이면",
-    "sailor": "참격형 캐릭터의 기본 공격력이 20 상승한다"
+    "captain": "Boosts ATK of [DEX] characters by 2.75x if HP is below 30% at the start of the turn",
+    "sailor": "Boosts base ATK of Slasher characters by 20"
   }
 }

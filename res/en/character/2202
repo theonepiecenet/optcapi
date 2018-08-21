@@ -1,7 +1,7 @@
 {
   "name": "Dr Indigo",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by ?x and their RCV by ?x",
+    "captain": "Boosts ATK of Shooter characters by 2.25x",
     "special": "If HP is below 10%, recovers all missing HP. If your Captain is a Driven character, removes Poison and Blindness duration completely and reduces damage received by 50% for 3 turns.",
     "specialName": "Chemical Juggling",
     "sailor": "Reduces Silence duration on this character by 3 turns",
@@ -15,7 +15,7 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 6,
     "slots": 3,
     "level": 50,
     "exp": 392109,
@@ -29,7 +29,13 @@
   ],
   "evolution": {
     "evolution": 2203,
-    "evolvers": []
+    "evolvers": [
+      117,
+      86,
+      226,
+      302,
+      102
+    ]
   },
   "evolve": [],
   "image": {

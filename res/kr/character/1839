@@ -1,12 +1,12 @@
 {
   "name": "빈스모크 욘디",
   "detail": {
-    "captain": "[DEX]캐릭터의 공격력이 1.75배 증가, 강인 캐릭터의 공격력이 1.2배 증가하고 체력이 1.2배 증가한다.(효과 중복가능)",
-    "captainNotes": "Attack boost stacks, so a [DEX] 강인형 character has a 2.1x ATK",
-    "special": "선장이 [DEX] 또는 [PSY] 캐릭터인 경우 1턴 동안 지연 중인 적에게 공격력 1.75배로 증가, 선장이 강인 캐릭터인 경우 2턴 동안 캐릭터 공격력 40배의 무속성 데미지를 추가한다.",
-    "specialName": "버스트 엔드 킥",
+    "captain": "Boosts ATK of [DEX] characters by 1.75x, boosts ATK of Powerhouse characters by 1.2x and the HP of Powerhouse characters by 1.2x",
+    "captainNotes": "Attack boost stacks, so a [DEX] Powerhouse character has a 2.1x ATK",
+    "special": "If your Captain is a [DEX] or [PSY] character, boosts ATK against delayed enemies by 1.75x for 1 turn. If your Captain is a Powerhouse character, adds 40x characters ATK as additional typeless damage for 1 turn",
+    "specialName": "Burst End Kick",
     "specialNotes": "#{additionalDamage : 40x}",
-    "sailor": "PSY슬롯도 [유리] 슬롯으로 취급한다.",
+    "sailor": "Makes [PSY] orbs “beneficial” for this character",
     "sailorNotes": "#{beneficial}"
   }
 }

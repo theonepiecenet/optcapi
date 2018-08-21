@@ -1,10 +1,10 @@
 {
   "name": "킬러",
   "detail": {
-    "special": "일당의 남은 체력이 1이 되는 대신 적 1명에게 캐릭터의 공격력x100배의 고정 데미지를 준다",
-    "specialName": "살육무인",
+    "special": "Deals 100x character's ATK in fixed damage to one enemy, reduces crew's HP to 1",
+    "specialName": "Massacre Soldier",
     "specialNotes": "#{fixed}",
-    "captain": "3연속으로 GOOD 이전 판정을 받으면 이후 캐릭터의 공격력이 3.5배",
-    "sailor": "남은 체력이 적을 때 박식형 캐릭터의 기본 공격력이 50 상승한다"
+    "captain": "Boosts ATK of all characters by 3.5x after scoring 3 hits below Good in a row",
+    "sailor": "When HP is below 30% at the start of the turn, boosts base ATK of Cerebral characters by 50"
   }
 }

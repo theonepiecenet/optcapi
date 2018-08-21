@@ -1,9 +1,9 @@
 {
   "name": "상디, 대지의 개척자",
   "detail": {
-    "captain": "일당의 체력과 회복력을 조금 상승시키고, 3연속 PERFECT 달성 시 이후 캐릭터의 공격력이 3.25배가 된다",
-    "special": "봉쇄 상태를 5턴 회복하고, 1턴 동안 체인 계수를 2.5배로 고정한다",
-    "sailor": "모험 시작 시 모든 슬롯을 [RCV] 슬롯으로 바꾼다(같은 효과 중복 시엔 하나만 효과 발동)",
-    "specialName": "와일드 샷"
+    "captain": "Boosts HP and RCV of all characters by 1.2x and boosts ATK of all characters by 3.25x after scoring 3 PERFECTs in a row",
+    "special": "Locks the chain multiplier at 2.5x for 1 turn, reduces Bind duration by 5 turns",
+    "sailor": "Changes all orbs into [RCV] orbs at the start of the fight.",
+    "specialName": "Wild Shot"
   }
 }

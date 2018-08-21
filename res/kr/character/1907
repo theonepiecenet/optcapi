@@ -1,10 +1,10 @@
 {
   "name": "트레볼, 드레스로자 현 국왕의 패밀리",
   "detail": {
-    "captain": "야심형 캐릭터의 공격력을 3배로 만들고, 턴이 경과할 때마다 공격력과 체력이 감소한다",
+    "captain": "Boosts ATK of Driven characters by 3x, reduces crew's current HP by 10% at the end of each turn, reduces his own ATK multiplier by 4% at the end of each turn",
     "captainNotes": "His ATK multiplier will be 3x on the first turn, 2.?x on the second, 2.?x on the third and so on. The reduction stops once the multiplier is ???x. The multiplier affects all Driven characters. You will not die to the HP reduction",
-    "special": "적 전체에게 걸려 있는 방어력 상승, 데미지 감소, [DAMAGE CUT] 상태를 4턴 줄이고, 일당에 야심형 캐릭터가 6명 있을 때, 1턴 동안 야심형 캐릭터의 공격력을 2배로 만들고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
-    "specialName": "찐득 지휘봉 유성",
-    "sailor": "상단 캐릭터의 기본 공격력이 100 상승한다"
+    "special": "Reduces enemies Threshold Damage Reduction, Percent Damage Reduction and Increased Defense duration by 4 turns. If there are 6 Driven characters in your crew, boosts ATK of Driven characters by 2x for 1 turn and reduces Special Cooldown of your top row by 1 turn.",
+    "specialName": "Beta Betton Meteora",
+    "sailor": "Boosts base ATK of the characters in the top row by 100"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "몽키 D. 루피, 희망의 별",
   "detail": {
-    "special": "무작위의 적에게 [INT] 큰 랜덤 데미지를 10회 주고, 적 전체를 1턴 지연시킨다",
+    "special": "Deals 10 hits of random [INT] damage to random enemies, delays all enemies for 1 turn",
     "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 30,000 : for each hit}",
-    "specialName": "고무고무 폭풍우",
-    "captain": "강인형 캐릭터의 공격력이 3배가 되고, 턴 경과시마다 공격력과 체력이 감소된다",
-    "captainNotes": "처음 던전 입장시 3배, 첫턴 경과시 2.9배, 두번째턴 2.8배 최소 1배까지 감소."
+    "specialName": "Gum-Gum Storm",
+    "captain": "Boosts ATK of Powerhouse characters by 3x, reduces crew's current HP by 10% at the end of each turn, reduces his own ATK multiplier by 0.1x at the end of each turn",
+    "captainNotes": "His ATK multiplier will be 3.0x on the first turn, 2.9x on the second, 2.8x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Powerhouse characters. You will not die to the HP reduction"
   }
 }

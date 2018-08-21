@@ -2,11 +2,11 @@
   "name": "몽키 D. 루피, 마린포드에서 싸우는 ‘밀짚모자’",
   "detail": {
     "captain": {
-      "base": "격투형 캐릭터의 공격력을 1.75배, 남은 체력이 10% 이하일 때는 3배가 된다",
-      "level1": "격투형 캐릭터의 공격력을 1.75배, 남은 체력이 10% 이하일 때는 3.25배가 된다"
+      "base": "Boosts ATK of Fighter characters by 3x if HP is below 10%, by 1.75x otherwise",
+      "level1": "Boosts ATK of Fighter characters by 3.25x if HP is below 10%, by 1.75x otherwise"
     },
-    "special": "적 전체에 랜덤으로 [QCK] 데미지를 주고, 1턴 동안 격투형의 공격력을 1.3배로 만들며, 같은 턴 안에 이미 「반디 불덩이」를 사용했다면 2배가 된다",
-    "specialName": "고무고무 스탬프 난타",
+    "special": "Deals random [QCK] damage to all enemies and boosts ATK of Fighter characters by 1.3x for 1 turn. If \"Firefly Light, Fiery Doll\" is used again in the same turn the special is activated in, boosts ATK of Fighter characters by 2x instead.",
+    "specialName": "Gomu Gomu no Stamp Gatling",
     "specialNotes": "Firefly Light, Fiery Doll is Event Ace's special ability.",
     "sailor": {
       "base": "None",
@@ -15,71 +15,71 @@
     },
     "limit": [
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
       },
       {
-        "description": "필살기 턴 수 단축: 2"
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "선원 효과 추가 1: Makes [QCK] orbs “beneficial” for Fighter characters"
+        "description": "Acquire Sailor Ability 1: Makes [QCK] orbs “beneficial” for Fighter characters"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "필살기 턴 수 단축: 3"
+        "description": "Reduce base Special Cooldown by 3 turns"
       },
       {
-        "description": "선원 효과 추가 2: Reduces Paralysis duration by 1 turn"
+        "description": "Acquire Sailor Ability 2: Reduces Paralysis duration by 1 turn"
       },
       {
-        "description": "새로운 선장 효과 습득: 격투형 캐릭터의 공격력을 1.75배, 남은 체력이 10% 이하일 때는 3.25배가 된다"
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter characters by 3.25x if HP is below 10%, by 1.75x otherwise"
       },
       {
-        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
+        "description": "Acquire Potential 2: Enrage"
       }
     ],
     "limitNotes": "This Limit Break is exclusive to Global ONLY",
     "potential": [
       {
-        "Name": "[STR] 데미지 피해 감소",
+        "Name": "[STR] Damage Reduction",
         "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Reduce damage taken from [STR] characters by 1%",
+          "Level 2: Reduce damage taken from [STR] characters by 2%",
+          "Level 3: Reduce damage taken from [STR] characters by 3%",
+          "Level 4: Reduce damage taken from [STR] characters by 4%",
+          "Level 5: Reduce damage taken from [STR] characters by 5%"
         ]
       },
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 30",
-          "Level 2: 공격력 상승 : 60",
-          "Level 3: 공격력 상승 : 90",
-          "Level 4: 공격력 상승 : 120",
-          "Level 5: 공격력 상승 : 150"
+          "Level 1: Boosts base ATK by 30",
+          "Level 2: Boosts base ATK by 60",
+          "Level 3: Boosts base ATK by 90",
+          "Level 4: Boosts base ATK by 120",
+          "Level 5: Boosts base ATK by 150"
         ]
       }
     ],

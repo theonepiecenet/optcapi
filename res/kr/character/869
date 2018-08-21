@@ -1,9 +1,9 @@
 {
   "name": "돈키호테 도플라밍고, 돈키호테 해적단",
   "detail": {
-    "captain": "PERFECT 이외의 공격을 할 때까지 야심형 캐릭터의 공격력이 3배가 된다.",
-    "specialName": "영기사",
-    "special": "인접한 캐릭터의 슬롯을 속성이 일치하는 슬롯으로 바꾸고, 1턴 동안 슬롯의 영향이 두 배가 된다",
+    "captain": "Boosts ATK of Driven characters by 3x until the first hit other than PERFECT",
+    "specialName": "Black Knight",
+    "special": "Changes adjacent orbs into matching orbs, amplifies the effect of orbs by 2x for 1 turn",
     "specialNotes": "#{orb : 2x}"
   }
 }

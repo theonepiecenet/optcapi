@@ -1,80 +1,80 @@
 {
   "name": "‘대장’ 징베, 용궁 왕국 넵튠군 병사",
   "detail": {
-    "captain": "격투 캐릭터의 체력을 1.4배 공격력을 2.5배 증가한다. 슬롯 일치시 공격력이 2.75배 증가한다.",
-    "special": "선장이 타격 캐릭터면 인접한 슬롯을 자속성 슬롯으로 변환하고 1턴 동안 체인 계수가 2.5배로 고정된다.",
-    "specialName": "두목의 조용한 분노",
+    "captain": "Boosts HP of Fighter characters by 1.4x and boosts ATK of Fighter characters by 2.75x if they have a matching orb, by 2.5x otherwise.",
+    "special": "If your Captain is a Fighter character, changes adjacent orbs into matching orbs and locks the chain multiplier at 2.5x for 1 turn",
+    "specialName": "Passive Aggressive Boss",
     "sailor": {
       "base": "None",
-      "level1": "자신은 [STR] and [DEX] 슬롯도 [유리] 슬롯으로 취급한다"
+      "level1": "Makes [STR] and [DEX] orbs “beneficial” for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "공격력 상승 : 15"
+        "description": "Boosts base ATK by 15"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "소켓 슬롯 1개 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "선원효과 추가 1: [STR][DEX]슬롯을 [유리] 슬롯으로 취급한다."
+        "description": "Acquire Sailor Ability 1: Makes [STR] and [DEX] orbs “beneficial” for this character"
       },
       {
-        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 30",
-          "Level 3: 공격력 상승 : 40",
-          "Level 4: 공격력 상승 : 50",
-          "Level 5: 공격력 상승 : 100"
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 30",
+          "Level 3: Boosts base ATK by 40",
+          "Level 4: Boosts base ATK by 50",
+          "Level 5: Boosts base ATK by 100"
         ]
       },
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: 캐릭터의 봉인상태를 1턴 감소시킨다.",
-          "Level 2: 캐릭터의 봉인상태를 2턴 감소시킨다.",
-          "Level 3: 캐릭터의 봉인상태를 3턴 감소시킨다.",
-          "Level 4: 캐릭터의 봉인상태를 4턴 감소시킨다.",
-          "Level 5: 캐릭터의 봉인상태를 5턴 감소시킨다."
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
         ]
       }
     ],

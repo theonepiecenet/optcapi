@@ -2,10 +2,10 @@
   "name": "프랑키, Celebrate 20th Anniversary Cruise",
   "detail": {
     "captain": "Boosts ATK of Fighter characters by 2x and reduce damage received by 10%",
-    "special": "Changes own orb into [DEX], deals 15 hits of random typeless damage to random enemies, and reduces the defense of all enemies by 100% for 2 turn",
+    "special": "Changes own orb into [DEX], deals 15 hits of random typeless damage to random enemies and reduces the defense of all enemies by 100% for 2 turns",
     "specialNotes": "#{randomHits : 15}<br>#{random : ??? : ??? : for each hit}",
     "specialName": "Franky Iron BOXING",
-    "sailor": "Restores his own special by 3 턴 when it is rewinded",
+    "sailor": "Restores his own special cooldown by 3 turns when it is rewinded",
     "sailorNotes": "#{rewind : 3}"
   }
 }

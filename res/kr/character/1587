@@ -1,11 +1,11 @@
 {
   "name": "상디, 빈스모크가 삼남",
   "detail": {
-    "captain": " 일당의 공격력을 2.5배, 체력을 1.3배로 만든다[선장 액션:스카이 워크] 스카이 워크 발동 직후에 공격할 수 없지만, 자신을 대상으로 하는 일부 효과를 막을 수 있으며, 다음 턴에 자신의 공격력이 2.5배(일당 중에 공격하는 캐릭터가 없을 때는 발동 불가) 더 상승한다",
-    "captainNotes": "Multiple Sanjis can Sky Walk at the same time. Even while Sky Walking, will still boost all characters by 2.5x. Sky Walk is not a type boost, and will stack with other boosts",
-    "special": "적 전체에게 고정 데미지 100,000을 주고, 일당의 [BLOCK][TND] 슬롯, 자신의 슬롯 및 자신과 인접한 슬롯을 속성 일치 슬롯으로 변환하며, 1턴 동안 자신의 공격력을 2배로 만든다",
-    "sailor": "일당은 [RCV] 슬롯도 [유리](“beneficial”) 슬롯으로 취급한다",
+    "captain": "Boosts ATK of all characters by 2.5x and their HP by 1.3x <br> <b>Action:</b> Sanji Sky Walks into the air for 1 turn, preventing all debuffs to himself (Including, but not limited to, Bind, Despair, Silence and Paralysis). This does not remove the his own Captain boost while he is unable to attack. During the next turn, boosts own ATK by 6.25x instead",
+    "captainNotes": "Sanji Captain Action lasts for 2 turns and can be reactivated after no cooldown. Even while Sky Walking, will still boost all characters by 2.5x. Sky Walk is not a type boost and will stack with other boosts",
+    "special": "Deals 100,000 fixed damage to all enemies. Changes [BLOCK], [TND], adjacent orbs and own orb into Matching orbs. Boosts own attack by 2x for 1 turn",
+    "sailor": "Makes [RCV] orbs “beneficial” for all characters",
     "sailorNotes": "#{beneficial}",
-    "specialName": "헬 메모리즈"
+    "specialName": "Hell Memories"
   }
 }

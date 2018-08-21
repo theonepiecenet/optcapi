@@ -1,80 +1,80 @@
 {
   "name": "보아 마리골드, 밀짚모자 일당의 공범자",
   "detail": {
-    "captain": "타격형과 강인형 캐릭터의 공격력을 2.5배, [STR]의 체력을 1.3배로 만든다",
-    "special": "[DEX][QCK] 슬롯을 속성 일치 슬롯으로 바꾸고, 2턴 동안 방어력 감소 중인 적에게 주는 데미지가 1.75배가 되며, 1턴 동안 받는 데미지를 60% 줄인다",
+    "captain": "Boosts ATK of Striker and Powerhouse characters by 2.5x and boosts HP of [STR] characters by 1.3x",
+    "special": "Changes [QCK] and [DEX] orbs into Matching orbs, boosts ATK against enemies with reduced defense by 1.75x for 2 turns and reduces damage received by 60% for 1 turn",
     "sailor": {
-      "base": "자신은 [DEX] 슬롯도 [유리] 슬롯으로 취급한다",
-      "level1": "자신이 [DEX] 속성에게 주는 일반 공격에 의한 데미지가 2배가 된다"
+      "base": "Makes [DEX] orbs “beneficial” for this character",
+      "level1": "Boosts this character's attack against [QCK] characters by 2x"
     },
     "sailorNotes": "#{beneficial}",
-    "specialName": "뱀머리칼 강림 샐러맨더",
+    "specialName": "Snake Hair Possession: Salamander",
     "limit": [
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "체력 상승 : 70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "선원효과 추가 1: 자신이 [DEX] 속성에게 주는 일반 공격에 의한 데미지가 2배가 된다"
+        "description": "Acquire Sailor Ability 1: Boosts this character's attack against [QCK] characters by 2x"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "체력 상승 : 90"
+        "description": "Boosts base HP by 90"
       },
       {
-        "description": "소켓 슬롯 1개 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "잠재능력 습득 2: 회복 무효 내성"
+        "description": "Acquire Potential 2: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 40",
-          "Level 3: 공격력 상승 : 60",
-          "Level 4: 공격력 상승 : 80",
-          "Level 5: 공격력 상승 : 100"
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 40",
+          "Level 3: Boosts base ATK by 60",
+          "Level 4: Boosts base ATK by 80",
+          "Level 5: Boosts base ATK by 100"
         ]
       },
       {
-        "Name": "회복 무효 내성",
+        "Name": "Reduce No Healing duration",
         "description": [
-          "Level 1: 회복 무효 상태 회복 : 1 턴",
-          "Level 2: 회복 무효 상태 회복 : 1 턴",
-          "Level 3: 회복 무효 상태 회복 : 1 턴",
-          "Level 4: 회복 무효 상태 회복 : 2 턴",
-          "Level 5: 회복 무효 상태 회복 : 3 턴"
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 1 turn",
+          "Level 3: Reduces No Healing duration by 1 turn",
+          "Level 4: Reduces No Healing duration by 2 turns",
+          "Level 5: Reduces No Healing duration by 3 turns"
         ]
       }
     ],

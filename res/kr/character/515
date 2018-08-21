@@ -1,9 +1,9 @@
 {
   "name": "헤라클레슨",
   "detail": {
-    "special": "왼쪽 슬롯을 [INT], [PSY], [RCV], 오른쪽 슬롯을 [STR], [DEX], [QCK]로 순서대로 변환한다. 슬롯을 자유롭게 3회 움직일 수 있다.",
+    "special": "Changes the orbs in the left column into [INT], [PSY] and [RCV], the orbs in the right column into [STR], [DEX] and [QCK], switches orbs between slots 3 times",
     "specialNotes": "The special is not based on chance, the orbs are always changed with the same pattern. Starting from the top left orb and proceeding clockwise, after the special is used the orbs will be: [INT], [STR], [DEX], [QCK], [RCV] and [PSY]",
-    "specialName": "팝 그린",
-    "captain": "사격형 캐릭터의 능력치가 1.5 배가 된다."
+    "specialName": "Pop Green",
+    "captain": "Boosts ATK, HP and RCV of Shooter characters by 1.5x"
   }
 }

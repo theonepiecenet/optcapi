@@ -1,9 +1,9 @@
 {
   "name": "칼리파, 역대 최강의 ‘CP9’",
   "detail": {
-    "special": "1턴 동안, 필살기 발동 시의 체력이 50% 이상이면 데미지를 반으로 줄이고, 50% 미만에서 10% 이상 사이이면 데미지 80% 감소, 10% 미만이면 무효로 만든다",
-    "specialName": "비누 양 양떼구름 대해일",
-    "captain": "박식형 캐릭터의 공격력이 2.25배, 회복력이 1.5배가 된다",
+    "special": "Reduces damage received in the next turn by 50% if the special is activated with more than 50% health remaining, by 80% if activated with less than 50% but more than 10% health remaining, by 100% if activated with less than 10% health remaining",
+    "specialName": "Sheep Cloud Tidal Wave",
+    "captain": "Boosts ATK of Cerebral characters by 2.25x and their RCV by 1.5x",
     "sailor": {
       "base": "None",
       "level1": "Reduces Blindness duration by 3 turns",
@@ -12,70 +12,70 @@
     "sailorNotes": "#{rewind : 2}",
     "limit": [
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "잠재능력 습득 1: 슬롯 봉쇄 내성"
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "체력 상승 : 70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "선원 효과 추가 1: 의성어 은폐 상태를 3턴 회복한다"
+        "description": "Acquire Sailor Ability 1: Reduces Blindness duration by 3 turns"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "체력 상승 : 90"
+        "description": "Boosts base HP by 90"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "선원 효과 추가 2: Restores her own special by 2 turns when it is rewinded"
+        "description": "Acquire Sailor Ability 2: Restores her own special by 2 turns when it is rewinded"
       },
       {
-        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
+        "description": "Acquire Potential 2: Enrage"
       }
     ],
     "potential": [
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
         ]
       },
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
         ]
       }
     ],

@@ -1,81 +1,81 @@
 {
   "name": "트레볼, 돈키호테 패밀리 특별 간부의 수호자",
   "detail": {
-    "captain": "야심형 캐릭터의 공격력을 3.5배로 만들고, 턴이 경과할 때마다 공격력과 체력이 감소한다",
+    "captain": "Boosts ATK of Driven characters by 3.5x, reduces crew's current HP by 10% at the end of each turn, reduces his own ATK multiplier by 4% at the end of each turn",
     "captainNotes": "His ATK multiplier will be 3.5x on the first turn, 3.?x on the second, 3.?x on the third and so on. The reduction stops once the multiplier is ???x. The multiplier affects all Driven characters. You will not die to the HP reduction",
-    "special": "적 전체에 걸려 있는 방어력 상승, 데미지 감소, ATK UP 상태를 4턴 줄이고, 일당에 야심형 캐릭터가 6명 있을 때, 1턴 동안 야심형 캐릭터의 공격력을 2배로 만들고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
-    "specialName": "찐득 지휘봉 유성",
+    "special": "Reduces enemies Threshold Damage Reduction, Percent Damage Reduction and Increased Defense duration by 4 turns. If there are 6 Driven characters in your crew, boosts ATK of Driven characters by 2x for 1 turn and reduces Special Cooldown of your top row by 1 turn.",
+    "specialName": "Beta Betton Meteora",
     "sailor": {
-      "base": "상단 캐릭터의 기본 공격력이 100 상승한다",
-      "level1": "야심형 캐릭터는 [TND] 슬롯도 [유리] 슬롯으로 취급한다"
+      "base": "Boosts base ATK of the characters in the top row by 100",
+      "level1": "Makes [TND] orbs “beneficial” for Driven characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "체력 상승 : 60"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "잠재능력 습득 1: 크리티컬 공격"
+        "description": "Acquire Potential 1: Critical Hit"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "공격력 상승 : 10"
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "소켓 슬롯 1개 추가"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "선원 효과 추가 1: 야심형 캐릭터는 [TND] 슬롯도 [유리] 슬롯으로 취급한다"
+        "description": "Acquire Sailor Ability 1: Makes [TND] orbs “beneficial” for Driven characters"
       },
       {
-        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
       }
     ],
     "potential": [
       {
-        "Name": "크리티컬 공격",
+        "Name": "Critical Hit",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 40% chance to deal 7% of this character's attack in extra damage"
         ]
       },
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 8턴 회복한다"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
         ]
       }
     ]

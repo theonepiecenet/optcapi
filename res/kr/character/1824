@@ -1,24 +1,24 @@
 {
   "name": "반디 월드, .진화형",
   "detail": {
-    "captain": "사격 캐릭터의 공격력이 2.2배 상승하고 PERFECT를 연속으로 터치할수록 사격 캐릭터읙 오격력이 1.1배씩 상승한다.(최대 약 3.543배)",
+    "captain": "Boosts ATK of Shooter characters by 2.2x at the start of the chain.<br>Boosts ATK of Shooter characters by 2.42x after the 1st PERFECT in a row, by 2.662x after the 2nd PERFECT in a row, by 2.9282x after the 3rd PERFECT in a row, by 3.22102x after the 4th PERFECT in a row and by 3.543122x after the 5th PERFECT in a row.",
     "special": [
       {
-        "description": "적 1기에 100,000의 고정데미지, 일당에게 걸려있는 공격다운 상태 해제",
+        "description": "Deals 100,000 fixed damage to one enemy and removes ATK down debuff from your team",
         "cooldown": [
           14,
           10
         ]
       },
       {
-        "description": "적 1기에 300,000의 고정데미지, 일당에게 걸려있는 공격다운 상태 해제",
+        "description": "Deals 300,000 fixed damage to one enemy and removes ATK down debuff from your team",
         "cooldown": [
           18,
           14
         ]
       },
       {
-        "description": "적 1기에 500,000의 고정데미지, 일당에게 걸려있는 공격다운 상태 해제, 적 전체 HP바에 걸려있는 배리어 1턴 감소",
+        "description": "Deals 500,000 fixed damage to one enemy, removes ATK down debuff from your team and reduces enemy Barrier duration by 1 turn",
         "cooldown": [
           22,
           18
@@ -26,72 +26,72 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "모아 모아: 100배 포",
+    "specialName": "More More: Hundredfold Artillery Cannon",
     "sailor": {
       "base": "None",
-      "level1": "사격형 캐릭터의 기본 체력이 150 상승한다",
-      "level2": "사격형 캐릭터의 기본 공격력이 75 상승한다"
+      "level1": "Boosts base HP of Shooter characters by 150",
+      "level2": "Boosts base ATK of Shooter characters by 75"
     },
     "limit": [
       {
-        "description": "공격력 상승 : 20"
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+        "description": "Acquire Potential 1: Enrage"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "회복력 상승 : 30"
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": "체력 상승 : 70"
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": "선원 효과 추가 1: 사격형 캐릭터의 기본 체력이 150 상승한다"
+        "description": "Acquire Sailor Ability 1: Boosts base HP of Shooter characters by 150"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "체력 상승 : 80"
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "필살기 턴 수 단축: 1"
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "선원 효과 추가 2: 사격형 캐릭터의 기본 공격력이 75 상승한다"
+        "description": "Acquire Sailor Ability 2: Boosts base ATK of Shooter characters by 75"
       },
       {
-        "description": "잠재능력 습득 2: 배리어 관통"
+        "description": "Acquire Potential 2: Barrier Penetration"
       }
     ],
     "potential": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Name": "Enrage",
         "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 40",
-          "Level 3: 공격력 상승 : 60",
-          "Level 4: 공격력 상승 : 80",
-          "Level 5: 공격력 상승 : 120"
+          "Level 1: Boosts base ATK by 20",
+          "Level 2: Boosts base ATK by 40",
+          "Level 3: Boosts base ATK by 60",
+          "Level 4: Boosts base ATK by 80",
+          "Level 5: Boosts base ATK by 120"
         ]
       },
       {
-        "Name": "배리어 관통",
+        "Name": "Barrier Penetration",
         "description": [
           "Level 1: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
           "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",

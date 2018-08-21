@@ -1,24 +1,24 @@
 {
   "name": "안개의 라이조, 와노쿠니의 닌자",
   "detail": {
-    "captain": "모험 시작 시 필살기 턴을 2턴 단축하고, 사격형 캐릭터의 공격력을 2.5배로 만든다",
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Shooter characters by 2.5x",
     "special": [
       {
-        "description": "적 전체에게 캐릭터의 공격력x3배의 [QCK] 데미지를 주고, 사격형 캐릭터의 [RCV][TND] 슬롯을 속성 일치 슬롯으로 바꾼다",
+        "description": "Deals 3x character's ATK in [QCK] damage to all enemies, changes [TND] and [RCV] orbs on Shooter characters into Matching Orbs,",
         "cooldown": [
           19,
           4
         ]
       },
       {
-        "description": "적 전체에게 캐릭터의 공격력x7배의 [QCK] 데미지를 주고, 사격형 캐릭터의 [RCV][TND] 슬롯을 속성 일치 슬롯으로 바꾸고, 선장이 사격형이라면 1턴 동안 지연 중인 적에게 주는 데미지가 1.35배가 된다",
+        "description": "Deals 7x character's ATK in [QCK] damage to all enemies, changes [TND] and [RCV] orbs on Shooter characters into Matching Orbs. If your Captain is a Shooter Character, boosts ATK against delayed enemies by 1.35x for 1 turn",
         "cooldown": [
           24,
           9
         ]
       },
       {
-        "description": "적 전체에게 캐릭터의 공격력x7배의 [QCK] 데미지를 주고, 사격형 캐릭터의 [RCV][TND] 슬롯을 속성 일치 슬롯으로 바꾸고, 선장이 사격형이라면 1턴 동안 지연 중인 적에게 주는 데미지가 1.75배가 된다",
+        "description": "Deals 11x character's ATK in [QCK] damage to all enemies, changes [TND] and [RCV] orbs on Shooter characters into Matching Orbs. If your Captain is a Shooter Character, boosts ATK against delayed enemies by 1.75x for 1 turn",
         "cooldown": [
           30,
           15
@@ -26,78 +26,78 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "꽃 수리검",
+    "specialName": "Flower Shuriken",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Shooter characters by 30",
-      "level2": "사격형 캐릭터의 기본 공격력이 50 상승한다"
+      "level2": "Boosts base ATK of Shooter characters by 50"
     },
     "limit": [
       {
-        "description": "회복력 상승 : 5"
+        "description": "Boosts base RCV by 5"
       },
       {
-        "description": "회복력 상승 : 10"
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": "회복력 상승 : 15"
+        "description": "Boosts base RCV by 15"
       },
       {
-        "description": "잠재능력 습득 1: 크리티컬 공격"
+        "description": "Acquire Potential 1: Critical Hit"
       },
       {
-        "description": "회복력 상승 : 20"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "체력 상승 : 20"
+        "description": "Boosts base HP by 20"
       },
       {
-        "description": "체력 상승 : 30"
+        "description": "Boosts base HP by 30"
       },
       {
-        "description": "체력 상승 : 40"
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "체력 상승 : 50"
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "공격력 상승 : 30"
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of Shooter characters by 30"
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Shooter characters by 30"
       },
       {
-        "description": "공격력 상승 : 40"
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "공격력 상승 : 50"
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": "선원 효과 추가 2: 사격형 캐릭터의 기본 공격력이 50 상승한다"
+        "description": "Acquire Sailor Ability 2: Boosts base ATK of Shooter characters by 50"
       },
       {
-        "description": "잠재능력 습득 2: 배리어 관통"
+        "description": "Acquire Potential 2: Barrier Penetration"
       }
     ],
     "potential": [
       {
-        "Name": "크리티컬 공격",
+        "Name": "Critical Hit",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 9%의 추가 데미지가 가산된다"
+          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 30% chance to deal 9% of this character's attack in extra damage"
         ]
       },
       {
-        "Name": "배리어 관통",
+        "Name": "Barrier Penetration",
         "description": [
-          "Level 1: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
-          "Level 2: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
-          "Level 3: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
-          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
-          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다"
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
     ]
