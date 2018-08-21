@@ -145,6 +145,7 @@ $app->post('/{lang}/search', function($request, $response) {
         }
         elseif($key == "captain" || $key == "sailor" || $key == "special" || $key == "limit")
         {
+            $check_zero = 0;
             $value = json_decode($param);
             $tag = json_decode(getFile("res/en/tags.json"), true);
             for($i=0; $i<count($tag);$i++)
@@ -155,10 +156,17 @@ $app->post('/{lang}/search', function($request, $response) {
                     {
                         if($tag[$i]['tag'] == $value[$j])
                         {
-                            if(count($result_arr) > 0)
+                            if(count($result_arr))
+                            {
                                 $result_arr = array_intersect($result_arr,$tag[$i]['target']);
+                                if(count($result_arr) == 0)
+                                    $result_arr[] = 0;
+                            }
                             else
+                            {
+                                $check_zero++;
                                 $result_arr = $tag[$i]['target'];
+                            }
                         }
                     }
                 }
