@@ -1,9 +1,9 @@
 {
   "name": "마젤란, 감옥의 지배자",
   "detail": {
-    "captain": "If there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, boosts ATK of all characters by 2.25x and their HP by 1.5x and cuts the current HP of each enemy by 15% at the end of each turn",
-    "special": "Inflicts Toxic to all enemies, recovers 13x character's RCV in HP at the end of each turn for 3 turns",
-    "specialNotes": "#{toxic : 50x : 2x : 2,000,000}<br>If enemies are both Poisoned and inflicted with Toxic, only the Toxic damage will damage the enemy at the end of the turn.",
-    "specialName": "Venom Cloud"
+    "captain": "Boosts ATK of all characters by 2.25x and their HP by 1.5x if there's a [STR], [DEX], [QCK], [PSY], and [INT] character in your crew. Cuts the current HP of each enemy by 15% at the end of each 턴",
+    "special": "적 전체를 서서히 데미지 양이 늘어나는 독 상태로 만들고(최소 캐릭터의 공격력x50배부터 최대 2,000,000 데미지), 3턴 동안 턴 종료 시 캐릭터의 회복력x13배의 체력을 회복한다",
+    "specialNotes": "Toxic starts at 50x character's attack and increases by 2x at the end of every 턴 until 2,000,000 damage per 턴.",
+    "specialName": "독구름"
   }
 }

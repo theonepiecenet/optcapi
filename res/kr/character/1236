@@ -1,10 +1,10 @@
 {
   "name": "추격의 메이너드, 해군본부 중장",
   "detail": {
-    "captain": "Boosts ATK of [PSY] characters by 2x, deals 5x character's ATK to all enemies at the end of each turn",
-    "special": "Deals several times the character's ATK in [PSY] damage to one enemy. Delays all enemies for 1 turn",
+    "captain": "[PSY] 캐릭터의 공격력이 2배가 되고, 턴 종료 시에 공격력53배의 추가 데미지를 준다",
+    "special": "적 1명에게 아군의 남은 체력이 많을수록 [PSY] 큰 데미지를 주고, 적 전체의 공격을 1턴 지연시킨다",
     "specialNotes": "#{specialProportional : higher : 10x + (25x * (remaining HP) / (total HP)) }",
-    "specialName": "Sword of Silence",
-    "sailor": "Reduces Blindness duration for 3 turns"
+    "specialName": "묵비의 검",
+    "sailor": "의성어 은폐 상태를 3턴 회복한다"
   }
 }

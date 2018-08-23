@@ -1,9 +1,9 @@
 {
   "name": "코라손, 돈키호테 해적단",
   "detail": {
-    "captain": "Boosts ATK of all characters proportionally to the crew's current HP. Recovers 1.5x his RCV at the end of the turn each time you hit a Good. Recovers .5x his RCV at the end of the turn each time you hit a Great",
+    "captain": "공격 시작 전 남은 체력이 많을수록 일당의 공격력이 높아지며 턴 종료 시, GREAT 1회당 캐릭터의 회복력x0.5배, GOOD 1회당 캐릭터의 회복력x1.5배의 체력을 회복한다",
     "captainNotes": "#{captainProportional : higher : 1 + 1 * (remaining HP) / (total HP) : 2 : 1 }",
-    "special": "Recovers 25x character's RCV in HP. Reduces Bind and Despair duration by 3 turns",
-    "specialName": "Love Sacrifice"
+    "special": "캐릭터의 회복력x25배의 체력을 회복하고, 봉쇄·선장효과 무효 상태를 3턴 회복한다",
+    "specialName": "사랑의 새크리파이스"
   }
 }

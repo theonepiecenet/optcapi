@@ -1,9 +1,9 @@
 {
   "name": "겟코 모리아 쉐도우즈 아스가르드",
   "detail": {
-    "captain": "Boosts ATK of Driven characters by 3x following a chain of Good > Great > PERFECT hits",
-    "specialName": "Brick Bat: Black Box",
-    "special": "Empties all slots with [INT] orbs, deals several times the character's ATK in [INT] damage to one enemy",
-    "specialNotes": "The exact multiplier used is chosen based on the number of [INT] orbs consumed: 1 orb will give a 10x multiplier, 2 orbs 15x, 3 orbs 20x, 4 orbs 50x, 5 orbs 100x, 6 orbs 200x. It's not possible to activate the special without consuming at least one [INT] orb."
+    "captain": "GOOD→GREAT→PERFECT 순서로 공격이후 야심형 캐릭터의 공격이 3배가 된다.",
+    "specialName": "브릭 배트 『그림자 상자』",
+    "special": "일당 전원의 [INT] 슬롯을 소비하고, 적 1체에 소비한 슬롯 갯수에 따라서 [INT] 데미지를 준다.",
+    "specialNotes": "[INT] 슬롯 데미지 계산: 슬롯 1개 X10배, 2개 X15배, 3개 X20배, 4개 X50배, 5개 X100배, 6개 X200배 만큼 데미지를 준다."
   }
 }

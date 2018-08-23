@@ -1,10 +1,10 @@
 {
   "name": "리쿠 왕",
   "detail": {
-    "captain": "Boosts ATK of all characters by 2x after scoring 3 Greats in a row",
-    "special": "Cuts the current HP of one enemy by 7%, boosts ATK of the characters in the bottom and middle row by 1.2x for 1 turn and reduces special cooldown of all non-Captain specials by 1 turn",
-    "specialName": "Divine Sword",
-    "sailor": "Restores his own special cooldown by 1 turn when it is rewinded",
+    "captain": "GREAT 이상 3연속 달성 시 이후 일당의 공격력이 2배가 된다",
+    "special": "적 1명의 HP를 7% 줄이고, 1턴 동안 선원의 공격력을 1.2배, 필살기 턴을 1턴 단축한다",
+    "specialName": "신성한 검",
+    "sailor": "자신의 필살기 턴 되돌리기를 1턴 회복한다",
     "sailorNotes": "#{rewind : 1}"
   }
 }

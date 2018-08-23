@@ -1,9 +1,9 @@
 {
   "name": "스트로베리 해군 본부 중장",
   "detail": {
-    "special": "Deals several times the character's ATK in [PSY] damage to one enemy",
+    "special": "적 1체에 일당 체력이 적을수록 [PSY] 큰 데미지",
     "specialNotes": "#{specialProportional : lower : 125 * ( 1 - (remaining HP) / (total HP) )}",
-    "specialName": "Angry Headbutt",
-    "captain": "Boosts ATK and HP of Cerebral characters by 1.5x"
+    "specialName": "분노의 박치기",
+    "captain": "박식형 캐릭터의 공격과 체력을 1.5배가 된다."
   }
 }

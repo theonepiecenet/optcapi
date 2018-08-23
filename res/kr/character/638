@@ -1,10 +1,10 @@
 {
   "name": "도마",
   "detail": {
-    "special": "Changes [PSY] and [INT] orbs into [QCK] orbs, reduces Bind duration by 1 turn",
-    "specialName": "Bohemian Reverse Slash",
-    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Slasher characters by 2x",
-    "sailor": "Restores his own special cooldown by 1 turn when it is rewinded",
+    "special": "[PSY], [INT]슬롯을 [QCK]으로 바꾸고, 봉쇄 상태를 줄인다 (1턴)",
+    "specialName": "유격의 역수검",
+    "captain": "모험을 시작할 때 필살 턴을 단축하고 (1턴), 참격형 캐릭터의 공격력이 2배가 된다",
+    "sailor": "자신의 필살기 턴 되돌리기를 1턴 회복한다",
     "sailorNotes": "#{rewind : 1}"
   }
 }

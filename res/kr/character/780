@@ -1,9 +1,9 @@
 {
   "name": "우루지 파계승 해적단 선장",
   "detail": {
-    "special": "Boosts own ATK by a variable factor for 1 turn",
-    "specialNotes": "The exact multiplier used is chosen based on the crew's current HP at the time the special is activated: above 50% HP, the multiplier used is 1.5x; between 20% HP and 50% HP, it's 1.75x; below 20% HP, it's 2x.",
-    "specialName": "Precept Deification",
-    "captain": "Boosts ATK of all characters by 2x if HP is below 30% at the start of the turn"
+    "special": "1턴간 자신의 공격력을 남은 체력에 따라 상승",
+    "specialNotes": "남은체력이 50%이상일때: 1.5배, 20%이상 50%미만일때: 1.75배, 20%미만일때: 2배",
+    "specialName": "계명의 귀신화",
+    "captain": "남은 체력이 30%이하일때 일당의 공격이 2배가 된다."
   }
 }

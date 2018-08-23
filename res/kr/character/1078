@@ -1,24 +1,24 @@
 {
   "name": "맨셸리, 왕녀",
   "detail": {
-    "captain": "Recovers 3x character's RCV in HP at the end of each turn",
+    "captain": "턴 종료 후 캐릭터의 회복력x3배의 체력을 회복한다",
     "special": [
       {
-        "description": "Recovers 6x character's RCV in HP. Reduces Paralysis duration by 3 turns",
+        "description": "마비 상태를 3턴 회복하고, 캐릭터의 회복력x6배의 체력을 회복한다",
         "cooldown": [
           14,
           8
         ]
       },
       {
-        "description": "Recovers 15x character's RCV in HP. Removes Paralysis, Poison, RCV DOWN and Blindness duration completely",
+        "description": "모든 독·마비·회복력 감소·의성어 은폐 상태를 회복하고, 캐릭터의 회복력x15배의 체력을 회복한다",
         "cooldown": [
           19,
           13
         ]
       },
       {
-        "description": "Recovers 50x character's RCV in HP. Removes Paralysis, Poison, RCV DOWN and Blindness duration completely",
+        "description": "모든 독·마비·회복력 감소·의성어 은폐 상태를 회복하고, 캐릭터의 회복력x50배의 체력을 회복한다",
         "cooldown": [
           24,
           18
@@ -26,6 +26,6 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "Chiyupopo"
+    "specialName": "치유들레"
   }
 }

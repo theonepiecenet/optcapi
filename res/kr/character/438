@@ -1,9 +1,9 @@
 {
   "name": "페로나 스윗트 고스트 프린세스",
   "detail": {
-    "special": "Recovers 3x character's RCV in HP, reduces damage received by 80% for 1 turn, Poisons enemies for 1,000 for a single turn",
-    "specialName": "Negative Horo \"Sweet\"",
+    "special": "체력을 조금 회복하고 1 턴 동안받는 데미지를 80% 감소, 턴 당 1,000의 독데미지",
     "specialNotes": "Poison damage deals 1,000 damage exactly and will ignore enemy armor at the end of your turn",
-    "captain": "Boosts RCV of [DEX] characters by 5x if HP is below 30% at the start of the turn"
+    "specialName": "네거티브 호로 ‘스위트’",
+    "captain": "남은 체력이 적을 때, DEX캐릭터의 회복력이 5 배가 된다"
   }
 }

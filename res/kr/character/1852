@@ -1,10 +1,10 @@
 {
   "name": "에드워드 뉴게이트, 흰 수염 해적단 선장",
   "detail": {
-    "captain": "Boosts ATK of all characters proportionally to the crew's current HP and their HP by 1.2x",
+    "captain": "일당의 체력이 1.2배, 공격 시작 전 남은 체력이 적을수록 일당의 공격력이 상승한다(최대 2배)",
     "captainNotes": "#{captainProportional : lower : 1 + 1 * (1 - (remaining HP) / (total HP)) : 1 : 2}",
-    "special": "Changes own orb into [INT], deals 100x character's ATK in typeless damage to all enemies that will ignore damage negating abilities and barriers. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, amplifies the effect of orbs by 2x for 1 turn. If enemies have a barrier at the time the special was activated, boosts own ATK by 2.25x",
+    "special": "자신의 슬롯을 [INT]로 바꾼 후, 적 전체에게 모든 방어 효과를 무시하고 캐릭터의 공격력x100배의 무 속성 데미지를 주고, 적이 지연 무효, 상태이상 무효일 때는 1턴 동안 일당의 슬롯 영향을 2배로 증폭시키고, 적이 배리어를 치고 있을 때는 1턴 동안 자신의 공격력이 2.25배가 된다",
     "specialNotes": "#{ignoreBarrier}",
-    "specialName": "The Epicenter of the Halberd"
+    "specialName": "진원의 창"
   }
 }

@@ -1,80 +1,80 @@
 {
   "name": "괴승 우루지 파계승 해적단 선장",
   "detail": {
-    "special": "Boosts own ATK by a variable factor for 1 turn",
-    "specialNotes": "The exact multiplier used is chosen based on the crew's current HP at the time the special is activated: above 50% HP, the multiplier used is 1.5x; between 20% HP and 50% HP, it's 1.75x; below 20% HP, it's 2x.",
-    "specialName": "Precept Deification",
-    "captain": "Boosts ATK of all characters by 2.5x if HP is below 30% at the start of the turn",
+    "special": "1턴간 자신의 공격력을 남은 체력에 따라 상승",
+    "specialNotes": "남은체력이 50%이상일때: 1.5배, 20%이상 50%미만일때: 1.75배, 20%미만일때: 2배",
+    "specialName": "계명의 귀신화",
+    "captain": "남은 체력이 30%이하일때 일당의 공격이 2.5배가 된다.",
     "sailor": {
       "base": "None",
       "level1": "Reduces Paralysis duration on this character by 3 turns"
     },
     "limit": [
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+        "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base HP by 70"
+        "description": "체력 상승 : 70"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 3 turns"
+        "description": "선원 효과 추가 1: Reduces Paralysis duration on this character by 3 turns"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
     "potential": [
       {
-        "Name": "[DEX] Damage Reduction",
+        "Name": "[DEX] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [DEX] characters by 1%",
-          "Level 2: Reduce damage taken from [DEX] characters by 2%",
-          "Level 3: Reduce damage taken from [DEX] characters by 3%",
-          "Level 4: Reduce damage taken from [DEX] characters by 4%",
-          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
-          "Level 1: Boosts base ATK by 20",
-          "Level 2: Boosts base ATK by 50",
-          "Level 3: Boosts base ATK by 100",
-          "Level 4: Boosts base ATK by 150",
-          "Level 5: Boosts base ATK by 200"
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 50",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
         ]
       }
     ],

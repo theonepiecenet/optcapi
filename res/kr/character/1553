@@ -1,79 +1,79 @@
 {
   "name": "해적 용병 하이루딘, 엘바프 ‘신세대’의 전사",
   "detail": {
-    "captain": "Boosts ATK of characters with 40 cost by 2.75x",
-    "special": "Deals 300,000 Fixed damage to one enemy, boosts ATK of characters with 40 cost by 1.75x, reduces enemy Barrier duration by 1 turn",
-    "specialName": "Thunder Giant",
+    "captain": "코스트 40인 캐릭터의 공격력을 2.75배로 만든다",
+    "special": "적 1명에게 고정 데미지 300,000을 주고, 적 전체의 HP 바에 걸려 있는 모든 배리어를 1턴 줄이고, 1턴 동안 코스트 40인 캐릭터의 공격력을 1.75배로 만든다",
+    "specialName": "거인의 천둥",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base HP of all characters by 100"
+      "level1": "일당의 기본 체력이 100 상승한다"
     },
     "limit": [
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+        "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base HP by 80"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base ATK by 60"
+        "description": "공격력 상승 : 60"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base HP of all characters by 100"
+        "description": "선원 효과 추가 1: 일당의 기본 체력이 100 상승한다"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
     "potential": [
       {
-        "Name": "[DEX] Damage Reduction",
+        "Name": "[DEX] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [DEX] characters by 1%",
-          "Level 2: Reduce damage taken from [DEX] characters by 2%",
-          "Level 3: Reduce damage taken from [DEX] characters by 3%",
-          "Level 4: Reduce damage taken from [DEX] characters by 4%",
-          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
-          "Level 1: Boosts base ATK by 20",
-          "Level 2: Boosts base ATK by 30",
-          "Level 3: Boosts base ATK by 40",
-          "Level 4: Boosts base ATK by 50",
-          "Level 5: Boosts base ATK by 100"
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 30",
+          "Level 3: 공격력 상승 : 40",
+          "Level 4: 공격력 상승 : 50",
+          "Level 5: 공격력 상승 : 100"
         ]
       }
     ],

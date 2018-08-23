@@ -1,81 +1,81 @@
 {
   "name": "트레볼, 돈키호테 해적단",
   "detail": {
-    "captain": "Boosts ATK of Cerebral and Driven characters by 2.25x, makes [TND] and [RCV] orbs “beneficial” to Cerebral and Driven characters",
-    "captainNotes": "#{beneficial}",
-    "specialName": "Beto Launcher",
-    "special": "Changes the captain's orb into a matching orb, locks all orbs for 1 turn, deals 13x character's ATK in [INT] damage to all enemies",
+    "captain": "박식, 야심형 캐릭터의 공격이 2.25배가 되고, 박식과 야심타입 캐릭터는 [TND], [RCV] 슬롯을 유리한 슬롯으로 취급한다.",
+    "captainNotes": "유리한 슬롯은 자슬롯과 같은 슬롯효과이다.",
+    "specialName": "찐득찐득 런처",
+    "special": "선장의 슬롯을 자슬롯으로 변환하고, 1턴간 슬롯을 고정하고, 캐릭터의 공격 X13배 [INT] 데미지를 준다.",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of Driven characters by 30",
+      "level1": "야심형 캐릭터의 기본 능력치가 30 상승한다",
       "level2": "Reduces Paralysis duration by 1 turn"
     },
     "limit": [
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Driven characters by 30"
+        "description": "선원 효과 추가 1: 야심형 캐릭터의 기본 능력치가 30 상승한다"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 1: Enrage"
+        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 100"
+        "description": "체력 상승 : 100"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire Sailor Ability 2: Reduces Paralysis duration by 1 turn"
+        "description": "선원 효과 추가 2: Reduces Paralysis duration by 1 turn"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
     "potential": [
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
-          "Level 1: Boosts base ATK by 20",
-          "Level 2: Boosts base ATK by ??",
-          "Level 3: Boosts base ATK by ??",
-          "Level 4: Boosts base ATK by ??",
-          "Level 5: Boosts base ATK by ??"
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : ??"
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
         ]
       }
     ],

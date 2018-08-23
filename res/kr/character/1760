@@ -1,10 +1,10 @@
 {
   "name": "토니토니 쵸파, Celebrate 20th Anniversary Cruise",
   "detail": {
-    "captain": "Boosts ATK of [DEX] and [INT] characters by 2x",
-    "special": "Changes the orbs in the left column into [INT], [RCV] and [DEX], the orbs in the right column into [INT], [PSY] and [DEX]",
-    "sailor": "Restores his own special cooldown by 2 turns when it is rewinded and reduces Silence duration on this character by 2 turns",
+    "captain": "[DEX][INT]캐릭터의 공격력을 2배로 증가시킨다.",
+    "special": "일당의 슬롯을 오른쪽에서 [INT][PSY][DEX], 왼쪽에서 [INT][RCV][DEX]로 변환한다.",
+    "sailor": "자신의 필살기 봉인 상태와 필살기 턴 되감기를 2 턴 회복",
     "sailorNotes": "#{silence}<br>#{rewind : 2}",
-    "specialName": "Intelligent Monster"
+    "specialName": "지혜의 괴물"
   }
 }

@@ -2,8 +2,8 @@
   "name": "키자루, Raging Waves of Light",
   "detail": {
     "captain": {
-      "base": "Boosts ATK of [DEX], [PSY] and [INT] characters by 2x",
-      "level1": "Boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x",
+      "base": "[DEX], [PSY] and [INT]의 공격력을 2배로 만든다",
+      "level1": "[DEX], [PSY] and [INT]의 공격력을 2.25배로 만든다",
       "level2": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x",
       "level3": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x and if there is a [DEX], [PSY] and [INT] character in your crew, boosts chain multiplier by 1.1x",
       "level4": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x and if there is a [DEX], [PSY] and [INT] character in your crew, boosts chain multiplier by 1.2x",
@@ -14,151 +14,151 @@
     "specialName": "Ama no Murakumo",
     "sailor": {
       "base": "None",
-      "level1": "Restores his own special cooldown by 3 turns when it is rewinded",
+      "level1": "Restores his own special by 3 turns when it is rewinded",
       "level2": "Makes [DEX] orbs “beneficial” for all characters"
     },
     "sailorNotes": "#{rewind : 1}<br/>#{beneficial}",
     "limit": [
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "소켓 슬롯 1개 추가"
       },
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Acquire Potential 1: Reduce No Healing duration"
+        "description": "잠재능력 습득 1: 회복 무효 내성"
       },
       {
-        "description": "Acquire new Captain Ability: Boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x"
+        "description": "새로운 선장 효과 습득: Boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x"
       },
       {
-        "description": "Acquire Sailor Ability 1: Restores his own special cooldown by 3 turns when it is rewinded"
+        "description": "선원 효과 추가 1: Restores his own special by 3 turns when it is rewinded"
       },
       {
-        "description": "Boosts base ATK by 15"
+        "description": "공격력 상승 : 15"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Acquire new Captain Ability: Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x"
+        "description": "새로운 선장 효과 습득: Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "소켓 슬롯 1개 추가"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Acquire new Captain Ability: Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x and if there is a [DEX], [PSY] and [INT] character in your crew, boosts chain multiplier by 1.1x"
+        "description": "새로운 선장 효과 습득: Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x and if there is a [DEX], [PSY] and [INT] character in your crew, boosts chain multiplier by 1.1x"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 단축 : 2턴"
       },
       {
-        "description": "Boosts base ATK by 25"
+        "description": "공격력 상승 : 25"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Reduce base Special Cooldown by 3 turns"
+        "description": "필살기 턴 단축 : 3턴"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "소켓 슬롯 1개 추가"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 55"
+        "description": "체력 상승 : 55"
       },
       {
-        "description": "Reduce base Special Cooldown by 4 turns"
+        "description": "필살기 턴 단축 : 4턴"
       },
       {
-        "description": "Acquire new Captain Ability: Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x and if there is a [DEX], [PSY] and [INT] character in your crew, boosts chain multiplier by 1.2x"
+        "description": "새로운 선장 효과 습득: Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x and if there is a [DEX], [PSY] and [INT] character in your crew, boosts chain multiplier by 1.2x"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 55"
+        "description": "체력 상승 : 55"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [DEX] orbs “beneficial” for all characters"
+        "description": "선원 효과 추가 2: Makes [DEX] orbs “beneficial” for all characters"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base RCV by 50"
+        "description": "회복력 상승 : 50"
       },
       {
-        "description": "Reduce base Special Cooldown by 5 turns"
+        "description": "필살기 턴 단축 : 5턴"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "소켓 슬롯 1개 추가"
       },
       {
-        "description": "Acquire new Captain Ability: Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x and if there is a [DEX], [PSY] and [INT] character in your crew, boosts chain multiplier by 1.3x"
+        "description": "새로운 선장 효과 습득: Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x and if there is a [DEX], [PSY] and [INT] character in your crew, boosts chain multiplier by 1.3x"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Acquire new Captain Ability: Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.5x and if there is a [DEX], [PSY] and [INT] character in your crew, boosts chain multiplier by 1.5x"
+        "description": "새로운 선장 효과 습득: Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX], [PSY] and [INT] characters by 2.5x and if there is a [DEX], [PSY] and [INT] character in your crew, boosts chain multiplier by 1.5x"
       },
       {
-        "description": "Acquire Potential 2: Pinch Healing"
+        "description": "잠재능력 습득 2: 긴급 회복"
       }
     ],
     "potential": [
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 2 턴",
+          "Level 3: 회복 무효 상태 회복 : 3 턴",
+          "Level 4: 회복 무효 상태 회복 : 4 턴",
+          "Level 5: 회복 무효 상태 회복 : 5 턴"
         ]
       },
       {
-        "Name": "Pinch Healing",
+        "Name": "긴급 회복",
         "description": [
-          "Level 1: If HP is below 20% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 35% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 .5배 만큼 체력을 회복한다.",
+          "Level 2: 전투 시작 시 체력이 25% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 3: 전투 시작 시 체력이 35% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 4: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 5: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다."
         ]
       }
     ]

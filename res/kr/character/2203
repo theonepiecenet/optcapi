@@ -4,10 +4,7 @@
     "captain": "Boosts ATK of Shooter characters by 2.5x and their RCV by 1.25x",
     "special": "If HP is below 10%, recovers all missing HP. If your Captain is a Driven character, removes Poison and Blindness duration completely and reduces damage received by 50% for 3 turns.",
     "specialName": "Chemical Juggling",
-    "sailor": {
-      "base": "Reduces Silence duration on this character by 3 turns",
-      "level1": "If your Captain is a Driven character, reduces Paralysis duration by 1 turn"
-    },
+    "sailor": "Reduces Silence duration on this character by 3 turns",
     "sailorNotes": "#{silence}",
     "limit": [
       {

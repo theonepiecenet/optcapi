@@ -1,80 +1,80 @@
 {
   "name": "브룩, 흥얼흥얼 눈보라 베기",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit characters by 2.5x and recovers 430 HP at end of each turn",
-    "special": "Delays all enemies for 1 turn and locks all orbs for 1 turn",
-    "specialName": "Song of Scratches: Blizzard Slash",
+    "captain": "자유형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시 체력을 430 회복한다",
+    "special": "적 전체의 공격을 1턴 지연시키고, 일당의 슬롯을 1턴 고정한다",
+    "specialName": "흥얼흥얼 눈보라 베기",
     "sailor": {
       "base": "None",
       "level1": "Boosts base RCV of all characters by 20",
-      "level2": "Boosts this character's attack against [STR] characters by 2x"
+      "level2": "자신이 [STR] 속성에게 주는 일반 공격에 의한 데미지가 2배가 된다"
     },
     "limit": [
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Acquire Potential 1: Critical Hit"
+        "description": "잠재능력 습득 1: 크리티컬 공격"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base HP by 80"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base RCV of all characters by 20"
+        "description": "선원 효과 추가 1: Boosts base RCV of all characters by 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts this character's attack against [STR] characters by 2x"
+        "description": "선원 효과 추가 2: 자신이 [STR] 속성에게 주는 일반 공격에 의한 데미지가 2배가 된다"
       },
       {
-        "description": "Acquire Potential 2: Pinch Healing"
+        "description": "잠재능력 습득 2: 긴급 회복"
       }
     ],
     "potential": [
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a 70% chance to deal 8% of this character's attack in extra damage"
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"
         ]
       },
       {
-        "Name": "Pinch Healing",
+        "Name": "긴급 회복",
         "description": [
-          "Level 1: If HP is below 5% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below ??% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below ??% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below ??% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 20% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 5: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
         ]
       }
     ]

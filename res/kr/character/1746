@@ -1,10 +1,10 @@
 {
   "name": "보아 행콕, 밀짚모자 루피의 협력자",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by a variable factor between 2.5x and 3.25x based on the timing of the attack of the previous unit in the chain and recovers 1,000 HP at end of each turn. Greatly reduces chances of getting [TND] and [RCV] orbs",
+    "captain": "앞 캐릭터의 공격 타이밍에 따라 이후의 사격형 캐릭터의 공격력이 최소 2.5배, 최대 3.25배가 되며, [RCV][TND] 슬롯의 출현율이 대폭 감소하지만, 턴 종료 시 체력을 1,000 회복한다",
     "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2.5x, a Good hit by 2.75x, a Great hit by 3x and a PERFECT hit by 3.25x. This bonus is applied only to Shooter characters.",
-    "special": "Deals 6 hits of 20,000 fixed damage to random enemies, delays all enemies for 1 turn and makes [STR], [DEX], [QCK], [PSY] and [INT] orbs “beneficial” for Shooter characters for 2 turns",
+    "special": "무작위의 적에게 고정 데미지 20,000을 6회 주고, 공격을 1턴 지연시키며, 2턴 동안 사격형 캐릭터의 모든 속성 슬롯을 [유리] 슬롯으로 취급한다",
     "specialNotes": "#{beneficial}",
-    "specialName": "Pistol Kisses"
+    "specialName": "총 키스"
   }
 }

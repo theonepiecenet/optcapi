@@ -7,130 +7,130 @@
     "specialName": "Daybreak Ruler's Spear",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of Striker characters by 70",
-      "level2": "Makes [INT] orbs “beneficial” for this character"
+      "level1": "타격형 캐릭터의 기본 능력치가 70 상승한다",
+      "level2": "자신은 [INT] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Acquire Potential 1: [STR] Damage Reduction"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 15"
+        "description": "체력 상승 : 15"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 25"
+        "description": "체력 상승 : 25"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Striker characters by 70"
+        "description": "선원 효과 추가 1: 타격형 캐릭터의 기본 능력치가 70 상승한다"
       },
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 15"
+        "description": "공격력 상승 : 15"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 35"
+        "description": "체력 상승 : 35"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Acquire Potential 2: [PSY] Damage Reduction"
+        "description": "잠재능력 습득 2: [PSY] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base HP by 45"
+        "description": "체력 상승 : 45"
       },
       {
-        "description": "Boosts base HP by 55"
+        "description": "체력 상승 : 55"
       },
       {
-        "description": "Boosts base HP by 65"
+        "description": "체력 상승 : 65"
       },
       {
-        "description": "Boosts base ATK by 35"
+        "description": "공격력 상승 : 35"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 70"
+        "description": "체력 상승 : 70"
       },
       {
-        "description": "Boosts base HP by 80"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base RCV by 40"
+        "description": "회복력 상승 : 40"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [INT] orbs “beneficial” for this character"
+        "description": "선원 효과 추가 2: 자신은 [INT] 슬롯도 [유리] 슬롯으로 취급한다"
       },
       {
-        "description": "Boosts base ATK by 45"
+        "description": "공격력 상승 : 45"
       },
       {
-        "description": "Boosts base ATK by 55"
+        "description": "공격력 상승 : 55"
       },
       {
-        "description": "Acquire Potential 3: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 3: 슬롯 봉쇄 내성"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] Damage Reduction",
+        "Name": "[STR] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [STR] characters by 2%",
-          "Level 2: Reduce damage taken from [STR] characters by 3%",
-          "Level 3: Reduce damage taken from [STR] characters by 4%",
-          "Level 4: Reduce damage taken from [STR] characters by 5%",
-          "Level 5: Reduce damage taken from [STR] characters by 7%"
+          "Level 1: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 7% 감소시킨다"
         ]
       },
       {
-        "Name": "[PSY] Damage Reduction",
+        "Name": "[PSY] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by 2%",
-          "Level 2: Reduce damage taken from [PSY] characters by 3%",
-          "Level 3: Reduce damage taken from [PSY] characters by 4%",
-          "Level 4: Reduce damage taken from [PSY] characters by 5%",
-          "Level 5: Reduce damage taken from [PSY] characters by 7%"
+          "Level 1: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 2: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 7 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 10 turns on this character",
+          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 10턴 회복한다",
           "Level 5: Reduces Slot Bind completely on this character"
         ]
       }

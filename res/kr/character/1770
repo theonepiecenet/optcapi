@@ -1,9 +1,9 @@
 {
   "name": "벤 베크만, ‘사황’ 빨강 머리의 오른팔",
   "detail": {
-    "captain": "Boosts ATK of Cerebral characters by 2.5x and their HP by 1.2x at the start of the chain and boosts ATK of Cerebral characters by 3.25x following a chain of Good > Great > PERFECT hits",
-    "special": "Delays all enemies for 1 turn. If your Captain is aCerebral Character, boosts ATK against delayed enemies by 1.5x for 1 turn and changes adjacent orbs into Matching Orbs",
-    "specialName": "Restraining Gunpoint",
+    "captain": "박식형 캐릭터의 공격력이 2.5배, 체력이 1.2배가 되며, GOOD→GREAT→PERFECT  판정 이후 같은형 캐릭터의 공격력이 3.25배가 된다",
+    "special": "적 전체의 공격을 1턴 지연시키고 선장이 박식 타입일 경우 1턴 동안 지연 중의 적에게 주는 데미지가 1.5배가 되며, 인접 슬롯이 자속성 슬롯을 변환한다",
+    "specialName": "억제의 총구",
     "sailor": {
       "base": "None",
       "level1": "Reduces Blindness duration by 3 turns",
@@ -11,70 +11,70 @@
     },
     "limit": [
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Acquire Potential 1: Critical Hit"
+        "description": "잠재능력 습득 1: 크리티컬 공격"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Reduces Blindness duration by 3 turns"
+        "description": "선원효과 추가 1: 봉인상태가 3 턴 감소한다."
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "소켓 슬롯 1개 추가"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Acquire Sailor Ability 2: Adds 2x character's ATK as Additional Typeless Damage"
+        "description": "선원효과 추가 2: 캐릭터 공격력의 2배의 무속성 데미지 추가"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
     "potential": [
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a 20% chance to deal 10% of this character's attack in extra damage"
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
         ]
       },
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
-          "Level 1: Boosts base ATK by 30",
-          "Level 2: Boosts base ATK by 50",
-          "Level 3: Boosts base ATK by 80",
-          "Level 4: Boosts base ATK by 100",
-          "Level 5: Boosts base ATK by 150"
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : 50",
+          "Level 3: 공격력 상승 : 80",
+          "Level 4: 공격력 상승 : 100",
+          "Level 5: 공격력 상승 : 150"
         ]
       }
     ],

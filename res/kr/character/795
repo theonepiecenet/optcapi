@@ -1,11 +1,11 @@
 {
   "name": "나이트메어 루피, 희망의 전사",
   "detail": {
-    "special": "Deals 10 hits of random [INT] damage to random enemies, delays all enemies for 1 turn",
+    "special": "무작위의 적에게 [INT] 큰 랜덤 데미지를 10회 주고, 적 전체를 1턴 지연시킨다",
     "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 30,000 : for each hit}",
-    "specialName": "Gum-Gum Storm",
-    "captain": "Boosts ATK of Powerhouse characters by 3.5x, reduces crew's current HP by 10% at the end of each turn, reduces his own ATK multiplier by 0.1x at the end of each turn",
-    "captainNotes": "His ATK multiplier will be 3.5x on the first turn, 3.4x on the second, 3.3x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Powerhouse characters. You will not die to the HP reduction",
+    "specialName": "고무고무 폭풍우",
+    "captain": "강인형 캐릭터의 공격력이 3.5배가 되고, 턴 경과 시마다 공격력과 체력이 감소된다",
+    "captainNotes": "처음 던전 입장시 3배, 첫턴 경과시 2.9배, 두번째턴 2.8배 최소 1배까지 감소.",
     "sailor": {
       "base": "None",
       "level1": "When HP is below ??% at the start of the turn, boosts base ATK of all characters by 40",
@@ -13,70 +13,70 @@
     },
     "limit": [
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 1: 슬롯 봉쇄 내성"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base HP by 80"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Acquire Sailor Ability 1: When HP is below ??% at the start of the turn, boosts base ATK of all characters by 40"
+        "description": "선원 효과 추가 1: When HP is below ??% at the start of the turn, boosts base ATK of all characters by 40"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base ATK by 60"
+        "description": "공격력 상승 : 60"
       },
       {
-        "description": "Reduce base Special Cooldown by 2 turns"
+        "description": "필살기 턴 수 단축: 2"
       },
       {
-        "description": "Acquire Sailor Ability 2: When HP is below ??% at the start of the turn, boosts own base ATK by 80"
+        "description": "선원 효과 추가 2: When HP is below ??% at the start of the turn, boosts own base ATK by 80"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
     "potential": [
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 8턴 회복한다"
         ]
       },
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
-          "Level 1: Boosts base ATK by 50",
-          "Level 2: Boosts base ATK by 75",
-          "Level 3: Boosts base ATK by 100",
-          "Level 4: Boosts base ATK by 150",
-          "Level 5: Boosts base ATK by 200"
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
         ]
       }
     ],

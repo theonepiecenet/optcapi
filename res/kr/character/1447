@@ -1,17 +1,17 @@
 {
   "name": "상디, 그릴 샷",
   "detail": {
-    "captain": "Boosts ATK of Powerhouse characters by 2.5x and reduces damage take by 10%.",
+    "captain": "강인형 캐릭터의 공격력을 2.5배로 만들고, 받는 데미지를 10% 줄인다",
     "special": [
       {
-        "description": "Deals 5,000 fixed damage to all enemies and boosts own ATK by 1.2x for 1 turn.",
+        "description": "적 전체에 고정 데미지 5,000을 주고, 자신의 공격력이 1턴 동안 1.2배가 된다",
         "cooldown": [
           15,
           10
         ]
       },
       {
-        "description": "Deals 50,000 fixed damage to all enemies and boosts own ATK by 1.5x for 1 turn.",
+        "description": "적 전체에 고정 데미지 50,000을 주고, 자신의 공격력이 1턴 동안 1.5배가 된다",
         "cooldown": [
           20,
           15
@@ -19,79 +19,79 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "Grill Shot",
+    "specialName": "그릴 샷",
     "sailor": {
       "base": "None",
-      "level1": "Makes [RCV] orbs “beneficial” for all characters",
-      "level2": "Boosts base ATK, HP and RCV of all characters by 40"
+      "level1": "일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다",
+      "level2": "일당의 기본 능력치가 40 상승한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Acquire Potential 1: [STR] Damage Reduction"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base ATK by 60"
+        "description": "공격력 상승 : 60"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs “beneficial” for all characters"
+        "description": "선원 효과 추가 1: 일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 수 단축: 1"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 90"
+        "description": "체력 상승 : 90"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts base ATK, HP and RCV of all characters by 40"
+        "description": "선원 효과 추가 2: 일당의 기본 능력치가 40 상승한다"
       },
       {
-        "description": "Acquire Potential 2: Pinch Healing"
+        "description": "잠재능력 습득 2: 긴급 회복"
       }
     ],
     "potential": [
       {
-        "Name": "[STR] Damage Reduction",
+        "Name": "[STR] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [STR] characters by 1%",
-          "Level 2: Reduce damage taken from [STR] characters by 2%",
-          "Level 3: Reduce damage taken from [STR] characters by 3%",
-          "Level 4: Reduce damage taken from [STR] characters by 4%",
-          "Level 5: Reduce damage taken from [STR] characters by 5%"
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Pinch Healing",
+        "Name": "긴급 회복",
         "description": [
-          "Level 1: If HP is below 5% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 5% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 5% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 10% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 20% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 2: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 3: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 4: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 5: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
         ]
       }
     ]

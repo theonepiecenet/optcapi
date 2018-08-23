@@ -8,6 +8,28 @@
       "base": "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 30",
       "level1": "Makes [INT] orbs “beneficial” for this character"
     },
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "Boosts base ATK by 15"
@@ -53,28 +75,6 @@
       },
       {
         "description": "Acquire Potential 2: Barrier Penetration"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[INT] Damage Reduction",
-        "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by 2%",
-          "Level 3: Reduce damage taken from [INT] characters by 3%",
-          "Level 4: Reduce damage taken from [INT] characters by 4%",
-          "Level 5: Reduce damage taken from [INT] characters by 5%"
-        ]
-      },
-      {
-        "Name": "Barrier Penetration",
-        "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
       }
     ]
   }

@@ -1,32 +1,32 @@
 {
   "name": "미호크, 스파다우 왕국 폐허",
   "detail": {
-    "captain": "Boosts ATK of Slasher and Cerebral characters by 1.5x",
+    "captain": "참격형과 박식형 캐릭터의 공격력을 1.5배로 만든다",
     "special": [
       {
-        "description": "Reduces crew's current HP by 50%, deals 2x the amount of HP subtracted in typeless damage to all enemies.",
+        "description": "일당의 체력을 50% 감소시켜 적 전체에게 감소치x2배의 무 속성 데미지를 준다",
         "cooldown": [
           15,
           10
         ]
       },
       {
-        "description": "Reduces crew's current HP by 50%, deals 2x the amount of HP subtracted in typeless damage to all enemies. Delays all enemies for 1 turn",
+        "description": "일당의 체력을 50% 감소시켜 적 전체에게 감소치x2배의 무 속성 데미지를 주고, 적 전체의 공격을 1턴 지연시킨다",
         "cooldown": [
           19,
           14
         ]
       },
       {
-        "description": "Reduces crew's current HP by 80%, deals 6x the amount of HP subtracted in typeless damage to all enemies. Delays all enemies for 1 turn",
+        "description": "일당의 체력을 80% 감소시켜 적 전체에게 감소치x6배의 무 속성 데미지를 주고, 적 전체의 공격을 1턴 지연시킨다",
         "cooldown": [
           23,
           18
         ]
       }
     ],
-    "specialName": "A Test Against the Black Blade",
+    "specialName": "흑도에 다다르는 시련",
     "specialNotes": "#{stages}",
-    "sailor": "When HP is below 50% at the start of the turn, boosts own base ATK by 1.25x"
+    "sailor": "남은 체력이 일정 비율 이하일 때, 자신의 기본 공격력이 1.25배가 된다"
   }
 }

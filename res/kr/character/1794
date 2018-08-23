@@ -1,137 +1,137 @@
 {
   "name": "루시, 코리다 콜로세움 우승자",
   "detail": {
-    "captain": "If there is a [STR], [DEX] and [QCK] character in your crew, boosts ATK of [STR], [DEX] and [QCK] characters by 2.75x and their HP by 1.3x, lowers chances of getting [STR] orbs and makes [DEX] and [QCK] orbs “beneficial” to [STR], [DEX] and [QCK] characters. If there are not [PSY] or [INT] characters on your crew, boosts ATK of [STR], [DEX] and [QCK] characters by 3.7125x instead.",
+    "captain": "일당에게 [STR][DEX][QCK]이 있을 때, [STR][DEX][QCK]은 공격력이 2.75배, 체력이 1.3배, [DEX][QCK]슬롯도 유리한 슬롯 취급, [STR]슬롯 출현률 격감, 일당에 [PSY][INT]이 없을 때는 [STR][DEX][QCK]의 공격력이 1.35배 증가 (공격력이 2.75 배가되는 효과와 중복 가능)",
     "captainNotes": "Sabo boosts ATK by 3.7125x if you have [STR], [DEX] and [QCK] type characters and no [PSY] or [INT] characters at all.<br>#{beneficial}",
-    "special": "Boosts ATK of [STR], [DEX] and [QCK] characters by 1.75x for 1 turn. If during that turn you score 4 PERFECT hits, boosts ATK of [STR], [DEX] and [QCK] characters by 2x in the following turn.",
-    "specialName": "Dragon's Claw: Reverse Wave Motion",
+    "special": "1턴 동안 [STR][DEX][QCK]의 공격력이 1.75배, 그 턴 동안 PERFECT 공격 4번 이상 성공하면 다음 턴에 [STR][DEX][QCK]의 공격력이 2배가 된다",
+    "specialName": "용의 발톱·파동 상쇄",
     "sailor": {
       "base": "None",
-      "level1": "Restores his own special cooldown by 2 turns when it is rewinded",
-      "level2": "Boosts base ATK, HP and RCV of [STR], [DEX] and [QCK] characters by 50"
+      "level1": "자신의 필살기 턴 되돌리기를 2턴 회복한다",
+      "level2": "[STR][DEX][QCK] 속성 캐릭터의 기본 능력치가 50 상승한다"
     },
     "sailorNotes": "#{rewind : 2}",
     "limit": [
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Acquire Potential 1: Critical Hit"
+        "description": "잠재능력 습득 1: 크리티컬 공격"
       },
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Acquire Sailor Ability 1: Restores his own special cooldown by 2 turns when it is rewinded"
+        "description": "선원효과 추가 1: 자신의 필살기 턴 되돌리기를 2턴 회복한다"
       },
       {
-        "description": "Boosts base HP by 35"
+        "description": "체력 상승 : 35"
       },
       {
-        "description": "Boosts base HP by 45"
+        "description": "체력 상승 : 45"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base ATK by 15"
+        "description": "공격력 상승 : 15"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "잠재능력 습득 2: 크리티컬 공격"
       },
       {
-        "description": "Boosts base ATK by 25"
+        "description": "공격력 상승 : 25"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "필살기 턴 단축 : 1턴"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base HP by 75"
+        "description": "체력 상승 : 75"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 35"
+        "description": "공격력 상승 : 35"
       },
       {
-        "description": "Boosts base HP by 85"
+        "description": "체력 상승 : 85"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 25"
+        "description": "회복력 상승 : 25"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 35"
+        "description": "공격력 상승 : 35"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts base ATK, HP and RCV of [STR], [DEX] and [QCK] characters by 50"
+        "description": "선원효과 추가 2: [STR][DEX][QCK] 속성 캐릭터의 기본 능력치가 50 상승한다"
       },
       {
-        "description": "Boosts base HP by 100"
+        "description": "체력 상승 : 100"
       },
       {
-        "description": "Boosts base ATK by 40"
+        "description": "공격력 상승 : 40"
       },
       {
-        "description": "Acquire Potential 3: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 3: 슬롯 봉쇄 내성"
       }
     ],
     "potential": [
       {
-        "Name": "Critical Hit",
+        "Name": "크리티컬 공격",
         "description": [
-          "Level 1: If you hit a perfect with this character, there is a 20% chance to deal 3% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a 50% chance to deal 10% of this character's attack in extra damage"
+          "Level 1: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
         ]
       },
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
-          "Level 1: Boosts base ATK by 60",
-          "Level 2: Boosts base ATK by 90",
-          "Level 3: Boosts base ATK by 120",
-          "Level 4: Boosts base ATK by 150",
-          "Level 5: Boosts base ATK by 200"
+          "Level 1: 데미지를 받으면 다음 턴에 자신의 기본 공격력이 60 상승한다",
+          "Level 2: 데미지를 받으면 다음 턴에 자신의 기본 공격력이 90 상승한다",
+          "Level 3: 데미지를 받으면 다음 턴에 자신의 기본 공격력이 120 상승한다",
+          "Level 4: 데미지를 받으면 다음 턴에 자신의 기본 공격력이 150 상승한다",
+          "Level 5: 데미지를 받으면 다음 턴에 자신의 기본 공격력이 200 상승한다"
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "슬롯 봉쇄 내성",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 2: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 7 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 10 turns on this character",
-          "Level 5: Reduces Slot Bind completely on this character"
+          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 10턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 완전히 회복한다"
         ]
       }
     ],

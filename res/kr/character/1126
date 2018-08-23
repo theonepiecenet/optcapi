@@ -1,9 +1,9 @@
 {
   "name": "올럼버스",
   "detail": {
-    "captain": "Boosts ATK and HP of [DEX] characters by 1.5x",
-    "special": "Empties all slots with [BLOCK] orbs, deals severe typeless damage based on number of [BLOCK] slots emptied to all enemies. Changes [EMPTY] orbs into Matching orbs",
-    "specialNotes": "The exact multiplier used is chosen based on the number of [BLOCK] orbs consumed: 0 orbs - Cannot Activate; 1 orb - 20x ATK; 2 orbs - 40x ATK; 3 orbs - 100x ATK; 4 orbs - 200x ATK; 5 orbs - 300x ATK; 6 orbs - 500x ATK.",
-    "specialName": "Admiral Killer Bowling"
+    "captain": "[DEX] 캐릭터의 공격력과 체력을 1.5배로 만든다",
+    "special": "[BLOCK] 슬롯을 소비하여 적 전체에 소비한 [BLOCK] 슬롯의 수에 따라 커지는 무 속성 데미지를 주고, 데미지를 준 후 [공백] 슬롯을 속성이 일치하는 슬롯으로 바꾼다",
+    "specialNotes": "[BLOCK] 슬롯 갯수에 따른 무 속성 데미지량 : 0 슬롯 - 효과 없음; 1 슬롯 - 20배 상승; 2 슬롯 - 40배 상승; 3 슬롯 - 100배 상승; 4 슬롯 - 200배 상승; 5 슬롯 - 300배 상승; 6 슬롯 - 500배 상승.",
+    "specialName": "제독 킬러 볼링"
   }
 }

@@ -2,19 +2,51 @@
   "name": "흰 수염 & 마르코, The Fierce Battle at the Paramount War",
   "detail": {
     "captain": {
-      "character1": "Boosts ATK of [PSY] characters by 3.5x, boosts ATK of all other characters by 2.75x, reduce damage received by 20% and makes [PSY] orbs “beneficial” to all characters",
-      "character2": "Boosts ATK of [INT] characters by 3.5x, boosts ATK of all other characters by 2.75x, boosts RCV of all characters by 1.25x and makes [INT] orbs “beneficial” to all characters",
+      "character1": "Boosts ATK of [PSY] characters by 3.5x, boosts ATK of all other characters by 2.75x, reduce damage received by 15% and makes [PSY] orbs “beneficial” to all characters",
+      "character2": "Boosts ATK of [INT] characters by 3.5x, boosts ATK of all other characters by 2.75x, boosts RCV of all characters by 1.25x and makes [PSY] orbs “beneficial” to all characters",
       "combined": "Boosts ATK of [PSY] and [INT] characters by 4.25x, boosts ATK of all other characters by 3x, boosts RCV of all characters by 1.5x, reduce damage received by 20% and makes [PSY] and [INT] orbs “beneficial” to all characters"
     },
     "special": "Cuts the current HP of each enemy by 30%, recovers 20,000 HP, randomizes all orbs into either [PSY], [INT] or [RCV] orbs and becomes Whitebeard & Marco for 3 turns",
     "specialNotes": "Change Action: When Change is activated, reduces Paralysis and Silence duration by 1 turn, makes [RCV] orbs “beneficial” for all characters for 1 turn and changes their own orb into a [RCV] orb<br>#{beneficial}",
     "specialName": "Immortal Blue Flame Shockwave",
     "sailor": {
-      "character1": "Boosts base ATK of [PSY] and [INT] characters by 75",
+      "character1": "[PSY] and [INT] 속성의 기본 공격력이 75 상승한다",
       "character2": "Boosts base HP and RCV of [PSY] and [INT] characters by 75",
       "combined": "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 100",
       "level1": "Completely resists Paralysis and Silence on this character"
     },
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 10턴 회복한다",
+          "Level 5: Reduces Slot Bind completely on this character"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "Boosts base HP by 40"
@@ -105,38 +137,6 @@
       },
       {
         "description": "Acquire Potential 3: Slot Bind Self-reduction"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[PSY] Damage Reduction",
-        "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by 1%",
-          "Level 2: Reduce damage taken from [PSY] characters by 2%",
-          "Level 3: Reduce damage taken from [PSY] characters by 3%",
-          "Level 4: Reduce damage taken from [PSY] characters by 5%",
-          "Level 5: Reduce damage taken from [PSY] characters by 7%"
-        ]
-      },
-      {
-        "Name": "[INT] Damage Reduction",
-        "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by 2%",
-          "Level 3: Reduce damage taken from [INT] characters by 3%",
-          "Level 4: Reduce damage taken from [INT] characters by 5%",
-          "Level 5: Reduce damage taken from [INT] characters by 7%"
-        ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 3 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 5 turn on this character",
-          "Level 3: Reduces Slot Bind duration by 7 turn on this character",
-          "Level 4: Reduces Slot Bind duration by 10 turn on this character",
-          "Level 5: Reduces Slot Bind completely on this character"
-        ]
       }
     ]
   }

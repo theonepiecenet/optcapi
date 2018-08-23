@@ -1,25 +1,25 @@
 {
   "name": "키자루, 해군 본부 최고 전력",
   "detail": {
-    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of all characters by 2x and boosts RCV of all characters by 1.3x. If you use \"Yasakani no Magatama\" in this turn boosts ATK of all characters by 3x instead.",
-    "specialName": "Yasakani no Magatama",
+    "captain": "모험 시작 시 필살기 턴을 1턴 단축하고, 일당의 공격력이 2배, 회복력이 1.3배가 된다. ‘팔척경곡옥’을 사용한 턴은 일당의 공격력이 3배가 된다",
+    "specialName": "팔척경곡옥",
     "special": [
       {
-        "description": "For Shooter and Slasher characters, randomizes all non-matching orbs. Deals 10 hits of small random typeless damage to random enemies.",
+        "description": "사격형과 참격형의 슬롯을 속성 일치 슬롯 이외는 랜덤으로 바꾸고, 무작위의 적에게 무 속성의 낮은 랜덤 데미지를 10회 준다",
         "cooldown": [
           6,
           3
         ]
       },
       {
-        "description": "For Shooter and Slasher characters, randomizes all non-matching orbs. Recovers 5x character's RCV in HP. Deals 10 hits of random typeless damage to random enemies.",
+        "description": "사격형과 참격형의 슬롯을 속성 일치 슬롯 이외는 랜덤으로 바꾸고, 체력을 소량 회복하며, 무작위의 적에게 무 속성의 랜덤 데미지를 10회 준다",
         "cooldown": [
           12,
           9
         ]
       },
       {
-        "description": "Changes all orbs on Shooter and Slasher characters into Matching orbs. Recovers 10x character's RCV in HP. Deals 10 hits of large random typeless damage to random enemies.",
+        "description": "사격형과 참격형의 슬롯을 속성 일치 슬롯으로 바꾸고, 체력을 중량 회복하며, 무작위의 적에게 무 속성의 큰 랜덤 데미지를 10회 준다",
         "cooldown": [
           20,
           17

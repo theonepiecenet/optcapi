@@ -1,18 +1,18 @@
 {
   "name": "할타",
   "detail": {
-    "captain": "Boosts ATK of Slasher and Cerebral characters by 1.75x. Gives chance of duplicating a drop upon completion of the island.",
+    "captain": "참격형과 박식형의 공격력을 1.75배로 만들고 일정 확률로 모험에서 획득한 보물이 한 개 추가된다(보물 추가 효과는 모험 도중에 선장이 되면 발동되지 않습니다)",
     "captainNotes": "Does not work if he was not your captain upon starting the island. Stacks with other additional drop captains, giving you two chances of getting an extra drop.",
     "special": [
       {
-        "description": "Deals 4x character's ATK in [INT] damage to all enemies. Changes own orb into [INT].",
+        "description": "적 전체에 공격력x4배의 [INT] 데미지를 주고, 자신의 슬롯을 [INT]로 바꾼다",
         "cooldown": [
           8,
           3
         ]
       },
       {
-        "description": "Deals 15x character's ATK in [INT] damage to all enemies. Changes own orb into [INT]. Reduces Special Cooldown of Slasher and Cerebral characters by 1 turn",
+        "description": "적 전체에 공격력x15배의 [INT] 데미지를 주고, 자신의 슬롯을 [INT]로 바꾸며 참격형과 박식형의 필살기 턴을 1턴 단축한다",
         "cooldown": [
           17,
           12
@@ -20,8 +20,8 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "Extreme Speed - One Sword Style, Ten Slashes",
-    "sailor": "Restores his own special cooldown by 1 turn when it is rewinded",
+    "specialName": "신속한 일검류 십자베기",
+    "sailor": "자신의 피랄기 턴 되돌리기를 1턴 회복한다",
     "sailorNotes": "#{rewind : 1}"
   }
 }

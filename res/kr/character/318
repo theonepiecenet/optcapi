@@ -1,9 +1,9 @@
 {
   "name": "미인비서 칼리파",
   "detail": {
-    "special": "Randomizes all orbs into either [DEX] or [STR] orbs, deals random [DEX] damage to all enemies",
-    "specialName": "Beautiful Secretary's Job",
-    "specialNotes": "#{random : 1 : 15,000}",
-    "captain": "Recovers 1,000 HP at end of each turn, reduces damage received by 15%"
+    "special": "모든 슬롯을 [DEX] 혹은 [STR]로 변환시킨다., 모든 적에게 랜덤으로 [DEX] 데미지",
+    "specialName": "미인 비서의 직업",
+    "specialNotes": "랜덤 데미지 1 ~ 15,000",
+    "captain": "턴 종료후 HP 1,000 회복, 적으로부터 받는 데미지 15% 감소"
   }
 }

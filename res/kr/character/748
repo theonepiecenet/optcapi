@@ -1,130 +1,130 @@
 {
   "name": "로브 루치, 역대 최강의 ‘CP9’",
   "detail": {
-    "special": "Deals 35x character's ATK in [STR] damage to one enemy, boosts chances of getting matching orbs for 3 turns",
-    "specialName": "Rokuougan",
-    "captain": "Boosts ATK of Powerhouse characters by 3x if they have a matching orb, by 2.5x otherwise, reduces crew's RCV to 0",
+    "special": "적 1명에게 캐릭터의 공격력x35배의 [STR]  데미지를 주고, 3턴 동안 일당의 속성이 일치하는 슬롯의 출현율이 크게 상승",
+    "specialName": "육왕건",
+    "captain": "슬롯 일치 시에는 강인형 캐릭터의 공격력이 3배, 보통 때는 2.5배가 되고, 일당의 회복력이 0이 된다",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of Powerhouse characters by 30",
-      "level2": "Makes [RCV] and [TND] orbs “beneficial” for Powerhouse characters"
+      "level1": "강인형 캐릭터의 기본 능력치가 30 상승한다",
+      "level2": "강인형 캐릭터는 [RCV] [TND] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base ATK by 5"
+        "description": "공격력 상승 : 5"
       },
       {
-        "description": "Boosts base ATK by 5"
+        "description": "공격력 상승 : 5"
       },
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+        "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Powerhouse characters by 30"
+        "description": "선원 효과 추가 1: 강인형 캐릭터의 기본 능력치가 30 상승한다"
       },
       {
-        "description": "Boosts base RCV by 5"
+        "description": "회복력 상승 : 5"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 15"
+        "description": "회복력 상승 : 15"
       },
       {
-        "description": "Boosts base ATK by 15"
+        "description": "공격력 상승 : 15"
       },
       {
-        "description": "Boosts base ATK by 15"
+        "description": "공격력 상승 : 15"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       },
       {
-        "description": "Boosts base HP by 45"
+        "description": "체력 상승 : 45"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 25"
+        "description": "회복력 상승 : 25"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 25"
+        "description": "공격력 상승 : 25"
       },
       {
-        "description": "Boosts base ATK by 30"
+        "description": "공격력 상승 : 30"
       },
       {
-        "description": "Boosts base ATK by 35"
+        "description": "공격력 상승 : 35"
       },
       {
-        "description": "Boosts base HP by 70"
+        "description": "체력 상승 : 70"
       },
       {
-        "description": "Boosts base HP by 80"
+        "description": "체력 상승 : 80"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [RCV] and [TND] orbs “beneficial” for Powerhouse characters"
+        "description": "선원 효과 추가 2: 강인형 캐릭터는 [RCV] [TND] 슬롯도 [유리] 슬롯으로 취급한다"
       },
       {
-        "description": "Boosts base HP by 90"
+        "description": "체력 상승 : 90"
       },
       {
-        "description": "Boosts base ATK by 50"
+        "description": "공격력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 3: Reduce No Healing duration"
+        "description": "잠재능력 습득 3: 회복 무효 내성"
       }
     ],
     "potential": [
       {
-        "Name": "[DEX] Damage Reduction",
+        "Name": "[DEX] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [DEX] characters by 1%",
-          "Level 2: Reduce damage taken from [DEX] characters by 2%",
-          "Level 3: Reduce damage taken from [DEX] characters by 3%",
-          "Level 4: Reduce damage taken from [DEX] characters by 4%",
-          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
-        "Name": "Enrage",
+        "Name": "피격 시 공격력 상승",
         "description": [
-          "Level 1: Boosts base ATK by 30",
-          "Level 2: Boosts base ATK by 60",
-          "Level 3: Boosts base ATK by 90",
-          "Level 4: Boosts base ATK by 120",
-          "Level 5: Boosts base ATK by 150"
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : 60",
+          "Level 3: 공격력 상승 : 90",
+          "Level 4: 공격력 상승 : 120",
+          "Level 5: 공격력 상승 : 150"
         ]
       },
       {
-        "Name": "Reduce No Healing duration",
+        "Name": "회복 무효 내성",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turns",

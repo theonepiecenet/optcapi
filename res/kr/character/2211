@@ -3,11 +3,11 @@
   "detail": {
     "captain": {
       "base": "Boosts ATK of all characters by 2x, deals 5656 in [PSY] damage to all enemies at the end of each turn and recovers 51 HP at end of each turn",
-      "level1": "Boosts ATK of all characters by 2x, deals 15656 in [PSY] damage to all enemies at the end of each turn and recovers 151 HP at end of each turn",
-      "level2": "Boosts ATK of all characters by 2x, deals 25656 in [PSY] damage to all enemies at the end of each turn and recovers 251 HP at end of each turn",
-      "level3": "Boosts ATK of all characters by 2x, deals 35656 in [PSY] damage to all enemies at the end of each turn and recovers 351 HP at end of each turn",
-      "level4": "Boosts ATK of all characters by 2x, deals 45656 in [PSY] damage to all enemies at the end of each turn and recovers 451 HP at end of each turn",
-      "level5": "Boosts ATK of all characters by 2x, deals 56560 in [PSY] damage to all enemies at the end of each turn and recovers 510 HP at end of each turn",
+      "level1": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+      "level2": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+      "level3": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+      "level4": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+      "level5": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
       "level6": "Boosts ATK of all characters by 2.5x, deals 56560 in [PSY] damage to all enemies at the end of each turn and recovers 510 HP at end of each turn"
     },
     "special": "Deals 565,600 fixed damage to all enemies and locks all orbs for 1 turn.",
@@ -18,6 +18,28 @@
       "level2": "Makes [RCV] orbs “beneficial” for this character"
     },
     "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 50% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 60% chance to deal 7% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 70% chance to deal 8% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 5 turns",
+          "Level 5: Reduces No Healing duration by 7 turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "Acquire 1 additional Socket slot"
@@ -138,28 +160,6 @@
       },
       {
         "description": "Acquire Potential 2: Reduce No Healing duration"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "Critical Hit",
-        "description": [
-          "Level 1: If you hit a perfect with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
-          "Level 2: If you hit a perfect with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a perfect with this character, there is a 50% chance to deal 6% of this character's attack in extra damage",
-          "Level 4: If you hit a perfect with this character, there is a 60% chance to deal 7% of this character's attack in extra damage",
-          "Level 5: If you hit a perfect with this character, there is a 70% chance to deal 8% of this character's attack in extra damage"
-        ]
-      },
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 5 turns",
-          "Level 5: Reduces No Healing duration by 7 turns"
-        ]
       }
     ]
   }

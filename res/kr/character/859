@@ -1,9 +1,9 @@
 {
   "name": "코비, 해군 본부 상사",
   "detail": {
-    "captain": "Boosts ATK of Driven characters by 1.5x, reduces damage received up to 10% depending on the crew's current HP",
-    "specialName": "Pleading at the Risk of One's Life",
-    "special": "Changes adjacent orbs into [RCV] orbs; if the special is activated with more than 50% health remaining, protects from defeat for 1 turn",
+    "captain": "야심형 캐릭터의 공격력이 1.5배가 되고, 남은 체력이 적을수록 받는 데미지를 최대 10%감소시킨다",
+    "specialName": "목숨을 건 중재",
+    "special": "인접한 슬롯을 [RCV]로 바꾸고, 필살기 발동 시의 체력이 50% 이상이면 1턴 동안 공격을 받아도 쓰러지지 않는다",
     "specialNotes": "#{zombie}"
   }
 }

@@ -1,9 +1,9 @@
 {
   "name": "하얀 사냥꾼 스모커, 해군 본부 대령",
   "detail": {
-    "special": "Reduces crew's current HP by 20%, deals 10x the amount of HP subtracted in [INT] damage to one enemy, amplifies the effect of orbs by 1.75x for 1 turn",
-    "specialName": "White Vine",
-    "captain": "Boosts ATK of Striker characters by 2x, reduces damage received up to 30% depending on the crew's current HP",
+    "special": "일당의 체력을 20% 감소시키고, 적 한 명에게 감소치x10배의 [INT] 데미지를 주며, 1턴 동안 슬롯 영향을 상당히 증폭시킨다",
+    "specialName": "화이트 바인",
+    "captain": "타격형 캐릭터의 공격력이 2배가 되고, 남은 체력이 적을수록 받는 데미지를 최대 30%까지 감소시킨다",
     "specialNotes": "#{orb : 1.75x}"
   }
 }
