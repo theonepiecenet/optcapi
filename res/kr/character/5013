@@ -1,14 +1,159 @@
 {
-  "name": "몽키 D. 루피, 쿵후 수행",
+  "name": "[Dual Unit] Zoro, Strawhat Pirates Unmatched Duo",
   "detail": {
-    "captain": "일당의 체력을 약간 상승시키고, PERFECT를 2연속, 5연속 달성 시 이후 캐릭터의 공격력이 3.5배, 약 4배로 상승한다",
-    "special": "캐릭터의 공격력x120배의 무 속성 데미지를 주고, 인접한 슬롯을 속성 일치 슬롯으로 바꾸며, 2턴 동안 일당의 공격력을 1.75배로 만들고, 적 각각에 대하여 5,656을 넘는 부분의 데미지를 초대폭 줄이며, PERFECT 타이밍이 상당히 쉬워진다",
-    "sailor": "GOOD, GREAT, PERFECT 타이밍 보너스에 캐릭터의 공격력x3배의 데미지가 가산된다",
-    "specialName": "고무고무 거인의 라이플: 쿵후",
-    "captainNotes": "",
-    "specialNotes": "",
-    "sailorNotes": "",
-    "limit": "",
-    "potential": ""
+    "captain": "Reduces cooldown of [DEX] and [PSY] specials by 2 turns at the start of the fight. Boosts ATK of [DEX] characters by 2.75x and boosts ATK of [PSY] characters by 2x",
+    "captainNotes": "#{beneficial}",
+    "special": "Deals 30x character's ATK in Typeless damage to one enemy that will ignore damage negating abilities and barriers, amplifies the effect of orbs on [PSY] and [DEX] characters by 2.25x for 1 turn and becomes Sanji & Zoro for 1 turn",
+    "specialNotes": "Change Action: When Change is activated, randomizes all non-matching orbs on [PSY] and [DEX] characters and adds .5x to Chain multiplier for 1 turn<br>#{ignoreBarrier}",
+    "specialName": "Armée de L'Air Power Shoot",
+    "sailor": {
+      "base": "Boosts base ATK of [DEX] characters by 30",
+      "level1": "Makes [TND] orbs “beneficial” for [DEX] and [PSY] characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [TND] orbs “beneficial” for [DEX] and [PSY] characters"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a perfect with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a perfect with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a perfect with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a perfect with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a perfect with this character, there is a 40% chance to deal 7% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 35% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
   }
 }
