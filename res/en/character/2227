@@ -1,0 +1,30 @@
+{
+  "name": "Gifters",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 1.5x",
+    "special": "Makes Badly Matching and BLOCK orbs not reduce damage for 1 turn and deals 5x character's ATK as DEX damage to all enemies at the end of the turn for 2 turns.",
+    "specialName": "Wolf Grip"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": 16,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2227.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2227.png"
+  }
+}

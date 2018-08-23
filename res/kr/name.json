@@ -12269,7 +12269,7 @@
       "PSY"
     ],
     "class": [
-      "Fight1er",
+      "Fighter",
       "Cerebral"
     ],
     "id": 709,
@@ -39057,7 +39057,7 @@
     ]
   },
   {
-    "name": "Donquixote Doflamingo, \"Joker\"",
+    "name": "Donquixote Doflamingo, “Joker”",
     "type": [
       "STR"
     ],
@@ -39076,7 +39076,7 @@
       "Mega Doffy",
       "Donquixote Doflamingo",
       "null",
-      " \"Joker\""
+      " “Joker”"
     ]
   },
   {
@@ -40360,7 +40360,7 @@
     ]
   },
   {
-    "name": "\"Massacre Soldier\" Killer, A Leading Figure Initiating an Alliance",
+    "name": "“Massacre Soldier” Killer, A Leading Figure Initiating an Alliance",
     "type": [
       "INT"
     ],
@@ -40374,7 +40374,7 @@
       "Secret Killer",
       "Killer",
       "null",
-      "\"Massacre Soldier\" Killer",
+      "“Massacre Soldier” Killer",
       " A Leading Figure Initiating an Alliance"
     ]
   },
@@ -40580,11 +40580,11 @@
   {
     "name": "TM Enel",
     "type": [
-      "Unknown"
+      "PSY"
     ],
     "class": [
-      "Unknown",
-      "Unknown"
+      "Striker",
+      "Driven"
     ],
     "id": 2210,
     "aliases": [
@@ -40598,11 +40598,11 @@
   {
     "name": "TM Enel, Evolved",
     "type": [
-      "Unknown"
+      "PSY"
     ],
     "class": [
-      "Unknown",
-      "Unknown"
+      "Striker",
+      "Driven"
     ],
     "id": 2211,
     "aliases": [
@@ -40689,7 +40689,7 @@
     ]
   },
   {
-    "name": "돈키호테 도플라밍고, Country’s Future Hanging by a Thread ",
+    "name": "돈키호테 도플라밍고, 나라를 멸하는 실",
     "type": [
       "INT"
     ],
@@ -40702,11 +40702,11 @@
       "V2 Raid Doffy",
       "V2 Raid Doflamingo",
       "돈키호테 도플라밍고",
-      " Country’s Future Hanging by a Thread "
+      " 나라를 멸하는 실"
     ]
   },
   {
-    "name": "돈키호테 도플라밍고, Plot to Destroy the World",
+    "name": "돈키호테 도플라밍고, 세계를 멸하는 실",
     "type": [
       "INT"
     ],
@@ -40719,7 +40719,45 @@
       "V2 Raid Doffy",
       "V2 Raid Doflamingo",
       "돈키호테 도플라밍고",
-      " Plot to Destroy the World"
+      " 세계를 멸하는 실"
+    ]
+  },
+  {
+    "name": "몽키 D. 루피, 쿵후 수행",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "id": 2502,
+    "aliases": [
+      "Kung Fu Luffy",
+      "KFL",
+      "LINE Luffy",
+      "The Hero Global Needed",
+      "몽키 D. 루피",
+      " 쿵후 수행"
+    ]
+  },
+  {
+    "name": "몽키 D. 루피, 쿵후왕으로의 길",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "id": 2503,
+    "aliases": [
+      "Kung Fu Luffy",
+      "KFL",
+      "LINE Luffy",
+      "The Hero Global Needed",
+      "몽키 D. 루피",
+      " 쿵후왕으로의 길"
     ]
   },
   {
@@ -40747,7 +40785,175 @@
     ]
   },
   {
-    "name": "토니토니 쵸파, 끝나지 않는 꿈의 항로·밀짚모자 일당",
+    "name": "[Dual Unit] Smoker, The Marines Chasing the Strawhats",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Striker",
+      "Driven"
+    ],
+    "id": 5000,
+    "aliases": [
+      "スモーカー 麦わらを追う海兵",
+      "Smoker&Tashigi",
+      "Smoker and Tashigi",
+      "Smoker Tashigi",
+      "SmokerTashigi",
+      "Tashigi&Smoker",
+      "Tashigi and Smoker",
+      "Tashigi Smoker",
+      "TashigiSmoker",
+      "[Dual Unit] Smoker",
+      " The Marines Chasing the Strawhats"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Tashigi, The Marines Chasing the Strawhats",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "id": 5001,
+    "aliases": [
+      "たしぎ 麦わらを追う海兵",
+      "Smoker&Tashigi",
+      "Smoker and Tashigi",
+      "Smoker Tashigi",
+      "SmokerTashigi",
+      "Tashigi&Smoker",
+      "Tashigi and Smoker",
+      "Tashigi Smoker",
+      "TashigiSmoker",
+      "[Dual Unit] Tashigi",
+      " The Marines Chasing the Strawhats"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Smoker & Tashigi, The Marines Chasing the Strawhats",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Striker",
+      "Slasher"
+    ],
+    "id": 5002,
+    "aliases": [
+      "スモーカー＆たしぎ 麦わらを追う海兵",
+      "Smoker&Tashigi",
+      "Smoker and Tashigi",
+      "Smoker Tashigi",
+      "SmokerTashigi",
+      "Tashigi&Smoker",
+      "Tashigi and Smoker",
+      "Tashigi Smoker",
+      "TashigiSmoker",
+      "[Dual Unit] Smoker & Tashigi",
+      " The Marines Chasing the Strawhats"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Smoker & Tashigi, The Marines Chasing the Strawhats",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Striker",
+      "Slasher"
+    ],
+    "id": 5003,
+    "aliases": [
+      "スモーカー＆たしぎ 麦わらを追う海兵",
+      "Smoker&Tashigi",
+      "Smoker and Tashigi",
+      "Smoker Tashigi",
+      "SmokerTashigi",
+      "Tashigi&Smoker",
+      "Tashigi and Smoker",
+      "Tashigi Smoker",
+      "TashigiSmoker",
+      "[Dual Unit] Smoker & Tashigi",
+      " The Marines Chasing the Strawhats"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Monkey D. Luffy, Reunion at War",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "id": 5004,
+    "aliases": [
+      "ルフィ 戦火の再会",
+      "Luffy&Ace",
+      "Luffy and Ace",
+      "Luffy Ace",
+      "LuffyAce",
+      "Ace&Luffy",
+      "Ace and Luffy",
+      "Ace Luffy",
+      "AceLuffy",
+      "[Dual Unit] Monkey D. Luffy",
+      " Reunion at War"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Monkey D. Luffy, Pirates Rising",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "id": 5005,
+    "aliases": [
+      "ルフィ 海賊の高み",
+      "Luffy&Ace",
+      "Luffy and Ace",
+      "Luffy Ace",
+      "LuffyAce",
+      "Ace&Luffy",
+      "Ace and Luffy",
+      "Ace Luffy",
+      "AceLuffy",
+      "[Dual Unit] Monkey D. Luffy",
+      " Pirates Rising"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Portgas D. Ace, Reunion at War",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Free Spirit",
+      "Shooter"
+    ],
+    "id": 5006,
+    "aliases": [
+      "エース 戦火の再会",
+      "Luffy&Ace",
+      "Luffy and Ace",
+      "Luffy Ace",
+      "LuffyAce",
+      "Ace&Luffy",
+      "Ace and Luffy",
+      "Ace Luffy",
+      "AceLuffy",
+      "[Dual Unit] Portgas D. Ace",
+      " Reunion at War"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Portgas D. Ace, Pirates Rising",
     "type": [
       "STR"
     ],
@@ -40766,12 +40972,12 @@
       "Ace and Luffy",
       "Ace Luffy",
       "AceLuffy",
-      "토니토니 쵸파",
-      " 끝나지 않는 꿈의 항로·밀짚모자 일당"
+      "[Dual Unit] Portgas D. Ace",
+      " Pirates Rising"
     ]
   },
   {
-    "name": "토니토니 쵸파, 대해적시대에 대한 맹세 ‘위대한 의사’",
+    "name": "[Dual Unit] Luffy & Ace, Reunion at War",
     "type": [
       "QCK"
     ],
@@ -40790,18 +40996,66 @@
       "Ace and Luffy",
       "Ace Luffy",
       "AceLuffy",
-      "토니토니 쵸파",
-      " 대해적시대에 대한 맹세 ‘위대한 의사’"
+      "[Dual Unit] Luffy & Ace",
+      " Reunion at War"
     ]
   },
   {
-    "name": "돈키호테 도플라밍고, 나라를 멸하는 실",
+    "name": "[Dual Unit] Luffy & Ace, Reunion at War",
     "type": [
-      "INT"
+      "STR"
     ],
     "class": [
-      "Driven",
-      "Cerebral"
+      "Free Spirit",
+      "Fighter"
+    ],
+    "id": 5009,
+    "aliases": [
+      "ルフィ＆エース 戦火の再会",
+      "Luffy&Ace",
+      "Luffy and Ace",
+      "Luffy Ace",
+      "LuffyAce",
+      "Ace&Luffy",
+      "Ace and Luffy",
+      "Ace Luffy",
+      "AceLuffy",
+      "[Dual Unit] Luffy & Ace",
+      " Reunion at War"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Luffy & Ace, Pirates Rising",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "id": 5010,
+    "aliases": [
+      "ルフィ＆エース 海賊の高み",
+      "Luffy&Ace",
+      "Luffy and Ace",
+      "Luffy Ace",
+      "LuffyAce",
+      "Ace&Luffy",
+      "Ace and Luffy",
+      "Ace Luffy",
+      "AceLuffy",
+      "[Dual Unit] Luffy & Ace",
+      " Pirates Rising"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Luffy & Ace, Pirates Rising",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Free Spirit",
+      "Fighter"
     ],
     "id": 5011,
     "aliases": [
@@ -40814,18 +41068,18 @@
       "Ace and Luffy",
       "Ace Luffy",
       "AceLuffy",
-      "돈키호테 도플라밍고",
-      " 나라를 멸하는 실"
+      "[Dual Unit] Luffy & Ace",
+      " Pirates Rising"
     ]
   },
   {
-    "name": "돈키호테 도플라밍고, 세계를 멸하는 실",
+    "name": "[Dual Unit] Sanji, Strawhat Pirates Unmatched Duo",
     "type": [
-      "INT"
+      "PSY"
     ],
     "class": [
-      "Driven",
-      "Cerebral"
+      "Fighter",
+      "Powerhouse"
     ],
     "id": 5012,
     "aliases": [
@@ -40841,18 +41095,18 @@
       "ZoroSanji",
       "TM Sanji",
       "TM Zoro",
-      "돈키호테 도플라밍고",
-      " 세계를 멸하는 실"
+      "[Dual Unit] Sanji",
+      " Strawhat Pirates Unmatched Duo"
     ]
   },
   {
-    "name": "몽키 D. 루피, 쿵후 수행",
+    "name": "[Dual Unit] Zoro, Strawhat Pirates Unmatched Duo",
     "type": [
       "DEX"
     ],
     "class": [
-      "Fighter",
-      "Free Spirit"
+      "Slasher",
+      "Driven"
     ],
     "id": 5013,
     "aliases": [
@@ -40868,18 +41122,18 @@
       "ZoroSanji",
       "TM Sanji",
       "TM Zoro",
-      "몽키 D. 루피",
-      " 쿵후 수행"
+      "[Dual Unit] Zoro",
+      " Strawhat Pirates Unmatched Duo"
     ]
   },
   {
-    "name": "몽키 D. 루피, 쿵후왕으로의 길",
+    "name": "[Dual Unit] Sanji & Zoro, Strawhat Pirates Unmatched Duo",
     "type": [
-      "DEX"
+      "PSY"
     ],
     "class": [
       "Fighter",
-      "Free Spirit"
+      "Slasher"
     ],
     "id": 5014,
     "aliases": [
@@ -40895,8 +41149,35 @@
       "ZoroSanji",
       "TM Sanji",
       "TM Zoro",
-      "몽키 D. 루피",
-      " 쿵후왕으로의 길"
+      "[Dual Unit] Sanji & Zoro",
+      " Strawhat Pirates Unmatched Duo"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Sanji & Zoro, Strawhat Pirates Unmatched Duo",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Fighter",
+      "Slasher"
+    ],
+    "id": 5015,
+    "aliases": [
+      "麦わらの一味の双璧 サンジ&ソロ",
+      "Sanji&Zoro",
+      "Sanji & Zoro",
+      "Sanji and Zoro",
+      "Sanji Zoro",
+      "SanjiZoro",
+      "Zoro&Sanji",
+      "Zoro and Sanji",
+      "Zoro Sanji",
+      "ZoroSanji",
+      "TM Sanji",
+      "TM Zoro",
+      "[Dual Unit] Sanji & Zoro",
+      " Strawhat Pirates Unmatched Duo"
     ]
   },
   {
@@ -40950,7 +41231,7 @@
     ]
   },
   {
-    "name": "[Dual Unit] 마르코, The Foundation of the Paramount War",
+    "name": "[Dual Unit] Marco, The Foundation of the Paramount War",
     "type": [
       "INT"
     ],
@@ -40970,12 +41251,12 @@
       "Marco Whitebeard",
       "MarcoWhitebeard",
       "WBM",
-      "[Dual Unit] 마르코",
+      "[Dual Unit] Marco",
       " The Foundation of the Paramount War"
     ]
   },
   {
-    "name": "[Dual Unit] 마르코, The Fierce Battle at the Paramount War",
+    "name": "[Dual Unit] Marco, The Fierce Battle at the Paramount War",
     "type": [
       "INT"
     ],
@@ -40995,12 +41276,12 @@
       "Marco Whitebeard",
       "MarcoWhitebeard",
       "WBM",
-      "[Dual Unit] 마르코",
+      "[Dual Unit] Marco",
       " The Fierce Battle at the Paramount War"
     ]
   },
   {
-    "name": "[Dual Unit] 흰 수염 & 마르코, The Foundation of the Paramount War",
+    "name": "[Dual Unit] Whitebeard & Marco, The Foundation of the Paramount War",
     "type": [
       "PSY"
     ],
@@ -41020,12 +41301,12 @@
       "Marco Whitebeard",
       "MarcoWhitebeard",
       "WBM",
-      "[Dual Unit] 흰 수염 & 마르코",
+      "[Dual Unit] Whitebeard & Marco",
       " The Foundation of the Paramount War"
     ]
   },
   {
-    "name": "[Dual Unit] 흰 수염 & 마르코, The Foundation of the Paramount War",
+    "name": "[Dual Unit] Whitebeard & Marco, The Foundation of the Paramount War",
     "type": [
       "INT"
     ],
@@ -41045,12 +41326,12 @@
       "Marco Whitebeard",
       "MarcoWhitebeard",
       "WBM",
-      "[Dual Unit] 흰 수염 & 마르코",
+      "[Dual Unit] Whitebeard & Marco",
       " The Foundation of the Paramount War"
     ]
   },
   {
-    "name": "[Dual Unit] 흰 수염 & 마르코, The Fierce Battle at the Paramount War",
+    "name": "[Dual Unit] Whitebeard & Marco, The Fierce Battle at the Paramount War",
     "type": [
       "PSY"
     ],
@@ -41070,12 +41351,12 @@
       "Marco Whitebeard",
       "MarcoWhitebeard",
       "WBM",
-      "[Dual Unit] 흰 수염 & 마르코",
+      "[Dual Unit] Whitebeard & Marco",
       " The Fierce Battle at the Paramount War"
     ]
   },
   {
-    "name": "[Dual Unit] 흰 수염 & 마르코, The Fierce Battle at the Paramount War",
+    "name": "[Dual Unit] Whitebeard & Marco, The Fierce Battle at the Paramount War",
     "type": [
       "INT"
     ],
@@ -41095,7 +41376,7 @@
       "Marco Whitebeard",
       "MarcoWhitebeard",
       "WBM",
-      "[Dual Unit] 흰 수염 & 마르코",
+      "[Dual Unit] Whitebeard & Marco",
       " The Fierce Battle at the Paramount War"
     ]
   },

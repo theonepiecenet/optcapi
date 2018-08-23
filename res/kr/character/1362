@@ -4,6 +4,33 @@
     "captain": "If you have 5 or more Slashers in your crew, boosts ATK of Slasher characters by 2.5x and their HP by 1.5x. If you defeated an enemy last 턴, boosts ATK of Slasher characters by 3x instead and boosts ATK of all other characters by 1.2x",
     "captainNotes": "You only need to kill at least 1 character in the last 턴 to gain his 3x ATK boost. If a character dies and revives, you will retain the 3x ATK boost",
     "special": "Deals 60x character's ATK as typeless damage to all enemies. If Zoro is your Captain or Friend/Guest Captain, boosts ATK of Slasher characters by 2x for 1 turn. If he is a Sailor, boosts ATK of Slasher characters by 1.75x for 1 turn instead",
-    "specialName": "Three Blade Style Secret Skill: Crossroad of Six Paths"
+    "specialName": "Three Blade Style Secret Skill: Crossroad of Six Paths",
+    "sailor": {
+      "base": "None",
+      "level1": "Makes [DEX] orbs beneficial for Slasher characters",
+      "level2": "Makes [TND] orbs beneficial for Slasher characters"
+    },
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      }
+    ]
   }
 }

@@ -1,0 +1,30 @@
+{
+  "name": "Jack, Kaido's Trusted Ally",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.5x and their HP by 1.2x and recovers ?x character's RCV in HP at the end of each turn",
+    "special": "If the HP of the enemy with the highest Maximum HP is above 50%, cuts the current HP of one enemy by 25%, otherwise, deals 120x character's ATK in typeless damage to one enemy.",
+    "specialName": "The Start of Destruction"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 3,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": 18,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2231.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2231.png"
+  }
+}

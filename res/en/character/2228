@@ -1,0 +1,30 @@
+{
+  "name": "Pleasures",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by 1.5x",
+    "special": "Deals 10x character's ATK in [STR] damage to all enemies that will ignore damage negating abilities and barriers and makes PERFECTs easier to hit for 2 turns.",
+    "specialName": "Trembling Destruction"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Powerhouse",
+      "Slasher"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": 13,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2228.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2228.png"
+  }
+}
