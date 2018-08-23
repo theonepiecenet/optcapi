@@ -1,12 +1,12 @@
 {
-  "name": "철인(사이보그)프랑키 발지모어의 영수",
+  "name": "사이보그 프랑키, 벌지모아의 영험한 짐승",
   "detail": {
-    "captain": "Boosts ATK of [STR] characters by 2.25x and their HP by 1.75x",
-    "specialName": "Future Country's Big Incident: The Nightmare of Baldimore",
-    "special": "Reduces damage received from [QCK] enemies by 100% for 1 turn",
+    "captain": "[STR] 캐릭터의 공격력을 2.25배, 체력을 1.75배로 만든다",
+    "specialName": "미래국의 대사건 「벌지모아의 악몽」",
+    "special": "[QCK]의 공격을 1턴 무효화한다",
     "sailor": {
       "base": "None",
-      "level1": "Makes [TND] orbs “beneficial” for this character",
+      "level1": "[TND] 슬롯을 [유리] 슬롯으로 만든다",
       "level2": "자신의 마비 상태를 완전히 회복한다"
     },
     "sailorNotes": "#{beneficial}",

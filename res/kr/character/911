@@ -1,24 +1,24 @@
 {
-  "name": "상디, 카마밧카 왕국의 도망자",
+  "name": "상디, 뉴하프만 왕국의 도주자",
   "detail": {
-    "specialName": "Diable Jambe: Premier Hachis",
+    "specialName": "디아블 잠브 일급 분쇄육",
     "special": [
       {
-        "description": "Deals 13x character's ATK in [DEX] damage to one enemy, boosts ATK of Powerhouse characters by 1.2x for 1 turn",
+        "description": "적 1명에게 캐릭터의 공격력x13배의 [DEX] 데미지를 주고, 1턴 동안 강인형 캐릭터의 공격력을 1.2배로 만든다",
         "cooldown": [
           15,
           8
         ]
       },
       {
-        "description": "Deals 20x character's ATK in [DEX] damage to one enemy, boosts ATK of Powerhouse characters by 2x for 1 turn",
+        "description": "적 1명에게 캐릭터의 공격력x20배의 [DEX] 데미지를 주고, 1턴 동안 강인형 캐릭터의 공격력을 2배로 만든다",
         "cooldown": [
           25,
           18
         ]
       }
     ],
-    "captain": "Boosts ATK and HP of Powerhouse characters by 1.5x",
+    "captain": "강인형 캐릭터의 공격력과 체력을 1.5배로 만든다",
     "specialNotes": "#{stages}"
   }
 }

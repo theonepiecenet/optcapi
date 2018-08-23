@@ -1,9 +1,9 @@
 {
-  "name": "반더 덱켄 9세, Deep Sea Pirate",
+  "name": "반더 덱켄 9세, 심해의 해적",
   "detail": {
     "captain": "일당의 공격력을 1.75배로 만든다",
-    "special": "Locks orbs for 1 turn, amplifies the effect of orbs by 1.5x for 1 turn and deals several times character's ATK in Typeless damage to one enemy",
+    "special": "1턴 동안 일당의 슬롯 영향을 증폭시키고, 슬롯을 고정하며, 적 1명에게 필살기 발동 시 체력이 많을수록 위력이 증폭되는 무 속성의 큰 데미지를 준다",
     "specialNotes": "#{specialProportional : higher : 85 * ( (remaining HP) / (total HP) )}",
-    "specialName": "Shooting at the Heart"
+    "specialName": "하트 저격"
   }
 }

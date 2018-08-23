@@ -1,9 +1,9 @@
 {
   "name": "호디 존스",
   "detail": {
-    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Powerhouse characters by 2.25x if HP is below 30% at the start of the turn",
-    "special": "Deals 15x character's ATK in [STR] damage to all enemies that will ignore damage negating abilities and barriers, makes PERFECTs harder to hit for 1 turn, reduces crew's current HP by 90%, boosts own ATK by 2.25x for 1 turn.",
+    "captain": "모험 시작 시 필살기 턴을 1턴 단축시키고, 강인형의 공격력을 2배, 남은 체력이 적을 때는 강인형의 공격력을 2.25배로 만든다",
+    "special": "적 1명에게 모든 방어 효과를 무시하고 [STR] 큰 데미지를 주며, 일당의 체력을 90% 줄이고, 1턴 동안 PERFECT 타이밍이 상당히 어려워지지만 자신의 공격력을 2.25배로 만든다",
     "specialNotes": "#{ignoreBarrier}",
-    "specialName": "Shark Arrows"
+    "specialName": "수시교"
   }
 }

@@ -1,12 +1,12 @@
 {
   "name": "푸딩, 두 사람을 갈라놓을 죽음의 계획",
   "detail": {
-    "captain": "Boosts ATK of [INT] and Fighter characters by 2.25x and their HP by 1.2x. If you use \"A Broad Smile of Life and Death\" this turn, boosts their ATK by 2.925x instead.",
+    "captain": "[INT] 및 격투형 캐릭터의 공격력을 2.25배, 체력을 1.2배로 만들며, ‘결사의 파안’을 사용한 턴에는 [INT] 및 격투형 캐릭터의 공격력이 1.3배 더 상승한다",
     "captainNotes": "This effect is boosted if you use Sanji's [1960/1961] special in the same turn",
-    "special": "Changes [G], [BLOCK] and Badly Matching orbs into Matching orbs, reduces Bind and Silence duration by 3 turns and locks the chain multiplier at 2.5x for 1 turn",
-    "specialName": "Tears of Attraction",
+    "special": "[G] [BLOCK] [방해] 슬롯을 속성 일치 슬롯으로 바꾸고, 봉쇄 및 필살기 봉쇄 상태를 3턴 회복하며, 1턴 동안 체인 계수를 2.5배로 고정한다",
+    "specialName": "매혹적인 눈물",
     "specialNotes": "#{silence}",
-    "sailor": "Reduces Silence duration on this character by 3 turns",
+    "sailor": "자신의 필살기 봉쇄 상태를 3턴 회복한다",
     "sailorNotes": "#{silence}"
   }
 }

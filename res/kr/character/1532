@@ -1,37 +1,37 @@
 {
   "name": "갓 우솝",
   "detail": {
-    "captain": "Boosts ATK of all characters by 1.5x if HP is below 50% or by 1.75x 전투 시작 시 체력이 30% 미만이면. Makes [STR], [DEX], [QCK], [PSY], [INT], [RCV], and [TND] orbs “beneficial” to all characters.",
+    "captain": "일당의 [STR] [DEX] [QCK] [PSY] [INT] [RCV] [TND] 슬롯을 [유리] 슬롯으로 취급하며, 남은 체력이 50% 이하일 때 일당의 공격력이 1.5배, 30% 이하일 때 1.75배가 된다",
     "captainNotes": "#{beneficial}",
     "special": [
       {
-        "description": "Delays all enemies for 3 turns",
+        "description": "적 전체의 공격을 3턴 지연시킨다",
         "cooldown": [
           13,
           10
         ]
       },
       {
-        "description": "Delays all enemies for 4 turns, adds 0.2x to Chain multiplier for 4 turns",
+        "description": "적 전체의 공격을 4턴 지연시키고, 4턴 동안 체인 계수가 +0.2가 된다",
         "cooldown": [
           18,
           15
         ]
       },
       {
-        "description": "Delays all enemies for 5 turns, adds 0.3x to Chain multiplier for 4 turns",
+        "description": "적 전체의 공격을 5턴 지연시키고, 4턴 동안 체인 계수가 +0.3이 된다",
         "cooldown": [
           24,
           21
         ]
       }
     ],
-    "specialNotes": "#{stages}",
     "sailor": {
-      "base": "Completely resists Blindness",
+      "base": "일당의 의성어 은폐 상태를 완전히 회피한다",
       "level1": "사격형 캐릭터의 기본 체력이 100 상승한다"
     },
-    "specialName": "Long-Range Attack: Bagworm",
+    "specialNotes": "#{stages}",
+    "specialName": "원거리 배그웜",
     "limit": [
       {
         "description": "공격력 상승 : 15"

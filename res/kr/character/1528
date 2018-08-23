@@ -1,11 +1,11 @@
 {
   "name": "블렌하임, 흰 수염 해적단 9번대 대장",
   "detail": {
-    "captain": "Boosts ATK of Powerhouse characters by 2.25x",
-    "special": "Reduces Despair duration by 2 turns, makes STR, [DEX] and [QCK] orbs “beneficial” to Powerhouse characters for 1 turn if HP is below 30% at the start of the turn",
-    "specialNotes": "#{beneficial}",
+    "specialName": "강력한 도우미",
+    "special": "선장효과 무효 상태를 2턴 회복하고, 필살기 발동 시의 체력이 적을 때 1턴 동안 강인형 캐릭터는 [STR] [DEX] [QCK] 슬롯을 [유리] 슬롯으로 취급한다",
     "sailor": "자신은 [TND] 슬롯도 [유리] 슬롯으로 취급한다",
-    "sailorNotes": "#{beneficial}",
-    "specialName": "Australian Army Aid Blade"
+    "captain": "강인형 캐릭터의 공격력을 2.25배로 만든다",
+    "specialNotes": "#{beneficial}",
+    "sailorNotes": "#{beneficial}"
   }
 }

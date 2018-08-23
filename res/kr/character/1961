@@ -1,11 +1,11 @@
 {
   "name": "상디, 두 사람을 갈라놓을 죽음의 계획",
   "detail": {
-    "captain": "Boosts ATK of [PSY] and Fighter characters by 2.25x and their HP by 1.2x. If you use \"Tears of Attraction\" this turn, boosts their ATK by 2.925x instead.",
+    "captain": "[PSY] 및 격투형 캐릭터의 공격력을 2.25배, 체력을 1.2배로 만들며, ‘매혹적인 눈물’을 사용한 턴에는 [PSY] 및 격투형 캐릭터의 공격력이 1.3배 더 상승한다",
     "captainNotes": "This effect is boosted if you use Charlotte Pudding's [1962/1963] special in the same turn",
-    "special": "Changes [RCV], [TND] and [BOMB] orbs into Matching orbs, reduces Special Cooldown of 강인형 and Fighter specials by 1 turn and delays all enemies by 1 turn",
-    "specialName": "A Broad Smile of Life and Death",
-    "sailor": "Restores his own special by 3 turns when it is rewinded",
+    "special": "[RCV] [TND] [BOMB] 슬롯을 속성 일치 슬롯으로 바꾸고, 격투형 및 강인형 캐릭터의 필살기 턴을 1턴 단축하며, 적 전체의 공격을 1턴 지연시킨다",
+    "specialName": "결사의 파안",
+    "sailor": "자신의 필살기 턴 되돌리기를 3턴 회복한다",
     "sailorNotes": "#{rewind : 3}"
   }
 }
