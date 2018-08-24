@@ -15,38 +15,6 @@
       "combined": "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 100",
       "level1": "Completely resists Paralysis and Silence on this character"
     },
-    "potential": [
-      {
-        "Name": "[PSY] 데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 10턴 회복한다",
-          "Level 5: Reduces Slot Bind completely on this character"
-        ]
-      }
-    ],
     "limit": [
       {
         "description": "Boosts base HP by 40"
@@ -137,6 +105,38 @@
       },
       {
         "description": "Acquire Potential 3: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 10턴 회복한다",
+          "Level 5: Reduces Slot Bind completely on this character"
+        ]
       }
     ]
   }

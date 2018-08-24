@@ -8,28 +8,6 @@
       "base": "When any other [PSY] or [INT] character uses a special, reduces own cooldown by 3 turns",
       "level1": "Makes [TND] orbs “beneficial” for [PSY] and [INT] characters"
     },
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turn",
-          "Level 3: Reduces No Healing duration by 3 turn",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
-        ]
-      }
-    ],
     "limit": [
       {
         "description": "Boosts base RCV by 10"
@@ -75,6 +53,28 @@
       },
       {
         "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
       }
     ]
   }
