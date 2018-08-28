@@ -1,10 +1,10 @@
 {
   "name": "전사 레오, 용감한 소인족",
   "detail": {
-    "captain": "Boosts ATK of Striker characters by 2.5x and their HP by 1.2x at the start of the chain. Boosts ATK of Striker characters by 3.25x after scoring 3 PERFECTs in a row.",
-    "special": "Reduce 3 turns of paralysis, randomize non-matching orbs, including [BLOCK] orbs, Adds 65x character's ATK as Additional Typeless Damage for 1 turn, when the captain is a Striker Character reduces enemies Percent Damage Reduction duration by 3 turns",
+    "captain": "일당의 마비 상태를 3턴 회복하고, 속성 일치 슬롯 이외를 랜덤으로 바꾸며([BLOCK]도 변환 가능), 1턴 동안 GOOD, GREAT, PERFECT 공격 시 필살기를 사용한 캐릭터의 공격력x65배의 무 속성 데미지를 가산하고, 선장이 타격형 캐릭터일 경우 적의 데미지 감소 상태([DAMAGE REDUCTION]는 대상 외)를 3턴 줄인다",
+    "special": "타격형 캐릭터의 공격력을 2.5배, 체력을 1.2배, PERFECT 3연속 달성 시 이후 일당의 공격력이 1.3배 더 상승한다",
     "sailor": {
-      "base": "If this character has an [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn",
+      "base": "자신의 PERFECT 공격 성공 시 자신의 [INT] 슬롯이 다음 턴에도 출현한다",
       "level1": "Makes [PSY] orbs “beneficial” for this unit"
     },
     "sailorNotes": "#{beneficial}",

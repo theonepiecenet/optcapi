@@ -1,13 +1,13 @@
 {
   "name": "빈스모크 이치디, 과학전투부대 제르마 66",
   "detail": {
-    "captain": "[STR]캐릭터의 공격력이 2.25배 증가, 강인 캐릭터의 공격력이 1.3배 증가하고 체력이 1.2배 증가한다.(효과 중복가능)",
+    "captain": "[STR]과 강인형 캐릭터의 공격력을 각각 2.25배, 1.3배로 만들고, 강인형 캐릭터의 체력을 1.2배로 만든다",
     "captainNotes": "Attack boost stacks, so a [STR] 강인형 character has a 2.925x ATK",
-    "special": "선장이 [STR] 또는 [PSY] 캐릭터인 경우, 2턴 동안 체인 계수를 2.5배로 고정하고 선장이 강인 캐릭터인 경우 2턴 동안 적의 공격을 지연 시킨다.",
     "specialName": "마제스틱 임팩트",
+    "special": "선장이 [STR] 또는 [PSY]일 때 2턴 동안 체인 계수가 2.5배로 고정되고, 선장이 강인형일 때 적 전체의 공격을 2턴 지연시킨다",
     "sailor": {
-      "base": "PSY슬롯도 [유리] 슬롯으로 취급한다.",
-      "level1": "Boosts base ATK of all characters by 50"
+      "base": "자신은 [PSY] 슬롯도 [유리] 슬롯으로 취급한다",
+      "level1": "일당의 공격력을 50 상승한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
