@@ -1,0 +1,36 @@
+{
+  "name": "Smoothie",
+  "detail": {
+    "captain": "Boosts ATK of all characters by ?x following a chain of Good > Great > PERFECT hits and recovers ? HP at end of each turn",
+    "special": "Recovers 5,000, removes Poison, reduces Paralysis, Bind, Despair and Burn duration by 2 turns, changes adjacent orbs into Matching Orbs and switches orbs between slots three times",
+    "specialNotes": "We don't know what Burn is yet.",
+    "specialName": "Human Juicer",
+    "sailor": "Boosts base ATK of characters in the top row by 50"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": null,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2238,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2237.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2237.png"
+  }
+}

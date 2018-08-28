@@ -12392,7 +12392,7 @@
     ]
   },
   {
-    "name": "코니스 스카이피아의 소녀",
+    "name": "코니스, 스카이피아의 소녀",
     "type": [
       "PSY"
     ],
@@ -12403,7 +12403,9 @@
     "aliases": [
       "コニス スカイピアの少女",
       "코니스 스카이피아의 소녀",
-      "Konis"
+      "Konis",
+      "코니스",
+      " 스카이피아의 소녀"
     ]
   },
   {
@@ -40721,7 +40723,7 @@
     ]
   },
   {
-    "name": "Summer Conis",
+    "name": "Summer 코니스",
     "type": [
       "DEX"
     ],
@@ -40733,11 +40735,11 @@
     "aliases": [
       "Konis",
       "null",
-      "Summer Conis"
+      "Summer 코니스"
     ]
   },
   {
-    "name": "Conis, The Angel Frolicking by the Beachside",
+    "name": "코니스, The Angel Frolicking by the Beachside",
     "type": [
       "DEX"
     ],
@@ -40749,7 +40751,7 @@
     "aliases": [
       "Konis",
       "null",
-      "Conis",
+      "코니스",
       " The Angel Frolicking by the Beachside"
     ]
   },
@@ -40926,7 +40928,7 @@
     ]
   },
   {
-    "name": "Capone “Gang” Bege, Big Mom Pirates",
+    "name": "카포네 갱 벳지, Big Mom Pirates",
     "type": [
       "INT"
     ],
@@ -40938,7 +40940,7 @@
     "aliases": [
       "Capone Bege",
       "null",
-      "Capone “Gang” Bege",
+      "카포네 갱 벳지",
       " Big Mom Pirates"
     ]
   },
@@ -40958,7 +40960,7 @@
     ]
   },
   {
-    "name": "Jack, Kaido's Trusted Ally",
+    "name": "잭, Kaido's Trusted Ally",
     "type": [
       "STR"
     ],
@@ -40970,11 +40972,12 @@
     "aliases": [
       "Jack",
       "null",
+      "잭",
       " Kaido's Trusted Ally"
     ]
   },
   {
-    "name": "Kami Enel, Return to “Fairy Vearth”",
+    "name": "갓 에넬, Return to “Fairy Vearth”",
     "type": [
       "QCK"
     ],
@@ -40990,8 +40993,207 @@
       "Mega Eneru",
       "Eneru",
       "null",
-      "Kami Enel",
+      "갓 에넬",
       " Return to “Fairy Vearth”"
+    ]
+  },
+  {
+    "name": "빅 맘",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "id": 2233,
+    "aliases": [
+      "Legend Big Mom",
+      "Legend Charlotte Linlin",
+      "Charlotte Linlin",
+      "null",
+      "빅 맘"
+    ]
+  },
+  {
+    "name": "빅 맘, Four Emperors",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "id": 2234,
+    "aliases": [
+      "Legend Big Mom",
+      "Legend Charlotte Linlin",
+      "Charlotte Linlin",
+      "null",
+      "빅 맘",
+      " Four Emperors"
+    ]
+  },
+  {
+    "name": "브룩",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "id": 2235,
+    "aliases": [
+      "Legend Brook",
+      "Brook",
+      "null",
+      "브룩"
+    ]
+  },
+  {
+    "name": "\"Soul King\" Brook, The Soul's Special Live",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "id": 2236,
+    "aliases": [
+      "Legend Brook",
+      "Brook",
+      "null",
+      "\"Soul King\" Brook",
+      " The Soul's Special Live"
+    ]
+  },
+  {
+    "name": "Smoothie",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "id": 2237,
+    "aliases": [
+      "Charlotte Smoothie",
+      "null",
+      "Smoothie"
+    ]
+  },
+  {
+    "name": "Sweet Commander Smoothie, Big Mom Pirates",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "id": 2238,
+    "aliases": [
+      "Charlotte Smoothie",
+      "null",
+      "Sweet Commander Smoothie",
+      " Big Mom Pirates"
+    ]
+  },
+  {
+    "name": "Perospero",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "id": 2239,
+    "aliases": [
+      "Charlotte Perospero",
+      "null",
+      "Perospero"
+    ]
+  },
+  {
+    "name": "Perospero, Charlotte Family's Eldest Son",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "id": 2240,
+    "aliases": [
+      "Charlotte Perospero",
+      "Perospero",
+      " Charlotte Family's Eldest Son"
+    ]
+  },
+  {
+    "name": "Cracker",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Slasher",
+      "Striker"
+    ],
+    "id": 2241,
+    "aliases": [
+      "Charlotte Cracker",
+      "Cracker"
+    ]
+  },
+  {
+    "name": "Thousand Arm Cracker, Big Mom Pirates",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Slasher",
+      "Striker"
+    ],
+    "id": 2242,
+    "aliases": [
+      "Charlotte Cracker",
+      "Thousand Arm Cracker",
+      " Big Mom Pirates"
+    ]
+  },
+  {
+    "name": "Daifuku",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "id": 2243,
+    "aliases": [
+      "Charlotte Daifuku",
+      "Daifuku"
+    ]
+  },
+  {
+    "name": "Daifuku, Charlotte Family's 3rd Son",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "id": 2244,
+    "aliases": [
+      "Charlotte Daifuku",
+      "Daifuku",
+      " Charlotte Family's 3rd Son"
     ]
   },
   {

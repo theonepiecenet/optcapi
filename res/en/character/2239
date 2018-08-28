@@ -1,0 +1,36 @@
+{
+  "name": "Perospero",
+  "detail": {
+    "captain": "Boosts ATK of characters with cost 50 or greater by ?x and their HP and RCV by ?x",
+    "special": "Locks all orbs for 1 turn, cuts the current HP of one enemy by 10%, reduces Special Cooldown of all characters by 1 turn and boosts the Color Affinity of [STR], [DEX] and [QCK] characters by 1.75x for 1 turn",
+    "specialName": "Candy Maiden",
+    "sailor": "Restores his own special cooldown by 2 turns when it is rewinded",
+    "sailorNotes": "#{rewind : 2}"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": null,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2240,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2239.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2239.png"
+  }
+}

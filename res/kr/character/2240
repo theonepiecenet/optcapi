@@ -1,0 +1,35 @@
+{
+  "name": "Perospero, Charlotte Family's Eldest Son",
+  "detail": {
+    "captain": "Boosts ATK of characters with cost 50 or greater by 3.5x and their HP and RCV by 1.2x",
+    "special": "Locks all orbs for 1 turn, cuts the current HP of one enemy by 10%, reduces Special Cooldown of all characters by 1 turn and boosts the Color Affinity of [STR], [DEX] and [QCK] characters by 1.75x for 1 turn",
+    "specialName": "Candy Maiden",
+    "sailor": {
+      "base": "Restores his own special cooldown by 2 turns when it is rewinded",
+      "level1": "Boosts base ATK and HP of all characters by 50 if your Captain is a [STR], [DEX] or [QCK] character"
+    },
+    "sailorNotes": "#{rewind : 2}",
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by ? turn",
+          "Level 2: Reduces No Healing duration by ? turns",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Double Special Activation",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
+          "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
+        ]
+      }
+    ]
+  }
+}

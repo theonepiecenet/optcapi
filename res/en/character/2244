@@ -1,0 +1,61 @@
+{
+  "name": "Daifuku, Charlotte Family's 3rd Son",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.5x and reduces damage received by 20%",
+    "special": "Reduces enemy's Percent Damage Reduction, End of Turn Heal, Increased Defense and Resilience Buffs duration by 2 turns, changes own orb into [QCK] and deals 30x character's ATK in [QCK] damage to all enemies",
+    "specialName": "Genie-uine Rage Split",
+    "sailor": {
+      "base": "Boosts base HP of all characters by 75",
+      "level1": "Makes [DEX] orbs \"beneficial\" for this character"
+    },
+    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      },
+      {
+        "Name": "Double Special Activation",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
+          "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 3000,
+    "maxATK": 1300,
+    "maxRCV": 200
+  },
+  "cooldown": null,
+  "evolve": {
+    "evolution": 2244,
+    "evolvers": [],
+    "from": 2243
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2244.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2244.png"
+  }
+}
