@@ -1,10 +1,10 @@
 {
-  "name": "‘주먹의 가프’, 해군 본부 중장",
+  "name": "주먹 가프, 해군본부 중장",
   "detail": {
-    "captain": "Boosts ATK of [STR] and [PSY] characters by 2.5x",
-    "special": "Deals 30x character's ATK in [STR] damage to all enemies that will ignore damage negating abilities and barriers. Delays all enemies for 1 turn. Reduces the defense of all enemies by 80% for 1 turn.",
-    "specialNotes": "#{ignoreBarrier}",
+    "specialName": "초 특대 철구",
+    "special": "적 전체에 방어 효과를 무시하고 공격력x30배의 [STR]데미지를 주며, 1턴 동안 적 전체를 지연시켜 방어력을 크게 줄인다",
     "sailor": "일당의 기본 체력이 75 상승한다",
-    "specialName": "Super Large Iron Ball"
+    "captain": "[STR] 캐릭터와 [PSY] 캐릭터의 공격력이 2.5배가 된다",
+    "specialNotes": "#{ignoreBarrier}"
   }
 }

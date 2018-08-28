@@ -1,11 +1,11 @@
 {
   "name": "바이올렛, 도발의 바캉스",
   "detail": {
-    "captain": "Boosts ATK and RCV of Cerebral characters by 1.5x",
-    "special": "Reduces Silence duration by 2 턴. If your HP is below 30%, changes top row into Matching Orbs",
-    "specialName": "Passionate Look, 'I'm a Bad Guy...'",
+    "specialName": "정열적인 눈빛 「못난 남자구나…」",
+    "special": "필살기 봉쇄 상태를 2턴 회복하고, 남은 체력이 적을 때 상단 슬롯을 속성 일치 슬롯으로 바꾼다",
+    "sailor": "자신의 필살기 봉쇄 상태를 2턴 회복한다",
+    "captain": "박식형 캐릭터의 공격력과 회복력을 1.5배로 만든다",
     "specialNotes": "#{silence}",
-    "sailor": "Reduces Silence duration against this unit by 2 턴",
     "sailorNotes": "#{silence}"
   }
 }

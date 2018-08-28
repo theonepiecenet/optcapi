@@ -1,17 +1,17 @@
 {
   "name": "전사 레오, 톤타타족 톤타 병단",
   "detail": {
-    "captain": "Boosts ATK of characters with cost 20 or less by 2.5x",
+    "captain": "코스트 20 이하 캐릭터의 공격력을 2.5배로 만든다",
     "special": [
       {
-        "description": "Deals 3x character's ATK as [DEX] damage to one enemy, change own orb into [DEX]",
+        "description": "적 1명에게 공격력x3배의 [DEX] 데미지를 주고, 자신의 슬롯을 [DEX]로 바꾼다",
         "cooldown": [
           11,
           4
         ]
       },
       {
-        "description": "Deal 15x character's ATK as [DEX] damage to one enemy, changes own and friend's orb into Matching orbs",
+        "description": "적 1명에게 공격력x13배의 [DEX] 데미지를 주고, 자신과 친구 선장 또는 조력자 선장의 슬롯을 속성 일치 슬롯으로 바꾼다",
         "cooldown": [
           19,
           12
@@ -19,6 +19,6 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "Tail Hammer"
+    "specialName": "꼬리 해머"
   }
 }

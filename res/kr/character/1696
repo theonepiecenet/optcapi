@@ -1,13 +1,13 @@
 {
   "name": "귀죽 베르고, 돈키호테 패밀리 최고 간부",
   "detail": {
-    "captain": "Boosts ATK of Striker characters by 2.5x and reduces damage received by 10%",
-    "special": "Deals 50x character's ATK in [DEX] damage to one enemy, amplifies the effect of orbs for Striker characters by 1.75x for 1 turn and reduces damage received by 50% for 1 turn",
-    "specialName": "The Darkest Demon",
+    "specialName": "순흑의 도깨비",
+    "special": "적 1명에게 공격력x50배의 [DEX] 데미지를 주고, 1턴 동안 타격형 캐릭터의 슬롯의 영향을 상당히 크게 증폭시키고, 1턴 동안 받는 데미지를 50% 감소시킨다",
     "sailor": {
       "base": "None",
       "level1": "타격형 캐릭터의 기본 능력치가 25 상승한다"
     },
+    "captain": "타격형 캐릭터의 공격력을 2.5배로 만들고, 받는 데미지를 10% 감소시킨다",
     "limit": [
       {
         "description": "공격력 상승 : 20"

@@ -1,11 +1,11 @@
 {
-  "name": "로브 루치, 대해적 시대의 사투 [어둠의 정의]",
+  "name": "로브 루치, 대해적 시대의 사투 ‘어둠의 정의’",
   "detail": {
-    "captain": "Boosts ATK of Fighter characters by 2.5x and their HP by 1.25x",
-    "special": "Cuts the current HP of each enemy by 10%, reduces the defense of all enemies by 50% and amplifies the effects of orbs by 1.75x for 1 turn",
-    "specialName": "4000 Power Level Technique: Tempest Kick",
+    "captain": "격투형 캐릭터의 공격력이 2.5배, 체력이 1.25배가 된다",
+    "specialName": "4000 도력의 체기 「람각」",
+    "special": "적 전체의 HP를 10% 줄이고, 1턴 동안 적 전체의 방어력을 50% 줄이고, 1턴 동안 슬롯 영향을 상당히 증폭시킨다",
     "sailor": {
-      "base": "Adds 2x character's ATK as Additional Typeless Damage",
+      "base": "GOOD, GREAT, PERFECT 공격 시 캐릭터의 공격력x2배의 데미지를 추가한다",
       "level1": "If this character has a [DEX] orb and you hit a Perfect with him, keep his [DEX] orb for the next turn"
     },
     "sailorNotes": "#{additionalDamage : 2x}",

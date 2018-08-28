@@ -1,31 +1,31 @@
 {
-  "name": "매의 눈 미호크, The Black Blade [Yoru]",
+  "name": "매의 눈 미호크, 흑도 ‘요루’",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters by a variable factor between 1.5x and 3.5x based on the timing of the attack of the previous unit in the chain",
+    "captain": "앞 캐릭터의 공격 타이밍에 따라 이후 참격형 캐릭터의 공격력이 최소 1.5배, 최대 3.5배가 된다",
     "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 1.5x, a Good hit by 2x, a Great hit by 2.75x and a PERFECT hit by 3.5x. This bonus is applied only to Slasher characters.",
     "special": [
       {
-        "description": "Deals 30% of the damage dealt in the previous turn as typeless damage to all enemies",
+        "description": "이전 턴에 적에게 준 일반 공격에 의한 총 데미지의 30%를 무 속성 데미지로 적 전체에게 준다(추가 데미지 등으로 적을 전멸시키고 다음 배틀로 이동할 시, 이전 턴에 일반 공격으로 준 총 데미지 합계치는 0으로 계산)",
         "cooldown": [
           18,
           12
         ]
       },
       {
-        "description": "Deals 60% of the damage dealt in the previous turn as typeless damage to all enemies",
+        "description": "이전 턴에 적에게 준 일반 공격에 의한 총 데미지의 60%를 무 속성 데미지로 적 전체에게 준다(추가 데미지 등으로 적을 전멸시키고 다음 배틀로 이동할 시, 이전 턴에 일반 공격으로 준 총 데미지 합계치는 0으로 계산)",
         "cooldown": [
           24,
           18
         ]
       }
     ],
-    "specialNotes": "The special only includes the damage inflicted through normal attacks. If the enemy dies by End-Of-Turn damage, your inflicted Damage dealt last turn will be 0.<br>#{stages}",
-    "specialName": "Flash of [Yoru]",
     "sailor": {
       "base": "None",
       "level1": "참격형 캐릭터의 기본 체력이 120 상승한다",
       "level2": "참격형 캐릭터의 기본 공격력이 50 상승한다"
     },
+    "specialNotes": "The special only includes the damage inflicted through normal attacks. If the enemy dies by End-Of-Turn damage, your inflicted Damage dealt last turn will be 0.<br>#{stages}",
+    "specialName": "「요루」의 번뜩임",
     "limit": [
       {
         "description": "체력 상승 : 5"

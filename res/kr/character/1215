@@ -1,9 +1,9 @@
 {
   "name": "가이람, 월드 해적단",
   "detail": {
-    "captain": "Boosts ATK by 2.5x following a chain of [QCK] > [PSY] > [DEX] attacks no lower than Good",
-    "special": "Deals 5 hits of 2,000 fixed damage to random enemies and reduces any damage received above 5,000 HP by 80% for 1 turn",
-    "specialNotes": "#{randomHits : 5}",
-    "specialName": "Totem Cube"
+    "specialName": "토템 큐브",
+    "special": "무작위의 적에게 고정 데미지 2,000을 5번 주고, 1턴 동안 적 1명당 5,000이 넘는 부분의 데미지를 대폭 줄인다",
+    "captain": "[QCK]→[PSY]→[DEX] 속성의 캐릭터 순으로 GOOD 이상 공격 시 이후 캐릭터의 공격력이 2.5배가 된다",
+    "specialNotes": "#{randomHits : 5}"
   }
 }

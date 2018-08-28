@@ -1,9 +1,9 @@
 {
-  "name": "코알라, 혁명군 어인공수도 사범 대리",
+  "name": "코알라, 혁명군·어인공수도 대리 사범",
   "detail": {
-    "captain": "Boosts chain multiplier by 2x. Recovers 2x character's RCV in HP at the end of each 턴",
-    "special": "Deals 11x character's ATK in [STR] damage to one enemy. Adds 15x character's ATK as Additional Typeless Damage for 1 turn",
-    "specialNotes": "#{additionalDamage : 15x}",
-    "specialName": "Fishman Karate, Midair Upwards Kick"
+    "specialName": "Fishman Karate, Midair Upwards Kick",
+    "special": "적 1명에게 캐릭터의 공격력x11배의 [STR] 데미지를 주고, 1턴 동안 GOOD, GREAT, PERFECT공격 시 필살기를 사용한 캐릭터의 공격력x15배의 무 속성 데미지를 가산한다",
+    "captain": "체인 계수 증가량을 2배로 만들고, 턴 종료 시 캐릭터의 회복력x2배의 체력을 회복한다",
+    "specialNotes": "#{additionalDamage : 15x}"
   }
 }

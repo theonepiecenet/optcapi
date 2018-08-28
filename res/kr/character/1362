@@ -1,10 +1,10 @@
 {
   "name": "롤로노아 조로, 신생 밀짚모자 일당",
   "detail": {
-    "captain": "If you have 5 or more Slashers in your crew, boosts ATK of Slasher characters by 2.5x and their HP by 1.5x. If you defeated an enemy last 턴, boosts ATK of Slasher characters by 3x instead and boosts ATK of all other characters by 1.2x",
     "captainNotes": "You only need to kill at least 1 character in the last 턴 to gain his 3x ATK boost. If a character dies and revives, you will retain the 3x ATK boost",
-    "special": "Deals 60x character's ATK as typeless damage to all enemies. If Zoro is your Captain or Friend/Guest Captain, boosts ATK of Slasher characters by 2x for 1 turn. If he is a Sailor, boosts ATK of Slasher characters by 1.75x for 1 turn instead",
-    "specialName": "Three Blade Style Secret Skill: Crossroad of Six Paths",
+    "specialName": "삼도류 비기 육도의 갈림길",
+    "special": "적 전체에게 공격력x60배의 무 속성 데미지를 주고, 1턴 동안 참격형 캐릭터의 공격력이 자신이 선장 또는 조력자 선장 또는 친구 선장일 때는 2배, 선원일 때는 1.75배가 된다",
+    "captain": "일당에 참격형이 5명 이상이면 참격형의 공격력을 2.5배, 체력을 1.5배로 만들 뿐만 아니라 이전 턴에서 적을 1명이라도 격파했으면 참격형의 공격력이 3배가 되고 참격형이 아닌 캐릭터의 공격력이 1.2배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Makes [DEX] orbs beneficial for Slasher characters",

@@ -1,5 +1,5 @@
 {
-  "name": "스트로베리 해군 본부 중장",
+  "name": "스트로베리 해군본부 중장",
   "detail": {
     "special": "적 1체에 일당 체력이 적을수록 [PSY] 큰 데미지",
     "specialNotes": "#{specialProportional : lower : 125 * ( 1 - (remaining HP) / (total HP) )}",

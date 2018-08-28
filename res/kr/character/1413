@@ -1,9 +1,9 @@
 {
   "name": "흰 수염, 사황",
   "detail": {
-    "captain": "Boosts ATK of all characters by 3x if HP is below 30% at the start of the turn, 1.75x otherwise and boosts the HP of all characters by 1.2x",
-    "special": "Cuts the current HP of each enemy by 30%, reduces special cooldown of all non-Captain specials by 1 turn and randomizes non-matching orbs including [BLOCK] orbs.",
-    "specialName": "Emperor's Pride",
+    "captain": "일당의 체력을 약간 상승시키고 남은 체력이 적을 때 일당의 공격력을 3배, 그 이외일 때는 공격력을 1.75배로 만든다",
+    "specialName": "사황 ‘흰 수염’ 긍지 높은 뒷모습",
+    "special": "선원의 필살기 턴을 1턴 단축하고 적 전체의 HP를 30% 줄이며, 속성 일치 슬롯을 제외한 슬롯을 랜덤으로 바꾼다([BLOCK] 슬롯 포함)",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK of Striker and Powerhouse characters by 60",

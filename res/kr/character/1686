@@ -1,13 +1,13 @@
 {
   "name": "우솝, 20th Anniversary Memorial Treasure",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by 3.25x following a chain of Good > Great > PERFECT hits",
-    "special": "Changes [EMPTY] orbs into Matching orbs, changes Badly Matching orbs into [RCV] orbs and delays all enemies for 1 turn",
-    "specialName": "Green Star: Bamboo Javelin-Grove",
+    "specialName": "초록성 죽창림",
+    "special": "[EMPTY] 슬롯을 속성 일치 슬롯으로, [불리] 슬롯을 [RCV] 슬롯으로 바꾸고, 적 전체의 공격을 1턴 지연시킨다",
     "sailor": {
-      "base": "Reduces Silence duration on this character by 4 turns",
+      "base": "자신의 필살기 봉쇄 상태를 4턴 회복한다",
       "level1": "Boosts base ATK and HP of Shooter characters by 50"
     },
+    "captain": "GOOD→GREAT→PERFECT 순으로 공격한 후부터 사격형 캐릭터의 공격력이 3.25배가 된다",
     "sailorNotes": "#{silence}",
     "limit": [
       {
