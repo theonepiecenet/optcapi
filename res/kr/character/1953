@@ -2,10 +2,10 @@
   "name": "코알라, You’re My Valentine",
   "detail": {
     "captain": "[INT]의 공격력을 2.75배로 만든다",
-    "special": "Reduces Bind and Despair duration by 3 turns and changes own orb into [RCV]. If your Captain is a Cerebral character, adds .7x to Chain multiplier for 1 turn and changes bottom row orbs into matching orbs",
-    "specialName": "Vigorous Straight Fist",
+    "specialName": "혈기 왕성한 정권",
+    "special": "봉쇄, 선장효과 무효 상태를 3턴 회복하고 자신의 슬롯을 [RCV] 슬롯으로 바꾸며, 선장이 박식형일 경우 1턴동안 체인 계수가 +0.7 되고 하단의 슬롯을 속성 일치 슬롯으로 바꾼다",
     "sailor": {
-      "base": "If this character has a [RCV] orb and you hit a PERFECT with her, keep her [RCV] orb for the next turn",
+      "base": "자신의 PERFECT 공격 성공 시 자신의 [RCV] 슬롯이 다음 턴에도 유지된다",
       "level1": "Boosts base ATK, HP and RCV of Fighter and Cerebral characters by 35"
     },
     "limit": [

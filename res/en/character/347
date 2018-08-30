@@ -14,7 +14,31 @@
     "maxRCV": 22
   },
   "cooldown": null,
-  "evolve": [],
+  "evolve": {
+    "evolution": [
+      347,
+      347,
+      347
+    ],
+    "evolvers": [
+      [
+        115,
+        105,
+        105
+      ],
+      [
+        78,
+        105,
+        105
+      ],
+      [
+        89,
+        105,
+        105
+      ]
+    ],
+    "from": 342
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0347.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0347.png"

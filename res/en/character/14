@@ -39,7 +39,24 @@
       ]
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": [
+      14,
+      15
+    ],
+    "evolvers": [
+      [
+        115,
+        81
+      ],
+      [
+        115,
+        81,
+        98
+      ]
+    ],
+    "from": 13
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0014.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0014.png"
