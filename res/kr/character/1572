@@ -1,9 +1,11 @@
 {
   "name": "완다",
   "detail": {
-    "captain": "Boosts ATK of Cerebral characters by 2x, and their RCV by 1.2x",
-    "special": "Randomly changes all orbs, including [BLOCK] orbs into [STR], [DEX], [QCK], [INT], or [PSY] orbs, boosts ATK of Cerebral characters by 1.75x for 3 turns",
-    "sailor": "Reduces Paralysis duration by 1 턴",
-    "specialName": "Ruler's Aide Flight"
+    "specialName": "날개치는 왕의 새",
+    "special": "[BLOCK] 슬롯을 포함하여 모든 슬롯을 속성 슬롯으로 랜덤으로 바꾸고, 3턴 동안 박식형 캐릭터의 공격력이 1.75배가 된다",
+    "sailor": [
+      "일당의 마비 상태를 1턴 회복한다"
+    ],
+    "captain": "박식형 캐릭터의 공격력을 2배, 회복력을 1.2배로 만든다"
   }
 }

@@ -4,50 +4,53 @@
     "captain": "Boosts ATK of Shooter characters by 2.5x and their RCV by 1.25x",
     "special": "If HP is below 10%, recovers all missing HP. If your Captain is a Driven character, removes Poison and Blindness duration completely and reduces damage received by 50% for 3 turns.",
     "specialName": "Chemical Juggling",
-    "sailor": "Reduces Silence duration on this character by 3 turns",
+    "sailor": {
+      "base": "Reduces Silence duration on this character by 3 turns",
+      "level1": "If your Captain is a Driven character, reduces Paralysis duration by 1 turn"
+    },
     "sailorNotes": "#{silence}",
     "limit": [
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "회복력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 20"
+        "description": "체력 상승 : 20"
       },
       {
         "description": "Acquire Potential 1: Slot Bind Self-reduction"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "체력 상승 : 40"
       },
       {
-        "description": "Boosts base ATK by 25"
+        "description": "공격력 상승 : 25"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Boosts base ATK by 25"
+        "description": "공격력 상승 : 25"
       },
       {
         "description": "Acquire Sailor Ability 1: If your Captain is a Driven character, reduces Paralysis duration by 1 turn"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "Boosts base HP by 60"
+        "description": "체력 상승 : 60"
       },
       {
-        "description": "Boosts base ATK by 45"
+        "description": "공격력 상승 : 45"
       },
       {
         "description": "Acquire Potential 2: Barrier Penetration"

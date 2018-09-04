@@ -1,0 +1,39 @@
+{
+  "name": "Nefertari Vivi, The Princess' Resolve",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters proportionally to the crew's current HP, by 3.25x at max and recovers 1.5x character's RCV in HP at the end of each turn",
+    "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : 3.25 : ?}",
+    "special": "Reduces Special Cooldown of all characters by 1 turn and changes [BLOCK] and adjacent orbs into [RCV] orbs. If during that turn, you hit 2 PERFECTS, locks the chain multiplier at 3x for 3 turns.",
+    "specialName": "The Mark of Friendship",
+    "sailor": {
+      "base": "Reduces Silence duration by 1 turn",
+      "level1": "Makes [RCV] orbs \"beneficial\" for all characters"
+    },
+    "sailorNotes": "#{beneficial}"
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Free Spirit",
+      "Slasher"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2058,
+    "maxATK": 1299,
+    "maxRCV": 375
+  },
+  "cooldown": [
+    16,
+    11
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2247.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2247.png"
+  }
+}

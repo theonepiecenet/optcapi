@@ -1,12 +1,12 @@
 {
   "name": "나미, You’re My Valentine",
   "detail": {
-    "captain": "Boosts ATK of Cerebral Characters by 3x if they have a matching orb, by 2x otherwise",
-    "special": "Cuts the current HP of all enemies by 10% and changes own orb into [RCV]. Boosts ATK of Cerebral characters by 1.75x for 1 turn. If during that turn you score 5 PERFECT hits, boosts ATK of Cerebral characters by 2.25x in the following turn.",
-    "specialName": "Thunder Trap",
+    "captain": "박식형 캐릭터의 공격력을 평상시 2배, 슬롯 일치 시 3배로 만든다",
+    "specialName": "썬더 트랩",
+    "special": "적 전체의 HP를 10% 줄이고, 자신의 슬롯을 [RCV] 슬롯으로 바꾸며, 1턴 동안 박식형 캐릭터의 공격력을 1.75배로 만들고 필살기를 쓴 턴 내에 PERFECT 공격을 5번 성공하면 다음 턴에 박식형 캐릭터의 공격력이 2.25배가 된다",
     "sailor": {
-      "base": "If this character has a [RCV] orb and you hit a PERFECT with her, keep her [RCV] orb for the next turn",
-      "level1": "Makes [QCK] orbs “beneficial” for Cerebral characters"
+      "base": "자신의 PERFECT 공격 성공 시 자신의 [RCV] 슬롯이 다음 턴에도 유지된다",
+      "level1": "박식형 캐릭터는 [QCK] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [

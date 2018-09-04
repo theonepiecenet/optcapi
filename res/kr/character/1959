@@ -1,13 +1,13 @@
 {
   "name": "시라호시, You’re My Valentine",
   "detail": {
-    "captain": "Boosts ATK of all characters by 2.25x and reduce damage received by 15%.",
-    "special": "Reduces Paralysis and Silence  and ATK DOWN duration by 5 turns, recovers 7,000 HP at the end of the turn for 3 turns and changes orbs in the top row into Matching orbs",
-    "specialName": "An Important Confession from the Mermaid Princess",
+    "specialName": "인어공주의 소중한 고백",
+    "special": "마비, 필살기 봉쇄, 공격력 감소 상태를 5턴 회복하고, 3턴동안 턴 종료 시 체력을 7000 회복하며, 상단 슬롯을 속성 일치 슬롯으로 바꾼다",
     "sailor": {
-      "base": "Completely resists Silence on this character",
-      "level1": "Changes all orbs into [RCV] orbs at the start of the fight"
+      "base": "자신은 필살기 봉쇄 상태를 완전히 회피한다",
+      "level1": "모험 시작 시 모든 슬롯을 [RCV] 슬롯으로 바꾼다(같은 효과 중복 시엔 하나만 효과 발동)"
     },
+    "captain": "일당의 공격력을 2.25배로 만들고 받는 데미지를 15% 감소시킨다",
     "sailorNotes": "#{silence}",
     "limit": [
       {
