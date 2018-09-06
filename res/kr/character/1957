@@ -1,9 +1,9 @@
 {
   "name": "캐럿, You’re My Valentine",
   "detail": {
-    "captain": "Boosts ATK of [STR] characters by 2.5x and their RCV by 1.25x",
-    "special": "Reduces Chain Multiplier Limit and Chain Coefficient Reduction duration by 3 turns and locks the chain multiplier at 2.75x for 1 turn",
-    "specialName": "Hopping Crash",
+    "captain": "[STR]의 공격력을 2.5배, 회복력을 1.25배로 만든다",
+    "specialName": "호핑 크래시",
+    "special": "체인 계수 증가량 감소 상태와 체인 계수 고정 상태를 2턴 회복하고, 1턴 동안 체인 계수를 2.75배로 고정한다",
     "sailor": {
       "base": "일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다",
       "level1": "Adds 2.5x character's ATK as Additional Typeless Damage"

@@ -1,11 +1,11 @@
 {
-  "name": "스쿼드, 배신의 “아들”",
+  "name": "스쿼드, 배신자 ‘아들’",
   "detail": {
-    "captain": "Boosts ATK of Driven characters by 2x",
-    "special": "Deals 40x character's ATK in [DEX] damage to one enemy that will ignore damage negating abilities and barriers, makes PERFECTs easier to hit for 1 turn and adds .5x to Chain multiplier for 1 turn",
-    "specialNotes": "#{ignoreBarrier}",
-    "specialName": "Piercing Hatred",
-    "sailor": "Makes [PSY] and [INT] orbs “beneficial” for this unit",
-    "sailorNotes": "#{beneficial}"
+    "specialName": "꿰뚫은 증오",
+    "special": "적 1명에게 모든 방어 효과를 무시하고 캐릭터의 공격력x40배의 [DEX] 데미지를 주고, 1턴 동안 PERFECT 타이밍이 상당히 쉬워지며, 1턴 동안 체인 계수가 +0.5가 된다",
+    "sailor": "자신은 [PSY][INT] 슬롯도 [유리] 슬롯으로 취급한다",
+    "captain": "야심형 캐릭터의 공격력을 2배로 만든다",
+    "sailorNotes": "#{beneficial}",
+    "specialNotes": "#{ignoreBarrier}"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Charlotte Pudding",
   "detail": {
-    "captain": "Boosts ATK of Cerebral characters by ?x and their RCV by ?x",
+    "captain": "Boosts ATK of Cerebral characters by 1.75x",
     "special": "Recovers 7,000 HP, Reduces crew's ATK DOWN and enemy's Resilience Buffs duration by 5 turns and changes adjacent orbs into Matching Orbs",
     "specialName": "Eyes Hiding Shyness",
     "sailor": "Reduces Paralysis duration by 1 turn"
@@ -14,7 +14,7 @@
     ],
     "stars": 4,
     "cost": 13,
-    "combo": null,
+    "combo": 6,
     "slots": 2,
     "level": 50,
     "exp": 392109,
@@ -28,7 +28,13 @@
   ],
   "evolution": {
     "evolution": 2213,
-    "evolvers": []
+    "evolvers": [
+      117,
+      78,
+      89,
+      89,
+      100
+    ]
   },
   "evolve": [],
   "image": {

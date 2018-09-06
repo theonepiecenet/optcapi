@@ -3,6 +3,7 @@
   "detail": {
     "captain": "Boosts ATK, HP and RCV of all characters by 1.75x",
     "special": "Removes Poison, reduces RCV DOWN duration by 10 turns, boosts RCV of all characters by 1.5x for 1 turn and reduces Special Cooldown of your top row by 1 turn.",
+    "sailor": "Restores her own special cooldown by 5 turns when it is rewinded",
     "specialName": "Angel Cruising"
   },
   "unit": {
@@ -18,7 +19,7 @@
     "level": 99,
     "exp": 3000000,
     "maxHP": 1693,
-    "maxATK": 763,
+    "maxATK": 762,
     "maxRCV": 463
   },
   "cooldown": [

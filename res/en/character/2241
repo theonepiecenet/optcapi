@@ -1,7 +1,7 @@
 {
-  "name": "Cracker",
+  "name": "Charlotte Cracker, Biscuit Knight",
   "detail": {
-    "captain": "Boosts ATK of [STR], [DEX] and [QCK] characters by ?x and their HP by ?x",
+    "captain": "Boosts ATK of [STR], [DEX] and [QCK] characters by 2x and their HP by 1.2x",
     "special": "If your Captain is a [STR], [DEX] or [QCK] character, boosts ATK of [STR], [DEX] and [QCK] characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for [STR], [DEX] and [QCK] characters for 1 turn and changes [BLOCK] orbs into Matching orbs. If your Captain is a [PSY] or [INT] character, boosts ATK of [STR], [DEX] and [QCK] characters by 1.75x for 3 turns and amplifies the effect of orbs by 1.75x for [STR], [DEX] and [QCK] characters for 3 turns and changes all orbs into [G] orbs.",
     "specialName": "Infinite Biscuit Soldiers",
     "sailor": "Boosts this character's attack against [DEX] characters by 2x"
@@ -14,18 +14,27 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
-    "slots": null,
+    "combo": 6,
+    "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1280,
+    "maxATK": 670,
+    "maxRCV": 98
   },
-  "cooldown": null,
+  "cooldown": [
+    21,
+    15
+  ],
   "evolution": {
     "evolution": 2242,
-    "evolvers": []
+    "evolvers": [
+      94,
+      1180,
+      100,
+      101,
+      102
+    ]
   },
   "evolve": [],
   "image": {

@@ -9,25 +9,72 @@
       "level1": "Makes [DEX] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs \"beneficial\" for this character"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 2: Double Special Activation"
+      }
+    ],
     "potential": [
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
         ]
       },
       {
         "Name": "Double Special Activation",
         "description": [
-          "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
-          "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
+          "Level 1: Once per an adventure, reduce own Special Cooldown by ? turn after the first time this special is used",
+          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
         ]
       }
     ]
@@ -44,11 +91,14 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": 3000,
-    "maxATK": 1300,
-    "maxRCV": 200
+    "maxHP": 3054,
+    "maxATK": 1288,
+    "maxRCV": 206
   },
-  "cooldown": null,
+  "cooldown": [
+    13,
+    7
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2244.png",

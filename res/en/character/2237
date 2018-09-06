@@ -1,7 +1,7 @@
 {
-  "name": "Smoothie",
+  "name": "Charlotte Smoothie",
   "detail": {
-    "captain": "Boosts ATK of all characters by ?x following a chain of Good > Great > PERFECT hits and recovers ? HP at end of each turn",
+    "captain": "Boosts ATK of all characters by 3x following a chain of Good > Great > PERFECT hits and recovers 300 HP at end of each turn",
     "special": "Recovers 5,000, removes Poison, reduces Paralysis, Bind, Despair and Burn duration by 2 turns, changes adjacent orbs into Matching Orbs and switches orbs between slots three times",
     "specialNotes": "We don't know what Burn is yet.",
     "specialName": "Human Juicer",
@@ -15,18 +15,27 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
-    "slots": null,
+    "combo": 5,
+    "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1232,
+    "maxATK": 689,
+    "maxRCV": 100
   },
-  "cooldown": null,
+  "cooldown": [
+    16,
+    10
+  ],
   "evolution": {
     "evolution": 2238,
-    "evolvers": []
+    "evolvers": [
+      266,
+      95,
+      1180,
+      300,
+      100
+    ]
   },
   "evolve": [],
   "image": {

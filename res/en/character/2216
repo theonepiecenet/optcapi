@@ -1,8 +1,9 @@
 {
-  "name": "Summer Conis",
+  "name": "Conis, Relaxing at Angel Beach",
   "detail": {
-    "captain": "Boosts ATK, HP and RCV of all characters by ?x",
+    "captain": "Boosts ATK, HP and RCV of all characters by 1.5x",
     "special": "Removes Poison, reduces RCV DOWN duration by 10 turns, boosts RCV of all characters by 1.5x for 1 turn and reduces Special Cooldown of your top row by 1 turn.",
+    "sailor": "Restores her own special cooldown by 5 turns when it is rewinded",
     "specialName": "Angel Cruising"
   },
   "unit": {
@@ -13,7 +14,7 @@
     ],
     "stars": 4,
     "cost": 13,
-    "combo": null,
+    "combo": 6,
     "slots": 2,
     "level": 50,
     "exp": 392109,
@@ -27,7 +28,13 @@
   ],
   "evolution": {
     "evolution": 2217,
-    "evolvers": []
+    "evolvers": [
+      117,
+      86,
+      91,
+      97,
+      102
+    ]
   },
   "evolve": [],
   "image": {

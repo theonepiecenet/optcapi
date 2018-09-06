@@ -2,7 +2,7 @@
   "name": "Nefertari Vivi, The Princess' Resolve",
   "detail": {
     "captain": "Boosts ATK of Free Spirit characters proportionally to the crew's current HP, by 3.25x at max and recovers 1.5x character's RCV in HP at the end of each turn",
-    "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : 3.25 : ?}",
+    "captainNotes": "#{captainProportional : higher : 1 + 2.25 * ((remaining HP) / (total HP)) : 3.25 : 1}",
     "special": "Reduces Special Cooldown of all characters by 1 turn and changes [BLOCK] and adjacent orbs into [RCV] orbs. If during that turn, you hit 2 PERFECTS, locks the chain multiplier at 3x for 3 turns.",
     "specialName": "The Mark of Friendship",
     "sailor": {

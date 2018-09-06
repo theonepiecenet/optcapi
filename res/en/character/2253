@@ -1,0 +1,33 @@
+{
+  "name": "Pound, Lola and Chiffon's Father",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 2x. If you use \"A Bizzare Encounter\" in this turn boosts ATK of Free Spirit characters by 2.6x instead.",
+    "special": "Locks all orbs for 1 turn and amplifies the effects of orbs for characters in the middle and bottom row by 1.5x for 3 turns. If your Captain is a Free Spirit character, randomizes all non-matching orbs.",
+    "specialName": "A Bizzare Encounter"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": null,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "maxHP": 2002,
+    "maxATK": 1006,
+    "maxRCV": 281
+  },
+  "cooldown": [
+    18,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2253.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2253.png"
+  }
+}

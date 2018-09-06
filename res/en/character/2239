@@ -1,7 +1,7 @@
 {
-  "name": "Perospero",
+  "name": "Charlotte Perospero",
   "detail": {
-    "captain": "Boosts ATK of characters with cost 50 or greater by ?x and their HP and RCV by ?x",
+    "captain": "Boosts ATK of characters with cost 50 or higher by 3x and their HP and RCV by 1.1x",
     "special": "Locks all orbs for 1 turn, cuts the current HP of one enemy by 10%, reduces Special Cooldown of all characters by 1 turn and boosts the Color Affinity of [STR], [DEX] and [QCK] characters by 1.75x for 1 turn",
     "specialName": "Candy Maiden",
     "sailor": "Restores his own special cooldown by 2 turns when it is rewinded",
@@ -15,18 +15,27 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
-    "slots": null,
+    "combo": 6,
+    "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 897,
+    "maxATK": 632,
+    "maxRCV": 193
   },
-  "cooldown": null,
+  "cooldown": [
+    15,
+    10
+  ],
   "evolution": {
     "evolution": 2240,
-    "evolvers": []
+    "evolvers": [
+      118,
+      83,
+      86,
+      97,
+      102
+    ]
   },
   "evolve": [],
   "image": {

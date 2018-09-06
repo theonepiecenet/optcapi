@@ -17,11 +17,14 @@
     "slots": 2,
     "level": 70,
     "exp": 355666,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1080,
+    "maxATK": 480,
+    "maxRCV": 302
   },
-  "cooldown": 9,
+  "cooldown": [
+    9,
+    6
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2220.png",

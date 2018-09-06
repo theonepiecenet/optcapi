@@ -1,0 +1,30 @@
+{
+  "name": "Homies",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 1.5x",
+    "special": "Boosts chances of getting [RCV] orbs for 2 turns",
+    "specialName": "Deceiving Mimicry"
+  },
+  "unit": {
+    "type": "PSY",
+    "class": "Free Spirit",
+    "stars": 3,
+    "cost": 15,
+    "combo": null,
+    "slots": 2,
+    "level": 70,
+    "exp": 3556666,
+    "maxHP": 566,
+    "maxATK": 400,
+    "maxRCV": 412
+  },
+  "cooldown": [
+    12,
+    9
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2255.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2255.png"
+  }
+}

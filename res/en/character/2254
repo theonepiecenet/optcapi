@@ -1,0 +1,33 @@
+{
+  "name": "King Baum",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 2x and their HP by 1.2x",
+    "special": "Reduces Bind, Despair and Paralysis duration by 1 turn. If your Captain is a Free Spirit character, reduces enemies' ATK Up and Increased Defense duration by 1 turn.",
+    "specialName": "Enclosing the Forest with a Trackless Path"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": null,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "maxHP": 2150,
+    "maxATK": 1181,
+    "maxRCV": 198
+  },
+  "cooldown": [
+    11,
+    8
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2254.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2254.png"
+  }
+}

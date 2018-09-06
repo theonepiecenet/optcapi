@@ -1,7 +1,7 @@
 {
   "name": "Perospero, Charlotte Family's Eldest Son",
   "detail": {
-    "captain": "Boosts ATK of characters with cost 50 or greater by 3.5x and their HP and RCV by 1.2x",
+    "captain": "Boosts ATK of characters with cost 50 or higher by 3.5x and their HP and RCV by 1.2x",
     "special": "Locks all orbs for 1 turn, cuts the current HP of one enemy by 10%, reduces Special Cooldown of all characters by 1 turn and boosts the Color Affinity of [STR], [DEX] and [QCK] characters by 1.75x for 1 turn",
     "specialName": "Candy Maiden",
     "sailor": {
@@ -9,25 +9,72 @@
       "level1": "Boosts base ATK and HP of all characters by 50 if your Captain is a [STR], [DEX] or [QCK] character"
     },
     "sailorNotes": "#{rewind : 2}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK and HP of all characters by 50 if your Captain is a [STR], [DEX] or [QCK] character"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 2: Double Special Activation"
+      }
+    ],
     "potential": [
       {
         "Name": "Reduce No Healing duration",
         "description": [
-          "Level 1: Reduces No Healing duration by ? turn",
-          "Level 2: Reduces No Healing duration by ? turns",
-          "Level 3: Reduces No Healing duration by ? turns",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
         ]
       },
       {
         "Name": "Double Special Activation",
         "description": [
-          "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
-          "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
+          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+          "Level 2: Once per an adventure, reduce own Special Cooldown by 3 turns after the first time this special is used",
+          "Level 3: Once per an adventure, reduce own Special Cooldown by 5 turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by 7 turns after the first time this special is used",
+          "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
         ]
       }
     ]
@@ -44,11 +91,14 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": 3000,
-    "maxATK": 1300,
-    "maxRCV": 200
+    "maxHP": 1920,
+    "maxATK": 1435,
+    "maxRCV": 351
   },
-  "cooldown": null,
+  "cooldown": [
+    15,
+    10
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2240.png",
