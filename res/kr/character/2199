@@ -1,5 +1,5 @@
 {
-  "name": "“Massacre Soldier” 킬러, A Leading Figure Initiating an Alliance",
+  "name": "‘Massacre Soldier’ 킬러, A Leading Figure Initiating an Alliance",
   "detail": {
     "captain": "Boosts ATK of Striker characters by 2x and their HP by 1.2x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 3 times to a maximum of 3.25x.",
     "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
@@ -9,28 +9,6 @@
       "base": "Boosts own base ATK by 200 if this character is the last in the chain to attack",
       "level2": "자신이 [PSY] 속성에게 주는 일반 공격에 의한 데미지가 1.2배가 된다"
     },
-    "potential": [
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turn",
-          "Level 3: Reduces No Healing duration by 3 turn",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
-        ]
-      }
-    ],
     "limit": [
       {
         "description": "Boosts base RCV by 10"
@@ -76,6 +54,28 @@
       },
       {
         "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
       }
     ]
   }
