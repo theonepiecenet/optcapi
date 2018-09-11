@@ -2,17 +2,17 @@
   "name": "루피 & 에이스, Reunion at War",
   "detail": {
     "captain": {
-      "character1": "Boosts ATK of Free Spirit characters by 3x and their HP by 1.2x and reduce damage received by 15%",
-      "character2": "Boosts HP of Free Spirit characters by 1.2x and boosts ATK of Free Spirit characters by 3.5x if they have a matching orb, by 2.25x otherwise",
-      "combined": "Boosts HP of Free Spirit characters by 1.2x and boosts ATK of Free Spirit characters by 4.25x if they have a matching orb, by 3x otherwise and reduce damage received by 20%"
+      "character1": "자유형 캐릭터의 공격력을 3배, 체력을 1.2배로 만들고, 받는 데미지를 15% 감소시킨다",
+      "character2": "자유형 캐릭터의 체력을 1.2배, 공격력을 평상시 2.25배, 슬롯 일치 시 약 3.5배로 민든다",
+      "combined": "자유형 캐릭터의 체력을 1.2배, 공격력을 평상시 3배, 슬롯 일치 시 약 4.25배로 만들고, 받는 데미지를 20% 감소시킨다"
     },
-    "special": "Deals 75x character's ATK in typeless damage to all enemies, changes [STR], [DEX], [QCK], [INT], and [PSY] orbs on Free Spirit characters into Matching orbs, amplifies the effect of orbs by 2x for 1 turn and becomes Luffy & Ace for 3 turns",
+    "special": "적 전체에 캐릭터의 공격력x75배의 무 속성 데미지를 주며, 1턴 동안 일당의 슬롯의 영향을 2배로 만들고, 자유형 캐릭터의 속성 슬롯을 속성 일치 슬롯으로 바꾸며, 3턴 동안 ‘루피&에이스’가 된다",
     "specialNotes": "Change Action: When Change is activated, this character removes all Despair, Paralysis, and Slot Bind on themselves and changes their own orb, including [BLOCK] orbs, into a Matching orb",
-    "specialName": "Brotherly Bond",
+    "specialName": "의형제의 연",
     "sailor": {
-      "character1": "Makes [QCK] orbs “beneficial” for Free Spirit characters",
-      "character2": "Makes [STR] orbs “beneficial” for Free Spirit characters",
-      "combined": "Boosts base ATK, HP and RCV of Free Spirit characters by 150"
+      "character1": "자유형 캐릭터는 [QCK] 슬롯도 [유리] 슬롯으로 취급한다",
+      "character2": "자유형 캐릭터는 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
+      "combined": "자유형 캐릭터의 기본 능력치가 150 상승한다"
     },
     "sailorNotes": "#{beneficial}"
   }

@@ -1,26 +1,26 @@
 {
   "name": "Navy HQ Petty Officer 코비, Determined to Fight Back",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit and Fighter characters by 2.5x and reduce damage received by 15%",
+    "captain": "자유형과 격투형 캐릭터의 공격력을 2.5배로 만들고, 받는 데미지를 15% 감소시킨다",
     "special": [
       {
-        "description": "Deals 30x character's ATK in [QCK] damage to one enemy and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX], [QCK], [PSY] or [INT] orbs. If your crew has 3 or more [QCK] characters, boosts ATK of Free Spirit characters by 1.75x for 1 turn",
+        "description": "적 1명에게 캐릭터의 공격력x30배의 [QCK] 데미지를 주고, [BLOCK] 슬롯을 포함한 모든 슬롯을 속성 슬롯으로 랜덤하게 바꾸며, 일당에 [QCK]이 3명 이상 있을 경우 1턴 동안 자유형 캐릭터의 공격력이 1.75배가 된다",
         "cooldown": [
           16,
           10
         ]
       },
       {
-        "description": "Deals 50x character's ATK in [QCK] damage to one enemy and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX], [QCK], [PSY] or [INT] orbs. If your crew has 3 or more [QCK] characters, boosts ATK of Free Spirit characters by 2x for 1 turn",
+        "description": "적 1명에게 캐릭터의 공격력x50배의 [QCK] 데미지를 주고, [BLOCK] 슬롯을 포함한 모든 슬롯을 속성 슬롯으로 랜덤하게 바꾸며, 일당에 [QCK]이 3명 이상 있을 경우 1턴 동안 자유형 캐릭터의 공격력이 2배가 된다",
         "cooldown": [
           19,
           13
         ]
       }
     ],
-    "specialName": "Determined Counterattack",
+    "specialName": "결심의 배반",
     "sailor": {
-      "base": "Boosts base ATK of Free Spirit characters by 50",
+      "base": "자유형 캐릭터의 기본 공격력이 50 상승한다",
       "level1": "Makes [QCK] orbs “beneficial” for Free Spirit characters"
     },
     "sailorNotes": "#{beneficial}",

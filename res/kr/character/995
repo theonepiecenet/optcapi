@@ -22,7 +22,7 @@
     "specialNotes": "Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on 턴', and 'Effect after Death'<br>#{stages}",
     "sailor": {
       "base": "자신의 필살기 턴 되돌리기를 1턴 회복한다",
-      "level1": "Reduces Silence duration on this character by 2 turns"
+      "level1": "자신의 필살기 봉쇄 상태를 2턴 회복한다"
     },
     "sailorNotes": "#{rewind : 1}",
     "limit": [

@@ -2,14 +2,14 @@
   "name": "글라디우스, 돈키호테 해적단",
   "detail": {
     "captain": {
-      "base": "Boosts ATK of [QCK] characters by 2.5x",
-      "level1": "Boosts ATK of [QCK] characters by 2.75x"
+      "base": "[QCK] 캐릭터의 공격력을 2.5배로 만든다",
+      "level1": "[QCK] 캐릭터의 공격력을 2.75배로 만든다"
     },
-    "special": "Cuts the current HP of each enemy by 20% and changes own orb into [QCK]",
-    "specialName": "Punk Rock Fest",
+    "specialName": "펑크 록 「페스티벌」",
+    "special": "적 전체의 HP를 20% 줄이고, 자신의 슬롯을 [QCK]으로 바꾼다",
     "sailor": {
       "base": "None",
-      "level1": "Boosts HP, RCV and ATK of [QCK] characters by 30"
+      "level1": "[QCK] 속성의 기본 능력치가 30 상승한다"
     },
     "limit": [
       {

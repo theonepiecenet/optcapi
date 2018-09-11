@@ -1,25 +1,25 @@
 {
   "name": "델린저, 돈키호테 해적단",
   "detail": {
-    "captain": "Boosts ATK of Powerhouse characters by 2.25x, makes [TND] and [RCV] orbs “beneficial” to Powerhouse characters",
+    "captain": "강인형 캐릭터의 공격력을 2.25배로 만들고, 강인형 캐릭터는 [TND][RCV] 슬롯도 [유리] 슬롯으로 취급한다",
     "captainNotes": "#{beneficial}",
     "special": [
       {
-        "description": "For Powerhouse characters, changes Badly Matching orbs into Matching orbs.",
+        "description": "강인형 캐릭터의 [불리] 슬롯을 속성이 일치하는 슬롯으로 바꾼다",
         "cooldown": [
           11,
           5
         ]
       },
       {
-        "description": "For all characters, changes Badly Matching orbs into Matching orbs.",
+        "description": "일당의 [불리] 슬롯을 속성이 일치하는 슬롯으로 바꾼다.",
         "cooldown": [
           20,
           14
         ]
       }
     ],
-    "specialName": "Decapitation High Heel",
+    "specialName": "단두 하이힐",
     "specialNotes": "#{stages}",
     "sailor": {
       "base": "None",
