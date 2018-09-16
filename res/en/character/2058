@@ -23,7 +23,10 @@
     "maxATK": 1111,
     "maxRCV": 66
   },
-  "cooldown": 18,
+  "cooldown": [
+    18,
+    12
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2058.png",
