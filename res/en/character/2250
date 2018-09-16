@@ -1,20 +1,20 @@
 {
-  "name": "Garp",
+  "name": "Monkey D. Garp, Pirate King's Arch-Nemesis",
   "detail": {
     "captain": "Boosts ATK of all characters by 2x at the start of the chain and their HP by 1.5x, boosts ATK of all characters by 4x following a chain of Good > Great > PERFECT hits, makes [PSY] and [RCV] orbs \"beneficial\" to all characters. Reduces ATK based on how many Striker, Shooter or Cerebral characters you have on your crew.",
     "special": [
       {
         "description": "Cuts the current HP of one enemy by 10% that will ignore damage negating abilities and barriers, locks the chain multiplier at 3x for 1 turn and reduces Silence duration by 1 turn",
         "cooldown": [
-          null,
-          null
+          19,
+          10
         ]
       },
       {
         "description": "Cuts the current HP of one enemy by 30% that will ignore damage negating abilities and barriers, locks the chain multiplier at 3x for 1 turn and reduces Silence duration by 3 turns",
         "cooldown": [
           21,
-          null
+          16
         ]
       }
     ],
@@ -29,21 +29,27 @@
     ],
     "stars": 5,
     "cost": 30,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 70,
     "exp": 1066998,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1890,
+    "maxATK": 905,
+    "maxRCV": 193
   },
   "cooldown": [
     21,
-    null
+    16
   ],
   "evolution": {
     "evolution": 2251,
-    "evolvers": []
+    "evolvers": [
+      118,
+      98,
+      1180,
+      303,
+      267
+    ]
   },
   "evolve": [],
   "image": {

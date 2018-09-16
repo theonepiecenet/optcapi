@@ -1,0 +1,31 @@
+{
+  "name": "Dracule Mihawk, The Strongest Swordsman",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by 1.75x and their HP by 1.5x",
+    "special": "Reduces Paralysis duration by 3 turns, locks all orbs for 2 turns. If you are on a Treasure Map, boosts ATK of Slasher and Free Spirit characters depending on your Treasure Map Level for 1 turn",
+    "specialName": "The World's Strongest Slash",
+    "specialNotes": "Level 1-10: 1.75x ATK boost<br>Level 11-20: 2x ATK boost<br>Level 21+: 2.25x ATK boost"
+  },
+  "unit": {
+    "type": "DEX",
+    "class": "Slasher",
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 2341,
+    "maxATK": 1388,
+    "maxRCV": 147
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2256.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2256.png"
+  }
+}

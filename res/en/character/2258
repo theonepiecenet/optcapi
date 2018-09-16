@@ -1,0 +1,37 @@
+{
+  "name": "Higuma",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by 1.75x",
+    "special": "Deals 500 fixed damage to one enemy, reduces Despair duration by 3 turns and reduces enemies' Resilience Buff duration by 3 turns.",
+    "specialName": "Higuma Special"
+  },
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": null,
+    "slots": 5,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolution": {
+    "evolution": 2259,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2258.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2258.png"
+  }
+}
