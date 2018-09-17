@@ -1,35 +1,35 @@
 {
-  "name": "“마술사” 바질 호킨스, Cursed Executioner",
+  "name": "‘마술사’ 바질 호킨스, 저주 실행자",
   "detail": {
-    "captain": "Boosts ATK of Cerebral characters by 3.25x if they have a matching orb, by 2.5x otherwise and makes [STR] orbs “beneficial” to Cerebral characters",
+    "captain": "박식형 캐릭터의 공격력을 슬롯 일치 시 3.25배, 평상시 2.5배로 만들고, 박식형 캐릭터는 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
     "captainNotes": "#{beneficial}",
     "special": [
       {
-        "description": "Cuts the current HP of one enemy by 10% and changes [TND], [EMPTY] and Badly Matching orbs into Matching orbs and if your Captain is a Cerebral character, reduces Paralysis duration by 2 turns",
+        "description": "적 1명의 HP를 10% 줄이고, [TND][EMPTY][불리] 슬롯을 속성 일치 슬롯으로 바꾸며, 선장이 박식형 캐릭터라면 일당의 마비 상태를 2턴 회복한다",
         "cooldown": [
           14,
           9
         ]
       },
       {
-        "description": "Cuts the current HP of one enemy by 15% and changes [TND], [EMPTY] and Badly Matching orbs into Matching orbs and if your Captain is a Cerebral character, reduces Paralysis duration by 5 turns",
+        "description": "적 1명의 HP를 15% 줄이고, [TND][EMPTY][불리] 슬롯을 속성 일치 슬롯으로 바꾸며, 선장이 박식형 캐릭터라면 일당의 마비 상태를 5턴 회복한다",
         "cooldown": [
           17,
           12
         ]
       },
       {
-        "description": "Cuts the current HP of one enemy by 20% and changes [TND], [EMPTY] and Badly Matching orbs into Matching orbs and if your Captain is a Cerebral character, reduces Paralysis duration completely",
+        "description": "적 1명의 HP를 20% 줄이고, [TND][EMPTY][불리] 슬롯을 속성 일치 슬롯으로 바꾸며, 선장이 박식형 캐릭터라면 일당의 마비 상태를 완전히 회복한다",
         "cooldown": [
           20,
           15
         ]
       }
     ],
-    "specialName": "Raging Strike",
+    "specialName": "울화통의 구타",
     "specialNotes": "#{stages}",
     "sailor": {
-      "base": "Boosts base ATK of Cerebral characters by 75",
+      "base": "박식형 캐릭터의 기본 공격력이 75 상승한다",
       "level1": "Adds 2x character's ATK as Additional Typeless Damage"
     },
     "limit": [

@@ -1,13 +1,13 @@
 {
-  "name": "역대최강 CP9 로브 루치, “생명귀환”",
+  "name": "로브 루치 ‘생명귀환’, 역대 최강의 ‘CP9’",
   "detail": {
-    "special": "Deals 75x character's ATK in typeless damage to one enemy, greatly boosts chances of getting matching orbs for 3 turns",
-    "specialName": "Six Powers Supreme: Six King Gun",
-    "captain": "Boosts ATK of Powerhouse characters by 3.5x if they have a matching orb, by 2.5x otherwise, reduces crew's RCV to 0",
+    "spceial": "적 1명에게 캐릭터의 공격력x75배의 무 속성 데미지를 주고, 3턴 동안 일당의 속성 일치 슬롯의 출현율이 상당하게 상승",
+    "specialName": "「육식」 비기 「육왕건」",
+    "captain": "강인형 캐릭터의 공격력을 슬롯 일치 시 3.5배, 평상시 2.5배로 만들고, 일당의 회복력이 0이 된다",
     "sailor": {
       "base": "None",
       "level1": "강인형 캐릭터의 기본 능력치가 30 상승한다",
-      "level2": "Makes [RCV] and [TND] orbs “beneficial” for Powerhouse characters"
+      "level2": "강인형 캐릭터는 [RCV][TND] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [

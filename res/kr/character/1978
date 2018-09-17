@@ -1,12 +1,12 @@
 {
-  "name": "명왕 레일리, Master of Haki",
+  "name": "명왕 레일리, ‘패기’의 스승",
   "detail": {
-    "captain": "Boosts chances of getting Matching orbs, boosts ATK of Free Spirit and Slasher characters by 2.5x",
-    "special": "Cuts the current HP of one enemy by 20%, reduces Bind and Silence duration by 3 turns, boosts chances of getting [DEX], [PSY] and [INT] orbs for 3 turns and makes [DEX], [PSY] and [INT] orbs “beneficial” to Free Spirit characters for 3 turns",
+    "captain": "자유형과 참격형 캐릭터의 공격력을 2.5배로 만들고, 같은 타입 캐릭터의 속성 일치 슬롯 출현율이 상승한다",
+    "spceial": "적 1명의 HP를 20% 줄이고, 필살기 봉쇄 및 봉쇄 상태를 3턴 회복하며, 3턴 동안 [DEX][PSY][INT] 슬롯의 출현율을 조금 상승시키고, 자유형 캐릭터는 [DEX][PSY][INT] 슬롯도 [유리] 슬롯으로 취급한다",
     "specialNotes": "#{beneficial}",
-    "specialName": "Unabated Surge",
+    "specialName": "쇠할 줄 모르는 약동",
     "sailor": {
-      "base": "Reduces Silence duration on this character by 3 turns",
+      "base": "자신의 필살기 봉쇄 상태를 3턴 회복한다",
       "level1": "Boosts base ATK of Free Spirit characters by 35"
     },
     "sailorNotes": "#{silence}",
