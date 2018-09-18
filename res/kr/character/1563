@@ -1,17 +1,18 @@
 {
-  "name": "‘싸우는 왕’ 엘리자베로 2세",
+  "name": "‘싸우는 왕’ 엘리자벨로 2세",
   "detail": {
-    "captain": "Boosts ATK of Fighter and Powerhouse characters by 1.75x at the start of the chain and by 2.1875x after the 5th PERFECT in a row",
+    "captain": "격투형과 강인형 캐릭터의 공격력을 1.75배, 5연속 PERFECT 달성 시 이후 같은 타입의 공격력이 1.25배 더 상승한다",
+    "specialName": "배틀 로얄 러쉬",
     "special": [
       {
-        "description": "Changes own orb into [STR], deals 10 hits of 3x character's ATK in typeless damage to random enemies",
+        "description": "자신의 슬롯을 [STR]으로 바꾸고, 무작위의 적에게 캐릭터의 공격력x3배의 무 속성 데미지를 10회 준다",
         "cooldown": [
           17,
           9
         ]
       },
       {
-        "description": "Changes own orb into [STR], deals 10 hits of 15x character's ATK in typeless damage to random enemies and adds .3x to Chain multiplier for 1 turn",
+        "description": "1턴 동안 체인 계수가 +0.3, 자신의 슬롯을 [STR]으로 바꾸고, 무작위의 적에게 캐릭터의 공격력x15배의 무 속성 데미지를 10회 준다",
         "cooldown": [
           24,
           16
@@ -19,7 +20,6 @@
       }
     ],
     "specialNotes": "#{stages}",
-    "specialName": "Battle Royale Rush",
-    "sailor": "Boosts own base ATK by 350 if this character is the last in the chain to attack"
+    "sailor": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 350 상승한다"
   }
 }

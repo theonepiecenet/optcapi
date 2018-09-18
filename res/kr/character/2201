@@ -21,7 +21,7 @@
         "description": "회복력 상승 : 10"
       },
       {
-        "description": "Acquire Potential 1: [STR] 데미지 피해 감소"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
         "description": "체력 상승 : 50"
@@ -54,7 +54,7 @@
         "description": "회복력 상승 : 15"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 2: Slot Bind Self-reduction"
       },
       {
         "description": "선원 효과 추가 1: Makes [DEX], [RCV] and [TND] orbs “beneficial” for this character"
@@ -99,18 +99,18 @@
         "description": "공격력 상승 : 45"
       },
       {
-        "description": "Acquire Potential 3: 긴급 회복"
+        "description": "잠재능력 습득 3: 긴급 회복"
       }
     ],
     "potential": [
       {
         "Name": "[STR] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [STR] characters by 1%",
-          "Level 2: Reduce damage taken from [STR] characters by 2%",
-          "Level 3: Reduce damage taken from [STR] characters by 3%",
-          "Level 4: Reduce damage taken from [STR] characters by 5%",
-          "Level 5: Reduce damage taken from [STR] characters by 7%"
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 7% 감소시킨다"
         ]
       },
       {
@@ -126,11 +126,11 @@
       {
         "Name": "긴급 회복",
         "description": [
-          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 20% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 25% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 30% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 2남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 3남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 4남은 체력이 25% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 5남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다"
         ]
       }
     ]

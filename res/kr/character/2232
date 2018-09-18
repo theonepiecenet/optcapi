@@ -23,7 +23,7 @@
         "description": "체력 상승 : 15"
       },
       {
-        "description": "Acquire Potential 1: [STR] 데미지 피해 감소"
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
       },
       {
         "description": "공격력 상승 : 5"
@@ -56,7 +56,7 @@
         "description": "공격력 상승 : 20"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+        "description": "잠재능력 습득 2: Slot Bind Self-reduction"
       },
       {
         "description": "체력 상승 : 30"
@@ -101,18 +101,18 @@
         "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire Potential 3: Reduce No Healing duration"
+        "description": "잠재능력 습득 3: Reduce No Healing duration"
       }
     ],
     "potential": [
       {
         "Name": "[STR] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [STR] characters by 1%",
-          "Level 2: Reduce damage taken from [STR] characters by 2%",
-          "Level 3: Reduce damage taken from [STR] characters by 3%",
-          "Level 4: Reduce damage taken from [STR] characters by 4%",
-          "Level 5: Reduce damage taken from [STR] characters by 5%"
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {

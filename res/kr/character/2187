@@ -19,7 +19,7 @@
         "description": "체력 상승 : 50"
       },
       {
-        "description": "Acquire Potential 1: [INT] Damage Reduction"
+        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
       },
       {
         "description": "공격력 상승 : 20"
@@ -43,27 +43,27 @@
         "description": "체력 상승 : 90"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [INT] orbs “beneficial” for this character"
+        "description": "선원 효과 추가 1: Makes [INT] orbs “beneficial” for this character"
       },
       {
         "description": "공격력 상승 : 40"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Acquire Potential 2: Barrier Penetration"
+        "description": "잠재능력 습득 2: Barrier Penetration"
       }
     ],
     "potential": [
       {
-        "Name": "[INT] Damage Reduction",
+        "Name": "[INT] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by 2%",
-          "Level 3: Reduce damage taken from [INT] characters by 3%",
-          "Level 4: Reduce damage taken from [INT] characters by 4%",
-          "Level 5: Reduce damage taken from [INT] characters by 5%"
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
       },
       {
