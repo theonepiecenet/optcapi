@@ -1,13 +1,13 @@
 {
   "name": "검은 수염",
   "detail": {
-    "special": "적 전체에 이전 턴에받은 데미지 × 10 배의 무 속성데미지",
-    "specialName": "Black Hole",
-    "captain": "받는 데미지가 2 배가 되지만, STR캐릭터의 공격력이 2.5 배 체력이 2.25 배가 된다",
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts base HP of [STR] characters by 120"
-    },
+    "captain": "받는 데미지가 2배가 되는 반면, [STR] 캐릭터의 공격력이 2.5배, 체력이 2.25배가 된다",
+    "specialName": "블랙홀",
+    "spceial": "적 전체에 이전 턴에 받은 데미지x10배의 무속성 데미지",
+    "sailor": [
+      "None",
+      "[STR] 속성의 기본 체력이 120 상승한다"
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
