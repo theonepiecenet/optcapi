@@ -1,9 +1,9 @@
 {
-  "name": "Higuma",
+  "name": "Higuma, First Class Wanted Criminal",
   "detail": {
     "captain": "Boosts ATK of [STR] characters by 1.75x",
     "special": "Deals 800 fixed damage to one enemy, reduces Despair duration by 3 turns and reduces enemies' Resilience Buff duration by 3 turns.",
-    "specialName": "Higuma Special"
+    "specialName": "Scoundrel's Attack"
   },
   "unit": {
     "type": "STR",
@@ -13,13 +13,13 @@
     ],
     "stars": 5,
     "cost": 20,
-    "combo": null,
+    "combo": 5,
     "slots": 5,
     "level": 99,
     "exp": 2000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 883,
+    "maxATK": 699,
+    "maxRCV": 70
   },
   "cooldown": [
     12,
