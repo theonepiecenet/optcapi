@@ -3,6 +3,80 @@
   "detail": {
     "captain": "PERFECT 외의 공격을 할때까지 모든 캐릭터의 공격력을 2.25배로 만들고, 턴이 경과 할때마다 체력이(10%씩) 감소된다.",
     "special": "일당의 남은 체력을 80% 감소시키며 적 1기에 감소한 값의 10배에 해당하는 무속성 데미지를 주고, STR, INT의 공격력을 1턴 동안 1.75배로 한다.",
-    "specialName": "검은팔의 마지막 충격"
+    "specialName": "검은팔의 마지막 충격",
+    "sailor": {
+      "base": "None",
+      "level1": "When HP is below ?% at the start of the turn, boosts own base ATK by 200",
+      "level2": "When HP is below ?% at the start of the turn, boosts base ATK of all characters by 100"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: When HP is below ?% at the start of the turn, boosts own base ATK by 200"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: When HP is below ?% at the start of the turn, boosts base ATK of all characters by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by 1%",
+          "Level 2: Reduce damage taken from [DEX] characters by ?%",
+          "Level 3: Reduce damage taken from [DEX] characters by ?%",
+          "Level 4: Reduce damage taken from [DEX] characters by ?%",
+          "Level 5: Reduce damage taken from [DEX] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      }
+    ]
   }
 }

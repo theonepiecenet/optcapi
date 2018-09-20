@@ -4,12 +4,59 @@
     "captain": "Boosts ATK of all characters by 1.5x, boosts amount of Beli received by 2x",
     "specialName": "Heaven's Do Art",
     "special": "Reduces any damage received above 2,000 HP by 88% for 2 turns",
-    "specialNotes": "The exact formula for the damage received is: 2000 + ((total damage) - 2000) * 0.12",
+    "specialNotes": "#{beneficial}",
     "sailor": {
       "base": "None",
       "level1": "Makes [STR] and [QCK] orbs beneficial for this character",
       "level2": "Boost base HP of all characters by 100"
     },
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [STR] and [QCK] orbs beneficial for this character"
+      },
+      {
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boost base HP of all characters by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
     "potential": [
       {
         "Name": "[QCK] Damage Reduction",

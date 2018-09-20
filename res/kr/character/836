@@ -1,14 +1,14 @@
 {
-  "name": "폭군 바솔로뮤 쿠마 정부의 인간병기",
+  "name": "폭군 바솔로뮤 쿠마, 정부의 인간병기",
   "detail": {
-    "captain": "박식형 캐릭터의 공격과 체력이 2배가 되고, 적으로부터 받은 데미지의 5배를 턴 종료시 적 전체에 [STR] 데미지를 준다.",
+    "captain": "박식형 캐릭터의 공격력과 체력이 2배가 되고, 받은 데미지의 5배를 턴 종료시 적 전체에게 돌려준다",
+    "special": "[RCV][TND][EMPTY][BLOCK][BOMB] 슬롯을 각각 속성이 일치하는 슬롯으로 바꾸고, 1턴 동안 슬롯 영향을 상당히 증폭시킨다",
     "specialName": "밀쳐내기 압력포",
-    "special": "[RCV], [TND], [EMPTY], [BLOCK], [BOMB] 슬롯을 자슬롯으로 변환하고, 1턴동안 슬롯 영향을 1.75배 상승",
     "specialNotes": "#{orb : 1.75x}",
     "sailor": {
       "base": "None",
-      "level1": "If HP is above 99% at the start of the turn, boosts own base ATK by 50",
-      "level2": "When HP is below ??% at the start of the turn, boosts own base ATK by 75"
+      "level1": "체력이 가득 차 있으면 자신의 기본 공격력이 50 상승한다",
+      "level2": "남은 체력이 적을 때 자신의 기본 공격력이 75 상승한다"
     },
     "limit": [
       {
