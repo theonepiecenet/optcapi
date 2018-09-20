@@ -1,10 +1,10 @@
 {
-  "name": "킹 듀, 흰 수염 해적단 11번대 대장",
+  "name": "킹듀, 흰 수염 해적단 11번대 대장",
   "detail": {
-    "captain": "Boosts ATK of Fighter and Powerhouse characters by 2x",
-    "special": "Removes Poison, boosts ATK of Powerhouse characters by 1.5x for 1 turn if HP is below 30%",
-    "specialName": "Enlightened Spirit",
-    "sailor": "자신은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다 if your Captain is a 강인형 character",
+    "captain": "격투형과 강인형 캐릭터의 공격력을 2배로 만든다",
+    "specialName": "각오의 기합",
+    "special": "모든 독 상태를 회복하고, 필살기 발동 시 일당의 체력이 적을 때 1턴 동안 강인형 캐릭터의 공격력을 1.5배로 만든다",
+    "sailor": "선장이 강인형 캐릭터일 때 자신은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다",
     "sailorNotes": "#{beneficial}"
   }
 }

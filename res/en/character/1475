@@ -4,12 +4,59 @@
     "captain": "Boosts ATK of all characters by 2.25x and EXP gained by 1.5x",
     "captainNotes": "EXP boost does not take effect if he becomes your captain in the middle of the adventure.",
     "special": "Locks all orbs for 1 turn. If the HP of the enemy with the highest Maximum HP is above 50%, cuts the current HP of all enemies by 20%, otherwise, deals 140x character's ATK in typeless damage to all enemies.",
+    "specialName": "Merman Gujutsu - Ultramarine",
     "sailor": {
       "base": "Makes [INT], [PSY] and [TND] orbs \"beneficial\" for this character",
-      "level1": "Boosts base HP, ATK and RCV of all characters by 30"
+      "level1": "Boosts base ATK, HP and RCV of all characters by 30"
     },
     "sailorNotes": "#{beneficial}",
-    "specialName": "Merman Gujutsu - Ultramarine",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 30"
+      },
+      {
+        "description": "Boosts base RCV by 45"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
     "potential": [
       {
         "Name": "[DEX] Damage Reduction",

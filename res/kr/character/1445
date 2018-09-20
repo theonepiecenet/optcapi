@@ -1,14 +1,14 @@
 {
-  "name": "보아 행콕: 뱀 공주",
+  "name": "보아 행콕, 뱀 여왕",
   "detail": {
-    "captain": "Boosts ATK of [QCK] and [PSY] characters proportionally to the crew's current HP. If HP is below 50%, boosts RCV of [QCK] and [PSY] characters by 1.5x.",
-    "special": "Boosts ATK and RCV of [QCK] and [PSY] characters by 1.75x for 1 turn and delays all enemies for 1 turn. Changes your Captain orb to [RCV]. If HP is above 50%, changes left column orbs into Matching orbs.",
-    "specialName": "Perfume Femur",
+    "captain": "공격 시작 전 일당의 남은 체력이 많을수록 [QCK]과 [PSY]의 공격력이 높아지며, 체력이 일정 비율 이하일 때 같은 속성의 회복력이 1.5배가 된다",
+    "specialName": "퍼퓸 피머",
+    "special": "적 전체를 1턴 지연시키고, 1턴 동안 [QCK]과 [PSY] 캐릭터의 공격력과 회복력을 1.75배, 선장의 슬롯을 [RCV]로 바꾸고, 남은 체력이 일정 비율 이상일 때는 좌측 열의 슬롯을 속성 일치 슬롯으로 바꾼다",
     "captainNotes": "#{captainProportional : higher : 2.25 + 0.5 * (remaining HP) / (total HP) : 2.75 : 2.25}",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of [QCK] and [PSY] characters by 30",
-      "level2": "[QCK] and [PSY] 속성의 기본 공격력이 75 상승한다"
+      "level1": "[QCK]과 [PSY] 캐릭터의 기본 능력치가 30 상승한다",
+      "level2": "[QCK]과 [PSY] 캐릭터의 기본 공격력이 75 상승한다"
     },
     "limit": [
       {

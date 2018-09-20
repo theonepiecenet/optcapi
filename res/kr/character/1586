@@ -1,8 +1,8 @@
 {
-  "name": "용사의 전우 헤르메포, 해군 중사",
+  "name": "용사의 전우 헤르메포, 해군본부 중사",
   "detail": {
-    "captain": "Boosts ATK of 참격형 and Driven characters by 2x and their RCV by 1.5x",
-    "special": "If HP is below 5,000 when the special is activated, boosts ATK of 야심형 and Slasher characters by 1.75x for 1 turn and recovers 10x character's RCV in HP",
-    "specialName": "Firey Morale"
+    "captain": "참격형과 야심형 캐릭터의 공격력을 2배, 회복력을 1.5배로 만든다",
+    "specialName": "불붙은 사기",
+    "special": "필살기 발동 시 일당의 체력이 5000 미만일 때는 1턴 동안 참격형과 야심형 캐릭터의 공격력을 1.75배로 만들고, 그 이외일 때는 캐릭터의 회복력x10배의 체력을 회복한다"
   }
 }

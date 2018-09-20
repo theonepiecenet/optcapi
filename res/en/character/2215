@@ -27,8 +27,9 @@
       }
     ],
     "specialName": "Tropical Country Flowers",
-    "specialNotes": "#{stages}",
-    "sailor": "Reduces Silence duration on this character by 3 turns"
+    "specialNotes": "#{stages}<br>#{silence}",
+    "sailor": "Reduces Silence duration on this character by 3 turns",
+    "sailorNotes": "#{silence}"
   },
   "unit": {
     "type": "PSY",
