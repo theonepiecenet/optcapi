@@ -12,60 +12,60 @@
     "specialNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base ATK by 10"
+        "description": "공격력 상승 : 10"
       },
       {
-        "description": "Boosts base HP by 30"
+        "description": "체력 상승 : 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: If your Captain is a Driven character, boosts own base ATK by 100"
+        "description": "선원 효과 추가 1: If your Captain is a Driven character, boosts own base ATK by 100"
       },
       {
-        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+        "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base RCV by 20"
+        "description": "회복력 상승 : 20"
       },
       {
-        "description": "Boosts base ATK by 20"
+        "description": "공격력 상승 : 20"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "체력 상승 : 50"
       },
       {
-        "description": "Boosts base RCV by 30"
+        "description": "회복력 상승 : 30"
       },
       {
-        "description": "Acquire 1 additional Socket slot"
+        "description": "잠재능력 소켓슬롯 추가 : 1"
       },
       {
-        "description": "Boosts base HP by 70"
+        "description": "체력 상승 : 70"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [STR] orbs “beneficial” for this character"
+        "description": "선원 효과 추가 2: Makes [STR] orbs “beneficial” for this character"
       },
       {
-        "description": "Boosts base ATK by 70"
+        "description": "공격력 상승 : 70"
       },
       {
         "description": "Reduce base Special Cooldown by 7 turns"
       },
       {
-        "description": "Acquire Potential 2: Double Special Activation"
+        "description": "잠재능력 습득 2: Double Special Activation"
       }
     ],
     "potential": [
       {
-        "Name": "[QCK] Damage Reduction",
+        "Name": "[QCK] 데미지 피해 감소",
         "description": [
-          "Level 1: Reduce damage taken from [QCK] characters by 1%",
-          "Level 2: Reduce damage taken from [QCK] characters by ?%",
-          "Level 3: Reduce damage taken from [QCK] characters by ?%",
-          "Level 4: Reduce damage taken from [QCK] characters by ?%",
-          "Level 5: Reduce damage taken from [QCK] characters by ?%"
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다"
         ]
       },
       {

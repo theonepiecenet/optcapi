@@ -6,8 +6,8 @@
     "captain": "남은 체력이 적을 때, 박식형 캐릭터의 공격력 2.5배, 회복력 1.75배로 만든다",
     "sailor": {
       "base": "None",
-      "level1": "When HP is below ??% at the start of the turn, boosts base ATK of Cerebral characters by 40",
-      "level2": "Makes RCV and [PSY] orbs “beneficial” for this character"
+      "level1": "남은 체력이 적을 때 박식형 캐릭터의 기본 공격력이 40 상승한다",
+      "level2": "자신은 [PSY][RCV] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [

@@ -1,14 +1,14 @@
 {
-  "name": "칭자오 패밀리의 돈 사이",
+  "name": "두령 사이, 꽃의 나라의 갱",
   "detail": {
-    "captain": "Boosts ATK of Striker and Fighter characters by 1.5x at the start of the chain, and by 3x after the 3rd PERFECT in a row",
+    "captain": "타격형과 격투형의 공격력을 1.5배로 만들고 PERFECT 3연속 달성 시, 이후 같은 타입의 공격력이 3배가 된다",
     "special": "적 전체에 [STR] 큰 데미지를 주고, 필살기 발동 시 2턴 동안 체력에 따라 3단계로 나눠, 타격형과 격투형 캐릭터의 공격력을 크게 상승시킨다",
     "specialNotes": "Below 30% -> 1.75 boost, between 30% and 70% -> 1.5, above 70% -> 1.2",
     "specialName": "추룡 송곳못",
     "sailor": {
       "base": "None",
-      "level1": "Restores his own special cooldown by 2 turns when it is rewinded",
-      "level2": "Makes [QCK] orbs “beneficial” for this character"
+      "level1": "자신의 필살기 턴 되돌리기를 2턴 회복한다",
+      "level2": "자신은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{beneficial}<br>#{rewind : 2}",
     "limit": [
