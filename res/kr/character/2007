@@ -1,14 +1,14 @@
 {
-  "name": "빨간 머리 샹크스, Yonko Changing the Fate of the World",
+  "name": "빨간 머리 샹크스, 세계의 운명을 바꾼 사황",
   "detail": {
-    "captain": "If your crew has 4 or more characters of the same Type, boosts ATK all characters by 3.5x, by 2.75x otherwise and boosts HP of all characters by 1.3x.",
-    "special": "Adds .9x to Chain multiplier for 1 turn. If your crew has 4 or more characters of the same Type, boosts ATK of the Dominant Type characters by 2.25x and changes all orbs, including [BLOCK] orbs, to Dominant Type orbs",
+    "captain": "일당의 공격력을 2.75배, 체력을 1.3배로 만들며, 일당에 같은 속성이 4명 이상 있으면 일당의 공격력이 약 3.5배가 된다",
+    "specialName": "Closing Declaration",
+    "special": "1턴 동안 체인 계수가 +0.9 되며, 일당에 같은 속성이 4명 이상 있을 때, [BLOCK] 슬롯을 포함한 모든 슬롯을 해당 속성의 슬롯으로 바꾸고, 1턴 동안 해당 속성의 공격력이 2.25배가 된다",
     "sailor": {
-      "base": "If your crew has 4 or more characters of the same Type, boosts base ATK of the Dominant Type by 125",
+      "base": "일당에 같은 속성이 4명 이상 있으면 해당 속성의 기본 공격력이 125 상승한다",
       "level1": "Makes [PSY] orbs “beneficial” all characters"
     },
     "sailorNotes": "#{beneficial}",
-    "specialName": "Closing Declaration",
     "limit": [
       {
         "description": "체력 상승 : 30"

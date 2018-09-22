@@ -1,24 +1,24 @@
 {
   "name": "마르코, ‘의지’의 수호자",
   "detail": {
-    "captain": "Boosts ATK of Fighter characters by 2.25x and their RCV by 1.2x. Recovers 2x character's RCV in HP at the end of each turn.",
+    "captain": "격투형 캐릭터의 공격력을 2.25배, 회복력을 1.2배로 만들고, 턴 종료 시에 캐릭터의 회복력x2배의 체력을 회복한다",
     "special": [
       {
-        "description": "Reduces Bind and Chain Coefficient Reduction and ATK DOWN duration by 3 turns, reduces damage received by 50% for 1 turn. If your crew has 3 or more [STR] characters, adds .5x to Chain multiplier for 1 turn",
+        "description": "봉쇄, 공격력 감소, 체인 계수 증가량 감소 상태를 3턴 회복하고, 1턴 동안 받는 데미지를 50% 줄이며, 일당에 [STR]이 3명 이상 있을 경우 1턴 동안 체인 계수가 +0.5 된다",
         "cooldown": [
           16,
           10
         ]
       },
       {
-        "description": "Reduces Bind and Chain Coefficient Reduction and ATK DOWN duration by 5 turns, reduces damage received by 90% for 1 turn. If your crew has 3 or more [STR] characters, adds .75x to Chain multiplier for 1 turn",
+        "description": "봉쇄, 공격력 감소, 체인 계수 증가량 감소 상태를 5턴 회복하고, 1턴 동안 받는 데미지를 90% 줄이며, 일당에 [STR]이 3명 이상 있을 경우 1턴 동안 체인 계수가 +0.75 된다",
         "cooldown": [
           20,
           14
         ]
       }
     ],
-    "specialName": "Establishing an Oath of Immortality",
-    "sailor": "Boosts amount healed from [RCV] orbs by 150 each"
+    "specialName": "「불사」를 이룬 서약",
+    "sailor": "[RCV] 획득 시 추가로 체력을 150 회복한다"
   }
 }
