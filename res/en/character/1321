@@ -6,6 +6,11 @@
     "specialName": "Front Line Dissection",
     "sailor": "Boosts base ATK of Slasher and Cerebral characters by 75 if your Captain is a Cerebral character"
   },
+  "aliases": [
+    "モモンガ 怪物斬りの名将",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1321.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1321.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

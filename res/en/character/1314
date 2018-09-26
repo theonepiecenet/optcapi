@@ -135,6 +135,13 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "サカズキ",
+    "",
+    "Akainu",
+    "Legend Sakazuki",
+    "Legend Akainu"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -155,9 +162,59 @@
     25,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1314,
+    "evolvers": [
+      118,
+      266,
+      95,
+      300,
+      267
+    ],
+    "from": 1313
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1314.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1314.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Bandits! Dadan Family! Fortnight",
+      "thumb": 1520,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Perona's Peculiar Living Situation Fortnight",
+      "thumb": 1891,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sakazuki"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ]
 }

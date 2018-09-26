@@ -7,6 +7,11 @@
     "sailor": "Boosts base HP of all characters by 75",
     "specialName": "Super Large Iron Ball"
   },
+  "aliases": [
+    "モンキー・D・ガープ 海軍本部中将",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -41,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1317.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1317.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

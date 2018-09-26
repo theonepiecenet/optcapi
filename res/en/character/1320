@@ -82,6 +82,11 @@
       }
     ]
   },
+  "aliases": [
+    "“大参謀”つる 海軍本部中将",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -102,9 +107,59 @@
     21,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1320,
+    "evolvers": [
+      83,
+      85,
+      96,
+      301,
+      101
+    ],
+    "from": 1319
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1320.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1320.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Gatekeeper of the New World! Fortnight",
+      "thumb": 1469,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Last Wish for Sanji! Fortnight",
+      "thumb": 1918,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Boa Hancock"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Fujitora"
+      ]
+    }
+  ]
 }

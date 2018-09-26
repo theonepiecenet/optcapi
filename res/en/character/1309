@@ -5,6 +5,12 @@
     "special": "Reduces Special Cooldown of Slasher and Free Spirit characters by 1 turn and if HP is above 70%, changes adjacent orbs into Matching Orbs",
     "specialName": "Poof"
   },
+  "aliases": [
+    "錦えもん",
+    "",
+    "Coliseum Kinemon",
+    "Coliseum Kin'emon"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1309.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1309.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

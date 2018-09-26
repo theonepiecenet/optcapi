@@ -5,6 +5,11 @@
     "special": "Reduces crew's HP to 1, empties all slots and deals 30x character's ATK in [QCK] damage to all enemies",
     "specialName": "Special Muggy Ball"
   },
+  "aliases": [
+    "受刑者　バギー",
+    "",
+    "Baggy"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1301.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1301.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Jailbreak Battle! Mr. 3 and Buggy Fortnight",
+      "thumb": 1304,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

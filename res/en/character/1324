@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "海軍本部中将オニグモ 八刀流の剣士",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -100,9 +105,59 @@
     15,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1324,
+    "evolvers": [
+      88,
+      266,
+      99,
+      304,
+      104
+    ],
+    "from": 1323
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1324.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1324.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fugitive of Love and Passion!! Fortnight",
+      "thumb": 1450,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Branded in Shackles! Fortnight",
+      "thumb": 1933,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sakazuki"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ]
 }

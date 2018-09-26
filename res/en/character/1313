@@ -6,6 +6,13 @@
     "special": "Deals 125x character's ATK typeless damage to all enemies and randomizes non-[STR] orbs. Boosts ATK of characters with cost 50 or higher by 1.75x for 2 turns",
     "specialName": "Meteor Volcano"
   },
+  "aliases": [
+    "赤犬 海軍本部最高戦力",
+    "",
+    "Sakazuki",
+    "Legend Sakazuki",
+    "Legend Akainu"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +47,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1313.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1313.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

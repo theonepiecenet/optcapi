@@ -28,6 +28,12 @@
     "specialNotes": "#{stages}",
     "specialName": "Flight Power Strengthening - Jump Point"
   },
+  "aliases": [
+    "トニートニー・チョッパー 飛力強化（ジャンピングポイント）",
+    "",
+    "Coliseum Chopper",
+    "Coliseum Tony Tony Chopper"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -52,5 +58,32 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1339.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1339.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

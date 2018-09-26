@@ -4,9 +4,86 @@
     "captain": "Boosts ATK of [STR] and [PSY] characters by 2.5x",
     "special": "Deals 30x character's ATK in [STR] fixed damage to all enemies that will ignore damage negating abilities and barriers. Delays all enemies for 1 turn. Reduces the defense of all enemies by 80% for 1 turn.",
     "specialNotes": "#{ignoreBarrier}",
-    "sailor": "Boosts base HP of all characters by 75",
-    "specialName": "Super Large Iron Ball"
+    "specialName": "Super Large Iron Ball",
+    "sailor": {
+      "base": "Boosts base HP of all characters by 75",
+      "level1": "Boosts own base ATK by 150 if this character is the last in the chain to attack"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts own base ATK by 150 if this character is the last in the chain to attack"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 120"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
   },
+  "aliases": [
+    "ゲンコツのガープ 海軍本部中将",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -27,9 +104,59 @@
     22,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1318,
+    "evolvers": [
+      118,
+      84,
+      94,
+      300,
+      100
+    ],
+    "from": 1317
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1318.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1318.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fugitive of Love and Passion!! Fortnight",
+      "thumb": 1450,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Branded in Shackles! Fortnight",
+      "thumb": 1933,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sabo"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Fujitora"
+      ]
+    }
+  ]
 }

@@ -27,6 +27,76 @@
     ],
     "specialNotes": "No Healing debuff completely stops healing abilities. This is the debuff used in Akainu raid<br>#{stages}",
     "sailor": "의성어 은폐 상태를 5턴 회복한다",
-    "specialName": "메아리치는 영혼의 외침"
+    "specialName": "메아리치는 영혼의 외침",
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs “beneficial” for Fighter characters"
+      },
+      {
+        "description": "Boosts base RCV by 45"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by ?%",
+          "Level 3: Reduce damage taken from [INT] characters by ?%",
+          "Level 4: Reduce damage taken from [INT] characters by ?%",
+          "Level 5: Reduce damage taken from [INT] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      }
+    ]
   }
 }

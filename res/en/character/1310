@@ -80,6 +80,12 @@
       }
     ]
   },
+  "aliases": [
+    "狐火の錦えもん",
+    "",
+    "Coliseum Kinemon",
+    "Coliseum Kin'emon"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +106,24 @@
     16,
     5
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1310,
+    "evolvers": [
+      118,
+      95,
+      95,
+      300,
+      267
+    ],
+    "from": 1309
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1310.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1310.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

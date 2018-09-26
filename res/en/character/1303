@@ -5,6 +5,12 @@
     "special": "Reduces damage received by 60% for 2 turns",
     "specialName": "Extra Large Candle Wall"
   },
+  "aliases": [
+    "脱走囚　ギャルディーノ",
+    "",
+    "Mr 3",
+    "Mr. 3"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1303.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1303.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Jailbreak Battle! Mr. 3 and Buggy Fortnight",
+      "thumb": 1304,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

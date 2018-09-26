@@ -5,6 +5,11 @@
     "special": "If HP is above 99%, changes [STR], [DEX] and [QCK] orbs into Matching orbs for Cerebral and Free Spirit characters",
     "specialName": "Amulet Flame"
   },
+  "aliases": [
+    "コラソン　ロイヤルヴァンパイア ハロウィンナイト・マスカレード",
+    "",
+    "Halloween Corazon"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +30,24 @@
     13,
     6
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1326,
+    "evolvers": [
+      116,
+      117,
+      81,
+      87,
+      103
+    ],
+    "from": 1325
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1326.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1326.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

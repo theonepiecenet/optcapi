@@ -29,6 +29,11 @@
     "specialName": "The Work of Fairies",
     "specialNotes": "#{colorAffinity : 1.25}<br>#{stages}"
   },
+  "aliases": [
+    "ウィッカ",
+    "",
+    "Wicka"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -53,5 +58,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1329.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1329.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Tontatta Tribe: Catch the Big Person! Fortnight",
+      "thumb": 1328,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,12 @@
     "specialNotes": "Damage Threshold is the buff enemies gain that greatly reduces damage received over a certain amount",
     "specialName": "King Cobra Machetes"
   },
+  "aliases": [
+    "ボア・マリーゴールド 九蛇の戦士",
+    "",
+    "Coliseum Marigold",
+    "Coliseum Boa Marigold"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +46,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1311.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1311.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

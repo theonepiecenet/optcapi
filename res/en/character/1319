@@ -7,6 +7,11 @@
     "sailor": "Reduces Paralysis duration by 1 turn",
     "specialName": "A Decree of the Veteran"
   },
+  "aliases": [
+    "つる 海軍本部中将",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -41,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1319.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1319.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

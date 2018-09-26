@@ -5,6 +5,11 @@
     "special": "Changes [RCV], [TND], [EMPTY], [G] and [BOMB] orbs into Badly Matching orbs and [STR], [QCK], [DEX], [PSY] and [INT] orbs into Matching orbs for Free Spirit and Striker characters.",
     "specialName": "Brushman's Brush"
   },
+  "aliases": [
+    "カン十郎",
+    "",
+    "Coliseum Kanjuro"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1337.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1337.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

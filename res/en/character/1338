@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "夕立ち　カン十郎",
+    "",
+    "Coliseum Kanjuro"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -99,9 +104,24 @@
     27,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1338,
+    "evolvers": [
+      118,
+      98,
+      98,
+      303,
+      267
+    ],
+    "from": 1337
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1338.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1338.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

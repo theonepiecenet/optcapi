@@ -5,6 +5,11 @@
     "special": "Changes Friend Captain orb into matching. Adds .5x to Chain multiplier for 1 turn",
     "specialName": "Gentleman's Welcome"
   },
+  "aliases": [
+    "サボ 劇場の怪人",
+    "",
+    "Gentleman Sabo"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +30,27 @@
     6,
     6
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1336,
+    "evolvers": [
+      117,
+      88,
+      94,
+      99,
+      104
+    ],
+    "from": 1335
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1336.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1336.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

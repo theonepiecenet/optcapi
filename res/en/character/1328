@@ -21,6 +21,11 @@
     "specialNotes": "#{stages}",
     "specialName": "Tail Hammer"
   },
+  "aliases": [
+    "戦士レオ トンタッタ族トンタ兵団",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -41,9 +46,24 @@
     19,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1328,
+    "evolvers": [
+      116,
+      117,
+      80,
+      91,
+      102
+    ],
+    "from": 1327
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1328.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1328.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

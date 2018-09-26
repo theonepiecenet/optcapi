@@ -5,6 +5,11 @@
     "special": "Changes Badly Matching, [BLOCK] and [BOMB] orbs into [G] orbs. Reduces Special Cooldown of 1 character by 1 turn",
     "specialName": "Aggressive 'Trick-Or-Treat'"
   },
+  "aliases": [
+    "シュガー　リトルサキュバス",
+    "",
+    "Halloween Sugar"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1305.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1305.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Halloween Event Characters",
+      "thumb": 1300,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

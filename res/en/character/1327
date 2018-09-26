@@ -21,6 +21,11 @@
     "specialNotes": "#{stages}",
     "specialName": "Tail Hammer"
   },
+  "aliases": [
+    "レオ トンタッタ族トンタ兵団",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -55,5 +60,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1327.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1327.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Tontatta Tribe: Catch the Big Person! Fortnight",
+      "thumb": 1328,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

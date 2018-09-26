@@ -5,6 +5,11 @@
     "special": "Recovers 3,000 HP and boosts ATK of [INT] characters by 1.75x for 1 turn",
     "specialName": "Driving Away Evil Spirits of Sin - Cat Pose"
   },
+  "aliases": [
+    "レベッカ　ラブリーモンスターキャット ハロウィンナイト・マスカレード",
+    "",
+    "Halloween Rebecca"
+  ],
   "unit": {
     "type": "INT",
     "class": "Fighter",
@@ -22,9 +27,24 @@
     19,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1300,
+    "evolvers": [
+      116,
+      117,
+      82,
+      88,
+      104
+    ],
+    "from": 1299
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1300.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1300.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }
