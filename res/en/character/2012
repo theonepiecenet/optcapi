@@ -23,6 +23,12 @@
     "sailor": "Reduces Silence duration on this character by 3 turns",
     "sailorNotes": "#{silence}"
   },
+  "aliases": [
+    "ジュエリー・ボニー “新世界”への挑戦",
+    "",
+    "Secret Bonney",
+    "Limited Bonney"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -57,5 +63,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2012.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2012.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

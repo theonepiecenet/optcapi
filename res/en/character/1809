@@ -6,6 +6,11 @@
     "sailor": "Reduces Paralysis duration on this character by 1 turn",
     "specialName": "Super Express Beast Path"
   },
+  "aliases": [
+    "ワンダ モコモ公国",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1809.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1809.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Zou Royal Guard! Fortnight",
+      "thumb": 1812,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

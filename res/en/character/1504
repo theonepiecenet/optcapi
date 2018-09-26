@@ -5,6 +5,11 @@
     "special": "Changes the orbs in the middle row into [EMPTY] orbs and deals 20x character's ATK as [DEX] damage to all enemies at the end of the turn for 2 turns",
     "specialName": "Inescapable Pursuit"
   },
+  "aliases": [
+    "バンダー・デッケン九世",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +34,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1504.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1504.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Deep-Sea Aphotic Zone to Ryugu Palace",
+      "thumb": 1506,
+      "data": [
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "King Neptune's Execution Site - Noah's Ark",
+      "thumb": 1562,
+      "data": [
+        "06"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Zou Royal Guard! Fortnight",
+      "thumb": 1812,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

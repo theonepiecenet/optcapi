@@ -16,6 +16,18 @@
       "combined": "Boosts base ATK, HP and RCV of [STR] and [DEX] characters by 50"
     }
   },
+  "aliases": [
+    "",
+    "",
+    "Crocodile&Daz",
+    "Crocodile and Daz",
+    "Crocodile Daz",
+    "CrocodileDaz",
+    "Daz&Crocodile",
+    "Daz and Crocodile",
+    "Daz Crocodile",
+    "DazCrocodile"
+  ],
   "unit": {
     "type": [
       "DEX",
@@ -43,5 +55,10 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2504.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2504.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

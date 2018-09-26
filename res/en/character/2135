@@ -5,6 +5,14 @@
     "special": "Deals 15x character's ATK in [QCK] damage to one enemy, changes own orb into [QCK] and amplifies the effect of orbs for [QCK] characters by 1.75x for 1 turn",
     "specialName": "Sparkling Daisy"
   },
+  "aliases": [
+    "Mr.1 理想郷を築く刃",
+    "",
+    "Limited Mr. 1",
+    "Secret Mr. 1",
+    "Limited Daz Bones",
+    "Secret Daz Bones"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -29,5 +37,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2135.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2135.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

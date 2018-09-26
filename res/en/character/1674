@@ -8,6 +8,12 @@
     "sailorNotes": "#{silence}",
     "specialName": "Romantic Princess"
   },
+  "aliases": [
+    "ペローナ 大胆水着なプリンセス",
+    "",
+    "Swimsuit Perona",
+    "Summer Perona"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -28,9 +34,27 @@
     13,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1674,
+    "evolvers": [
+      115,
+      115,
+      90,
+      96,
+      301
+    ],
+    "from": 1673
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1674.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1674.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

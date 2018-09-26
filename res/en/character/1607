@@ -5,6 +5,12 @@
     "special": "Deals 10x character's ATK in [DEX] damage to one enemy, locks orbs for 1 turn and boosts ATK of Shooter characters by 1.5x for 1 turn",
     "specialName": "Painless Bullet"
   },
+  "aliases": [
+    "ヴァン・オーガー 黒ひげ海賊団",
+    "",
+    "Vaper",
+    "Van Ogre"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +35,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1607.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1607.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "The Dark Path of the Blackbeard Pirates! Fortnight",
+      "thumb": 1606,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

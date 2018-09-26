@@ -136,6 +136,17 @@
       }
     ]
   },
+  "aliases": [
+    "麦わらのルフィ ゴムゴムの力の可能性",
+    "",
+    "G4",
+    "Gear 4 Tankman",
+    "Gear 4 Boundman",
+    "V4 Luffy",
+    "Second Mistake",
+    "Gear Change Luffy",
+    "Gear Shift Luffy"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -156,9 +167,25 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2074,
+    "evolvers": [
+      118,
+      266,
+      85,
+      101,
+      267
+    ],
+    "from": 2073
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2074.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2074.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

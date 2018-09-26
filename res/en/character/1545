@@ -5,6 +5,11 @@
     "special": "Changes Captain orb into matching and boosts ATK of Fighter characters by 1.5x for 1 turn",
     "specialName": "Bean Paste under the Petal Snow"
   },
+  "aliases": [
+    "コアラ 桜色の口元",
+    "",
+    "Sakura Koala"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +30,27 @@
     7,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1545,
+    "evolvers": [
+      116,
+      117,
+      82,
+      88,
+      104
+    ],
+    "from": 1544
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1545.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1545.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -136,6 +136,16 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "“昼の王”イヌアラシ",
+    "",
+    "Inuyasha",
+    "Dogstorm",
+    "Dog Storm",
+    "Doggo Storm",
+    "Legend Inuarashi",
+    "Legend Dogstorm"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -156,9 +166,43 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1571,
+    "evolvers": [
+      118,
+      84,
+      266,
+      100,
+      267
+    ],
+    "from": 1570
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1571.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1571.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Underground Trade Port! Escape! Fortnight",
+      "thumb": 1735,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Nekomamushi"
+      ]
+    }
+  ]
 }

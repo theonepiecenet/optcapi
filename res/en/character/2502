@@ -6,6 +6,14 @@
     "sailor": "Adds 3x character's ATK as Additional Typeless Damage",
     "specialName": "Gum-Gum Giant Rifle: Kung Fu"
   },
+  "aliases": [
+    "",
+    "",
+    "Kung Fu Luffy",
+    "KFL",
+    "LINE Luffy",
+    "The Hero Global Needed"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +48,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2502.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2502.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -6,6 +6,11 @@
     "specialNotes": "Ex. A [STR] character with a [QCK] orb will still deal regular damage",
     "specialName": "Dawn of A Big Star"
   },
+  "aliases": [
+    "ソウルキング",
+    "",
+    "Brook"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1546.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1546.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Encourage the Soul! Fortnight",
+      "thumb": 1547,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

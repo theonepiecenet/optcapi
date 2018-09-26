@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "ウソップ 20th Anniversary Memorial Treasure",
+    "",
+    "20th Anniversary Usopp"
+  ],
   "unit": {
     "type": "INT",
     "class": "Shooter",
@@ -96,9 +101,35 @@
     11,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1686,
+    "evolvers": [
+      82,
+      88,
+      93,
+      99,
+      104
+    ],
+    "from": 1685
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1686.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1686.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "21st Anniversary Island",
+      "thumb": 1682,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

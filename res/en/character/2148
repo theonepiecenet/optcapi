@@ -135,6 +135,11 @@
       }
     ]
   },
+  "aliases": [
+    "ヴィンスモーク・サンジ ジェルマ王国の救世主",
+    "",
+    "V2 Sanji"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -155,9 +160,25 @@
     17,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2148,
+    "evolvers": [
+      118,
+      103,
+      1180,
+      303,
+      267
+    ],
+    "from": 2147
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2148.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2148.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

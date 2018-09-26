@@ -6,6 +6,11 @@
     "specialName": "Proof of a Human Weapon",
     "specialNotes": "Level 1-10: 1.5x affinity boost<br>Level 11-20: 1.75x affinity boost<br>Level 21+: 2x affinity boost"
   },
+  "aliases": [
+    "バーソロミュー・くま 希望をそぐ七武海",
+    "",
+    "Limited Kuma"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +45,14 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2008.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2008.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "special": "Boosts RCV of all characters by 1.75x and delays all enemies by 1 turn.",
     "specialName": "The Long Legged Gentleman's Resolution"
   },
+  "aliases": [
+    "タマゴ男爵",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1358.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1358.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Gather the Candy! Fortnight",
+      "thumb": 1357,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

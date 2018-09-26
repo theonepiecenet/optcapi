@@ -136,6 +136,16 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ロブ・ルッチ　“生命帰還” 歴代最強の「ＣＰ９」",
+    "",
+    "Mega Rob Lucci",
+    "Mega Lucci",
+    "Super Rob Lucci",
+    "Super Lucci",
+    "Legend Lucci",
+    "Legend Rob Lucci"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -156,9 +166,68 @@
     22,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1663,
+    "evolvers": [
+      "skullSTR",
+      118,
+      95,
+      300,
+      267
+    ],
+    "from": 748
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1663.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1663.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Let's Find Our Captain! Heart Pirates! Fortnight",
+      "thumb": 1003,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Happiness! Fortnight",
+      "thumb": 1384,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Rob Lucci"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Nekomamushi"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,13 @@
     "special": "Reduces Bind, Despair and Paralysis duration by 7 turns, delays all enemies for 1 turn and makes PERFECTs easier to hit for 1 turn",
     "specialName": "Netherworld Conqueror"
   },
+  "aliases": [
+    "“冥王”シルバーズ・レイリー 海賊王の右腕",
+    "",
+    "Mega Rayleigh",
+    "Super Rayleigh",
+    "Legend Rayliegh"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +32,77 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1619,
+    "evolvers": [
+      "skullINT",
+      118,
+      304,
+      99,
+      267
+    ],
+    "from": 367
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1619.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1619.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Camie and Hachi's Takoyaki Stand! Fortnight",
+      "thumb": 635,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Royale! Oars",
+      "thumb": 893,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Rayleigh"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Judge"
+      ]
+    }
+  ]
 }

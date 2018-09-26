@@ -9,6 +9,12 @@
     "sailor": "Reduces Silence duration on this character by 3 turns",
     "sailorNotes": "#{silence}"
   },
+  "aliases": [
+    "プリン 偽リの花嫁",
+    "",
+    "Wedding Pudding",
+    "Bride Pudding"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -43,5 +49,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1962.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1962.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Sweet Heart Memory",
+      "thumb": 1961,
+      "data": [
+        "Pudding"
+      ]
+    }
+  ],
+  "manual": []
 }

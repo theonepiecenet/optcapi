@@ -137,6 +137,13 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ルーシー コリーダコロシアム優勝者",
+    "",
+    "Sabo",
+    "Legend Lucy",
+    "Legend Sabo"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -157,9 +164,43 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1794,
+    "evolvers": [
+      118,
+      100,
+      101,
+      102,
+      267
+    ],
+    "from": 1793
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1794.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1794.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Beast's Return Fortnight",
+      "thumb": 1965,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Lucy"
+      ]
+    }
+  ]
 }

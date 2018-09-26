@@ -21,6 +21,11 @@
     "specialName": "Honey Pretzel",
     "specialNotes": "#{ignoreBarrier}<br>#{stages}"
   },
+  "aliases": [
+    "シャーロット・クラッカー",
+    "",
+    "Raid Cracker"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -55,5 +60,18 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2157.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2157.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Cracker Raid",
+      "thumb": 2158,
+      "data": [
+        "Expert",
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

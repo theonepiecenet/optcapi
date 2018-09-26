@@ -21,6 +21,14 @@
     ],
     "specialNotes": "#{stages}"
   },
+  "aliases": [
+    "ピーカ「改」",
+    "",
+    "Kai Pica",
+    "STR Pica",
+    "Neo Pica",
+    "Raid Pica"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -55,5 +63,17 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1646.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1646.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Pica Raid",
+      "thumb": 1647,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

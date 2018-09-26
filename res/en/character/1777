@@ -6,6 +6,14 @@
     "specialName": "Devil Destroyer's Light Arrow",
     "specialNotes": "#{ignoreBarrier}"
   },
+  "aliases": [
+    "黄猿 聖地からの使者",
+    "",
+    "Secret Kizaru",
+    "Secret Borsalino",
+    "Limited Kizaru",
+    "Limited Borsalino"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +48,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1777.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1777.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

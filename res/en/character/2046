@@ -7,6 +7,11 @@
     "specialNotes": "#{ignoreBarrier}",
     "sailor": "If this character has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next turn"
   },
+  "aliases": [
+    "ヤソップ 港村の海賊",
+    "",
+    "Yasopp"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -31,5 +36,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2046.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2046.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Red Hair Pirates at the Harbor! Fortnight",
+      "thumb": 2044,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

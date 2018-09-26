@@ -79,6 +79,12 @@
       }
     ]
   },
+  "aliases": [
+    "ブルック 掠り唄　吹雪斬り",
+    "",
+    "Mega Brook",
+    "Super Brook"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -99,9 +105,54 @@
     17,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1551,
+    "evolvers": [
+      "skullBrook",
+      267
+    ],
+    "from": 896
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1551.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1551.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Rumbar Pirates! Fortnight",
+      "thumb": 1203,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Mysterious Warlord! Fortnight",
+      "thumb": 1581,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Borsalino"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

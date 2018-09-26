@@ -5,6 +5,11 @@
     "special": "Reduces the defense of all enemies by 50% for 1 turn and if HP is below 50%, randomizes all orbs to either [RCV] or [TND] orbs",
     "specialName": "Clairvoyance"
   },
+  "aliases": [
+    "ヴァイオレット 踊り娘",
+    "",
+    "Viola"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1449.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1449.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Fugitive of Love and Passion!! Fortnight",
+      "thumb": 1450,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

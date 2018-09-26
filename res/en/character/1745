@@ -78,6 +78,11 @@
       }
     ]
   },
+  "aliases": [
+    "マーガレット 麦わらのルフィの共犯者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Shooter",
@@ -95,9 +100,43 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1745,
+    "evolvers": [
+      83,
+      88,
+      94,
+      99,
+      104
+    ],
+    "from": 1744
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1745.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1745.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Last Wish for Sanji! Fortnight",
+      "thumb": 1918,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    }
+  ]
 }

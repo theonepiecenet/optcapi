@@ -16,6 +16,19 @@
     },
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "ルフィ＆エース 戦火の再会",
+    "",
+    "Luffy&Ace",
+    "Luffy and Ace",
+    "Luffy Ace",
+    "LuffyAce",
+    "Ace&Luffy",
+    "Ace and Luffy",
+    "Ace Luffy",
+    "AceLuffy",
+    "L/A"
+  ],
   "unit": {
     "type": [
       "QCK",
@@ -53,5 +66,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1984.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1984.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

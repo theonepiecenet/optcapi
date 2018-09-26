@@ -79,6 +79,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "鷹の目のミホーク 狂乱のマリンフォード“剣豪”",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Slasher",
@@ -96,9 +101,25 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2185,
+    "evolvers": [
+      87,
+      98,
+      1180,
+      303,
+      103
+    ],
+    "from": 2184
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2185.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2185.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

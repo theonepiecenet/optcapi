@@ -6,6 +6,12 @@
     "sailor": "Restores her own special cooldown by 5 turns when it is rewinded",
     "specialName": "Angel Cruising"
   },
+  "aliases": [
+    "コニス 浜辺でくつろぐエンジェル",
+    "",
+    "Swimsuit Conis",
+    "Summer Conis"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +46,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2216.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2216.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Girls of Summer Paradise",
+      "thumb": 683,
+      "data": [
+        "Part 4"
+      ]
+    }
+  ],
+  "manual": []
 }

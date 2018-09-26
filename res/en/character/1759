@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "ブルック 20th Anniversary Memorial Treasure",
+    "",
+    "20th Anniversary Brook"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -99,9 +104,35 @@
     11,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1759,
+    "evolvers": [
+      79,
+      85,
+      90,
+      96,
+      101
+    ],
+    "from": 1758
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1759.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1759.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "21st Anniversary Island",
+      "thumb": 1682,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -7,6 +7,11 @@
     "specialName": "Paw Paw Fruit: Scatter and Fly Away",
     "sailor": "If this character has a [PSY] orb and you hit a PERFECT with him, keep his [PSY] orb for the next turn"
   },
+  "aliases": [
+    "バーソロミュー・くま 終わらぬ夢の宿敵",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -41,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1611.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1611.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -7,6 +7,11 @@
     "sailor": "Boosts base ATK, HP and RCV of all characters by 20",
     "specialName": "The Afterglow of a Fight"
   },
+  "aliases": [
+    "黄猿 束の間の平穏と大将たち",
+    "",
+    "Borsalino"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -41,5 +46,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2042.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2042.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Battle Blitz! Akainu vs Aokiji",
+      "thumb": 2023,
+      "data": [
+        "Chopperman Missions"
+      ]
+    }
+  ],
+  "manual": []
 }

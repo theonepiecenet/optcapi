@@ -5,6 +5,12 @@
     "special": "Changes orbs on the top row to [BOMB], reduces Bind duration by 2 turns and reduces the defense of all enemies by 50% for one turn.",
     "specialName": "Explosion Blocking Escape"
   },
+  "aliases": [
+    "Mr.5 爆弾人間",
+    "",
+    "Coliseum Mr. 5",
+    "Mr 5"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Shooter",
@@ -35,5 +41,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1490.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1490.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

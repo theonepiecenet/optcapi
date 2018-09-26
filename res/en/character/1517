@@ -6,6 +6,11 @@
     "specialNotes": "#{beneficial}",
     "specialName": "Spring Hopper - Bullet"
   },
+  "aliases": [
+    "ハイエナのベラミー 元ベラミー海賊団船長",
+    "",
+    "Raid Bellamy"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +45,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1517.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1517.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Bellamy Raid",
+      "thumb": 1518,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

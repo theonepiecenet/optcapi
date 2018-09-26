@@ -5,6 +5,12 @@
     "special": "Reduces the defense of all enemies by 100% for 1 turn. If the targeted enemy has less than or equal to 25% of their MAX HP, instantly defeats them, otherwise, cuts the current HP of one enemy by 30%",
     "specialName": "Crushing Armament Fist"
   },
+  "aliases": [
+    "モンキー・D・ガープ 海軍の英雄",
+    "",
+    "Invasion Garp",
+    "Ambush Garp"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1845.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1845.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Invasion! Garp",
+      "thumb": 1846,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

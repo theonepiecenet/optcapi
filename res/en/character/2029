@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "仏のセンゴク",
+    "",
+    "Sengoku"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -100,9 +105,35 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2029,
+    "evolvers": [
+      1180,
+      90,
+      96,
+      301,
+      101
+    ],
+    "from": 2028
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2029.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2029.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Let's Go See Master Nekomamushi! Fortnight",
+      "thumb": 2177,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

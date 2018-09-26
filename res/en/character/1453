@@ -6,6 +6,11 @@
     "specialNotes": "<br> HP>70%: Top row to [QCK], middle row to [STR] <br> HP<30%: Top row to [RCV], middle row to [QCK], bottom row to [STR]",
     "specialName": "Doki Doki Heart"
   },
+  "aliases": [
+    "マーガレット １３日の胸騒ぎ",
+    "",
+    "Valentine Marguerite"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1453.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1453.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

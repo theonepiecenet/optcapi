@@ -7,6 +7,11 @@
     "sailor": "Reduces Paralysis duration on this character by 2 turns",
     "specialName": "Gum-Gum Gigant Axe - Sweets"
   },
+  "aliases": [
+    "ルフィのブレイクタイム",
+    "",
+    "White Day Luffy"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -41,5 +46,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1462.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1462.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Luffy"
+      ]
+    }
+  ],
+  "manual": []
 }

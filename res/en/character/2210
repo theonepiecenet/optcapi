@@ -5,6 +5,12 @@
     "special": "Deals 565,600 fixed damage to all enemies and locks all orbs for 1 turn.",
     "specialName": "God's Judgement: El Thor"
   },
+  "aliases": [
+    "エネル スカイピアの天災",
+    "",
+    "TM Enel",
+    "TM Eneru"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +45,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2210.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2210.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Kami Enel",
+      "thumb": 2211,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
 }

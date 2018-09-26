@@ -163,6 +163,12 @@
       }
     ]
   },
+  "aliases": [
+    "ゴッド・エネル スカイピアの天災",
+    "",
+    "TM Enel",
+    "TM Eneru"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -183,9 +189,21 @@
     37,
     30
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2211,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      103
+    ],
+    "from": 2210
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2211.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2211.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

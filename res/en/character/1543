@@ -134,6 +134,17 @@
       }
     ]
   },
+  "aliases": [
+    "キャプテン・ウソップ 男ウソップ大冒険　～第二章～",
+    "",
+    "God Usopp",
+    "Mega Usopp",
+    "Super Usopp",
+    "Usoland",
+    "Legend Usopp",
+    "Legend Usoland",
+    "Legend God Usopp"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Shooter",
@@ -151,9 +162,43 @@
     16,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1543,
+    "evolvers": [
+      "skullDEX",
+      118,
+      86,
+      302,
+      267
+    ],
+    "from": 1532
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1543.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1543.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Brutal Fiend! Eustass Kid Fortnight",
+      "thumb": 1690,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,15 @@
     "special": "Reduces the defense of all enemies by 80% for 2 turns, deals 50x character's ATK in typeless damage to all enemies and changes all orbs on Powerhouse characters into Matching orbs, recovers 20% of crew's MAX HP.",
     "specialName": "Flying Finger Gun: Fire Sting"
   },
+  "aliases": [
+    "ロブ・ルッチ 世界政府の怪物",
+    "",
+    "Rob Lucci",
+    "Legend Rob Lucci",
+    "Legend Lucci",
+    "Blucci",
+    "Log Lucci"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +48,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1762.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1762.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

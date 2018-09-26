@@ -80,6 +80,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ダイス ゴールドアーマー",
+    "",
+    "V2 Dice"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +105,25 @@
     19,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2101,
+    "evolvers": [
+      117,
+      84,
+      94,
+      95,
+      100
+    ],
+    "from": 2100
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2101.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2101.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,12 @@
     "special": "Reduces enemy's Threshold Damage Reduction, Percent Damage Reduction, End of Turn Damage/Percent Cut, End of Turn Heal, Increased Defense, Damage Nullification, Barrier, ATK Up, Enrage and Resilience Buffs duration by 1 turn. Boosts ATK of all characters by 2x if HP is below 10% at the time the special is activated.",
     "specialName": "The Signal of Changing Times"
   },
+  "aliases": [
+    "黒ひげ 王下七武海",
+    "",
+    "Raid Blackbeard V2",
+    "Raid BB"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +45,17 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2196.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2196.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! \"Blackbeard\" Teach Raid",
+      "thumb": 2197,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

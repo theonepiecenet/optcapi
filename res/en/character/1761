@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "トニートニー・チョッパー 20th Anniversary Memorial Treasure",
+    "",
+    "20th Anniversary Chopper"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -99,9 +104,35 @@
     13,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1761,
+    "evolvers": [
+      80,
+      86,
+      91,
+      97,
+      102
+    ],
+    "from": 1760
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1761.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1761.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "21st Anniversary Island",
+      "thumb": 1682,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

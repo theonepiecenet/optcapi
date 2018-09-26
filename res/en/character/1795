@@ -6,6 +6,11 @@
     "sailor": "Boosts this character's attack against [STR] characters by 1.1x",
     "specialName": "Snake Sword"
   },
+  "aliases": [
+    "Mr.ディアマンテ コリーダコロシアムの英雄",
+    "",
+    "Mr Diamante"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1795.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1795.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "special": "Boosts ATK of Striker characters by 1.5x for 1 turn and Changes own orb into [PSY] if HP is below 50% when the special is activated and deals 20,000 Fixed damage to one enemy.",
     "specialName": "Sea God's Strike"
   },
+  "aliases": [
+    "海神ネプチューン",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1722.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1722.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Royal Neptune Family! Fortnight",
+      "thumb": 1723,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

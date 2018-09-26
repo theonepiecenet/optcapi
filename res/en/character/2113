@@ -135,6 +135,11 @@
       }
     ]
   },
+  "aliases": [
+    "シャーロット・カタクリ ビッグ・マム海賊団　３将星",
+    "",
+    "Potato Starch"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -155,9 +160,25 @@
     16,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2113,
+    "evolvers": [
+      118,
+      266,
+      300,
+      100,
+      267
+    ],
+    "from": 2112
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2113.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2113.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

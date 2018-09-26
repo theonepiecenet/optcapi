@@ -6,6 +6,11 @@
     "sailor": "Boosts base HP of [STR] characters by 150",
     "specialName": "Greenstone Threat"
   },
+  "aliases": [
+    "ヘラクレス 麦わらの一味の協力者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1537.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1537.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

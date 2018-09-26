@@ -5,6 +5,11 @@
     "special": "Makes Badly Matching and BLOCK orbs not reduce damage for 1 turn and deals 5x character's ATK as DEX damage to all enemies at the end of the turn for 2 turns.",
     "specialName": "Wolf Grip"
   },
+  "aliases": [
+    "ＧＩＦＴＥＲＳ（ギフターズ）",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -26,5 +31,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2227.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2227.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

@@ -7,6 +7,13 @@
     "sailor": "Makes [TND] orbs \"beneficial\" for this character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "ナミ 真夏のドキドキ",
+    "",
+    "Summer Nami",
+    "Swimsuit Nami",
+    "Summertime Nami"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -41,5 +48,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1708.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1708.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Girls of Summer Paradise",
+      "thumb": 683,
+      "data": [
+        "Part 3"
+      ]
+    }
+  ],
+  "manual": []
 }

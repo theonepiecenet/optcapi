@@ -5,6 +5,12 @@
     "special": "Deals 10 hits of 20x character's ATK in typeless damage to random enemies and delays all enemies for 1 turn. If this character is your Captain or Friend/Guest Captain, Changes all orbs on Slasher characters into Matching orbs.",
     "specialName": "The Rain of War's End"
   },
+  "aliases": [
+    "藤虎 世界徴兵の新大将",
+    "",
+    "V2 Issho",
+    "V2 Fujitora"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1868.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1868.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

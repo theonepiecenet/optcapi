@@ -6,6 +6,11 @@
     "special": "Recovers 5,000 HP, boosts ATK of Striker characters by 1.5x for 1 turn. If during that turn you score 4 Great hits, boosts ATK of Striker characters by 1.75x in the following turn.",
     "specialName": "Culling the Criminals from this Earthly World"
   },
+  "aliases": [
+    "ウルージ 超新星",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1864.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1864.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Oh, Impermanence! Hawkins and Urouge! Fortnight",
+      "thumb": 1867,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "ヴィンスモーク・レイジュ 科学戦闘部隊ジェルマ６６",
+    "",
+    "Pink Ranger"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -110,9 +115,51 @@
       "skullReiju"
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 1834,
+    "evolvers": [
+      88,
+      99,
+      1180,
+      304,
+      104
+    ],
+    "from": 1833
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1834.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1834.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Volatile Meal! Bonney and Bege! Fortnight",
+      "thumb": 1982,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Judge"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Germa Revival Plan!",
+      "thumb": 2138,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

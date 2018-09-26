@@ -6,6 +6,11 @@
     "special": "Deals 25x character's ATK in [PSY] damage to all enemies. If during that turn every unit scores a PERFECT hit, boosts ATK of [PSY] characters by 1.75x in the following turn.",
     "specialName": "Large Cutting Axe"
   },
+  "aliases": [
+    "戦桃丸 シャボンディ諸島の壁",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -30,5 +35,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1392.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1392.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago Redux",
+      "thumb": 1393,
+      "data": [
+        "09"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Wano Samurai! Fortnight",
+      "thumb": 1774,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

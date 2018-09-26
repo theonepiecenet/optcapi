@@ -95,6 +95,13 @@
       }
     ]
   },
+  "aliases": [
+    "サンジ 新生・麦わらの一味",
+    "",
+    "New World Sanji",
+    "Timeskip Sanji",
+    "TS Sanji"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -115,9 +122,67 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1368,
+    "evolvers": [
+      1180,
+      117,
+      84,
+      300,
+      100
+    ],
+    "from": 1367
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1368.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1368.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Departure! Whitebeard Pirates Fortnight",
+      "thumb": 1509,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Beast's Return Fortnight",
+      "thumb": 1965,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Jinbei"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

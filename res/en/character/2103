@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "バカラ ゴールドアーマー",
+    "",
+    "V2 Baccarat"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -99,9 +104,25 @@
     19,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2103,
+    "evolvers": [
+      117,
+      88,
+      93,
+      1180,
+      104
+    ],
+    "from": 2102
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2103.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2103.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

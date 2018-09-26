@@ -78,6 +78,11 @@
       }
     ]
   },
+  "aliases": [
+    "モンキー・D・ルフィ 20th Anniversary Memorial Treasure",
+    "",
+    "20th Anniversary Luffy"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -98,9 +103,35 @@
     18,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1682,
+    "evolvers": [
+      78,
+      84,
+      89,
+      95,
+      100
+    ],
+    "from": 1681
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1682.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1682.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "21st Anniversary Island",
+      "thumb": 1682,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

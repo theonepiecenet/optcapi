@@ -6,6 +6,11 @@
     "specialName": "Gomu Gomu no Tako Stamp",
     "sailor": "Boosts base HP and ATK of all characters by 56"
   },
+  "aliases": [
+    "モンキー・D・ルフィ Celebrate 20th Anniversary Cruise",
+    "",
+    "20th Anniversary Luffy"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1681.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1681.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -151,6 +151,16 @@
       }
     ]
   },
+  "aliases": [
+    "鷹の目のミホーク 黒刀「夜」",
+    "",
+    "Mega Mihawk",
+    "Super Mihawk",
+    "Mega IntMihawk",
+    "Super IntMihawk",
+    "Mega IntHawk",
+    "Super IntHawk"
+  ],
   "unit": {
     "type": "INT",
     "class": "Slasher",
@@ -168,9 +178,69 @@
     24,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1881,
+    "evolvers": [
+      "skullINT",
+      118,
+      88,
+      303,
+      267
+    ],
+    "from": 718
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1881.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1881.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Encounter! Whitebeard Pirates Fortnight",
+      "thumb": 946,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Jailbreak Battle! Mr. 3 and Buggy Fortnight",
+      "thumb": 1304,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Dracule Mihawk"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

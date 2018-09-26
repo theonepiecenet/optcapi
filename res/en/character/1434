@@ -152,6 +152,11 @@
       }
     ]
   },
+  "aliases": [
+    "ホーディ・ジョーンズ 魚人街の亡霊",
+    "",
+    "Legend Hody Jones"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -182,9 +187,51 @@
       267
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 1434,
+    "evolvers": [
+      118,
+      266,
+      267,
+      99,
+      304
+    ],
+    "from": 1433
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1434.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1434.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Time of Revenge has Come! New Fishman Pirates! Fortnight",
+      "thumb": 1624,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Germa's Lineage Factor! Fortnight",
+      "thumb": 2056,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Shirahoshi"
+      ]
+    }
+  ]
 }

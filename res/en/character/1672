@@ -5,6 +5,11 @@
     "special": "Binds himself for 2 turns and reduces Despair and Silence duration by 3 turns",
     "specialName": "A Starfish Reaching for His Beliefs"
   },
+  "aliases": [
+    "パッパグ “クリミナルブランド社”社長兼超人気セレブデザイナー",
+    "",
+    "Pappug"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1672.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1672.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Dead-On Prophecy?! Madam Sharley Fortnight",
+      "thumb": 1670,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

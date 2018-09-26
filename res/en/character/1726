@@ -6,6 +6,13 @@
     "special": "Deals random typeless damage to all enemies. Adds 55x character's ATK as Additional Typeless Damage for 2 turns",
     "specialNotes": "#{random : 10,000 : 30,000} <br> #{additionalDamage : 55x}"
   },
+  "aliases": [
+    "サボ「改」 竜の爪",
+    "",
+    "Kai Sabo",
+    "Neo Sabo",
+    "Raid Sabo"
+  ],
   "unit": {
     "type": "PSY",
     "class": [

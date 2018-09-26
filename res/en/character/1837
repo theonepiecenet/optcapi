@@ -8,6 +8,11 @@
     "sailor": "Makes [PSY] orbs \"beneficial\" for this character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "ヴィンスモーク・ニジ",
+    "",
+    "Blue Ranger"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -42,5 +47,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1837.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1837.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

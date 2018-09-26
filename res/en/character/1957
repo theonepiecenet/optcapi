@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "キャロット You’re My Valentine",
+    "",
+    "Valentines Carrot"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -99,9 +104,35 @@
     16,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1957,
+    "evolvers": [
+      266,
+      78,
+      94,
+      300,
+      100
+    ],
+    "from": 1956
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1957.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1957.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Brûlée's Gibier Party Fortnight",
+      "thumb": 2127,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -78,6 +78,11 @@
       }
     ]
   },
+  "aliases": [
+    "バーソロミュー・くま 正義に逆らう人間兵器",
+    "",
+    "Coliseum Kuma"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -98,9 +103,21 @@
     28,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2193,
+    "evolvers": [
+      118,
+      98,
+      1180,
+      303,
+      103
+    ],
+    "from": 2192
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2193.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2193.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

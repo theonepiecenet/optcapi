@@ -5,6 +5,11 @@
     "special": "Reduces Paralysis duration by 2 turns and adds .25x to Chain multiplier for 1 turn.",
     "specialName": "Mink Chain Plus"
   },
+  "aliases": [
+    "電撃団員 侠客団",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -26,5 +31,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2224.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2224.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

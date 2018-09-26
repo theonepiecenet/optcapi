@@ -136,6 +136,15 @@
       }
     ]
   },
+  "aliases": [
+    "ボア・ハンコック 麦わらのルフィの共犯者",
+    "",
+    "Korean Boa",
+    "Legend Korean Boa",
+    "Legend Boa Hancock",
+    "Legend Boa",
+    "Shichibukai"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -156,9 +165,43 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1747,
+    "evolvers": [
+      118,
+      266,
+      94,
+      98,
+      267
+    ],
+    "from": 1746
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1747.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1747.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Branded in Shackles! Fortnight",
+      "thumb": 1933,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    }
+  ]
 }

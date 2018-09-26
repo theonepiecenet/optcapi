@@ -21,6 +21,11 @@
     "specialName": "Poison Dragon",
     "specialNotes": "#{toxic : 0.5x : 3x : 1,500,000}<br>#{stages}<br>If enemies are both Poisoned and inflicted with Toxic, only the Toxic damage will damage the enemy at the end of the turn."
   },
+  "aliases": [
+    "マゼラン",
+    "",
+    "Raid Magellan"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -55,5 +60,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1373.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1373.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Warden Magellan Raid",
+      "thumb": 1374,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "ペドロ “ソウルキング”の相棒",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -99,9 +104,34 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2082,
+    "evolvers": [
+      94,
+      1180,
+      301,
+      301,
+      101
+    ],
+    "from": 2081
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2082.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2082.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Pound and King Baum Fortnight",
+      "thumb": 2253,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

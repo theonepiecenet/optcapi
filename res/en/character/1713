@@ -82,6 +82,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "赤犬 頂上戦争の業火",
+    "",
+    "Secret Akainu",
+    "Limited Akainu"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -102,9 +108,45 @@
     17,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1713,
+    "evolvers": [
+      118,
+      86,
+      97,
+      302,
+      102
+    ],
+    "from": 1712
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1713.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1713.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Beast's Return Fortnight",
+      "thumb": 1965,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Blitz! Doflamingo Family",
+      "thumb": 870,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ]
 }

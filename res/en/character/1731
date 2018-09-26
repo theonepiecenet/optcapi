@@ -7,6 +7,14 @@
     "sailorNotes": "#{rewind : 3}",
     "specialName": "Shining Brightly Upon the Oasis"
   },
+  "aliases": [
+    "ネフェルタリ・ビビ 魅惑の透明感",
+    "",
+    "Summertime Vivi",
+    "Swimsuit Vivi",
+    "Summer Vivi",
+    "Secret Vivi"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -27,9 +35,27 @@
     16,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1731,
+    "evolvers": [
+      115,
+      115,
+      93,
+      99,
+      304
+    ],
+    "from": 1730
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1731.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1731.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

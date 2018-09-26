@@ -5,6 +5,11 @@
     "special": "Cuts the current HP of one enemy by 20% and and boosts own ATK by 2x for 1 turn",
     "specialName": "Iron Giant Palm Slam"
   },
+  "aliases": [
+    "ユースタス・キッド “南の海”出身の超新星",
+    "",
+    "Fortnight Kidd"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1689.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1689.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Brutal Fiend! Eustass Kid Fortnight",
+      "thumb": 1690,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -136,6 +136,11 @@
       }
     ]
   },
+  "aliases": [
+    "冥王レイリー 時代を見守る老兵",
+    "",
+    "V2 Rayleigh"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -156,9 +161,35 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1883,
+    "evolvers": [
+      118,
+      80,
+      1180,
+      302,
+      267
+    ],
+    "from": 1882
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1883.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1883.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Let's Go See Master Nekomamushi! Fortnight",
+      "thumb": 2177,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

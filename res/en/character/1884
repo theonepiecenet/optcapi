@@ -5,6 +5,11 @@
     "special": "Reduces Paralysis duration by 2 turns, Changes [EMPTY] orbs into Matching orbs and delays all enemies for 1 turn",
     "specialName": "Blooming Flower Spear"
   },
+  "aliases": [
+    "ニコ・ロビン 革命の加担者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,14 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1884.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1884.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

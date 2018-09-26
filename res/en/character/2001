@@ -135,6 +135,13 @@
       }
     ]
   },
+  "aliases": [
+    "トラファルガー・ロー 元王下七武海",
+    "",
+    "Super Law",
+    "Mega Law",
+    "V1 Law"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -155,9 +162,52 @@
     17,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2001,
+    "evolvers": [
+      "skullPSY",
+      118,
+      87,
+      303,
+      267
+    ],
+    "from": 1045
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2001.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2001.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Young Donquixote Pirates - Baby 5 And Buffalo Fortnight",
+      "thumb": 1287,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Targeted Mermaid Princess! Fortnight",
+      "thumb": 1597,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

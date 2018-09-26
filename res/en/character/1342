@@ -6,6 +6,11 @@
     "specialNotes": "#{silence}",
     "specialName": "Rogue Threat"
   },
+  "aliases": [
+    "カーリー・ダダン",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -30,5 +35,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1342.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1342.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "3D2Y",
+      "thumb": 1353,
+      "data": [
+        "01"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Mysterious Warlord! Fortnight",
+      "thumb": 1581,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

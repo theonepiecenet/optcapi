@@ -82,6 +82,13 @@
       }
     ]
   },
+  "aliases": [
+    "トニートニー・チョッパー 新生・麦わらの一味",
+    "",
+    "New World Chopper",
+    "Timeskip Chopper",
+    "TS Chopper"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -102,9 +109,67 @@
     12,
     6
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1370,
+    "evolvers": [
+      1180,
+      85,
+      94,
+      301,
+      101
+    ],
+    "from": 1369
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1370.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1370.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Departure! Whitebeard Pirates Fortnight",
+      "thumb": 1509,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Last Wish for Sanji! Fortnight",
+      "thumb": 1918,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Kuzan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Nekomamushi"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

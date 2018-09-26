@@ -5,6 +5,11 @@
     "special": "Deals 20x Character's ATK in [INT] damage to all enemies. If HP is full at the time the special was activated, boosts ATK of Driven characters by 2x for 1 turn, 1.5x otherwise",
     "specialName": "Half Moon Glaive"
   },
+  "aliases": [
+    "ディアマンテ はためく旗（フラッグ）人間",
+    "",
+    "Coliseum Diamante"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1421.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1421.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Former King's Land to Royal Palace Top Floor",
+      "thumb": 1784,
+      "data": [
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Royal Palace Top Floor to Town Center",
+      "thumb": 2126,
+      "data": [
+        "09"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

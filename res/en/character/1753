@@ -79,6 +79,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ロロノア・ゾロ 20th Anniversary Memorial Treasure",
+    "",
+    "20th Anniversary Zoro"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -99,9 +104,35 @@
     18,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1753,
+    "evolvers": [
+      82,
+      88,
+      93,
+      99,
+      104
+    ],
+    "from": 1752
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1753.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1753.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "21st Anniversary Island",
+      "thumb": 1682,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

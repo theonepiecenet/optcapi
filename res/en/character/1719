@@ -6,6 +6,11 @@
     "special": "Changes adjacent orbs into [G] orbs",
     "specialName": "Phantasmagoric \"Weapon-Morphosis\""
   },
+  "aliases": [
+    "ベビー５ ドンキホーテ海賊団　使用人兼殺し屋",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -30,5 +35,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1719.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1719.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Punk Hazard - Ice Lands to First Floor Room R",
+      "thumb": 1716,
+      "data": [
+        "12"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Former King's Land to Royal Palace Top Floor",
+      "thumb": 1784,
+      "data": [
+        "07"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Baby 5's Journey to Become a Bride Fortnight",
+      "thumb": 2165,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -4,6 +4,11 @@
     "special": "Boosts ATK of Shooter characters by 1.2x for 1 turn",
     "specialName": "Attack Boost: Shooter"
   },
+  "aliases": [
+    "ドンキホーテ海賊団構成員 特殊部隊下級兵",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,5 +30,10 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1788.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1788.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

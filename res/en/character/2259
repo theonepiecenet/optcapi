@@ -5,6 +5,12 @@
     "special": "Deals 800 fixed damage to all enemies that will ignore damage negating abilities and barriers, reduces Despair duration by 5 turns and reduces enemies' Resilience and Enrage Buffs duration by 5 turns.",
     "specialName": "Baptism of Evil"
   },
+  "aliases": [
+    "ヒグマ 山賊棟梁",
+    "",
+    "Secret Higuma",
+    "Limited Higuma"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +31,27 @@
     12,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2259,
+    "evolvers": [
+      "skullHiguma",
+      "skullHiguma",
+      "skullHiguma",
+      "skullHiguma",
+      "skullHiguma"
+    ],
+    "from": 2258
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2259.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2259.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

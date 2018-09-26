@@ -42,6 +42,11 @@
       }
     ]
   },
+  "aliases": [
+    "赤髪のシャンクス 新しい時代への祝杯",
+    "",
+    "TM Shanks"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -54,14 +59,26 @@
     "slots": 1,
     "level": 99,
     "exp": 5000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 2578,
+    "maxATK": 1452,
+    "maxRCV": 280
   },
   "cooldown": null,
-  "evolve": [],
+  "evolve": {
+    "evolution": 2261,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      102
+    ],
+    "from": 2260
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2261.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2261.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

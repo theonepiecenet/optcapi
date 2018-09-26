@@ -137,6 +137,12 @@
       }
     ]
   },
+  "aliases": [
+    "“天夜叉”ドフラミンゴ 鳥カゴの支配者",
+    "",
+    "V2 Doffy",
+    "V2 Doflamingo"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -157,9 +163,35 @@
     22,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1910,
+    "evolvers": [
+      118,
+      102,
+      97,
+      102,
+      267
+    ],
+    "from": 1909
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1910.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1910.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Strawhat Pirates Pizza Party!! Lunch Fortnight",
+      "thumb": 2087,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

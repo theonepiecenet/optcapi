@@ -6,6 +6,12 @@
     "specialName": "Trial of Annihilation",
     "specialNotes": "Level 1-10: 2.5x chain lock<br>Level 11-20: 2.75x chain lock<br>Level 21+: 3x chain lock"
   },
+  "aliases": [
+    "ベン・ベックマン 光を止める銃口",
+    "",
+    "Limited Ben Beckman",
+    "Secret Ben Beckman"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +46,14 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2059.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2059.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

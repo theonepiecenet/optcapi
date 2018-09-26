@@ -7,6 +7,11 @@
     "specialName": "Reporting on a Bizarre Incident",
     "sailor": "Boosts base ATK, HP and RCV for [INT] characters by 50"
   },
+  "aliases": [
+    "ブランニュー 正義への注進",
+    "",
+    "Brannew"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -41,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2030.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2030.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

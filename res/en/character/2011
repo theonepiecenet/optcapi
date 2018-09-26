@@ -5,6 +5,11 @@
     "special": "Deals 50,000 fixed damage to one enemy and reduces Bind and enemy's Percent Damage Reduction duration by 3 turns",
     "specialName": "Fangs of Crushing Ice"
   },
+  "aliases": [
+    "モネ “猛獣”に挑む雪女",
+    "",
+    "Limited Monet"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +30,28 @@
     10,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2011,
+    "evolvers": [
+      117,
+      82,
+      93,
+      304,
+      104
+    ],
+    "from": 2010
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2011.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2011.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

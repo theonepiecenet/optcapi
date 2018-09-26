@@ -7,6 +7,11 @@
     "sailor": "Makes [PSY] orbs \"beneficial\" for this character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "ヴィンスモーク・レイジュ ジェルマの復活計画",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -41,5 +46,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1917.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1917.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Last Wish for Sanji! Fortnight",
+      "thumb": 1918,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

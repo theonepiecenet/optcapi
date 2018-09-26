@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "破壊砲　イデオ ＸＸＸ級ボクサー",
+    "",
+    "Coliseum Ideo"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +105,24 @@
     28,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1487,
+    "evolvers": [
+      118,
+      266,
+      97,
+      302,
+      102
+    ],
+    "from": 1486
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1487.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1487.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

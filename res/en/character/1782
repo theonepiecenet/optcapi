@@ -6,6 +6,11 @@
     "special": "Delays all enemies for 2 turns, deals 25x character's ATK in [QCK] damage to all enemies",
     "specialName": "Military Head"
   },
+  "aliases": [
+    "首領・チンジャオ チンジャオファミリー",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -30,5 +35,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1782.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1782.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Port Town Acacia to Coliseum",
+      "thumb": 1782,
+      "data": [
+        "05",
+        "12"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Pound and King Baum Fortnight",
+      "thumb": 2253,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

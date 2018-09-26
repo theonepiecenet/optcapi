@@ -5,6 +5,11 @@
     "special": "Reduces Bind duration by 2 turns and amplifies the effect of orbs for Cerebral characters by 1.5x and boosts ATK of Cerebral characters by 1.5x for 1 turn.",
     "specialName": "The Witch's Meal"
   },
+  "aliases": [
+    "シャーロット・ブリュレ ブリュレ一派",
+    "",
+    "Brulee"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2127.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2127.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Brûlée's Gibier Party Fortnight",
+      "thumb": 2127,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

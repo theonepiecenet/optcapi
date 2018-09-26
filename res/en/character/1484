@@ -6,6 +6,11 @@
     "sailor": "Changes all orbs into [RCV] orbs at the start of the fight.",
     "specialName": "Wild Shot"
   },
+  "aliases": [
+    "サンジ 野生の海賊",
+    "",
+    "Wild Sanji"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +45,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1484.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1484.png"
-  }
+  },
+  "flags": {
+    "shop": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

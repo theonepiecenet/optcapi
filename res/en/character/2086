@@ -5,6 +5,11 @@
     "special": "Recovers 3,000 HP, changes right column [STR], [DEX], [QCK], [PSY], or [INT] orbs into Matching orbs and boosts ATK of [DEX], [QCK] and [INT] characters by 1.75x for 1 turn",
     "specialName": "A Full Bloom Bright Smile"
   },
+  "aliases": [
+    "サンジ Celebrate the exciting cruise",
+    "",
+    "Anniversary Sanji"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +30,26 @@
     13,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2086,
+    "evolvers": [
+      83,
+      86,
+      1180,
+      302,
+      102
+    ],
+    "from": 2085
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2086.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2086.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

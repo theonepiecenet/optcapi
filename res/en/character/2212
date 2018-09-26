@@ -6,6 +6,13 @@
     "specialName": "Eyes Hiding Shyness",
     "sailor": "Reduces Paralysis duration by 1 turn"
   },
+  "aliases": [
+    "シャーロット・プリン サマースイート",
+    "",
+    "Secret Pudding",
+    "Summer Pudding",
+    "Swimsuit Pudding"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +47,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2212.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2212.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

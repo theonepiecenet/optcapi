@@ -5,6 +5,11 @@
     "special": "Changes own orb into [QCK], deals 15x character's ATK in [QCK] damage to one enemy",
     "specialName": "Gum-Gum Twin Jet Pistol: Snowflake"
   },
+  "aliases": [
+    "ルフィの冬島冒険",
+    "",
+    "Winter Luffy"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -29,5 +34,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1360.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1360.png"
-  }
+  },
+  "flags": {
+    "special": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

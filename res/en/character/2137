@@ -166,6 +166,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "サー・クロコダイル 渇きを統べる海賊",
+    "",
+    "TM Crocodile",
+    "TM Mr. 0"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -186,9 +192,21 @@
     32,
     25
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2137,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      104
+    ],
+    "from": 2136
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2137.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2137.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

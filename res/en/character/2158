@@ -95,6 +95,11 @@
       }
     ]
   },
+  "aliases": [
+    "千手のクラッカー",
+    "",
+    "Raid Cracker"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -115,9 +120,21 @@
     30,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2158,
+    "evolvers": [
+      118,
+      97,
+      1180,
+      302,
+      102
+    ],
+    "from": 2157
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2158.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2158.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

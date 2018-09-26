@@ -5,6 +5,14 @@
     "special": "Deals 15x character's ATK in [DEX] damage to all enemies, delays all enemies for 1 turn and if enemies have a barrier at the time the special was activated, boosts ATK of all characters by 1.75x, 1.5x otherwise.",
     "specialName": "Lightning Slash"
   },
+  "aliases": [
+    "全力のシシリアン モコモ公国　犬嵐銃士隊隊長",
+    "",
+    "Secret Sicilian",
+    "Limited Sicilian",
+    "Secret Shishilian",
+    "Limited Shishilian"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +33,27 @@
     10,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2171,
+    "evolvers": [
+      117,
+      80,
+      91,
+      97,
+      102
+    ],
+    "from": 2170
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2171.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2171.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -8,6 +8,11 @@
     "sailor": "Makes [PSY] orbs \"beneficial\" for this character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "ヴィンスモーク・イチジ ジェルマの復活計画　最高傑作",
+    "",
+    "Kid Ichiji"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -32,5 +37,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2056.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2056.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Germa's Lineage Factor! Fortnight",
+      "thumb": 2056,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

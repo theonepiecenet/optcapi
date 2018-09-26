@@ -5,6 +5,16 @@
     "specialName": "Ice Block - Pheasant Beak [Neo]",
     "captain": "Boosts ATK and HP of Striker characters by 2x"
   },
+  "aliases": [
+    "青キジ　氷結人間「改」",
+    "",
+    "Kai Aokiji",
+    "Kai Kuzan",
+    "Raid Aokiji",
+    "Raid Kuzan",
+    "Neo Aokiji",
+    "Neo Kuzan"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +35,24 @@
     26,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1669,
+    "evolvers": [
+      118,
+      86,
+      266,
+      302,
+      102
+    ],
+    "from": 1668
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1669.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1669.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

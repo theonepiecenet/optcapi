@@ -30,6 +30,12 @@
     "specialNotes": "#{stages}",
     "sailor": "Boosts base ATK of Cerebral characters by 75"
   },
+  "aliases": [
+    "バジル・ホーキンス",
+    "",
+    "Secret Hawkins",
+    "Limited Hawkins"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -64,5 +70,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1973.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1973.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

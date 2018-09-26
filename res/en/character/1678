@@ -79,6 +79,13 @@
       }
     ]
   },
+  "aliases": [
+    "トラファルガー・ロー 大海賊時代への誓い「自由」",
+    "",
+    "Log Law",
+    "Secret Law",
+    "Limited Law"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -99,9 +106,52 @@
     11,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1678,
+    "evolvers": [
+      118,
+      88,
+      99,
+      304,
+      104
+    ],
+    "from": 1677
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1678.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1678.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "I'm Now Your Ideal Type! I Think Fortnight",
+      "thumb": 1947,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Blitz! Straw Hat Pirates",
+      "thumb": 1404,
+      "data": [
+        "All Bosses"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Blitz! Doflamingo Family",
+      "thumb": 870,
+      "data": [
+        "Japan"
+      ]
+    }
+  ]
 }

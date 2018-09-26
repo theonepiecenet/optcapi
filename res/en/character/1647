@@ -21,6 +21,14 @@
     ],
     "specialNotes": "#{stages}"
   },
+  "aliases": [
+    "ピーカ「改」 ドンキホーテ海賊団",
+    "",
+    "Kai Pica",
+    "STR Pica",
+    "Neo Pica",
+    "Raid Pica"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -41,9 +49,21 @@
     26,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1647,
+    "evolvers": [
+      118,
+      84,
+      266,
+      300,
+      100
+    ],
+    "from": 1646
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1647.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1647.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

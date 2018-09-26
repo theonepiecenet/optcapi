@@ -7,6 +7,13 @@
     "sailor": "If your Captain is a[STR] character, boosts this character's attack against [STR] characters by 1.5x",
     "specialName": "Gomu Gomu no Hawk Rifle"
   },
+  "aliases": [
+    "ルーシー コリーダコロシアムＣブロックの謎の剣闘士",
+    "",
+    "Luffy",
+    "Coliseum Luffy",
+    "Coliseum Lucy"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -41,5 +48,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1791.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1791.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    }
+  ],
+  "manual": []
 }

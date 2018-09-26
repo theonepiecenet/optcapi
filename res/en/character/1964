@@ -5,6 +5,12 @@
     "special": "Deals ??x character's ATK in Typeless damage to all enemies, delays all enemies for 1 turn and changes adjacent orbs into [RCV] orbs",
     "specialName": "Gomu Gomu no Butt Stomp"
   },
+  "aliases": [
+    "蘇る伝説 オーズ",
+    "",
+    "Devil Oars",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1964.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1964.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "The Beast's Return Fortnight",
+      "thumb": 1965,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

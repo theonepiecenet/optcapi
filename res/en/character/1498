@@ -5,6 +5,11 @@
     "special": "Changes Captain's orb into [STR]",
     "specialName": "Captain Slot Change - [STR]"
   },
+  "aliases": [
+    "赤のアンモナイツ 丈夫な警備隊",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,5 +31,10 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1498.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1498.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

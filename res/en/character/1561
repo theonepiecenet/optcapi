@@ -5,6 +5,11 @@
     "special": "Boosts ATK of Striker characters by 1.5x for 1 turn, deals 25x character's ATK in [INT] damage to one enemy",
     "specialName": "Explosive Nail Hammer"
   },
+  "aliases": [
+    "ドスン",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1561.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1561.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "King Neptune's Execution Site - Noah's Ark",
+      "thumb": 1562,
+      "data": [
+        "05",
+        "11"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Branded in Shackles! Fortnight",
+      "thumb": 1933,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

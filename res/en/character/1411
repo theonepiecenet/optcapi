@@ -7,6 +7,14 @@
     "specialName": "Carving Hoof Palm: Coconut",
     "sailor": "If this character has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next turn"
   },
+  "aliases": [
+    "トニートニー・チョッパー　脚力強化 集結の麦わらの一味",
+    "",
+    "New World Chopper",
+    "Timeskip Chopper",
+    "TS Chopper",
+    "Monster Chopper"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -41,5 +49,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1411.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1411.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,13 @@
     "special": "Removes all positive buffs on your team, recovers 1,224 HP, changes Badly Matching orbs into Matching orbs. Boosts ATK of Driven characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for Driven characters for 1 turn",
     "specialName": "A Star Descending from the Twinkling Night Sky"
   },
+  "aliases": [
+    "キャベンディッシュ White Night",
+    "",
+    "Adventure Cavendish",
+    "TM Cavendish",
+    "Cabbage"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +46,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1888.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1888.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "White Knight Cavendish",
+      "thumb": 1889,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
 }

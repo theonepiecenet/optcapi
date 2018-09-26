@@ -4,6 +4,11 @@
     "special": "Boosts chances of getting [RCV] orbs for 2 turns",
     "specialName": "Meat for Meat"
   },
+  "aliases": [
+    "ドンキホーテ海賊団構成員 偵察部隊下級兵",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,5 +30,10 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1789.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1789.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -7,6 +7,11 @@
     "sailor": "Boosts base ATK, HP and RCV of Cerebral characters by 75",
     "specialName": "Great Ocean Current of Resuscitation"
   },
+  "aliases": [
+    "ネプチューン 海の大騎士",
+    "",
+    "Coliseum Neptune"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -41,5 +46,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2122.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2122.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -80,6 +80,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ヴィンスモーク・サンジ ジェルマ王国",
+    "",
+    "Raid Sanji"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +105,24 @@
     30,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1815,
+    "evolvers": [
+      118,
+      95,
+      1180,
+      300,
+      100
+    ],
+    "from": 1814
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1815.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1815.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

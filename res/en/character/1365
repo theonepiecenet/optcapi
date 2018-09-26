@@ -30,6 +30,13 @@
     "specialNotes": "#{silence}<br>#{stages}",
     "specialName": "Black Ball - Thundercloud Rod"
   },
+  "aliases": [
+    "ナミ 集結の麦わらの一味",
+    "",
+    "New World Nami",
+    "Timeskip Nami",
+    "TS Nami"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -64,5 +71,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1365.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1365.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

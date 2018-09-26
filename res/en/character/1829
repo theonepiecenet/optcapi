@@ -5,6 +5,11 @@
     "special": "Deals 45x character's ATK in typeless damage to all enemies, amplifies the effect of orbs by 1.75x for Cerebral and Driven characters for 2 turns and poisons all enemies",
     "spcialName": "Flammable Type: Miok GAS"
   },
+  "aliases": [
+    "シーザー・クラウン 大気の支配者",
+    "",
+    "Raid Caesar"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1829.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1829.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Caesar Raid",
+      "thumb": 1830,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

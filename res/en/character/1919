@@ -5,6 +5,11 @@
     "special": "Reduces enemies Percent Damage Reduction and Increased Defense duration by 2 turns and switches orbs between slots twice",
     "specialName": "Iron Mask of Dreams"
   },
+  "aliases": [
+    "ヴィンスモーク・サンジ ジェルマの復活計画",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Cerebral",
@@ -36,5 +41,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1919.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1919.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Last Wish for Sanji! Fortnight",
+      "thumb": 1918,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

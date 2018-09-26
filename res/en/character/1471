@@ -6,6 +6,11 @@
     "special": "Reduces crew's HP by 90%, deals 1x the removed HP as damage to all enemies.",
     "specialName": "Deep Claw Stab"
   },
+  "aliases": [
+    "深手の・アルビオン",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -30,5 +35,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1471.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1471.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Gatekeeper of the New World! Fortnight",
+      "thumb": 1469,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

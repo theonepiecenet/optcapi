@@ -6,6 +6,16 @@
     "specialName": "Overheat [Neo]",
     "captain": "Boosts ATK of Slasher characters by 2x"
   },
+  "aliases": [
+    "ドンキホーテ・ドフラミンゴ「改」",
+    "",
+    "Kai Doffy",
+    "Kai Doflamingo",
+    "Neo Doffy",
+    "Neo Doflamingo",
+    "Raid Doffy",
+    "Raid Doflamingo"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +50,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1622.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1622.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Doflamingo Raid",
+      "thumb": 1623,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

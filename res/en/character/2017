@@ -5,6 +5,12 @@
     "special": "Deals 20x Character's ATK in [PSY] damage to all enemies and changes [BLOCK] orbs into Matching orbs. If HP is above 50% at the time the special is activated, boosts ATK of Driven characters by 2x for 1 turn, 1.5x otherwise",
     "specialName": "Half Moon Glaive [Neo]"
   },
+  "aliases": [
+    "ディアマンテ「改」 ドンキホーテファミリー最高幹部",
+    "",
+    "Neo Diamante",
+    "Kai Diamante"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +31,24 @@
     26,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2017,
+    "evolvers": [
+      118,
+      94,
+      98,
+      303,
+      103
+    ],
+    "from": 2016
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2017.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2017.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

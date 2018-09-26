@@ -6,6 +6,12 @@
     "specialNotes": "#{ignoreBarrier}",
     "specialName": "Gravity Blade: Fierce Tiger"
   },
+  "aliases": [
+    "藤虎 海軍本部最高戦力",
+    "",
+    "Raid Issho",
+    "Raid Fujitora"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +46,21 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1594.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1594.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Fujitora Raid",
+      "thumb": 1595,
+      "data": [
+        "Expert",
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

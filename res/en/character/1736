@@ -5,6 +5,11 @@
     "special": "Delays all enemies for 1 turn and deals 20x character's ATK as [INT] damage to all enemies at the end of the turn for 2 turns",
     "specialName": "Sticky Sticky Burning Explosion"
   },
+  "aliases": [
+    "トレーボル ベタベタの実の能力者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1736.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1736.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Coliseum Lodging to Executive Tower",
+      "thumb": 2004,
+      "data": [
+        "12"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Underground Trade Port! Escape! Fortnight",
+      "thumb": 1735,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

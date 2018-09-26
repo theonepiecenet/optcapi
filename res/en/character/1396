@@ -6,6 +6,11 @@
     "specialName": "Surprise Jitte Onslaught",
     "specialNotes": "#{randomHits : 7}"
   },
+  "aliases": [
+    "たしぎ シャンブルズ",
+    "",
+    "Smoker"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +45,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1396.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1396.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Punk Hazard - Burning Lands to Laboratory",
+      "thumb": 1637,
+      "data": [
+        "14"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Shambles! Tashigi and Smoker?!? Fortnight",
+      "thumb": 1397,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -137,6 +137,11 @@
       }
     ]
   },
+  "aliases": [
+    "“ソウルキング”ブルック 魂のスペシャルライブ",
+    "",
+    "Legend Brook"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -157,9 +162,25 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2236,
+    "evolvers": [
+      118,
+      86,
+      302,
+      102,
+      267
+    ],
+    "from": 2235
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2236.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2236.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

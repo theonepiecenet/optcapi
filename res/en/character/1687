@@ -8,6 +8,11 @@
     "sailor": "Restores his own special cooldown by 3 turns when it is rewinded",
     "sailorNotes": "#{rewind : 3}"
   },
+  "aliases": [
+    "フランキー Celebrate 20th Anniversary Cruise",
+    "",
+    "20th Anniversary Franky"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -42,5 +47,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1687.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1687.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

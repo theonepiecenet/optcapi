@@ -5,6 +5,12 @@
     "special": "Reduces enemies Increased Defense duration by 2 turns and changes own orb into [STR]. If your Captain is a Cerebral character, Locks the chain multiplier at 2.5x for 1 turn.",
     "specialName": "Dog Treat"
   },
+  "aliases": [
+    "イヌアラシ公爵 モコモ公国",
+    "",
+    "Dogstorm",
+    "Dog Storm"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +31,21 @@
     19,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2219,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ],
+    "from": 2218
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2219.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2219.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

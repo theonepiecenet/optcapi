@@ -5,6 +5,12 @@
     "special": "Cuts the current HP of one enemy by 20%, locks all orbs for 1 turn and boosts ATK of characters with the same Type as your Captain by 1.75x for 3 turns",
     "specialName": "Ama no Murakumo"
   },
+  "aliases": [
+    "黄猿 急追する一閃",
+    "",
+    "TM Kizaru",
+    "TM Borsalino"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2063.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2063.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Borsalino",
+      "thumb": 2064,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
 }

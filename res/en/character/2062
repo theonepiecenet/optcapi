@@ -5,6 +5,12 @@
     "special": "Reduces Chain Multiplier Limit and Chain Coefficient Reduction duration by 4 turns and reduces damage received from [DEX] enemies by 80%",
     "specialName": "Noise & Escape"
   },
+  "aliases": [
+    "“海鳴り”スクラッチメン・アプー 光を震わす爆音",
+    "",
+    "Limted Apoo",
+    "Secret Apoo"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +31,28 @@
     11,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2062,
+    "evolvers": [
+      117,
+      78,
+      89,
+      95,
+      100
+    ],
+    "from": 2061
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2062.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2062.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -136,6 +136,11 @@
       }
     ]
   },
+  "aliases": [
+    "サカズキ 天下分け目の死闘",
+    "",
+    "V2 Akainu"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -156,9 +161,43 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2023,
+    "evolvers": [
+      118,
+      118,
+      304,
+      304,
+      267
+    ],
+    "from": 2022
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2023.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2023.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Pound and King Baum Fortnight",
+      "thumb": 2253,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Blitz! Akainu vs Aokiji",
+      "thumb": 2023,
+      "data": [
+        "Aokiji"
+      ]
+    }
+  ]
 }

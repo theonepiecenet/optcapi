@@ -81,6 +81,11 @@
       }
     ]
   },
+  "aliases": [
+    "ヴィンスモーク・ヨンジ 科学戦闘部隊ジェルマ６６",
+    "",
+    "Green Ranger"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -111,9 +116,43 @@
       "skullYonji"
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 1840,
+    "evolvers": [
+      86,
+      266,
+      97,
+      302,
+      102
+    ],
+    "from": 1839
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1840.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1840.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Beast's Return Fortnight",
+      "thumb": 1965,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Judge"
+      ]
+    }
+  ]
 }

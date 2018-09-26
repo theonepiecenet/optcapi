@@ -20,6 +20,11 @@
     ],
     "specialName": "The Sun under the Rain"
   },
+  "aliases": [
+    "コラソン 消える雨音",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,9 +45,25 @@
     10,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1662,
+    "evolvers": [
+      118,
+      85,
+      1180,
+      301,
+      101
+    ],
+    "from": 1661
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1662.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1662.png"
-  }
+  },
+  "flags": {
+    "shop": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

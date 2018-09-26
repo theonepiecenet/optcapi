@@ -22,6 +22,13 @@
     "specialName": "30,000,000 Volt: Hino",
     "specialNotes": "#{stages}"
   },
+  "aliases": [
+    "エネル スカイピア唯一神",
+    "",
+    "Coliseum Enel",
+    "Coliseum Eneru",
+    "Coliseum Kami Enel"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -56,5 +63,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1896.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1896.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "Kami's Return",
+      "thumb": 2232,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

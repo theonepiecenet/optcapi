@@ -149,6 +149,11 @@
       }
     ]
   },
+  "aliases": [
+    "しらほし姫 リュウグウ王国王女",
+    "",
+    "Legend Shirahoshi-hime"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Striker",
@@ -166,9 +171,51 @@
     22,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1473,
+    "evolvers": [
+      118,
+      266,
+      98,
+      267,
+      303
+    ],
+    "from": 1472
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1473.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1473.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Seeking The Best Art! Giolla and Brook! Fortnight",
+      "thumb": 1649,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Brûlée's Gibier Party Fortnight",
+      "thumb": 2127,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Shirahoshi"
+      ]
+    }
+  ]
 }

@@ -11,6 +11,12 @@
     "sailorNotes": "#{beneficial}",
     "specialName": "Glorious Scenery"
   },
+  "aliases": [
+    "”女帝”　ボア・ハンコック 華の蛇姫",
+    "",
+    "Limited Boa Hancock",
+    "Kimono Boa"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -31,9 +37,27 @@
     11,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2039,
+    "evolvers": [
+      115,
+      115,
+      90,
+      96,
+      301
+    ],
+    "from": 2038
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2039.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2039.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

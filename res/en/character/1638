@@ -4,6 +4,11 @@
     "special": "Boosts chances of getting [RCV] orbs for 2 turns",
     "specialName": "Meat for Meat"
   },
+  "aliases": [
+    "ＰＨガスマスク巡回兵・[力]",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -28,5 +33,10 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1638.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1638.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

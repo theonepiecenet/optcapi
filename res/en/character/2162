@@ -4,8 +4,14 @@
     "captain": "Boosts ATK of Fighter characters by 2x and their HP by 1.25x",
     "special": "Cuts the current HP of each enemy by 20%. If your crew has 5 or more Fighter characters, reduces Increase Damage Taken, Blindness and Despair duration by 7 turns and delays all enemies for 1 turn.",
     "specialName": "Cream Monster",
-    "sailor": "Makes [STR] orbs \"beneficial\" for Fighter characters"
+    "sailor": "Makes [STR] orbs \"beneficial\" for Fighter characters",
+    "specialNotes": "#{beneficial}"
   },
+  "aliases": [
+    "シャーロット・オペラ",
+    "",
+    "Coliseum Opera"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +46,24 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2162.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2162.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    }
+  ],
+  "manual": []
 }

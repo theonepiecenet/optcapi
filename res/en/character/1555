@@ -5,6 +5,11 @@
     "special": "Boosts ATK of [DEX] characters and amplifies the effect of orbs for [DEX] characters by 1.35x for 1 turn",
     "specialName": "Pure Body and Soul"
   },
+  "aliases": [
+    "剣豪リューマ 侍の将軍ゾンビ",
+    "",
+    "Coliseum Ryuma"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Slasher",
@@ -22,9 +27,21 @@
     16,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1555,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      302
+    ],
+    "from": 1554
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1555.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1555.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

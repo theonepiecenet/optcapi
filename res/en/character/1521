@@ -6,6 +6,11 @@
     "special": "Reduces Despair duration by 1 turn, recovers 1,000 HP at the end of each turn for 2 turns",
     "specialName": "Affectionate Circumstances"
   },
+  "aliases": [
+    "ドグラ",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Slasher",
@@ -27,5 +32,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1521.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1521.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Bandits! Dadan Family! Fortnight",
+      "thumb": 1520,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

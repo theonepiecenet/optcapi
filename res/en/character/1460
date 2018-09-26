@@ -6,6 +6,11 @@
     "specialNotes": "#{beneficial}",
     "specialName": "Crescendo Stone"
   },
+  "aliases": [
+    "ミス・バレンタイン Ｂ・Ｗオフィサーエージェント",
+    "",
+    "Coliseum Miss Valentine"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,9 +31,23 @@
     22,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1460,
+    "evolvers": [
+      117,
+      78,
+      89,
+      95
+    ],
+    "from": 1459
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1460.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1460.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

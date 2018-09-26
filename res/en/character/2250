@@ -21,6 +21,11 @@
     "specialName": "Fist of Love",
     "specialNotes": "#{silence}"
   },
+  "aliases": [
+    "モンキー・D・ガープ 海賊王の宿敵",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -55,5 +60,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2250.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2250.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

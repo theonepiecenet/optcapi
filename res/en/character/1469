@@ -5,6 +5,11 @@
     "special": "Delays all enemies for 1 turn. Changes own orb into Matching orb",
     "specialName": "Warning of the New World"
   },
+  "aliases": [
+    "鉞の戦桃丸 海兵",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +30,24 @@
     18,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1469,
+    "evolvers": [
+      117,
+      78,
+      84,
+      89,
+      100
+    ],
+    "from": 1468
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1469.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1469.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

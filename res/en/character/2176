@@ -5,6 +5,13 @@
     "special": "Reduces Bind duration by 2 turns and changes own orb into [QCK]. If your Captain is a Striker character, adds .5x to Chain multiplier for 2 turns.",
     "specialName": "Cat Toy"
   },
+  "aliases": [
+    "ネコマムシの旦那",
+    "",
+    "FN Cat Viper",
+    "FN Catviper",
+    "FN Nekomamushi"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +46,24 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2176.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2176.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mokomo Dukedom",
+      "thumb": 2231,
+      "data": [
+        "08"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Let's Go See Master Nekomamushi! Fortnight",
+      "thumb": 2177,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

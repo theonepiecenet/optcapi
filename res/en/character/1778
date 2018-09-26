@@ -81,6 +81,14 @@
       }
     ]
   },
+  "aliases": [
+    "黄猿 聖地からの光臨",
+    "",
+    "Secret Kizaru",
+    "Secret Borsalino",
+    "Limited Kizaru",
+    "Limited Borsalino"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -101,9 +109,36 @@
     15,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1778,
+    "evolvers": [
+      118,
+      85,
+      96,
+      301,
+      101
+    ],
+    "from": 1777
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1778.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1778.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Commotion at Makino's Tavern?! Fortnight",
+      "thumb": 2021,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

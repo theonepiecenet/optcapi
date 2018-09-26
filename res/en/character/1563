@@ -22,6 +22,11 @@
     "specialName": "Battle Royale Rush",
     "sailor": "Boosts own base ATK by 350 if this character is the last in the chain to attack"
   },
+  "aliases": [
+    "“戦う王”エリザベローII世",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -56,5 +61,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1563.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1563.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Friends! Fortnight",
+      "thumb": 1564,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

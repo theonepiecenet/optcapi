@@ -5,6 +5,11 @@
     "special": "Recovers 3x character's RCV in HP after the end of each turn for 10 turns",
     "specialName": "Constantly Eating Meat"
   },
+  "aliases": [
+    "ラッキー・ルウ 港村の海賊",
+    "",
+    "Lucky Roux"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +34,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2045.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2045.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Red Hair Pirates at the Harbor! Fortnight",
+      "thumb": 2044,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

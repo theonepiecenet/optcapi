@@ -6,6 +6,12 @@
     "specialNotes": "Level 1-10: 1.75x ATK boost<br>Level 11-20: 2x ATK boost<br>Level 21+: 2.25x ATK boost",
     "specialName": "Gomu Gomu no Fireworks: Golden Peony"
   },
+  "aliases": [
+    "モンキー・D・ルフィ 島の歌声",
+    "",
+    "Secret Luffy",
+    "Limited Luffy"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -26,9 +32,21 @@
     13,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2207,
+    "evolvers": [
+      117,
+      80,
+      91,
+      97,
+      102
+    ],
+    "from": 2206
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2207.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2207.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

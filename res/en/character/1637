@@ -5,6 +5,11 @@
     "special": "Boosts ATK against Poisoned and Strongly Poisoned enemies by 1.3x for 3 turns and changes [BOMB] orbs into matching orbs",
     "specialName": "Gastanet"
   },
+  "aliases": [
+    "Ｍ（マスター）・シーザー 元政府の科学者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -51,5 +56,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1637.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1637.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Germa's Lineage Factor! Fortnight",
+      "thumb": 2056,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

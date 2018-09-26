@@ -33,6 +33,15 @@
       }
     ]
   },
+  "aliases": [
+    "ロロノア・ゾロ 新生・麦わらの一味",
+    "",
+    "New World Zoro",
+    "Timeskip Zoro",
+    "TS Zoro",
+    "Legend Zoro",
+    "Legend Roronoa Zoro"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -63,9 +72,75 @@
       267
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 1362,
+    "evolvers": [
+      118,
+      86,
+      266,
+      302,
+      267
+    ],
+    "from": 1361
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1362.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1362.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Friends! Fortnight",
+      "thumb": 1564,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Volatile Meal! Bonney and Bege! Fortnight",
+      "thumb": 1982,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Zoro"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Zoro"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Pirate Hunter's Memories of Training",
+      "thumb": 1900,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,13 @@
     "special": "Boosts ATK of all characters by 1.1x, slightly boosts chances of getting matching orbs and amplifies the effect of orbs by 1.1x for 7 turns",
     "specialName": "Three Forked Tongue"
   },
+  "aliases": [
+    "デマロ・ブラック",
+    "",
+    "Fake Straw Hat",
+    "Impostor Straw Hat",
+    "Imposter Straw Hat"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +36,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1393.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1393.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago Redux",
+      "thumb": 1393,
+      "data": [
+        "03"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Battle Royale! Fortnight",
+      "thumb": 1766,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,12 @@
     "special": "Reduces the defense of all enemies by 100% for 1 turn and changes own orb into [PSY] and friend captain's orb into [STR]",
     "specialName": "Rosy Pleasure"
   },
+  "aliases": [
+    "キャベンディッシュ 白い日の白昼夢",
+    "",
+    "White Day Cavendish",
+    "White Day Cabbage"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +31,27 @@
     15,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1467,
+    "evolvers": [
+      117,
+      85,
+      87,
+      96,
+      98
+    ],
+    "from": 1466
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1467.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1467.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

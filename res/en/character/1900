@@ -5,6 +5,11 @@
     "special": "Changes own orb into [QCK], boosts own ATK by 1.5x for 1 turn and deals 20x character's ATK in [QCK] damage to one enemy",
     "specialName": "One Sword Style: Baki"
   },
+  "aliases": [
+    "ロロノア・ゾロ ドレスローザ解放の一味",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -29,5 +34,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1900.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1900.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Pirate Hunter's Memories of Training",
+      "thumb": 1900,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

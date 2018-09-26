@@ -151,6 +151,15 @@
       }
     ]
   },
+  "aliases": [
+    "“王下七武海”トラファルガー・ロー “ジョーカー”を狙う“ハート”",
+    "",
+    "Korean Law",
+    "Legend Korean Law",
+    "Legend Trafalgar Law",
+    "Legend Law",
+    "Shichibukai"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -181,9 +190,51 @@
       267
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 1751,
+    "evolvers": [
+      118,
+      85,
+      266,
+      301,
+      267
+    ],
+    "from": 1750
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1751.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1751.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Targeted Mermaid Princess! Fortnight",
+      "thumb": 1597,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Last Wish for Sanji! Fortnight",
+      "thumb": 1918,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

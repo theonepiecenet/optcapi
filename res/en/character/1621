@@ -80,6 +80,16 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ユースタス・キッド 大海賊時代への誓い「海賊王」",
+    "",
+    "Log Kid",
+    "Secret Kid",
+    "Log Kidd",
+    "Secret Kidd",
+    "Limited Kid",
+    "Limited Kidd"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +110,61 @@
     17,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1621,
+    "evolvers": [
+      118,
+      84,
+      266,
+      95,
+      300
+    ],
+    "from": 1620
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1621.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1621.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Supernova! Apoo and Drake! Fortnight",
+      "thumb": 1855,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Blitz! The Three Admirals",
+      "thumb": 1314,
+      "data": [
+        "All Bosses"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Blitz! Straw Hat Pirates",
+      "thumb": 1404,
+      "data": [
+        "All Bosses"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Blitz! Doflamingo Family",
+      "thumb": 870,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ]
 }

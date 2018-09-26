@@ -80,6 +80,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "黒ひげ 元王下七武海",
+    "",
+    "Raid Blackbeard V2",
+    "Raid BB"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -100,9 +106,21 @@
     23,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2197,
+    "evolvers": [
+      118,
+      88,
+      266,
+      99,
+      304
+    ],
+    "from": 2196
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2197.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2197.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

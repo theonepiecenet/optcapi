@@ -79,6 +79,14 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ニコ・ロビン 新生・麦わらの一味",
+    "",
+    "New World Robin",
+    null,
+    "Timeskip Robin",
+    "TS Robin"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -99,9 +107,59 @@
     22,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1408,
+    "evolvers": [
+      1180,
+      117,
+      94,
+      302,
+      303
+    ],
+    "from": 1407
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1408.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1408.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Friends! Fortnight",
+      "thumb": 1564,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Whitebeard Pirates Commanders! Marco and Vista! Fortnight",
+      "thumb": 1997,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Cavendish"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

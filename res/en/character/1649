@@ -5,6 +5,11 @@
     "special": "Reduces damage received by 90% for 1 turn and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX] or [QCK] orbs",
     "specialName": "Sprouting with Beautiful Passion"
   },
+  "aliases": [
+    "ジョーラ トレーボル軍",
+    "",
+    "Jora"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +30,24 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1649,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ],
+    "from": 1648
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1649.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1649.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

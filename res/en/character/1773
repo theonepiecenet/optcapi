@@ -5,6 +5,11 @@
     "special": "Deals 20x character's ATK in [INT] damage to one enemy, amplifies the effect of orbs for Free Spirit characters by 1.5x for 1 turn",
     "sailor": "Boosts base ATK of Free Spirit characters by 25"
   },
+  "aliases": [
+    "“侍”　錦えもん",
+    "",
+    "Kin'emon"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1773.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1773.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Wano Samurai! Fortnight",
+      "thumb": 1774,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

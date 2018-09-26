@@ -137,6 +137,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ビッグ・マム 四皇",
+    "",
+    "Legend Big Mom",
+    "Legend Charlotte Linlin"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -157,9 +163,25 @@
     15,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2234,
+    "evolvers": [
+      1180,
+      300,
+      301,
+      302,
+      267
+    ],
+    "from": 2233
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2234.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2234.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

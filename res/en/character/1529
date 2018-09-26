@@ -6,6 +6,13 @@
     "sailor": "Reduces ATK of all characters by .5x if your Captain is a[STR] or [QCK] character",
     "specialName": "Blue Bird Sword"
   },
+  "aliases": [
+    "キャベンディッシュ 美しき海賊団船長",
+    "",
+    "Invasion Cavendish",
+    "Invasion Cabbage",
+    "Ambush Cavendish"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +47,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1529.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1529.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Invasion! Cavendish",
+      "thumb": 1530,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "special": "Boosts ATK of Driven characters by 1.25x for 5 turns",
     "specialName": "Rolling Rotation"
   },
+  "aliases": [
+    "バッファロー ドンキホーテ海賊団　戦闘員",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +34,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1718.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1718.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Punk Hazard - Ice Lands to First Floor Room R",
+      "thumb": 1716,
+      "data": [
+        "12"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Coliseum Executioner! Diamante Fortnight",
+      "thumb": 2146,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

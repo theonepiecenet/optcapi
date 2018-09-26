@@ -7,6 +7,13 @@
     "sailor": "Makes [TND] orbs \"beneficial\" for this character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "ナミ 真夏のワクワク",
+    "",
+    "Summer Nami",
+    "Swimsuit Nami",
+    "Summertime Nami"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -27,9 +34,24 @@
     15,
     6
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1709,
+    "evolvers": [
+      116,
+      117,
+      79,
+      85,
+      96
+    ],
+    "from": 1708
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1709.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1709.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

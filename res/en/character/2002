@@ -6,6 +6,12 @@
     "specialNotes": "#{specialProportional : lower : ??? * ( 1 - (remaining HP) / (total HP) )}",
     "specialName": "The Man Standing Tall"
   },
+  "aliases": [
+    "セニョール・ピンク ドンキホーテファミリー　格闘集団",
+    "",
+    "Story Senor Pink",
+    "Story Senior Pink"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -30,5 +36,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2002.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2002.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Coliseum Lodging to Executive Tower",
+      "thumb": 2004,
+      "data": [
+        "06",
+        "08"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Former King's Land to Royal Palace Top Floor",
+      "thumb": 1784,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Royal Palace Top Floor to Town Center",
+      "thumb": 2126,
+      "data": [
+        "08"
+      ]
+    }
+  ],
+  "manual": []
 }

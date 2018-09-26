@@ -6,6 +6,14 @@
     "specialName": "Spinning Jump Attack",
     "sailor": "Boosts base ATK, HP and RCV for Slasher characters by 50"
   },
+  "aliases": [
+    "たしぎ スモーカーの右腕",
+    "",
+    "Secret Tashigi",
+    "Limited Tashigi",
+    "Secret Thiccshigi",
+    "Limited Thiccshigi"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +48,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2067.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2067.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

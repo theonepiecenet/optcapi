@@ -5,6 +5,11 @@
     "special": "Randomizes all non-matching orbs, recovers 2,018 HP and amplifies the effects of orbs for Cerebral and Free Spirit characters by 1.75x for 1 turn",
     "specialName": "Blossoming a New Year Celebration"
   },
+  "aliases": [
+    "ネフェルタリ・ビビ 寛雅な晴れ姿",
+    "",
+    "Kimono Vivi"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +30,28 @@
     10,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1914,
+    "evolvers": [
+      118,
+      86,
+      97,
+      302,
+      102
+    ],
+    "from": 1913
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1914.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1914.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

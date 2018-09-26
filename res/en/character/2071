@@ -6,6 +6,14 @@
     "sailor": "Changes all orbs into [RCV] orbs at the start of the fight",
     "specialName": "A Man's Stratagem to Victory"
   },
+  "aliases": [
+    "チョニキ",
+    "",
+    "Tony Tony Chopper",
+    "Anni Chopper",
+    "Anniversary Chopper",
+    "Choniki"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +48,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2071.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2071.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

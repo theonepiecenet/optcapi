@@ -5,6 +5,11 @@
     "special": "If there are 3 enemies or more on the stage, deals 50,000 fixed damage to all enemies",
     "specialName": "Unrelentless Physical Work"
   },
+  "aliases": [
+    "頭割り人形",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,5 +31,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2054.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2054.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Former King's Land to Royal Palace Top Floor",
+      "thumb": 1784,
+      "data": [
+        "08",
+        "10"
+      ]
+    }
+  ],
+  "manual": []
 }

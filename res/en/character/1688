@@ -8,6 +8,11 @@
     "sailor": "Restores his own special cooldown by 3 turns when it is rewinded",
     "sailorNotes": "#{rewind : 3}"
   },
+  "aliases": [
+    "フランキー 20th Anniversary Memorial Treasure",
+    "",
+    "20th Anniversary Franky"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -28,9 +33,35 @@
     19,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1688,
+    "evolvers": [
+      80,
+      86,
+      91,
+      97,
+      102
+    ],
+    "from": 1687
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1688.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1688.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "21st Anniversary Island",
+      "thumb": 1682,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

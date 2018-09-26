@@ -79,6 +79,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "戦士レオ 勇敢なる小人族",
+    "",
+    "Secret Leo",
+    "Limited Leo"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -99,9 +105,36 @@
     18,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1859,
+    "evolvers": [
+      118,
+      88,
+      99,
+      304,
+      104
+    ],
+    "from": 1858
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1859.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1859.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Germa's Lineage Factor! Fortnight",
+      "thumb": 2056,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -79,6 +79,12 @@
       }
     ]
   },
+  "aliases": [
+    "セニョール・ピンク 男の戦い",
+    "",
+    "Raid Senor Pink",
+    "Raid Senior Pink"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -99,9 +105,24 @@
     27,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1943,
+    "evolvers": [
+      118,
+      89,
+      94,
+      300,
+      100
+    ],
+    "from": 1942
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1943.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1943.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

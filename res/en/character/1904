@@ -79,6 +79,14 @@
       }
     ]
   },
+  "aliases": [
+    "セニョール・ピンク ドンキホーテファミリー　地下の世界への番人",
+    "",
+    "Senor Pink",
+    "Senior Pink",
+    "Senor Thicc",
+    "Senior Thicc"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -99,9 +107,43 @@
     14,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1904,
+    "evolvers": [
+      85,
+      85,
+      266,
+      301,
+      301
+    ],
+    "from": 1903
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1904.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1904.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Red Hair Pirates at the Harbor! Fortnight",
+      "thumb": 2044,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Fujitora"
+      ]
+    }
+  ]
 }

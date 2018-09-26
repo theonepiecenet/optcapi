@@ -5,6 +5,11 @@
     "special": "Deals 20x character's ATK in [STR] damage to one enemy and removes any Orb Rate Up and Orb Rate Down Buffs",
     "specialName": "Great Battle Spear"
   },
+  "aliases": [
+    "首領・クリーク 海賊艦隊「提督」",
+    "",
+    "Coliseum Don Krieg"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +44,32 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1488.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1488.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

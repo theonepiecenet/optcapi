@@ -52,6 +52,12 @@
       }
     ]
   },
+  "aliases": [
+    "冥王レイリー ロジャー海賊団副船長",
+    "",
+    "Global Rayleigh",
+    "Raidleigh"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -72,9 +78,24 @@
     30,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1924,
+    "evolvers": [
+      118,
+      84,
+      266,
+      300,
+      100
+    ],
+    "from": 1923
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1924.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1924.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

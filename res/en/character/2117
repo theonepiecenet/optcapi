@@ -95,6 +95,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "シャーロット・アマンド ビッグ・マム海賊団",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -115,9 +120,25 @@
     37,
     30
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2117,
+    "evolvers": [
+      88,
+      93,
+      304,
+      1180,
+      104
+    ],
+    "from": 2116
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2117.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2117.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

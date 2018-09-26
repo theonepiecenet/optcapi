@@ -136,6 +136,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "イッショウ 次世代海軍本部最高戦力",
+    "",
+    "V2 Fujitora",
+    "V2 Issho"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -156,9 +162,43 @@
     18,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1869,
+    "evolvers": [
+      118,
+      266,
+      94,
+      99,
+      267
+    ],
+    "from": 1868
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1869.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1869.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Red Hair Pirates at the Harbor! Fortnight",
+      "thumb": 2044,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Fujitora"
+      ]
+    }
+  ]
 }

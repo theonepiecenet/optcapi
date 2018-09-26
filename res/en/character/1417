@@ -5,6 +5,11 @@
     "special": "Cuts the current HP of all enemies by 10%, changes [BLOCK] orbs into [STR] orbs for Slasher characters",
     "specialName": "Raid Battle-Axe: One Flash"
   },
+  "aliases": [
+    "ロンズ",
+    "",
+    "Lonz"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1417.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1417.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Full Defense! Buddha Sengoku! Fortnight",
+      "thumb": 1416,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Prepare for Battle! Aokiji and Akainu!",
+      "thumb": 1280,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ],
+  "manual": []
 }

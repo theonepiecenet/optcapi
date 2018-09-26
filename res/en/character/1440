@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "ダルマ 魚人街の亡霊",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +105,52 @@
     22,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1440,
+    "evolvers": [
+      118,
+      83,
+      86,
+      102,
+      302
+    ],
+    "from": 1439
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1440.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1440.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Targeted Mermaid Princess! Fortnight",
+      "thumb": 1597,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Strawhat Pirates Pizza Party!! Lunch Fortnight",
+      "thumb": 2087,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Shirahoshi"
+      ]
+    }
+  ]
 }

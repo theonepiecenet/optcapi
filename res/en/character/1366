@@ -102,6 +102,13 @@
       }
     ]
   },
+  "aliases": [
+    "ナミ 新生・麦わらの一味",
+    "",
+    "New World Nami",
+    "Timeskip Nami",
+    "TS Nami"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -122,9 +129,59 @@
     18,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1366,
+    "evolvers": [
+      1180,
+      82,
+      83,
+      88,
+      304
+    ],
+    "from": 1365
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1366.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1366.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Bandits! Dadan Family! Fortnight",
+      "thumb": 1520,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Volatile Meal! Bonney and Bege! Fortnight",
+      "thumb": 1982,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Crocodile"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

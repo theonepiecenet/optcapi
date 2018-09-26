@@ -79,6 +79,13 @@
       }
     ]
   },
+  "aliases": [
+    "ブルック 新生・麦わらの一味",
+    "",
+    "New World Brook",
+    "Timeskip Brook",
+    "TS Brook"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -99,9 +106,59 @@
     16,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1410,
+    "evolvers": [
+      1180,
+      83,
+      88,
+      304,
+      104
+    ],
+    "from": 1409
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1410.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1410.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Encourage the Soul! Fortnight",
+      "thumb": 1547,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Commotion at Makino's Tavern?! Fortnight",
+      "thumb": 2021,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Zoro"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -8,6 +8,11 @@
     "sailorNotes": "#{beneficial}",
     "specialName": "Australian Army Aid Blade"
   },
+  "aliases": [
+    "ブレンハイム 白ひげ海賊団９番隊隊長",
+    "",
+    "Coliseum Blenheim"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -32,5 +37,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1528.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1528.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

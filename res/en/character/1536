@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "デュバル 麦わらの一味の共犯者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -99,9 +104,51 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1536,
+    "evolvers": [
+      94,
+      98,
+      1180,
+      303,
+      103
+    ],
+    "from": 1535
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1536.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1536.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Royal Neptune Family! Fortnight",
+      "thumb": 1723,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Recover! King of Day Duke Inuarashi Fortnight",
+      "thumb": 2219,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    }
+  ]
 }

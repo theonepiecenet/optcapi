@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "木の上のペドロ",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -99,9 +104,43 @@
     18,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1654,
+    "evolvers": [
+      88,
+      99,
+      1180,
+      304,
+      104
+    ],
+    "from": 1653
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1654.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1654.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Underground Trade Port! Escape! Fortnight",
+      "thumb": 1735,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Nekomamushi"
+      ]
+    }
+  ]
 }

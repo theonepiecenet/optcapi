@@ -5,6 +5,11 @@
     "special": "Reduces crew's current HP by 50%, boosts ATK of all characters by 1.3x for 1 turn",
     "specialName": "Conviction of God's Will"
   },
+  "aliases": [
+    "カリブー",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1501.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1501.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Deep-Sea Aphotic Zone to Ryugu Palace",
+      "thumb": 1506,
+      "data": [
+        "01"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Caribou Pirates! Fortnight",
+      "thumb": 1842,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -9,6 +9,11 @@
     "sailor": "Makes [PSY] orbs \"beneficial\" for this character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "ヴィンスモーク・ヨンジ",
+    "",
+    "Green Ranger"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -43,5 +48,21 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1839.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1839.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "Germa Revival Plan!",
+      "thumb": 2138,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -30,6 +30,14 @@
     "sailor": "Completely resists Blindness",
     "specialName": "Long-Range Attack: Bagworm"
   },
+  "aliases": [
+    "ウソランド",
+    "",
+    "God Usopp",
+    "Legend Usopp",
+    "Legend Usoland",
+    "Legend God Usopp"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Shooter",
@@ -61,5 +69,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1531.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1531.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

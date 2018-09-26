@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "ゲッコー・モリア 大海賊時代の死闘「最強の部下」",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -99,9 +104,43 @@
     24,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1618,
+    "evolvers": [
+      83,
+      84,
+      95,
+      1180,
+      100
+    ],
+    "from": 1617
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1618.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1618.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Wano Samurai! Fortnight",
+      "thumb": 1774,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

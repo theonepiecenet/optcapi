@@ -7,6 +7,11 @@
     "sailor": "Adds 2x character's ATK as Additional Typeless Damage",
     "sailorNotes": "#{additionalDamage : 2x}"
   },
+  "aliases": [
+    "ロブ・ルッチ 終わらぬ夢の宿敵",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -41,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1613.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1613.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

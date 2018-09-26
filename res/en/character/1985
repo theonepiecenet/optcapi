@@ -141,6 +141,19 @@
       }
     ]
   },
+  "aliases": [
+    "ルフィ＆エース 海賊の高み",
+    "",
+    "Luffy&Ace",
+    "Luffy and Ace",
+    "Luffy Ace",
+    "LuffyAce",
+    "Ace&Luffy",
+    "Ace and Luffy",
+    "Ace Luffy",
+    "AceLuffy",
+    "L/A"
+  ],
   "unit": {
     "type": [
       "QCK",
@@ -164,9 +177,35 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1985,
+    "evolvers": [
+      83,
+      94,
+      95,
+      300,
+      100
+    ],
+    "from": 1984
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1985.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1985.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Baby 5's Journey to Become a Bride Fortnight",
+      "thumb": 2165,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

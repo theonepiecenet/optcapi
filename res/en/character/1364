@@ -79,6 +79,13 @@
       }
     ]
   },
+  "aliases": [
+    "フランキー 新生・麦わらの一味",
+    "",
+    "New World Franky",
+    "Timeskip Franky",
+    "TS Franky"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -99,9 +106,67 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1364,
+    "evolvers": [
+      1180,
+      87,
+      266,
+      98,
+      103
+    ],
+    "from": 1363
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1364.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1364.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Bandits! Dadan Family! Fortnight",
+      "thumb": 1520,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "I'm Now Your Ideal Type! I Think Fortnight",
+      "thumb": 1947,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Shanks"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

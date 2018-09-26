@@ -6,6 +6,11 @@
     "specialNotes": "#{specialProportional : higher : 85 * ( (remaining HP) / (total HP) )}",
     "specialName": "Shooting at the Heart"
   },
+  "aliases": [
+    "バンダー・デッケン九世 深海の海賊",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1946.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1946.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "I'm Now Your Ideal Type! I Think Fortnight",
+      "thumb": 1947,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

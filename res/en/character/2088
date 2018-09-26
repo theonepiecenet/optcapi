@@ -5,6 +5,11 @@
     "special": "Changes [RCV] and [TND] orbs into Matching orbs, amplifies the effect of orbs by 1.5x for 1 turn.",
     "specialName": "Kicking in Table Manners"
   },
+  "aliases": [
+    "サンジ Let’s go for PIRATE FESTIVAL",
+    "",
+    "Pizza Sanji"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2088.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2088.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Strawhat Pirates Pizza Party!! Lunch Fortnight",
+      "thumb": 2087,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

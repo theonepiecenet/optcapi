@@ -6,6 +6,11 @@
     "sailor": "If your crew has 4 or more characters of the same Type, boosts base ATK of the Dominant Type by 125",
     "specialName": "Closing Declaration"
   },
+  "aliases": [
+    "シャンクス 勇気に応える四皇",
+    "",
+    "V2 Shanks"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2006.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2006.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

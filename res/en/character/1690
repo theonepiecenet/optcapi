@@ -5,6 +5,11 @@
     "special": "Cuts the current HP of one enemy by 20% and and boosts own ATK by 2x for 1 turn",
     "specialName": "Iron Giant Palm Slam"
   },
+  "aliases": [
+    "キャプテン・キッド “南の海”出身の超新星",
+    "",
+    "Fortnight Kidd"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +30,24 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1690,
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      304
+    ],
+    "from": 1689
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1690.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1690.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

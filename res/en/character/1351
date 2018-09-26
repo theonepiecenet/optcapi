@@ -4,6 +4,11 @@
     "special": "Reduces the defense of all by 50% and delays all enemies for 1 turn",
     "specialName": "Covering Fire"
   },
+  "aliases": [
+    "テキーラウルフの警備兵",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Shooter",
@@ -25,5 +30,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1351.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1351.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "3D2Y",
+      "thumb": 1353,
+      "data": [
+        "12"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Underground Trade Port! Escape! Fortnight",
+      "thumb": 1735,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

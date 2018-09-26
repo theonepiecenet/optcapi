@@ -10,6 +10,12 @@
     },
     "specialName": "Glorious Scenery"
   },
+  "aliases": [
+    "ボア・ハンコック 華の蛇姫",
+    "",
+    "Limited Boa Hancock",
+    "Kimono Boa"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -44,5 +50,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2038.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2038.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

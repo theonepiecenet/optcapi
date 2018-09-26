@@ -163,6 +163,12 @@
       }
     ]
   },
+  "aliases": [
+    "鷹の目のミホーク 世界中の剣士の頂点に立つ男",
+    "",
+    "Hawk",
+    "TM Mihawk"
+  ],
   "unit": {
     "type": "STR",
     "class": "Slasher",
@@ -180,9 +186,24 @@
     37,
     29
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1808,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      100
+    ],
+    "from": 1807
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1808.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1808.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

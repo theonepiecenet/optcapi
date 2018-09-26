@@ -78,6 +78,11 @@
       }
     ]
   },
+  "aliases": [
+    "猛攻のリトルオーズJr. 突破口の先駆者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -98,9 +103,35 @@
     17,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1989,
+    "evolvers": [
+      118,
+      81,
+      1180,
+      303,
+      103
+    ],
+    "from": 1988
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1989.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1989.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Coliseum Executioner! Diamante Fortnight",
+      "thumb": 2146,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

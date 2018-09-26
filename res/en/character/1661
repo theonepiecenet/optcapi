@@ -20,6 +20,11 @@
     ],
     "specialName": "The Sun under the Rain"
   },
+  "aliases": [
+    "コラソン 消したい雨雲",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -54,5 +59,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1661.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1661.png"
-  }
+  },
+  "flags": {
+    "shop": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

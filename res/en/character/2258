@@ -5,6 +5,12 @@
     "special": "Deals 800 fixed damage to one enemy, reduces Despair duration by 3 turns and reduces enemies' Resilience Buff duration by 3 turns.",
     "specialName": "Scoundrel's Attack"
   },
+  "aliases": [
+    "ヒグマ 第一級のおたずね者",
+    "",
+    "Secret Higuma",
+    "Limited Higuma"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +45,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2258.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2258.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -29,6 +29,12 @@
     "specialNotes": "#{stages}",
     "sailor": "Reduces Silence duration on this character by 3 turns"
   },
+  "aliases": [
+    "ヴィンスモーク・レイジュ ポイズンピンクのバカンス",
+    "",
+    "Swimsuit Reiju",
+    "Summer Reiju"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -63,5 +69,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2214.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2214.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Girls of Summer Paradise",
+      "thumb": 683,
+      "data": [
+        "Part 4"
+      ]
+    }
+  ],
+  "manual": []
 }

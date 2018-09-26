@@ -28,6 +28,12 @@
     "specialNotes": "#{stages}",
     "specialName": "Thousand Ton Destruction"
   },
+  "aliases": [
+    "マッハ・バイス 超体重人間",
+    "",
+    "Coliseum Mach Vise",
+    "Coliseum Machvise"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -62,5 +68,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1627.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1627.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Coliseum Lodging to Executive Tower",
+      "thumb": 2004,
+      "data": [
+        "08"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Former King's Land to Royal Palace Top Floor",
+      "thumb": 1784,
+      "data": [
+        "01",
+        "07"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,12 @@
     "special": "Reduces crew's ATK DOWN duration by 3 turns, makes [PSY] orbs \"beneficial\" for all characters for 3 turns and locks all orbs for 1 turn",
     "specialName": "Destroy - Charge"
   },
+  "aliases": [
+    "“ダイヤモンド”・ジョズ 砂嵐を吹き飛ばす金剛石",
+    "",
+    "Limited Jozu",
+    "Secret Jozu"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +31,27 @@
     10,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2134,
+    "evolvers": [
+      117,
+      80,
+      91,
+      97,
+      102
+    ],
+    "from": 2133
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2134.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2134.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

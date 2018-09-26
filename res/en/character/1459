@@ -6,6 +6,11 @@
     "specialNotes": "#{beneficial}",
     "specialName": "Crescendo Stone"
   },
+  "aliases": [
+    "ミス・バレンタイン キロキロの実の能力者",
+    "",
+    "Coliseum Miss Valentine"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +44,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1459.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1459.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,11 @@
     "specialName": "Blood Stained 'Iron Wall'",
     "sailor": "Boosts own base ATK by 100 if this character is the last in the chain to attack"
   },
+  "aliases": [
+    "雨のシリュウ 黒ひげ海賊団",
+    "",
+    "Coliseum Shiryu"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -26,9 +31,24 @@
     29,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1602,
+    "evolvers": [
+      118,
+      99,
+      99,
+      304,
+      104
+    ],
+    "from": 1601
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1602.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1602.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

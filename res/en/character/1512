@@ -7,6 +7,11 @@
     "sailor": "Makes [RCV] orbs \"beneficial\" for this character if your Captain is a Powerhouse character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "キングデュー 白ひげ海賊団１１番隊隊長",
+    "",
+    "Heman"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -31,5 +36,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1512.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1512.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Departure! Whitebeard Pirates Fortnight",
+      "thumb": 1509,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

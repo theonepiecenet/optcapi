@@ -5,6 +5,11 @@
     "special": "If your Captain is a Free Spirit, Cerebral, Powerhouse or Driven character, boosts the Color Affinity of Free Spirit, Cerebral, Powerhouse and Driven characters by 1.75x for 1 turn and amplifies the effects of orbs for Free Spirit, Cerebral, Powerhouse and Driven characters by 2x for 1 turn",
     "specialName": "Weather Egg: Thunderbreed Tempo"
   },
+  "aliases": [
+    "ナミ 世界地図を記す航海士",
+    "",
+    "Legend Nami"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +44,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2075.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2075.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

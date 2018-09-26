@@ -5,6 +5,14 @@
     "special": "Locks all orbs for 1 turn. If during that turn, you hit 2 PERFECTS and your Captain is a Shooter character, boosts ATK of Shooter characters by 2x for 1 turn in the following turn.",
     "specialName": "Ice Saber"
   },
+  "aliases": [
+    "青キジ “一騎討ち”の相手",
+    "",
+    "Secret Aokiji",
+    "Secret Kuzan",
+    "Limited Aokiji",
+    "Limited Kuzan"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +47,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1664.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1664.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

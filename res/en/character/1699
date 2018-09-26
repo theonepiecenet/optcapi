@@ -6,6 +6,14 @@
     "specialName": "Gentle Ultrasound Wave",
     "sailor": "Boosts base ATK of Fighter characters by 75"
   },
+  "aliases": [
+    "ジンベエ “無限地獄”の囚人",
+    "",
+    "Jinbe, 'Eternal Hell' Prisoner",
+    "Jimbei, 'Eternal Hell' Prisoner",
+    "Jimbe, 'Eternal Hell' Prisoner",
+    "Jinbei, 'Eternal Hell' Prisoner"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +48,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1699.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1699.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

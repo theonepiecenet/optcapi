@@ -6,6 +6,11 @@
     "special": "Recovers 5,000 HP, boosts ATK of Striker characters by 1.5x for 1 turn. If during that turn you score 4 Great hits, boosts ATK of Striker characters by 1.75x in the following turn.",
     "specialName": "Culling the Criminals from this Earthly World"
   },
+  "aliases": [
+    "“怪僧”ウルージ 超新星",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -26,9 +31,24 @@
     22,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1865,
+    "evolvers": [
+      80,
+      86,
+      91,
+      97,
+      102
+    ],
+    "from": 1864
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1865.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1865.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

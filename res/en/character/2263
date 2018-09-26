@@ -5,6 +5,12 @@
     "special": "Randomizes all non-matching orbs, including [BLOCK] slots and locks all orbs for 1 turn. If your Captain is a Cerebral or Driven character, increases duration of any Class/Type boosting buffs and Orb Amplification buffs by 2 turns",
     "specialName": "Athlete"
   },
+  "aliases": [
+    "",
+    "",
+    "V2 Raid Doffy",
+    "V2 Raid Doflamingo"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +31,24 @@
     29,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2263,
+    "evolvers": [
+      118,
+      267,
+      88,
+      304,
+      83
+    ],
+    "from": 2262
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2263.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2263.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -6,6 +6,16 @@
     "special": "Cuts the current HP of each enemy by 20%, changes own orb into [STR] and at the end of the turn, cuts the current HP of each enemy by 10% for 2 turns. If HP is below 50% at the time the special is activated, boosts ATK of Striker and Driven characters by 1.75x for 1 turn",
     "specialName": "Fullbright"
   },
+  "aliases": [
+    "ドンキホーテ・ドフラミンゴ “ジョーカー”",
+    "",
+    "Story Doflamingo",
+    "Super Doflamingo",
+    "Mega Doflamingo",
+    "Story Doffy",
+    "Super Doffy",
+    "Mega Doffy"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,9 +36,21 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2126,
+    "evolvers": [
+      "skullDoffy",
+      89,
+      95,
+      95,
+      300
+    ],
+    "from": 2004
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2126.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2126.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

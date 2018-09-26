@@ -6,6 +6,11 @@
     "specialName": "The Great Final Act of One's Victory",
     "sailor": "If this character has a [PSY] orb and you hit a GOOD or GREAT with her, keep her [PSY] orb for the next turn"
   },
+  "aliases": [
+    "“女狐” カリーナ",
+    "",
+    "V2 Carina"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +45,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2106.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2106.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

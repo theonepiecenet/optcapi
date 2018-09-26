@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "ベポ 麦わらのルフィの共犯者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -99,9 +104,43 @@
     18,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1749,
+    "evolvers": [
+      83,
+      85,
+      94,
+      96,
+      101
+    ],
+    "from": 1748
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1749.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1749.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Branded in Shackles! Fortnight",
+      "thumb": 1933,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

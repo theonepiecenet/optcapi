@@ -5,6 +5,11 @@
     "special": "Reduces Bind and Despair duration by 2 turns, if your Captain is a Free Spirit Character changes [BLOCK] orbs into matching orbs",
     "specialName": "Treasured Trust"
   },
+  "aliases": [
+    "シャンクス　麦わら帽子の海賊",
+    "",
+    "FN Shanks"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2018.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2018.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Commotion at Makino's Tavern?! Fortnight",
+      "thumb": 2021,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

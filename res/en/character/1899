@@ -5,6 +5,12 @@
     "special": "Changes [STR], [DEX] and [QCK] orbs on Striker and Slasher characters into matching orbs, cuts the current HP of one enemy by 8%",
     "specialName": "Hitting Size [Neo]"
   },
+  "aliases": [
+    "“殺戮武人”キラー「改」 キッド海賊団",
+    "",
+    "Neo Killer",
+    "Kai Killer"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +31,24 @@
     18,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1899,
+    "evolvers": [
+      118,
+      85,
+      96,
+      301,
+      101
+    ],
+    "from": 1898
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1899.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1899.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

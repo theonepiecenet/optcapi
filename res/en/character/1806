@@ -5,6 +5,11 @@
     "special": "Reduces the defense of all enemies by 100% for 1 turn, reduces damage received from [STR] enemies by 80% for 1 turn, Amplifies the effect of orbs by 1.5x for 1 turn",
     "specialName": "Deceiving the World with the Most Evil Show"
   },
+  "aliases": [
+    "キャプテン・バギー 斬っても斬れないバラバラ人間",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +30,28 @@
     15,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1806,
+    "evolvers": [
+      117,
+      79,
+      90,
+      96,
+      101
+    ],
+    "from": 1805
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1806.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1806.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

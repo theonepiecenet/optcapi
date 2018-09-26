@@ -4,8 +4,88 @@
     "captain": "Boosts ATK of Driven characters by 2.5x",
     "special": "Cuts the current HP of one enemy by 10%, makes [PSY] and [INT] orbs \"beneficial\" for 1 turn and amplifies the effect of orbs by 1.75x for 1 turn",
     "specialNotes": "#{beneficial}",
-    "specialName": "Spring Hopper - Bullet"
+    "specialName": "Spring Hopper - Bullet",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of Driven characters by 30",
+      "level2": "Makes [RCV] orbs \"beneficial\" for Driven characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 75"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Driven characters by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 145"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [RCV] orbs \"beneficial\" for Driven characters"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: Double Special Activation"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[STR] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [STR] characters by 1%",
+          "Level 2: Reduce damage taken from [STR] characters by ?%",
+          "Level 3: Reduce damage taken from [STR] characters by ?%",
+          "Level 4: Reduce damage taken from [STR] characters by ?%",
+          "Level 5: Reduce damage taken from [STR] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Double Special Activation",
+        "description": [
+          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
+        ]
+      }
+    ]
   },
+  "aliases": [
+    "ハイエナのベラミー ドレスローザの凶弾",
+    "",
+    "Raid Bellamy"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,9 +106,24 @@
     28,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1518,
+    "evolvers": [
+      118,
+      79,
+      85,
+      94,
+      96
+    ],
+    "from": 1517
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1518.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1518.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

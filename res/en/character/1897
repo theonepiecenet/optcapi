@@ -96,6 +96,13 @@
       }
     ]
   },
+  "aliases": [
+    "ゴッド・エネル スカイピア唯一神",
+    "",
+    "Coliseum Enel",
+    "Coliseum Eneru",
+    "Coliseum Kami Enel"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -116,9 +123,24 @@
     28,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1897,
+    "evolvers": [
+      118,
+      95,
+      1180,
+      300,
+      100
+    ],
+    "from": 1896
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1897.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1897.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -6,6 +6,14 @@
     "special": "Boosts ATK of characters with cost 40 or less by 2x for 2 turns",
     "specialName": "The Greatest Villain's Bluff"
   },
+  "aliases": [
+    "千両道化のバギー",
+    "",
+    "Super Buggy",
+    "Mega Buggy",
+    "Buggy",
+    "Baggy"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -26,9 +34,43 @@
     16,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2035,
+    "evolvers": [
+      "skullINT",
+      118,
+      88,
+      304,
+      267
+    ],
+    "from": 1391
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2035.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2035.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Mysterious Warlord! Fortnight",
+      "thumb": 1581,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

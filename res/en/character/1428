@@ -6,6 +6,11 @@
     "special": "If the enemy is delayed at the time the special is activated, reduces Special Cooldown of all characters by 1 turn and boosts own attack by 1.75x for 1 turn",
     "specialName": "Looting the Losers"
   },
+  "aliases": [
+    "ジャン・アンゴ",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -30,5 +35,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1428.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1428.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Port Town Acacia to Coliseum",
+      "thumb": 1782,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Chinjao Family! Fortnight",
+      "thumb": 1426,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

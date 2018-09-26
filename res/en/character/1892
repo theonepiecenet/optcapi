@@ -29,6 +29,11 @@
     "specialNotes": "#{stages}",
     "sailor": "When HP is below 50% at the start of the turn, boosts own base ATK by 1.25x"
   },
+  "aliases": [
+    "ジュラキュール・ミホーク シッケアール王国　跡地",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -63,5 +68,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1892.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1892.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Perona's Peculiar Living Situation Fortnight",
+      "thumb": 1891,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

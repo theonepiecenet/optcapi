@@ -93,6 +93,11 @@
       }
     ]
   },
+  "aliases": [
+    "人食いのバルトロメオ 海賊団「バルトクラブ」船長",
+    "",
+    "Raid Bartolomeo"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -113,9 +118,24 @@
     33,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1879,
+    "evolvers": [
+      118,
+      98,
+      1180,
+      303,
+      103
+    ],
+    "from": 1878
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1879.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1879.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

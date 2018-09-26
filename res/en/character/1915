@@ -5,6 +5,13 @@
     "special": "Randomizes all orbs, including [BLOCK] orbs, changes own orb into [QCK], deals 300x character's ATK in typeless damage to one enemy and boosts the Color Affinity of all characters by 1.75x for 1 turn",
     "specialName": "Gomu Gomu no Leo Bazooka"
   },
+  "aliases": [
+    "モンキー・D・ルフィ 神の天敵",
+    "",
+    "G4",
+    "TM Luffy",
+    "TM G4"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +46,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1915.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1915.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Luffy: Gear 4th",
+      "thumb": 1916,
+      "data": [
+        "Calm Sea"
+      ]
+    }
+  ],
+  "manual": []
 }

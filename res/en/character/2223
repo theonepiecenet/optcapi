@@ -5,6 +5,11 @@
     "special": "Reduces Paralysis duration by 2 turns and amplifies the effect of orbs by 1.25x for 1 turn.",
     "specialName": "Mink Slot Boost"
   },
+  "aliases": [
+    "偵察団員 侠客団",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,5 +31,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2223.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2223.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

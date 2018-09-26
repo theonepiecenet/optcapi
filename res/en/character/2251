@@ -150,6 +150,11 @@
       }
     ]
   },
+  "aliases": [
+    "ゲンコツのガープ海賊王の宿敵",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -170,9 +175,26 @@
     21,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2251,
+    "evolvers": [
+      118,
+      98,
+      1180,
+      303,
+      267
+    ],
+    "from": 2250
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2251.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2251.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

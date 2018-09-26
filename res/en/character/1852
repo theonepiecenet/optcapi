@@ -7,6 +7,12 @@
     "specialNotes": "#{ignoreBarrier}",
     "specialName": "The Epicenter of the Halberd"
   },
+  "aliases": [
+    "エドワード・ニューゲート 白ひげ海賊団船長",
+    "",
+    "TM Whitebeard",
+    "WB"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -41,5 +47,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1852.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1852.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Edward Newgate",
+      "thumb": 1853,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
 }

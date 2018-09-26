@@ -5,6 +5,11 @@
     "special": "Reduces Special Cooldown of your top row by 2 turns, boosts ATK of Fighter characters by 1.5x for 1 turn",
     "specialName": "Rabbit Mink's Air Step"
   },
+  "aliases": [
+    "王の鳥　キャロット モコモ公国",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +30,24 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1812,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ],
+    "from": 1811
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1812.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1812.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

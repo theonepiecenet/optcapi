@@ -80,6 +80,12 @@
       }
     ]
   },
+  "aliases": [
+    "フランキー フランキ～～～ロケットランチャ――",
+    "",
+    "Mega Franky",
+    "Super Franky"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -100,9 +106,72 @@
     19,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1550,
+    "evolvers": [
+      "skullFranky",
+      267
+    ],
+    "from": 739
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1550.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1550.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Butler and Strange Animal Island Fortnight",
+      "thumb": 1011,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Happiness! Fortnight",
+      "thumb": 1384,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Targeted Mermaid Princess! Fortnight",
+      "thumb": 1597,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Captain Buggy"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

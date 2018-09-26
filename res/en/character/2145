@@ -5,6 +5,11 @@
     "special": "Reduces enemy's Threshold Damage Reduction duration by 2 turns and reduces any damage received above 3,000 HP by 80% for 2 turns",
     "specialName": "A Moment of Determination"
   },
+  "aliases": [
+    "レベッカ 力を望む美少女剣闘士",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +44,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2145.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2145.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Coliseum Executioner! Diamante Fortnight",
+      "thumb": 2146,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

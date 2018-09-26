@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "夕立ち　カン十郎 ワノ国の侍",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -99,9 +104,43 @@
     17,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1658,
+    "evolvers": [
+      118,
+      80,
+      86,
+      266,
+      102
+    ],
+    "from": 1657
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1658.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1658.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Zou Royal Guard! Fortnight",
+      "thumb": 1812,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Nekomamushi"
+      ]
+    }
+  ]
 }

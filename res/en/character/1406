@@ -7,6 +7,13 @@
     "specialName": "Assault Meteor Shower",
     "sailor": "When HP is below 30% at the start of the turn, boosts ATK and RCV of Shooter characters by 100"
   },
+  "aliases": [
+    "ウソップ 新生・麦わらの一味",
+    "",
+    "New World Usopp",
+    "Timeskip Usopp",
+    "TS Usopp"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -24,9 +31,51 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1406,
+    "evolvers": [
+      1180,
+      87,
+      98,
+      303,
+      103
+    ],
+    "from": 1405
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1406.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1406.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Encourage the Soul! Fortnight",
+      "thumb": 1547,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Red Hair Pirates at the Harbor! Fortnight",
+      "thumb": 2044,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Ace"
+      ]
+    }
+  ]
 }

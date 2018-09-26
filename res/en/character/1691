@@ -5,6 +5,11 @@
     "special": "Boosts ATK against enemies with reduced defense by 1.3x for 1 turn, changes the captain's [STR], [DEX], [QCK], [INT], or [PSY] orbs into Matching orbs.",
     "specialName": "Aim and Burn"
   },
+  "aliases": [
+    "ヒート",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1691.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1691.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Brutal Fiend! Eustass Kid Fortnight",
+      "thumb": 1690,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

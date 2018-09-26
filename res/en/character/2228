@@ -5,6 +5,11 @@
     "special": "Deals 10x character's ATK in [STR] damage to all enemies that will ignore damage negating abilities and barriers and makes PERFECTs easier to hit for 2 turns.",
     "specialName": "Trembling Destruction"
   },
+  "aliases": [
+    "ＰＬＥＡＳＵＲＥＳ（プレジャーズ）",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,5 +31,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2228.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2228.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

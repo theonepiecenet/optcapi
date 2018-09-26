@@ -81,6 +81,12 @@
       }
     ]
   },
+  "aliases": [
+    "トニートニー・チョッパー ヘビーゴング",
+    "",
+    "Mega Chopper",
+    "Super Chopper"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -101,9 +107,71 @@
     20,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1448,
+    "evolvers": [
+      "skullChopper",
+      267
+    ],
+    "from": 22
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1448.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1448.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Escaped! Morgan Fortnight",
+      "thumb": 228,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Wapol's Revenge Fortnight",
+      "thumb": 852,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Bandits! Dadan Family! Fortnight",
+      "thumb": 1520,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Boa Hancock"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

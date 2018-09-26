@@ -5,6 +5,12 @@
     "special": "Reduces damage received by 50% for 1 turn and boosts the Color Affinity of [STR] characters by 1.25x for 1 turn.",
     "specialName": "Guardian's One Arm Back Throw"
   },
+  "aliases": [
+    "ＢＢ くじらの森　侠客団",
+    "",
+    "Black Back",
+    "BB"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +35,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2179.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2179.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Let's Go See Master Nekomamushi! Fortnight",
+      "thumb": 2177,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

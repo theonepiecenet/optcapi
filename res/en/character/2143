@@ -5,6 +5,11 @@
     "special": "Deals 20x character's ATK in [DEX] damage to one enemy and boosts ATK of Slasher characters by 1.5x for 3 turns",
     "specialName": "Corrida Glaive"
   },
+  "aliases": [
+    "Mr.ディアマンテ",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +44,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2143.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2143.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Coliseum Executioner! Diamante Fortnight",
+      "thumb": 2146,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -7,6 +7,11 @@
     "sailor": "Restores his own special cooldown by 1 turn when it is rewinded",
     "sailorNotes": "#{rewind : 1}"
   },
+  "aliases": [
+    "リク王",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -41,5 +46,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1817.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1817.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Crisis in the 800 Year Old Kingdom! Fortnight",
+      "thumb": 1818,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

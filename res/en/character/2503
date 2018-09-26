@@ -134,6 +134,14 @@
       }
     ]
   },
+  "aliases": [
+    "",
+    "",
+    "Kung Fu Luffy",
+    "KFL",
+    "LINE Luffy",
+    "The Hero Global Needed"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -154,9 +162,26 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2503,
+    "evolvers": [
+      118,
+      86,
+      266,
+      302,
+      267
+    ],
+    "from": 2502
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2503.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2503.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

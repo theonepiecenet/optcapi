@@ -7,6 +7,11 @@
     "sailor": "Restores his own special cooldown by 2 turns when it is rewinded",
     "sailorNotes": "#{rewind : 2}"
   },
+  "aliases": [
+    "シャーロット・ペロスペロー",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -41,5 +46,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2239.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2239.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

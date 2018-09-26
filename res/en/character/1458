@@ -5,6 +5,11 @@
     "special": "Reduces Bind and Despair duration by 2 turns, for Slasher and Cerebral characters, randomizes non-matching orbs and changes own orb into [INT]",
     "specialName": "Pussyfoot Maneuver"
   },
+  "aliases": [
+    "百計のクロ 海賊",
+    "",
+    "Coliseum Kuro"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +30,24 @@
     18,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1458,
+    "evolvers": [
+      83,
+      85,
+      88,
+      96,
+      99
+    ],
+    "from": 1457
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1458.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1458.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

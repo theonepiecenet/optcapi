@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "ヒョウゾウ 魚人街の亡霊",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -99,9 +104,51 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1436,
+    "evolvers": [
+      118,
+      96,
+      1180,
+      101,
+      301
+    ],
+    "from": 1435
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1436.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1436.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Mysterious Warlord! Fortnight",
+      "thumb": 1581,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Strawhat Pirates Pizza Party!! Dinner Fortnight",
+      "thumb": 2092,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Shirahoshi"
+      ]
+    }
+  ]
 }

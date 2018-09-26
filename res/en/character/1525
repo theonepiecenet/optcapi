@@ -6,6 +6,11 @@
     "specialNotes": "#{randomHits : 3}<br>#{random : 50,000 : 150,000 : per hit}",
     "specialName": "Sorrowful Execution"
   },
+  "aliases": [
+    "首はねスレイマン ディアス海戦Ａ級戦犯",
+    "",
+    "Coliseum Suleiman"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -30,5 +35,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1525.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1525.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

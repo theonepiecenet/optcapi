@@ -21,6 +21,16 @@
     "specialNotes": "#{randomHits : 20}<br>#{random : ??? : ??? : for each hit on Stage 1}<br>#{random : ??? : ??? : for each hit on Stage 2}<br>#{stages}",
     "specialName": "Yasakani no Magatama: Divine Light"
   },
+  "aliases": [
+    "ボルサリーノ 海軍本部最高戦力",
+    "",
+    "Super Borsalino",
+    "Mega Borsalino",
+    "Borsalino V1",
+    "Super Kizaru",
+    "Kizaru",
+    "Mega Kizaru"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -41,9 +51,51 @@
     15,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2034,
+    "evolvers": [
+      "skullPSY",
+      118,
+      87,
+      303,
+      267
+    ],
+    "from": 1240
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2034.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2034.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Chinjao Family! Fortnight",
+      "thumb": 1426,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Zou Royal Guard! Fortnight",
+      "thumb": 1812,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ]
 }

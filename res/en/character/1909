@@ -7,6 +7,12 @@
     "specialNotes": "Overkill Damage is damage dealt over the enemy's current HP with normal attacks that killed them. For example, dealing 2,100,000 damage to an enemy with 1,000,000 HP will count as 1,100,000 Overkill Damage. This stacks for each enemy killed in the previous turn. If the enemy dies by End-Of-Turn damage, your Overkill Damage dealt last turn will be 0.",
     "specialName": "Thousand Arrows: Flap Thread"
   },
+  "aliases": [
+    "ドンキホーテ・ドフラミンゴ ドレスローザ現国王",
+    "",
+    "V2 Doffy",
+    "V2 Doflamingo"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -41,5 +47,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1909.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1909.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

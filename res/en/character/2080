@@ -80,6 +80,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "“ソウルキング”ブルック ホールケーキ城の侵入者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +105,34 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2080,
+    "evolvers": [
+      94,
+      1180,
+      300,
+      300,
+      100
+    ],
+    "from": 2079
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2080.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2080.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Pound and King Baum Fortnight",
+      "thumb": 2253,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

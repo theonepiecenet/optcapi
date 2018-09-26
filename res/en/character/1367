@@ -22,6 +22,13 @@
     "sailor": "Boosts base ATK, HP and RCV of all characters by 50",
     "specialName": "Sky Walk"
   },
+  "aliases": [
+    "サンジ 集結の麦わらの一味",
+    "",
+    "New World Sanji",
+    "Timeskip Sanji",
+    "TS Sanji"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -56,5 +63,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1367.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1367.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

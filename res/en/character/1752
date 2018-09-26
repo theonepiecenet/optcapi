@@ -6,6 +6,11 @@
     "sailor": "Boosts base ATK of Slasher characters by 50",
     "specialName": "Three Sword Style: Ultra Tiger Hunting"
   },
+  "aliases": [
+    "ロロノア・ゾロ Celebrate 20th Anniversary Cruise",
+    "",
+    "20th Anniversary Zoro"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1752.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1752.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

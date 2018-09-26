@@ -7,6 +7,17 @@
     "specialNotes": "If you use this special after consuming 10 [RCV] orbs since the start of the fight, transform into Tankman, otherwise transform into Boundman",
     "specialName": "Gomu Gomu no Kong Organ"
   },
+  "aliases": [
+    "モンキー・D・ルフィ ゴムゴムの力の可能性",
+    "",
+    "G4",
+    "Gear 4 Tankman",
+    "Gear 4 Boundman",
+    "V4 Luffy",
+    "Second Mistake",
+    "Gear Change Luffy",
+    "Gear Shift Luffy"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -41,5 +52,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2073.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2073.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

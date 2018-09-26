@@ -80,6 +80,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "シルバーズ・レイリー 麦わらの一味の共犯者",
+    "",
+    "Silvers Rayleigh"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -100,9 +105,43 @@
     17,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1534,
+    "evolvers": [
+      118,
+      85,
+      266,
+      301,
+      101
+    ],
+    "from": 1533
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1534.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1534.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Dead-On Prophecy?! Madam Sharley Fortnight",
+      "thumb": 1670,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    }
+  ]
 }

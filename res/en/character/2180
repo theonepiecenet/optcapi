@@ -15,6 +15,19 @@
       "combined": "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 100"
     }
   },
+  "aliases": [
+    "白ひげ＆マルコ 頂上戦争への布陣",
+    "",
+    "Whitebeard&Marco",
+    "Whitebeard and Marco",
+    "Whitebeard Marco",
+    "WhitebeardMarco",
+    "Marco&Whitebeard",
+    "Marco and Whitebeard",
+    "Marco Whitebeard",
+    "MarcoWhitebeard",
+    "WBM"
+  ],
   "unit": {
     "type": [
       "PSY",
@@ -52,5 +65,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2180.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2180.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -81,6 +81,13 @@
       }
     ]
   },
+  "aliases": [
+    "“ウインチグリーン” ヴィンスモーク・ヨンジ 科学戦闘部隊ジェルマ６６",
+    "",
+    "Green Ranger",
+    "Super Yonji",
+    "Mega Yonji"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -101,9 +108,50 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2142,
+    "evolvers": [
+      "skullYonji",
+      "skullYonji",
+      "skullYonji",
+      "skullYonji",
+      "skullYonji"
+    ],
+    "from": 1840
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2142.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2142.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Beast's Return Fortnight",
+      "thumb": 1965,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Judge"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Germa Revival Plan!",
+      "thumb": 2138,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

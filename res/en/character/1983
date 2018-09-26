@@ -16,6 +16,18 @@
       "combined": "Boosts base ATK, HP and RCV of [INT] and [PSY] characters by 75"
     }
   },
+  "aliases": [
+    "スモーカー＆たしぎ 麦わらを追う海兵",
+    "",
+    "Smoker&Tashigi",
+    "Smoker and Tashigi",
+    "Smoker Tashigi",
+    "SmokerTashigi",
+    "Tashigi&Smoker",
+    "Tashigi and Smoker",
+    "Tashigi Smoker",
+    "TashigiSmoker"
+  ],
   "unit": {
     "type": [
       "INT",
@@ -43,5 +55,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1983.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1983.png"
-  }
+  },
+  "flags": {
+    "special": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -80,6 +80,13 @@
       }
     ]
   },
+  "aliases": [
+    "“デンゲキブルー” ヴィンスモーク・ニジ 科学戦闘部隊ジェルマ６６",
+    "",
+    "Blue Ranger",
+    "Super Niji",
+    "Mega Niji"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +107,50 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2141,
+    "evolvers": [
+      "skullNiji",
+      "skullNiji",
+      "skullNiji",
+      "skullNiji",
+      "skullNiji"
+    ],
+    "from": 1838
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2141.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2141.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Whitebeard Pirates Commanders! Marco and Vista! Fortnight",
+      "thumb": 1997,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Judge"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Germa Revival Plan!",
+      "thumb": 2138,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

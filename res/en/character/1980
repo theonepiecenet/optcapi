@@ -5,6 +5,11 @@
     "special": "Reduces Special Cooldown of Shooter specials by 1 turn and changes orbs in the top row into Matching orbs",
     "specialName": "Angry Threatening Command"
   },
+  "aliases": [
+    "超新星 カポネ・“ギャング” ベッジ",
+    "",
+    "FN Bege"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +30,24 @@
     13,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1980,
+    "evolvers": [
+      78,
+      84,
+      89,
+      95,
+      100
+    ],
+    "from": 1979
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1980.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1980.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

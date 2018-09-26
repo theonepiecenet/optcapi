@@ -5,6 +5,11 @@
     "special": "Randomizes all orbs, including [BLOCK] orbs, into [STR], [DEX], [QCK], [INT], or [PSY] orbs and changes own orb into [INT]",
     "specialName": "The Spear that Penetrated the Undersea Mountain"
   },
+  "aliases": [
+    "イカロス・ムッヒ 反逆の魚人海賊",
+    "",
+    "Coliseum Ikaros Much"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +30,21 @@
     15,
     5
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1630,
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      304
+    ],
+    "from": 1629
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1630.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1630.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

@@ -7,6 +7,11 @@
     "specialName": "The Trio Crawling Away from the Heavens: The Third Daughter",
     "sailor": "Boosts own base ATK by 100 if this character is the 3rd in the chain to attack"
   },
+  "aliases": [
+    "ボア・マリーゴールド 逃亡奴隷",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -31,5 +36,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1932.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1932.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Branded in Shackles! Fortnight",
+      "thumb": 1933,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -8,6 +8,16 @@
     "sailor": "Reduces Silence duration on this character by 3 turns",
     "sailorNotes": "#{silence}"
   },
+  "aliases": [
+    "“昼の王”イヌアラシ モコモ公国一の戦士",
+    "",
+    "Secret Inuarashi",
+    "Limited Inuarashi",
+    "Secret Dogstorm",
+    "Limited Dogstorm",
+    "Secret Dog Storm",
+    "Limited Dog Storm"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -28,9 +38,27 @@
     12,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2169,
+    "evolvers": [
+      117,
+      82,
+      93,
+      99,
+      104
+    ],
+    "from": 2168
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2169.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2169.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

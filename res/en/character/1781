@@ -6,6 +6,11 @@
     "special": "Boosts own ATK by 1.3x for 1 turn, changes own orb into [STR] and deals 5x character's ATK in [STR] damage to all enemies",
     "specialName": "Piercing Twin Horns"
   },
+  "aliases": [
+    "闘魚",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -27,5 +32,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1781.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1781.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Port Town Acacia to Coliseum",
+      "thumb": 1782,
+      "data": [
+        "04"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Pound and King Baum Fortnight",
+      "thumb": 2253,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

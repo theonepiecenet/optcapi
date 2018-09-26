@@ -9,6 +9,12 @@
     "sailor": "Reduces Silence duration on this character by 3 turns",
     "sailorNotes": "#{silence}"
   },
+  "aliases": [
+    "プリン 二人を分かつ死の計画",
+    "",
+    "Wedding Pudding",
+    "Bride Pudding"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,9 +35,21 @@
     21,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1963,
+    "evolvers": [
+      116,
+      117,
+      82,
+      88,
+      99
+    ],
+    "from": 1962
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1963.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1963.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

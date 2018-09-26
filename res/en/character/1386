@@ -5,6 +5,11 @@
     "special": "Removes Blindness duration completely",
     "specialName": "Mother's Promise"
   },
+  "aliases": [
+    "レベッカ 狙われる旧王家の血",
+    "",
+    "Kid Rebecca"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +30,23 @@
     12,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1386,
+    "evolvers": [
+      116,
+      117,
+      81,
+      98
+    ],
+    "from": 1385
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1386.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1386.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

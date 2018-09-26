@@ -80,6 +80,12 @@
       }
     ]
   },
+  "aliases": [
+    "ネフェルタリ・ビビ 立志式の王女",
+    "",
+    "Limited Vivi",
+    "Secret Vivi"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -100,9 +106,26 @@
     16,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2247,
+    "evolvers": [
+      118,
+      85,
+      96,
+      301,
+      101
+    ],
+    "from": 2246
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2247.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2247.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

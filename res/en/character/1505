@@ -6,6 +6,11 @@
     "specialNotes": "#{ignoreBarrier}",
     "specialName": "Shark Arrows"
   },
+  "aliases": [
+    "ホーディ・ジョーンズ",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -52,5 +57,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1505.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1505.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Deep-Sea Aphotic Zone to Ryugu Palace",
+      "thumb": 1506,
+      "data": [
+        "14"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "King Neptune's Execution Site - Noah's Ark",
+      "thumb": 1562,
+      "data": [
+        "02",
+        "07",
+        "14"
+      ]
+    }
+  ],
+  "manual": []
 }

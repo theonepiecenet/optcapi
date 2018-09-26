@@ -6,6 +6,11 @@
     "specialName": "Death-Inducing Lullaby",
     "sailor": "Boosts own base ATK by 350 if this character is the last in the chain to attack"
   },
+  "aliases": [
+    "ボビン",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +45,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2118.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2118.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

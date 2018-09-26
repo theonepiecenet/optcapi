@@ -5,6 +5,12 @@
     "special": "Reduces Chain Multiplier Limit and ATK DOWN duration by 4 turns. Reduces Special Cooldown of your top row by 2 turns.",
     "specialName": "The Pirate King's Ambition"
   },
+  "aliases": [
+    "ポートガス・D・エース スペード海賊団",
+    "",
+    "Secret Ace",
+    "Limted Ace"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -29,5 +35,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2257.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2257.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

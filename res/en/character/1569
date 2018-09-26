@@ -5,6 +5,11 @@
     "special": "Randomizes all non-matching orbs, including [BLOCK] orbs and switches orbs between slots three times",
     "specialName": "ROOM Shambles・Junction"
   },
+  "aliases": [
+    "トラファルガー・ロー 麦わらの一味・ハートの海賊団海賊同盟",
+    "",
+    "Anniversary Law"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1569.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1569.png"
-  }
+  },
+  "flags": {
+    "special": 1,
+    "shop": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "special": "Deals 75x character's ATK in [INT] damage to all enemies",
     "specialName": "Double Edge Long Blade Slash"
   },
+  "aliases": [
+    "鮫切りバスティーユ",
+    "",
+    "Story Bastille"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -26,5 +31,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2053.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2053.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Former King's Land to Royal Palace Top Floor",
+      "thumb": 1784,
+      "data": [
+        "05"
+      ]
+    }
+  ],
+  "manual": []
 }

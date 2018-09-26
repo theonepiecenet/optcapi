@@ -6,6 +6,11 @@
     "specialName": "Fashion Pop",
     "specialNotes": "The exact multiplier used is chosen based on the number of [BOMB] orbs consumed: 0 orbs - 10x ATK; 1 orb - 20x ATK; 2 orbs - 40x ATK; 3 orbs - 80x ATK; 4 orbs - 150x ATK; 5 orbs - 250x ATK; 6 orbs - 400x ATK."
   },
+  "aliases": [
+    "グラディウス カマイタチを捕らえる衝撃波",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,9 +31,28 @@
     14,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1887,
+    "evolvers": [
+      117,
+      79,
+      90,
+      96,
+      101
+    ],
+    "from": 1886
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1887.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1887.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

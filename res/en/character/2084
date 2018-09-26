@@ -5,6 +5,11 @@
     "special": "Removes Poison, changes left column [STR], [DEX], [QCK], [PSY], or [INT] orbs into Matching orbs and amplifies the effect of orbs on [DEX], [QCK] and [PSY] characters by 1.75x for 1 turn",
     "specialName": "Celebration at the Flower Garden"
   },
+  "aliases": [
+    "ヴィンスモーク・レイジュ Celebrate the exciting cruise",
+    "",
+    "Anniversary Reiju"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +30,26 @@
     13,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2084,
+    "evolvers": [
+      83,
+      85,
+      1180,
+      301,
+      101
+    ],
+    "from": 2083
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2084.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2084.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

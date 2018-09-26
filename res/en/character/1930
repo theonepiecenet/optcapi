@@ -6,6 +6,14 @@
     "specialNotes": "#{fixed}",
     "captain": "Boosts ATK of [DEX] characters by 2.25x, recovers 5x character's RCV in HP at the end of each turn"
   },
+  "aliases": [
+    "エネル　雷人間「改」 ２億Ｖ　雷神",
+    "",
+    "Neo Enel",
+    "Neo Eneru",
+    "Kai Enel",
+    "Kai Eneru"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -26,9 +34,24 @@
     25,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1930,
+    "evolvers": [
+      118,
+      266,
+      97,
+      302,
+      102
+    ],
+    "from": 1929
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1930.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1930.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

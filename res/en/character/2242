@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "将星クラッカー ビッグ・マム海賊団",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -99,9 +104,25 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2242,
+    "evolvers": [
+      94,
+      1180,
+      100,
+      101,
+      102
+    ],
+    "from": 2241
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2242.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2242.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

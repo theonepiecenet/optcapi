@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "ネプチューン リュウグウ王国国王",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +105,43 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1475,
+    "evolvers": [
+      118,
+      84,
+      95,
+      1180,
+      100
+    ],
+    "from": 1474
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1475.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1475.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Time of Revenge has Come! New Fishman Pirates! Fortnight",
+      "thumb": 1624,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Coliseum Executioner! Diamante Fortnight",
+      "thumb": 2146,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

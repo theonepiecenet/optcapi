@@ -5,6 +5,11 @@
     "special": "Changes Captain's orb into Matching and boosts ATK of your Captain by 1.5x for 1 turn",
     "specialName": "Revolutionary Soldier's Anger"
   },
+  "aliases": [
+    "コアラ 極秘任務の革命軍",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1813.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1813.png"
-  }
+  },
+  "flags": {
+    "special": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

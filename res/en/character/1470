@@ -6,6 +6,11 @@
     "special": "Deals 8x character's ATK as [STR] damage to one enemy. Changes captain orb into [RCV]",
     "specialName": "Meat Grinder Blade"
   },
+  "aliases": [
+    "リップ・“サービス”・ドウティ",
+    "",
+    "Lip Service"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -30,5 +35,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1470.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1470.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Gatekeeper of the New World! Fortnight",
+      "thumb": 1469,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Gatekeeper of the New World! Fortnight",
+      "thumb": 1469,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

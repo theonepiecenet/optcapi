@@ -5,6 +5,12 @@
     "special": "If HP is below 50% at the time the special is activated, deal 75x character's ATK in [QCK] damage to one enemy, boosts ATK of Fighter characters by 2x for 1 turn",
     "specialName": "The Collapsing Arhat"
   },
+  "aliases": [
+    "ウルージ 空から来た超新星",
+    "",
+    "Secret Urouge",
+    "Limited Urouge"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +45,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1894.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1894.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

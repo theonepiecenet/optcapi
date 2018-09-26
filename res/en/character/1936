@@ -6,6 +6,11 @@
     "specialNotes": "Level 1-20: 10% Health Cut<br>Level 21+: 25% Health Cut<br>#{ignoreBarrier}",
     "specialName": "Sacred Flames: Unknown Fire"
   },
+  "aliases": [
+    "マーシャル・D・ティーチ 太陽に挑む闇",
+    "",
+    "BB"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +45,14 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1936.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1936.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

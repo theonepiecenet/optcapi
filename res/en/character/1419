@@ -5,6 +5,11 @@
     "special": "Recovers 5,000 HP and boosts ATK against enemies with reduced defense by 1.5x for 1 turn",
     "specialName": "Demonic Style"
   },
+  "aliases": [
+    "ロブ・ルッチ 紋付袴の手招き",
+    "",
+    "Kimono Lucci"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1419.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1419.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

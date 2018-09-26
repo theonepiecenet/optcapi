@@ -6,6 +6,11 @@
     "specialName": "The Mouth that Induces Hatred",
     "specialNotes": "#{ignoreBarrier}"
   },
+  "aliases": [
+    "ジーザス・バージェス 能力者狩りの巨漢船長",
+    "",
+    "Story Jesus"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -27,5 +32,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2125.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2125.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Royal Palace Top Floor to Town Center",
+      "thumb": 2126,
+      "data": [
+        "13"
+      ]
+    }
+  ],
+  "manual": []
 }

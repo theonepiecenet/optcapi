@@ -5,6 +5,11 @@
     "special": "Changes adjacent orbs into [RCV] orbs, reduces Paralysis and Despair duration by 2 turns and reduces damage received by 40% for 1 turn",
     "specialName": "Sharing Vigorous Inspiration"
   },
+  "aliases": [
+    "不死鳥マルコ 白ひげの“息子”",
+    "",
+    "FN Marco"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +30,24 @@
     19,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1995,
+    "evolvers": [
+      80,
+      86,
+      91,
+      97,
+      102
+    ],
+    "from": 1994
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1995.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1995.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

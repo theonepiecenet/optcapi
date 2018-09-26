@@ -80,6 +80,13 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ユースタス・キッド \"赤髪\" を狙う最悪の世代",
+    "",
+    "Coliseum Kid",
+    "Timeskip Captain Kid",
+    "Timeskip Kid"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +107,21 @@
     28,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2111,
+    "evolvers": [
+      118,
+      97,
+      1180,
+      302,
+      102
+    ],
+    "from": 2110
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2111.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2111.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

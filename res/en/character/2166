@@ -6,6 +6,11 @@
     "specialName": "Eight Fists",
     "specialNotes": "#{ignoreBarrier}"
   },
+  "aliases": [
+    "サイ ベビー５と戦う男",
+    "",
+    "FN Don Sai"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +45,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2166.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2166.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Baby 5's Journey to Become a Bride Fortnight",
+      "thumb": 2165,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

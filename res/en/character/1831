@@ -5,6 +5,11 @@
     "special": "Reduces bind duration by 7 turns and amplifies the effect of orbs by 2x for 1 turn. If this character is the captain or the friend captain, slightly boosts the rate of [PSY] orbs and randomly shuffles all orbs including [BLOCK] orbs",
     "specialName": "Dengi Crack"
   },
+  "aliases": [
+    "ヴィンスモーク・ジャッジ",
+    "",
+    "Yellow Ranger"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +44,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1831.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1831.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

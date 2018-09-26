@@ -5,6 +5,11 @@
     "special": "Deals 13x character's ATK in [DEX] damage to one enemy, changes adjacent orbs into Matching Orbs, if there are 4 enemies or more on the stage, amplifies the effect of orbs by 1.75x for 1 turn",
     "specialName": "Gliding Twin Swords"
   },
+  "aliases": [
+    "サッチ 闇を手にした二刀使い",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +44,14 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1938.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1938.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

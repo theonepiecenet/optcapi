@@ -5,6 +5,11 @@
     "special": "Changes adjacent orbs into Matching Orbs and if HP is above 70%, amplifies the effect of orbs for Striker and Powerhouse characters by 1.5x for 1 turn",
     "specialName": "Trueno Bastardo"
   },
+  "aliases": [
+    "キュロス 無敗の剣闘士",
+    "",
+    "Coliseum Kyros"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1666.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1666.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,11 @@
     "special": "Randomizes all orbs, including [BLOCK] orbs, into either [STR] or [INT] orbs and amplifies the effect of orbs on [STR] and [INT] characters by 2.25x for 1 turn",
     "specialName": "The Natural Disaster's Final Attack: Scorched Earth"
   },
+  "aliases": [
+    "赤犬 天下分け目の死闘",
+    "",
+    "V2 Akainu"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2022.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2022.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

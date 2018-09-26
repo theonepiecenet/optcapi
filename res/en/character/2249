@@ -94,6 +94,11 @@
       }
     ]
   },
+  "aliases": [
+    "シャーロット・ダイフク ホヤホヤの実のランプ人間",
+    "",
+    "Coliseum Daifuku"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -114,9 +119,21 @@
     28,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2249,
+    "evolvers": [
+      118,
+      97,
+      1180,
+      302,
+      102
+    ],
+    "from": 2248
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2249.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2249.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

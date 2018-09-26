@@ -5,6 +5,11 @@
     "special": "Boosts own ATK by 2x for 1 turn and adds .4x to Chain multiplier for 1 turn.",
     "specialName": "Cruel Questioning"
   },
+  "aliases": [
+    "シープスヘッド",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,5 +31,17 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2230.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2230.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mokomo Dukedom",
+      "thumb": 2231,
+      "data": [
+        "04",
+        "05"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -4,8 +4,89 @@
     "captain": "Boosts ATK of [STR] characters by 2.5x, boosts HP of Striker and Powerhouse characters by 1.25x",
     "special": "Deals 50x character's ATK in fixed typeless damage to one enemy that will ignore damage negating abilities and barriers. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, boosts ATK of Striker and Powerhouse characters by 1.75x for 1 turn and changes all orbs, including [BLOCK] orbs, into Matching orbs",
     "specialNotes": "#{ignoreBarrier}<br>#{fixed}",
-    "specialName": "Battle Guardian"
+    "specialName": "Battle Guardian",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of Striker and Powerhouse characters by 30",
+      "level2": "Boosts base ATK, HP and RCV for this character by 30"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Striker and Powerhouse characters by 30"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 110"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts base ATK, HP and RCV for this character by 30"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by 1%",
+          "Level 2: Reduce damage taken from [DEX] characters by ?%",
+          "Level 3: Reduce damage taken from [DEX] characters by ?%",
+          "Level 4: Reduce damage taken from [DEX] characters by ?%",
+          "Level 5: Reduce damage taken from [DEX] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ]
   },
+  "aliases": [
+    "“夜の王”ネコマムシ くじらの森の守護神",
+    "",
+    "Nekopara",
+    "Coliseum Nekomamushi",
+    "Cat Viper"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,9 +107,24 @@
     21,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1733,
+    "evolvers": [
+      118,
+      95,
+      1180,
+      300,
+      100
+    ],
+    "from": 1732
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1733.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1733.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

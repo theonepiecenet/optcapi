@@ -5,6 +5,12 @@
     "special": "Removes all positive buffs on your team, changes all orbs, including [BLOCK] orbs into [G] orbs, amplifies the effect of orbs by 3x for 1 turn, boosts ATK of all characters by 1.25x for 1 turn and boosts the Color Affinity of all characters by 1.25x for 1 turn",
     "specialName": "The Harmony that Interweaves the Souls"
   },
+  "aliases": [
+    "シャーロット・リンリン",
+    "",
+    "TM Big Mom",
+    "TM Charlotte Linlin"
+  ],
   "unit": {
     "type": "STR",
     "class": "Powerhouse",
@@ -36,5 +42,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2108.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2108.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Big Mom",
+      "thumb": 2109,
+      "data": [
+        "Sweet Sea"
+      ]
+    }
+  ],
+  "manual": []
 }

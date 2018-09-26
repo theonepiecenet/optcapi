@@ -7,6 +7,11 @@
     "sailor": "Boosts amount healed from [RCV] orbs by 100 each",
     "specialName": "Devoted Healing - \"Instant Recovery\""
   },
+  "aliases": [
+    "チョッパーのティーパーティ",
+    "",
+    "White Day Chopper"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -27,9 +32,24 @@
     11,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1465,
+    "evolvers": [
+      116,
+      117,
+      82,
+      88,
+      99
+    ],
+    "from": 1464
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1465.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1465.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

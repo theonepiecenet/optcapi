@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "ペコムズ 故郷への帰国",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -99,9 +104,25 @@
     19,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2156,
+    "evolvers": [
+      118,
+      88,
+      99,
+      94,
+      267
+    ],
+    "from": 2155
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2156.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2156.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

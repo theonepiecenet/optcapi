@@ -5,6 +5,11 @@
     "special": "Reduces crew's current HP by 99%, deals 30x the amount of HP subtracted in typeless damage to all enemies and changes all orbs, including [BLOCK] orbs, into [RCV] orbs",
     "specialName": "Lion's Threat: Earth Bind"
   },
+  "aliases": [
+    "シキ 世界転覆の陰謀",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +44,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2200.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2200.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

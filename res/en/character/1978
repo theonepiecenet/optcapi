@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "冥王レイリー “覇気”の師",
+    "",
+    "Coliseum Rayleigh"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +105,24 @@
     26,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1978,
+    "evolvers": [
+      118,
+      97,
+      1180,
+      302,
+      102
+    ],
+    "from": 1977
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1978.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1978.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

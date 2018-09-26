@@ -5,6 +5,11 @@
     "special": "Deals 15x character's ATK in [STR] damage to all enemies, recovers 2,000 HP and adds .5x to Chain multiplier for 1 turn.",
     "specialName": "Gomu Gomu no Octopus Stamp: Banquet"
   },
+  "aliases": [
+    "モンキー・D・ルフィ Let’s go for PIRATE FESTIVAL",
+    "",
+    "Pizza Luffy"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2087.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2087.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Strawhat Pirates Pizza Party!! Lunch Fortnight",
+      "thumb": 2087,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

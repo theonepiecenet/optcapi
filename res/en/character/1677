@@ -5,6 +5,13 @@
     "special": "Boosts the Color Affinity of Slasher characters by 1.5x for 1 turn, changes middle row orbs into matching orbs and switches orbs between slots three times",
     "specialName": "ROOM: Kikoku"
   },
+  "aliases": [
+    "トラファルガー・ロー 終わらぬ夢の航跡・ハートの海賊団",
+    "",
+    "Log Law",
+    "Secret Law",
+    "Limited Law"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +46,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1677.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1677.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

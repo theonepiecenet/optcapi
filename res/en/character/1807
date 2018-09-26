@@ -5,6 +5,12 @@
     "special": "Deals 100x character's ATK in typeless damage to all enemies, if your Captain is a Slasher character, amplifies the effects of orbs for Slasher characters by 2x for 1 turn and locks the chain multiplier at 2.75x for 1 turn",
     "specialName": "Black Blade • The Ultimate Sword"
   },
+  "aliases": [
+    "ジュラキュール・ミホーク 世界中の剣士の頂点に立つ男",
+    "",
+    "Hawk",
+    "TM Mihawk"
+  ],
   "unit": {
     "type": "STR",
     "class": "Slasher",
@@ -36,5 +42,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1807.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1807.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Dracule Mihawk",
+      "thumb": 1808,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
 }

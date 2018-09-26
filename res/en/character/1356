@@ -6,6 +6,11 @@
     "specialName": "Serious Threat",
     "specialNotes": "Increases timing window to hit a PERFECT. (Animation remains the same)"
   },
+  "aliases": [
+    "ペコムズ",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1356.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1356.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Gather the Candy! Fortnight",
+      "thumb": 1357,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

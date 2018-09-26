@@ -21,6 +21,11 @@
     "specialName": "The Genie's Flashy Strike",
     "sailor": "If this character has a [DEX] orb and you hit a PERFECT with him, keep his [DEX] orb for the next turn"
   },
+  "aliases": [
+    "シャーロット・ダイフク ビッグ・マム海賊団",
+    "",
+    "Coliseum Daifuku"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -55,5 +60,24 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2248.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2248.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "special": "Reduces Special Cooldown of all characters by 1 turn and reduces crew's current HP by 10%",
     "specialName": "War of Mislead Order"
   },
+  "aliases": [
+    "軍師ダガマ",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1565.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1565.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Friends! Fortnight",
+      "thumb": 1564,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

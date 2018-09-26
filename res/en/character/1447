@@ -96,6 +96,12 @@
       }
     ]
   },
+  "aliases": [
+    "サンジ グリル＝ショット",
+    "",
+    "Mega Sanji",
+    "Super Sanji"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -116,9 +122,78 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1447,
+    "evolvers": [
+      "skullSanji",
+      267
+    ],
+    "from": 20
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1447.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1447.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Krieg's Assault! Fortnight",
+      "thumb": 58,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Perv-salom's Very Manly Adventure Fortnight",
+      "thumb": 405,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Encourage the Soul! Fortnight",
+      "thumb": 1547,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Rob Lucci"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

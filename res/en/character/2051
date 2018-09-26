@@ -5,6 +5,11 @@
     "special": "Deals 35x character's ATK in [QCK] damage to one enemy and boosts ATK of Fighter characters by 1.75x for 2 turns. If Pica is your Captain or Friend/Guest Captain, Reduces damage received by 20% for 1 turn. If he is a Sailor, Increases damage received by 2x for 1 turn instead.",
     "specialName": "Bitestone"
   },
+  "aliases": [
+    "ピーカ 岩石同化人間",
+    "",
+    "Story Pica"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -36,5 +41,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2051.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2051.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Former King's Land to Royal Palace Top Floor",
+      "thumb": 1784,
+      "data": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Royal Palace Top Floor to Town Center",
+      "thumb": 2126,
+      "data": [
+        "10"
+      ]
+    }
+  ],
+  "manual": []
 }

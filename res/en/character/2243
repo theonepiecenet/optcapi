@@ -6,6 +6,11 @@
     "specialName": "Genie-uine Rage Split",
     "sailor": "Boosts base HP of all characters by 75"
   },
+  "aliases": [
+    "シャーロット・ダイフク",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +45,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2243.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2243.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "special": "Reduces Paralysis duration by 2 turns and adds 2.5x character's ATK as Additional Typeless Damage for 1 turn.",
     "specialName": "Mink Damage Plus"
   },
+  "aliases": [
+    "精鋭銃士 銃士隊",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -26,5 +31,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2226.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2226.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

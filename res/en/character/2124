@@ -5,6 +5,11 @@
     "special": "Reduces crew's current HP by 60%, deals 8x the amount of HP subtracted in typeless damage to all enemies and amplifies the effect of orbs for Striker characters by 1.5x for 1 turn",
     "specialName": "Beta Betton Mucous Launcher"
   },
+  "aliases": [
+    "トレーボル 天夜叉の参謀",
+    "",
+    "Story Trebol"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -26,5 +31,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2124.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2124.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Royal Palace Top Floor to Town Center",
+      "thumb": 2126,
+      "data": [
+        "11"
+      ]
+    }
+  ],
+  "manual": []
 }

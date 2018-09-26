@@ -135,6 +135,12 @@
       }
     ]
   },
+  "aliases": [
+    "マゼラン 地獄の審判",
+    "",
+    "Mega Magellan",
+    "Super Magellan"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -155,9 +161,25 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2159,
+    "evolvers": [
+      "skullDEX",
+      118,
+      86,
+      302,
+      267
+    ],
+    "from": 1698
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2159.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2159.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

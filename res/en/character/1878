@@ -20,6 +20,11 @@
       }
     ]
   },
+  "aliases": [
+    "バルトロメオ 海賊団「バルトクラブ」船長",
+    "",
+    "Raid Bartolomeo"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -54,5 +59,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1878.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1878.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Bartolomeo Raid",
+      "thumb": 1879,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

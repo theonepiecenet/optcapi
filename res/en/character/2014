@@ -5,6 +5,11 @@
     "special": "Deals 100x character's ATK in [INT] damage to one enemy and if there is only one enemy on the stage, delays that enemy for 1 turn and boosts ATK against delayed enemies by 1.75x for 1 turn",
     "specialName": "Sai Dai Rin: Rokuogan (Ultimate Radius: Rokuogan)"
   },
+  "aliases": [
+    "ロブ・ルッチ “闇の正義”を尊ぶ獣",
+    "",
+    "Raid Lucci"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,21 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2014.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2014.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Rob Lucci Raid",
+      "thumb": 2015,
+      "data": [
+        "Expert",
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

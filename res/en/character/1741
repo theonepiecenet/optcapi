@@ -80,6 +80,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ボア・サンダーソニア 麦わらのルフィの共犯者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +105,43 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1741,
+    "evolvers": [
+      117,
+      86,
+      1180,
+      302,
+      102
+    ],
+    "from": 1740
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1741.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1741.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Perona's Peculiar Living Situation Fortnight",
+      "thumb": 1891,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    }
+  ]
 }

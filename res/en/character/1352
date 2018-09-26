@@ -5,6 +5,11 @@
     "special": "Following the activation of the special, if every unit scores a PERFECT hit, reduces damage received by 90% in the following turn",
     "specialName": "Rolling Beauty"
   },
+  "aliases": [
+    "エンポリオ・イワンコフ キングオブニューカマー",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +34,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1352.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1352.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "3D2Y",
+      "thumb": 1353,
+      "data": [
+        "13"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Royal Neptune Family! Fortnight",
+      "thumb": 1723,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

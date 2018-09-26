@@ -96,6 +96,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "グラディウス ピーカ軍幹部",
+    "",
+    "Coliseum Gladius"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -116,9 +121,24 @@
     33,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1401,
+    "evolvers": [
+      118,
+      78,
+      83,
+      95,
+      300
+    ],
+    "from": 1400
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1401.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1401.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

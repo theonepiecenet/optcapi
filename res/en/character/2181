@@ -140,6 +140,19 @@
       }
     ]
   },
+  "aliases": [
+    "白ひげ＆マルコ 頂上戦争の激闘",
+    "",
+    "Whitebeard&Marco",
+    "Whitebeard and Marco",
+    "Whitebeard Marco",
+    "WhitebeardMarco",
+    "Marco&Whitebeard",
+    "Marco and Whitebeard",
+    "Marco Whitebeard",
+    "MarcoWhitebeard",
+    "WBM"
+  ],
   "unit": {
     "type": [
       "PSY",
@@ -163,9 +176,25 @@
     23,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2181,
+    "evolvers": [
+      118,
+      103,
+      104,
+      1180,
+      267
+    ],
+    "from": 2180
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2181.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2181.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

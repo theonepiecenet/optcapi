@@ -6,6 +6,11 @@
     "specialNotes": "Ex. A [STR] character with a [QCK] orb will still deal regular damage",
     "specialName": "Super Sole Headbutt"
   },
+  "aliases": [
+    "ゼオ",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -30,5 +35,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1557.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1557.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "King Neptune's Execution Site - Noah's Ark",
+      "thumb": 1562,
+      "data": [
+        "09"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Beast's Return Fortnight",
+      "thumb": 1965,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

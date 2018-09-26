@@ -80,6 +80,14 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ベン・ベックマン “四皇”赤髪の右腕",
+    "",
+    "Secret Benn Beckman",
+    "Secret Ben Beckman",
+    "Limited Ben Beckman",
+    "Limited Benn Beckman"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -100,9 +108,44 @@
     13,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1770,
+    "evolvers": [
+      118,
+      88,
+      99,
+      304,
+      104
+    ],
+    "from": 1769
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1770.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1770.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Volatile Meal! Bonney and Bege! Fortnight",
+      "thumb": 1982,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Blitz! Doflamingo Family",
+      "thumb": 870,
+      "data": [
+        "Japan"
+      ]
+    }
+  ]
 }

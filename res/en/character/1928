@@ -136,6 +136,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "",
+    "",
+    "Mega Bartolomeo",
+    "Super Bartolomeo"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -156,9 +162,51 @@
     22,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1928,
+    "evolvers": [
+      "skullQCK",
+      118,
+      85,
+      301,
+      267
+    ],
+    "from": 1035
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1928.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1928.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Revealing the Truth! Fortnight",
+      "thumb": 1242,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Encourage the Soul! Fortnight",
+      "thumb": 1547,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Fujitora"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,11 @@
     "special": "Locks all orbs for 1 turn. If there are 4 enemies or more on the stage, amplifies the effect of orbs for Striker characters by 2x for 1 turn, otherwise amplifies the effect of orbs for Striker characters by 1.5x for 1 turn",
     "specialName": "Admiral Hug"
   },
+  "aliases": [
+    "オオロンブス ヨンタマリア大船団提督",
+    "",
+    "Coliseum Orlumbus"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1583.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1583.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

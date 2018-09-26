@@ -6,6 +6,11 @@
     "specialNotes": "Boosted ATK and Orb Effectiveness only works for the Dellinger who uses his Special.",
     "specialName": "Deadly Fangs of Rage"
   },
+  "aliases": [
+    "デリンジャー 闘魚の血を引く半魚人",
+    "",
+    "Coliseum Dellinger"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +45,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1375.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1375.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Former King's Land to Royal Palace Top Floor",
+      "thumb": 1784,
+      "data": [
+        "01",
+        "07"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

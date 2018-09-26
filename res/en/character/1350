@@ -4,6 +4,11 @@
     "special": "Switches orbs between slots 3 times",
     "specialName": "Longarm Tribe of Tehna Gehna"
   },
+  "aliases": [
+    "テーナ・ゲーナ王国の手長族",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -28,5 +33,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1350.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1350.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "3D2Y",
+      "thumb": 1353,
+      "data": [
+        "11"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Dead-On Prophecy?! Madam Sharley Fortnight",
+      "thumb": 1670,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

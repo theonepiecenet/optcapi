@@ -5,6 +5,11 @@
     "special": "Empty all slots including [BLOCK] orbs and boosts ATK of Cerebral characters by 1.2x for 1 turn",
     "specialName": "Gust 'Wind Knot'"
   },
+  "aliases": [
+    "ハレダス",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1349.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1349.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "3D2Y",
+      "thumb": 1353,
+      "data": [
+        "09"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Brutal Fiend! Eustass Kid Fortnight",
+      "thumb": 1690,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

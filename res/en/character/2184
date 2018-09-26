@@ -6,6 +6,11 @@
     "specialName": "Hawk Eyes' Instantaneous Killing",
     "sailor": "Boosts base ATK and HP of [PSY] and [INT] characters by 50"
   },
+  "aliases": [
+    "ジュラキュール・ミホーク 戦火のマリンフォード“剣豪”",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Slasher",
@@ -37,5 +42,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2184.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2184.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,12 @@
     "special": "Changes own orb into [STR], reduces Chain Multiplier Limit and Chain Coefficient Reduction by 3 turns. If your Captain is a Free Spirit Character, boosts ATK against delayed enemies by 1.75x for 1 turn",
     "specialName": "Manly Synchronized Swimming"
   },
+  "aliases": [
+    "セニョール・ピンク 遊泳自由人間",
+    "",
+    "Raid Senor Pink",
+    "Raid Senior Pink"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +45,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1942.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1942.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Señor Pink Raid",
+      "thumb": 1943,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "special": "Reduces enemy's Threshold Damage Reduction duration by 2 turns and reduces any damage received above 3,000 HP by 80% for 2 turns",
     "specialName": "A Moment of Determination"
   },
+  "aliases": [
+    "レベッカ 優勝を狙う“幻の王女”",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +30,21 @@
     18,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2146,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ],
+    "from": 2145
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2146.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2146.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

@@ -6,6 +6,11 @@
     "specialName": "Irritation of Love",
     "sailor": "If your Captain is a Fighter character, adds 1.5x character's ATK as Additional Typeless Damage"
   },
+  "aliases": [
+    "ベビー５ サイからのプロポーズ",
+    "",
+    "FN Baby 5"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,9 +31,21 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2165,
+    "evolvers": [
+      117,
+      79,
+      85,
+      96,
+      101
+    ],
+    "from": 2164
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2165.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2165.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

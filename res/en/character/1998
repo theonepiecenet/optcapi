@@ -1,6 +1,11 @@
 {
   "name": "Sanji, Strawhat Pirates Elite",
   "detail": {},
+  "aliases": [
+    "麦わらの一味の双璧 サンジ",
+    "",
+    "TM Sanji"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -32,5 +37,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1998.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1998.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Sanji and Zoro",
+      "thumb": 2000,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
 }

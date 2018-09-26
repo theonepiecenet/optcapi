@@ -6,6 +6,12 @@
     "specialNotes": "This is the same type of ability as raid boss Shiki's swap. You cannot use it if another effect swaps your captain. (Such as if Shiki swaps first)",
     "specialName": "Scorpion Tail"
   },
+  "aliases": [
+    "サー・クロコダイル 渇きを与える脱獄囚",
+    "",
+    "TM Crocodile",
+    "TM Mr. 0"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +46,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2136.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2136.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Crocodile",
+      "thumb": 2137,
+      "data": [
+        "Primordial Sea"
+      ]
+    }
+  ],
+  "manual": []
 }

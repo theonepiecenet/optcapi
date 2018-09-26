@@ -5,6 +5,11 @@
     "special": "Recovers 3000 HP and amplifies the effect of orbs by 1.25x for 1 turn",
     "specialName": "Boiling Fighting Spirit"
   },
+  "aliases": [
+    "スパルタン",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1785.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1785.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Port Town Acacia to Coliseum",
+      "thumb": 1782,
+      "data": [
+        "02"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Let's Go See Master Nekomamushi! Fortnight",
+      "thumb": 2177,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,11 @@
     "special": "Delays all enemies for 1 turn. For Driven characters, Changes [EMPTY] orbs into Matching orbs. Boosts ATK of Driven characters by 1.75x if HP is below 30% when the special is activated.",
     "specialName": "Massacre GAS"
   },
+  "aliases": [
+    "シーザー・クラウン 死の国の王",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,10 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1716.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1716.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

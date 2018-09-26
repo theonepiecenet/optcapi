@@ -7,6 +7,11 @@
     "sailor": "Reduces Silence duration on this character by 2 turns",
     "sailorNotes": "#{silence}"
   },
+  "aliases": [
+    "ハルタ 白ひげ海賊団１２番隊隊長",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -31,5 +36,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1509.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1509.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Departure! Whitebeard Pirates Fortnight",
+      "thumb": 1509,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

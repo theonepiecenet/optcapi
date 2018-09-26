@@ -5,6 +5,12 @@
     "special": "Reduce 3 turns of paralysis, randomize non-matching orbs, including [BLOCK] orbs, Adds 65x character's ATK as Additional Typeless Damage for 1 turn, when your Captain is a Striker Character reduces enemies Percent Damage Reduction duration by 3 turns",
     "sailor": "If this character has an [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"
   },
+  "aliases": [
+    "レオ 勇敢なる小人族",
+    "",
+    "Secret Leo",
+    "Limited Leo"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +45,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1858.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1858.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

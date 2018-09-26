@@ -164,6 +164,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "旱害のジャック",
+    "",
+    "TM Jack"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -184,9 +189,21 @@
     36,
     29
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2175,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      101
+    ],
+    "from": 2174
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2175.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2175.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

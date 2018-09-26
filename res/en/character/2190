@@ -6,6 +6,12 @@
     "specialName": "Heart-Throbbing Beach Volleyball",
     "sailor": "If your Captain is a Slasher or Striker character, reduces Blindness duration by 5 turns"
   },
+  "aliases": [
+    "レベッカ 元気ハツラツ夏娘",
+    "",
+    "Swimsuit Rebecca",
+    "Summer Rebecca"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2190.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2190.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

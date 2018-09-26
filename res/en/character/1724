@@ -6,6 +6,11 @@
     "specialNotes": "#{additionalDamage : 25x}",
     "specialName": "Sun's Hope"
   },
+  "aliases": [
+    "フカボシ ネプチューン家三兄弟　長男",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1724.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1724.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Royal Neptune Family! Fortnight",
+      "thumb": 1723,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

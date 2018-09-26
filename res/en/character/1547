@@ -6,6 +6,11 @@
     "specialNotes": "Ex. A [STR] character with a [QCK] orb will still deal regular damage",
     "specialName": "Dawn of A Big Star"
   },
+  "aliases": [
+    "“ソウルキング”ブルック 海賊",
+    "",
+    "Brook"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,9 +31,24 @@
     13,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1547,
+    "evolvers": [
+      117,
+      79,
+      85,
+      96,
+      101
+    ],
+    "from": 1546
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1547.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1547.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

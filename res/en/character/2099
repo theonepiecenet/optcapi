@@ -136,6 +136,12 @@
       }
     ]
   },
+  "aliases": [
+    "ゴールデンテゾーロ",
+    "",
+    "Legend Gild Tesoro",
+    "V2 Tesoro"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -156,9 +162,25 @@
     16,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2099,
+    "evolvers": [
+      118,
+      266,
+      94,
+      1180,
+      267
+    ],
+    "from": 2098
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2099.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2099.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

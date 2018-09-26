@@ -102,6 +102,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ジーザス・バージェス 鳥カゴの中の暗躍者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -122,9 +127,43 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1798,
+    "evolvers": [
+      83,
+      94,
+      97,
+      302,
+      102
+    ],
+    "from": 1797
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1798.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1798.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Branded in Shackles! Fortnight",
+      "thumb": 1933,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Lucy"
+      ]
+    }
+  ]
 }

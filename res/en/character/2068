@@ -79,6 +79,14 @@
       }
     ]
   },
+  "aliases": [
+    "たしぎ　覇気使いの女剣士",
+    "",
+    "Secret Tashigi",
+    "Limited Tashigi",
+    "Secret Thiccshigi",
+    "Limited Thiccshigi"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -99,9 +107,35 @@
     15,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2068,
+    "evolvers": [
+      118,
+      87,
+      98,
+      303,
+      103
+    ],
+    "from": 2067
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2068.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2068.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Pound and King Baum Fortnight",
+      "thumb": 2253,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

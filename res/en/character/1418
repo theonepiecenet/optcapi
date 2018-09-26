@@ -5,6 +5,11 @@
     "special": "Reduces any damage received above 5,000 HP by 99% for 1 turn",
     "specialName": "Defence of the Command Line"
   },
+  "aliases": [
+    "カイゼルヒゲ",
+    "",
+    "Kaiser Mustache"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1418.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1418.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Full Defense! Buddha Sengoku! Fortnight",
+      "thumb": 1416,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Prepare for Battle! Aokiji and Akainu!",
+      "thumb": 1280,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Full Defense! Buddha Sengoku! Fortnight",
+      "thumb": 1416,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

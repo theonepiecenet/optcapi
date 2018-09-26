@@ -21,6 +21,16 @@
     ],
     "specialNotes": "#{stages}"
   },
+  "aliases": [
+    "黄猿「改」",
+    "",
+    "Neo Kizaru",
+    "Neo Borsalino",
+    "Kai Kizaru",
+    "Kai Borsalino",
+    "Raid Kizaru",
+    "Raid Borsalino"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -55,5 +65,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1779.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1779.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Kizaru Raid",
+      "thumb": 1780,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

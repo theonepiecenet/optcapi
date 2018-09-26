@@ -6,6 +6,12 @@
     "specialName": "Rebellion against the \"Prohibition\" - Taboo",
     "sailor": "When any other Powerhouse character uses a special, reduces own cooldown by 1 turn"
   },
+  "aliases": [
+    "フィッシャー・タイガー",
+    "",
+    "Secret Fisher Tiger",
+    "Limited Fisher Tiger"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +46,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1631.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1631.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

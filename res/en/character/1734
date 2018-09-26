@@ -5,6 +5,11 @@
     "special": "Changes bottom right orb to [STR] and bottom left orb to [INT]. Switches orbs between slots twice.",
     "specialName": "Toy's Close Combat"
   },
+  "aliases": [
+    "シュガー ホビホビの実の能力者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1734.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1734.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Underground Trade Port! Escape! Fortnight",
+      "thumb": 1735,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "special": "Boosts ATK of Cerebral characters by 1.5x for 1 turn and reduces Special Cooldown of Cerebral characters by 1 turn",
     "specialName": "Intense Gun Strike"
   },
+  "aliases": [
+    "ベン・ベックマン 港村の海賊",
+    "",
+    "Ben Beckman"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2044.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2044.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Red Hair Pirates at the Harbor! Fortnight",
+      "thumb": 2044,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Red Hair Pirates at the Harbor! Fortnight",
+      "thumb": 2044,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

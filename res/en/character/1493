@@ -6,6 +6,11 @@
     "specialNotes": "#{randomHits : 5}",
     "specialName": "Random Light Blows"
   },
+  "aliases": [
+    "荒くれのトゲ付き棍棒部隊 魚人街の無法者",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -27,5 +32,10 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1493.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1493.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

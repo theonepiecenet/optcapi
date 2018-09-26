@@ -5,6 +5,11 @@
     "special": "Changes [RCV], [TND], [G], [BLOCK] and [BOMB] orbs into Matching orbs, recovers 7,600 HP and reduces damage received by 76% for 1 turn",
     "specialName": "Prayers of Paradise"
   },
+  "aliases": [
+    "ウルージ 百八の慈愛",
+    "",
+    "Kimono Urouge"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +30,28 @@
     14,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1912,
+    "evolvers": [
+      88,
+      99,
+      104,
+      304,
+      1180
+    ],
+    "from": 1911
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1912.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1912.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

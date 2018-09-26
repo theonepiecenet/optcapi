@@ -5,6 +5,11 @@
     "special": "Recovers 50% of crew's MAX HP, changes bottom row orbs into matching orbs",
     "specialName": "Sharing a Cup Filled with Emotions"
   },
+  "aliases": [
+    "赤髪のシャンクス Celebrate the long cruise",
+    "",
+    "Anniversary Shanks"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +30,27 @@
     17,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1590,
+    "evolvers": [
+      83,
+      85,
+      1180,
+      101,
+      301
+    ],
+    "from": 1589
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1590.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1590.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "ニコ・ロビン 20th Anniversary Memorial Treasure",
+    "",
+    "20th Anniversary Robin"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -100,9 +105,35 @@
     17,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1684,
+    "evolvers": [
+      79,
+      85,
+      90,
+      96,
+      101
+    ],
+    "from": 1683
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1684.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1684.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "21st Anniversary Island",
+      "thumb": 1682,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

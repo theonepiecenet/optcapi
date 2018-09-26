@@ -6,6 +6,14 @@
     "specialNotes": "#{fixed}",
     "captain": "Boosts ATK of [DEX] characters by 2x"
   },
+  "aliases": [
+    "エネル「改」 ２億Ｖ　雷神",
+    "",
+    "Neo Enel",
+    "Neo Eneru",
+    "Kai Enel",
+    "Kai Eneru"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +48,30 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1929.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1929.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Eneru Raid",
+      "thumb": 1930,
+      "data": [
+        "Expert",
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "Kami's Return",
+      "thumb": 2232,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

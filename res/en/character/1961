@@ -8,6 +8,12 @@
     "sailor": "Restores his own special cooldown by 3 turns when it is rewinded",
     "sailorNotes": "#{rewind : 3}"
   },
+  "aliases": [
+    "サンジ 二人を分かつ死の計画",
+    "",
+    "Wedding Sanji",
+    "Groom Sanji"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -28,9 +34,21 @@
     21,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1961,
+    "evolvers": [
+      116,
+      117,
+      81,
+      87,
+      98
+    ],
+    "from": 1960
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1961.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1961.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

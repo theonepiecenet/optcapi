@@ -5,6 +5,11 @@
     "special": "Deals 15x character's ATK in [STR] damage to all enemies and amplifies the effect of orbs by 1.25x for 1 turn",
     "specialName": "Flame Breath"
   },
+  "aliases": [
+    "Ｄｒａｇｏｎ パンクハザード生息",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1633.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1633.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Punk Hazard - Burning Lands to Laboratory",
+      "thumb": 1637,
+      "data": [
+        "01"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Volatile Meal! Bonney and Bege! Fortnight",
+      "thumb": 1982,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

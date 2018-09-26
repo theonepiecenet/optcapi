@@ -5,6 +5,11 @@
     "special": "Recovers 13x character's RCV in HP, amplifies the effect of orbs by 1.5x for 3 turns",
     "specialName": "The Princess' Principle"
   },
+  "aliases": [
+    "ボア・ハンコック お姫さまの片鱗",
+    "",
+    "Kid Boa Hancock"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +30,26 @@
     13,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1568,
+    "evolvers": [
+      117,
+      118,
+      79,
+      101
+    ],
+    "from": 1567
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1568.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1568.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

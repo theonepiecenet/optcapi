@@ -5,6 +5,11 @@
     "special": "Deals 20x character's ATK in [STR] damage to one enemy, reduces Special Cooldown of Striker specials by 1 turn and boosts ATK of Striker characters by 1.5x for 1 turn.",
     "specialName": "Moo Golova"
   },
+  "aliases": [
+    "ロディ くじらの森　侠客団",
+    "",
+    "Rody"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2178.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2178.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Let's Go See Master Nekomamushi! Fortnight",
+      "thumb": 2177,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

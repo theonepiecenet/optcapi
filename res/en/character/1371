@@ -7,6 +7,11 @@
     "sailorNotes": "#{rewind : 2}",
     "specialName": "Wild Plan"
   },
+  "aliases": [
+    "ロロノア・ゾロ 野生の海賊",
+    "",
+    "Wild Zoro"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -41,5 +46,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1371.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1371.png"
-  }
+  },
+  "flags": {
+    "shop": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -21,6 +21,15 @@
     "specialNotes": "#{stages}",
     "specialName": "Injection Shot"
   },
+  "aliases": [
+    "“死の外科医”トラファルガー・ロー “ジョーカー”を狙う“ハート”",
+    "",
+    "Korean Law",
+    "Legend Korean Law",
+    "Legend Trafalgar Law",
+    "Legend Law",
+    "Shichibukai"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -55,5 +64,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1750.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1750.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

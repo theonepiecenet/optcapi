@@ -5,6 +5,11 @@
     "special": "Deals 20x character's ATK in [DEX] damage to one enemy and boosts ATK of Slasher characters by 1.5x for 3 turns",
     "specialName": "Corrida Glaive"
   },
+  "aliases": [
+    "Mr.ディアマンテ 優勝を阻む仇",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +30,21 @@
     18,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2144,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ],
+    "from": 2143
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2144.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2144.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

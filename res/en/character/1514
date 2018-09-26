@@ -5,6 +5,12 @@
     "special": "Randomizes all orbs, including [BLOCK] orbs, reduces Special Cooldown of 1 character by 1 turn",
     "specialName": "Unfamiliar Escort"
   },
+  "aliases": [
+    "サンジ 記念日の手作り",
+    "",
+    "Spring Sanji",
+    "White Day Sanji"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +31,26 @@
     5,
     5
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1514,
+    "evolvers": [
+      116,
+      117,
+      84,
+      85,
+      86
+    ],
+    "from": 1513
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1514.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1514.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

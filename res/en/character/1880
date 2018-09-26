@@ -152,6 +152,12 @@
       }
     ]
   },
+  "aliases": [
+    "ホーディ・ジョーンズ 暴走する偽りの聖戦士",
+    "",
+    "Mega Hody Jones",
+    "Super Hody Jones"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -172,9 +178,51 @@
     21,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1880,
+    "evolvers": [
+      "skullINT",
+      118,
+      88,
+      303,
+      267
+    ],
+    "from": 1434
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1880.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1880.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Time of Revenge has Come! New Fishman Pirates! Fortnight",
+      "thumb": 1624,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Germa's Lineage Factor! Fortnight",
+      "thumb": 2056,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Shirahoshi"
+      ]
+    }
+  ]
 }

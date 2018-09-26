@@ -135,6 +135,14 @@
       }
     ]
   },
+  "aliases": [
+    "ボア・ハンコック 蛇姫",
+    "",
+    "Mega Boa Hancock",
+    "Super Boa Hancock",
+    "Shichibukai",
+    "Legend Boa Hancock"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -155,9 +163,68 @@
     17,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1445,
+    "evolvers": [
+      "skullQCK",
+      118,
+      85,
+      301,
+      267
+    ],
+    "from": 416
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1445.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1445.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Domino's Special Security Fortnight",
+      "thumb": 538,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Riverside Banquet! Enter the Crazy Ones! Fortnight",
+      "thumb": 885,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Boa Hancock"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    }
+  ]
 }

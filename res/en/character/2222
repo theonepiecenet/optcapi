@@ -5,6 +5,11 @@
     "special": "Reduces Paralysis duration by 2 turns and boosts ATK of all characters by 1.25x for 1 turn.",
     "specialName": "Mink Attack Boost"
   },
+  "aliases": [
+    "格闘団員 侠客団",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,5 +31,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2222.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2222.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

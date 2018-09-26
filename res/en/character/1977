@@ -8,6 +8,11 @@
     "sailor": "Reduces Silence duration on this character by 3 turns",
     "sailorNotes": "#{silence}"
   },
+  "aliases": [
+    "シルバーズ・レイリー “覇気”の師",
+    "",
+    "Coliseum Rayleigh"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -42,5 +47,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1977.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1977.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    }
+  ],
+  "manual": []
 }

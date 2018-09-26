@@ -5,6 +5,11 @@
     "special": "Reduces Bind and Despair duration by 2 turns. If your Captain is a Free Spirit character, changes [BLOCK] orbs into Matching orbs",
     "specialName": "Treasure Trust"
   },
+  "aliases": [
+    "赤髪のシャンクス　麦わら帽子の海賊",
+    "",
+    "FN Shanks"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +30,24 @@
     12,
     6
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2019,
+    "evolvers": [
+      80,
+      86,
+      91,
+      97,
+      102
+    ],
+    "from": 2018
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2019.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2019.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

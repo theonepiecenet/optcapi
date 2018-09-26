@@ -6,6 +6,12 @@
     "specialName": "Double Edge of Revolt [Neo]",
     "sailor": "When HP is below 30% at the start of the turn, boosts base ATK of all characters by 40"
   },
+  "aliases": [
+    "“赤旗”X・ドレーク「改」 ドレーク海賊団",
+    "",
+    "Neo X Drake",
+    "Kai X Drake"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,9 +32,24 @@
     19,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1976,
+    "evolvers": [
+      118,
+      83,
+      85,
+      301,
+      101
+    ],
+    "from": 1975
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1976.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1976.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

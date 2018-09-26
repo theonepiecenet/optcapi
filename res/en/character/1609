@@ -7,6 +7,14 @@
     "specialNotes": "The excess healing is counted from the last time the special is used and accumulates when you heal more than your maximum HP. For example, if you are at max HP and you heal 1,000 HP, you will add 10k damage to the special. The amount of damage possible caps at 2,000,000 damage.",
     "specialName": "Heavy Thunder"
   },
+  "aliases": [
+    "ゴッド・エネル 終わらぬ夢の宿敵",
+    "",
+    "God Enel",
+    "Legend Enel",
+    "Legend God Enel",
+    "Kami Eneru"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -41,5 +49,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1609.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1609.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

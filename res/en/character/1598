@@ -5,6 +5,11 @@
     "special": "Boosts ATK of all characters by 1.2x and recovers 5x character's RCV in HP at the end of each turn for 3 turns",
     "specialName": "Musical Scale"
   },
+  "aliases": [
+    "リュウボシ",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1598.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1598.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Targeted Mermaid Princess! Fortnight",
+      "thumb": 1597,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

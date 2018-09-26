@@ -7,6 +7,11 @@
     "sailorNotes": "#{beneficial}",
     "specialName": "The Teacher's Final Ordeal"
   },
+  "aliases": [
+    "シルバーズ・レイリー 麦わらの一味の協力者",
+    "",
+    "Silvers Rayleigh"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -41,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1533.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1533.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

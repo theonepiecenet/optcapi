@@ -6,6 +6,12 @@
     "specialName": "A Decision Made over Sake",
     "specialNotes": "#{orb : 2x}<br>#{beneficial}"
   },
+  "aliases": [
+    "シャンクス 赤髪海賊団大頭",
+    "",
+    "Invasion Shanks",
+    "Ambush Shanks"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +46,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1379.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1379.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Invasion! Red Hair Shanks",
+      "thumb": 1380,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

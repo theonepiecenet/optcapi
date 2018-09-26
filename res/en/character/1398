@@ -5,6 +5,11 @@
     "special": "For Slasher characters, randomizes all non-matching orbs. Swaps this unit with your captain for 2 turns",
     "specialName": "Out-of-Control White Smoke"
   },
+  "aliases": [
+    "スモーカー シャンブルズ",
+    "",
+    "Tashigi"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +44,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1398.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1398.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Punk Hazard - Burning Lands to Laboratory",
+      "thumb": 1637,
+      "data": [
+        "14"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Shambles! Tashigi and Smoker?!? Fortnight",
+      "thumb": 1397,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

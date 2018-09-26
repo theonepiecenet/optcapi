@@ -5,6 +5,11 @@
     "special": "Boosts ATK of Striker characters by 1.5x for 1 turn and Changes own orb into [PSY] if HP is below 50% when the special is activated and deals 20,000 Fixed damage to one enemy.",
     "specialName": "Sea God's Strike"
   },
+  "aliases": [
+    "海神ネプチューン リュウグウ王国国王",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +30,24 @@
     15,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1723,
+    "evolvers": [
+      117,
+      81,
+      87,
+      98,
+      103
+    ],
+    "from": 1722
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1723.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1723.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

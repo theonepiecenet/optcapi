@@ -5,6 +5,14 @@
     "special": "Reduces Special Cooldown of Slasher and Free Spirit characters by 1 turn and changes adjacent orbs into Matching Orbs",
     "specialName": "Poof [Neo]"
   },
+  "aliases": [
+    "錦えもん「改」",
+    "",
+    "Neo Kinemon",
+    "Kai Kinemon",
+    "Neo Kin'emon",
+    "Kai Kin'emon"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +47,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1862.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1862.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Neo"
+      ]
+    }
+  ],
+  "manual": []
 }

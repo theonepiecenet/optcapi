@@ -163,6 +163,13 @@
       }
     ]
   },
+  "aliases": [
+    "キャベンディッシュ White Christmas Knight",
+    "",
+    "Adventure Cavendish",
+    "TM Cavendish",
+    "Cabbage"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -183,9 +190,24 @@
     36,
     29
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1889,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      103
+    ],
+    "from": 1888
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1889.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1889.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

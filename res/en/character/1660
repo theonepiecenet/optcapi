@@ -9,6 +9,11 @@
     "specialNotes": "#{silence}",
     "specialName": "Ninja Arts - Bunshin no Jutsu"
   },
+  "aliases": [
+    "霧の雷ぞう",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,9 +34,43 @@
     15,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1660,
+    "evolvers": [
+      83,
+      84,
+      95,
+      1180,
+      100
+    ],
+    "from": 1659
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1660.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1660.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Crisis in the 800 Year Old Kingdom! Fortnight",
+      "thumb": 1818,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Nekomamushi"
+      ]
+    }
+  ]
 }

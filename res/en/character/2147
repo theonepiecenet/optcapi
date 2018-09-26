@@ -6,6 +6,11 @@
     "special": "Deals 150x character's ATK in [PSY] damage to one enemy. If HP is above 50% at the time the special is activated, boosts ATK of Fighter characters by 2.25x for 1 turn. If Sanji is your Captain or Friend/Guest Captain, reduces Chain Multiplier Limit and Chain Coefficient Reduction duration by 10 turns",
     "specialName": "Full Course of Hell"
   },
+  "aliases": [
+    "ヴィンスモーク・サンジ ジェルマ王国の生け贄",
+    "",
+    "V2 Sanji"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +45,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2147.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2147.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

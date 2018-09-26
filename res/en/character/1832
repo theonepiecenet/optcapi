@@ -134,6 +134,11 @@
       }
     ]
   },
+  "aliases": [
+    "ヴィンスモーク・ジャッジ 科学戦闘部隊ジェルマ６６",
+    "",
+    "Yellow Ranger"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -164,9 +169,51 @@
       "skullJudge"
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 1832,
+    "evolvers": [
+      118,
+      103,
+      98,
+      303,
+      267
+    ],
+    "from": 1831
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1832.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1832.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Whitebeard Pirates Commanders! Marco and Vista! Fortnight",
+      "thumb": 1997,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Judge"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Germa Revival Plan!",
+      "thumb": 2138,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

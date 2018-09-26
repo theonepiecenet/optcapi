@@ -6,6 +6,11 @@
     "specialNotes": "Level 1-20: 10% Health Cut<br>Level 21+: 25% Health Cut<br>#{ignoreBarrier}",
     "specialName": "Sacred Flames: Unknown Fire"
   },
+  "aliases": [
+    "黒ひげ 太陽に挑む闇",
+    "",
+    "BB"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -26,9 +31,28 @@
     15,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1937,
+    "evolvers": [
+      117,
+      82,
+      93,
+      99,
+      104
+    ],
+    "from": 1936
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1937.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1937.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

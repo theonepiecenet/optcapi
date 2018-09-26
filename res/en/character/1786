@@ -5,6 +5,11 @@
     "specialNotes": "#{beneficial}",
     "specialName": "Shooter Beneficial Slot: [QCK]"
   },
+  "aliases": [
+    "ドンキホーテ海賊団構成員 格闘部隊下級兵",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,5 +31,10 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1786.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1786.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

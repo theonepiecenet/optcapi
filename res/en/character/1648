@@ -5,6 +5,11 @@
     "special": "Reduces damage received by 90% for 1 turn and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX] or [QCK] orbs",
     "specialName": "Sprouting with Beautiful Passion"
   },
+  "aliases": [
+    "ジョーラ 芸術人間",
+    "",
+    "Jora"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +44,44 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1648.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1648.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Port Town Acacia to Coliseum",
+      "thumb": 1782,
+      "data": [
+        "06",
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Coliseum Lodging to Executive Tower",
+      "thumb": 2004,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Royal Palace Top Floor to Town Center",
+      "thumb": 2126,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Seeking The Best Art! Giolla and Brook! Fortnight",
+      "thumb": 1649,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

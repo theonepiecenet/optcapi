@@ -5,6 +5,11 @@
     "special": "Randomizes all non-matching orbs and deals 13x character's ATK in [STR] damage to all enemies",
     "specialName": "Fist of the Demon's Child 'Fire'"
   },
+  "aliases": [
+    "ポートガス・D・エース ルフィの“兄”",
+    "",
+    "0 Stamina Ace"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -38,5 +43,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1604.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1604.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Ace Training Ground",
+      "thumb": 1605,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

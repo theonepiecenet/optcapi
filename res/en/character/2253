@@ -5,6 +5,11 @@
     "special": "Locks all orbs for 1 turn and amplifies the effects of orbs for characters in the middle and bottom row by 1.5x for 3 turns. If your Captain is a Free Spirit character, randomizes all non-matching orbs.",
     "specialName": "A Bizzare Encounter"
   },
+  "aliases": [
+    "パウンド ローラとシフォンのお父さん",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +30,21 @@
     18,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2253,
+    "evolvers": [
+      117,
+      81,
+      87,
+      98,
+      103
+    ],
+    "from": 2252
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2253.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2253.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

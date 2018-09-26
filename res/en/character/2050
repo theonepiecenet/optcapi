@@ -79,6 +79,12 @@
       }
     ]
   },
+  "aliases": [
+    "ゲッコー・モリア 死者の軍団の統率者",
+    "",
+    "Limited Moria",
+    "Secret Moria"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -99,9 +105,26 @@
     17,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2050,
+    "evolvers": [
+      118,
+      88,
+      99,
+      304,
+      104
+    ],
+    "from": 2049
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2050.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2050.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -6,6 +6,11 @@
     "specialNotes": "<br><b>1 enemy:</b> 300,000 damage<br><b>2 enemies:</b> 500,000 damage<br><b>3 enemies:</b> 800,000 damage<br><b>4 enemies:</b> 1,100,000 damage<br><b>5 enemies:</b> 1,500,000 damage<br><b>6 enemies:</b> 2,000,000 damage<br>",
     "specialName": "Genocide Shotel"
   },
+  "aliases": [
+    "ジャック",
+    "",
+    "TM Jack"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +45,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2174.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2174.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Jack",
+      "thumb": 2175,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
 }

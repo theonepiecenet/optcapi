@@ -6,6 +6,11 @@
     "specialName": "Fathomless Infinite Hell",
     "sailor": "When any other character uses a special, reduces own cooldown by 5 turns"
   },
+  "aliases": [
+    "濡れ髪のカリブー 次世代の超新星",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -26,9 +31,24 @@
     16,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1842,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ],
+    "from": 1841
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1842.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1842.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

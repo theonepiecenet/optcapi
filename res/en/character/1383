@@ -6,6 +6,12 @@
     "specialNotes": "#{silence}",
     "specialName": "Angry Extermination of Bugs"
   },
+  "aliases": [
+    "オモチャの兵隊さん",
+    "",
+    "Toy Soldier",
+    "Kyros"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +46,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1383.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1383.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Happiness! Fortnight",
+      "thumb": 1384,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "special": "Recovers 3,000 HP and boosts ATK of Free Spirit and Fighter characters by 1.75x for 1 turn",
     "specialName": "Immoral Gaze"
   },
+  "aliases": [
+    "ボア・ハンコック Celebrate the long cruise",
+    "",
+    "Anniversary Boa"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1591.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1591.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

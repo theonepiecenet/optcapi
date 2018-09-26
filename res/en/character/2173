@@ -5,6 +5,14 @@
     "special": "Reduces enemy's Percent Damage Reduction and crew's Chain Coefficient Reduction duration by 4 turns, changes Badly Matching orbs into Matching orbs and adds .65x to Chain multiplier for 1 turn.",
     "specialName": "Spending Some Time with Megalo"
   },
+  "aliases": [
+    "しらほし 深海のマーメイド",
+    "",
+    "Secret Shirahoshi",
+    "Limited Shirahoshi",
+    "Suimsuit Shirahoshi",
+    "Summer Shirahoshi"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +33,26 @@
     11,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2173,
+    "evolvers": [
+      117,
+      81,
+      92,
+      98,
+      103
+    ],
+    "from": 2172
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2173.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2173.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

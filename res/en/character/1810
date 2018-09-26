@@ -6,6 +6,11 @@
     "sailor": "Reduces Paralysis duration on this character by 1 turn",
     "specialName": "Super Express Beast Path"
   },
+  "aliases": [
+    "王の鳥　ワンダ モコモ公国",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -26,9 +31,24 @@
     15,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1810,
+    "evolvers": [
+      117,
+      81,
+      87,
+      98,
+      103
+    ],
+    "from": 1809
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1810.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1810.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

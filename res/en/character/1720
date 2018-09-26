@@ -5,6 +5,19 @@
     "special": "If your Captain is a Fighter character, changes adjacent orbs into matching orbs and locks the chain multiplier at 2.5x for 1 turn",
     "specialName": "Passive Aggressive Boss"
   },
+  "aliases": [
+    "ジンベエ リュウグウ王国ネプチューン軍兵士",
+    "",
+    "Secret Jinbe",
+    "Secret Jimbe",
+    "Young Jinbe",
+    "Young Jimbe",
+    "Jinbei",
+    "Jimbei",
+    "Jimbe",
+    "Limited Jinbe",
+    "Limited Jimbe"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +52,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1720.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1720.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

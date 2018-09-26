@@ -7,6 +7,11 @@
     "specialNotes": "#{ignoreBarrier}",
     "sailor": "If this character has a [DEX] orb and you hit a GOOD or GREAT with him, keep his [DEX] orb for the next turn"
   },
+  "aliases": [
+    "タナカさん カジノの警備責任者",
+    "",
+    "V2 Tanaka"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -41,5 +46,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2104.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2104.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

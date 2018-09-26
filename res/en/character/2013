@@ -96,6 +96,12 @@
       }
     ]
   },
+  "aliases": [
+    "“大喰らい”ジュエリー・ボニー 囚われの超新星",
+    "",
+    "Secret Bonney",
+    "Limited Bonney"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -116,9 +122,36 @@
     18,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2013,
+    "evolvers": [
+      118,
+      84,
+      95,
+      300,
+      100
+    ],
+    "from": 2012
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2013.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2013.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Coliseum Executioner! Diamante Fortnight",
+      "thumb": 2146,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

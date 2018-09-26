@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "キャベンディッシュ 鳥カゴの中の反逆者",
+    "",
+    "Cabbage"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -99,9 +104,43 @@
     16,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1800,
+    "evolvers": [
+      118,
+      86,
+      97,
+      302,
+      102
+    ],
+    "from": 1799
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1800.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1800.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "I'm Now Your Ideal Type! I Think Fortnight",
+      "thumb": 1947,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Lucy"
+      ]
+    }
+  ]
 }

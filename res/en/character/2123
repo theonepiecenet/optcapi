@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "海神ネプチューン 海の大騎士",
+    "",
+    "Coliseum Neptune"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -99,9 +104,21 @@
     30,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2123,
+    "evolvers": [
+      118,
+      99,
+      1180,
+      304,
+      104
+    ],
+    "from": 2122
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2123.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2123.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

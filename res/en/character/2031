@@ -80,6 +80,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ブランニュー 絶対正義とのせめぎ合い",
+    "",
+    "Brannew"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -100,9 +105,35 @@
     17,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2031,
+    "evolvers": [
+      83,
+      266,
+      99,
+      99,
+      104
+    ],
+    "from": 2030
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2031.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2031.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Recover! King of Day Duke Inuarashi Fortnight",
+      "thumb": 2219,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

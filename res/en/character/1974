@@ -103,6 +103,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "呪詛の実行者“魔術師” バジル・ホーキンス",
+    "",
+    "Secret Hawkins",
+    "Limited Hawkins"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -123,9 +129,36 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1974,
+    "evolvers": [
+      118,
+      84,
+      95,
+      300,
+      100
+    ],
+    "from": 1973
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1974.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1974.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Brûlée's Gibier Party Fortnight",
+      "thumb": 2127,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -78,6 +78,11 @@
       }
     ]
   },
+  "aliases": [
+    "ボルサリーノ 狂乱のマリンフォード“海軍大将”",
+    "",
+    "Kizaru"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -98,9 +103,25 @@
     18,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2187,
+    "evolvers": [
+      83,
+      266,
+      98,
+      303,
+      103
+    ],
+    "from": 2186
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2187.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2187.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

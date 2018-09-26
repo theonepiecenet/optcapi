@@ -135,6 +135,18 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "白ひげ 四皇",
+    "",
+    "Mega Whitebeard",
+    "Mega WB",
+    "Edward Newgate",
+    "Super Whitebeard",
+    "Super WB",
+    "Yonko",
+    "Legend Whitebeard",
+    "Legend WB"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -155,9 +167,69 @@
     25,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1413,
+    "evolvers": [
+      "skullSTR",
+      118,
+      84,
+      300,
+      267
+    ],
+    "from": 261
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1413.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1413.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Deep Sea Kraken Fortnight",
+      "thumb": 341,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Twilight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 761,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Whitebeard"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

@@ -10,6 +10,13 @@
     "sailorNotes": "#{beneficial}",
     "specialName": "The Gentle Breeze of the Feast"
   },
+  "aliases": [
+    "エドワード・ニューゲート 大海賊時代前夜の記憶",
+    "",
+    "Whitebeard",
+    "Limited Whitebeard",
+    "Kimono Whitebeard"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -44,5 +51,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2040.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2040.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,16 @@
     "special": "Reduces crew's current HP by 80%, boosts ATK of Striker characters by 2x for 1 turn",
     "specialName": "Double Steel Magnetic Arm"
   },
+  "aliases": [
+    "ユースタス・キッド 終わらぬ夢の航跡・キッド海賊団",
+    "",
+    "Log Kid",
+    "Secret Kid",
+    "Log Kidd",
+    "Secret Kidd",
+    "Limited Kid",
+    "Limited Kidd"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +49,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1620.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1620.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

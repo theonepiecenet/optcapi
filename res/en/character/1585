@@ -5,6 +5,11 @@
     "special": "If HP is below 5,000, boosts ATK of Driven and Slasher characters by 1.75x for 1 turn and recovers 10x character's RCV in HP",
     "specialName": "Firey Morale"
   },
+  "aliases": [
+    "ヘルメッポ 海軍本部軍曹",
+    "",
+    "Coliseum Helmeppo"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +44,32 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1585.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1585.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,14 @@
     "specialName": "Punishment for the Weak",
     "sailor": "Boosts base ATK of Shooter characters by 75"
   },
+  "aliases": [
+    "ドンキホーテ・ドフラミンゴ 海賊“王下七武海”",
+    "",
+    "Limited Doffy",
+    "Secret Doffy",
+    "Secret Doflamingo",
+    "Limited Doflamingo"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +48,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2160.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2160.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

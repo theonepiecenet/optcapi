@@ -6,6 +6,13 @@
     "specialNotes": "#{colorAffinity : 1.75}",
     "specialName": "Great Eruption [Neo]"
   },
+  "aliases": [
+    "赤犬「改」",
+    "",
+    "Kaikainu",
+    "Kai Akainu",
+    "Neo Akainu"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +47,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1825.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1825.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Akainu Raid",
+      "thumb": 1826,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "狐火の錦えもん ワノ国の侍",
+    "",
+    "Kin'emon"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +105,43 @@
     19,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1577,
+    "evolvers": [
+      118,
+      86,
+      97,
+      1180,
+      102
+    ],
+    "from": 1576
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1577.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1577.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Royal Neptune Family! Fortnight",
+      "thumb": 1723,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Nekomamushi"
+      ]
+    }
+  ]
 }

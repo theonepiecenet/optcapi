@@ -5,6 +5,11 @@
     "special": "Deals 20x character's ATK in [PSY] damage to one enemy, locks orbs for 1 turn and amplifies the effect of orbs on [PSY] and [INT] characters by 1.75x for 1 turn",
     "specialName": "Right Leg Armament: Gum-Gum Battle Axe"
   },
+  "aliases": [
+    "モンキー・D・ルフィ 麦わらの一味・ハートの海賊団海賊同盟",
+    "",
+    "Anniversary Luffy"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1600.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1600.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "3rd Anniversary Celebration! Duel! Luffy",
+      "thumb": 1600,
+      "data": [
+        "30 Stamina"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Blitz! Doflamingo Family",
+      "thumb": 870,
+      "data": [
+        "Chopperman Missions"
+      ]
+    }
+  ],
+  "manual": []
 }

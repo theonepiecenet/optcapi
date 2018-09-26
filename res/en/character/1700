@@ -79,6 +79,14 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ジンベエ “地獄”の七武海",
+    "",
+    "Jinbe, 'Eternal Hell' Prisoner",
+    "Jimbei, 'Eternal Hell' Prisoner",
+    "Jimbe, 'Eternal Hell' Prisoner",
+    "Jinbei, 'Eternal Hell' Prisoner"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -99,9 +107,43 @@
     16,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1700,
+    "evolvers": [
+      87,
+      94,
+      98,
+      303,
+      103
+    ],
+    "from": 1699
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1700.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1700.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Caribou Pirates! Fortnight",
+      "thumb": 1842,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Shirahoshi"
+      ]
+    }
+  ]
 }

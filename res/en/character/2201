@@ -135,6 +135,11 @@
       }
     ]
   },
+  "aliases": [
+    "シキ 伝説の海賊",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -155,9 +160,21 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2201,
+    "evolvers": [
+      118,
+      266,
+      94,
+      1180,
+      267
+    ],
+    "from": 2200
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2201.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2201.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

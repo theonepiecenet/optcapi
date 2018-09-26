@@ -5,6 +5,11 @@
     "special": "Changes [RCV] orbs into matching orbs and recovers 15x character's RCV in HP at the end of the turn for 2 turns",
     "specialName": "Glutonous Meal"
   },
+  "aliases": [
+    "ジュエリー・ボニー",
+    "",
+    "FN Bonney"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1981.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1981.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Volatile Meal! Bonney and Bege! Fortnight",
+      "thumb": 1982,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -137,6 +137,16 @@
       }
     ]
   },
+  "aliases": [
+    "クザン 元海軍本部最高戦力",
+    "",
+    "Super Aokiji",
+    "Mega Aokiji",
+    "Super Kuzan",
+    "Mega Kuzan",
+    "Legend Aokiji",
+    "Legend Kuzan"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -157,9 +167,60 @@
     19,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1764,
+    "evolvers": [
+      "skullQCK",
+      118,
+      85,
+      301,
+      267
+    ],
+    "from": 1192
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1764.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1764.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Shambles! Tashigi and Smoker?!? Fortnight",
+      "thumb": 1397,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Battle Royale! Fortnight",
+      "thumb": 1766,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Kuzan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ]
 }

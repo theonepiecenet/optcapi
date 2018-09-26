@@ -5,6 +5,11 @@
     "special": "If the HP of the enemy with the highest current HP is above 50%, cuts the current HP of one enemy by 25%, otherwise, deals 120x character's ATK in typeless damage to one enemy.",
     "specialName": "The Start of Destruction"
   },
+  "aliases": [
+    "ジャック 四皇カイドウの腹心",
+    "",
+    "Story Jack"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,5 +31,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2231.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2231.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mokomo Dukedom",
+      "thumb": 2231,
+      "data": [
+        "11"
+      ]
+    }
+  ],
+  "manual": []
 }

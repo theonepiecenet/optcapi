@@ -6,6 +6,11 @@
     "specialName": "Eleclaw",
     "sailor": "Completely resists Paralysis on this character"
   },
+  "aliases": [
+    "キャロット おかしの森のウサギ",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +45,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2077.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2077.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

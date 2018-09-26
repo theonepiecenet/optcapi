@@ -7,6 +7,13 @@
     "specialName": "Assault Meteor Shower",
     "sailor": "When HP is below 30% at the start of the turn, boosts ATK and RCV of Shooter characters by 100"
   },
+  "aliases": [
+    "ウソップ 集結の麦わらの一味",
+    "",
+    "New World Usopp",
+    "Timeskip Usopp",
+    "TS Usopp"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -38,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1405.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1405.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

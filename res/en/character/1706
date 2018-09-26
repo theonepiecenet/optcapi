@@ -80,6 +80,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "Mr.2　ボン・クレー “地獄”の友達（ダチ）",
+    "",
+    "Mr 2",
+    "Mr 2 Bonclay"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +106,43 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1706,
+    "evolvers": [
+      83,
+      84,
+      95,
+      1180,
+      100
+    ],
+    "from": 1705
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1706.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1706.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Oh, Impermanence! Hawkins and Urouge! Fortnight",
+      "thumb": 1867,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

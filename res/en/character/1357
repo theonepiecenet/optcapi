@@ -6,6 +6,11 @@
     "specialName": "Serious Threat",
     "specialNotes": "Increases timing window to hit a PERFECT. (Animation remains the same)"
   },
+  "aliases": [
+    "ペコムズ ビッグ・マム海賊団",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,9 +31,24 @@
     18,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1357,
+    "evolvers": [
+      78,
+      78,
+      78,
+      84,
+      84
+    ],
+    "from": 1356
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1357.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1357.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

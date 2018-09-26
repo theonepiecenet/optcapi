@@ -5,6 +5,11 @@
     "special": "Removes Blindness duration completely",
     "specialName": "Mother's Promise"
   },
+  "aliases": [
+    "レベッカ 生き残った旧王家の血",
+    "",
+    "Kid Rebecca"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -38,5 +43,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1385.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1385.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Happiness! Fortnight",
+      "thumb": 1384,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

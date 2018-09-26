@@ -80,6 +80,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ナミ You’re My Valentine",
+    "",
+    "Valentines Nami"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -100,9 +105,35 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1955,
+    "evolvers": [
+      118,
+      79,
+      1180,
+      301,
+      101
+    ],
+    "from": 1954
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1955.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1955.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Strawhat Pirates Pizza Party!! Dinner Fortnight",
+      "thumb": 2092,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -7,6 +7,11 @@
     "sailor": "Restores his own special cooldown by 1 turn when it is rewinded",
     "sailorNotes": "#{rewind : 1}"
   },
+  "aliases": [
+    "リク・ドルド３世",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -27,9 +32,24 @@
     20,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1818,
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      104
+    ],
+    "from": 1817
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1818.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1818.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

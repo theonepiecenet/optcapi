@@ -6,6 +6,11 @@
     "special": "Deals 500 fixed damage to all enemies and reduces Special Cooldown of Striker characters by 1 turn.",
     "specialName": "General Commander's Fight"
   },
+  "aliases": [
+    "ギン 海賊艦隊　戦闘“総隊長”",
+    "",
+    "Coliseum Gin"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Striker",
@@ -27,5 +32,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1424.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1424.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

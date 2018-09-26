@@ -78,6 +78,12 @@
       }
     ]
   },
+  "aliases": [
+    "マダム・シャーリー 占い師",
+    "",
+    "",
+    "Madame Shirley"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -98,9 +104,51 @@
     15,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1483,
+    "evolvers": [
+      88,
+      99,
+      1180,
+      104,
+      304
+    ],
+    "from": 1482
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1483.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1483.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Seeking The Best Art! Giolla and Brook! Fortnight",
+      "thumb": 1649,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Let's Go See Master Nekomamushi! Fortnight",
+      "thumb": 2177,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Shirahoshi"
+      ]
+    }
+  ]
 }

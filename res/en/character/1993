@@ -94,6 +94,11 @@
       }
     ]
   },
+  "aliases": [
+    "海軍本部曹長コビー 立ち向かう決意",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -114,9 +119,35 @@
     19,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1993,
+    "evolvers": [
+      1180,
+      90,
+      96,
+      301,
+      101
+    ],
+    "from": 1992
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1993.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1993.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Baby 5's Journey to Become a Bride Fortnight",
+      "thumb": 2165,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

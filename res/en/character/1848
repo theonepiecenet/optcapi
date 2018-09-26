@@ -7,6 +7,11 @@
     "sailor": "Makes [PSY] and [INT] orbs \"beneficial\" for this character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "赤犬 震慄の災禍",
+    "",
+    "Sakazuki"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -41,5 +46,14 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1848.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1848.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

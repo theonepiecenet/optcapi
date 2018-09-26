@@ -78,6 +78,11 @@
       }
     ]
   },
+  "aliases": [
+    "怪盗カリーナ",
+    "",
+    "V2 Carina"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -98,9 +103,25 @@
     18,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2107,
+    "evolvers": [
+      83,
+      83,
+      98,
+      303,
+      103
+    ],
+    "from": 2106
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2107.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2107.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

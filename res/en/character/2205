@@ -79,6 +79,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "スカーレット 伝説の海賊の側近",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -99,9 +104,21 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2205,
+    "evolvers": [
+      117,
+      99,
+      1180,
+      304,
+      104
+    ],
+    "from": 2204
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2205.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2205.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

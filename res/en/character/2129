@@ -5,6 +5,11 @@
     "special": "Boosts ATK of all characters by 1.2x for 3 turns",
     "specialName": "Anticipation of Unknown Food"
   },
+  "aliases": [
+    "貴族ワニ ブリュレ一派",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,16 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2129.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2129.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Brûlée's Gibier Party Fortnight",
+      "thumb": 2127,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

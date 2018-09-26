@@ -135,6 +135,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "赤髪のシャンクス 世界の運命を変える四皇",
+    "",
+    "V2 Shanks"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -155,9 +160,35 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2007,
+    "evolvers": [
+      118,
+      88,
+      266,
+      99,
+      267
+    ],
+    "from": 2006
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2007.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2007.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Recover! King of Day Duke Inuarashi Fortnight",
+      "thumb": 2219,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

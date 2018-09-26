@@ -78,6 +78,11 @@
       }
     ]
   },
+  "aliases": [
+    "ボア・ハンコック 狂乱のマリンフォード“海賊女帝”",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -98,9 +103,25 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 2183,
+    "evolvers": [
+      88,
+      99,
+      1180,
+      304,
+      104
+    ],
+    "from": 2182
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2183.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2183.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

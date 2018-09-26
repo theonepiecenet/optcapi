@@ -78,6 +78,11 @@
       }
     ]
   },
+  "aliases": [
+    "コアラ You’re My Valentine",
+    "",
+    "Valentines Koala"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -98,9 +103,35 @@
     16,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1953,
+    "evolvers": [
+      83,
+      94,
+      99,
+      304,
+      104
+    ],
+    "from": 1952
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1953.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1953.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Brûlée's Gibier Party Fortnight",
+      "thumb": 2127,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

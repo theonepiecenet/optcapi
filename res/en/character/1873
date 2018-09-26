@@ -80,6 +80,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "キュロス ドレスローザ旧王家の英雄",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +105,43 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1873,
+    "evolvers": [
+      84,
+      95,
+      1180,
+      300,
+      100
+    ],
+    "from": 1872
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1873.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1873.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Commotion at Makino's Tavern?! Fortnight",
+      "thumb": 2021,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Lucy"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,11 @@
     "special": "Randomly shuffles non-matching orbs on Shooter characters, reduces the defense of all enemies by 50% for 1 turn and delays all enemies for 1 turn",
     "specialName": "Deprivation of Self-Consciousness"
   },
+  "aliases": [
+    "ラフィット 黒ひげ海賊団",
+    "",
+    "La Feet"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1606.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1606.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "The Dark Path of the Blackbeard Pirates! Fortnight",
+      "thumb": 1606,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

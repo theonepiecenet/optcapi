@@ -5,6 +5,11 @@
     "special": "Reduces Special Cooldown of Shooter specials by 1 turn and changes orbs in the top row into Matching orbs",
     "specialName": "Angry Threatening Command"
   },
+  "aliases": [
+    "超新星 カポネ・ベッジ",
+    "",
+    "FN Bege"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1979.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1979.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Volatile Meal! Bonney and Bege! Fortnight",
+      "thumb": 1982,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }
