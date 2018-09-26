@@ -4,6 +4,10 @@
     "special": "Reduces damage received by 20% for 1 turn",
     "specialName": "Iron Shield"
   },
+  "aliases": [
+    "格闘隊　武装隊員 イエローパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Fighter",
@@ -21,9 +25,22 @@
     25,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 272,
+    "evolvers": [
+      115,
+      116,
+      92
+    ],
+    "from": 145
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0272.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0272.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

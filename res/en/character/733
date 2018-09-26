@@ -5,6 +5,10 @@
     "specialName": "Tekkai Dama",
     "captain": "Boosts ATK of [STR] characters by 1.5x, reduces damage received by 20%"
   },
+  "aliases": [
+    "フクロウ　六式 サイファーポールNo.9",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +29,49 @@
     18,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 733,
+    "evolvers": [
+      116,
+      84,
+      95,
+      300
+    ],
+    "from": 732
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0733.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0733.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Hannyabal's Great Ambition Fortnight",
+      "thumb": 929,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Jailbreak Battle! Mr. 3 and Buggy Fortnight",
+      "thumb": 1304,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Bartolomeo",
+        "Blackbeard"
+      ]
+    }
+  ]
 }

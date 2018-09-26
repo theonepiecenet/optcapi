@@ -5,6 +5,11 @@
     "special": "Deals 9x ATK in [DEX] damage to one enemy. Changes own orb into [DEX]",
     "specialName": "Fighting Method of the Pirate Executioner"
   },
+  "aliases": [
+    "シュライヤ・バスクード",
+    "",
+    "Shovel Guy"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -38,5 +43,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1069.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1069.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Dead End Begins! Raging Blast! Fortnight",
+      "thumb": 1072,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -80,6 +80,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "怪僧ウルージ 破戒僧海賊団船長",
+    "",
+    "Supernova Urouge",
+    "Coliseum Urouge"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +106,24 @@
     19,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 781,
+    "evolvers": [
+      118,
+      84,
+      94,
+      300,
+      100
+    ],
+    "from": 780
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0781.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0781.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

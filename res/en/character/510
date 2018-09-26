@@ -6,6 +6,13 @@
     "specialName": "Merciless Ploy: Poison Needle",
     "captain": "Reduces damage received by 10%, boosts ATK of Striker characters by 2x"
   },
+  "aliases": [
+    "最強の囚人サー・クロコダイル 元王下七武海",
+    "",
+    "Mr 0",
+    "Mr. 0",
+    "Prisondile"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,9 +33,24 @@
     24,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 510,
+    "evolvers": [
+      117,
+      85,
+      96,
+      96,
+      301
+    ],
+    "from": 509
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0510.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0510.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,12 @@
     "specialName": "Support Incoming! Supersonic Duck Squadron!",
     "captain": "Boosts ATK of Evolver and Booster characters by 2.5x if HP is above 50% at the start of the turn"
   },
+  "aliases": [
+    "カルー隊長と超カルガモ部隊",
+    "",
+    "Captain Karue and the Supersonic Duck Squadron",
+    "Captain Carue and the Supersonic Duck Squadron"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Striker",
@@ -22,9 +28,22 @@
     26,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 445,
+    "evolvers": [
+      441,
+      442,
+      443
+    ],
+    "from": 444
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0445.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0445.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

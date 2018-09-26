@@ -5,6 +5,11 @@
     "special": "Deals 35x character's ATK in [INT] damage to one enemy. Boosts ATK of Driven characters by 1.5x for 1 turn",
     "specialName": "Dark Dog"
   },
+  "aliases": [
+    "赤犬 海軍本部大将",
+    "",
+    "Sakazuki"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,56 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1283.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1283.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "The Bay - Oris Plaza",
+      "thumb": 1283,
+      "data": [
+        "10",
+        "11",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "7th Stage",
+        "8th Stage"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Prepare for Battle! Aokiji and Akainu!",
+      "thumb": 1280,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Friends! Fortnight",
+      "thumb": 1564,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sakazuki"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,11 @@
     "specialName": "Extra Large Candle Service Set",
     "captain": "Reduces damage received by 10%"
   },
+  "aliases": [
+    "犯罪者ギャルディーノ Mr.3",
+    "",
+    "Mr 3"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0460.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0460.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Prison Break! Baroque Works Fortnight",
+      "thumb": 462,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

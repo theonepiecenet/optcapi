@@ -5,6 +5,11 @@
     "specialName": "Fierce Smash",
     "captain": "Boosts ATK of Slasher characters by 2.5x if HP is above 50% at the start of the turn"
   },
+  "aliases": [
+    "カク　獣人 ウシウシの実　モデル麒麟（ジラフ）",
+    "",
+    "Box Kaku"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0736.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0736.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Clash! Whitebeard Pirates Fortnight",
+      "thumb": 979,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Gather the Candy! Fortnight",
+      "thumb": 1357,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

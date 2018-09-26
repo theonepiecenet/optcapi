@@ -6,6 +6,11 @@
     "sailor": "When HP is below 30% at the start of the turn, boosts base ATK of Fighter characters by 40",
     "specialName": "Large Fleet Commander"
   },
+  "aliases": [
+    "絆のディカルバン兄弟 白ひげ海賊団傘下",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Fighter",
@@ -27,5 +32,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1255.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1255.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Gather! Whitebeard Alliance Fortnight",
+      "thumb": 1254,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "specialName": "Blue Flame Rebirth",
     "captain": "Boosts ATK of [PSY] characters by 3x if HP is above 99% at the start of the turn"
   },
+  "aliases": [
+    "マルコ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +43,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0250.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0250.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

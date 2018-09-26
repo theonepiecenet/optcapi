@@ -6,6 +6,10 @@
     "specialName": "Botanist's Great Discovery",
     "captain": "Boosts ATK and RCV of Slasher characters by 1.2x"
   },
+  "aliases": [
+    "モンブラン・ノーランド",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +44,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0689.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0689.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Calgara & Noland! Fortnight",
+      "thumb": 688,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

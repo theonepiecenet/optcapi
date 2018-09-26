@@ -5,6 +5,10 @@
     "special": "Reduces crew's current HP by 80%, deals 6x the removed HP as damage to all enemies. Reduces damage received by 80% for 1 turn.",
     "specialName": "Mass Juggling"
   },
+  "aliases": [
+    "Dr.インディゴ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +43,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1094.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1094.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Golden Lion Pirates' Attack! Fortnight",
+      "thumb": 1095,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

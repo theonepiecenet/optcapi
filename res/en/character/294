@@ -5,6 +5,10 @@
     "specialName": "Hyper Straight",
     "captain": "Boosts HP of [STR] characters by 2x"
   },
+  "aliases": [
+    "レックス",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": "Fighter",
@@ -26,5 +30,45 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0294.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0294.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "03",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "14"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Supersonic Duck Squadron! Fortnight",
+      "thumb": 445,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Heracles'n Raid",
+      "thumb": 516,
+      "data": [
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

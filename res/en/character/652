@@ -5,6 +5,11 @@
     "specialName": "Heart-Smashing Horn",
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [DEX] characters by 2x if they have matching orbs"
   },
+  "aliases": [
+    "鉄仮面のデュバル",
+    "",
+    "Raid Duval"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +44,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0652.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0652.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Duval Raid",
+      "thumb": 654,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

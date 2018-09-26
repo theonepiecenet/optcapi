@@ -5,6 +5,10 @@
     "special": "Changes captain's orb into [QCK]",
     "specialName": "Captain Slot Change QCK"
   },
+  "aliases": [
+    "敏捷女格闘士 九蛇の戦士",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,5 +30,21 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1068.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1068.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Amazon Lily",
+      "thumb": 1056,
+      "data": [
+        "03",
+        "06",
+        "07"
+      ]
+    }
+  ],
+  "manual": []
 }

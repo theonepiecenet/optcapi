@@ -5,6 +5,13 @@
     "specialName": "Rozeo Michelli",
     "captain": "Boosts ATK of [STR] characters by 1.5x, recovers 500 HP at the end of each turn"
   },
+  "aliases": [
+    "トニートニー・チョッパー 航海の記録・麦わらの一味",
+    "",
+    "Log Chopper",
+    "Endless Dream Chopper",
+    "Tony Tony Chopper, Wake of an Endless Dream - Straw Hat Pirates"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +46,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0596.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0596.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

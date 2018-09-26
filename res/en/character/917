@@ -6,6 +6,10 @@
     "special": "Deals 5,000 fixed damage to one enemy, delays all enemies for 1 turn, changes [RCV] orbs on Shooter characters into matching orbs",
     "specialNotes": "The orb shuffle only applies to Shooter characters, other classes are unaffected."
   },
+  "aliases": [
+    "マーガレット",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Shooter",
@@ -37,5 +41,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0917.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0917.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "The Secret Garden! Men are Forbidden!? Fortnight",
+      "thumb": 918,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

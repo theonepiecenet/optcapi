@@ -4,6 +4,10 @@
     "special": "Changes [QCK] orbs into [PSY] orbs",
     "specialName": "Wavy Square Hair"
   },
+  "aliases": [
+    "キウイ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Slasher",
@@ -25,5 +29,30 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0338.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0338.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Franky - Pervert's Aesthetic! Fortnight",
+      "thumb": 337,
+      "data": [
+        "Elite",
+        "Expert"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Franky - Pervert's Aesthetic! Fortnight",
+      "thumb": 337,
+      "data": [
+        "Elite",
+        "Expert"
+      ]
+    }
+  ]
 }

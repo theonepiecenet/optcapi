@@ -5,6 +5,10 @@
     "specialName": "White Out",
     "captain": "Reduces damage received by 20%"
   },
+  "aliases": [
+    "スモーカー",
+    "Smoker"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +43,43 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0069.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0069.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "12"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Smoker's Great Pursuit Fortnight",
+      "thumb": 268,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Characters"
+      ]
+    }
+  ],
+  "manual": []
 }

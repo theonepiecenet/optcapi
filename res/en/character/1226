@@ -5,6 +5,11 @@
     "special": "Cuts the current HP of one enemy by 10% and changes own orb into [PSY]",
     "specialName": "Seastone Truncheon"
   },
+  "aliases": [
+    "スモーカー 海軍本部准将",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,52 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1226.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1226.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Marineford Bay",
+      "thumb": 1228,
+      "data": [
+        "09"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "7th Stage"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Prepare for Battle! Aokiji and Akainu!",
+      "thumb": 1280,
+      "data": [
+        "Aokiji"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fugitive of Love and Passion!! Fortnight",
+      "thumb": 1450,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Marco"
+      ]
+    }
+  ]
 }

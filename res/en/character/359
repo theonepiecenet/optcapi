@@ -83,6 +83,11 @@
       }
     ]
   },
+  "aliases": [
+    "海鳴り スクラッチメン・アプー",
+    "",
+    "Supernova Apoo"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -103,9 +108,76 @@
     20,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 359,
+    "evolvers": [
+      118,
+      80,
+      83,
+      302,
+      102
+    ],
+    "from": 358
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0359.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0359.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Candy the Maiden-Hearted Fortnight",
+      "thumb": 436,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Camie and Hachi's Takoyaki Stand! Fortnight",
+      "thumb": 635,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Targeted Mermaid Princess! Fortnight",
+      "thumb": 1597,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Ace"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

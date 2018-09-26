@@ -5,6 +5,10 @@
     "special": "Deals 5x ATK in [QCK] damage to all enemies and randomizes all orbs",
     "specialName": "Drilling Hooks"
   },
+  "aliases": [
+    "ニードルス",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -29,5 +33,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1073.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1073.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Dead End Begins! Raging Blast! Fortnight",
+      "thumb": 1072,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

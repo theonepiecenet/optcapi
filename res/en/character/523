@@ -8,6 +8,13 @@
     "sailor": "Makes [DEX] orbs \"beneficial\" for this character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "ナミ メルヴィユの冒険者",
+    "",
+    "Strong World Nami",
+    "SW Nami",
+    "Booty Nami"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -42,5 +49,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0523.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0523.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

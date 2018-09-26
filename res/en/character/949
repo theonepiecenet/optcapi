@@ -6,6 +6,10 @@
     "special": "Reduces Silence duration by 3 turns and recovers 4,000 HP",
     "specialNotes": "#{silence}"
   },
+  "aliases": [
+    "サッチ 白ひげ海賊団４番隊隊長",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -30,5 +34,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0949.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0949.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Encounter! Whitebeard Pirates Fortnight",
+      "thumb": 946,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Clash! Whitebeard Pirates Fortnight",
+      "thumb": 979,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

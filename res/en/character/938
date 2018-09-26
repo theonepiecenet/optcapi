@@ -5,6 +5,12 @@
     "specialName": "Cyclone Burst",
     "special": "Reduces Bind duration for one character completely. For Striker and Cerebral characters, changes Badly Matching orbs into Matching orbs"
   },
+  "aliases": [
+    "ナミ 天候の科学の探求者",
+    "",
+    "Timeskip Nami",
+    "3D2Y Nami"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0938.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0938.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

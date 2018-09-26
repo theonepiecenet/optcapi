@@ -78,6 +78,12 @@
       }
     ]
   },
+  "aliases": [
+    "ブルック 信念に生きる麦わらの一味",
+    "",
+    "New Strong World Brook",
+    "SW Brook"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -98,9 +104,76 @@
     23,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1173,
+    "evolvers": [
+      118,
+      92,
+      94,
+      98,
+      303
+    ],
+    "from": 1172
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1173.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1173.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "T-Bone's Absolute Justice Fortnight",
+      "thumb": 724,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Encounter! Whitebeard Pirates Fortnight",
+      "thumb": 946,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Crisis in the 800 Year Old Kingdom! Fortnight",
+      "thumb": 1818,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Marco"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

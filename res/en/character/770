@@ -5,6 +5,11 @@
     "specialName": "Shigan: Convergence",
     "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of [STR] characters by 2x"
   },
+  "aliases": [
+    "ダルメシアン 海軍本部中将",
+    "",
+    "Raid Dalmatian"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0770.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0770.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "The Bay - Oris Plaza",
+      "thumb": 1283,
+      "data": [
+        "04"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Buster Call Raid",
+      "thumb": 771,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

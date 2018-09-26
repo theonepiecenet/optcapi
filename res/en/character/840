@@ -82,6 +82,10 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ヴェルゴ ドンキホーテ海賊団",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -102,9 +106,68 @@
     18,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 840,
+    "evolvers": [
+      118,
+      88,
+      266,
+      304,
+      104
+    ],
+    "from": 839
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0840.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0840.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Butler and Strange Animal Island Fortnight",
+      "thumb": 1011,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Gather the Candy! Fortnight",
+      "thumb": 1357,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Bartolomeo"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

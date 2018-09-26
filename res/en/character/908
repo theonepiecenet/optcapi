@@ -80,6 +80,12 @@
       }
     ]
   },
+  "aliases": [
+    "ニコ・ロビン 革命の灯火（ともしび）",
+    "",
+    "3D2Y Robin",
+    "Timeskip Robin"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -100,9 +106,59 @@
     15,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 908,
+    "evolvers": [
+      88,
+      266,
+      94,
+      304,
+      104
+    ],
+    "from": 907
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0908.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0908.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Archaeologist Nico Olvia Fortnight",
+      "thumb": 1049,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Departure! Whitebeard Pirates Fortnight",
+      "thumb": 1509,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Crocodile"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

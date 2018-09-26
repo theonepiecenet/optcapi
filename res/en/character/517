@@ -5,6 +5,12 @@
     "specialName": "Overeat! Energy Change",
     "captain": "Boosts HP of [PSY] characters by 1.5x"
   },
+  "aliases": [
+    "ウソップン",
+    "",
+    "Raid Usoppun",
+    "Raid Usopp"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -34,5 +40,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0517.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0517.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!? Usopp'n Raid",
+      "thumb": 518,
+      "data": [
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

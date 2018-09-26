@@ -6,6 +6,11 @@
     "special": "Empties slots with [QCK] orbs, deals [QCK] damage based on number of [QCK] slots emptied to all enemies",
     "specialNotes": "The exact multiplier used is chosen based on the number of [QCK] orbs consumed: 0 orbs - Can't activate; 1 orb - 14x ATK; 2 orbs - 21x ATK; 3 orbs - 35x ATK; 4 orbs - 49x ATK; 5 orbs - 91x ATK; 6 orbs - 140x ATK."
   },
+  "aliases": [
+    "ユースタス・キッド 超新星（スーパールーキー）",
+    "",
+    "Story Kidd"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -30,5 +35,52 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0966.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0966.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "6th Stage"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Revealing the Truth! Fortnight",
+      "thumb": 1242,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Royal Neptune Family! Fortnight",
+      "thumb": 1723,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Ace"
+      ]
+    }
+  ]
 }

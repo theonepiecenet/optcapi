@@ -5,6 +5,10 @@
     "specialName": "[DEX] Slot Change [PSY]",
     "captain": "Boosts ATK of Slasher characters by 1.75x"
   },
+  "aliases": [
+    "サーベル少佐 海軍本部",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Slasher",
@@ -22,9 +26,22 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 698,
+    "evolvers": [
+      116,
+      98,
+      303
+    ],
+    "from": 693
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0698.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0698.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

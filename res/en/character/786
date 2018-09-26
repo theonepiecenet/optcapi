@@ -4,6 +4,12 @@
     "special": "Seals himself for 10 turns, delays all enemies for 1 turn, reduces damage received by 50% for 4 turns",
     "specialName": "The Resolve to Face Death! \"Open Mind\""
   },
+  "aliases": [
+    "Dr.ヒルルク",
+    "",
+    "Dr. Hiruruk",
+    "Dr Hiruruk"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -36,5 +42,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0786.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0786.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

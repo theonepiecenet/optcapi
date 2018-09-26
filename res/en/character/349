@@ -1,5 +1,11 @@
 {
   "name": "Emerald Jeweled Porc",
+  "aliases": [
+    "エメラルドパワース豚（トーン）",
+    "",
+    "Pig",
+    "Pork"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Booster",
@@ -42,5 +48,47 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0349.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0349.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Jeweled Porc Sanctuary",
+      "thumb": 347,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Boosters and Evolvers"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Ace",
+        "Borsalino",
+        "Crocodile",
+        "Jinbei",
+        "Whitebeard"
+      ]
+    }
+  ],
+  "manual": []
 }

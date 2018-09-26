@@ -5,6 +5,12 @@
     "specialName": "Rokuougan",
     "captain": "Boosts ATK of Powerhouse characters by 3x if they have a matching orb, by 2.5x otherwise, reduces crew's RCV to 0"
   },
+  "aliases": [
+    "ロブ・ルッチ 闇の正義の「ＣＰ９」",
+    "",
+    "Legend Lucci",
+    "Legend Rob Lucci"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0747.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0747.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

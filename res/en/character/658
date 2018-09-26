@@ -5,6 +5,11 @@
     "specialName": "Lipowertzer",
     "captain": "Boosts ATK of Shooter characters by 1.5x"
   },
+  "aliases": [
+    "チュウ タイヨウの海賊団",
+    "",
+    "Young Choo"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0658.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0658.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Shark Attack! Arlong Pirates Fortnight",
+      "thumb": 656,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Shark Attack! Arlong Pirates Fortnight",
+      "thumb": 656,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

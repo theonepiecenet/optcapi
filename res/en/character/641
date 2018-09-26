@@ -80,6 +80,10 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "絆のディカルバン兄弟",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Fighter",
@@ -97,9 +101,83 @@
     23,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 641,
+    "evolvers": [
+      118,
+      83,
+      86,
+      302,
+      102
+    ],
+    "from": 640
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0641.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0641.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "T-Bone's Absolute Justice Fortnight",
+      "thumb": 724,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Operation: Proposal! Fortnight",
+      "thumb": 808,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Robin and Nami's Secret Undercover Investigation Fortnight",
+      "thumb": 1112,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Underground Trade Port! Escape! Fortnight",
+      "thumb": 1735,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Jinbei"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Lucy"
+      ]
+    }
+  ]
 }

@@ -4,6 +4,10 @@
     "special": "Changes [RCV] orbs into [INT] orbs",
     "specialName": "[RCV] Slot Change [INT]"
   },
+  "aliases": [
+    "バズーカ三等兵 海軍",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Shooter",
@@ -32,5 +36,46 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0183.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0183.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Shells Town",
+      "thumb": 35,
+      "data": [
+        "02",
+        "03",
+        "04"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "02",
+        "06"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "10"
+      ]
+    }
+  ],
+  "manual": []
 }

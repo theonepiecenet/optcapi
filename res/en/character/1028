@@ -6,6 +6,10 @@
     "special": "Deals random damage to all enemies, boosts ATK of all characters by 1.75x after 30th hit in the chain for 3 turns.",
     "specialNotes": "Buffalo's Captain as a Special essentially"
   },
+  "aliases": [
+    "ﾎﾞﾋﾞｰ･ﾌｧﾝｸ＆ｹﾘｰ･ﾌｧﾝｸ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +44,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1028.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1028.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

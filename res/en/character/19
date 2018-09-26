@@ -5,6 +5,10 @@
     "specialName": "Hot Rock Stew",
     "captain": "Boosts ATK of [QCK] characters by 1.5x"
   },
+  "aliases": [
+    "料理人サンジ 焼き石シチュー",
+    "Chef Sanji Ragoût bouillonnant"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -37,5 +41,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0019.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0019.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Krieg's Assault! Fortnight",
+      "thumb": 58,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Candy the Maiden-Hearted Fortnight",
+      "thumb": 436,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

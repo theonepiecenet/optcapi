@@ -6,6 +6,12 @@
     "special": "Deals 20x character's ATK in [QCK] damage and makes PERFECTs easier to hit for 3 turns",
     "specialNotes": "Increases timing window to hit a PERFECT. (Animation remains the same)"
   },
+  "aliases": [
+    "モンキー・Ｄ・ルフィ 頂上戦争の生還者",
+    "",
+    "Timeskip Luffy",
+    "3D2Y Luffy"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0936.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0936.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

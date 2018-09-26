@@ -5,6 +5,10 @@
     "specialName": "The Bond Bellmere Left Us",
     "captain": "Boosts HP and RCV of [PSY] characters by 1.5x"
   },
+  "aliases": [
+    "ノジコ ナミの義姉妹",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +29,51 @@
     20,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 586,
+    "evolvers": [
+      116,
+      87,
+      92,
+      98
+    ],
+    "from": 585
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0586.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0586.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Wanze's Ramen Kung Fu!! Fortnight",
+      "thumb": 743,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Archaeologist Nico Olvia Fortnight",
+      "thumb": 1049,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Donquixote Doflamingo"
+      ]
+    }
+  ]
 }

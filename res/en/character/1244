@@ -7,6 +7,11 @@
     "specialName": "Fishman karate, KO blow",
     "specialNotes": "#{gOrbs}"
   },
+  "aliases": [
+    "ハック 革命軍・魚人空手師範",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -27,9 +32,24 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1244,
+    "evolvers": [
+      116,
+      117,
+      93,
+      99,
+      104
+    ],
+    "from": 1243
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1244.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1244.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

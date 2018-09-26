@@ -5,6 +5,13 @@
     "specialName": "Great Flame Commandment: Flame Emperor",
     "captain": "Boosts HP of Shooter characters by 1.5x and boosts ATK of Shooter characters by 3x if they have a matching orb, by 2x otherwise"
   },
+  "aliases": [
+    "ポートガス・D・エース 黒衣の白ひげ海賊団2番隊隊長",
+    "",
+    "Strong World Ace",
+    "SW Ace",
+    "Legend Ace"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -35,9 +42,69 @@
       267
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 562,
+    "evolvers": [
+      118,
+      86,
+      266,
+      302,
+      267
+    ],
+    "from": 561
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0562.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0562.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Breed's Sea Animal Circus! Fortnight",
+      "thumb": 797,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Dead End Begins! Raging Blast! Fortnight",
+      "thumb": 1072,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Ace"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Lucy"
+      ]
+    }
+  ]
 }

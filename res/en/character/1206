@@ -6,6 +6,10 @@
     "special": "Protects from defeat as long as HP is above 50%",
     "specialNotes": "#{zombie}"
   },
+  "aliases": [
+    "ラブーン ルンバー海賊団",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": "Fighter",
@@ -27,5 +31,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1206.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1206.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Rumbar Pirates! Fortnight",
+      "thumb": 1203,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Rumbar Pirates! Fortnight",
+      "thumb": 1203,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

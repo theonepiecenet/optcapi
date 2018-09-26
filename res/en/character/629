@@ -5,6 +5,10 @@
     "specialName": "Master Nail",
     "captain": "Boosts ATK of characters with 3 or fewer stars by 2x"
   },
+  "aliases": [
+    "フランキー フランキー一家棟梁",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Fighter",
@@ -36,5 +40,60 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0629.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0629.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "08"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Straw Hat Pirates!",
+      "thumb": 1387,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "21st Anniversary Island",
+      "thumb": 1682,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Dead End Begins! Raging Blast! Fortnight",
+      "thumb": 1072,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

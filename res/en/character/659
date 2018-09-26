@@ -5,6 +5,12 @@
     "specialName": "Gum-Gum Balloon Swim",
     "captain": "Boosts ATK of all characters by 2.5x after scoring 3 PERFECTs in a row"
   },
+  "aliases": [
+    "モンキー・D・ルフィ うきわ",
+    "",
+    "Summertime Luffy",
+    "Swimsuit Luffy"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Fighter",
@@ -26,5 +32,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0659.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0659.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Girls of Summer Paradise",
+      "thumb": 683,
+      "data": [
+        "Part 1",
+        "Part 2"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "specialName": "Gum-Gum Balloon",
     "captain": "Reduces damage received by 20%"
   },
+  "aliases": [
+    "モンキー・D・ルフィ（ゴムゴムの風船）",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +43,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0216.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0216.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Kalifa's Secret Assignment Fortnight",
+      "thumb": 318,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sabo"
+      ]
+    }
+  ]
 }

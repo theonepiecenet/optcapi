@@ -4,6 +4,10 @@
     "special": "Recovers 5x character's RCV in HP",
     "specialName": "Light Healing"
   },
+  "aliases": [
+    "ナギナタごろつき クロネコ海賊団",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -25,5 +29,24 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0167.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0167.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "04",
+        "05",
+        "07",
+        "11",
+        "12",
+        "13"
+      ]
+    }
+  ],
+  "manual": []
 }

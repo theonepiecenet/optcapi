@@ -5,6 +5,13 @@
     "specialName": "Yellow Gun & Gero Gero Gun",
     "special": "Changes own orb into [QCK] and the captain's orb into [PSY]"
   },
+  "aliases": [
+    "Mr.7 & ﾐｽ･ﾌｧｰｻﾞｰｽﾞﾃﾞｰ",
+    "",
+    "Mr 7 and Miss Fathers Day",
+    "Coliseum Mr 7",
+    "Coliseum Miss Fathers Day"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -29,5 +36,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0834.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0834.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

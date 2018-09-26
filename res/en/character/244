@@ -4,6 +4,10 @@
     "special": "Changes [TND] orbs into [QCK] orbs",
     "specialName": "[TND] Slot Change [QCK]"
   },
+  "aliases": [
+    "ナギナタビリオンズ バロックワークス",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -21,9 +25,22 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 244,
+    "evolvers": [
+      115,
+      90,
+      96
+    ],
+    "from": 239
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0244.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0244.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

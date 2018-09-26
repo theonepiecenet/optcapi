@@ -5,6 +5,10 @@
     "specialName": "Ghost Rap",
     "special": "Changes [STR] orbs into [DEX] orbs, deals 10x character's ATK in [DEX] damage to all enemies"
   },
+  "aliases": [
+    "ペローナ 巨大なゴーストプリンセス",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +29,49 @@
     20,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 890,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      302
+    ],
+    "from": 889
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0890.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0890.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Dead End Begins! Raging Blast! Fortnight",
+      "thumb": 1072,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Mysterious Warlord! Fortnight",
+      "thumb": 1581,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Captain Buggy"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,13 @@
     "specialName": "Coup de Vent",
     "captain": "Boosts ATK of Shooter characters by 2x"
   },
+  "aliases": [
+    "フランキー 航海の夢「海の果てを旅する船」",
+    "",
+    "Log Franky",
+    "Endless Dream Franky",
+    "Franky, A Vow in the Great Age of Pirates - Ship of the Seven Seas"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +32,27 @@
     23,
     20
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 711,
+    "evolvers": [
+      117,
+      87,
+      94,
+      303,
+      103
+    ],
+    "from": 710
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0711.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0711.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -7,6 +7,12 @@
     "captain": "Boosts ATK of [DEX] characters by 2.75x if HP is below 30% at the start of the turn",
     "sailor": "Boosts base ATK of Slasher characters by 20"
   },
+  "aliases": [
+    "ロロノア・ゾロ メルヴィユの冒険者",
+    "",
+    "Strong World Zoro",
+    "SW Zoro"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -41,5 +47,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0553.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0553.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

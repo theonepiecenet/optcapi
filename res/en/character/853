@@ -4,6 +4,10 @@
     "specialName": "Robson: Serious Mode",
     "special": "Following the activation of the special, if every unit scores a PERFECT hit, boosts ATK of Powerhouse and Fighter characters by 1.2x for 3 turns"
   },
+  "aliases": [
+    "ロブソン",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -28,5 +32,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0853.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0853.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Wapol's Revenge Fortnight",
+      "thumb": 852,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

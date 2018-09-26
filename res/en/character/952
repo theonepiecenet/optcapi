@@ -5,6 +5,12 @@
     "specialName": "Life-saving Gunstock Blow",
     "special": "Deals 13x ATK in [DEX] Damage to one enemy. Changes Captain's orb into matching."
   },
+  "aliases": [
+    "ベン・ベックマン",
+    "",
+    "Coliseum Ben Beckman",
+    "Coliseum Benn Beckman"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +45,43 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0952.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0952.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Invasion! Red Hair Shanks",
+      "thumb": 1380,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

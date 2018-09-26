@@ -4,6 +4,10 @@
     "special": "Reduces damage received by 50% for 1 turn, deals 15x character's ATK in [STR] damage to one enemy",
     "specialName": "Uncompromising Prison Beast's Morning Star"
   },
+  "aliases": [
+    "ミノコアラ",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -28,5 +32,44 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0551.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0551.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Impel Down",
+      "thumb": 1159,
+      "data": [
+        "11"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Chief Jailer Sadie Fortnight",
+      "thumb": 550,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Jailbreak Battle! Mr. 3 and Buggy Fortnight",
+      "thumb": 1304,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Chief Jailer Sadie Fortnight",
+      "thumb": 550,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

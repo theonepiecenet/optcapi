@@ -5,6 +5,11 @@
     "specialName": "Big Eater",
     "captain": "Boosts ATK and RCV of [PSY] characters by 2x"
   },
+  "aliases": [
+    "大喰らい ジュエリー・ボニー",
+    "",
+    "Supernova Bonney"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +30,76 @@
     13,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 363,
+    "evolvers": [
+      118,
+      81,
+      83,
+      303,
+      103
+    ],
+    "from": 362
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0363.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0363.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Supersonic Duck Squadron! Fortnight",
+      "thumb": 445,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Sky Night Ganfor Fortnight",
+      "thumb": 713,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Dark Path of the Blackbeard Pirates! Fortnight",
+      "thumb": 1606,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Whitebeard"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

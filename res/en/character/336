@@ -5,6 +5,10 @@
     "specialName": "Franky Centaur",
     "captain": "Reduces damage received by 10% if HP is above 50% at the start of the turn, boosts ATK of [PSY] characters by 2x and reduces ATK of every other character by 20% if HP is above 50% at the start of the turn"
   },
+  "aliases": [
+    "フランキー",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +43,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0336.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0336.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "12"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Franky - Pervert's Aesthetic! Fortnight",
+      "thumb": 337,
+      "data": [
+        "Elite",
+        "Expert"
+      ]
+    }
+  ],
+  "manual": []
 }

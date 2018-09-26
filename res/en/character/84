@@ -1,5 +1,9 @@
 {
   "name": "Red Pirate Penguin",
+  "aliases": [
+    "赤海賊ペンギン",
+    "Pingouin pirate rouge"
+  ],
   "unit": {
     "type": "STR",
     "class": "Evolver",
@@ -18,5 +22,154 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0084.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0084.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Twin Cape",
+      "thumb": 213,
+      "data": [
+        "06",
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Whiskey Peak",
+      "thumb": 201,
+      "data": [
+        "03"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "03"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "05"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Tower of Law - Gates of Justice",
+      "thumb": 737,
+      "data": [
+        "09"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Amazon Lily",
+      "thumb": 1056,
+      "data": [
+        "05"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Penguin Long Beach",
+      "thumb": 266,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Chopper's Rampage Raid",
+      "thumb": 249,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Blackbeard Raid",
+      "thumb": 447,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Captain Buggy",
+        "Log Luffy",
+        "Rayleigh",
+        "Rob Lucci",
+        "Trafalgar Law"
+      ]
+    }
+  ],
+  "manual": []
 }

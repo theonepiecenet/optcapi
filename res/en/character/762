@@ -5,6 +5,11 @@
     "specialName": "Impact Beast",
     "captain": "Boosts ATK and RCV of [PSY] characters by 1.5x"
   },
+  "aliases": [
+    "ウソップ うそつき狼",
+    "",
+    "Halloween Usopp"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -26,5 +31,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0762.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0762.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Twilight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 761,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

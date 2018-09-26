@@ -4,6 +4,11 @@
     "special": "Reduces Bind and Despair duration by 1 turn, deals 15x the character's ATK as [STR] damage to all enemies",
     "specialName": "Mudfish Coaster"
   },
+  "aliases": [
+    "ビッグパン",
+    "",
+    "Big Pan"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -28,5 +33,45 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0567.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0567.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Long Ring Long Land",
+      "thumb": 568,
+      "data": [
+        "08"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Wanze's Ramen Kung Fu!! Fortnight",
+      "thumb": 743,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Archaeologist Nico Olvia Fortnight",
+      "thumb": 1049,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Donquixote Doflamingo"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,10 @@
     "specialName": "Studying Medicine",
     "captain": "Boosts ATK, HP and RCV of [PSY] characters by 1.5x"
   },
+  "aliases": [
+    "カヤ シロップ村のお嬢様",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +29,67 @@
     21,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 502,
+    "evolvers": [
+      117,
+      87,
+      92,
+      94
+    ],
+    "from": 501
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0502.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0502.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Raging Cook! Red Leg Zeff Fortnight",
+      "thumb": 607,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Operation: Proposal! Fortnight",
+      "thumb": 808,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Revealing the Truth! Fortnight",
+      "thumb": 1242,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sabo"
+      ]
+    }
+  ]
 }

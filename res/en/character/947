@@ -6,6 +6,10 @@
     "special": "[STR] and [INT] characters gain 1.3x ATK for 1 turn. Deals 10x character's ATK in [INT] damage to all enemies",
     "captainNotes": "#{noFixedPerc}"
   },
+  "aliases": [
+    "フォッサ 白ひげ海賊団１５番隊隊長",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -30,5 +34,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0947.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0947.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Encounter! Whitebeard Pirates Fortnight",
+      "thumb": 946,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

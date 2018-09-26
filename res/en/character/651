@@ -6,6 +6,13 @@
     "specialName": "Thunder Lance Tempo",
     "captain": "Boosts ATK of [INT] characters by 2x and their RCV by 1.5x"
   },
+  "aliases": [
+    "ナミ 航海の夢「世界地図」",
+    "",
+    "Log Nami",
+    "Endless Dream Nami",
+    "Nami, A Vow in the Great Age of Pirates - World Map"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -26,9 +33,27 @@
     15,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 651,
+    "evolvers": [
+      117,
+      83,
+      88,
+      93,
+      104
+    ],
+    "from": 650
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0651.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0651.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

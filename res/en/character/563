@@ -4,6 +4,10 @@
     "special": "Deal 3x character's ATK in [PSY] damage to one enemy, changes [INT] orbs into [RCV] orbs",
     "specialName": "Cutie Baton"
   },
+  "aliases": [
+    "ポルチェ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -25,5 +29,63 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0563.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0563.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Long Ring Long Land",
+      "thumb": 568,
+      "data": [
+        "05"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lightning Speed! Strawhat Crew's Surprise Visit Fortnight",
+      "thumb": 866,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Luffy"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "T-Bone's Absolute Justice Fortnight",
+      "thumb": 724,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Clash! Whitebeard Pirates Fortnight",
+      "thumb": 979,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Log Luffy"
+      ]
+    }
+  ]
 }

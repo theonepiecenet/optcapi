@@ -3,6 +3,10 @@
   "detail": {
     "captain": "Reduces damage received from [INT] enemies by 30%"
   },
+  "aliases": [
+    "特訓ヘルメッポ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -34,5 +38,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0264.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0264.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Cobymeppo's Proving Ground! Fortnight",
+      "thumb": 263,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Vice-Admiral Garp Raid",
+      "thumb": 306,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Characters"
+      ]
+    }
+  ],
+  "manual": []
 }

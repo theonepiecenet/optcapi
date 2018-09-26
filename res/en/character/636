@@ -5,6 +5,11 @@
     "specialName": "Wretched Ballade",
     "captain": "Boosts ATK of characters with cost 2 or less by 3x"
   },
+  "aliases": [
+    "パッパグ",
+    "",
+    "Pappug"
+  ],
   "unit": {
     "type": "INT",
     "class": "Fighter",
@@ -26,5 +31,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0636.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0636.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Camie and Hachi's Takoyaki Stand! Fortnight",
+      "thumb": 635,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Camie and Hachi's Takoyaki Stand! Fortnight",
+      "thumb": 635,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

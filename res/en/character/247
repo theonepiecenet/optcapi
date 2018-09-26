@@ -5,6 +5,12 @@
     "specialName": "Kyuun Spark",
     "captain": "Reduces damage received by 10%"
   },
+  "aliases": [
+    "チョッパーマン",
+    "",
+    "Chopperman",
+    "Chopper Man"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Fighter",
@@ -26,5 +32,21 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0247.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0247.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "special": 1,
+    "shop": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Chopper's Sweet Special Adventure",
+      "thumb": 247,
+      "data": [
+        ""
+      ]
+    }
+  ],
+  "manual": []
 }

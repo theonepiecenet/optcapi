@@ -5,6 +5,10 @@
     "special": "Recovers 13x character's RCV in HP",
     "specialName": "Timeless Art of Self-Defense"
   },
+  "aliases": [
+    "グロリオーサ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +33,37 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1062.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1062.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Amazon Lily",
+      "thumb": 1056,
+      "data": [
+        "04",
+        "05"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Young Donquixote Pirates - Baby 5 And Buffalo Fortnight",
+      "thumb": 1287,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sabo"
+      ]
+    }
+  ]
 }

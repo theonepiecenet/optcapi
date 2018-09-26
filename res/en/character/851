@@ -5,6 +5,10 @@
     "specialName": "Snow Country Speciality: Snow Powder Makeup",
     "special": "Deals 20x character's ATK in character's type damage to one enemy, locks all orbs for 1 turn"
   },
+  "aliases": [
+    "ブリキのワポル",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +43,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0851.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0851.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Wapol's Revenge Fortnight",
+      "thumb": 852,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

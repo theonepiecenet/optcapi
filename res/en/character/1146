@@ -4,6 +4,10 @@
     "specialName": "Bind Purge",
     "special": "Reduces Bind duration by 2 turns"
   },
+  "aliases": [
+    "制圧の制服看守",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -28,5 +32,10 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1146.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1146.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

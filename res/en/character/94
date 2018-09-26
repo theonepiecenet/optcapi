@@ -1,5 +1,9 @@
 {
   "name": "Rainbow Hermit Crab",
+  "aliases": [
+    "赤カブトヤドカリ",
+    "Bernard-l'ermite arc-en-ciel"
+  ],
   "unit": {
     "type": "INT",
     "class": "Evolver",
@@ -18,5 +22,81 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0094.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0094.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "11"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Scissor Cavern",
+      "thumb": 95,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Brook",
+        "Chopper",
+        "Luffy",
+        "Sanji"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Heart Memory",
+      "thumb": 1961,
+      "data": [
+        "Pudding",
+        "Sanji"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -4,6 +4,10 @@
     "specialName": "Captain Slot Change RCV",
     "special": "Changes captain's orb into [RCV]"
   },
+  "aliases": [
+    "強心のガンマン 黄のボディガード",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -25,5 +29,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0962.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0962.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "08",
+        "09"
+      ]
+    }
+  ],
+  "manual": []
 }

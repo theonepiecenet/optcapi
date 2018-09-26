@@ -5,6 +5,10 @@
     "special": "Reduces Paralysis duration by 3 turns and deals 7x ATK as [STR] damage to one enemy",
     "specialName": "Bepo's Ultimate Fist!!"
   },
+  "aliases": [
+    "武闘家のベポ ハートの海賊団",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +29,24 @@
     20,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1003,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ],
+    "from": 1002
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1003.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1003.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

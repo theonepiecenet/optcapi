@@ -5,6 +5,11 @@
     "specialName": "Ground Death: Thirst",
     "special": "Cuts the current HP of all enemies by 10%, randomizes all orbs and changes own orb into [STR]"
   },
+  "aliases": [
+    "サー・クロコダイル 砂の武将",
+    "",
+    "Kimono Crocodile"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0897.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0897.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Mountaintop Banquet! Enter the Generals! Fortnight",
+      "thumb": 897,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

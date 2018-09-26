@@ -5,6 +5,10 @@
     "specialName": "Fine Tempo",
     "captain": "Boosts ATK of [INT] characters by 2x"
   },
+  "aliases": [
+    "ナミ（ファイン=テンポ）",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +43,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0220.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0220.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

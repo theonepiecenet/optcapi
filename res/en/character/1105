@@ -5,6 +5,11 @@
     "special": "Delays all enemies for 1 turn. Adds .2x to Chain multiplier for 2 turns. Makes PERFECTs easier to hit for 2 turns.",
     "specialName": "Mosa Mosa Dance"
   },
+  "aliases": [
+    "ビンズ ＮＥＯ海軍",
+    "",
+    "Coliseum Binz"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +44,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1105.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1105.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

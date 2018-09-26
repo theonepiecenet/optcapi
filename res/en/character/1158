@@ -6,6 +6,10 @@
     "specialNotes": "Strong Poison deals 5x character's ATK in fixed damage at the end of each turn. Regular Poison deals .5x character's ATK in fixed damage at the end of each turn.",
     "specialName": "Poison Puffer Fish"
   },
+  "aliases": [
+    "マゼラン署長",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +44,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1158.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1158.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Impel Down",
+      "thumb": 1159,
+      "data": [
+        "06",
+        "16"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "6th Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

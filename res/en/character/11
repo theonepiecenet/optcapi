@@ -5,6 +5,10 @@
     "specialName": "Mirage Tempo",
     "captain": "Boosts ATK of [INT] characters by 1.5x"
   },
+  "aliases": [
+    "ナミ 蜃気楼＝テンポ",
+    "Nami MirageTempo"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -37,5 +41,53 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0011.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0011.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Arlong: Empire Rising Fortnight",
+      "thumb": 66,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Dr. Hogback's Lab of the Dead Fortnight",
+      "thumb": 386,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Operation: Proposal! Fortnight",
+      "thumb": 808,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

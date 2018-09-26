@@ -6,6 +6,12 @@
     "special": "Boosts ATK of Free Spirit characters by 1.5x for 1 turn, deals 15x character's ATK in [STR] damage to all enemies",
     "captainNotes": "#{captainProportional : lower : 1 + 1.5 * (1 - (remaining HP) / (total HP)) : 1 : 2.5}"
   },
+  "aliases": [
+    "ワイパー シャンディアの戦士",
+    "",
+    "Wiper, Warrior of Shandia",
+    "Coliseum Wyper"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +46,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0832.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0832.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

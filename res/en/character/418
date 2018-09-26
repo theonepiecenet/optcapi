@@ -80,6 +80,12 @@
       }
     ]
   },
+  "aliases": [
+    "ドンキホーテ・ドフラミンゴ 王下七武海",
+    "",
+    "Raid Doffy",
+    "Raid Doflamingo"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +106,24 @@
     28,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 418,
+    "evolvers": [
+      118,
+      83,
+      86,
+      302,
+      102
+    ],
+    "from": 417
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0418.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0418.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

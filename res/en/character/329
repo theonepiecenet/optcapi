@@ -5,6 +5,10 @@
     "specialName": "Fiddle Banff",
     "captain": "Boosts RCV of all characters by 5x if HP is below 30% at the start of the turn"
   },
+  "aliases": [
+    "ドルトン 野牛（バイソン）",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +29,48 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 329,
+    "evolvers": [
+      117,
+      79,
+      85,
+      96
+    ],
+    "from": 328
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0329.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0329.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Perona's Wonder Garden Fortnight",
+      "thumb": 392,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Chief Jailer Sadie Fortnight",
+      "thumb": 550,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sakazuki"
+      ]
+    }
+  ]
 }

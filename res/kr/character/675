@@ -3,6 +3,80 @@
   "detail": {
     "special": "모든 독 상태를 회복, 2턴 동안 받는 데미지를 반감+턴 종료 시에 체력을 중량 회복! 그런 미라클!!",
     "specialName": "엠포리오 치유 호르몬",
-    "captain": "자유형 캐릭터의 공격력이 2.5배가 돼욧!!!"
+    "captain": "자유형 캐릭터의 공격력이 2.5배가 돼욧!!!",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Blindness duration by 3 turns",
+      "level2": "When HP is below ?% at the start of the turn, boosts base RCV of all characters by 50"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Blindness duration by 3 turns"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: When HP is below ?% at the start of the turn, boosts base RCV of all characters by 50"
+      },
+      {
+        "description": "Boosts base RCV by 45"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[PSY] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by ?%",
+          "Level 3: Reduce damage taken from [PSY] characters by ?%",
+          "Level 4: Reduce damage taken from [PSY] characters by ?%",
+          "Level 5: Reduce damage taken from [PSY] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
   }
 }

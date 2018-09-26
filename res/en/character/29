@@ -5,6 +5,10 @@
     "specialName": "Iron Mace Beauty",
     "captain": "Reduces damage received from [STR] enemies by 30%"
   },
+  "aliases": [
+    "金棒のアルビダ",
+    "Alvida à la Massue"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -38,5 +42,53 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0029.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0029.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Alvida's Hideout",
+      "thumb": 29,
+      "data": [
+        "03"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "02",
+        "06"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Alvida's Romance Fortnight",
+      "thumb": 30,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Luffy"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "1st Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

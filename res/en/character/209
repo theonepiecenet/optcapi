@@ -5,6 +5,11 @@
     "specialName": "Dieciseis Fleur",
     "captain": "Boosts RCV of [INT] characters by 1.5x"
   },
+  "aliases": [
+    "ミス・オールサンデー バロックワークス副社長",
+    "",
+    "Nico Robin"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0209.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0209.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Crocodile: Life on the Inside Fortnight",
+      "thumb": 510,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

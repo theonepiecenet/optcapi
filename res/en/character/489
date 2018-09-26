@@ -4,6 +4,10 @@
     "special": "Boosts ATK of [DEX] characters by 1.2x for 1 turn",
     "specialName": "Attack Boost DEX"
   },
+  "aliases": [
+    "緑の遊牧隊　隊員 シャンディアの戦士",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Striker",
@@ -32,5 +36,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0489.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0489.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "01"
+      ]
+    }
+  ],
+  "manual": []
 }

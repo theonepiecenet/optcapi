@@ -5,6 +5,11 @@
     "specialName": "Cheeky Punk Kid Kick",
     "captain": "Boosts ATK of [QCK] characters by 1.5x"
   },
+  "aliases": [
+    "ポートガス・Ｄ・エース コルボ山の悪ガキ３兄弟“兄弟盃”",
+    "",
+    "Kid Ace"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +30,27 @@
     11,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 498,
+    "evolvers": [
+      90,
+      94,
+      96,
+      301,
+      101
+    ],
+    "from": 497
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0498.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0498.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

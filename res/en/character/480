@@ -4,6 +4,10 @@
     "special": "Changes [TND] orbs into [PSY] orbs",
     "specialName": "[TND] Slot Change [PSY]"
   },
+  "aliases": [
+    "黄の突撃隊　隊員 スカイピア神兵",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Striker",
@@ -34,5 +38,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0480.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0480.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "07",
+        "11"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -4,6 +4,10 @@
     "specialName": "[PSY] Slot Change [STR]",
     "special": "Changes [PSY] orbs into [STR] orbs"
   },
+  "aliases": [
+    "ソルジャーゾンビ　力自慢の影",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": "Fighter",
@@ -25,5 +29,34 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0817.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0817.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "06",
+        "08",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "01"
+      ]
+    }
+  ],
+  "manual": []
 }

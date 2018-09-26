@@ -80,6 +80,10 @@
       }
     ]
   },
+  "aliases": [
+    "ナミ サンダーボルト=テンポ",
+    "Nami Fulguro Tempo"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -107,9 +111,81 @@
       267
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 12,
+    "evolvers": [
+      117,
+      82,
+      104
+    ],
+    "from": 11
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0012.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0012.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Arlong: Empire Rising Fortnight",
+      "thumb": 66,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Operation: Proposal! Fortnight",
+      "thumb": 808,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Shambles! Tashigi and Smoker?!? Fortnight",
+      "thumb": 1397,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Rayleigh"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

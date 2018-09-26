@@ -5,6 +5,10 @@
     "specialName": "Fiddle Banff",
     "captain": "Boosts RCV of all characters by 5x if HP is below 30% at the start of the turn"
   },
+  "aliases": [
+    "ドルトン",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -38,5 +42,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0328.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0328.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Wapol's Revenge Fortnight",
+      "thumb": 852,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

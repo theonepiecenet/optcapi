@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "茶ひげ ワニのケンタウロス",
+    "",
+    "Coliseum Brownbeard"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -100,9 +105,24 @@
     26,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1018,
+    "evolvers": [
+      117,
+      81,
+      87,
+      98,
+      103
+    ],
+    "from": 1017
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1018.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1018.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

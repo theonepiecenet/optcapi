@@ -1,5 +1,9 @@
 {
   "name": "Rainbow Armor Crab",
+  "aliases": [
+    "虹ヨロイガニ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Evolver",
@@ -18,5 +22,56 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1180.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1180.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Scissor Cavern, Innermost Grotto",
+      "thumb": 1180,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Gild Tesoro Raid",
+      "thumb": 1163,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Brook",
+        "Chopper",
+        "Luffy",
+        "Sanji"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Heart Memory",
+      "thumb": 1961,
+      "data": [
+        "Pudding",
+        "Sanji"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    }
+  ],
+  "manual": []
 }

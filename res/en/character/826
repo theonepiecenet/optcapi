@@ -5,6 +5,10 @@
     "specialName": "Weakness of the Ancient Knight",
     "special": "Delays all enemies for 1 turn, reduces the ATK of all characters by 80% for 2 turns"
   },
+  "aliases": [
+    "ジェネラルゾンビ　奇技の影",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +33,31 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0826.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0826.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "08",
+        "09",
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  ],
+  "manual": []
 }

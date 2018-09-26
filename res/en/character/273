@@ -4,6 +4,10 @@
     "special": "Deals 10x character's ATK in character's type damage to one enemy",
     "specialName": "Hyper Straight"
   },
+  "aliases": [
+    "格闘隊　武装隊員 ブラックパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Fighter",
@@ -21,9 +25,22 @@
     40,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 273,
+    "evolvers": [
+      115,
+      116,
+      93
+    ],
+    "from": 146
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0273.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0273.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

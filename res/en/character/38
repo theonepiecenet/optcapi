@@ -5,6 +5,10 @@
     "specialName": "Chop-Chop Festival",
     "captain": "Boosts ATK of [INT] characters by 1.5x"
   },
+  "aliases": [
+    "バギー",
+    "Baggy"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -37,5 +41,45 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0038.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0038.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Orange Town",
+      "thumb": 38,
+      "data": [
+        "05",
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Buggy's Counterattack!! Fortnight",
+      "thumb": 39,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "1st Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

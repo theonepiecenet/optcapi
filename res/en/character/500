@@ -5,6 +5,10 @@
     "specialName": "Women Are Courageous!",
     "captain": "Boosts RCV of Shooter characters by 2x"
   },
+  "aliases": [
+    "ベルメール ナミとノジコの養母",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Shooter",
@@ -22,9 +26,67 @@
     13,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 500,
+    "evolvers": [
+      117,
+      80,
+      97,
+      94
+    ],
+    "from": 499
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0500.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0500.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Shark Attack! Arlong Pirates Fortnight",
+      "thumb": 656,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lightning Speed! Strawhat Crew's Surprise Visit Fortnight",
+      "thumb": 866,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Gather! Whitebeard Alliance Fortnight",
+      "thumb": 1254,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sengoku"
+      ]
+    }
+  ]
 }

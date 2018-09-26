@@ -5,6 +5,10 @@
     "specialName": "Hyper Straight",
     "captain": "Boosts ATK of Fighter characters by 1.2x"
   },
+  "aliases": [
+    "近海の主（ヌシ）",
+    "Seigneur de la côte"
+  ],
   "unit": {
     "type": "STR",
     "class": "Fighter",
@@ -26,5 +30,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0028.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0028.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Fushia Village",
+      "thumb": 28,
+      "data": [
+        "03"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Alvida's Romance Fortnight",
+      "thumb": 30,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Deep Sea Kraken Fortnight",
+      "thumb": 341,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

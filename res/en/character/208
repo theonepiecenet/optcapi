@@ -5,6 +5,12 @@
     "specialName": "Bombardier Arabesque",
     "captain": "Reduces damage received from [PSY] enemies by 20%"
   },
+  "aliases": [
+    "Mr.2・ボン・クレー  爆撃白鳥アラベスク(ボンバルディエ)",
+    "",
+    "Mr. 2 Bonclay Bombardier Arabesque",
+    "Mr 2 Bonclay Bombardier Arabesque"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -45,5 +51,43 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0208.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0208.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Hina's Resort Getaway Fortnight",
+      "thumb": 232,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Perv-salom's Very Manly Adventure Fortnight",
+      "thumb": 405,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Rayleigh"
+      ]
+    }
+  ]
 }

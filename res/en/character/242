@@ -4,6 +4,10 @@
     "special": "Changes [DEX] orbs into [STR] orbs",
     "specialName": "[DEX] Slot Change [STR]"
   },
+  "aliases": [
+    "ナックルビリオンズ バロックワークス",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": "Fighter",
@@ -21,9 +25,22 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 242,
+    "evolvers": [
+      115,
+      89,
+      95
+    ],
+    "from": 237
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0242.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0242.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

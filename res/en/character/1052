@@ -6,6 +6,10 @@
     "specialName": "Knowledge the World is Afraid of",
     "specialNotes": "#{silence}"
   },
+  "aliases": [
+    "ニコ・ロビン オハラの少女",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -30,5 +34,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1052.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1052.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Archaeologist Nico Olvia Fortnight",
+      "thumb": 1049,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,10 @@
     "specialName": "Shave",
     "captain": "Boosts ATK of Fighter characters by 2x"
   },
+  "aliases": [
+    "曹長コビー",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -26,9 +30,33 @@
     17,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 263,
+    "evolvers": [
+      117,
+      81,
+      87,
+      92,
+      103
+    ],
+    "from": 262
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0263.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0263.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Cobymeppo's Proving Ground! Fortnight",
+      "thumb": 263,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

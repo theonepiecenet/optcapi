@@ -6,6 +6,10 @@
     "specialName": "Abyss Road",
     "specialNotes": "#{zombie}"
   },
+  "aliases": [
+    "ハンニャバル副署長",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +44,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1156.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1156.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Impel Down",
+      "thumb": 1159,
+      "data": [
+        "12"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "6th Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

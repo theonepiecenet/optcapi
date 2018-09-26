@@ -5,6 +5,12 @@
     "specialName": "Cruel Blade: Iron Guard",
     "captain": "Boosts ATK of Slasher characters by 2x"
   },
+  "aliases": [
+    "服役囚ダズ・ボーネス Mr.1",
+    "",
+    "Mr 1",
+    "Daz Bones"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +35,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0511.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0511.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Crocodile: Life on the Inside Fortnight",
+      "thumb": 510,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

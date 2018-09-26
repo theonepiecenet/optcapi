@@ -82,6 +82,12 @@
       }
     ]
   },
+  "aliases": [
+    "鷹の目のミホーク",
+    "",
+    "Raidhawk",
+    "Raid Mihawk"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Slasher",
@@ -99,9 +105,24 @@
     32,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 227,
+    "evolvers": [
+      118,
+      83,
+      86,
+      86,
+      102
+    ],
+    "from": 226
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0227.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0227.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -6,6 +6,11 @@
     "specialName": "Sweet Fruit Trap",
     "special": "Recovers 9x characters RCV in HP. Changes captain's orb into Matching orb"
   },
+  "aliases": [
+    "シュガー　実桜",
+    "",
+    "Sakura Sugar"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +45,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1020.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1020.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,12 @@
     "specialName": "Ice Block - Pheasant Beak",
     "captain": "Boosts ATK of Striker characters by 2x"
   },
+  "aliases": [
+    "青キジ",
+    "",
+    "Raid Kuzan",
+    "Raid Aokiji"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +45,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0574.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0574.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Aokiji Raid",
+      "thumb": 575,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

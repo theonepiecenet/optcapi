@@ -5,6 +5,11 @@
     "specialName": "Mirage Tempo Fata Morgana: Blossom",
     "captain": "Boosts RCV of [DEX] characters by 1.5x"
   },
+  "aliases": [
+    "ナミ　桜雲",
+    "",
+    "Sakura Nami"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +44,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0535.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0535.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

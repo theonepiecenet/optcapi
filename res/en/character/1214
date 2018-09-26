@@ -6,6 +6,12 @@
     "special": "Recovers 10x character's RCV in HP. For 4 turns, makes [BOMB] orbs \"beneficial\"",
     "specialNotes": "#{beneficial}"
   },
+  "aliases": [
+    "ベビー５ ドルフィンライダー",
+    "",
+    "Summertime Baby 5",
+    "Swimsuit Baby 5"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,9 +32,27 @@
     15,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1214,
+    "evolvers": [
+      117,
+      78,
+      98,
+      95,
+      100
+    ],
+    "from": 1213
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1214.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1214.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

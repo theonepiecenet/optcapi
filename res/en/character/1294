@@ -21,6 +21,12 @@
     "specialNotes": "The exact multiplier used is chosen based on the crew's current HP at the time the special is activated: above 50% HP, the multiplier used is 50%; between 50% and 10%, it's 80%; below 10% HP, it's 100%.<br>#{stages}",
     "specialName": "Snake Dance"
   },
+  "aliases": [
+    "ボア・サンダーソニア ゴルゴン三姉妹・次女",
+    "",
+    "Coliseum Sandersonia",
+    "Coliseum Boa Sandersonia"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -41,9 +47,24 @@
     26,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1294,
+    "evolvers": [
+      117,
+      80,
+      81,
+      86,
+      87
+    ],
+    "from": 1293
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1294.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1294.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

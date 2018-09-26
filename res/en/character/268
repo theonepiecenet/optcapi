@@ -5,6 +5,11 @@
     "specialName": "White Out",
     "captain": "Reduces damage received by 25%"
   },
+  "aliases": [
+    "白猟のスモーカー ビローアバイク",
+    "",
+    "WC Smoker"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +30,24 @@
     22,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 268,
+    "evolvers": [
+      117,
+      80,
+      86,
+      91,
+      102
+    ],
+    "from": 70
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0268.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0268.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

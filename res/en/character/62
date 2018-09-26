@@ -5,6 +5,10 @@
     "specialName": "Guffaw Palm Bomb",
     "captain": "Boosts HP of Fighter characters by 1.5x"
   },
+  "aliases": [
+    "クロオビ",
+    "Kuroobi"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +33,53 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0062.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0062.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Arlong Park",
+      "thumb": 65,
+      "data": [
+        "09",
+        "15"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Arlong: Empire Rising Fortnight",
+      "thumb": 66,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "1st Stage"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Hina's Resort Getaway Fortnight",
+      "thumb": 232,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Kalifa's Secret Assignment Fortnight",
+      "thumb": 318,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

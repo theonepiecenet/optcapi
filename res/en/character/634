@@ -5,6 +5,11 @@
     "specialName": "Guiding Mermaid Voice",
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK and RCV of [QCK] and [PSY] characters by 1.25x"
   },
+  "aliases": [
+    "ケイミー",
+    "",
+    "Keimi"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Fighter",
@@ -36,5 +41,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0634.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0634.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Camie and Hachi's Takoyaki Stand! Fortnight",
+      "thumb": 635,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

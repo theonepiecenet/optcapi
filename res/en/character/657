@@ -5,6 +5,11 @@
     "specialName": "Forearm Sledge",
     "captain": "Boosts ATK of Fighter characters by 1.5x"
   },
+  "aliases": [
+    "クロオビ タイヨウの海賊団",
+    "",
+    "Young Kuroobi"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0657.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0657.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Shark Attack! Arlong Pirates Fortnight",
+      "thumb": 656,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

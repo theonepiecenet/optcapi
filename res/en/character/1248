@@ -6,6 +6,11 @@
     "special": "Recovers 3,000 HP and reduces damage received by 50% for 1 turn",
     "specialName": "Shining Daylight - Dayflower"
   },
+  "aliases": [
+    "マルコ 秋風にはためく襟元",
+    "",
+    "Kimono Marco"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +45,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1248.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1248.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

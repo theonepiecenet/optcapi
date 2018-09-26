@@ -5,6 +5,12 @@
     "specialName": "Special Muggy Ball: Flashy",
     "special": "Reduces the defense of all enemies by 80% for 1 turn, deals 15x character's ATK in [QCK] damage to all enemies"
   },
+  "aliases": [
+    "バギー 陽気なかぶき者",
+    "",
+    "Kimono Buggy",
+    "Baggy"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -29,5 +35,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0887.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0887.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Riverside Banquet! Enter the Crazy Ones! Fortnight",
+      "thumb": 885,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Riverside Banquet! Enter the Crazy Ones! Fortnight",
+      "thumb": 885,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

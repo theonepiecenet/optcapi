@@ -5,6 +5,11 @@
     "specialName": "Eight-Sword Style: Brave Warrior's Continuous Attack",
     "captain": "Boosts ATK of Slasher characters by 2x, reduces damage received from [QCK] enemies by 20%"
   },
+  "aliases": [
+    "オニグモ 海軍本部中将",
+    "",
+    "Raid Onigumo"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +34,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0772.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0772.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Buster Call Raid",
+      "thumb": 771,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

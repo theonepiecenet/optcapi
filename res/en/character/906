@@ -107,6 +107,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ロロノア・ゾロ 世界最強剣士の門弟",
+    "",
+    "3D2Y Zoro",
+    "Timeskip Zoro"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -127,9 +133,83 @@
     24,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 906,
+    "evolvers": [
+      118,
+      83,
+      84,
+      300,
+      100
+    ],
+    "from": 905
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0906.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0906.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Dead End Begins! Raging Blast! Fortnight",
+      "thumb": 1072,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Gatekeeper of the New World! Fortnight",
+      "thumb": 1469,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Dracule Mihawk"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Pirate Hunter's Memories of Training",
+      "thumb": 1900,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -3,6 +3,10 @@
   "detail": {
     "captain": "Boosts HP of Fighter characters by 1.5x"
   },
+  "aliases": [
+    "ミス・バレンタイン",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Fighter",
@@ -28,5 +32,38 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0201.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0201.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Whiskey Peak",
+      "thumb": 201,
+      "data": [
+        "10",
+        "12",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "14"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "2nd Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

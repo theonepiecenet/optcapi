@@ -6,6 +6,15 @@
     "special": "Recovers 25x character's RCV in HP. Reduces Bind and Despair duration by 3 turns",
     "specialName": "Love Sacrifice"
   },
+  "aliases": [
+    "コラソン ドンキホーテ海賊団",
+    "",
+    "Rocinante",
+    "Rosinante",
+    "Corasan",
+    "Legend Corazon",
+    "Donquixote Rosinante"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +49,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1000.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1000.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

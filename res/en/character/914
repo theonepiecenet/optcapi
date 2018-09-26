@@ -5,6 +5,12 @@
     "specialName": "Black Magic Summoning: Advent of the Demon Lord Satan",
     "special": "Seals himself for 1 turn, changes [BLOCK] orbs into matching orbs, randomizes Badly Matching orbs into either [STR], [QCK], [DEX], [PSY] or [INT] orbs"
   },
+  "aliases": [
+    "ブルック 骨（ボーン） to be wild!!!",
+    "",
+    "3D2Y Brook",
+    "Timeskip Brook"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +31,67 @@
     16,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 914,
+    "evolvers": [
+      85,
+      94,
+      94,
+      301,
+      101
+    ],
+    "from": 913
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0914.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0914.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Dead End Begins! Raging Blast! Fortnight",
+      "thumb": 1072,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Gatekeeper of the New World! Fortnight",
+      "thumb": 1469,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Cavendish"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

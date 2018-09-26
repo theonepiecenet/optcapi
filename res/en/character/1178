@@ -6,6 +6,11 @@
     "specialName": "Not Rubber Gum-Gum Jet Gatling",
     "specialNotes": "#{random : 30,000 : 150,000}"
   },
+  "aliases": [
+    "オーズ",
+    "",
+    "Oz"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +45,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1178.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1178.png"
-  }
+  },
+  "flags": {
+    "shop": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

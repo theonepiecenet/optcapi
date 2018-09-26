@@ -6,6 +6,11 @@
     "captain": "Boosts ATK of Striker characters by 2x, reduces damage received up to 30% depending on the crew's current HP",
     "specialNotes": "#{orb : 1.75x}"
   },
+  "aliases": [
+    "白猟のスモーカー 海軍本部大佐",
+    "",
+    "Coliseum Smoker"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -26,9 +31,24 @@
     27,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 806,
+    "evolvers": [
+      118,
+      83,
+      88,
+      99,
+      304
+    ],
+    "from": 805
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0806.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0806.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -80,6 +80,10 @@
       }
     ]
   },
+  "aliases": [
+    "花剣のビスタ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -100,9 +104,84 @@
     15,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 255,
+    "evolvers": [
+      118,
+      88,
+      94,
+      99,
+      104
+    ],
+    "from": 254
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0255.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0255.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Franky - Pervert's Aesthetic! Fortnight",
+      "thumb": 337,
+      "data": [
+        "Elite",
+        "Expert"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Chief Jailer Sadie Fortnight",
+      "thumb": 550,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Chinjao Family! Fortnight",
+      "thumb": 1426,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Royale! Oars",
+      "thumb": 893,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Kuzan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

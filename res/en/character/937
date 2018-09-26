@@ -80,6 +80,12 @@
       }
     ]
   },
+  "aliases": [
+    "モンキー・Ｄ・ルフィ 仲間との誓い『３Ｄ２Ｙ』",
+    "",
+    "Timeskip Luffy",
+    "3D2Y Luffy"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -100,9 +106,75 @@
     19,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 937,
+    "evolvers": [
+      118,
+      94,
+      96,
+      301,
+      101
+    ],
+    "from": 936
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0937.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0937.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Robin and Nami's Secret Undercover Investigation Fortnight",
+      "thumb": 1112,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Bandits! Dadan Family! Fortnight",
+      "thumb": 1520,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sabo"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Judge"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,14 @@
     "specialName": "Hymn to Friendship: \"Okama Way\" Two",
     "special": "Reduces Despair duration by 5 turns, recovers 10x character's RCV in HP"
   },
+  "aliases": [
+    "Mr.2・ボン・クレー あやふやな侍",
+    "",
+    "Kimono Mr. 2",
+    "Kimono Bonclay",
+    "Kimono Bon Clay",
+    "Kimono Mr 2"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +37,30 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0899.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0899.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Mountaintop Banquet! Enter the Generals! Fortnight",
+      "thumb": 897,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Mountaintop Banquet! Enter the Generals! Fortnight",
+      "thumb": 897,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ]
 }

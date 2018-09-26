@@ -5,6 +5,10 @@
     "specialName": "Goldfish Fencing! I'll Dye the Sea Red with Your Blood",
     "special": "Reduces the defense of all enemies by 80% for 2 turns"
   },
+  "aliases": [
+    "ギャロ",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -29,5 +33,52 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0954.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0954.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Brook"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Rumbar Pirates! Fortnight",
+      "thumb": 1203,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Time of Revenge has Come! New Fishman Pirates! Fortnight",
+      "thumb": 1624,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Rayleigh"
+      ]
+    }
+  ]
 }

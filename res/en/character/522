@@ -80,6 +80,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "サンジ 特攻の麦わらの一味",
+    "",
+    "Strong World Sanji",
+    "SW Sanji"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -100,9 +106,71 @@
     23,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 522,
+    "evolvers": [
+      118,
+      83,
+      88,
+      94,
+      104
+    ],
+    "from": 521
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0522.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0522.png"
-  }
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fight! Sand-Sand Band!! Fortnight",
+      "thumb": 664,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Secret Garden! Men are Forbidden!? Fortnight",
+      "thumb": 918,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Zou Royal Guard! Fortnight",
+      "thumb": 1812,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sengoku"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

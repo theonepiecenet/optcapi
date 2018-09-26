@@ -151,6 +151,15 @@
       }
     ]
   },
+  "aliases": [
+    "トラファルガー・ロー 王下七武海",
+    "",
+    "LLaw",
+    "PLaw",
+    "Legend Trafalgar Law",
+    "Legend Law",
+    "Shichibukai"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -181,9 +190,60 @@
       267
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 1045,
+    "evolvers": [
+      118,
+      87,
+      266,
+      303,
+      267
+    ],
+    "from": 1044
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1045.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1045.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Young Donquixote Pirates - Baby 5 And Buffalo Fortnight",
+      "thumb": 1287,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Targeted Mermaid Princess! Fortnight",
+      "thumb": 1597,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Trafalgar Law"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

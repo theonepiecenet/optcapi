@@ -5,6 +5,12 @@
     "specialName": "Transcendental Serenity Healing",
     "captain": "Boosts ATK and RCV of Fighter characters by 1.5x"
   },
+  "aliases": [
+    "アイス大好きロビン チョコアイス",
+    "",
+    "Summertime Robin",
+    "Swimsuit Robin"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +31,24 @@
     22,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 683,
+    "evolvers": [
+      117,
+      81,
+      87,
+      98,
+      303
+    ],
+    "from": 682
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0683.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0683.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

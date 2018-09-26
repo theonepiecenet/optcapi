@@ -6,6 +6,10 @@
     "specialNotes": "Strong Poison deals 5x character's ATK in fixed damage at the end of each turn",
     "specialName": "Deadly Poisonous Corrosive Liquid"
   },
+  "aliases": [
+    "ボア・マリーゴールド 九蛇海賊団",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,9 +30,41 @@
     17,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1058,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ],
+    "from": 1057
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1058.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1058.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tontatta Tribe: Catch the Big Person! Fortnight",
+      "thumb": 1328,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Borsalino"
+      ]
+    }
+  ]
 }

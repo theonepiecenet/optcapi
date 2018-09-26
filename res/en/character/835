@@ -6,6 +6,11 @@
     "special": "Changes [RCV], [TND], [EMPTY], [BLOCK] and [BOMB] orbs into Matching orbs, amplifies the effect of orbs by 1.75x for 1 turn",
     "specialNotes": "#{orb : 1.75x}"
   },
+  "aliases": [
+    "暴君バーソロミュー・くま",
+    "",
+    "Raid Kuma"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +45,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0835.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0835.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Tyrant Kuma Raid",
+      "thumb": 836,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "specialName": "Snow Country Speciality: Snow Powder Makeup",
     "special": "Deals 20x character's ATK in character's type damage to one enemy, locks all orbs for 1 turn"
   },
+  "aliases": [
+    "スリムアップワポル",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +29,24 @@
     25,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 852,
+    "evolvers": [
+      117,
+      78,
+      85,
+      95,
+      101
+    ],
+    "from": 851
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0852.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0852.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

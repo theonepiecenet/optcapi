@@ -5,6 +5,10 @@
     "specialName": "Surprise Dial Illusion",
     "captain": "Boosts HP of [INT] characters by 1.5x"
   },
+  "aliases": [
+    "ホトリ・コトリ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Fighter",
@@ -35,5 +39,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0503.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0503.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

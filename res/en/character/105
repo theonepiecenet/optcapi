@@ -1,5 +1,10 @@
 {
   "name": "Red Treasure Turtle",
+  "aliases": [
+    "赤タカラガメ",
+    "Tortue-trésor rouge",
+    "Baby Turtle"
+  ],
   "unit": {
     "type": "STR",
     "class": "Booster",
@@ -18,5 +23,122 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0105.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0105.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Alvida's Hideout",
+      "thumb": 29,
+      "data": [
+        "Completion Units"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Shells Town",
+      "thumb": 35,
+      "data": [
+        "05",
+        "08"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Orange Town",
+      "thumb": 38,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "01",
+        "08",
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "05",
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "12"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "09",
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Long Ring Long Land",
+      "thumb": 568,
+      "data": [
+        "06",
+        "08"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Tower of Law - Gates of Justice",
+      "thumb": 737,
+      "data": [
+        "13"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Turtle Haven",
+      "thumb": 193,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Brook"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    }
+  ],
+  "manual": []
 }

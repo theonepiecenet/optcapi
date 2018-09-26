@@ -5,6 +5,11 @@
     "specialName": "Ground Death",
     "captain": "Reduces damage received by 20%, boosts ATK of Slasher characters by 2x"
   },
+  "aliases": [
+    "サー・クロコダイル 王下七武海",
+    "",
+    "Slasherdile"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,44 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0408.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0408.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Chief Jailer Sadie Fortnight",
+      "thumb": 550,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Twilight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 761,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Jinbei"
+      ]
+    }
+  ]
 }

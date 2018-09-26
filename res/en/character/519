@@ -6,6 +6,12 @@
     "specialNotes": "#{fixed}",
     "captain": "Boosts ATK of [STR] characters by 2x"
   },
+  "aliases": [
+    "モンキー・Ｄ・ルフィ メルヴィユの冒険者",
+    "",
+    "Strong World Luffy",
+    "SW Luffy"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +46,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0519.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0519.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

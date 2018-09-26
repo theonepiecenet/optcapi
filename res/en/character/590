@@ -5,6 +5,10 @@
     "specialName": "Flag of the Rebellion",
     "captain": "Boosts ATK of all characters by 2x, reduces HP and RCV of all characters by 80%"
   },
+  "aliases": [
+    "コーザ 反乱軍リーダー",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Slasher",
@@ -22,9 +26,51 @@
     20,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 590,
+    "evolvers": [
+      116,
+      117,
+      79,
+      85
+    ],
+    "from": 589
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0590.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0590.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "T-Bone's Absolute Justice Fortnight",
+      "thumb": 724,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Golden Lion Pirates' Attack! Fortnight",
+      "thumb": 1095,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Shanks"
+      ]
+    }
+  ]
 }

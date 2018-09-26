@@ -4,6 +4,10 @@
     "special": "Changes [STR] orbs into [PSY] orbs",
     "specialName": "[STR] Slot Change [PSY]"
   },
+  "aliases": [
+    "ピストルミリオンズ バロックワークス",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -33,5 +37,38 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0240.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0240.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Whiskey Peak",
+      "thumb": 201,
+      "data": [
+        "02",
+        "06",
+        "08",
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "14"
+      ]
+    }
+  ],
+  "manual": []
 }

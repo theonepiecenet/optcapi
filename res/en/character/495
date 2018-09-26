@@ -5,6 +5,10 @@
     "specialName": "Moderate Healing",
     "captain": "Recovers 500 HP at the end of each turn"
   },
+  "aliases": [
+    "黄の狩猟隊　達人 シャンディアの戦士",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -22,9 +26,22 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 495,
+    "evolvers": [
+      117,
+      81,
+      87
+    ],
+    "from": 493
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0495.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0495.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

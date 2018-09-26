@@ -82,6 +82,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "怪僧ウルージ",
+    "",
+    "Supernova Urouge"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -102,9 +107,83 @@
     25,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 314,
+    "evolvers": [
+      118,
+      81,
+      83,
+      303,
+      103
+    ],
+    "from": 313
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0314.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0314.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Dr. Hogback's Lab of the Dead Fortnight",
+      "thumb": 386,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Shandia - Dreams of a Homeland! Fortnight",
+      "thumb": 583,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Departure! Whitebeard Pirates Fortnight",
+      "thumb": 1509,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Royale! Oars",
+      "thumb": 893,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Rob Lucci"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

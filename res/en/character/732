@@ -5,6 +5,10 @@
     "specialName": "Tekkai Dama",
     "captain": "Boosts ATK of [STR] characters by 1.5x, reduces damage received by 10%"
   },
+  "aliases": [
+    "フクロウ サイファーポールNo.9",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -38,5 +42,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0732.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0732.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Tower of Law - Gates of Justice",
+      "thumb": 737,
+      "data": [
+        "05"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "4th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

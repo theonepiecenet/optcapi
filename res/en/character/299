@@ -5,6 +5,10 @@
     "specialName": "8-Sword Style Onigumo",
     "captain": "Boosts ATK of [DEX] characters by 2x"
   },
+  "aliases": [
+    "オニグモ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +33,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0299.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0299.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Tsuru's Morning Stroll Fortnight",
+      "thumb": 297,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Characters"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "specialName": "Spiritual Bouquet",
     "special": "Boosts ATK and RCV of Driven characters by 1.5x for 1 turn"
   },
+  "aliases": [
+    "？？？",
+    "",
+    "Bride Perona"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +30,27 @@
     13,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 945,
+    "evolvers": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "from": 944
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0945.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0945.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

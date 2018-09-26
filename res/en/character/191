@@ -1,5 +1,9 @@
 {
   "name": "Green Elder Turtle",
+  "aliases": [
+    "青タイロウガメ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Booster",
@@ -18,5 +22,69 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0191.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0191.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Turtle Haven",
+      "thumb": 193,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Princess Turtle's Dragon Palace",
+      "thumb": 595,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "3rd Anniversary Celebration! Duel! Luffy",
+      "thumb": 1600,
+      "data": [
+        "30 Stamina",
+        "40 Stamina"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Boosters and Evolvers"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Straw Hats!",
+      "thumb": 1686,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Straw Hats!",
+      "thumb": 1757,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,11 @@
     "special": "Changes the Friend Captains orb into a matching Orb, recovers 3.000HP",
     "specialName": "Present After the Rain"
   },
+  "aliases": [
+    "レベッカ パラソルのリズム",
+    "",
+    "Kid Rebecca"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +44,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1092.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1092.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

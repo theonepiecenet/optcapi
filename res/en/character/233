@@ -3,6 +3,11 @@
   "detail": {
     "captain": "Boosts HP of [PSY] characters by 1.5x"
   },
+  "aliases": [
+    "Mr.8",
+    "",
+    "Mr 8"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -32,5 +37,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0233.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0233.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Whiskey Peak",
+      "thumb": 201,
+      "data": [
+        "06",
+        "07"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Rising Sun, Rising Fortunes Fortnight",
+      "thumb": 420,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "2nd Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

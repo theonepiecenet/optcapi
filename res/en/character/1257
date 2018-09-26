@@ -28,6 +28,15 @@
     "specialNotes": "#{stages}",
     "specialName": "Earth Shattering Fist"
   },
+  "aliases": [
+    "エドワード・ニューゲート 海賊王のライバル",
+    "",
+    "Edward Newgate",
+    "Young Whitebeard",
+    "YWB",
+    "Invasion Whitebeard",
+    "Ambush Whitebeard"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -62,5 +71,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1257.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1257.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Invasion! Young Whitebeard",
+      "thumb": 1258,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "specialName": "Air Door",
     "captain": "Boosts ATK and HP of [STR] characters by 1.5x"
   },
+  "aliases": [
+    "ブルーノ 六式 サイファーポールNo.9",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +29,50 @@
     18,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 707,
+    "evolvers": [
+      117,
+      84,
+      89,
+      95,
+      100
+    ],
+    "from": 706
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0707.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0707.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Secret Garden! Men are Forbidden!? Fortnight",
+      "thumb": 918,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Revealing the Truth! Fortnight",
+      "thumb": 1242,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Captain Buggy"
+      ]
+    }
+  ]
 }

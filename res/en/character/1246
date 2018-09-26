@@ -5,6 +5,11 @@
     "special": "Reduces crew's current HP by 90%, deals 55x character's ATK in typeless damage to all enemies and boosts ATK of Fighter characters by 1.3x for 1 turn. If \"Gomu Gomu no Stamp Gatling\" is used again in the same turn the special is activated in, boosts ATK of Fighter characters by 2x instead.",
     "specialName": "Firefly Light, Fiery Doll"
   },
+  "aliases": [
+    "ポートガス・D・エース 処刑台の“火拳”",
+    "",
+    "Marineford Ace"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +44,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1246.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1246.png"
-  }
+  },
+  "flags": {
+    "special": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

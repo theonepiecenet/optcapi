@@ -5,6 +5,10 @@
     "specialName": "Beto Launcher",
     "special": "Changes the captain's orb into a matching orb, locks all orbs for 1 turn, deals 13x character's ATK in [INT] damage to all enemies"
   },
+  "aliases": [
+    "トレーボル",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +43,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0875.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0875.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

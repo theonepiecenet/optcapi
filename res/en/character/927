@@ -5,6 +5,11 @@
     "specialName": "Unwavering Hammer of Justice",
     "special": "Increases damage received by 1.5x and boosts ATK of Slasher and Driven characters by 1.2x for 3 turns"
   },
+  "aliases": [
+    "ドーベルマン 海軍本部中将",
+    "",
+    "Coliseum Doberman"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0927.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0927.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Characters"
+      ]
+    }
+  ],
+  "manual": []
 }

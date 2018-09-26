@@ -5,6 +5,11 @@
     "specialName": "Breeze Breath Bomb",
     "captain": "Boosts ATK of [STR] characters by 2x"
   },
+  "aliases": [
+    "Mr.5 そよ風息爆弾（ブリーズ・ブレス・ボム）",
+    "",
+    "Mr 5"
+  ],
   "unit": {
     "type": "STR",
     "class": "Shooter",
@@ -22,9 +27,46 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 200,
+    "evolvers": [
+      94,
+      78
+    ],
+    "from": 199
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0200.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0200.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tsuru's Morning Stroll Fortnight",
+      "thumb": 297,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Kuzan"
+      ]
+    }
+  ]
 }

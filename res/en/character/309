@@ -5,6 +5,11 @@
     "specialName": "Demon Face",
     "captain": "Reduces RCV of all characters by 90%, reduces damage received by 40%"
   },
+  "aliases": [
+    "バジル・ホーキンス",
+    "",
+    "Supernova Hawkins"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0309.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0309.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -4,6 +4,10 @@
     "special": "Changes [INT] orbs into [PSY] orbs",
     "specialName": "[INT] Slot Change [PSY]"
   },
+  "aliases": [
+    "斬撃隊 雑用 イエローパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Slasher",
@@ -31,5 +35,43 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0129.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0129.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Orange Town",
+      "thumb": 38,
+      "data": [
+        "01",
+        "03",
+        "04",
+        "05",
+        "06",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "06",
+        "07",
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Arlong Park",
+      "thumb": 65,
+      "data": [
+        "10"
+      ]
+    }
+  ],
+  "manual": []
 }

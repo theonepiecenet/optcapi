@@ -4,6 +4,10 @@
     "special": "Deals 13x character's ATK in character's type damage to all enemies",
     "specialName": "Hyper Burst"
   },
+  "aliases": [
+    "ガトリングチンピラ 黒の賞金稼ぎ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Shooter",
@@ -25,5 +29,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0626.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0626.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "11",
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "09",
+        "10"
+      ]
+    }
+  ],
+  "manual": []
 }

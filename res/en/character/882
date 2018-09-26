@@ -5,6 +5,12 @@
     "specialName": "Fighting Music: Conflict Chekera",
     "special": "Increases damage received by 2x for 2 turns, reduces RCV by 90% for 2 turns, boosts ATK of Shooter and Free Spirit characters by 1.75x for 1 turn"
   },
+  "aliases": [
+    "海鳴りスクラッチメン・アプー オンエア海賊団船長",
+    "",
+    "Supernova Apoo",
+    "Coliseum Apoo"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +31,24 @@
     22,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 882,
+    "evolvers": [
+      118,
+      85,
+      94,
+      301,
+      101
+    ],
+    "from": 881
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0882.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0882.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -79,6 +79,12 @@
       }
     ]
   },
+  "aliases": [
+    "フランキー 特攻の麦わらの一味",
+    "",
+    "Strong World Franky",
+    "SW Franky"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -99,9 +105,94 @@
     17,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 560,
+    "evolvers": [
+      118,
+      83,
+      84,
+      300,
+      100
+    ],
+    "from": 559
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0560.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0560.png"
-  }
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Wanze's Ramen Kung Fu!! Fortnight",
+      "thumb": 743,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lightning Speed! Strawhat Crew's Surprise Visit Fortnight",
+      "thumb": 866,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Clash! Whitebeard Pirates Fortnight",
+      "thumb": 979,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Butler and Strange Animal Island Fortnight",
+      "thumb": 1011,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Royal Neptune Family! Fortnight",
+      "thumb": 1723,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Ace"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Judge"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

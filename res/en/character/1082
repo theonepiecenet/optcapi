@@ -6,6 +6,10 @@
     "specialNotes": "Below 30% -> 1.75 boost, between 30% and 70% -> 1.5, above 70% -> 1.2",
     "specialName": "Drill Dragon: Drill Nail"
   },
+  "aliases": [
+    "首領・サイ",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +44,21 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1082.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1082.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

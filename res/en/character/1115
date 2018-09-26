@@ -81,6 +81,11 @@
       }
     ]
   },
+  "aliases": [
+    "モンキー・D・ルフィ 信念に生きる麦わらの一味",
+    "New Strong World Luffy",
+    "SW Luffy"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -101,9 +106,100 @@
     25,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1115,
+    "evolvers": [
+      118,
+      84,
+      95,
+      94,
+      100
+    ],
+    "from": 1114
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1115.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1115.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Sky Night Ganfor Fortnight",
+      "thumb": 713,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Mountaintop Banquet! Enter the Generals! Fortnight",
+      "thumb": 897,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Hannyabal's Great Ambition Fortnight",
+      "thumb": 929,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Battle Royale! Fortnight",
+      "thumb": 1766,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Log Luffy"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

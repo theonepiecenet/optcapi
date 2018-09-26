@@ -83,6 +83,12 @@
       }
     ]
   },
+  "aliases": [
+    "ナミ（幸せパンチ）",
+    "",
+    "Towel Nami",
+    "TNami"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -103,9 +109,76 @@
     13,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 221,
+    "evolvers": [
+      118,
+      88,
+      104,
+      94,
+      93
+    ],
+    "from": 220
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0221.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0221.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Hina's Resort Getaway Fortnight",
+      "thumb": 232,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Fight! Sand-Sand Band!! Fortnight",
+      "thumb": 664,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Royale! Oars",
+      "thumb": 893,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Bartolomeo"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -82,6 +82,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ゼファー NEO海軍総帥",
+    "",
+    "Raid Zephyr"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -102,9 +107,24 @@
     30,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 353,
+    "evolvers": [
+      118,
+      83,
+      88,
+      304,
+      104
+    ],
+    "from": 352
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0353.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0353.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

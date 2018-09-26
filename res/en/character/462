@@ -5,6 +5,12 @@
     "specialName": "Escape Dance: White Swan Arabesque",
     "captain": "Boosts ATK of Fighter characters by 2x"
   },
+  "aliases": [
+    "脱獄名人ベンサム Mr.2・ボン・クレー",
+    "",
+    "Prison Break Expert Mr. 2 Bonclay",
+    "Prison Break Expert Mr 2 Bonclay"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +31,24 @@
     25,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 462,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ],
+    "from": 461
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0462.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0462.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

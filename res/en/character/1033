@@ -81,6 +81,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "アブドーラ＆ジェット 元賞金稼ぎ",
+    "",
+    "Abdullah and Jeet, Former Bounty Hunters"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -101,9 +106,60 @@
     11,
     5
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1033,
+    "evolvers": [
+      118,
+      84,
+      87,
+      300,
+      303
+    ],
+    "from": 1032
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1033.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1033.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "World Pirates! Fortnight",
+      "thumb": 1215,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Targeted Mermaid Princess! Fortnight",
+      "thumb": 1597,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Blackbeard"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Lucy"
+      ]
+    }
+  ]
 }

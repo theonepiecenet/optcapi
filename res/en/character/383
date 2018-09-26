@@ -6,6 +6,12 @@
     "specialName": "Poison Needle",
     "captain": "Reduces damage received by 10%, boosts ATK of [INT] characters by 2x"
   },
+  "aliases": [
+    "Mr.0 バロックワークス社長",
+    "",
+    "Crocodile",
+    "Mr 0"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -52,5 +58,37 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0383.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0383.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "10",
+        "15"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "2nd Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

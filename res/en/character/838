@@ -79,6 +79,10 @@
       }
     ]
   },
+  "aliases": [
+    "Ｍ（マスター）・シーザー",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -99,9 +103,60 @@
     25,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 838,
+    "evolvers": [
+      83,
+      86,
+      97,
+      302,
+      102
+    ],
+    "from": 837
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0838.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0838.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Clash! Whitebeard Pirates Fortnight",
+      "thumb": 979,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Shambles! Tashigi and Smoker?!? Fortnight",
+      "thumb": 1397,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Donquixote Doflamingo"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ]
 }

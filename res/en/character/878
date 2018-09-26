@@ -80,6 +80,12 @@
       }
     ]
   },
+  "aliases": [
+    "ジョーラ ドンキホーテ海賊団",
+    "",
+    "Giolla, Donquixote Pirates",
+    "Jora"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +106,59 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 878,
+    "evolvers": [
+      86,
+      266,
+      91,
+      97,
+      102
+    ],
+    "from": 877
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0878.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0878.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Queen of Kamabakka Queendom! Fortnight",
+      "thumb": 1037,
+      "data": [
+        "All Dificulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Chinjao Family! Fortnight",
+      "thumb": 1426,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Corazon"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

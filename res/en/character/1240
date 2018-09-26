@@ -28,6 +28,13 @@
     ],
     "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 3,000 : for each hit on Stage 1}<br>#{random : 3,000 : 6,000 : for each hit on Stage 2}<br>#{random : 10,000 : 16,000 : for each hit on Stage 3}<br>#{stages}"
   },
+  "aliases": [
+    "ボルサリーノ",
+    "",
+    "Kizaru",
+    "Legend Kizaru",
+    "Legend Borsalino"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -58,9 +65,59 @@
       267
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 1240,
+    "evolvers": [
+      118,
+      266,
+      98,
+      303,
+      267
+    ],
+    "from": 1239
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1240.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1240.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Chinjao Family! Fortnight",
+      "thumb": 1426,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Zou Royal Guard! Fortnight",
+      "thumb": 1812,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Borsalino"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ]
 }

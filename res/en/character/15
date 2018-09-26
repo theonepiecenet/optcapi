@@ -5,6 +5,11 @@
     "specialName": "Usopp Golden Pound",
     "captain": "Boosts ATK of [PSY] characters by 1.5x"
   },
+  "aliases": [
+    "ウソップ ゴールデンパウンド",
+    "Usopp Usopp-Pilon doré",
+    "GPU"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -51,5 +56,84 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0015.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0015.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Kuro's Master Plan Fortnight",
+      "thumb": 46,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Supersonic Duck Squadron! Fortnight",
+      "thumb": 445,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Jailbreak Battle! Mr. 3 and Buggy Fortnight",
+      "thumb": 1304,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Usopp'n Raid",
+      "thumb": 518,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Royale! Oars",
+      "thumb": 893,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Issho"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

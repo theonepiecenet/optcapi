@@ -5,6 +5,10 @@
     "specialName": "One, Two, Django",
     "captain": "Reduces damage received by 10%"
   },
+  "aliases": [
+    "１・２のジャンゴ",
+    "Jango l'hypnotiseur"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Slasher",
@@ -44,5 +48,53 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0043.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0043.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "04",
+        "12"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Kuro's Master Plan Fortnight",
+      "thumb": 46,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Hina's Resort Getaway Fortnight",
+      "thumb": 232,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Characters"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "1st Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

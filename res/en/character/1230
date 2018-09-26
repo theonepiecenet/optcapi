@@ -102,6 +102,11 @@
       }
     ]
   },
+  "aliases": [
+    "鉞の戦桃丸 海軍本部将校",
+    "",
+    "Sentoumaru"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -122,9 +127,59 @@
     22,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1230,
+    "evolvers": [
+      98,
+      99,
+      300,
+      303,
+      304
+    ],
+    "from": 1229
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1230.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1230.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Happiness! Fortnight",
+      "thumb": 1384,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Crisis in the 800 Year Old Kingdom! Fortnight",
+      "thumb": 1818,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Blackbeard"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ]
 }

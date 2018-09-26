@@ -7,6 +7,12 @@
     "captain": "Boosts ATK of [INT] characters by 3x if HP is below 30% at the start of the turn",
     "sailor": "Boosts base HP of Powerhouse characters by 100"
   },
+  "aliases": [
+    "X・ドレーク",
+    "",
+    "Supernova Drake",
+    "Supernova X Drake"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -41,5 +47,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0360.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0360.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

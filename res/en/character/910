@@ -81,6 +81,12 @@
       }
     ]
   },
+  "aliases": [
+    "チョッパーマスク 世界の平和を守るヒーロー",
+    "",
+    "3D2Y Chopper",
+    "Timeskip Chopper"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -101,9 +107,75 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 910,
+    "evolvers": [
+      118,
+      83,
+      87,
+      98,
+      103
+    ],
+    "from": 909
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0910.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0910.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Golden Lion Pirates' Attack! Fortnight",
+      "thumb": 1095,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Mysterious Warlord! Fortnight",
+      "thumb": 1581,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Shanks"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Monkey D. Luffy"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

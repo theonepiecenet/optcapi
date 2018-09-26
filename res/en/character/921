@@ -5,6 +5,12 @@
     "specialName": "Pure and Beautiful Shyness",
     "special": "Recovers 5000 HP and amplifies the effect of orbs by 1.5x for 2 turns"
   },
+  "aliases": [
+    "ボア・ハンコック 女ヶ島の花嫁",
+    "",
+    "Bridal Boa Hancock",
+    " Wedding Hancock"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +45,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0921.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0921.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "specialName": "Zombie Marionette Operation",
     "captain": "Boosts ATK of [INT] characters by 2x"
   },
+  "aliases": [
+    "ホグバック",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +43,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0385.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0385.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "06"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Dr. Hogback's Lab of the Dead Fortnight",
+      "thumb": 386,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

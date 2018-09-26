@@ -6,6 +6,11 @@
     "special": "Randomizes all orbs including [BLOCK] orbs. Amplifies the effect of orbs by 1.5x for 2 turns",
     "specialName": "Lot Stiffen"
   },
+  "aliases": [
+    "ムッシュール 毒胞子人間",
+    "",
+    "Coliseum Musshuru"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -26,9 +31,24 @@
     20,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1087,
+    "evolvers": [
+      117,
+      88,
+      99,
+      304,
+      104
+    ],
+    "from": 1086
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1087.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1087.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

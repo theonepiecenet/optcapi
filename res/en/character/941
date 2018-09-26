@@ -80,6 +80,12 @@
       }
     ]
   },
+  "aliases": [
+    "ウソップ おいはぎの森の果敢な戦士",
+    "",
+    "Timeskip Usopp",
+    "3D2Y Usopp"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Shooter",
@@ -97,9 +103,67 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 941,
+    "evolvers": [
+      94,
+      97,
+      97,
+      302,
+      102
+    ],
+    "from": 940
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0941.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0941.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Robin and Nami's Secret Undercover Investigation Fortnight",
+      "thumb": 1112,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Friends! Fortnight",
+      "thumb": 1564,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Ace"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

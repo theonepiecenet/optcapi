@@ -6,6 +6,10 @@
     "captain": "Boosts ATK of Fighter characters by 1.5x",
     "specialNotes": "#{random : 2,000 : 20,000}"
   },
+  "aliases": [
+    "ロブ・ルッチ サイファーポールNo.9",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -52,5 +56,37 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0632.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0632.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Tower of Law - Gates of Justice",
+      "thumb": 737,
+      "data": [
+        "12",
+        "14"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "4th Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

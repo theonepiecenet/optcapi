@@ -5,6 +5,11 @@
     "special": "Cuts the current HP of each enemy by 10%. Boosts ATK of Shooter characters by 1.5x for 1 turn",
     "specialName": "Handgun Legs"
   },
+  "aliases": [
+    "ベビー５ スパイダーマイルズの少女",
+    "",
+    "Kid Baby 5"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -38,5 +43,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1286.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1286.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Young Donquixote Pirates - Baby 5 And Buffalo Fortnight",
+      "thumb": 1287,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

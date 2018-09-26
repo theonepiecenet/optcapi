@@ -6,6 +6,14 @@
     "captain": "Boosts chances of getting [PSY] orbs, boosts ATK of [PSY] characters proportionally to the crew's current HP",
     "captainNotes": "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}"
   },
+  "aliases": [
+    "シャンクス 黒衣の赤髪",
+    "",
+    "Strong World Shanks",
+    "SW Shanks",
+    "Legend Shanks",
+    "Yonko"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +48,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0529.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0529.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

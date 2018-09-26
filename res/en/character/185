@@ -4,6 +4,10 @@
     "special": "Recovers 5x character's RCV in HP",
     "specialName": "Light Healing"
   },
+  "aliases": [
+    "サーベル一等兵 海軍",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Slasher",
@@ -29,9 +33,92 @@
       86
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 185,
+    "evolvers": [
+      80
+    ],
+    "from": 180
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0185.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0185.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Shells Town",
+      "thumb": 35,
+      "data": [
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "02",
+        "06"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Arlong Park",
+      "thumb": 65,
+      "data": [
+        "04"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "09",
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "03"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Enies Lobby Front Gate",
+      "thumb": 706,
+      "data": [
+        "01",
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "13",
+        "14"
+      ]
+    }
+  ],
+  "manual": []
 }

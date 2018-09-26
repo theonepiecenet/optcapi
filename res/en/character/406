@@ -5,6 +5,10 @@
     "specialName": "Skills of the Ancient Warriors",
     "specialNotes": "#{fixed}"
   },
+  "aliases": [
+    "将軍ゾンビ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Fighter",
@@ -26,5 +30,46 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0406.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0406.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "04",
+        "09",
+        "12"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Perv-salom's Very Manly Adventure Fortnight",
+      "thumb": 405,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Twilight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 761,
+      "data": [
+        "Global"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Perv-salom's Very Manly Adventure Fortnight",
+      "thumb": 405,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

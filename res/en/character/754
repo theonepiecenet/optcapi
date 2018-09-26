@@ -81,6 +81,11 @@
       }
     ]
   },
+  "aliases": [
+    "ジャブラ 歴代最強の「ＣＰ９」",
+    "",
+    "Jabura"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -101,9 +106,67 @@
     22,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 754,
+    "evolvers": [
+      118,
+      94,
+      96,
+      301,
+      101
+    ],
+    "from": 753
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0754.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0754.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Wapol's Revenge Fortnight",
+      "thumb": 852,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Mountaintop Banquet! Enter the Generals! Fortnight",
+      "thumb": 897,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Revealing the Truth! Fortnight",
+      "thumb": 1242,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ]
 }

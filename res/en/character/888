@@ -5,6 +5,10 @@
     "special": "Slightly reduces the ATK of all enemies by 10% for 3 turns",
     "specialNotes": "The reduction does not apply to damage from specials"
   },
+  "aliases": [
+    "ホロホロゴースト",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Free Spirit",
@@ -26,5 +30,37 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0888.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0888.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "01",
+        "02"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Dead End Begins! Raging Blast! Fortnight",
+      "thumb": 1072,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Shanks"
+      ]
+    }
+  ]
 }

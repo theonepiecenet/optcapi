@@ -6,6 +6,10 @@
     "specialNotes": "The exact multiplier used is chosen based on the number of [BLOCK] orbs consumed: 0 orbs - Cannot Activate; 1 orb - 20x ATK; 2 orbs - 40x ATK; 3 orbs - 100x ATK; 4 orbs - 200x ATK; 5 orbs - 300x ATK; 6 orbs - 500x ATK.",
     "specialName": "Admiral Killer Bowling"
   },
+  "aliases": [
+    "オオロンブス",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +44,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1126.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1126.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

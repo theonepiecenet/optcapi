@@ -4,6 +4,12 @@
     "special": "Recovers 5x character's RCV in HP, boosts ATK and RCV of [DEX] characters by 1.25x for 2 turns",
     "specialName": "Midsummer Relax Time"
   },
+  "aliases": [
+    "アイス大好きナミ",
+    "",
+    "Summertime Nami",
+    "Swimsuit Nami"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -38,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0680.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0680.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Girls of Summer Paradise",
+      "thumb": 683,
+      "data": [
+        "Part 1"
+      ]
+    }
+  ],
+  "manual": []
 }

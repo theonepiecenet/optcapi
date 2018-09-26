@@ -5,6 +5,10 @@
     "special": "Reduces crew's current HP by 30%. Boosts ATK of Powerhouse characters by 1.5x",
     "specialName": "Leader of the Jailers"
   },
+  "aliases": [
+    "サルデス 牢番長",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +33,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1154.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1154.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Impel Down",
+      "thumb": 1159,
+      "data": [
+        "04"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Happiness! Fortnight",
+      "thumb": 1384,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Whitebeard"
+      ]
+    }
+  ]
 }

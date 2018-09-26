@@ -84,6 +84,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ロロノア・ゾロ_獅子歌歌（ししソンソン）",
+    "",
+    "LS Zoro"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -104,9 +109,84 @@
     25,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 219,
+    "evolvers": [
+      118,
+      86,
+      102,
+      94,
+      91
+    ],
+    "from": 218
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0219.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0219.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Smoker's Great Pursuit Fortnight",
+      "thumb": 268,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Adrift!? Humming Brook Fortnight",
+      "thumb": 424,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "T-Bone's Absolute Justice Fortnight",
+      "thumb": 724,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Trafalgar Law"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Pirate Hunter's Memories of Training",
+      "thumb": 1900,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -83,6 +83,10 @@
       }
     ]
   },
+  "aliases": [
+    "短筒使いのイゾウ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -103,9 +107,75 @@
     20,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 257,
+    "evolvers": [
+      118,
+      86,
+      94,
+      97,
+      102
+    ],
+    "from": 256
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0257.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0257.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Deep Sea Kraken Fortnight",
+      "thumb": 341,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Domino's Special Security Fortnight",
+      "thumb": 538,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Shambles! Tashigi and Smoker?!? Fortnight",
+      "thumb": 1397,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Royale! Oars",
+      "thumb": 893,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Borsalino"
+      ]
+    }
+  ]
 }

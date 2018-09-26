@@ -4,6 +4,10 @@
     "special": "Changes [DEX] orbs into [RCV] orbs",
     "specialName": "[DEX] Slot Change [RCV]"
   },
+  "aliases": [
+    "狙撃隊　武装隊員 グリーンパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Shooter",
@@ -21,9 +25,22 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 286,
+    "evolvers": [
+      115,
+      116,
+      91
+    ],
+    "from": 159
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0286.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0286.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

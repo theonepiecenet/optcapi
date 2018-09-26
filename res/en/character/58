@@ -6,6 +6,10 @@
     "specialName": "MH5",
     "captain": "Reduces damage received by 20%"
   },
+  "aliases": [
+    "首領・クリーク 猛毒ガス弾「Ｍ・Ｈ・５」",
+    "Don Krieg Bombe à gaz toxique MH5"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -26,9 +30,32 @@
     15,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 58,
+    "evolvers": [
+      117,
+      82,
+      93,
+      104
+    ],
+    "from": 57
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0058.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0058.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Krieg's Assault! Fortnight",
+      "thumb": 58,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

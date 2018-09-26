@@ -1,5 +1,9 @@
 {
   "name": "Blue Pirate Penguin",
+  "aliases": [
+    "赤海賊ペンギン",
+    "Pingouin pirate bleu"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Evolver",
@@ -18,5 +22,159 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0085.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0085.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Twin Cape",
+      "thumb": 213,
+      "data": [
+        "07",
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Whiskey Peak",
+      "thumb": 201,
+      "data": [
+        "04"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "04"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "09"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Tower of Law - Gates of Justice",
+      "thumb": 737,
+      "data": [
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Penguin Long Beach",
+      "thumb": 266,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lucci's Artisan Spirit Fortnight",
+      "thumb": 322,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Mihawk Raid",
+      "thumb": 1680,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Ivankov Raid",
+      "thumb": 390,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Eneru Raid",
+      "thumb": 603,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Eneru Raid",
+      "thumb": 1930,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -4,6 +4,10 @@
     "special": "Randomizes slots with [STR], [QCK], [INT] or [PSY] orbs",
     "specialName": "Pegasus' Neigh"
   },
+  "aliases": [
+    "ピエール",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Fighter",
@@ -25,5 +29,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0714.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0714.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Sky Night Ganfor Fortnight",
+      "thumb": 713,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

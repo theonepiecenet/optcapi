@@ -6,6 +6,11 @@
     "specialName": "Tooth Gum",
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [STR] characters by 2x"
   },
+  "aliases": [
+    "アーロン タイヨウの海賊団",
+    "",
+    "Young Arlong"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,9 +31,24 @@
     24,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 656,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ],
+    "from": 655
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0656.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0656.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

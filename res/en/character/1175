@@ -83,6 +83,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ロロノア・ゾロ 信念に生きる麦わらの一味",
+    "",
+    "New Strong World Zoro",
+    "SW Zoro"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -103,9 +109,92 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1175,
+    "evolvers": [
+      118,
+      83,
+      97,
+      302,
+      102
+    ],
+    "from": 1174
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1175.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1175.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Queen of Kamabakka Queendom! Fortnight",
+      "thumb": 1037,
+      "data": [
+        "All Dificulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Battle Royale! Fortnight",
+      "thumb": 1766,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sengoku"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Pirate Hunter's Memories of Training",
+      "thumb": 1900,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -4,6 +4,10 @@
     "special": "Changes [STR] orbs into [QCK] orbs",
     "specialName": "[STR] Slot Change [QCK]"
   },
+  "aliases": [
+    "ナギナタ三等兵 海軍",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -31,5 +35,66 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0181.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0181.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Shells Town",
+      "thumb": 35,
+      "data": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "08"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "02",
+        "06"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Arlong Park",
+      "thumb": 65,
+      "data": [
+        "04"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "13"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -7,6 +7,10 @@
     "sailor": "Makes [PSY] orbs \"beneficial\" for this character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "重火器使いのクリエル",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -27,9 +31,68 @@
     18,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 457,
+    "evolvers": [
+      118,
+      83,
+      88,
+      304,
+      104
+    ],
+    "from": 456
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0457.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0457.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Raging Cook! Red Leg Zeff Fortnight",
+      "thumb": 607,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Wapol's Revenge Fortnight",
+      "thumb": 852,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Dead-On Prophecy?! Madam Sharley Fortnight",
+      "thumb": 1670,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Issho"
+      ]
+    }
+  ]
 }

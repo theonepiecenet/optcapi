@@ -6,6 +6,11 @@
     "specialName": "Vivi's Important Security Guard",
     "captain": "Recovers 2x character's RCV in HP at the end of each turn"
   },
+  "aliases": [
+    "ネフェルタリ・ビビ アラバスタ王国王女",
+    "",
+    "Young Vivi"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +45,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0663.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0663.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Fight! Sand-Sand Band!! Fortnight",
+      "thumb": 664,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

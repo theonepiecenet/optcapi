@@ -4,6 +4,10 @@
     "special": "Deals random [STR] damage to one enemy",
     "specialName": "Demolisher Axe"
   },
+  "aliases": [
+    "怪力デストロイヤーズ 斧使い",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -28,5 +32,39 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0615.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0615.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "03",
+        "04",
+        "06"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tom's Workers Fortnight",
+      "thumb": 848,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Behind the Scenes Intelligency Agency: CP9 Fortnight",
+      "thumb": 1137,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

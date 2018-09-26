@@ -5,6 +5,13 @@
     "specialName": "Cien Fleur Spider Net",
     "captain": "Boosts ATK and RCV of [PSY] characters by 1.5x, boosts chances of getting [PSY] orbs"
   },
+  "aliases": [
+    "ニコ・ロビン 航海の夢「空白の歴史の解明」",
+    "",
+    "Log Robin",
+    "Endless Dream Robin",
+    "Nico Robin, A Vow in the Great Age of Pirates - 100-Year Void"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +32,27 @@
     19,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 679,
+    "evolvers": [
+      117,
+      87,
+      94,
+      303,
+      103
+    ],
+    "from": 678
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0679.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0679.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

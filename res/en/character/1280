@@ -5,6 +5,11 @@
     "special": "Deals 10,000 fixed damage to all enemies and locks all orbs for 1 turn",
     "specialName": "Ice Chunks - Trident"
   },
+  "aliases": [
+    "青キジ 海軍本部大将",
+    "",
+    "Kuzan"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,54 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1280.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1280.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "The Bay - Oris Plaza",
+      "thumb": 1283,
+      "data": [
+        "03",
+        "09"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "7th Stage",
+        "8th Stage"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Prepare for Battle! Aokiji and Akainu!",
+      "thumb": 1280,
+      "data": [
+        "Aokiji"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Departure! Whitebeard Pirates Fortnight",
+      "thumb": 1509,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Whitebeard"
+      ]
+    }
+  ]
 }

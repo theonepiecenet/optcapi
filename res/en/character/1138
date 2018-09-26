@@ -5,6 +5,10 @@
     "special": "Reduces damage received by 60% and boosts ATK of Powerhouse and Fighter characters by 1.3x for 1 turn",
     "specialName": "Iron Mass: Ring Sneak Attack"
   },
+  "aliases": [
+    "ブルーノ 世界政府直下暗躍諜報機関",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +33,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1138.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1138.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Behind the Scenes Intelligency Agency: CP9 Fortnight",
+      "thumb": 1137,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

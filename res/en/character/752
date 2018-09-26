@@ -81,6 +81,13 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "カリファ 歴代最強の「ＣＰ９」",
+    "",
+    "Califa, CP9's Strongest Generation",
+    "Calipha, CP9's Strongest Generation",
+    "Kalipha, CP9's Strongest Generation"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -101,9 +108,67 @@
     21,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 752,
+    "evolvers": [
+      118,
+      83,
+      85,
+      301,
+      101
+    ],
+    "from": 751
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0752.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0752.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Hannyabal's Great Ambition Fortnight",
+      "thumb": 929,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Jailbreak Battle! Mr. 3 and Buggy Fortnight",
+      "thumb": 1304,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Whitebeard"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ]
 }

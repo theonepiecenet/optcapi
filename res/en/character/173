@@ -4,6 +4,10 @@
     "special": "Reduces damage received by 20% for 1 turn",
     "specialName": "Iron Shield"
   },
+  "aliases": [
+    "狙撃隊 隊長",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -25,5 +29,99 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0173.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0173.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Orange Town",
+      "thumb": 38,
+      "data": [
+        "06"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "08"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "07",
+        "10",
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Arlong Park",
+      "thumb": 65,
+      "data": [
+        "01",
+        "03",
+        "05",
+        "10",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "03"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Twin Cape",
+      "thumb": 213,
+      "data": [
+        "03",
+        "05"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "06"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "09",
+        "10"
+      ]
+    }
+  ],
+  "manual": []
 }

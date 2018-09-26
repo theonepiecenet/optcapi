@@ -6,6 +6,10 @@
     "specialName": "KEEP OUT",
     "captain": "Boosts ATK of Slasher characters by 1.5x, deals 5x character's ATK in [QCK] damage to all enemies at the end of each turn"
   },
+  "aliases": [
+    "イナズマ 革命軍",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,9 +30,67 @@
     18,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 677,
+    "evolvers": [
+      94,
+      96,
+      96,
+      301,
+      301
+    ],
+    "from": 676
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0677.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0677.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Breed's Sea Animal Circus! Fortnight",
+      "thumb": 797,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Riverside Banquet! Enter the Crazy Ones! Fortnight",
+      "thumb": 885,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Rumbar Pirates! Fortnight",
+      "thumb": 1203,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Boa Hancock"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Judge"
+      ]
+    }
+  ]
 }

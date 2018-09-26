@@ -7,6 +7,16 @@
     "specialNotes": "If Blackbeard is not a captain, the effect works exactly like Whitebeard special and is affected by barriers.<br>#{ignoreBarrier}",
     "specialName": "World Shaking Impact"
   },
+  "aliases": [
+    "マーシャル・D・ティーチ 黒ひげ海賊団船長",
+    "",
+    "BB",
+    "Legend Blackbeard",
+    "Legend BB",
+    "Legend Marshall D. Teach",
+    "Legend Teach",
+    "Yonko"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -41,5 +51,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1267.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1267.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

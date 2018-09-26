@@ -4,6 +4,10 @@
     "special": "Changes [DEX] orbs into [QCK] orbs",
     "specialName": "[DEX] Slot Change [QCK]"
   },
+  "aliases": [
+    "突撃隊　武装隊員 ブルーパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -21,9 +25,21 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 280,
+    "evolvers": [
+      79,
+      85
+    ],
+    "from": 153
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0280.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0280.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

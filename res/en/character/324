@@ -6,6 +6,10 @@
     "specialName": "Mountain Wind",
     "captain": "Boosts HP and RCV of [QCK] characters by 1.5x"
   },
+  "aliases": [
+    "カク 1番ドック大工職職長",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,9 +30,24 @@
     17,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 324,
+    "evolvers": [
+      117,
+      90,
+      85,
+      96,
+      101
+    ],
+    "from": 323
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0324.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0324.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

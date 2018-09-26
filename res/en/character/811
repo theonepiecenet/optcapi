@@ -4,6 +4,10 @@
     "specialName": "Birdbrain Present",
     "special": "Changes own orb into DEX, switches orbs between slots once"
   },
+  "aliases": [
+    "リスキー兄弟",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -28,5 +32,30 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0811.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0811.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Operation: Proposal! Fortnight",
+      "thumb": 808,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Operation: Proposal! Fortnight",
+      "thumb": 808,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ]
 }

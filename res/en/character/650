@@ -6,6 +6,13 @@
     "specialName": "Thunder Lance Tempo",
     "captain": "Boosts ATK of [INT] characters by 2x and their RCV by 1.5x"
   },
+  "aliases": [
+    "ナミ 航海の記録・麦わらの一味",
+    "",
+    "Log Nami",
+    "Endless Dream Nami",
+    "Nami, Wake of an Endless Dream - Straw Hat Pirates"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +47,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0650.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0650.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

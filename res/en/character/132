@@ -4,6 +4,10 @@
     "special": "Changes [DEX] orbs into [QCK] orbs",
     "specialName": "[DEX] Slot Change [QCK]"
   },
+  "aliases": [
+    "突撃隊 雑用 ブルーパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -31,5 +35,61 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0132.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0132.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Alvida's Hideout",
+      "thumb": 29,
+      "data": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Orange Town",
+      "thumb": 38,
+      "data": [
+        "04",
+        "06",
+        "11",
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "04",
+        "05"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "01",
+        "05",
+        "06"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Arlong Park",
+      "thumb": 65,
+      "data": [
+        "02",
+        "09",
+        "11",
+        "15"
+      ]
+    }
+  ],
+  "manual": []
 }

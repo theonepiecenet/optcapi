@@ -4,6 +4,10 @@
     "special": "Changes [TND] orbs into [DEX] orbs",
     "specialName": "[TND] Slot Change [DEX]"
   },
+  "aliases": [
+    "サーベルミリオンズ バロックワークス",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Slasher",
@@ -33,5 +37,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0238.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0238.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Whiskey Peak",
+      "thumb": 201,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "07",
+        "14"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "02"
+      ]
+    }
+  ],
+  "manual": []
 }

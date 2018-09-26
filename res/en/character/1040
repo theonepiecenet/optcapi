@@ -5,6 +5,11 @@
     "special": "Deals 30x the character's ATK as [STR] damage to all enemies. Boosts ATK of everyone by 1.5x if HP is below 30% at the time the special is activated",
     "specialName": "Ice Throw"
   },
+  "aliases": [
+    "ジョズ 白ひげ海賊団３番隊隊長",
+    "",
+    "Coliseum Jozu"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1040.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1040.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

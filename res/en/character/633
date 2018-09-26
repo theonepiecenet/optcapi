@@ -6,6 +6,10 @@
     "captain": "Boosts ATK of Fighter characters by 2x",
     "specialNotes": "#{random : 2,000 : 20,000}"
   },
+  "aliases": [
+    "ロブ・ルッチ 六式 サイファーポールNo.9",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -52,5 +56,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0633.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0633.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Lightning Speed! Strawhat Crew's Surprise Visit Fortnight",
+      "thumb": 866,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "World Pirates! Fortnight",
+      "thumb": 1215,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Rob Lucci"
+      ]
+    }
+  ]
 }

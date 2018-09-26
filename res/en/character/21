@@ -5,6 +5,10 @@
     "specialName": "Hearty Yell",
     "captain": "Boosts RCV of [PSY] characters by 1.2x"
   },
+  "aliases": [
+    "トニートニー・チョッパー",
+    "Tony Tony Chopper"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Fighter",
@@ -62,5 +66,54 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0021.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0021.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "07",
+        "Completion Units"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Straw Hat Pirates!",
+      "thumb": 1387,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "21st Anniversary Island",
+      "thumb": 1682,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Alvida's Romance Fortnight",
+      "thumb": 30,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lucci's Artisan Spirit Fortnight",
+      "thumb": 322,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

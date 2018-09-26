@@ -5,6 +5,10 @@
     "specialName": "Red Leg Kick",
     "captain": "Boosts ATK of Fighter characters by 2x if HP is above 50% at the start of the turn"
   },
+  "aliases": [
+    "海賊ゼフ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +43,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0606.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0606.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Raging Cook! Red Leg Zeff Fortnight",
+      "thumb": 607,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

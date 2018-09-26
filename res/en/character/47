@@ -4,6 +4,10 @@
     "special": "Changes [TND] orbs into [RCV] orbs",
     "specialName": "[TND] Slot Change [RCV]"
   },
+  "aliases": [
+    "ヨサク",
+    "Yosaku"
+  ],
   "unit": {
     "type": "STR",
     "class": "Slasher",
@@ -25,5 +29,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0047.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0047.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Rising Sun, Rising Fortunes Fortnight",
+      "thumb": 420,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Perona's Wonder Garden Fortnight",
+      "thumb": 392,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

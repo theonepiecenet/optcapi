@@ -6,6 +6,12 @@
     "captain": "Boosts ATK of Shooter characters by 2x",
     "sailor": "Boosts base RCV of Shooter characters by 10"
   },
+  "aliases": [
+    "ウソップ 夢を追い求める冒険者",
+    "",
+    "New Strong World Usopp",
+    "SW Usopp"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Shooter",
@@ -37,5 +43,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1209.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1209.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

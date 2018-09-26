@@ -5,6 +5,11 @@
     "specialName": "Bonney's Holiday Feast",
     "special": "Changes adjacent orbs into [RCV] orbs, boosts RCV of [PSY] characters by 1.5x for 1 turn"
   },
+  "aliases": [
+    "ジュエリー・ボニー 食いしん坊のわがままサンタ",
+    "",
+    "Supernova Bonney"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +44,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0857.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0857.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

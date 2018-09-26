@@ -5,6 +5,10 @@
     "specialName": "Demonic Dance",
     "captain": "Reduces damage received from [QCK] enemies by 50%"
   },
+  "aliases": [
+    "鬼人ギン",
+    "Gyn le démon enragé"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -22,9 +26,39 @@
     15,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 54,
+    "evolvers": [
+      116,
+      79,
+      90
+    ],
+    "from": 53
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0054.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0054.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Hina's Resort Getaway Fortnight",
+      "thumb": 232,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lucci's Artisan Spirit Fortnight",
+      "thumb": 322,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,10 @@
     "specialName": "[RCV] Slot Storm",
     "captain": "Reduces damage received from Shooter enemies by 30%"
   },
+  "aliases": [
+    "ガイモン",
+    "Gaimon"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -26,5 +30,41 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0040.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0040.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Orange Town",
+      "thumb": 38,
+      "data": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Alvida's Romance Fortnight",
+      "thumb": 30,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Deep Sea Kraken Fortnight",
+      "thumb": 341,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

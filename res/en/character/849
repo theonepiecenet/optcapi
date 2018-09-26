@@ -5,6 +5,12 @@
     "specialName": "Battle Franky 9",
     "special": "Deals 5 hits of random [STR] damage to random enemies, reduces the defense of all enemies by 50% for 2 turns"
   },
+  "aliases": [
+    "カティ・フラム トムズ　ワーカーズ",
+    "",
+    "Franky, Tom's Workers",
+    "Young Franky"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +35,30 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0849.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0849.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Tom's Workers Fortnight",
+      "thumb": 848,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tom's Workers Fortnight",
+      "thumb": 848,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ]
 }

@@ -4,6 +4,10 @@
     "special": "Changes [QCK] orbs into [INT] orbs",
     "specialName": "[QCK] Slot Change [INT]"
   },
+  "aliases": [
+    "バズーカビリオンズ バロックワークス",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Shooter",
@@ -21,9 +25,22 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 246,
+    "evolvers": [
+      115,
+      93,
+      99
+    ],
+    "from": 241
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0246.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0246.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

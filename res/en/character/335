@@ -4,6 +4,13 @@
     "special": "Recovers 5x character's RCV in HP",
     "specialName": "Light Healing"
   },
+  "aliases": [
+    "ラパーン 成獣",
+    "",
+    "Lapahn Adult",
+    "Lapan Adult",
+    "Rapan Adult"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -24,9 +31,47 @@
     12,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 335,
+    "evolvers": [
+      116,
+      82,
+      304
+    ],
+    "from": 334
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0335.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0335.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Dr. Hogback's Lab of the Dead Fortnight",
+      "thumb": 386,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Shandia - Dreams of a Homeland! Fortnight",
+      "thumb": 583,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

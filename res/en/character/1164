@@ -5,6 +5,11 @@
     "special": "Boosts RCV by 1.5x for 1 turn and amplifies the effects of orbs by 1.5x for 1 turn",
     "specialName": "Sexy Diva"
   },
+  "aliases": [
+    "カリーナ",
+    "",
+    "Raid Carina"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -38,5 +43,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1164.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1164.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Gild Tesoro Raid",
+      "thumb": 1163,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

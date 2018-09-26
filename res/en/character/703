@@ -4,6 +4,10 @@
     "special": "Deals 5x character's ATK in [QCK] damage to all enemies",
     "specialName": "Arm Claw of the Watchdog"
   },
+  "aliases": [
+    "法の番犬部隊",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Slasher",
@@ -25,5 +29,44 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0703.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0703.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Enies Lobby Front Gate",
+      "thumb": 706,
+      "data": [
+        "05"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Riverside Banquet! Enter the Crazy Ones! Fortnight",
+      "thumb": 885,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Welcome To The Gran Tesoro! Fortnight",
+      "thumb": 1167,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Kuzan"
+      ]
+    }
+  ]
 }

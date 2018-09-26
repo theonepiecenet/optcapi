@@ -5,6 +5,11 @@
     "special": "Deals 13x character's ATK in [STR] damage to one enemy. For Free Spirit characters, amplifies the effects of orbs by 1.5x for 2 turns",
     "specialName": "Fatal Sneak Attack"
   },
+  "aliases": [
+    "ジャブラ 世界政府直下暗躍諜報機関",
+    "",
+    "Jabura"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1137.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1137.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Behind the Scenes Intelligency Agency: CP9 Fortnight",
+      "thumb": 1137,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

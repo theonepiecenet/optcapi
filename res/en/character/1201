@@ -8,6 +8,12 @@
     "sailor": "Reduces Silence duration on this character by 2 turns",
     "sailorNotes": "#{silence}"
   },
+  "aliases": [
+    "ヴァイオレット 紅潮のバカンス",
+    "",
+    "Summertime Viola",
+    "Swimsuit Viola"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -28,9 +34,24 @@
     22,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1201,
+    "evolvers": [
+      117,
+      79,
+      85,
+      96,
+      301
+    ],
+    "from": 1200
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1201.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1201.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -4,6 +4,10 @@
     "specialName": "Spike of the Warrior Defending Her Country",
     "special": "Reduces damage received from [STR] enemies by 50% for 2 turns"
   },
+  "aliases": [
+    "アフェランドラ",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Slasher",
@@ -25,5 +29,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0919.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0919.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Amazon Lily",
+      "thumb": 1056,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Secret Garden! Men are Forbidden!? Fortnight",
+      "thumb": 918,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -7,6 +7,10 @@
     "captain": "Boosts ATK of Fighter characters by 2x, deals 2x character's ATK in [DEX] damage to all enemies at the end of each turn",
     "sailor": "When HP is below 30% at the start of the turn, boosts ATK of Fighter characters by 100"
   },
+  "aliases": [
+    "ディカルバン兄弟",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Fighter",
@@ -38,5 +42,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0640.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0640.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

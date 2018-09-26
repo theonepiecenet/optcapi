@@ -5,6 +5,10 @@
     "special": "Switches orbs between slots once, recovers 0.3x character's RCV in HP",
     "specialName": "Great Scissors"
   },
+  "aliases": [
+    "イナズマ 変革を画策する乙女",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +29,23 @@
     11,
     3
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1039,
+    "evolvers": [
+      90,
+      91,
+      96,
+      97
+    ],
+    "from": 1038
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1039.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1039.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

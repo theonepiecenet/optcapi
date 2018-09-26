@@ -6,6 +6,11 @@
     "specialName": "Swallow Bond En Avant: Blossom",
     "captain": "Boosts ATK of [QCK] characters by 2x"
   },
+  "aliases": [
+    "ブルック　桜音色",
+    "",
+    "Sakura Brook"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,9 +31,27 @@
     18,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 534,
+    "evolvers": [
+      118,
+      79,
+      85,
+      96,
+      101
+    ],
+    "from": 533
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0534.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0534.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

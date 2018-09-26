@@ -5,6 +5,13 @@
     "specialName": "Great Flame Commandment: Flame Emperor",
     "captain": "Boosts HP of Shooter characters by 1.5x and boosts ATK of Shooter characters by 3x if they have a matching orb, by 2x otherwise"
   },
+  "aliases": [
+    "ポートガス・D・エース 黒衣の火拳",
+    "",
+    "Strong World Ace",
+    "SW Ace",
+    "Legend Ace"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0561.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0561.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

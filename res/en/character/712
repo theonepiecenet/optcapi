@@ -6,6 +6,12 @@
     "specialName": "Sky Knight's Javelin",
     "captain": "Boosts ATK of Striker characters by 2x if HP is above 50% at the start of the turn"
   },
+  "aliases": [
+    "ガン・フォール",
+    "",
+    "Gan Fall",
+    "ganfall"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -37,5 +43,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0712.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0712.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Sky Night Ganfor Fortnight",
+      "thumb": 713,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

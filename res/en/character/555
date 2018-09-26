@@ -6,6 +6,12 @@
     "captain": "Boosts ATK of Shooter characters by 2x",
     "sailor": "Boosts base RCV of Shooter characters by 10"
   },
+  "aliases": [
+    "ウソップ メルヴィユの冒険者",
+    "",
+    "Strong World Usopp",
+    "SW Usopp"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Shooter",
@@ -37,5 +43,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0555.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0555.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

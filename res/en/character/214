@@ -6,6 +6,10 @@
     "captain": "Protects from defeat as long as HP is above 50%",
     "captainNotes": "#{zombie}"
   },
+  "aliases": [
+    "ラブーン(ルフィ落書き)",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,9 +30,48 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 214,
+    "evolvers": [
+      117,
+      78,
+      95,
+      100
+    ],
+    "from": 213
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0214.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0214.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Deep Sea Kraken Fortnight",
+      "thumb": 341,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Adrift!? Humming Brook Fortnight",
+      "thumb": 424,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Captain Buggy"
+      ]
+    }
+  ]
 }

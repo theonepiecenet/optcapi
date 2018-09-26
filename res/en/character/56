@@ -5,6 +5,10 @@
     "specialName": "Fire Pearl Privilege",
     "captain": "Reduces damage received from [STR] enemies by 50%"
   },
+  "aliases": [
+    "ファイヤーパール",
+    "Fire Pearl"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +29,39 @@
     13,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 56,
+    "evolvers": [
+      116,
+      78,
+      89
+    ],
+    "from": 55
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0056.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0056.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Cobymeppo's Proving Ground! Fortnight",
+      "thumb": 263,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Kalifa's Secret Assignment Fortnight",
+      "thumb": 318,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

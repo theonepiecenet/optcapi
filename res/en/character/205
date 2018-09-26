@@ -3,6 +3,10 @@
   "detail": {
     "captain": "Boosts HP and RCV of [DEX] characters by 1.2x"
   },
+  "aliases": [
+    "ミス・ゴールデンウィーク",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -31,5 +35,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0205.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0205.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "12",
+        "15"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "2nd Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "specialName": "Munch-Munch Tongue Cannon",
     "captain": "Recovers 10x character's RCV in HP at the end of each turn"
   },
+  "aliases": [
+    "ワポル",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +43,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0326.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0326.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "13",
+        "15"
+      ]
+    }
+  ],
+  "manual": []
 }

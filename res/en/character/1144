@@ -5,6 +5,11 @@
     "special": "Deals 5x character's ATK in [PSY] damage to all enemies. Recovers 15x character's RCV in HP",
     "specialName": "Cutie Baton: Flower Shuriken"
   },
+  "aliases": [
+    "ポルチェ お花チアリーダーズ",
+    "",
+    "Coliseum Porche"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -38,5 +43,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1144.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1144.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

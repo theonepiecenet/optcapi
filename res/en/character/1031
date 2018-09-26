@@ -5,6 +5,10 @@
     "specialName": "Hero's Gungnir",
     "special": "Reduces crew's HP to 1, deals 10x the removed HP as damage to one enemy. Boosts own ATK by 2.25x for 1 turn."
   },
+  "aliases": [
+    "ハイルディン 海賊傭兵",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +29,51 @@
     23,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1031,
+    "evolvers": [
+      83,
+      87,
+      98,
+      303,
+      103
+    ],
+    "from": 1030
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1031.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1031.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Revealing the Truth! Fortnight",
+      "thumb": 1242,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Time of Revenge has Come! New Fishman Pirates! Fortnight",
+      "thumb": 1624,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Captain Buggy"
+      ]
+    }
+  ]
 }

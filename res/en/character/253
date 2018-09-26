@@ -80,6 +80,10 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ダイヤモンド・ジョズ",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -100,9 +104,83 @@
     15,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 253,
+    "evolvers": [
+      118,
+      85,
+      94,
+      96,
+      101
+    ],
+    "from": 252
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0253.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0253.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Kalifa's Secret Assignment Fortnight",
+      "thumb": 318,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Prison Break! Baroque Works Fortnight",
+      "thumb": 462,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Full Defense! Buddha Sengoku! Fortnight",
+      "thumb": 1416,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Royale! Oars",
+      "thumb": 893,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Boa Hancock"
+      ]
+    }
+  ]
 }

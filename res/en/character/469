@@ -4,6 +4,10 @@
     "special": "Switches orbs between slots once",
     "specialName": "Quick Change"
   },
+  "aliases": [
+    "黒のホワイトベレー部隊　隊員 スカイピア神隊",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Shooter",
@@ -33,5 +37,21 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0469.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0469.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "02",
+        "03",
+        "04"
+      ]
+    }
+  ],
+  "manual": []
 }

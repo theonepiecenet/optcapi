@@ -82,6 +82,13 @@
       }
     ]
   },
+  "aliases": [
+    "ジンベエ 王下七武海",
+    "",
+    "Jinbe Warlord of the Sea",
+    "Jimbei Warlord of the Sea",
+    "Jinbei Warlord of the Sea"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -102,9 +109,75 @@
     11,
     6
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 410,
+    "evolvers": [
+      118,
+      85,
+      94,
+      301,
+      101
+    ],
+    "from": 409
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0410.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0410.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Brother Soul! Afro Luffy! Fortnight",
+      "thumb": 571,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Time of Revenge has Come! New Fishman Pirates! Fortnight",
+      "thumb": 1624,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Crocodile"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Judge"
+      ]
+    }
+  ]
 }

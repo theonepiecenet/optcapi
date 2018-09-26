@@ -7,6 +7,10 @@
     "sailor": "Makes [PSY] orbs \"beneficial\" for this character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "クリエル",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -41,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0456.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0456.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

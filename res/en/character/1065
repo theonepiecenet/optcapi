@@ -6,6 +6,10 @@
     "specialNotes": "#{orb : 1.25x}",
     "specialName": "Slot Power Light"
   },
+  "aliases": [
+    "かしこい女剣士 九蛇の戦士",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Slasher",
@@ -27,5 +31,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1065.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1065.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Amazon Lily",
+      "thumb": 1056,
+      "data": [
+        "04",
+        "06"
+      ]
+    }
+  ],
+  "manual": []
 }

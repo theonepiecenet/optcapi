@@ -137,6 +137,14 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "白馬のキャベンディッシュ",
+    "",
+    "Hakuba",
+    "Cabbage",
+    "Legend Cavendish",
+    "Legend Hakuba"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -157,9 +165,59 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1123,
+    "evolvers": [
+      118,
+      85,
+      266,
+      301,
+      267
+    ],
+    "from": 1122
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1123.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1123.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Gather the Candy! Fortnight",
+      "thumb": 1357,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Royal Neptune Family! Fortnight",
+      "thumb": 1723,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Cavendish"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Fujitora"
+      ]
+    }
+  ]
 }

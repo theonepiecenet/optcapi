@@ -5,6 +5,11 @@
     "specialName": "Franken-Franky Centaur",
     "captain": "Boosts ATK of [STR] characters by 2x"
   },
+  "aliases": [
+    "フランキー フランケンシュタイン",
+    "",
+    "Halloween Franky"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +34,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0763.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0763.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Twilight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 761,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

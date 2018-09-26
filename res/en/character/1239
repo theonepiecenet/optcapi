@@ -28,6 +28,13 @@
     ],
     "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 3,000 : for each hit on Stage 1}<br>#{random : 3,000 : 6,000 : for each hit on Stage 2}<br>#{random : 10,000 : 16,000 : for each hit on Stage 3}<br>#{stages}"
   },
+  "aliases": [
+    "黄猿 海軍本部最高戦力",
+    "",
+    "Borsalino",
+    "Legend Kizaru",
+    "Legend Borsalino"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -62,5 +69,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1239.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1239.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

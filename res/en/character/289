@@ -4,6 +4,10 @@
     "special": "Reduces damage received by 20% for 1 turn",
     "specialName": "Iron Shield"
   },
+  "aliases": [
+    "砲撃手　敏腕",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Shooter",
@@ -21,9 +25,61 @@
     25,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 289,
+    "evolvers": [
+      104
+    ],
+    "from": 162
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0289.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0289.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "14"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "14"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Long Ring Long Land",
+      "thumb": 568,
+      "data": [
+        "09"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "09"
+      ]
+    }
+  ],
+  "manual": []
 }

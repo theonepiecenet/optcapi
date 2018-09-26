@@ -4,6 +4,10 @@
     "special": "Deals 20x character's ATK in [DEX] damage to one enemy. Boosts ATK against Strongly Poisoned enemies by 1.4x for 2 turns",
     "specialName": "Snake Press"
   },
+  "aliases": [
+    "ボア・サンダーソニア",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -37,5 +41,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1055.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1055.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Amazon Lily",
+      "thumb": 1056,
+      "data": [
+        "08",
+        "09"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "6th Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "special": "Deals 13x character's ATK as [PSY] damage to all enemies. Changes [BOMB], [EMPTY] and [TND] orbs to [PSY]",
     "specialName": "Gum-Gum Gigant Rifle: New Star"
   },
+  "aliases": [
+    "モンキー・D・ルフィ 海賊王への軌跡",
+    "",
+    "Anniversary Luffy"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1022.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1022.png"
-  }
+  },
+  "flags": {
+    "special": 1,
+    "global": 1,
+    "shop": 1
+  },
+  "drop": [],
+  "manual": []
 }

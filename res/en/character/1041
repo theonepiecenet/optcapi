@@ -80,6 +80,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "“ダイヤモンド”・ジョズ 白ひげ海賊団３番隊隊長",
+    "",
+    "Coliseum Jozu"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +105,24 @@
     29,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1041,
+    "evolvers": [
+      118,
+      83,
+      84,
+      95,
+      300
+    ],
+    "from": 1040
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1041.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1041.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

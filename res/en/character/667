@@ -6,6 +6,10 @@
     "specialNotes": "#{zombie}",
     "captain": "Reduces damage received by 10%, boosts ATK of all characters by 1.5x"
   },
+  "aliases": [
+    "ネフェルタリ・コブラ アラバスタ王国国王",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Fighter",
@@ -27,5 +31,30 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0667.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0667.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Fight! Sand-Sand Band!! Fortnight",
+      "thumb": 664,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fight! Sand-Sand Band!! Fortnight",
+      "thumb": 664,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ]
 }

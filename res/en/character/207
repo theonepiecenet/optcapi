@@ -3,6 +3,12 @@
   "detail": {
     "captain": "Reduces damage received from [PSY] enemies by 10%"
   },
+  "aliases": [
+    "Mr.2・ボン・クレー ",
+    "",
+    "Mr. 2 Bonclay",
+    "Mr 2 Bonclay"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +46,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0207.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0207.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "03",
+        "04"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Sanji"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "2nd Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

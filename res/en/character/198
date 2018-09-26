@@ -5,6 +5,10 @@
     "specialName": "[RCV] Slot Change [INT]",
     "captain": "Boosts ATK of Shooter characters by 1.5x"
   },
+  "aliases": [
+    "バズーカ少尉 海軍本部",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Shooter",
@@ -22,9 +26,23 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 198,
+    "evolvers": [
+      116,
+      117,
+      82,
+      88
+    ],
+    "from": 188
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0198.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0198.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

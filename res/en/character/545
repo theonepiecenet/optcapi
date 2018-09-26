@@ -6,6 +6,12 @@
     "specialNotes": "#{fixed}",
     "captain": "Boosts ATK of [PSY] characters by 2x"
   },
+  "aliases": [
+    "エネル",
+    "",
+    "Enel",
+    "God Enel"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +46,39 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0545.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0545.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "05",
+        "07",
+        "12"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "3rd Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "Kami's Return",
+      "thumb": 2232,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

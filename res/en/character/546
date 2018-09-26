@@ -6,6 +6,11 @@
     "specialNotes": "#{fixed}",
     "captain": "Boosts ATK of [PSY] characters by 2x, reduces damage received by 20%"
   },
+  "aliases": [
+    "ゴッド・エネル",
+    "",
+    "God Enel"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -26,9 +31,59 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 546,
+    "evolvers": [
+      118,
+      266,
+      92,
+      303,
+      103
+    ],
+    "from": 545
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0546.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0546.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Sky Night Ganfor Fortnight",
+      "thumb": 713,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Encounter! Whitebeard Pirates Fortnight",
+      "thumb": 946,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

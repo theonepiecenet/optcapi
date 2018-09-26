@@ -3,6 +3,10 @@
   "detail": {
     "captain": "Reduces damage received from [STR] enemies by 30%"
   },
+  "aliases": [
+    "パール",
+    "Pearl"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -32,5 +36,38 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0055.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0055.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "08",
+        "09",
+        "11"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Krieg's Assault! Fortnight",
+      "thumb": 58,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "1st Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

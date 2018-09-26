@@ -5,6 +5,10 @@
     "specialName": "Merciful Painkiller",
     "captain": "Recovers 5x character's RCV in HP at the end of each turn"
   },
+  "aliases": [
+    "クロッカス 双子岬の灯台守",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +29,40 @@
     21,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 588,
+    "evolvers": [
+      117,
+      304
+    ],
+    "from": 587
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0588.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0588.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Twilight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 761,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Boa Hancock"
+      ]
+    }
+  ]
 }

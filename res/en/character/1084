@@ -7,6 +7,13 @@
     "specialNotes": "Does not stack with other 'end of turn damage' abilities",
     "specialName": "Gravito: Heavens Fall"
   },
+  "aliases": [
+    "藤虎",
+    "",
+    "Issho",
+    "Legend Issho",
+    "Legend Fujitora"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -41,5 +48,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1084.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1084.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

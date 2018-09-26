@@ -4,6 +4,10 @@
     "special": "Reduces the defense of all enemies by 50% for 1 turn",
     "specialName": "Shield Crusher"
   },
+  "aliases": [
+    "サンドラ大トカゲ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Fighter",
@@ -25,5 +29,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0382.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0382.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "06",
+        "09"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Supersonic Duck Squadron! Fortnight",
+      "thumb": 445,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

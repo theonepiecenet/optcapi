@@ -6,6 +6,11 @@
     "specialNotes": "Poison damage deals 1,000 damage exactly and will ignore enemy armor at the end of your turn",
     "captain": "Boosts RCV of [DEX] characters by 3x if HP is below 30% at the start of the turn"
   },
+  "aliases": [
+    "ペローナ　スイート",
+    "",
+    "Valentine Perona"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +45,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0437.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0437.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

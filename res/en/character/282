@@ -4,6 +4,10 @@
     "special": "Changes [QCK] orbs into [RCV] orbs",
     "specialName": "[QCK] Slot Change [RCV]"
   },
+  "aliases": [
+    "突撃隊　武装隊員 イエローパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Striker",
@@ -21,9 +25,21 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 282,
+    "evolvers": [
+      81,
+      87
+    ],
+    "from": 155
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0282.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0282.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -6,6 +6,11 @@
     "specialNotes": "#{additionalDamage : 15x}",
     "specialName": "Fishman Karate, Midair Upwards Kick"
   },
+  "aliases": [
+    "コアラ 魚人空手師範代",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1241.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1241.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Revealing the Truth! Fortnight",
+      "thumb": 1242,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

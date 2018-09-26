@@ -79,6 +79,10 @@
       }
     ]
   },
+  "aliases": [
+    "ブルック 麦わらの一味",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -106,9 +110,58 @@
       267
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 896,
+    "evolvers": [
+      117,
+      86,
+      91,
+      97,
+      102
+    ],
+    "from": 895
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0896.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0896.png"
-  }
+  },
+  "flags": {
+    "special": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Rumbar Pirates! Fortnight",
+      "thumb": 1203,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Mysterious Warlord! Fortnight",
+      "thumb": 1581,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Borsalino"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

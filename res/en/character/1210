@@ -78,6 +78,12 @@
       }
     ]
   },
+  "aliases": [
+    "ウソップ 信念に生きる麦わらの一味",
+    "",
+    "New Strong World Usopp",
+    "SW Usopp"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Shooter",
@@ -95,9 +101,83 @@
     21,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1210,
+    "evolvers": [
+      118,
+      83,
+      96,
+      301,
+      101
+    ],
+    "from": 1209
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1210.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1210.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Twilight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 761,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Archaeologist Nico Olvia Fortnight",
+      "thumb": 1049,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Underground Trade Port! Escape! Fortnight",
+      "thumb": 1735,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Kuzan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

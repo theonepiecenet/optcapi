@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "マッハ・バイス ドンキホーテ海賊団",
+    "",
+    "Mach Vise"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -100,9 +105,68 @@
     15,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 991,
+    "evolvers": [
+      99,
+      304,
+      304,
+      104,
+      104
+    ],
+    "from": 990
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0991.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0991.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Dressrosa - Royal Palace Top Floor to Town Center",
+      "thumb": 2126,
+      "data": [
+        "03"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Welcome To The Gran Tesoro! Fortnight",
+      "thumb": 1167,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Friends! Fortnight",
+      "thumb": 1564,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

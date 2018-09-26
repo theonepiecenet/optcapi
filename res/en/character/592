@@ -1,5 +1,10 @@
 {
   "name": "Azure Hime Turtle",
+  "aliases": [
+    "蒼の竜宮カメ姫",
+    "",
+    "Princess Turtle"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Booster",
@@ -18,5 +23,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0592.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0592.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Princess Turtle's Dragon Palace",
+      "thumb": 595,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Straw Hats!",
+      "thumb": 1686,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Straw Hats!",
+      "thumb": 1757,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

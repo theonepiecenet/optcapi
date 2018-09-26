@@ -5,6 +5,11 @@
     "specialName": "Extra Special Candelabra",
     "captain": "Reduces damage received from [INT] enemies by 10%"
   },
+  "aliases": [
+    "Mr.3 特大キャンドルサービスセット",
+    "",
+    "Mr 3"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +30,63 @@
     13,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 204,
+    "evolvers": [
+      94,
+      82
+    ],
+    "from": 203
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0204.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0204.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Smoker's Great Pursuit Fortnight",
+      "thumb": 268,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Rising Sun, Rising Fortunes Fortnight",
+      "thumb": 420,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Sky Night Ganfor Fortnight",
+      "thumb": 713,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Whitebeard"
+      ]
+    }
+  ]
 }

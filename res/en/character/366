@@ -5,6 +5,12 @@
     "specialName": "Dark King's Aura",
     "captain": "Boosts chain multiplier by 4x"
   },
+  "aliases": [
+    "シルバーズ・レイリー",
+    "",
+    "Dark King Rayliegh",
+    "Legend Rayliegh"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0366.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0366.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

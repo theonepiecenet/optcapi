@@ -5,6 +5,13 @@
     "special": "Changes the orbs in the left column into [G], [QCK] and [DEX], the orbs in the right column into [STR], [PSY] and [INT]",
     "specialName": "Bluff Piracy"
   },
+  "aliases": [
+    "ニセ麦わらの一味",
+    "",
+    "Raid",
+    "Imposter",
+    "Fake"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +32,31 @@
     19,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 989,
+    "evolvers": [
+      986,
+      987,
+      988
+    ],
+    "from": 985
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0989.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0989.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    }
+  ]
 }

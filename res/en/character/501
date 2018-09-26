@@ -5,6 +5,10 @@
     "specialName": "Studying Medicine",
     "captain": "Boosts ATK, HP and RCV of [PSY] characters by 1.2x"
   },
+  "aliases": [
+    "カヤ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -38,5 +42,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0501.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0501.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

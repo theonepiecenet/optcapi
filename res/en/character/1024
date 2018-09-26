@@ -6,6 +6,10 @@
     "specialNotes": "Below 30% -> 1.75x orb boost, between 30% and 70% -> 1.5x, above 70% -> 1.25x",
     "specialName": "Eight-Impact Fist! Blow of Resentment"
   },
+  "aliases": [
+    "首領・チンジャオ",
+    "Don Chinjao"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +44,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1024.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1024.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

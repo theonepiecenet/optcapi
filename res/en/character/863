@@ -5,6 +5,11 @@
     "specialName": "Snow Crystal Clima-Tact",
     "special": "Reduces the defense of all enemies by 50% for 2 turns, reduces the ATK of all enemies by 10% for 2 turns"
   },
+  "aliases": [
+    "銀世界のナミ",
+    "",
+    "Winter Nami"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -29,5 +34,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0863.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0863.png"
-  }
+  },
+  "flags": {
+    "special": 1,
+    "global": 1,
+    "shop": 1
+  },
+  "drop": [],
+  "manual": []
 }

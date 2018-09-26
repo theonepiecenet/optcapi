@@ -4,6 +4,10 @@
     "special": "Changes [TND] orbs into [RCV] orbs",
     "specialName": "[TND] Slot Change [RCV]"
   },
+  "aliases": [
+    "ハイキングベア",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Fighter",
@@ -25,5 +29,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0610.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0610.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Twilight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 761,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Gather the Candy! Fortnight",
+      "thumb": 1357,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

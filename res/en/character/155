@@ -4,6 +4,10 @@
     "special": "Changes [QCK] orbs into [RCV] orbs",
     "specialName": "[QCK] Slot Change [RCV]"
   },
+  "aliases": [
+    "突撃隊 隊員 イエローパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Striker",
@@ -28,9 +32,73 @@
       87
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 155,
+    "evolvers": [
+      92
+    ],
+    "from": 134
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0155.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0155.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "04",
+        "05",
+        "08",
+        "12"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "04",
+        "05",
+        "07",
+        "10",
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Arlong Park",
+      "thumb": 65,
+      "data": [
+        "02",
+        "05",
+        "06",
+        "07",
+        "11",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "06"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "10"
+      ]
+    }
+  ],
+  "manual": []
 }

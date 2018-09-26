@@ -5,6 +5,10 @@
     "specialName": "Hands of the Dead",
     "special": "Switches orbs between slots three times"
   },
+  "aliases": [
+    "墓場のアブサロム スリラーバークの怪人",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +33,61 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0892.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0892.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "04",
+        "07"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Sanji"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "5th Stage"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Robin and Nami's Secret Undercover Investigation Fortnight",
+      "thumb": 1112,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Friends! Fortnight",
+      "thumb": 1564,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

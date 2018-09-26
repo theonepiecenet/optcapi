@@ -3,6 +3,10 @@
   "detail": {
     "captain": "Boosts ATK of Fighter characters by 1.2x"
   },
+  "aliases": [
+    "ミス・マンデー",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -32,5 +36,37 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0235.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0235.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Whiskey Peak",
+      "thumb": 201,
+      "data": [
+        "03",
+        "07"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lightning Speed! Strawhat Crew's Surprise Visit Fortnight",
+      "thumb": 866,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "2nd Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

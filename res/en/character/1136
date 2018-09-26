@@ -5,6 +5,10 @@
     "special": "For [QCK] characters, changes [TND] and [RCV] orbs into [QCK] orbs",
     "specialName": "Stern Beast: Secret Technique: 'Owl Thrasher' Sneak Attack"
   },
+  "aliases": [
+    "フクロウ 世界政府直下暗躍諜報機関",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -29,5 +33,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1136.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1136.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Behind the Scenes Intelligency Agency: CP9 Fortnight",
+      "thumb": 1137,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

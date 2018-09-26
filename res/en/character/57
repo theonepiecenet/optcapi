@@ -5,6 +5,10 @@
     "specialName": "Chain Hammer",
     "captain": "Reduces damage received by 10%"
   },
+  "aliases": [
+    "首領・クリーク",
+    "Don Krieg "
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -38,5 +42,37 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0057.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0057.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "05",
+        "15"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Krieg's Assault! Fortnight",
+      "thumb": 58,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "1st Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "雨のシリュウ",
+    "",
+    "Shiliew"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -100,9 +105,59 @@
     25,
     19
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1276,
+    "evolvers": [
+      118,
+      88,
+      99,
+      304,
+      104
+    ],
+    "from": 1275
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1276.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1276.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Full Defense! Buddha Sengoku! Fortnight",
+      "thumb": 1416,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Oh, Impermanence! Hawkins and Urouge! Fortnight",
+      "thumb": 1867,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Captain Buggy"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

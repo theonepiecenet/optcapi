@@ -3,6 +3,13 @@
   "detail": {
     "captainNotes": "Acts as a Daimyo Turtle and thus gives 15k EXP"
   },
+  "aliases": [
+    "デマロ・ブラック＆ショコラ ニセ麦わらの一味",
+    "",
+    "Raid",
+    "Imposter",
+    "Fake"
+  ],
   "unit": {
     "type": "STR",
     "class": "Driven",
@@ -29,5 +36,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0985.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0985.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

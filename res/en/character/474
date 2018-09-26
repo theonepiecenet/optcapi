@@ -4,6 +4,11 @@
     "special": "Deals 5x character's ATK in [DEX] damage to all enemies, reduces Bind duration by 1 turn",
     "specialName": "Milky Technique Axe"
   },
+  "aliases": [
+    "緑のゴッド近衛隊　隊員 スカイピア神兵",
+    "",
+    "Enel's Elect: Green Guard Skypiea Enforcer"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Slasher",
@@ -25,5 +30,21 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0474.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0474.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "05",
+        "07",
+        "12"
+      ]
+    }
+  ],
+  "manual": []
 }

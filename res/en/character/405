@@ -5,6 +5,10 @@
     "specialName": "Clear-Clear Fruit",
     "captain": "Boosts ATK of Shooter characters by 2x"
   },
+  "aliases": [
+    "墓場のアブサロム",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +29,24 @@
     23,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 405,
+    "evolvers": [
+      117,
+      84,
+      89,
+      95,
+      100
+    ],
+    "from": 404
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0405.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0405.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

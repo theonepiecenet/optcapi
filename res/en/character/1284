@@ -8,6 +8,11 @@
     "sailorNotes": "#{silence}",
     "specialName": "Wild Hunt"
   },
+  "aliases": [
+    "モンキー・D・ルフィ 野生の海賊",
+    "",
+    "Wild Luffy"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -42,5 +47,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1284.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1284.png"
-  }
+  },
+  "flags": {
+    "shop": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

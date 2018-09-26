@@ -6,6 +6,10 @@
     "specialName": "Mole Banana",
     "captain": "Boosts ATK and RCV of [QCK] characters by 1.2x"
   },
+  "aliases": [
+    "ミス・メリークリスマス モグラ人間",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Fighter",
@@ -23,9 +27,48 @@
     15,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 396,
+    "evolvers": [
+      79,
+      85,
+      90,
+      301
+    ],
+    "from": 395
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0396.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0396.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Prison Break! Baroque Works Fortnight",
+      "thumb": 462,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Camie and Hachi's Takoyaki Stand! Fortnight",
+      "thumb": 635,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Donquixote Doflamingo"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,9 @@
 {
   "name": "Black Pirate Penguin",
+  "aliases": [
+    "赤海賊ペンギン",
+    "Pingouin pirate noir"
+  ],
   "unit": {
     "type": "INT",
     "class": "Evolver",
@@ -18,5 +22,145 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0088.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0088.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "05"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Twin Cape",
+      "thumb": 213,
+      "data": [
+        "09",
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Whiskey Peak",
+      "thumb": 201,
+      "data": [
+        "09"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "06"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "08"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "12"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "06"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Amazon Lily",
+      "thumb": 1056,
+      "data": [
+        "04",
+        "07"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Penguin Long Beach",
+      "thumb": 266,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Black Arm Zephyr Raid",
+      "thumb": 353,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Aokiji Raid",
+      "thumb": 575,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Heart Memory",
+      "thumb": 1961,
+      "data": [
+        "Pudding"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Bartolomeo",
+        "Blackbeard",
+        "Donquixote Doflamingo",
+        "Sabo",
+        "Sengoku"
+      ]
+    }
+  ],
+  "manual": []
 }

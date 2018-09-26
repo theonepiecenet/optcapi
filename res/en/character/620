@@ -4,6 +4,10 @@
     "special": "Changes [INT] orbs into [QCK] orbs",
     "specialName": "[INT] Slot Change [QCK]"
   },
+  "aliases": [
+    "カタナチンピラ 青の賞金稼ぎ",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Slasher",
@@ -25,5 +29,30 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0620.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0620.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "09",
+        "11",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "01",
+        "10"
+      ]
+    }
+  ],
+  "manual": []
 }

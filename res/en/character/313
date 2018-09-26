@@ -5,6 +5,11 @@
     "specialName": "Karmic Punishment",
     "captain": "Boosts ATK of Striker characters by 2x and their HP by 1.5x"
   },
+  "aliases": [
+    "ウルージ",
+    "",
+    "Supernova Urouge"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +44,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0313.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0313.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

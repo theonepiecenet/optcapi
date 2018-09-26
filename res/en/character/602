@@ -6,6 +6,13 @@
     "specialNotes": "#{fixed}",
     "captain": "Boosts ATK of [QCK] characters by 2x"
   },
+  "aliases": [
+    "エネル ２億Ｖ　雷神",
+    "",
+    "Raid Enel, 200 Million Volt Thunder God",
+    "God Enel",
+    "Kami Eneru"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +47,30 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0602.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0602.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Eneru Raid",
+      "thumb": 603,
+      "data": [
+        "Expert",
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "Kami's Return",
+      "thumb": 2232,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

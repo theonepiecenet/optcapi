@@ -4,6 +4,13 @@
     "special": "Recovers 5x character's RCV in HP",
     "specialName": "Light Healing"
   },
+  "aliases": [
+    "ラパーン",
+    "",
+    "Lapahn",
+    "Lapan",
+    "Rapan"
+  ],
   "unit": {
     "type": "INT",
     "class": "Fighter",
@@ -33,5 +40,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0334.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0334.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Supersonic Duck Squadron! Fortnight",
+      "thumb": 445,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Chopper"
+      ]
+    }
+  ],
+  "manual": []
 }

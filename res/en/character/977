@@ -21,6 +21,12 @@
     ],
     "specialNotes": "#{stages}"
   },
+  "aliases": [
+    "黄猿",
+    "",
+    "Raid Borsalino",
+    "Raid Kizaru"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -55,5 +61,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0977.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0977.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Kizaru Raid",
+      "thumb": 978,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

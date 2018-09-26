@@ -5,6 +5,11 @@
     "special": "Deals 100,000 fixed damage to one enemy and boosts own ATK by 1.75x for 1 turn",
     "specialName": "Black Blade - Slashing Burial Drop"
   },
+  "aliases": [
+    "ジュラキュール・ミホーク 鷹の目",
+    "",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Slasher",
@@ -26,5 +31,45 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1227.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1227.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Marineford Bay",
+      "thumb": 1228,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "7th Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Chinjao Family! Fortnight",
+      "thumb": 1426,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Cavendish"
+      ]
+    }
+  ]
 }

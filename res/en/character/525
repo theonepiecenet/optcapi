@@ -6,6 +6,12 @@
     "captain": "Boosts ATK of [PSY] characters by 2x",
     "sailor": "Boosts base RCV of [PSY] characters by 15"
   },
+  "aliases": [
+    "ブルック メルヴィユの冒険者",
+    "",
+    "Strong World Brook",
+    "SW Brook"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -40,5 +46,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0525.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0525.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

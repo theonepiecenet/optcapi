@@ -7,6 +7,10 @@
     "sailor": "Restores his own special cooldown by 1 turn when it is rewinded",
     "sailorNotes": "#{rewind : 1}"
   },
+  "aliases": [
+    "遊騎士ドーマ",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Slasher",
@@ -24,9 +28,75 @@
     20,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 639,
+    "evolvers": [
+      118,
+      83,
+      96,
+      301,
+      101
+    ],
+    "from": 638
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0639.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0639.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fight! Sand-Sand Band!! Fortnight",
+      "thumb": 664,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Breed's Sea Animal Circus! Fortnight",
+      "thumb": 797,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Robin and Nami's Secret Undercover Investigation Fortnight",
+      "thumb": 1112,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Caribou Pirates! Fortnight",
+      "thumb": 1842,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Dracule Mihawk"
+      ]
+    }
+  ]
 }

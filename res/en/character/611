@@ -4,6 +4,11 @@
     "special": "Changes adjacent orbs into [RCV] orbs",
     "specialName": "[RCV] Slot Storm"
   },
+  "aliases": [
+    "プリンプリン",
+    "",
+    "Pudding Pudding"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -25,5 +30,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0611.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0611.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Golden Lion Pirates' Attack! Fortnight",
+      "thumb": 1095,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,14 @@
     "special": "Deals 25x ATK in [PSY] damage to one enemy. If HP is less than 30% then changes adjacent orbs into matching orbs",
     "specialName": "Double Edge of Revolt"
   },
+  "aliases": [
+    "X・ドレーク ドレーク海賊団",
+    "",
+    "Coliseum Drake",
+    "Coliseum X Drake",
+    "Supernova Drake",
+    "Supernova X Drake"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +47,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1090.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1090.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

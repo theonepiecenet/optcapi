@@ -3,8 +3,88 @@
   "detail": {
     "captain": "Boosts ATK of Powerhouse characters by 2.5x",
     "specialName": "Let's go, Jailer Beasts!",
-    "special": "Deals 15x ATK to 1 enemy in [QCK] damage, boosts ATK against enemies with reduced defense by 1.3x for 3 turns"
+    "special": "Deals 15x ATK to 1 enemy in [QCK] damage, boosts ATK against enemies with reduced defense by 1.3x for 3 turns",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV for this character by 50",
+      "level2": "If your Captain is a Free Spirit or Striker character, completely resists Blindness"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV for this character by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Boosts base HP by 110"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: If your Captain is a Free Spirit or Striker character, completely resists Blindness"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turn on this character",
+          "Level 3: Reduces Slot Bind duration by ? turn on this character",
+          "Level 4: Reduces Slot Bind duration by ? turn on this character",
+          "Level 5: Reduces Slot Bind duration by ? turn on this character"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
   },
+  "aliases": [
+    "獄卒長サディちゃん 獄卒獣の指揮官",
+    "",
+    "Coliseum Sadie",
+    "Secuurity Chief Sadie-chan"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +105,24 @@
     22,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 926,
+    "evolvers": [
+      117,
+      85,
+      90,
+      96,
+      101
+    ],
+    "from": 925
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0926.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0926.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

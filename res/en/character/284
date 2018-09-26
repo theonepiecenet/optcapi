@@ -4,6 +4,10 @@
     "special": "Deals 5x character's ATK in character's type damage to all enemies",
     "specialName": "Hyper Shot"
   },
+  "aliases": [
+    "狙撃隊　武装隊員 レッドパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": "Shooter",
@@ -21,9 +25,31 @@
     35,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 284,
+    "evolvers": [
+      115,
+      116,
+      89
+    ],
+    "from": 157
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0284.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0284.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "08"
+      ]
+    }
+  ],
+  "manual": []
 }

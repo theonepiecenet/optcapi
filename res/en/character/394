@@ -5,6 +5,11 @@
     "specialName": "The Tempest Called Love",
     "specialNotes": "#{fixed}"
   },
+  "aliases": [
+    "犬ッペ",
+    "",
+    "Inuppe"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Fighter",
@@ -26,5 +31,44 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0394.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0394.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "06"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Perona's Wonder Garden Fortnight",
+      "thumb": 392,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Perona's Wonder Garden Fortnight",
+      "thumb": 392,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

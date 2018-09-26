@@ -4,6 +4,10 @@
     "specialName": "Auto Repair",
     "special": "Recovers 3x character's RCV in HP at the end of each turn for 5 turns"
   },
+  "aliases": [
+    "ハートフル・ワイルドゾンビ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Powerhouse",
@@ -25,5 +29,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0824.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0824.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "07",
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "05"
+      ]
+    }
+  ],
+  "manual": []
 }

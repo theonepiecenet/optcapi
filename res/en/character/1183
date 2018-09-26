@@ -7,6 +7,11 @@
     "specialName": "Brass Knuckle Destruction",
     "sailor": "If HP is above 99% at the start of the turn, boosts ATK of [PSY] characters by 75"
   },
+  "aliases": [
+    "キングデュー",
+    "",
+    "Heman"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -41,5 +46,21 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1183.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1183.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Corazon"
+      ]
+    }
+  ]
 }

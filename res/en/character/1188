@@ -7,6 +7,10 @@
     "specialName": "Advancing Continuous Sword Attack",
     "sailor": "Boosts base ATK, HP and RCV of all characters by 20"
   },
+  "aliases": [
+    "水牛のアトモス",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -27,9 +31,43 @@
     23,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1188,
+    "evolvers": [
+      83,
+      84,
+      95,
+      300,
+      300
+    ],
+    "from": 1187
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1188.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1188.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tontatta Tribe: Find the Beloved Prince?! Fortnight",
+      "thumb": 1332,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Underground Trade Port! Escape! Fortnight",
+      "thumb": 1735,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

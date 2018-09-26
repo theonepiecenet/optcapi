@@ -5,6 +5,12 @@
     "specialName": "Midsummer Relax Time",
     "captain": "Boosts ATK and RCV of Striker characters by 1.5x"
   },
+  "aliases": [
+    "アイス大好きナミ レモンアイス",
+    "",
+    "Summertime Nami",
+    "Swimsuit Nami"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +31,24 @@
     20,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 681,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      302
+    ],
+    "from": 680
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0681.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0681.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

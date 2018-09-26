@@ -5,6 +5,10 @@
     "specialName": "Oimo Press",
     "captain": "Boosts HP of [PSY] characters by 2.25x"
   },
+  "aliases": [
+    "オイモ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +33,45 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0701.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0701.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Enies Lobby Front Gate",
+      "thumb": 706,
+      "data": [
+        "04"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Mountaintop Banquet! Enter the Generals! Fortnight",
+      "thumb": 897,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Gather! Whitebeard Alliance Fortnight",
+      "thumb": 1254,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Whitebeard"
+      ]
+    }
+  ]
 }

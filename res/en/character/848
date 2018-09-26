@@ -6,6 +6,10 @@
     "special": "Reduces Despair duration by 5 turns, boosts ATK of all characters by 5% for 3 turns, reduces damage received by 10% for 3 turns, amplifies the effect of orbs by 1.15x for 3 turns, recovers 2x character's RCV in HP at the end of each turn for 3 turns",
     "specialNotes": "#{orb : 1.15x}"
   },
+  "aliases": [
+    "伝説の船大工トム トムズ　ワーカーズ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -26,9 +30,24 @@
     25,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 848,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ],
+    "from": 847
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0848.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0848.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

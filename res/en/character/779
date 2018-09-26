@@ -6,6 +6,11 @@
     "specialName": "Undefeated Sword Technique",
     "captain": "Reduces damage received by 25%"
   },
+  "aliases": [
+    "レベッカ コロシアム専属剣闘士",
+    "",
+    "Coliseum Rebecca"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -23,9 +28,24 @@
     26,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 779,
+    "evolvers": [
+      117,
+      85,
+      94,
+      96,
+      301
+    ],
+    "from": 778
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0779.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0779.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "specialName": "Four Thousand Tile True Punch",
     "captain": "Boosts ATK of Fighter characters by 2x"
   },
+  "aliases": [
+    "ハック",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +43,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0672.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0672.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "specialName": "Ironclad Thrust: Dwarf Guard of the World",
     "special": "Deals 20,000 fixed damage to one enemy. Changes friend captain's orb into Matching orb"
   },
+  "aliases": [
+    "戦桃丸 海軍本部科学部隊隊長",
+    "",
+    "Sentoumaru"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -60,5 +65,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0974.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0974.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Gather! Whitebeard Alliance Fortnight",
+      "thumb": 1254,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sengoku"
+      ]
+    }
+  ]
 }

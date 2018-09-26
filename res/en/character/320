@@ -5,6 +5,10 @@
     "specialName": "Hook, Line and Sinker",
     "captain": "Boosts ATK of Striker characters by 2x"
   },
+  "aliases": [
+    "パウリー 1番ドック艤装(ぎそう)・マスト職職長",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Striker",
@@ -22,9 +26,24 @@
     20,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 320,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ],
+    "from": 319
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0320.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0320.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

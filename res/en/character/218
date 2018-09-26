@@ -5,6 +5,10 @@
     "specialName": "Streaming Wolf Swords",
     "captain": "Reduces damage received by 80% if HP is above 99% at the start of the turn"
   },
+  "aliases": [
+    "ゾロ_刀狼流し（とうろうながし）",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +43,70 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0218.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0218.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Lucci's Artisan Spirit Fortnight",
+      "thumb": 322,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Calgara & Noland! Fortnight",
+      "thumb": 688,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Royale! Oars",
+      "thumb": 893,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Issho"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Pirate Hunter's Memories of Training",
+      "thumb": 1900,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

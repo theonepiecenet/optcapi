@@ -4,6 +4,10 @@
     "special": "Reduces damage received from [STR] enemies by 50% for 1 turn",
     "specialName": "Crystal Shield STR"
   },
+  "aliases": [
+    "巨人射撃隊 ブルーパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Shooter",
@@ -33,5 +37,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0369.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0369.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "02"
+      ]
+    }
+  ],
+  "manual": []
 }

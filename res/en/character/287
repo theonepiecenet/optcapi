@@ -4,6 +4,10 @@
     "special": "Changes [PSY] orbs into [RCV] orbs",
     "specialName": "[PSY] Slot Change [RCV]"
   },
+  "aliases": [
+    "狙撃隊　武装隊員 イエローパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -21,9 +25,22 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 287,
+    "evolvers": [
+      115,
+      116,
+      92
+    ],
+    "from": 160
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0287.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0287.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "special": "Reduces damage received in the next turn by 50% if HP is less than 50%",
     "specialName": "Manifesto to the Weak"
   },
+  "aliases": [
+    "ジョン・ジャイアント",
+    "",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +34,44 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1279.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1279.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "The Bay - Oris Plaza",
+      "thumb": 1283,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Prepare for Battle! Aokiji and Akainu!",
+      "thumb": 1280,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Encourage the Soul! Fortnight",
+      "thumb": 1547,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Rob Lucci"
+      ]
+    }
+  ]
 }

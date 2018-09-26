@@ -4,6 +4,10 @@
     "specialName": "Carpet Scratch",
     "special": "Deals 13x character's ATK in [DEX] damage to a single enemy, changes captain's orb into [TND]"
   },
+  "aliases": [
+    "敷きグマ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -28,5 +32,45 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0814.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0814.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "04",
+        "06"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Queen of Kamabakka Queendom! Fortnight",
+      "thumb": 1037,
+      "data": [
+        "All Dificulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Fugitive of Love and Passion!! Fortnight",
+      "thumb": 1450,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Crocodile"
+      ]
+    }
+  ]
 }

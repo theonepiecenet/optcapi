@@ -7,6 +7,12 @@
     "captain": "Reduces damage received by 80% if HP is above 99% at the start of the turn",
     "sailor": "Reduces Paralysis by 3 turns for self"
   },
+  "aliases": [
+    "サンジ メルヴィユの冒険者",
+    "",
+    "Strong World Sanji",
+    "SW Sanji"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -41,5 +47,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0521.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0521.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

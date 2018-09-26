@@ -5,6 +5,10 @@
     "specialName": "Crystal Shield QCK",
     "captain": "Boosts HP of Striker characters by 1.5x"
   },
+  "aliases": [
+    "巨人女戦士近衛隊 グリーンパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Striker",
@@ -22,9 +26,22 @@
     25,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 375,
+    "evolvers": [
+      116,
+      91,
+      97
+    ],
+    "from": 370
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0375.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0375.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

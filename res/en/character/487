@@ -4,6 +4,10 @@
     "special": "Boosts ATK of [STR] characters by 1.2x for 1 turn",
     "specialName": "Attack Boost STR"
   },
+  "aliases": [
+    "赤の遊牧隊　隊員 シャンディアの戦士",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": "Striker",
@@ -32,5 +36,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0487.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0487.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "01"
+      ]
+    }
+  ],
+  "manual": []
 }

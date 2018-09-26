@@ -5,6 +5,10 @@
     "specialName": "Healing Power",
     "captain": "Boosts RCV of [PSY] characters by 1.5x"
   },
+  "aliases": [
+    "黄のホワイトベレー部隊　隊長 スカイピア神隊",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -22,9 +26,22 @@
     25,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 470,
+    "evolvers": [
+      116,
+      81,
+      98
+    ],
+    "from": 468
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0470.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0470.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

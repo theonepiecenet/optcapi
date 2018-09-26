@@ -79,6 +79,12 @@
       }
     ]
   },
+  "aliases": [
+    "“殺戮武人”キラー キッド海賊団",
+    "",
+    "Coliseum Killer",
+    "Supernova Killer"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -99,9 +105,24 @@
     18,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1043,
+    "evolvers": [
+      118,
+      86,
+      97,
+      302,
+      102
+    ],
+    "from": 1042
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1043.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1043.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

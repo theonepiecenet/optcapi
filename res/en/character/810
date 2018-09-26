@@ -6,6 +6,10 @@
     "special": "Reduces the defense of all enemies by 80% for 1 turn, amplifies the effect of orbs by 1.5x for 1 turn",
     "specialNotes": "#{orb : 1.5x}"
   },
+  "aliases": [
+    "求愛のローラ スリラーバークの花嫁",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -48,5 +52,10 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0810.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0810.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

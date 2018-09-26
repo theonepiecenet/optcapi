@@ -79,6 +79,10 @@
       }
     ]
   },
+  "aliases": [
+    "ベビー５ ドンキホーテ海賊団",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -99,9 +103,60 @@
     25,
     19
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 844,
+    "evolvers": [
+      118,
+      84,
+      95,
+      300,
+      100
+    ],
+    "from": 843
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0844.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0844.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Let's Find Our Captain! Heart Pirates! Fortnight",
+      "thumb": 1003,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Shambles! Tashigi and Smoker?!? Fortnight",
+      "thumb": 1397,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Zoro"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

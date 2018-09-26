@@ -5,6 +5,11 @@
     "special": "Reduces Paralysis and Bind duration by 2 turns. Deal 10x her ATK in [PSY] damage to one enemy",
     "specialName": "Caterpillar Soul Shot"
   },
+  "aliases": [
+    "ナイチン ワールド海賊団",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1217.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1217.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "World Pirates! Fortnight",
+      "thumb": 1215,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

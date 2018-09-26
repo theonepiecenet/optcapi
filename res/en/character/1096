@@ -5,6 +5,10 @@
     "special": "Deals [INT] damage to one enemy. Boosts own ATK by 1.75x for 1 turn.",
     "specialName": "Crash Drumming"
   },
+  "aliases": [
+    "スカーレット隊長",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +43,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1096.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1096.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Golden Lion Pirates' Attack! Fortnight",
+      "thumb": 1095,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

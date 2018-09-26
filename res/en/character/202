@@ -5,6 +5,10 @@
     "specialName": "10,000 Kill-O-Guillotine",
     "captain": "Boosts HP of Fighter characters by 2x"
   },
+  "aliases": [
+    "ミス・バレンタイン 1万キロギロチン",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Fighter",
@@ -22,9 +26,63 @@
     15,
     6
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 202,
+    "evolvers": [
+      94,
+      79
+    ],
+    "from": 201
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0202.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0202.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tsuru's Morning Stroll Fortnight",
+      "thumb": 297,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Adrift!? Humming Brook Fortnight",
+      "thumb": 424,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Sky Night Ganfor Fortnight",
+      "thumb": 713,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Cavendish"
+      ]
+    }
+  ]
 }

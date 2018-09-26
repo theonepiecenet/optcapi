@@ -5,6 +5,10 @@
     "specialName": "Poison of the Ancient Knight",
     "special": "Boosts ATK against Poisoned and Strongly Poisoned enemies by 1.05x for 999 turns"
   },
+  "aliases": [
+    "ジェネラルゾンビ　疾速の影",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -29,5 +33,32 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0827.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0827.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "08",
+        "09",
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "05",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  ],
+  "manual": []
 }

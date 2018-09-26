@@ -81,6 +81,13 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "魔術師バジル・ホーキンス ホーキンス海賊団船長",
+    "",
+    "Supernova Hawkins",
+    "Coliseum Hawkins",
+    "Coliseum Basil Hawkins"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -101,9 +108,24 @@
     24,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 831,
+    "evolvers": [
+      118,
+      86,
+      94,
+      302,
+      102
+    ],
+    "from": 830
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0831.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0831.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

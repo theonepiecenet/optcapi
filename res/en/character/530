@@ -136,6 +136,14 @@
       }
     ]
   },
+  "aliases": [
+    "シャンクス 黒衣の四皇",
+    "",
+    "Strong World Shanks",
+    "SW Shanks",
+    "Legend Shanks",
+    "Yonko"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -166,9 +174,70 @@
       267
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 530,
+    "evolvers": [
+      118,
+      87,
+      266,
+      98,
+      267
+    ],
+    "from": 529
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0530.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0530.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "T-Bone's Absolute Justice Fortnight",
+      "thumb": 724,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Butler and Strange Animal Island Fortnight",
+      "thumb": 1011,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Shanks"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Nekomamushi"
+      ]
+    }
+  ]
 }

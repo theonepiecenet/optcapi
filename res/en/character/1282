@@ -5,6 +5,11 @@
     "special": "Reduces cooldown of all specials by 1 turn. Boosts ATK of all characters by 1.2x and amplifies the effect of orbs by 1.2x for 1 turn",
     "specialName": "Encircling Wall around Marineford Bay"
   },
+  "aliases": [
+    "センゴク 海軍本部元帥",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,44 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1282.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1282.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "The Bay - Oris Plaza",
+      "thumb": 1283,
+      "data": [
+        "08"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "7th Stage"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Encourage the Soul! Fortnight",
+      "thumb": 1547,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

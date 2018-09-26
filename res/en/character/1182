@@ -80,6 +80,10 @@
       }
     ]
   },
+  "aliases": [
+    "カトラスのブレンハイム",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +104,43 @@
     19,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1182,
+    "evolvers": [
+      118,
+      83,
+      86,
+      97,
+      102
+    ],
+    "from": 1181
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1182.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1182.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Gather the Candy! Fortnight",
+      "thumb": 1357,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Underground Trade Port! Escape! Fortnight",
+      "thumb": 1735,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

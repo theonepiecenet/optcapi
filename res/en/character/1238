@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "鮫切りバスティーユ 海軍本部中将",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -99,9 +104,60 @@
     22,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1238,
+    "evolvers": [
+      84,
+      89,
+      94,
+      95,
+      100
+    ],
+    "from": 1237
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1238.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1238.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Shambles! Tashigi and Smoker?!? Fortnight",
+      "thumb": 1397,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Zou Royal Guard! Fortnight",
+      "thumb": 1812,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Dracule Mihawk",
+        "Rob Lucci"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Fujitora"
+      ]
+    }
+  ]
 }

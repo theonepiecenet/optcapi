@@ -5,6 +5,11 @@
     "special": "Recovers 3,000 HP and boosts ATK of Free Spirit characters by 1.75x for 1 turn",
     "specialName": "Looking to the Full Moon"
   },
+  "aliases": [
+    "エース 月下の艶肌",
+    "",
+    "Kimono Ace"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +30,27 @@
     14,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1266,
+    "evolvers": [
+      117,
+      78,
+      84,
+      95,
+      100
+    ],
+    "from": 1265
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1266.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1266.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

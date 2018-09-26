@@ -1,5 +1,9 @@
 {
   "name": "Blue Plated Lobster",
+  "aliases": [
+    "青アーマーロブスター",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Evolver",
@@ -18,5 +22,180 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0301.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0301.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "13",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "11",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "06",
+        "07"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "04"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Long Ring Long Land",
+      "thumb": 568,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "11",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Enies Lobby Front Gate",
+      "thumb": 706,
+      "data": [
+        "05"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Tower of Law - Gates of Justice",
+      "thumb": 737,
+      "data": [
+        "12",
+        "14"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Amazon Lily",
+      "thumb": 1056,
+      "data": [
+        "01",
+        "02"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Scissor Cavern, Entrance",
+      "thumb": 304,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Scissor Cavern, Innermost Grotto",
+      "thumb": 1180,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Eneru Raid",
+      "thumb": 603,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Eneru Raid",
+      "thumb": 1930,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Shanks",
+        "Issho",
+        "Kuzan",
+        "Marco",
+        "Zoro"
+      ]
+    }
+  ],
+  "manual": []
 }

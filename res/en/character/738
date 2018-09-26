@@ -5,6 +5,10 @@
     "specialName": "Ivory Rush",
     "captain": "Boosts ATK of characters with cost 21 or more by 2x"
   },
+  "aliases": [
+    "スパンダム",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Slasher",
@@ -26,5 +30,45 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0738.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0738.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Tower of Law - Gates of Justice",
+      "thumb": 737,
+      "data": [
+        "11"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "4th Stage"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Encounter! Whitebeard Pirates Fortnight",
+      "thumb": 946,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Tontatta Tribe: Find the Beloved Prince?! Fortnight",
+      "thumb": 1332,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

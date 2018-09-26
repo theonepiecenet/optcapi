@@ -5,6 +5,10 @@
     "specialName": "Surprise Ball Dragon",
     "captain": "Boosts HP of [PSY] characters by 2x"
   },
+  "aliases": [
+    "サトリ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +33,61 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0463.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0463.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "06"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "08"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "3rd Stage"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Apprentices! Shanks and Buggy! Fortnight",
+      "thumb": 599,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Wapol's Revenge Fortnight",
+      "thumb": 852,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Dracule Mihawk"
+      ]
+    }
+  ]
 }

@@ -6,6 +6,10 @@
     "specialName": "Jet Punch",
     "captain": "Boosts ATK of all characters by 3x after scoring 4 hits below Good in a row"
   },
+  "aliases": [
+    "ゲダツ",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Fighter",
@@ -27,5 +31,62 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0465.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0465.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "14"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "09"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "3rd Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Shark Attack! Arlong Pirates Fortnight",
+      "thumb": 656,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lightning Speed! Strawhat Crew's Surprise Visit Fortnight",
+      "thumb": 866,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Shanks"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,10 @@
     "special": "Deals 13x characters ATK in [INT] damage to all enemies, boosts ATK of Free Spirit characters by 1.75x for one turn.",
     "specialName": "Flame Mirror: Dawn"
   },
+  "aliases": [
+    "ポートガス・D・エース 海賊王に馳せた夢",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +33,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1023.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1023.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "2nd Anniversary Celebration! Duel! Ace",
+      "thumb": 1023,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Blitz! Doflamingo Family",
+      "thumb": 870,
+      "data": [
+        "Chopperman Missions"
+      ]
+    }
+  ],
+  "manual": []
 }

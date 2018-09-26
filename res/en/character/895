@@ -5,6 +5,10 @@
     "specialName": "Dying Chorus: Binks' Sake",
     "special": "Recovers 6x character's RCV in HP at the end of each turn for 3 turns"
   },
+  "aliases": [
+    "ブルック 紳士なガイコツ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +43,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0895.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0895.png"
-  }
+  },
+  "flags": {
+    "special": 1,
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "Completion Units"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Straw Hat Pirates!",
+      "thumb": 1387,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "21st Anniversary Island",
+      "thumb": 1682,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

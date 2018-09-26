@@ -6,6 +6,12 @@
     "specialName": "Sky Knight's Javelin",
     "captain": "Boosts ATK of Striker characters by 2.5x if HP is above 50% at the start of the turn"
   },
+  "aliases": [
+    "ガン・フォール 空の騎士",
+    "",
+    "Gan Fall the Knight of the Sky",
+    "ganfall"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -23,9 +29,24 @@
     22,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 713,
+    "evolvers": [
+      117,
+      90,
+      96,
+      301,
+      101
+    ],
+    "from": 712
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0713.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0713.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

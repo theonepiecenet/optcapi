@@ -6,6 +6,12 @@
     "captain": "Boosts ATK and RCV of [DEX] characters by 1.5x",
     "sailor": "When HP is below 30% at the start of the turn, boosts base RCV of himself by 50"
   },
+  "aliases": [
+    "チョッパー 夢を追い求める冒険者",
+    "",
+    "New Strong World Chopper",
+    "SW Chopper"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1176.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1176.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

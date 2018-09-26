@@ -5,6 +5,10 @@
     "specialName": "Hoofprint Roseo",
     "captain": "Boosts RCV of [STR] characters by 1.5x"
   },
+  "aliases": [
+    "トニートニー・チョッパー 腕力強化（アームポイント）",
+    "Tony Tony Chopper Arm Boost"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +33,37 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0024.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0024.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "07"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Escaped! Morgan Fortnight",
+      "thumb": 228,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    }
+  ]
 }

@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "“チャンピオン”ジーザス・バージェス",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -99,9 +104,51 @@
     25,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1274,
+    "evolvers": [
+      118,
+      118,
+      78,
+      78,
+      100
+    ],
+    "from": 1273
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1274.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1274.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Full Defense! Buddha Sengoku! Fortnight",
+      "thumb": 1416,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Oh, Impermanence! Hawkins and Urouge! Fortnight",
+      "thumb": 1867,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Jinbei"
+      ]
+    }
+  ]
 }

@@ -80,6 +80,10 @@
       }
     ]
   },
+  "aliases": [
+    "モーニングスターのラクヨウ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -100,9 +104,67 @@
     16,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 453,
+    "evolvers": [
+      118,
+      83,
+      87,
+      303,
+      103
+    ],
+    "from": 452
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0453.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0453.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Shark Attack! Arlong Pirates Fortnight",
+      "thumb": 656,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Riverside Banquet! Enter the Crazy Ones! Fortnight",
+      "thumb": 885,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Brutal Fiend! Eustass Kid Fortnight",
+      "thumb": 1690,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sengoku"
+      ]
+    }
+  ]
 }

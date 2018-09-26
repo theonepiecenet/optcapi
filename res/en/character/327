@@ -5,6 +5,10 @@
     "specialName": "Munch-Munch Tongue Cannon",
     "captain": "Recovers 10x character's RCV in HP at the end of each turn"
   },
+  "aliases": [
+    "ワポルハウス",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +29,58 @@
     22,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 327,
+    "evolvers": [
+      117,
+      84,
+      89,
+      95,
+      300
+    ],
+    "from": 326
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0327.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0327.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Adrift!? Humming Brook Fortnight",
+      "thumb": 424,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Brother Soul! Afro Luffy! Fortnight",
+      "thumb": 571,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Wapol's Revenge Fortnight",
+      "thumb": 852,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Corazon"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,10 @@
     "specialName": "Moonwalk",
     "captain": "Boosts HP of [PSY] characters by 2x"
   },
+  "aliases": [
+    "モモンガ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +33,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0298.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0298.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Tsuru's Morning Stroll Fortnight",
+      "thumb": 297,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Characters"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Prepare for Battle! Aokiji and Akainu!",
+      "thumb": 1280,
+      "data": [
+        "Aokiji"
+      ]
+    }
+  ],
+  "manual": []
 }

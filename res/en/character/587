@@ -5,6 +5,10 @@
     "specialName": "Merciful Painkiller",
     "captain": "Recovers 3x character's RCV in HP at the end of each turn"
   },
+  "aliases": [
+    "クロッカス",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -36,5 +40,21 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0587.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0587.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Dead End Begins! Raging Blast! Fortnight",
+      "thumb": 1072,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

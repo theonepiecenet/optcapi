@@ -3,6 +3,10 @@
   "detail": {
     "captain": "Recovers 3x character's RCV in HP at the end of each turn"
   },
+  "aliases": [
+    "カルネ",
+    "Carne"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Slasher",
@@ -21,5 +25,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0051.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0051.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "03"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Rising Sun, Rising Fortunes Fortnight",
+      "thumb": 420,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

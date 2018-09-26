@@ -6,6 +6,10 @@
     "special": "Boosts chance of matching orbs and reduces the ATK of enemies for 1 turn",
     "specialName": "Lucky-Lucky Fruit"
   },
+  "aliases": [
+    "バカラ 黄金船のコンシェルジュ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -26,9 +30,22 @@
     14,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1167,
+    "evolvers": [
+      117,
+      88,
+      99
+    ],
+    "from": 1166
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1167.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1167.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

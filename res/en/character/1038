@@ -5,6 +5,10 @@
     "special": "Switches orbs between slots once, recovers 0.3x character's RCV in HP",
     "specialName": "Great Scissors"
   },
+  "aliases": [
+    "イナズマ 秘密の花園の乙女",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -38,5 +42,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1038.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1038.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "The Queen of Kamabakka Queendom! Fortnight",
+      "thumb": 1037,
+      "data": [
+        "All Dificulties"
+      ]
+    }
+  ],
+  "manual": []
 }

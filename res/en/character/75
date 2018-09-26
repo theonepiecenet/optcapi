@@ -83,6 +83,10 @@
       }
     ]
   },
+  "aliases": [
+    "ポートガス・D・エース 鏡火炎（きょうかえん）",
+    "Portgas D. Ace Pyro-miroir"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -103,9 +107,84 @@
     25,
     20
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 75,
+    "evolvers": [
+      118,
+      83,
+      85,
+      85,
+      101
+    ],
+    "from": 74
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0075.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0075.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Lucci's Artisan Spirit Fortnight",
+      "thumb": 322,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Brother Soul! Afro Luffy! Fortnight",
+      "thumb": 571,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Breed's Sea Animal Circus! Fortnight",
+      "thumb": 797,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Royale! Oars",
+      "thumb": 893,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

@@ -6,6 +6,13 @@
     "specialNotes": "#{random : 1 : 15,000}",
     "captain": "Recovers 1,000 HP at end of each turn, reduces damage received by 15%"
   },
+  "aliases": [
+    "美人秘書カリファ",
+    "",
+    "Beautiful Secretary Califa",
+    "Beautiful Secretary Calipha",
+    "Beautiful Secretary Kalipha"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -26,9 +33,24 @@
     25,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 318,
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ],
+    "from": 317
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0318.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0318.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

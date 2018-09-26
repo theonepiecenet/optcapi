@@ -5,6 +5,10 @@
     "specialName": "Dance Heaven",
     "captain": "Reduces damage received by 10%"
   },
+  "aliases": [
+    "ダンシングジャンゴ",
+    "Jango le danseur"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Slasher",
@@ -44,5 +48,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0044.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0044.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Hina's Resort Getaway Fortnight",
+      "thumb": 232,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Deep Sea Kraken Fortnight",
+      "thumb": 341,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

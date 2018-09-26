@@ -5,6 +5,10 @@
     "specialNotes": "#{randomHits : 3}",
     "specialName": "Shy Jailer Beast: Spiked Mace"
   },
+  "aliases": [
+    "ミノゼブラ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +33,45 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1152.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1152.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Impel Down",
+      "thumb": 1159,
+      "data": [
+        "11",
+        "14"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Jailbreak Battle! Mr. 3 and Buggy Fortnight",
+      "thumb": 1304,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Gather the Candy! Fortnight",
+      "thumb": 1357,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sengoku"
+      ]
+    }
+  ]
 }

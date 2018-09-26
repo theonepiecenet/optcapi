@@ -136,6 +136,13 @@
       }
     ]
   },
+  "aliases": [
+    "不死鳥マルコ 白ひげ海賊団１番隊隊長",
+    "",
+    "LMarco",
+    "QMarco",
+    "Legend Marco"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -156,9 +163,69 @@
     25,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 649,
+    "evolvers": [
+      118,
+      85,
+      266,
+      301,
+      267
+    ],
+    "from": 648
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0649.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0649.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Wapol's Revenge Fortnight",
+      "thumb": 852,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Golden Lion Pirates' Attack! Fortnight",
+      "thumb": 1095,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Marco"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

@@ -6,6 +6,10 @@
     "specialName": "Mountain Wind",
     "captain": "Boosts HP and RCV of [QCK] characters by 1.5x"
   },
+  "aliases": [
+    "カク",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -37,5 +41,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0323.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0323.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lucci's Artisan Spirit Fortnight",
+      "thumb": 322,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,18 @@
     "special": "Makes PERFECTs harder to hit for 1 turn. Deals 20x character's ATK in [INT] damage to all enemies. Changes all orbs on Fighter characters into Matching orbs",
     "specialNotes": "Decreases timing window to hit a PERFECT. (Animation remains the same)"
   },
+  "aliases": [
+    "海侠のジンベエ",
+    "",
+    "Jinbe",
+    "Jimbei",
+    "Jinbei",
+    "INTbe",
+    "Legend Jinbe",
+    "Legend Jimbei",
+    "Legend Jinbei",
+    "Shichibukai"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +52,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0934.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0934.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

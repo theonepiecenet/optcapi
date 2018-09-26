@@ -5,6 +5,10 @@
     "special": "Changes [BLOCK] orbs into [PSY] orbs for [PSY] characters",
     "specialName": "Cat Burglar's Undercover Investigation"
   },
+  "aliases": [
+    "ナミ 酒場のお茶目なアイドル",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +29,24 @@
     13,
     6
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1110,
+    "evolvers": [
+      116,
+      117,
+      81,
+      87,
+      98
+    ],
+    "from": 1109
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1110.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1110.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

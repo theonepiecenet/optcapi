@@ -5,6 +5,10 @@
     "specialName": "Shield Crusher",
     "captain": "Boosts HP of [DEX] characters by 2x"
   },
+  "aliases": [
+    "ブロントザウルス",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Fighter",
@@ -26,5 +30,46 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0295.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0295.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "04",
+        "05",
+        "09"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "13"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Supersonic Duck Squadron! Fortnight",
+      "thumb": 445,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Heracles'n Raid",
+      "thumb": 516,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "specialName": "Energy of the Ancient Knight",
     "special": "Boosts ATK of [STR] characters by 200 for 1 turn"
   },
+  "aliases": [
+    "ジェネラルゾンビ　怪力の影",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +33,31 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0825.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0825.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "08",
+        "09",
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  ],
+  "manual": []
 }

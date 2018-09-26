@@ -6,6 +6,10 @@
     "specialNotes": "#{random : 1 : 10,000}",
     "captain": "Boosts RCV of [PSY] characters by 1.5x"
   },
+  "aliases": [
+    "ビクトリア・シンドリー",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -23,9 +27,32 @@
     25,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 388,
+    "evolvers": [
+      117,
+      81,
+      87,
+      385
+    ],
+    "from": 387
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0388.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0388.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Dr. Hogback's Lab of the Dead Fortnight",
+      "thumb": 386,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

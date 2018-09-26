@@ -1,5 +1,9 @@
 {
   "name": "Black Daimyo Turtle",
+  "aliases": [
+    "赤ダイミョウガメ",
+    "Tortue noble noire"
+  ],
   "unit": {
     "type": "INT",
     "class": "Booster",
@@ -18,5 +22,232 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0114.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0114.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Arlong Park",
+      "thumb": 65,
+      "data": [
+        "12",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Twin Cape",
+      "thumb": 213,
+      "data": [
+        "04",
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Whiskey Peak",
+      "thumb": 201,
+      "data": [
+        "05"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "14",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "03",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "14"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "04",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "12"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "06"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Enies Lobby Front Gate",
+      "thumb": 706,
+      "data": [
+        "09"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Tower of Law - Gates of Justice",
+      "thumb": 737,
+      "data": [
+        "10",
+        "14"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "05",
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "01",
+        "08",
+        "14"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Turtle Haven",
+      "thumb": 193,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Princess Turtle's Dragon Palace",
+      "thumb": 595,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Franky - Pervert's Aesthetic! Fortnight",
+      "thumb": 337,
+      "data": [
+        "Expert"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Black Arm Zephyr Raid",
+      "thumb": 353,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Aokiji Raid",
+      "thumb": 575,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Buster Call Raid",
+      "thumb": 771,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Chopper"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Heart Memory",
+      "thumb": 1961,
+      "data": [
+        "Pudding"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "3rd Anniversary Celebration! Duel! Luffy",
+      "thumb": 1600,
+      "data": [
+        "30 Stamina",
+        "40 Stamina"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Boosters and Evolvers"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    }
+  ],
+  "manual": []
 }

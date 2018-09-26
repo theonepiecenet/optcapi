@@ -4,6 +4,10 @@
     "specialName": "Captain Soul Recovery",
     "special": "Reduces Despair duration by 2 turns"
   },
+  "aliases": [
+    "技巧のガンマン 緑のボディガード",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Shooter",
@@ -25,5 +29,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0959.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0959.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "08",
+        "09"
+      ]
+    }
+  ],
+  "manual": []
 }

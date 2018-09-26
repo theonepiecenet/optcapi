@@ -5,6 +5,10 @@
     "specialName": "Hira Release: Death Enjambre",
     "special": "Delays all enemies for 2 turns, deals 50x character's ATK as typeless damage to all enemies at the end of the turn for 5 turns"
   },
+  "aliases": [
+    "ディアマンテ",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +43,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0998.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0998.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -81,6 +81,11 @@
       }
     ]
   },
+  "aliases": [
+    "火拳のエース 白ひげ海賊団２番隊隊長",
+    "",
+    "Coliseum Ace"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -101,9 +106,24 @@
     21,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 951,
+    "evolvers": [
+      118,
+      83,
+      87,
+      98,
+      303
+    ],
+    "from": 950
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0951.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0951.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

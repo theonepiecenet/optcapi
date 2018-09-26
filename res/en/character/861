@@ -6,6 +6,11 @@
     "specialNotes": "#{orb : 1.5x}",
     "captain": "Reduces damage received by 10%"
   },
+  "aliases": [
+    "レディー・アルビダ うるわしき美女",
+    "",
+    "Coliseum Alvida"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +45,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0861.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0861.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

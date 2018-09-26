@@ -5,6 +5,10 @@
     "specialName": "Flintlock Barrage",
     "special": "Randomizes all orbs into either [PSY] or [DEX] orbs, deals random [PSY] damage to all enemies"
   },
+  "aliases": [
+    "イゾウ 白ひげ海賊団１６番隊隊長",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +33,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0979.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0979.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Clash! Whitebeard Pirates Fortnight",
+      "thumb": 979,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -4,6 +4,10 @@
     "specialName": "First Aid",
     "special": "Recover 2,000 HP"
   },
+  "aliases": [
+    "早業のガンマン 青のボディガード",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Shooter",
@@ -22,5 +26,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0957.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0957.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "08",
+        "09"
+      ]
+    }
+  ],
+  "manual": []
 }

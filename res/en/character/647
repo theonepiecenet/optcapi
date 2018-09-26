@@ -6,6 +6,10 @@
     "captain": "Boosts ATK of Shooter characters by 2.75x if HP is below 30% at the start of the turn",
     "sailor": "Boosts base HP of [STR] characters by 30"
   },
+  "aliases": [
+    "猛攻のリトルオーズJr.",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,9 +30,75 @@
     25,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 647,
+    "evolvers": [
+      118,
+      84,
+      266,
+      95,
+      100
+    ],
+    "from": 646
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0647.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0647.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Calgara & Noland! Fortnight",
+      "thumb": 688,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Tom's Workers Fortnight",
+      "thumb": 848,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Golden Lion Pirates' Attack! Fortnight",
+      "thumb": 1095,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sakazuki"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

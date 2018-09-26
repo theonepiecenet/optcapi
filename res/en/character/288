@@ -4,6 +4,10 @@
     "special": "Deals 5x character's ATK in character's type damage to all enemies",
     "specialName": "Hyper Shot"
   },
+  "aliases": [
+    "狙撃隊　武装隊員 ブラックパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Shooter",
@@ -21,9 +25,22 @@
     35,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 288,
+    "evolvers": [
+      115,
+      116,
+      93
+    ],
+    "from": 161
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0288.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0288.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -4,6 +4,10 @@
     "special": "Empties all slots with [BLOCK] orbs",
     "specialName": "Wipeout Tackle"
   },
+  "aliases": [
+    "ピクルス",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -28,5 +32,46 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0566.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0566.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Long Ring Long Land",
+      "thumb": 568,
+      "data": [
+        "07",
+        "08"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Wanze's Ramen Kung Fu!! Fortnight",
+      "thumb": 743,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Queen of Kamabakka Queendom! Fortnight",
+      "thumb": 1037,
+      "data": [
+        "All Dificulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Ace"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,11 @@
     "specialName": "Igarappapa",
     "captain": "Boosts HP of [PSY] characters by 2x"
   },
+  "aliases": [
+    "Mr.8 イガラッパッパ",
+    "",
+    "Mr 8"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +30,47 @@
     15,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 234,
+    "evolvers": [
+      116,
+      81,
+      92
+    ],
+    "from": 233
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0234.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0234.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tsuru's Morning Stroll Fortnight",
+      "thumb": 297,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Prison Break! Baroque Works Fortnight",
+      "thumb": 462,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

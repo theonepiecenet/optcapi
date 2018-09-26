@@ -5,6 +5,10 @@
     "specialName": "[DEX] Slot Change [STR]",
     "captain": "Boosts HP of Striker characters by 1.5x"
   },
+  "aliases": [
+    "赤の突撃隊　エリート スカイピア神兵",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": "Striker",
@@ -22,9 +26,23 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 482,
+    "evolvers": [
+      116,
+      84,
+      89,
+      95
+    ],
+    "from": 477
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0482.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0482.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

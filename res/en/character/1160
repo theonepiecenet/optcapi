@@ -6,6 +6,12 @@
     "specialNotes": "#{silence}",
     "specialName": "Open Sun"
   },
+  "aliases": [
+    "コアラ ビーチの天使",
+    "",
+    "Summertime Koala",
+    "Swimsuit Koala"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +46,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1160.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1160.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

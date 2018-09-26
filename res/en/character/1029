@@ -81,6 +81,10 @@
       }
     ]
   },
+  "aliases": [
+    "ファンク兄弟 モガロ王国の殺し屋",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -101,9 +105,60 @@
     18,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1029,
+    "evolvers": [
+      118,
+      84,
+      86,
+      100,
+      102
+    ],
+    "from": 1028
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1029.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1029.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "World Pirates! Fortnight",
+      "thumb": 1215,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Dark Path of the Blackbeard Pirates! Fortnight",
+      "thumb": 1606,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Bartolomeo",
+        "Cavendish"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Lucy"
+      ]
+    }
+  ]
 }

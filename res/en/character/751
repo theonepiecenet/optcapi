@@ -5,6 +5,13 @@
     "specialName": "Sheep Cloud Tidal Wave",
     "captain": "Boosts ATK and RCV of Cerebral characters by 1.5x"
   },
+  "aliases": [
+    "カリファ 闇の正義の「ＣＰ９」",
+    "",
+    "Califa, CP9's Dark Justice",
+    "Calipha, CP9's Dark Justice",
+    "Kalipha, CP9's Dark Justice"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0751.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0751.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "specialName": "[DEX] Slot Change [INT]",
     "captain": "Boosts ATK of Striker characters by 1.5x"
   },
+  "aliases": [
+    "黒の突撃隊　エリート スカイピア神兵",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Striker",
@@ -22,9 +26,23 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 486,
+    "evolvers": [
+      116,
+      88,
+      93,
+      99
+    ],
+    "from": 481
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0486.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0486.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

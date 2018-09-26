@@ -4,6 +4,11 @@
     "specialName": "Snake Bow of the Warrior Defending Her Country",
     "special": "Changes the orbs in the middle row into [RCV] orbs, changes the orbs in the bottom row into [TND] orbs"
   },
+  "aliases": [
+    "スイトピー",
+    "",
+    "Sweet Pea"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -28,5 +33,30 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0920.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0920.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "The Secret Garden! Men are Forbidden!? Fortnight",
+      "thumb": 918,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Secret Garden! Men are Forbidden!? Fortnight",
+      "thumb": 918,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ]
 }

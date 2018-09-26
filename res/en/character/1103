@@ -28,6 +28,11 @@
     "specialNotes": "#{stages}",
     "specialName": "Return Return Fruit"
   },
+  "aliases": [
+    "アイン ＮＥＯ海軍",
+    "",
+    "Coliseum Ain"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -62,5 +67,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1103.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1103.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "specialName": "Crystal Shield DEX",
     "captain": "Boosts ATK of Slasher characters by 1.5x"
   },
+  "aliases": [
+    "巨人斬撃近衛隊 レッドパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": "Slasher",
@@ -22,9 +26,22 @@
     25,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 373,
+    "evolvers": [
+      116,
+      89,
+      95
+    ],
+    "from": 368
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0373.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0373.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

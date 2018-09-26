@@ -97,6 +97,12 @@
       }
     ]
   },
+  "aliases": [
+    "黄猿　光人間",
+    "",
+    "Raid Borsalino",
+    "Raid Kizaru"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -117,9 +123,24 @@
     25,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 978,
+    "evolvers": [
+      118,
+      85,
+      266,
+      301,
+      101
+    ],
+    "from": 977
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0978.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0978.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

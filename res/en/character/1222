@@ -6,6 +6,11 @@
     "specialNotes": "#{beneficial}",
     "specialName": "Blood of the Devil Warrior"
   },
+  "aliases": [
+    "猛攻のリトルオーズJr. 白ひげ海賊団傘下",
+    "",
+    "Coliseum Oars Jr."
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -26,9 +31,24 @@
     29,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1222,
+    "evolvers": [
+      83,
+      84,
+      89,
+      95,
+      300
+    ],
+    "from": 1221
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1222.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1222.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

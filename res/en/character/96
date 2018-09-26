@@ -1,5 +1,9 @@
 {
   "name": "Blue Armored Crab",
+  "aliases": [
+    "赤ヨロイガニ",
+    "Crabe blindé bleu"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Evolver",
@@ -18,5 +22,157 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0096.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0096.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "01",
+        "12"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Twin Cape",
+      "thumb": 213,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Whiskey Peak",
+      "thumb": 201,
+      "data": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "02",
+        "04"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "05",
+        "14"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Tower of Law - Gates of Justice",
+      "thumb": 737,
+      "data": [
+        "12"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Scissor Cavern",
+      "thumb": 95,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Scissor Cavern, Entrance",
+      "thumb": 304,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Scissor Cavern, Innermost Grotto",
+      "thumb": 1180,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lucci's Artisan Spirit Fortnight",
+      "thumb": 322,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Mihawk Raid",
+      "thumb": 1680,
+      "data": [
+        "Expert"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Ivankov Raid",
+      "thumb": 390,
+      "data": [
+        "Expert"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Shanks",
+        "Issho",
+        "Kuzan",
+        "Marco",
+        "Zoro"
+      ]
+    }
+  ],
+  "manual": []
 }

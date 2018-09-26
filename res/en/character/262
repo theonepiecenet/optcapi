@@ -3,6 +3,10 @@
   "detail": {
     "captain": "Recovers 2x character's RCV in HP at the end of each turn"
   },
+  "aliases": [
+    "特訓コビー",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -34,5 +38,43 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0262.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0262.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "The Bay - Oris Plaza",
+      "thumb": 1283,
+      "data": [
+        "06"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Cobymeppo's Proving Ground! Fortnight",
+      "thumb": 263,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Vice-Admiral Garp Raid",
+      "thumb": 306,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Characters"
+      ]
+    }
+  ],
+  "manual": []
 }

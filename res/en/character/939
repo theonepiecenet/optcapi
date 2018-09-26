@@ -83,6 +83,12 @@
       }
     ]
   },
+  "aliases": [
+    "ナミ 空島ウェザリアの泥棒ネコ",
+    "",
+    "Timeskip Nami",
+    "3D2Y Nami"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -103,9 +109,59 @@
     24,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 939,
+    "evolvers": [
+      117,
+      118,
+      83,
+      87,
+      103
+    ],
+    "from": 938
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0939.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0939.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Robin and Nami's Secret Undercover Investigation Fortnight",
+      "thumb": 1112,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Encourage the Soul! Fortnight",
+      "thumb": 1547,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Whitebeard"
+      ]
+    }
+  ]
 }

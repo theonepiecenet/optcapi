@@ -5,6 +5,10 @@
     "special": "Boosts own ATK by 1.3x for 5 turns, reduces damage received by 20% for 5 turns, deals 13x character's ATK as [INT] damage to one enemy",
     "specialName": "Evil Beast's Horn Pierce"
   },
+  "aliases": [
+    "バトラー伯爵",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +43,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1010.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1010.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Butler and Strange Animal Island Fortnight",
+      "thumb": 1011,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

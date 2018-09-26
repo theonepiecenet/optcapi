@@ -80,6 +80,12 @@
       }
     ]
   },
+  "aliases": [
+    "鉄人（サイボーグ）フランキー バルジモアの霊獣",
+    "",
+    "Timeskip Franky",
+    "3D2Y Franky"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +106,59 @@
     15,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 943,
+    "evolvers": [
+      118,
+      83,
+      84,
+      95,
+      100
+    ],
+    "from": 942
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0943.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0943.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Behind the Scenes Intelligency Agency: CP9 Fortnight",
+      "thumb": 1137,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Encourage the Soul! Fortnight",
+      "thumb": 1547,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Borsalino"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

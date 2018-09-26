@@ -5,6 +5,10 @@
     "specialName": "Peto-Peto Fruit, The Greatest Power",
     "captain": "Boosts ATK of Cerebral characters by 2x"
   },
+  "aliases": [
+    "ブリード",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Cerebral",
@@ -36,5 +40,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0796.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0796.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Breed's Sea Animal Circus! Fortnight",
+      "thumb": 797,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

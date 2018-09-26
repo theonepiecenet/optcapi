@@ -5,6 +5,10 @@
     "specialName": "[INT] Slot Change [DEX]",
     "captain": "Reduces damage received by 10%"
   },
+  "aliases": [
+    "緑の突撃隊　エリート スカイピア神兵",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Striker",
@@ -22,9 +26,23 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 484,
+    "evolvers": [
+      116,
+      86,
+      91,
+      97
+    ],
+    "from": 479
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0484.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0484.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

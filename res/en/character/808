@@ -5,6 +5,11 @@
     "specialName": "Thunder Charge: Swing Arm",
     "special": "Deals 15x character's ATK in [PSY] damage to one enemy, boosts ATK against enemies with reduced defense by 1.3x for 3 turns"
   },
+  "aliases": [
+    "純白の女神ナミ ウエディング",
+    "",
+    "Bridal Nami"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +30,24 @@
     23,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 808,
+    "evolvers": [
+      117,
+      87,
+      92,
+      98,
+      103
+    ],
+    "from": 807
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0808.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0808.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -81,6 +81,10 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ニコ・ロビン",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -101,9 +105,75 @@
     17,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 210,
+    "evolvers": [
+      118,
+      82,
+      83,
+      88,
+      104
+    ],
+    "from": 209
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0210.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0210.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Cobymeppo's Proving Ground! Fortnight",
+      "thumb": 263,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Candy the Maiden-Hearted Fortnight",
+      "thumb": 436,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Royale! Oars",
+      "thumb": 893,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Rayleigh"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

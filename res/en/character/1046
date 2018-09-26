@@ -6,6 +6,11 @@
     "special": "Deals random typeless damage to all enemies. Adds 55x character's ATK as Additional Typeless Damage for 2 turns",
     "specialNotes": "#{random : 10,000 : 30,000} <br> #{additionalDamage : 55x}"
   },
+  "aliases": [
+    "サボ 竜の爪",
+    "",
+    "Raid Sabo"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +45,21 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1046.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1046.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Sabo Raid",
+      "thumb": 1047,
+      "data": [
+        "Expert",
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,10 @@
     "specialName": "Poison Ink",
     "captain": "Boosts HP of Striker characters by 1.5x"
   },
+  "aliases": [
+    "大王イカ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Striker",
@@ -27,5 +31,62 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0215.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0215.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Twin Cape",
+      "thumb": 213,
+      "data": [
+        "01",
+        "07"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Deep Sea Kraken Fortnight",
+      "thumb": 341,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Shogun Franky Raid",
+      "thumb": 1432,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Kalifa's Secret Assignment Fortnight",
+      "thumb": 318,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Dracule Mihawk"
+      ]
+    }
+  ]
 }

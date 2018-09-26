@@ -6,6 +6,13 @@
     "specialNotes": "#{random : 1 : 15,000}",
     "captain": "Recovers 500 HP at end of each turn, reduces damage received by 10%"
   },
+  "aliases": [
+    "カリファ",
+    "",
+    "Califa",
+    "Calipha",
+    "Kalipha"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +47,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0317.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0317.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Kalifa's Secret Assignment Fortnight",
+      "thumb": 318,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

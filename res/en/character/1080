@@ -5,6 +5,10 @@
     "special": "Deals [DEX] damage to one enemy, changes own orb to [DEX] and boosts own ATK by 2x for 1 turn",
     "specialName": "Trueno Bastardo"
   },
+  "aliases": [
+    "キュロス",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +43,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1080.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1080.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

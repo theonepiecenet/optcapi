@@ -5,6 +5,10 @@
     "special": "Randomizes all orbs including [BLOCK] orbs and switches orbs between slots once.",
     "specialName": "Mutation-Induced Thunder"
   },
+  "aliases": [
+    "雷鳥ビリー",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +33,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1098.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1098.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Golden Lion Pirates' Attack! Fortnight",
+      "thumb": 1095,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Golden Lion Pirates' Attack! Fortnight",
+      "thumb": 1095,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

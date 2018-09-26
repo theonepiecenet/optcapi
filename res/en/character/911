@@ -21,6 +21,12 @@
     "captain": "Boosts ATK and HP of Powerhouse characters by 1.5x",
     "specialNotes": "#{stages}"
   },
+  "aliases": [
+    "サンジ カマバッカ王国の逃走者",
+    "",
+    "3D2Y Sanji",
+    "Timeskip Sanji"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -55,5 +61,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0911.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0911.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

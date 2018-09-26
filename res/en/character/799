@@ -4,6 +4,13 @@
     "special": "Randomizes all orbs, recovers 9x character's RCV in HP",
     "specialName": "Sea Animal Healing"
   },
+  "aliases": [
+    "シーラパーン 海獣海賊団",
+    "",
+    "Sea Lapahn, Sea Animal Pirates",
+    "Sea Lapan, Sea Animal Pirates",
+    "Sea Rapan, Sea Animal Pirates"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -28,5 +35,29 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0799.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0799.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Breed's Sea Animal Circus! Fortnight",
+      "thumb": 797,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Shogun Franky Raid",
+      "thumb": 1432,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
 }

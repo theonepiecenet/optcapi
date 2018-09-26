@@ -5,6 +5,10 @@
     "specialName": "Charge! Supersonic Duck Squadron!",
     "captain": "Recovers 3x character's RCV in HP at the end of each turn"
   },
+  "aliases": [
+    "ネフェルタリ・ビビ",
+    "Vivi Nerfertari"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Slasher",
@@ -52,5 +56,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0072.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0072.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [],
+  "manual": []
 }

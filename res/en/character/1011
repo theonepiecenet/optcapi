@@ -6,6 +6,10 @@
     "special": "Boosts own ATK by 1.3x for 5 turns, reduces damage received by 20% for 5 turns, deals 13x character's ATK as [INT] damage to one enemy",
     "specialName": "Evil Beast's Horn Pierce"
   },
+  "aliases": [
+    "バトラー伯爵（王なる力）",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -26,9 +30,24 @@
     23,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1011,
+    "evolvers": [
+      116,
+      82,
+      88,
+      93,
+      104
+    ],
+    "from": 1010
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1011.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1011.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

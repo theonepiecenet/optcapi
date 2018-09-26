@@ -6,6 +6,10 @@
     "captain": "Protects from defeat as long as HP is above 50%",
     "captainNotes": "#{zombie}"
   },
+  "aliases": [
+    "ラブーン",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +43,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0213.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0213.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Twin Cape",
+      "thumb": 213,
+      "data": [
+        "09",
+        "10"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Deep Sea Kraken Fortnight",
+      "thumb": 341,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

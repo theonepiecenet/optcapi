@@ -6,6 +6,11 @@
     "specialName": "Vivi's Important Security Guard",
     "captain": "Recovers 3x character's RCV in HP at the end of each turn"
   },
+  "aliases": [
+    "ネフェルタリ・ビビ 砂砂団　副リーダー",
+    "",
+    "Young Vivi"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -26,9 +31,24 @@
     25,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 664,
+    "evolvers": [
+      117,
+      81,
+      87,
+      98,
+      103
+    ],
+    "from": 663
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0664.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0664.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

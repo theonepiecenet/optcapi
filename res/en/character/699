@@ -5,6 +5,10 @@
     "specialName": "Hyper Burst",
     "captain": "Boosts ATK of Shooter characters by 500, reduces damage received by 10%"
   },
+  "aliases": [
+    "バズーカ少佐 海軍本部",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": "Shooter",
@@ -22,9 +26,22 @@
     35,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 699,
+    "evolvers": [
+      116,
+      95,
+      300
+    ],
+    "from": 694
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0699.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0699.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

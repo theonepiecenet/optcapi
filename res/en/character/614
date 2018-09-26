@@ -5,6 +5,10 @@
     "specialName": "Demolisher Chop",
     "captain": "Boosts ATK of characters with cost 20 or less by 2.25x if HP is below 30% at the start of the turn"
   },
+  "aliases": [
+    "ザンバイ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -26,5 +30,56 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0614.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0614.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "01",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Brook"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Wapol's Revenge Fortnight",
+      "thumb": 852,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Archaeologist Nico Olvia Fortnight",
+      "thumb": 1049,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Corazon"
+      ]
+    }
+  ]
 }

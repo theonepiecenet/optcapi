@@ -1,5 +1,9 @@
 {
   "name": "Stomp and Ivan X Supersonic Duck Squadron",
+  "aliases": [
+    "ストンプとイワンX 超カルガモ部隊",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Evolver",
@@ -18,5 +22,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0442.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0442.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Supersonic Duck Squadron! Fortnight",
+      "thumb": 445,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

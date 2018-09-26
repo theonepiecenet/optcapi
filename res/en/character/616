@@ -4,6 +4,10 @@
     "special": "Changes the captain's orb into STR",
     "specialName": "Demolisher Spear"
   },
+  "aliases": [
+    "怪力デストロイヤーズ 槍使い",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -28,5 +32,40 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0616.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0616.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Water Seven",
+      "thumb": 632,
+      "data": [
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tom's Workers Fortnight",
+      "thumb": 848,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Welcome To The Gran Tesoro! Fortnight",
+      "thumb": 1167,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -6,6 +6,11 @@
     "captain": "Boosts ATK and HP of [INT] characters by 1.2x, deals 9 HP as fixed damage to all enemies at the end of each turn",
     "captainNotes": "#{fixed}"
   },
+  "aliases": [
+    "ジャブラ サイファーポールNo.9",
+    "",
+    "Jabura"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +45,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0730.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0730.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Tower of Law - Gates of Justice",
+      "thumb": 737,
+      "data": [
+        "08"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Brook"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "4th Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

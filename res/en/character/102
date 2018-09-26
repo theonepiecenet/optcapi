@@ -1,5 +1,9 @@
 {
   "name": "Green Striped Dragon",
+  "aliases": [
+    "赤しま番竜",
+    "Dragon rayé vert"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Evolver",
@@ -18,5 +22,31 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0102.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0102.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Dragon Sanctuary",
+      "thumb": 267,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Ace",
+        "Borsalino",
+        "Crocodile",
+        "Jinbei",
+        "Whitebeard"
+      ]
+    }
+  ],
+  "manual": []
 }

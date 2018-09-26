@@ -137,6 +137,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "サー・クロコダイル　ロギア 元王下七武海",
+    "",
+    "Legend Crocodile",
+    "Shichibukai"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -167,9 +173,69 @@
       267
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 720,
+    "evolvers": [
+      118,
+      86,
+      266,
+      102,
+      267
+    ],
+    "from": 719
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0720.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0720.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Secret Garden! Men are Forbidden!? Fortnight",
+      "thumb": 918,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Tontatta Tribe: Find the Beloved Prince?! Fortnight",
+      "thumb": 1332,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Crocodile"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Shirahoshi"
+      ]
+    }
+  ]
 }

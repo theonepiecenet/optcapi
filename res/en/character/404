@@ -5,6 +5,10 @@
     "specialName": "Clear-Clear Fruit",
     "captain": "Boosts ATK of Shooter characters by 1.5x"
   },
+  "aliases": [
+    "アブサロム",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +43,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0404.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0404.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "04"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Perv-salom's Very Manly Adventure Fortnight",
+      "thumb": 405,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Operation: Proposal! Fortnight",
+      "thumb": 808,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

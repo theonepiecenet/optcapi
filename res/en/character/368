@@ -4,6 +4,10 @@
     "special": "Reduces damage received from [DEX] enemies by 50% for 1 turn",
     "specialName": "Crystal Shield DEX"
   },
+  "aliases": [
+    "巨人斬撃隊 レッドパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": "Slasher",
@@ -33,5 +37,47 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0368.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0368.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "05",
+        "12"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "01",
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Long Ring Long Land",
+      "thumb": 568,
+      "data": [
+        "01",
+        "06"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Supersonic Duck Squadron! Fortnight",
+      "thumb": 445,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,11 @@
     "specialName": "Tabasco Star: The Storm",
     "special": "Delays all enemies for 2 turns, deals 9x character's ATK in [DEX] damage to all enemies"
   },
+  "aliases": [
+    "ウソップ タバスコ星“撃”",
+    "",
+    "Kimono Usopp"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Shooter",
@@ -26,5 +31,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0867.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0867.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Lightning Speed! Strawhat Crew's Surprise Visit Fortnight",
+      "thumb": 866,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

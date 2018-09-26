@@ -5,6 +5,12 @@
     "special": "Reduces Special Cooldown of [INT] characters by 1 turn.",
     "specialName": "Non-Negotiable Quest"
   },
+  "aliases": [
+    "たしぎ 夢見る剣道少女",
+    "",
+    "Young Tashigi",
+    "Kid Tashigi"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +31,26 @@
     6,
     6
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1135,
+    "evolvers": [
+      117,
+      82,
+      93,
+      99
+    ],
+    "from": 1134
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1135.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1135.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

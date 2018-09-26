@@ -5,6 +5,10 @@
     "specialName": "Solid Beast Supreme Technique: Owl Strike",
     "captain": "Boosts ATK of [PSY] characters by 2x"
   },
+  "aliases": [
+    "フクロウ 闇の正義の「ＣＰ９」",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +43,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0757.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0757.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

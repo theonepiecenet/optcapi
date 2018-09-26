@@ -5,6 +5,10 @@
     "specialName": "Ringing Fang",
     "captain": "Boosts ATK and HP of [STR] characters by 1.2x"
   },
+  "aliases": [
+    "チャカ",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -38,5 +42,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0507.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0507.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "specialName": "Blugori Manipulation Song",
     "special": "Changes orbs in left column to [DEX], then [QCK], then [INT]. Locks himself for 3 turns."
   },
+  "aliases": [
+    "サルデス",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +33,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0930.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0930.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Hannyabal's Great Ambition Fortnight",
+      "thumb": 929,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Hannyabal's Great Ambition Fortnight",
+      "thumb": 929,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

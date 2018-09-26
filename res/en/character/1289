@@ -6,6 +6,12 @@
     "special": "Reduces Special Cooldown of Driven specials by 1 turn. If during that turn every unit scores a PERFECT hit, reduces Special Cooldown of Driven specials by 1 turn.",
     "specialName": "Outcome of Sparta"
   },
+  "aliases": [
+    "トラファルガー・ロー ドンキホーテファミリーの一員",
+    "",
+    "Kid Trafalgar Law",
+    "Kid Law"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -26,9 +32,23 @@
     13,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1289,
+    "evolvers": [
+      116,
+      117,
+      80,
+      97
+    ],
+    "from": 1288
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1289.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1289.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

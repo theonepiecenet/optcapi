@@ -1,5 +1,9 @@
 {
   "name": "Sea Stallion",
+  "aliases": [
+    "タツノオウ",
+    "Étalon marin"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Evolver",
@@ -18,5 +22,208 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0118.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0118.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Whiskey Peak",
+      "thumb": 201,
+      "data": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "12"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Sea Pony Paradise",
+      "thumb": 118,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Mihawk Raid",
+      "thumb": 227,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Mihawk Raid",
+      "thumb": 1680,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Chopper's Rampage Raid",
+      "thumb": 249,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Vice-Admiral Garp Raid",
+      "thumb": 306,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Black Arm Zephyr Raid",
+      "thumb": 353,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Ivankov Raid",
+      "thumb": 390,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Doflamingo Raid",
+      "thumb": 418,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Blackbeard Raid",
+      "thumb": 447,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Heracles'n Raid",
+      "thumb": 516,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Aokiji Raid",
+      "thumb": 575,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Aokiji Raid",
+      "thumb": 1669,
+      "data": [
+        "Master",
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Eneru Raid",
+      "thumb": 603,
+      "data": [
+        "Expert",
+        "Master",
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Eneru Raid",
+      "thumb": 1930,
+      "data": [
+        "Expert",
+        "Master",
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Duval Raid",
+      "thumb": 654,
+      "data": [
+        "Master"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "3rd Anniversary Celebration! Duel! Luffy",
+      "thumb": 1600,
+      "data": [
+        "30 Stamina",
+        "40 Stamina"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Boosters and Evolvers"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Boosters and Evolvers"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Boosters and Evolvers"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    }
+  ],
+  "manual": []
 }

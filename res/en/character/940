@@ -5,6 +5,12 @@
     "specialName": "Sure Kill! Exploding Star!!",
     "special": "Deals 13x ATK as [DEX] damage to all enemies and boosts ATK of [DEX] characters by 1.75x for 1 turn"
   },
+  "aliases": [
+    "ウソップ ボーイン列島の大食漢",
+    "",
+    "Timeskip Usopp",
+    "3D2Y Usopp"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Fighter",
@@ -36,5 +42,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0940.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0940.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -7,6 +7,11 @@
     "sailor": "Boosts base HP of all characters by 75",
     "specialName": "Champion of the Wild Roar"
   },
+  "aliases": [
+    "ジーザス・バージェス",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -41,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1273.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1273.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

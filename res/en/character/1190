@@ -81,6 +81,12 @@
       }
     ]
   },
+  "aliases": [
+    "シールドランスのスピード・ジル",
+    "",
+    "Speed Jiru",
+    "Genocide Jil"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -101,9 +107,60 @@
     11,
     5
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1190,
+    "evolvers": [
+      118,
+      85,
+      94,
+      96,
+      96
+    ],
+    "from": 1189
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1190.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1190.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tontatta Tribe: Find the Beloved Prince?! Fortnight",
+      "thumb": 1332,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Battle Royale! Fortnight",
+      "thumb": 1766,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Donquixote Doflamingo"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

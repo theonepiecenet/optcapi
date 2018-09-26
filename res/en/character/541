@@ -5,6 +5,10 @@
     "specialName": "White Thorn Deathmatch",
     "captain": "Boosts ATK of [STR] characters by 2.5x if HP is below 50% at the start of the turn"
   },
+  "aliases": [
+    "オーム",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +33,56 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0541.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0541.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "01",
+        "10"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "3rd Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Sky Night Ganfor Fortnight",
+      "thumb": 713,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Secret Garden! Men are Forbidden!? Fortnight",
+      "thumb": 918,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Bartolomeo"
+      ]
+    }
+  ]
 }

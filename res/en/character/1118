@@ -8,6 +8,11 @@
     "sailor": "Makes [DEX] orbs \"beneficial\" for this character",
     "sailorNotes": "#{beneficial}"
   },
+  "aliases": [
+    "ナミ 夢を追い求める冒険者",
+    "New Strong World Nami",
+    "SW Nami"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -42,5 +47,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1118.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1118.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "special": "Reduces Paralysis and Despair duration by 5 turns. Cuts the current HP of one enemy by 10%",
     "specialName": "Tactician's Savage Cut"
   },
+  "aliases": [
+    "ダガマ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +43,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1128.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1128.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

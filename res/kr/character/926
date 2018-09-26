@@ -3,6 +3,80 @@
   "detail": {
     "captain": "강인형 캐릭터의 공격력을 2.5배로 만든다",
     "specialName": "가 버리렴! 옥졸수들",
-    "special": "적 1명에게 공격력x15배의 [QCK] 데미지를 주고, 방어력 감소 중인 적에게 주는 데미지가 3턴 동안 1.3배가 된다"
+    "special": "적 1명에게 공격력x15배의 [QCK] 데미지를 주고, 방어력 감소 중인 적에게 주는 데미지가 3턴 동안 1.3배가 된다",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV for this character by 50",
+      "level2": "If your Captain is a Free Spirit or Striker character, completely resists Blindness"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV for this character by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Boosts base HP by 110"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: If your Captain is a Free Spirit or Striker character, completely resists Blindness"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turn on this character",
+          "Level 3: Reduces Slot Bind duration by ? turn on this character",
+          "Level 4: Reduces Slot Bind duration by ? turn on this character",
+          "Level 5: Reduces Slot Bind duration by ? turn on this character"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
   }
 }

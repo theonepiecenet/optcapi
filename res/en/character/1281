@@ -6,6 +6,11 @@
     "specialNotes": "#{ignoreBarrier}",
     "specialName": "Fist of Love - Falling Fortress"
   },
+  "aliases": [
+    "ガープ 海軍本部中将",
+    "",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -30,5 +35,52 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1281.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1281.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "The Bay - Oris Plaza",
+      "thumb": 1283,
+      "data": [
+        "08"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "7th Stage"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Prepare for Battle! Aokiji and Akainu!",
+      "thumb": 1280,
+      "data": [
+        "Aokiji"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Bandits! Dadan Family! Fortnight",
+      "thumb": 1520,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Captain Buggy"
+      ]
+    }
+  ]
 }

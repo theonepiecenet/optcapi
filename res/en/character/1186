@@ -97,6 +97,10 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "疾風の小剣士ハルタ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -117,9 +121,59 @@
     17,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1186,
+    "evolvers": [
+      118,
+      88,
+      99,
+      99,
+      104
+    ],
+    "from": 1185
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1186.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1186.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tontatta Tribe: Find the Beloved Prince?! Fortnight",
+      "thumb": 1332,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Wano Samurai! Fortnight",
+      "thumb": 1774,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sengoku"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

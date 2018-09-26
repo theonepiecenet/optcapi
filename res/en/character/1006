@@ -5,6 +5,10 @@
     "specialName": "Rush to Freedom",
     "special": "Boosts own ATK by 1.75x for 1 turn"
   },
+  "aliases": [
+    "ジャンバール ハートの海賊団",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +29,34 @@
     15,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1006,
+    "evolvers": [
+      116,
+      84,
+      89,
+      95,
+      100
+    ],
+    "from": 1005
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1006.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1006.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Let's Find Our Captain! Heart Pirates! Fortnight",
+      "thumb": 1003,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ]
 }

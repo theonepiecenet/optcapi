@@ -5,6 +5,11 @@
     "specialName": "Meteor Fist Shower",
     "captain": "Boosts ATK and HP of [PSY] characters by 1.5x"
   },
+  "aliases": [
+    "モンキー・D・ガープ",
+    "",
+    "Raid Garp"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0305.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0305.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Vice-Admiral Garp Raid",
+      "thumb": 306,
+      "data": [
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

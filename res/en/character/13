@@ -5,6 +5,10 @@
     "specialName": "Liar",
     "captain": "Boosts ATK of Shooter characters by 1.2x"
   },
+  "aliases": [
+    "ウソップ",
+    "Usopp"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -43,5 +47,46 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0013.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0013.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "01",
+        "Completion Units"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Straw Hat Pirates!",
+      "thumb": 1387,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "21st Anniversary Island",
+      "thumb": 1682,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Kuro's Master Plan Fortnight",
+      "thumb": 46,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

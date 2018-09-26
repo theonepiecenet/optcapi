@@ -1,5 +1,11 @@
 {
   "name": "Red Jeweled Porc",
+  "aliases": [
+    "赤パワース豚（トーン）",
+    "",
+    "Pig",
+    "Pork"
+  ],
   "unit": {
     "type": "STR",
     "class": "Booster",
@@ -42,5 +48,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0342.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0342.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Jeweled Porc Sanctuary",
+      "thumb": 347,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Brook"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    }
+  ],
+  "manual": []
 }

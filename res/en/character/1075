@@ -78,6 +78,11 @@
       }
     ]
   },
+  "aliases": [
+    "リッキー 謎の剣闘士",
+    "",
+    "King Riku"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -98,9 +103,51 @@
     17,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1075,
+    "evolvers": [
+      118,
+      94,
+      99,
+      304,
+      104
+    ],
+    "from": 1074
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1075.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1075.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Happiness! Fortnight",
+      "thumb": 1384,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Seeking The Best Art! Giolla and Brook! Fortnight",
+      "thumb": 1649,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Log Luffy"
+      ]
+    }
+  ]
 }

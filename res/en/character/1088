@@ -5,6 +5,11 @@
     "special": "Reduces crew's HP by 70%, deals 15x ATK in [QCK] damage to all enemies. Boosts ATK of Slasher and Driven characters by 1.5x for 1 turn.",
     "specialName": "Seven Stars Sword of Darkness"
   },
+  "aliases": [
+    "サガ",
+    "",
+    "Coliseum Saga"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1088.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1088.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

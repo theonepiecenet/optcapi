@@ -5,6 +5,11 @@
     "special": "Deals 25x character's ATK in [INT] damage to all enemies",
     "specialName": "Shark Knife - Flash"
   },
+  "aliases": [
+    "バスティーユ",
+    "",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,52 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1223.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1223.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Marineford Bay",
+      "thumb": 1228,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Characters"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "7th Stage"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Prepare for Battle! Aokiji and Akainu!",
+      "thumb": 1280,
+      "data": [
+        "Akainu"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Full Defense! Buddha Sengoku! Fortnight",
+      "thumb": 1416,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

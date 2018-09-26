@@ -5,6 +5,11 @@
     "specialName": "Hell Wink",
     "captain": "Boosts ATK of all characters by 2.25x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good"
   },
+  "aliases": [
+    "エンポリオ・イワンコフ",
+    "",
+    "Raid Ivankov"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +44,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0389.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0389.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Ivankov Raid",
+      "thumb": 390,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

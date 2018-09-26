@@ -5,6 +5,10 @@
     "specialName": "Scope",
     "captain": "Boosts RCV of [INT] characters by 1.5x"
   },
+  "aliases": [
+    "トニートニー・チョッパー 頭脳強化（ブレーンポイント）",
+    "Tony Tony Chopper Brain Boost"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +33,44 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0023.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0023.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Escaped! Morgan Fortnight",
+      "thumb": 228,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Robin and Nami's Secret Undercover Investigation Fortnight",
+      "thumb": 1112,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

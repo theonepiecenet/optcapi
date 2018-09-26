@@ -81,6 +81,10 @@
       }
     ]
   },
+  "aliases": [
+    "赤髪のシャンクス",
+    "Shanks le Roux"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -101,9 +105,60 @@
     25,
     20
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 77,
+    "evolvers": [
+      118,
+      83,
+      87,
+      98,
+      103
+    ],
+    "from": 76
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0077.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0077.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Franky - Pervert's Aesthetic! Fortnight",
+      "thumb": 337,
+      "data": [
+        "Elite",
+        "Expert"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Apprentices! Shanks and Buggy! Fortnight",
+      "thumb": 599,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Borsalino"
+      ]
+    }
+  ]
 }

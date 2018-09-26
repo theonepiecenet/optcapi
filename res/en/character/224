@@ -5,6 +5,12 @@
     "specialName": "Mutton Shot",
     "captain": "Boosts ATK of all characters by 2x after scoring 2 PERFECTs in a row"
   },
+  "aliases": [
+    "Mr.プリンス（羊肉（ムートン）ショット）",
+    "",
+    "Sanji",
+    "Mr Prince Mutton Shot"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -38,5 +44,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0224.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0224.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

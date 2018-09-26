@@ -81,6 +81,11 @@
       }
     ]
   },
+  "aliases": [
+    "ギルド・テゾーロ 黄金船のカジノ王",
+    "",
+    "Raid Tesoro"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -101,9 +106,21 @@
     25,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1163,
+    "evolvers": [
+      118,
+      1180
+    ],
+    "from": 1162
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1163.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1163.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

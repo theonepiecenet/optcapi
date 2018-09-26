@@ -5,6 +5,10 @@
     "specialName": "Shooting Spree",
     "captain": "Recovers 2x character's RCV in HP at the end of each turn"
   },
+  "aliases": [
+    "雑用コビー",
+    "Kobby le mousse"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -25,9 +29,31 @@
     13,
     7
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 32,
+    "evolvers": [
+      115,
+      81
+    ],
+    "from": 31
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0032.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0032.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Cobymeppo's Proving Ground! Fortnight",
+      "thumb": 263,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

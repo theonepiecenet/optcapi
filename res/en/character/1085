@@ -137,6 +137,13 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "イッショウ",
+    "",
+    "Fujitora",
+    "Legend Issho",
+    "Legend Fujitora"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -157,9 +164,59 @@
     24,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1085,
+    "evolvers": [
+      118,
+      88,
+      266,
+      304,
+      267
+    ],
+    "from": 1084
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1085.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1085.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tontatta Tribe: Catch the Big Person! Fortnight",
+      "thumb": 1328,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Dead-On Prophecy?! Madam Sharley Fortnight",
+      "thumb": 1670,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Issho"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

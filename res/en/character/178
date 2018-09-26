@@ -4,6 +4,10 @@
     "special": "Deals 5x character's ATK in character's type damage to all enemies",
     "specialName": "Hyper Shot"
   },
+  "aliases": [
+    "銃使いの魚人 アーロン一味",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -25,5 +29,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0178.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0178.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Arlong Park",
+      "thumb": 65,
+      "data": [
+        "01",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    }
+  ],
+  "manual": []
 }

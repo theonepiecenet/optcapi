@@ -5,6 +5,10 @@
     "special": "Changes Badly Matching orbs into [EMPTY] orbs, amplifies the effect of orbs by 1.5x for 2 turns",
     "specialName": "\"To the End of the Clouds\""
   },
+  "aliases": [
+    "コビー 雨の中の曹長",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +43,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1099.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1099.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

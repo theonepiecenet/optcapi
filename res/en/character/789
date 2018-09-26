@@ -5,6 +5,10 @@
     "specialName": "Real Sword Fight with a Girl Swordsman",
     "captain": "Boosts ATK of Slasher characters by 1.5x"
   },
+  "aliases": [
+    "くいな シモツキ村の少女剣士",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +29,58 @@
     15,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 789,
+    "evolvers": [
+      116,
+      80,
+      86
+    ],
+    "from": 788
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0789.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0789.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Clash! Whitebeard Pirates Fortnight",
+      "thumb": 979,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Ace"
+      ]
+    }
+  ]
 }

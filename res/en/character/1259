@@ -6,6 +6,12 @@
     "specialNotes": "#{beneficial}",
     "specialName": "Five Color Strings (Goshikito)"
   },
+  "aliases": [
+    "ドンキホーテ・ドフラミンゴ “北の海”の海賊",
+    "",
+    "Young Doffy",
+    "Donquixote Doflamingo"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +46,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1259.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1259.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

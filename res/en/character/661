@@ -5,6 +5,13 @@
     "specialName": "Atlas Comet",
     "captain": "Boosts ATK of Shooter characters by 2x, reduces cooldown of all specials by 1 turn at the start of the fight"
   },
+  "aliases": [
+    "ウソップ 航海の夢「勇敢なる海の戦士」",
+    "",
+    "Log Usopp",
+    "Endless Dream Usopp",
+    "Usopp, A Vow in the Great Age of Pirates - Brave Sea Warrior"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -22,9 +29,27 @@
     13,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 661,
+    "evolvers": [
+      117,
+      85,
+      94,
+      96,
+      101
+    ],
+    "from": 660
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0661.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0661.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

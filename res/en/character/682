@@ -4,6 +4,12 @@
     "special": "Recovers a random amount of HP, reduces damage received by 50% for 2 turns",
     "specialName": "Transcendental Serenity Healing"
   },
+  "aliases": [
+    "アイス大好きロビン",
+    "",
+    "Summertime Robin",
+    "Swimsuit Robin"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -38,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0682.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0682.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Girls of Summer Paradise",
+      "thumb": 683,
+      "data": [
+        "Part 1"
+      ]
+    }
+  ],
+  "manual": []
 }

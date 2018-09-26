@@ -5,6 +5,11 @@
     "specialName": "Smash Buster",
     "captain": "Boosts ATK of Shooter characters by 2x"
   },
+  "aliases": [
+    "ゼファー",
+    "",
+    "Raid Zephyr"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0352.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0352.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Black Arm Zephyr Raid",
+      "thumb": 353,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
 }

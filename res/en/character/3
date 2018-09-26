@@ -5,6 +5,10 @@
     "specialName": "Gum-Gum Bazooka",
     "captain": "Boosts ATK of all characters by 1.5x"
   },
+  "aliases": [
+    "モンキー・D・ルフィ ゴムゴムのバズーカ",
+    "Monkey D. Luffy Gum-Gum Bazooka"
+  ],
   "unit": {
     "type": "STR",
     "class": "Fighter",
@@ -31,9 +35,31 @@
       100
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 3,
+    "evolvers": [
+      115,
+      78
+    ],
+    "from": 2
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0003.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0003.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Buggy's Counterattack!! Fortnight",
+      "thumb": 39,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

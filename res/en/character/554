@@ -83,6 +83,12 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ロロノア・ゾロ 特攻の麦わらの一味",
+    "",
+    "Strong World Zoro",
+    "SW Zoro"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -103,9 +109,87 @@
     20,
     14
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 554,
+    "evolvers": [
+      118,
+      83,
+      97,
+      302,
+      102
+    ],
+    "from": 553
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0554.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0554.png"
-  }
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "The Queen of Kamabakka Queendom! Fortnight",
+      "thumb": 1037,
+      "data": [
+        "All Dificulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Battle Royale! Fortnight",
+      "thumb": 1766,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sengoku"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Pirate Hunter's Memories of Training",
+      "thumb": 1900,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

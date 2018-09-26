@@ -1,5 +1,9 @@
 {
   "name": "Sea Colt",
+  "aliases": [
+    "タツノワカ",
+    "Poulain marin"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Evolver",
@@ -18,5 +22,167 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0116.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0116.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Shells Town",
+      "thumb": 35,
+      "data": [
+        "06",
+        "09",
+        "Completion Units"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Orange Town",
+      "thumb": 38,
+      "data": [
+        "07",
+        "08",
+        "09",
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "04",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "02",
+        "08",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Arlong Park",
+      "thumb": 65,
+      "data": [
+        "08",
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Nanohana - Rainbase",
+      "thumb": 383,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "09",
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "01",
+        "15"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Angel Island - Upper Yard",
+      "thumb": 467,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Upper Yard - Ark Maxim",
+      "thumb": 545,
+      "data": [
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "03",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Sea Pony Paradise",
+      "thumb": 118,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Brook",
+        "Chopper",
+        "Luffy",
+        "Sanji"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "3rd Anniversary Celebration! Duel! Luffy",
+      "thumb": 1600,
+      "data": [
+        "30 Stamina",
+        "40 Stamina"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -4,6 +4,10 @@
     "special": "Recovers 5x character's RCV in HP",
     "specialName": "Light Healing"
   },
+  "aliases": [
+    "ピストルごろつき クロネコ海賊団",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -25,5 +29,22 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0168.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0168.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "07",
+        "08",
+        "12",
+        "13"
+      ]
+    }
+  ],
+  "manual": []
 }

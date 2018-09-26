@@ -5,6 +5,12 @@
     "special": "Recovers 13x character's RCV in HP and locks the chain multiplier at 2.5x for 1 turn",
     "specialName": "Sweet Style Petrification"
   },
+  "aliases": [
+    "ボア・ハンコック 渚にたたずむ女帝",
+    "",
+    "Summertime Hancock",
+    "Swimsuit Hancock"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +45,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1193.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1193.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

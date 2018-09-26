@@ -5,6 +5,11 @@
     "specialName": "10,000 Ton Vise of Hell",
     "special": "Changes [RCV] orbs into matching orbs"
   },
+  "aliases": [
+    "マッハ・バイス",
+    "",
+    "Mach Vise"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +44,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0990.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0990.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

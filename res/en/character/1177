@@ -6,6 +6,12 @@
     "captain": "Boosts ATK and RCV of [DEX] characters by 2x",
     "sailor": "When HP is below 30% at the start of the turn, boosts base RCV of himself by 50"
   },
+  "aliases": [
+    "チョッパー 信念に生きる麦わらの一味",
+    "",
+    "New Strong World Chopper",
+    "SW Chopper"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -26,9 +32,92 @@
     23,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1177,
+    "evolvers": [
+      118,
+      86,
+      266,
+      97,
+      302
+    ],
+    "from": 1176
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1177.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1177.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Calgara & Noland! Fortnight",
+      "thumb": 688,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Mountaintop Banquet! Enter the Generals! Fortnight",
+      "thumb": 897,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Encounter! Whitebeard Pirates Fortnight",
+      "thumb": 946,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Wano Samurai! Fortnight",
+      "thumb": 1774,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Log Luffy"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Sanji!",
+      "thumb": 1755,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

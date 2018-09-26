@@ -7,6 +7,10 @@
     "captain": "Boosts ATK of [DEX] characters by 1.5x, boosts damage of [DEX] specials by 1.5x",
     "captainNotes": "#{noFixedPerc}"
   },
+  "aliases": [
+    "カク 闇の正義の「ＣＰ９」",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -41,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0749.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0749.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -102,6 +102,10 @@
       }
     ]
   },
+  "aliases": [
+    "マンシェリー トンタッタ族王女",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -122,9 +126,59 @@
     24,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1079,
+    "evolvers": [
+      83,
+      87,
+      87,
+      303,
+      103
+    ],
+    "from": 1078
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1079.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1079.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Gather! Whitebeard Alliance Fortnight",
+      "thumb": 1254,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Brutal Fiend! Eustass Kid Fortnight",
+      "thumb": 1690,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Corazon"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Lucy"
+      ]
+    }
+  ]
 }

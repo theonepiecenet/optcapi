@@ -4,6 +4,11 @@
     "specialName": "Large Axe of Punishment",
     "special": "Deals 13x ATK to 1 enemy in [DEX] Damage. Turns [BLOCK] orbs into [RCV] orbs"
   },
+  "aliases": [
+    "ブルゴリ ",
+    "",
+    "Blue Gorilla"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -28,5 +33,33 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0931.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0931.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Impel Down",
+      "thumb": 1159,
+      "data": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "07",
+        "11"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Hannyabal's Great Ambition Fortnight",
+      "thumb": 929,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,10 @@
     "specialName": "Botanist's Great Discovery",
     "captain": "Boosts ATK and RCV of Slasher characters by 1.5x"
   },
+  "aliases": [
+    "モンブラン・ノーランド ルブニール王国探検船提督",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -26,9 +30,24 @@
     18,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 690,
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      104
+    ],
+    "from": 689
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0690.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0690.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -6,6 +6,10 @@
     "special": "Instantly defeats all enemies with current HP equal to or below 20% their MAX HP",
     "specialNotes": "The special bypasses all known protective buffs. If the enemy can revive after being defeated, however, the special will only reduce the enemy's HP to 0 and trigger their revive effect."
   },
+  "aliases": [
+    "シュガー",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -40,5 +44,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0871.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0871.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

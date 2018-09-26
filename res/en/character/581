@@ -5,6 +5,10 @@
     "specialName": "High-Caliber Bazooka",
     "captain": "Boosts ATK of [STR] characters by 1.5x"
   },
+  "aliases": [
+    "ゲンボウ",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +33,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0581.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0581.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Shandia - Dreams of a Homeland! Fortnight",
+      "thumb": 583,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -79,6 +79,12 @@
       }
     ]
   },
+  "aliases": [
+    "ニコ・ロビン 信念に生きる麦わらの一味",
+    "",
+    "New Strong World Robin",
+    "SW Robin"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -99,9 +105,108 @@
     16,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1208,
+    "evolvers": [
+      118,
+      88,
+      94,
+      304,
+      104
+    ],
+    "from": 1207
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1208.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1208.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Wanze's Ramen Kung Fu!! Fortnight",
+      "thumb": 743,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lightning Speed! Strawhat Crew's Surprise Visit Fortnight",
+      "thumb": 866,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Let's Find Our Captain! Heart Pirates! Fortnight",
+      "thumb": 1003,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Rumbar Pirates! Fortnight",
+      "thumb": 1203,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Wano Samurai! Fortnight",
+      "thumb": 1774,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Impostor Straw Hat Pirates Raid",
+      "thumb": 989,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Crocodile"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Nekomamushi"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

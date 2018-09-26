@@ -80,6 +80,13 @@
       }
     ]
   },
+  "aliases": [
+    "エネル　雷人間 ２億Ｖ　雷神",
+    "",
+    "Raid Enel the Lightning Human, 200 Million Volt Thunder God",
+    "God Enel",
+    "Kami Eneru"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -100,9 +107,24 @@
     32,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 603,
+    "evolvers": [
+      118,
+      266,
+      96,
+      301,
+      101
+    ],
+    "from": 602
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0603.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0603.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

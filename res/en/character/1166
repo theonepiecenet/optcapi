@@ -6,6 +6,10 @@
     "special": "Boosts chance of matching orbs and reduces the ATK of enemies for 1 turn",
     "specialName": "Lucky-Lucky Fruit"
   },
+  "aliases": [
+    "バカラ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -38,5 +42,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1166.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1166.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Welcome To The Gran Tesoro! Fortnight",
+      "thumb": 1167,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

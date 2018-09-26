@@ -5,6 +5,11 @@
     "specialName": "Disrupting Fire",
     "captain": "Boosts ATK and RCV of Shooter characters by 1.5x"
   },
+  "aliases": [
+    "ラキ",
+    "",
+    "Laki"
+  ],
   "unit": {
     "type": "INT",
     "class": "Shooter",
@@ -26,5 +31,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0583.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0583.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Shandia - Dreams of a Homeland! Fortnight",
+      "thumb": 583,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

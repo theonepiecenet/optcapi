@@ -6,6 +6,14 @@
     "specialName": "Poison Needle",
     "captain": "Reduces damage received by 20%, boosts ATK of [INT] characters by 2x"
   },
+  "aliases": [
+    "サー・クロコダイル",
+    "",
+    "Strikerdile",
+    "Impactdile",
+    "Mr 0",
+    "Mr. 0"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -52,5 +60,44 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0384.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0384.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Candy the Maiden-Hearted Fortnight",
+      "thumb": 436,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "T-Bone's Absolute Justice Fortnight",
+      "thumb": 724,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Kuzan"
+      ]
+    }
+  ]
 }

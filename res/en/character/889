@@ -5,6 +5,10 @@
     "specialName": "Ghost Rap",
     "special": "Changes [STR] orbs into [DEX] orbs, deals 10x character's ATK in [DEX] damage to all enemies"
   },
+  "aliases": [
+    "ペローナ スリラーバークの怪人",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +43,28 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0889.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0889.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "5th Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

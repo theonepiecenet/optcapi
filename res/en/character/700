@@ -5,6 +5,10 @@
     "specialName": "Slight Break",
     "captain": "Boosts ATK of Fighter characters by 1.75x"
   },
+  "aliases": [
+    "ナックル少佐 海軍本部",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Fighter",
@@ -22,9 +26,22 @@
     25,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 700,
+    "evolvers": [
+      116,
+      99,
+      304
+    ],
+    "from": 695
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0700.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0700.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

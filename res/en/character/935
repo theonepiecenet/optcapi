@@ -136,6 +136,18 @@
       }
     ]
   },
+  "aliases": [
+    "海侠のジンベエ 元王下七武海",
+    "",
+    "Jinbe",
+    "Jimbei",
+    "Jinbei",
+    "INTbe",
+    "Legend Jinbe",
+    "Legend Jimbei",
+    "Legend Jinbei",
+    "Shichibukai"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -166,9 +178,67 @@
       267
     ]
   },
-  "evolve": [],
+  "evolve": {
+    "evolution": 935,
+    "evolvers": [
+      118,
+      88,
+      266,
+      304,
+      267
+    ],
+    "from": 934
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0935.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0935.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Behind the Scenes Intelligency Agency: CP9 Fortnight",
+      "thumb": 1137,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Fugitive of Love and Passion!! Fortnight",
+      "thumb": 1450,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Jinbei"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Shirahoshi"
+      ]
+    }
+  ]
 }

@@ -5,6 +5,13 @@
     "specialName": "Sheep Cloud Relaxing Bubbles",
     "captain": "Boosts ATK and RCV of [DEX] characters by 1.2x, slightly boosts chances of getting [DEX] orbs"
   },
+  "aliases": [
+    "カリファ サイファーポールNo.9",
+    "",
+    "Califa, Cipher Pol No.9",
+    "Calipha, Cipher Pol No.9",
+    "Kalipha, Cipher Pol No.9"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +46,36 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0728.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0728.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Tower of Law - Gates of Justice",
+      "thumb": 737,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Chopper"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "4th Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

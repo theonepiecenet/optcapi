@@ -4,6 +4,10 @@
     "special": "Deals 10x character's ATK in character's type damage to one enemy",
     "specialName": "Hyper Slash"
   },
+  "aliases": [
+    "斬撃隊　武装隊員 ブラックパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Slasher",
@@ -21,9 +25,21 @@
     40,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 278,
+    "evolvers": [
+      116,
+      99
+    ],
+    "from": 151
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0278.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0278.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

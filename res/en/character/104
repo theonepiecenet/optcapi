@@ -1,5 +1,9 @@
 {
   "name": "Black Striped Dragon",
+  "aliases": [
+    "赤しま番竜",
+    "Dragon rayé noir"
+  ],
   "unit": {
     "type": "INT",
     "class": "Evolver",
@@ -18,5 +22,31 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0104.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0104.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Dragon Sanctuary",
+      "thumb": 267,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Bartolomeo",
+        "Blackbeard",
+        "Donquixote Doflamingo",
+        "Sabo",
+        "Sengoku"
+      ]
+    }
+  ],
+  "manual": []
 }

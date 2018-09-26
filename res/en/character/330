@@ -1,5 +1,9 @@
 {
   "name": "Chess",
+  "aliases": [
+    "チェス",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Shooter",
@@ -26,5 +30,30 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0330.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0330.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Drum Island",
+      "thumb": 326,
+      "data": [
+        "04",
+        "09",
+        "12"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Wapol's Revenge Fortnight",
+      "thumb": 852,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

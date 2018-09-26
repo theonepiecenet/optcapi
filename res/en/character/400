@@ -5,6 +5,10 @@
     "specialName": "Spike-U-Puncture",
     "captain": "Boosts HP of Striker characters by 2x"
   },
+  "aliases": [
+    "ミス・ダブルフィンガー 棘（とげ）人間",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +29,49 @@
     15,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 400,
+    "evolvers": [
+      80,
+      86,
+      91,
+      302
+    ],
+    "from": 399
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0400.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0400.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Crocodile: Life on the Inside Fortnight",
+      "thumb": 510,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Sky Night Ganfor Fortnight",
+      "thumb": 713,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sengoku"
+      ]
+    }
+  ]
 }

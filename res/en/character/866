@@ -5,6 +5,11 @@
     "specialName": "Cien Fleur Wing: The Storm",
     "special": "Boosts ATK of Slasher and Cerebral characters by 1.3x for 2 turns, reduces Bind duration by 2 turns"
   },
+  "aliases": [
+    "ニコ・ロビン 百花繚乱 ウイング“華”",
+    "",
+    "Kimono Robin"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0866.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0866.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Lightning Speed! Strawhat Crew's Surprise Visit Fortnight",
+      "thumb": 866,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,10 @@
     "captain": "Boosts ATK of the whole crew by 1.5x and protects from defeat as long as HP is above 70%",
     "captainNotes": "#{zombie}"
   },
+  "aliases": [
+    "鼻唄のブルック",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,9 +30,24 @@
     24,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 424,
+    "evolvers": [
+      117,
+      79,
+      85,
+      96,
+      101
+    ],
+    "from": 423
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0424.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0424.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

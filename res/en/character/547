@@ -6,6 +6,11 @@
     "specialNotes": "#{zombie}",
     "captain": "Boosts chances of getting [RCV] orbs"
   },
+  "aliases": [
+    "モンキー・D・ルフィ コルボ山の悪ガキ３兄弟",
+    "",
+    "Kid Luffy"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +45,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0547.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0547.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

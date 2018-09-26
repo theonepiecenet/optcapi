@@ -5,6 +5,10 @@
     "special": "Amplifies the effect of orbs by 1.25x for 3 turns, recovers 8x character's RCV at the end of the turn for 3 turns.",
     "specialName": "Impish Sultry Dance"
   },
+  "aliases": [
+    "ニコ・ロビン 若返った考古学者",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +43,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1111.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1111.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Robin and Nami's Secret Undercover Investigation Fortnight",
+      "thumb": 1112,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

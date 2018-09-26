@@ -4,6 +4,10 @@
     "specialName": "Paralysis Recovery - Light",
     "special": "Reduces Paralysis duration by 1 turn"
   },
+  "aliases": [
+    "包囲の制服看守",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -28,5 +32,10 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1148.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1148.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

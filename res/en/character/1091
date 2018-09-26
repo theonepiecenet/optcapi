@@ -81,6 +81,13 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "赤旗 X・ドレーク ドレーク海賊団",
+    "Coliseum Drake",
+    "Coliseum X Drake",
+    "Supernova Drake",
+    "Supernova X Drake"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -101,9 +108,24 @@
     25,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1091,
+    "evolvers": [
+      118,
+      83,
+      87,
+      303,
+      103
+    ],
+    "from": 1090
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1091.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1091.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

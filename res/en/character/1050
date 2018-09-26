@@ -5,6 +5,10 @@
     "special": "Reduces Bind duration by 4 turns and Reduces damage received by 50% for 2 turns",
     "specialName": "Dereshishishi Towards Hope"
   },
+  "aliases": [
+    "ハグワール・D・サウロ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -39,5 +43,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1050.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1050.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Archaeologist Nico Olvia Fortnight",
+      "thumb": 1049,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

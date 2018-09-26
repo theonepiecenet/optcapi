@@ -5,6 +5,11 @@
     "specialName": "Barco Grabber Breath",
     "captain": "Boosts HP of [STR] characters by 2x"
   },
+  "aliases": [
+    "マシラ",
+    "",
+    "Harambe"
+  ],
   "unit": {
     "type": "STR",
     "class": "Fighter",
@@ -26,5 +31,54 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0426.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0426.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "03"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lightning Speed! Strawhat Crew's Surprise Visit Fortnight",
+      "thumb": 866,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Chief Jailer Sadie Fortnight",
+      "thumb": 550,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Twilight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 761,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Log Luffy"
+      ]
+    }
+  ]
 }

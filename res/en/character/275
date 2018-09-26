@@ -4,6 +4,10 @@
     "special": "Reduces the defense of all enemies by 50% for 1 turn",
     "specialName": "Shield Crusher"
   },
+  "aliases": [
+    "斬撃隊　武装隊員 ブルーパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Slasher",
@@ -21,9 +25,21 @@
     15,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 275,
+    "evolvers": [
+      116,
+      96
+    ],
+    "from": 148
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0275.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0275.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

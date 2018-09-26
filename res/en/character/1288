@@ -6,6 +6,12 @@
     "special": "Reduces Special Cooldown of Driven specials by 1 turn. If during that turn every unit scores a PERFECT hit, reduces Special Cooldown of Driven specials by 1 turn.",
     "specialName": "Outcome of Sparta"
   },
+  "aliases": [
+    "トラファルガー・ロー スパイダーマイルズの少年",
+    "",
+    "Kid Trafalgar Law",
+    "Kid Law"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -39,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1288.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1288.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Young Donquixote Pirates - Baby 5 And Buffalo Fortnight",
+      "thumb": 1287,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

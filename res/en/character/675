@@ -3,8 +3,87 @@
   "detail": {
     "special": "Removes Poison, reduces damage received by 50% for 2 turns, recovers 13x character's RCV in HP at the end of each turn for 2 turns",
     "specialName": "Emporio Healing Hormone",
-    "captain": "Boosts ATK of Free Spirit characters by 2.5x"
+    "captain": "Boosts ATK of Free Spirit characters by 2.5x",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Blindness duration by 3 turns",
+      "level2": "When HP is below ?% at the start of the turn, boosts base RCV of all characters by 50"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Blindness duration by 3 turns"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: When HP is below ?% at the start of the turn, boosts base RCV of all characters by 50"
+      },
+      {
+        "description": "Boosts base RCV by 45"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[PSY] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by ?%",
+          "Level 3: Reduce damage taken from [PSY] characters by ?%",
+          "Level 4: Reduce damage taken from [PSY] characters by ?%",
+          "Level 5: Reduce damage taken from [PSY] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
   },
+  "aliases": [
+    "エンポリオ・イワンコフ 革命軍",
+    "",
+    "INTvankov"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +104,67 @@
     21,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 675,
+    "evolvers": [
+      118,
+      83,
+      88,
+      304,
+      104
+    ],
+    "from": 674
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0675.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0675.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Operation: Proposal! Fortnight",
+      "thumb": 808,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Riverside Banquet! Enter the Crazy Ones! Fortnight",
+      "thumb": 885,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Welcome To The Gran Tesoro! Fortnight",
+      "thumb": 1167,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Trafalgar Law"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Judge"
+      ]
+    }
+  ]
 }

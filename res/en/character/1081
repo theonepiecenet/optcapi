@@ -80,6 +80,10 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "キュロス 元リク王軍軍隊長",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +104,51 @@
     18,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1081,
+    "evolvers": [
+      86,
+      266,
+      97,
+      302,
+      102
+    ],
+    "from": 1080
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1081.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1081.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Revealing the Truth! Fortnight",
+      "thumb": 1242,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Dead-On Prophecy?! Madam Sharley Fortnight",
+      "thumb": 1670,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Zoro"
+      ]
+    }
+  ]
 }

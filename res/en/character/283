@@ -4,6 +4,10 @@
     "special": "Deals 10x character's ATK in character's type damage to one enemy",
     "specialName": "Hyper Spiral"
   },
+  "aliases": [
+    "突撃隊　武装隊員 ブラックパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": "Striker",
@@ -21,9 +25,21 @@
     40,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 283,
+    "evolvers": [
+      82,
+      88
+    ],
+    "from": 156
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0283.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0283.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

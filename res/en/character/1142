@@ -6,6 +6,12 @@
     "specialNotes": "#{randomHits : 15}",
     "specialName": "Gorilla Punch: Golden Strike"
   },
+  "aliases": [
+    "フォクシー ドーナツレースの邪魔者",
+    "",
+    "Coliseum Foxy",
+    "Dying Foxy"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -40,5 +46,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1142.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1142.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,10 @@
     "specialNotes": "#{random : 1 : 10,000}",
     "captain": "Boosts RCV of [PSY] characters by 1.5x"
   },
+  "aliases": [
+    "シンドリーちゃん",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -36,5 +40,43 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0387.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0387.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "06"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Dr. Hogback's Lab of the Dead Fortnight",
+      "thumb": 386,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "5th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

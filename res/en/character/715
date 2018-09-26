@@ -5,6 +5,10 @@
     "specialName": "Angel's Harp - Healing",
     "captain": "Boosts RCV of all characters by 2x if HP is below 30% at the start of the turn"
   },
+  "aliases": [
+    "コニス",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Free Spirit",
@@ -35,5 +39,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0715.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0715.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Sky Night Ganfor Fortnight",
+      "thumb": 713,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -6,6 +6,10 @@
     "special": "Instantly defeats all enemies with current HP less than or equal to 20% their MAX HP",
     "specialNotes": "The special bypasses all known protective buffs. If the enemy can revive after being defeated, however, the special will only reduce the enemy's HP to 0 and trigger their revive effect."
   },
+  "aliases": [
+    "シュガー ドンキホーテ海賊団",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -26,9 +30,59 @@
     16,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 872,
+    "evolvers": [
+      83,
+      85,
+      96,
+      301,
+      101
+    ],
+    "from": 871
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0872.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0872.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Archaeologist Nico Olvia Fortnight",
+      "thumb": 1049,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Chinjao Family! Fortnight",
+      "thumb": 1426,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Whitebeard"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

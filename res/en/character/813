@@ -5,6 +5,11 @@
     "special": "Delays all enemies for 1 turn, amplifies the effect of orbs by 1.25x for 1 turn",
     "specialNotes": "#{orb : 1.25x}"
   },
+  "aliases": [
+    "タララン",
+    "",
+    "Spider Monkey"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,52 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0813.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0813.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "08"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "5th Stage"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Queen of Kamabakka Queendom! Fortnight",
+      "thumb": 1037,
+      "data": [
+        "All Dificulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Full Defense! Buddha Sengoku! Fortnight",
+      "thumb": 1416,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Black Clad Shanks"
+      ]
+    }
+  ]
 }

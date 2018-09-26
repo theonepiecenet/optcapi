@@ -5,6 +5,11 @@
     "special": "For Cerebral and Powerhouse characters, changes all orbs including [BLOCK] orbs to Badly Matching. Deals [INT] damage to all enemies",
     "specialName": "Investigator of Sorrow"
   },
+  "aliases": [
+    "スカイブリーダー・オーム",
+    "",
+    "Coliseum Ohm"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +34,24 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1197.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1197.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

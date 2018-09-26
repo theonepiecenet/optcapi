@@ -5,6 +5,12 @@
     "specialName": "March!! Usopp Pirates",
     "captain": "Boosts ATK, HP and RCV of STR, [DEX] and [QCK] characters by 1.25x"
   },
+  "aliases": [
+    "たまねぎ＆ピーマン＆にんじん ウソップ海賊団",
+    "",
+    "Usopp Pirates",
+    "Tamanegi, Piiman & Ninjin"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +31,49 @@
     17,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 791,
+    "evolvers": [
+      89,
+      90,
+      91
+    ],
+    "from": 790
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0791.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0791.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Secret Garden! Men are Forbidden!? Fortnight",
+      "thumb": 918,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Dracule Mihawk"
+      ]
+    }
+  ]
 }

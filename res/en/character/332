@@ -5,6 +5,10 @@
     "specialName": "Snow-Slicing Blade",
     "captain": "Boosts ATK, HP and RCV of Striker characters by 1.2x"
   },
+  "aliases": [
+    "チェスマーリモ",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Striker",
@@ -22,9 +26,63 @@
     16,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 332,
+    "evolvers": [
+      116,
+      330,
+      302
+    ],
+    "from": 331
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0332.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0332.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Rising Sun, Rising Fortunes Fortnight",
+      "thumb": 420,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Brother Soul! Afro Luffy! Fortnight",
+      "thumb": 571,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Apprentices! Shanks and Buggy! Fortnight",
+      "thumb": 599,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Twilight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 761,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sabo"
+      ]
+    }
+  ]
 }

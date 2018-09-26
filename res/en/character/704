@@ -4,6 +4,10 @@
     "special": "Deals 9x character's ATK in [STR] damage to all enemies, reduces the defense of all enemies by 50% for 1 turn",
     "specialName": "Companion's Guilt"
   },
+  "aliases": [
+    "有罪陪審員",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": "Striker",
@@ -25,5 +29,45 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0704.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0704.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Enies Lobby Front Gate",
+      "thumb": 706,
+      "data": [
+        "07",
+        "09"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Riverside Banquet! Enter the Crazy Ones! Fortnight",
+      "thumb": 885,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Behind the Scenes Intelligency Agency: CP9 Fortnight",
+      "thumb": 1137,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Jinbei"
+      ]
+    }
+  ]
 }

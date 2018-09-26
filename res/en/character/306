@@ -81,6 +81,11 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "ゲンコツのガープ",
+    "",
+    "Raid Garp"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -101,9 +106,24 @@
     28,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 306,
+    "evolvers": [
+      118,
+      87,
+      87,
+      303,
+      103
+    ],
+    "from": 305
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0306.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0306.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

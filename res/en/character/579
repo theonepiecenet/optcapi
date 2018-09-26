@@ -5,6 +5,13 @@
     "specialName": "Dragon Twister",
     "captain": "Boosts ATK of [QCK] and [DEX] characters by 1.5x"
   },
+  "aliases": [
+    "ロロノア・ゾロ 航海の記録・麦わらの一味",
+    "",
+    "Log Zoro",
+    "Endless Dream Zoro",
+    "Roronoa Zoro, Wake of an Endless Dream - Straw Hat Pirates"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +46,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0579.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0579.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
 }

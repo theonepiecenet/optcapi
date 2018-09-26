@@ -78,6 +78,11 @@
       }
     ]
   },
+  "aliases": [
+    "一撃のナミュール",
+    "",
+    "One-Hit Namur"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -98,9 +103,76 @@
     25,
     18
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 451,
+    "evolvers": [
+      118,
+      83,
+      86,
+      302,
+      102
+    ],
+    "from": 450
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0451.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0451.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Camie and Hachi's Takoyaki Stand! Fortnight",
+      "thumb": 635,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Lightning Speed! Strawhat Crew's Surprise Visit Fortnight",
+      "thumb": 866,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Dead-On Prophecy?! Madam Sharley Fortnight",
+      "thumb": 1670,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Wano Samurai! Fortnight",
+      "thumb": 1774,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Corazon"
+      ]
+    }
+  ]
 }

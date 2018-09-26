@@ -32,6 +32,11 @@
       }
     ]
   },
+  "aliases": [
+    "メイナード 海軍本部中将",
+    "",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -66,5 +71,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1235.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1235.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

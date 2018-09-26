@@ -4,6 +4,10 @@
     "special": "Recovers 5x character's RCV in HP",
     "specialName": "Light Healing"
   },
+  "aliases": [
+    "サーベルごろつき クロネコ海賊団",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Slasher",
@@ -25,5 +29,25 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0166.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0166.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "03",
+        "04",
+        "07",
+        "08",
+        "10",
+        "12",
+        "13"
+      ]
+    }
+  ],
+  "manual": []
 }

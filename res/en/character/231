@@ -5,6 +5,10 @@
     "specialName": "Kimono Sleeve Cage",
     "captain": "Boosts ATK of [QCK] characters by 2x"
   },
+  "aliases": [
+    "ヒナ",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +43,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0231.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0231.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Hina's Resort Getaway Fortnight",
+      "thumb": 232,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Characters"
+      ]
+    }
+  ],
+  "manual": []
 }

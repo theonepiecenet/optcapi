@@ -5,6 +5,10 @@
     "specialName": "Cleansing Wash",
     "captain": "Boosts ATK of Shooter characters by 2x"
   },
+  "aliases": [
+    "おつるさん",
+    ""
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -39,5 +43,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0296.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0296.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Tsuru's Morning Stroll Fortnight",
+      "thumb": 297,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Akainu",
+      "thumb": 1283,
+      "data": [
+        "Characters"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,11 @@
     "specialName": "Hot Blooded Bat",
     "captain": "Boosts ATK of Striker characters by 1.5x"
   },
+  "aliases": [
+    "Mr.9 （熱血ナイン根性バット）",
+    "",
+    "Mr 9 Hot Blooded Bat"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -22,9 +27,55 @@
     15,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 212,
+    "evolvers": [
+      116,
+      79,
+      90
+    ],
+    "from": 211
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0212.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0212.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Smoker's Great Pursuit Fortnight",
+      "thumb": 268,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Crocodile: Life on the Inside Fortnight",
+      "thumb": 510,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

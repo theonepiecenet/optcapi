@@ -4,6 +4,10 @@
     "special": "Boosts chances of getting [DEX] orbs for 2 turns",
     "specialName": "Deadly Glare"
   },
+  "aliases": [
+    "バシリスク",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -28,5 +32,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0540.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0540.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Impel Down",
+      "thumb": 1159,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Domino's Special Security Fortnight",
+      "thumb": 538,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

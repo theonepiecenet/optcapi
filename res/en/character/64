@@ -5,6 +5,11 @@
     "specialName": "New Year's Open Body Slam",
     "captain": "Reduces damage received from [DEX] enemies by 50%"
   },
+  "aliases": [
+    "六刀流のハチ",
+    "Octy aux six lames",
+    "Hatchan"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +30,39 @@
     15,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 64,
+    "evolvers": [
+      116,
+      80,
+      91
+    ],
+    "from": 63
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0064.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0064.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Cobymeppo's Proving Ground! Fortnight",
+      "thumb": 263,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Camie and Hachi's Takoyaki Stand! Fortnight",
+      "thumb": 635,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

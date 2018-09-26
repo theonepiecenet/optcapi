@@ -5,6 +5,12 @@
     "specialName": "Future Country's Big Incident: The Nightmare of Baldimore",
     "special": "Reduces damage received from [QCK] enemies by 100% for 1 turn"
   },
+  "aliases": [
+    "フランキー メカアニマルと戦う改造人間",
+    "",
+    "Timeskip Franky",
+    "3D2Y Franky"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -39,5 +45,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0942.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0942.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

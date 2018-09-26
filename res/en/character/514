@@ -5,6 +5,12 @@
     "specialName": "Blooming Flower of Everlasting Summer",
     "captain": "Boosts ATK of [INT] characters by 2x"
   },
+  "aliases": [
+    "ニコ・ロビン トロピカル",
+    "",
+    "Summertime Robin",
+    "Swimsuit Robin"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -29,5 +35,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0514.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0514.png"
-  }
+  },
+  "flags": {
+    "special": 1,
+    "shop": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

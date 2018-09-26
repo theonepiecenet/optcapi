@@ -6,6 +6,10 @@
     "specialNotes": "#{orb : 1.5x}",
     "specialName": "Strong Bow of Rejection"
   },
+  "aliases": [
+    "マーガレット 九蛇の戦士",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -23,9 +27,40 @@
     15,
     9
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1060,
+    "evolvers": [
+      116,
+      92,
+      98,
+      303
+    ],
+    "from": 1059
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1060.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1060.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Jailbreak Battle! Mr. 3 and Buggy Fortnight",
+      "thumb": 1304,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Kuzan"
+      ]
+    }
+  ]
 }

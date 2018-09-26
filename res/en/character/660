@@ -5,6 +5,13 @@
     "specialName": "Atlas Comet",
     "captain": "Boosts ATK of Shooter characters by 2x"
   },
+  "aliases": [
+    "ウソップ 航海の記録・麦わらの一味",
+    "",
+    "Log Usopp",
+    "Endless Dream Usopp",
+    "Usopp, Wake of an Endless Dream - Straw Hat Pirates"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Striker",
@@ -36,5 +43,13 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0660.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0660.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

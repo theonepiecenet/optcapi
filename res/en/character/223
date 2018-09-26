@@ -5,6 +5,10 @@
     "specialName": "Impact",
     "captain": "Boosts ATK of [PSY] characters by 1.5x"
   },
+  "aliases": [
+    "ウソップ（衝撃（インパクト））",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Shooter",
@@ -22,9 +26,82 @@
     17,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 223,
+    "evolvers": [
+      117,
+      81,
+      98,
+      83
+    ],
+    "from": 222
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0223.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0223.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tsuru's Morning Stroll Fortnight",
+      "thumb": 297,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Adrift!? Humming Brook Fortnight",
+      "thumb": 424,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!? Usopp'n Raid",
+      "thumb": 518,
+      "data": [
+        "Ultimate"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Corazon"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "20th Anniversary! Nico Robin!",
+      "thumb": 1684,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

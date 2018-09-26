@@ -6,6 +6,10 @@
     "special": "Reduces Paralysis duration by 3 turns and Recovers 4x character's RCV in HP at the end of each turn for 3 turns",
     "specialName": "Mother's Wish to Fight The World"
   },
+  "aliases": [
+    "ニコ・オルビア オハラの考古学者",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -26,9 +30,24 @@
     22,
     15
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1049,
+    "evolvers": [
+      117,
+      81,
+      81,
+      87,
+      103
+    ],
+    "from": 1048
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1049.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1049.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

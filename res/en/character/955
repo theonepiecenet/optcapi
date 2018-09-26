@@ -5,6 +5,11 @@
     "specialName": "Get Rich Quick Scheme! We're All Gonna Be Rich",
     "special": "Boosts ATK against enemies with reduced defense by 1.2x for 2 turns"
   },
+  "aliases": [
+    "マクロ",
+    "",
+    "Makuro"
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -29,5 +34,44 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0955.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0955.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "01"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Revealing the Truth! Fortnight",
+      "thumb": 1242,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Dead-On Prophecy?! Madam Sharley Fortnight",
+      "thumb": 1670,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Sakazuki"
+      ]
+    }
+  ]
 }

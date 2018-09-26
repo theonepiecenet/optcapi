@@ -7,6 +7,11 @@
     "captain": "Boosts ATK of all characters by 3.5x after scoring 3 hits below Good in a row",
     "sailor": "When HP is below 30% at the start of the turn, boosts base ATK of Cerebral characters by 50"
   },
+  "aliases": [
+    "キラー",
+    "",
+    "Supernova Killer"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -41,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0311.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0311.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
 }

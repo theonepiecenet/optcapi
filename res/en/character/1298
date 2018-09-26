@@ -80,6 +80,12 @@
       }
     ]
   },
+  "aliases": [
+    "赤犬 マグマ人間",
+    "",
+    "Raid Sakazuki",
+    "Raid Akainu"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -100,9 +106,24 @@
     32,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1298,
+    "evolvers": [
+      118,
+      94,
+      300,
+      300,
+      100
+    ],
+    "from": 1297
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1298.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1298.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

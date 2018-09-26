@@ -5,6 +5,10 @@
     "specialName": "Hyper Slash",
     "captain": "Boosts HP of [QCK] characters by 1.2x"
   },
+  "aliases": [
+    "ヒグマ",
+    "Higuma"
+  ],
   "unit": {
     "type": "QCK",
     "class": "Slasher",
@@ -26,5 +30,27 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0027.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0027.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Fushia Village",
+      "thumb": 28,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "1st Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

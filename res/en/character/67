@@ -5,6 +5,10 @@
     "specialName": "Quick Draw",
     "captain": "Boosts RCV of Slasher characters by 1.5x"
   },
+  "aliases": [
+    "たしぎ",
+    "Tashigi"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -39,5 +43,35 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0067.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0067.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "10"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Smoker's Great Pursuit Fortnight",
+      "thumb": 268,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Characters"
+      ]
+    }
+  ],
+  "manual": []
 }

@@ -5,6 +5,10 @@
     "special": "Randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX], [QCK], [PSY], or [INT] orbs",
     "specialName": "Lack of Pure Chi: Lion Finger Gun Sneak Attack"
   },
+  "aliases": [
+    "クマドリ 世界政府直下暗躍諜報機関",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +33,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1139.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1139.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Behind the Scenes Intelligency Agency: CP9 Fortnight",
+      "thumb": 1137,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

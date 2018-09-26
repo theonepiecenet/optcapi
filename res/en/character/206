@@ -5,6 +5,10 @@
     "specialName": "Colors Trap: Calming Green",
     "captain": "Boosts HP and RCV of [DEX] characters by 1.2x"
   },
+  "aliases": [
+    "ミス・ゴールデンウィーク カラーズトラップ なごみの緑",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -25,9 +29,46 @@
     15,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 206,
+    "evolvers": [
+      94,
+      80
+    ],
+    "from": 205
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0206.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0206.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Smoker's Great Pursuit Fortnight",
+      "thumb": 268,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Rising Sun, Rising Fortunes Fortnight",
+      "thumb": 420,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Aokiji",
+      "thumb": 1280,
+      "data": [
+        "Global"
+      ]
+    }
+  ]
 }

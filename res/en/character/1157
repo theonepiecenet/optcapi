@@ -6,6 +6,10 @@
     "specialName": "Abyss Road",
     "specialNotes": "#{zombie}"
   },
+  "aliases": [
+    "ハンニャバル副署長 海底監獄インペルダウン",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": [
@@ -26,9 +30,41 @@
     23,
     17
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1157,
+    "evolvers": [
+      117,
+      81,
+      87,
+      92,
+      98
+    ],
+    "from": 1156
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1157.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1157.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Gather the Candy! Fortnight",
+      "thumb": 1357,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Boa Hancock"
+      ]
+    }
+  ]
 }

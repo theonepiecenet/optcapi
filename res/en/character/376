@@ -5,6 +5,10 @@
     "specialName": "Crystal Shield INT",
     "captain": "Boosts ATK of Fighter characters by 1.5x"
   },
+  "aliases": [
+    "巨人格闘近衛隊 イエローパイレーツ",
+    ""
+  ],
   "unit": {
     "type": "PSY",
     "class": "Fighter",
@@ -22,9 +26,31 @@
     25,
     12
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 376,
+    "evolvers": [
+      116,
+      92,
+      98
+    ],
+    "from": 371
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0376.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0376.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Shandia - Dreams of a Homeland! Fortnight",
+      "thumb": 583,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

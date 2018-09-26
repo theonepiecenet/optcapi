@@ -4,6 +4,10 @@
     "specialName": "Binding Iron Chain",
     "special": "Boosts ATK against delayed enemies by 1.2x for 1 turn"
   },
+  "aliases": [
+    "ホットドッグ将軍",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -28,5 +32,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1013.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1013.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Butler and Strange Animal Island Fortnight",
+      "thumb": 1011,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

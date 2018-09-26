@@ -8,6 +8,11 @@
     "specialName": "Ojos Fleur: Thriller",
     "captain": "Boosts ATK and RCV of [DEX] characters by 1.5x"
   },
+  "aliases": [
+    "ニコ・ロビン セクシーデビル",
+    "",
+    "Halloween Robin"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -32,5 +37,20 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0767.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0767.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Midnight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 766,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ],
+  "manual": []
 }

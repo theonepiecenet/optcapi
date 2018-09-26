@@ -7,6 +7,11 @@
     "sailor": "Reduces own Silence by 1 turn",
     "sailorNotes": "#{silence}"
   },
+  "aliases": [
+    "遊騎士ドーマ 白ひげ海賊団傘下",
+    "",
+    "Coliseum Doma"
+  ],
   "unit": {
     "type": "INT",
     "class": "Slasher",
@@ -28,5 +33,32 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1252.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1252.png"
-  }
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Exhibition"
+      ]
+    }
+  ],
+  "manual": []
 }

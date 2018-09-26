@@ -5,6 +5,11 @@
     "specialName": "The Entushiasm to Keep Skilled Workers in Line",
     "captain": "Boosts ATK and RCV of Cerebral characters by 1.5x"
   },
+  "aliases": [
+    "アイスバーグ Ｗ７市長＆ガレーラカンパニー社長",
+    "",
+    "Iceberg, Mayor of W7 and President of Galley-La Company"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -25,9 +30,50 @@
     22,
     16
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 793,
+    "evolvers": [
+      116,
+      117,
+      99
+    ],
+    "from": 792
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0793.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0793.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Encounter! Whitebeard Pirates Fortnight",
+      "thumb": 946,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Borsalino"
+      ]
+    }
+  ]
 }

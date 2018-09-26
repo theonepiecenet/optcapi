@@ -1,5 +1,9 @@
 {
   "name": "Sea Pony",
+  "aliases": [
+    "タツノコ",
+    "Poney marin"
+  ],
   "unit": {
     "type": "PSY",
     "class": "Evolver",
@@ -18,5 +22,106 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0115.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0115.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Fushia Village",
+      "thumb": 28,
+      "data": [
+        "02"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Alvida's Hideout",
+      "thumb": 29,
+      "data": [
+        "03"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Shells Town",
+      "thumb": 35,
+      "data": [
+        "04"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Orange Town",
+      "thumb": 38,
+      "data": [
+        "01",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Syrup Village",
+      "thumb": 45,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "13"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "01"
+      ]
+    },
+    {
+      "type": "Booster and Evolver Island",
+      "name": "Sea Pony Paradise",
+      "thumb": 118,
+      "data": [
+        " "
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Brook",
+        "Chopper",
+        "Luffy",
+        "Sanji"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "3rd Anniversary Celebration! Duel! Luffy",
+      "thumb": 1600,
+      "data": [
+        "30 Stamina",
+        "40 Stamina"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "Evolvers and Boosters"
+      ]
+    }
+  ],
+  "manual": []
 }

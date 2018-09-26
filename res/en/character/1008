@@ -5,6 +5,11 @@
     "specialName": "Cherry Blossom Storm: Spring Pattern",
     "special": "Changes adjacent orbs into [RCV] and recovers 3,000 HP"
   },
+  "aliases": [
+    "モネ　大寒桜",
+    "",
+    "Sakura Monet"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -25,9 +30,27 @@
     13,
     13
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1008,
+    "evolvers": [
+      117,
+      85,
+      87,
+      96,
+      98
+    ],
+    "from": 1007
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1008.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1008.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

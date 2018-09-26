@@ -5,6 +5,10 @@
     "specialName": "Superhuman Brass Knuckles",
     "captain": "Boosts ATK of Fighter characters by 1.5x"
   },
+  "aliases": [
+    "ミス・マンデー カ・イ・リ・キ メリケン",
+    ""
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -25,9 +29,47 @@
     20,
     11
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 236,
+    "evolvers": [
+      116,
+      78,
+      89
+    ],
+    "from": 235
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0236.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0236.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Tsuru's Morning Stroll Fortnight",
+      "thumb": 297,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Prison Break! Baroque Works Fortnight",
+      "thumb": 462,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Crocodile"
+      ]
+    }
+  ]
 }

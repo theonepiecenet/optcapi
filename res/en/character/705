@@ -5,6 +5,10 @@
     "specialName": "Guilty Verdict - \"Slow Death Penalty\"",
     "captain": "Boosts ATK and HP of [STR] characters, [DEX] characters and [QCK] characters by 1.25x"
   },
+  "aliases": [
+    "３つ首のバスカビル",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Slasher",
@@ -26,5 +30,45 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0705.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0705.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Enies Lobby Front Gate",
+      "thumb": 706,
+      "data": [
+        "09"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "The Secret Garden! Men are Forbidden!? Fortnight",
+      "thumb": 918,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Behind the Scenes Intelligency Agency: CP9 Fortnight",
+      "thumb": 1137,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Cavendish"
+      ]
+    }
+  ]
 }

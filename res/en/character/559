@@ -7,6 +7,12 @@
     "captain": "Boosts ATK of [STR] characters by 2x, deals 2x character's ATK in [STR] damage to all enemies at the end of each turn",
     "sailor": "Boosts base ATK of Shooter characters by 20"
   },
+  "aliases": [
+    "フランキー メルヴィユの冒険者",
+    "",
+    "Strong World Franky",
+    "SW Franky"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -41,5 +47,7 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0559.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0559.png"
-  }
+  },
+  "drop": [],
+  "manual": []
 }

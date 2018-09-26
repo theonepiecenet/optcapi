@@ -5,6 +5,10 @@
     "specialName": "The Dance Of A Hundred Kamikaze Tops",
     "captain": "Boosts ATK of [DEX] characters by 1.5x"
   },
+  "aliases": [
+    "曲芸のカバジ",
+    "Cabaji l'acrobate"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -29,5 +33,52 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0037.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0037.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Orange Town",
+      "thumb": 38,
+      "data": [
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Logue Town",
+      "thumb": 69,
+      "data": [
+        "07"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Buggy's Counterattack!! Fortnight",
+      "thumb": 39,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Rising Sun, Rising Fortunes Fortnight",
+      "thumb": 420,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "1st Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

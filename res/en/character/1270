@@ -79,6 +79,11 @@
       }
     ]
   },
+  "aliases": [
+    "“鬼保安官”ラフィット",
+    "",
+    "Lafitte"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -99,9 +104,59 @@
     14,
     8
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 1270,
+    "evolvers": [
+      83,
+      86,
+      94,
+      97,
+      302
+    ],
+    "from": 1269
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1270.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1270.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Chinjao Family! Fortnight",
+      "thumb": 1426,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Caribou Pirates! Fortnight",
+      "thumb": 1842,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Issho"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

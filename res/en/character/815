@@ -6,6 +6,11 @@
     "special": "Deals 10 hits of 5,000 fixed damage to random enemies",
     "specialNotes": "#{fixed} #{randomHits : 10}"
   },
+  "aliases": [
+    "ゲッコー・モリア スリラーバークの怪人",
+    "",
+    "Gekko Moriah, Thriller Bark's Mysterious Four"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -52,5 +57,44 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0815.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0815.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Mouth Gate - Hogback's Mansion",
+      "thumb": 816,
+      "data": [
+        "11"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Moria's Mast Mansion",
+      "thumb": 894,
+      "data": [
+        "12"
+      ]
+    },
+    {
+      "type": "Story Island",
+      "name": "Marineford Bay",
+      "thumb": 1228,
+      "data": [
+        "08"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "The Flashback Before the Reunion! Fight all your Enemies!",
+      "thumb": 1353,
+      "data": [
+        "5th Stage",
+        "8th Stage"
+      ]
+    }
+  ],
+  "manual": []
 }

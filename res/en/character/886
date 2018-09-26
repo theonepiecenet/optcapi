@@ -5,6 +5,13 @@
     "specialName": "Daisy Blade: First",
     "special": "Deals 15x character's ATK in [STR] damage to all enemies, boosts ATK of Slasher characters by 1.5x for 1 turn if HP is below 30% when the special is activated"
   },
+  "aliases": [
+    "Mr.1 西の海の剣客",
+    "",
+    "Kimono Mr. 1",
+    "Kimono Mr 1",
+    "Daz Bones"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -29,5 +36,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0886.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0886.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Riverside Banquet! Enter the Crazy Ones! Fortnight",
+      "thumb": 885,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }

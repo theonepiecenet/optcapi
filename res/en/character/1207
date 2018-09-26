@@ -6,6 +6,12 @@
     "captain": "Boosts ATK and RCV of [INT] characters by 1.5x",
     "sailor": "Reduces Blindness duration by 3 turns"
   },
+  "aliases": [
+    "ニコ・ロビン 夢を追い求める冒険者",
+    "",
+    "New Strong World Robin",
+    "SW Robin"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -40,5 +46,12 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1207.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1207.png"
-  }
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

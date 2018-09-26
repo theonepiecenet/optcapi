@@ -4,6 +4,10 @@
     "special": "Deals 7x character's ATK in [DEX] damage to all enemies, reduces the defense of all enemies by 50% for 1 turn",
     "specialName": "South Bird's Fearless Smile"
   },
+  "aliases": [
+    "サウスバードと森の住民",
+    ""
+  ],
   "unit": {
     "type": "DEX",
     "class": "Fighter",
@@ -25,5 +29,55 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0429.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0429.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Supersonic Duck Squadron! Fortnight",
+      "thumb": 445,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Raid",
+      "name": "Clash!! Heracles'n Raid",
+      "thumb": 516,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Brother Soul! Afro Luffy! Fortnight",
+      "thumb": 571,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Calgara & Noland! Fortnight",
+      "thumb": 688,
+      "data": [
+        "Global",
+        "Japan"
+      ]
+    }
+  ]
 }

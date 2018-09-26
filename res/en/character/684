@@ -4,6 +4,12 @@
     "special": "Recovers 3x character's RCV in HP, reduces damage received by 80% for 1 turn",
     "specialName": "Romantic Ghost"
   },
+  "aliases": [
+    "アイス大好きペローナ",
+    "",
+    "Summertime Perona",
+    "Swimsuit Perona"
+  ],
   "unit": {
     "type": "INT",
     "class": [
@@ -38,5 +44,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0684.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0684.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Girls of Summer Paradise",
+      "thumb": 683,
+      "data": [
+        "Part 1"
+      ]
+    }
+  ],
+  "manual": []
 }

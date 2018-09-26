@@ -5,6 +5,10 @@
     "specialName": "Chef Drop",
     "captain": "Boosts ATK of Fighter characters by 2.5x"
   },
+  "aliases": [
+    "料理長ゼフ",
+    "Zeff le chef"
+  ],
   "unit": {
     "type": "DEX",
     "class": "Fighter",
@@ -26,5 +30,52 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0052.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0052.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Baratie",
+      "thumb": 57,
+      "data": [
+        "03"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Sweet Tea Time",
+      "thumb": 1463,
+      "data": [
+        "Sanji"
+      ]
+    }
+  ],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Smoker's Great Pursuit Fortnight",
+      "thumb": 268,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Raging Cook! Red Leg Zeff Fortnight",
+      "thumb": 607,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Blackbeard"
+      ]
+    }
+  ]
 }

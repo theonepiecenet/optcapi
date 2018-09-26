@@ -6,6 +6,11 @@
     "special": "Deals 6 hits of 2,000 fixed damage to random enemies and for Shooter and Free Spirit characters, randomizes Badly Matching orbs into [G] orbs or Matching orbs",
     "specialNotes": "The orb shuffle only applies to Shooter and Free Spirit characters, other classes are unaffected. #{gOrbs}"
   },
+  "aliases": [
+    "フレッシュ・フランキー 健康第一",
+    "",
+    "Coliseum Franky"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -40,5 +45,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0900.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0900.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
 }

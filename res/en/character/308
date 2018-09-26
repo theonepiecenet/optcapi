@@ -80,6 +80,11 @@
       }
     ]
   },
+  "aliases": [
+    "トラファルガー・ロー ROOMバジル・ホーキンス",
+    "",
+    "Supernova Law"
+  ],
   "unit": {
     "type": "DEX",
     "class": [
@@ -100,9 +105,83 @@
     18,
     10
   ],
-  "evolve": [],
+  "evolve": {
+    "evolution": 308,
+    "evolvers": [
+      118,
+      80,
+      83,
+      302,
+      102
+    ],
+    "from": 307
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0308.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0308.png"
-  }
+  },
+  "flags": {
+    "global": 1,
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Rising Sun, Rising Fortunes Fortnight",
+      "thumb": 420,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Chief Jailer Sadie Fortnight",
+      "thumb": 550,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Twilight Party! DEAD or TREAT!! Fortnight",
+      "thumb": 761,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Friends! Fortnight",
+      "thumb": 1564,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Battle Royale! Oars",
+      "thumb": 893,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Global"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Trafalgar Law"
+      ]
+    }
+  ]
 }

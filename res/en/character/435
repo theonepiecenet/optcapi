@@ -5,6 +5,10 @@
     "specialName": "Maiden's Bloom",
     "captain": "Boosts ATK of all characters by 2x following a chain of [INT] > [PSY] > [QCK] attacks no lower than Good"
   },
+  "aliases": [
+    "サンジ カマバッカ王国伝統の決闘スタイル",
+    ""
+  ],
   "unit": {
     "type": "QCK",
     "class": "Fighter",
@@ -36,5 +40,19 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0435.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0435.png"
-  }
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Candy the Maiden-Hearted Fortnight",
+      "thumb": 436,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
 }
