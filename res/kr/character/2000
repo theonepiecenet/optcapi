@@ -1,20 +1,20 @@
 {
-  "name": "상디 & 조로, Strawhat Pirates Unmatched Duo",
+  "name": "상디&조로, 밀짚모자 일당의 쌍벽",
   "detail": {
     "captain": {
-      "character1": "Reduces cooldown of all specials by 2 turns at the start of the fight. Boosts ATK of [PSY] characters by 2.75x and boosts ATK of [DEX] characters by 2x",
-      "character2": "Reduces cooldown of all specials by 2 turns at the start of the fight. Boosts ATK of [DEX] characters by 2.75x and boosts ATK of [PSY] characters by 2x",
-      "combined": "Boosts ATK of [DEX] and [PSY] characters by 3.75x and makes [PSY] and [DEX] orbs “beneficial” to [PSY] and [DEX] characters"
+      "character1": "모험 시작 시 [DEX]과 [PSY]의 필살기 턴을 2턴 단축하고, [DEX]의 공격력을 2배, [PSY]의 공격력을 2.75배로 만든다",
+      "character2": "모험 시작 시 [DEX]과 [PSY]의 필살기 턴을 2턴 단축하고, [DEX]의 공격력을 2.75배, [PSY]의 공격력을 2배로 만든다",
+      "combined": "[DEX]과 [PSY]의 공격력을 3.75배로 만들고, [DEX]과 [PSY]은 [DEX][PSY] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "captainNotes": "#{beneficial}",
-    "special": "Deals 30x character's ATK in Typeless damage to one enemy that will ignore damage negating abilities and barriers, amplifies the effect of orbs on [PSY] and [DEX] characters by 2.25x for 1 turn and becomes Sanji & Zoro for 1 turn",
+    "special": "적 1명에게 모든 방어 효과를 무시하고 캐릭터의 공격력x30배의 속성 데미지를 주고, 1턴 동안 [DEX]과 [PSY]의 슬롯의 영향을 2.25배로 증폭시키며, 1턴 동안 ‘조로&상디’가 된다",
     "specialNotes": "Change Action: When Change is activated, randomizes all non-matching orbs on [PSY] and [DEX] characters and adds .5x to Chain multiplier for 1 turn<br>#{ignoreBarrier}",
-    "specialName": "Armée de L'Air Power Shoot",
+    "specialName": "아르메 드 레르 파워 슈트",
     "sailor": {
       "character1": "[PSY] 속성의 기본 공격력이 30 상승한다",
       "character2": "[DEX] 속성의 기본 공격력이 30 상승한다",
-      "combined": "Boosts base ATK, HP and RCV of [DEX] and [PSY] characters by 50",
-      "level1": "Makes [TND] orbs “beneficial” for [DEX] and [PSY] characters"
+      "combined": "[DEX]과 [PSY]의 기본 능력치가 50 상승한다",
+      "level1": "[DEX]과 [PSY]은 [TND] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [

@@ -2,11 +2,11 @@
   "name": "빨간 머리 샹크스, 세계의 운명을 바꾼 사황",
   "detail": {
     "captain": "일당의 공격력을 2.75배, 체력을 1.3배로 만들며, 일당에 같은 속성이 4명 이상 있으면 일당의 공격력이 약 3.5배가 된다",
-    "specialName": "Closing Declaration",
+    "specialName": "끝으로 향하는 설파",
     "special": "1턴 동안 체인 계수가 +0.9 되며, 일당에 같은 속성이 4명 이상 있을 때, [BLOCK] 슬롯을 포함한 모든 슬롯을 해당 속성의 슬롯으로 바꾸고, 1턴 동안 해당 속성의 공격력이 2.25배가 된다",
     "sailor": {
       "base": "일당에 같은 속성이 4명 이상 있으면 해당 속성의 기본 공격력이 125 상승한다",
-      "level1": "Makes [PSY] orbs “beneficial” all characters"
+      "level1": "일당은 [PSY] 슬롯도 [유리] 슬롯으로 취급한다"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -89,7 +89,7 @@
         "description": "체력 상승 : 105"
       },
       {
-        "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” all characters"
+        "description": "선원 효과 추가 1: 일당은 [PSY] 슬롯도 [유리] 슬롯으로 취급한다"
       },
       {
         "description": "공격력 상승 : 30"

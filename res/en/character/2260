@@ -27,7 +27,10 @@
     "maxATK": 791,
     "maxRCV": 122
   },
-  "cooldown": null,
+  "cooldown": [
+    30,
+    23
+  ],
   "evolution": {
     "evolution": 2261,
     "evolvers": [
@@ -43,6 +46,15 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2260.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2260.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Red Hair Shanks",
+      "thumb": 2261,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
   "manual": []
 }

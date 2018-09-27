@@ -1,0 +1,71 @@
+{
+  "name": "Camie, Strawhat Pirates' Supporter",
+  "detail": {
+    "captain": "Recovers 5x character's RCV in HP at the end of each turn",
+    "special": "Reduces Paralysis, Silence, Increase Damage Taken and Burn duration by 2 turns. If the enemy is delayed, boosts ATK against delayed enemies by 1.75x for 1 turn, delays all enemies for 1 turn otherwise.",
+    "specialName": "Heartwarming Soup",
+    "sailor": {
+      "base": "Reduces Paralysis duration on this character by 2 turns",
+      "level1": "Reduces Silence duration on this character by 2 turns"
+    },
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Double Special Activation",
+        "description": [
+          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+          "Level 2: Once per an adventure, reduce own Special Cooldown by 3 turns after the first time this special is used",
+          "Level 3: Once per an adventure, reduce own Special Cooldown by 5 turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by 7 turns after the first time this special is used",
+          "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolve": {
+    "evolution": 2275,
+    "evolvers": [],
+    "from": 2274
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2275.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2275.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}
