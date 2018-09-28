@@ -1,15 +1,15 @@
 {
   "name": "지저스 바제스, 검은 수염 해적단",
   "detail": {
-    "captain": "Boosts ATK of Fighter characters by 2.5x at the start of the chain, by 3.75x after scoring 4 PERFECTs in a row.",
-    "special": "Cuts the current HP of each enemy by 7% and boosts ATK of Fighter characters by 1.75x for a variable amount of turns",
+    "captain": "격투형 캐릭터의 공격력을 2.5배로 만들고, PERFECT 4연속 달성 시, 이후 격투형 캐릭터의 공격력이 1.5배 더 상승한다",
+    "specialName": "갈레온 래리어~~~트",
+    "special": "적 전체의 HP를 7% 감소시키고, 필살기 발동 시의 적의 수에 따른 턴 동안 격투형 캐릭터의 공격력이 1.75배가 된다(1~6턴)",
     "specialNotes": "Fighter ATK buff duration is equal to the amount of enemies on the stage at the time the special was activated",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK of Fighter characters by 50",
-      "level2": "Makes [INT] orbs “beneficial” for Fighter characters"
+      "level1": "격투형 캐릭터의 기본 공격력이 50 상승한다",
+      "level2": "격투형 캐릭터는 [INT] 슬롯도 [유리] 슬롯으로 취급한다"
     },
-    "specialName": "Galleon Lariat",
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -39,7 +39,7 @@
         "description": "체력 상승 : 40"
       },
       {
-        "description": "선원 효과 추가 1: Boosts base ATK of Fighter characters by 50"
+        "description": "선원 효과 추가 1: 격투형 캐릭터의 기본 공격력이 50 상승한다"
       },
       {
         "description": "공격력 상승 : 30"
@@ -51,7 +51,7 @@
         "description": "공격력 상승 : 40"
       },
       {
-        "description": "선원 효과 추가 2: Makes [INT] orbs “beneficial” for Fighter characters"
+        "description": "선원 효과 추가 2: 격투형 캐릭터는 [INT] 슬롯도 [유리] 슬롯으로 취급한다"
       },
       {
         "description": "잠재능력 습득 2: 회복 무효 내성"
