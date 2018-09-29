@@ -83,9 +83,10 @@
     "おかしの国のチョニキ",
     "",
     "Tony Tony Chopper",
-    "Anni Chopper",
+    "WCI Chopper",
     "Anniversary Chopper",
-    "Choniki"
+    "Choniki",
+    "Bropper"
   ],
   "unit": {
     "type": "INT",
@@ -127,5 +128,14 @@
     "rro": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Buggy Pirates Fortnight",
+      "thumb": 2277,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

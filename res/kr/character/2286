@@ -3,34 +3,6 @@
   "detail": {
     "captain": "Not Translated",
     "special": "Reduces any damage received above 5,000 HP by ?% for 1 turn. If your Captain is a Powerhouse or Striker character, changes [G], [BLOCK] and [EMPTY] orbs into Matching orbs and boosts ATK of [STR] characters by 1.75x for 1 turn. If \"Judge Special\" is used again in the same turn the special is activated in, boosts ATK of [STR] characters by 2.25x for 1 turn.",
-    "specialName": "Judge Special",
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts base ATK of STR characters by 50",
-      "level2": "If this character has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next turn"
-    },
-    "potential": [
-      {
-        "Name": "Double Special Activation",
-        "description": [
-          "Level 1: Once per an adventure, reduce own Special Cooldown by ? turn after the first time this special is used",
-          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 5: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : ?",
-          "Level 2: 공격력 상승 : ?",
-          "Level 3: 공격력 상승 : ?",
-          "Level 4: 공격력 상승 : ?",
-          "Level 5: 공격력 상승 : ?"
-        ]
-      }
-    ],
-    "potentialNotes": "#{enrage}"
+    "specialName": "Judge Special"
   }
 }

@@ -1,7 +1,7 @@
 {
-  "name": "Baron Tamago, Big Mom Pirates \"Knight\"",
+  "name": "Viscount Hiyoko, Big Mom Pirates \"Knight\"",
   "detail": {
-    "captain": "Boosts ATK of Slasher and Striker characters by 2.25x",
+    "captain": "Boosts ATK of Slasher and Striker characters by 2.25x and reduces damage received by 7%",
     "special": "Deals 120x character's ATK in typeless damage to one enemy that will ignore damage negating abilities and barriers and changes [EMPTY] orbs into Matching orbs. If your friend Captain's orb is [RCV] or [TND], adds 45x character's ATK as Additional Typeless Damage for 2 turns and changes [RCV] and [TND] orbs into Matching orbs. If your friend Captain's orb is [STR], [DEX], [QCK], [PSY] or [INT], changes orbs in the top row to [RCV], boosts RCV of all characters by 1.5x for 2 turns and reduces damage received by 60% for 2 turns.",
     "specialName": "Chicken Wing Edge"
   },
@@ -16,35 +16,30 @@
       "Striker",
       "Slasher"
     ],
-    "stars": 3,
-    "cost": 16,
+    "stars": 4,
+    "cost": 25,
     "combo": 4,
-    "slots": 2,
-    "level": 50,
+    "slots": 3,
+    "level": 70,
     "exp": null,
-    "maxHP": 1064,
-    "maxATK": 572,
-    "maxRCV": 82
+    "maxHP": 1487,
+    "maxATK": 782,
+    "maxRCV": 152
   },
   "cooldown": null,
   "evolution": {
-    "evolution": 2289,
+    "evolution": 2290,
     "evolvers": []
   },
-  "evolve": [],
-  "image": {
-    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2288.png",
-    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2288.png"
+  "evolve": {
+    "evolution": 2289,
+    "evolvers": [],
+    "from": 2288
   },
-  "drop": [
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
-        "Chaos"
-      ]
-    }
-  ],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2289.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2289.png"
+  },
+  "drop": [],
   "manual": []
 }

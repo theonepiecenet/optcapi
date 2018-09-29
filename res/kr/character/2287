@@ -26,6 +26,11 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK of [STR] characters by 50",
+      "level2": "If this character has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next turn"
+    }
   }
 }

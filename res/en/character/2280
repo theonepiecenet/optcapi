@@ -1,0 +1,50 @@
+{
+  "name": "Vinsmoke Judge",
+  "detail": {
+    "captain": "Not Translated",
+    "special": "Deals 200,000 fixed damage to one enemy, reduces crew's Increase Damage Taken, Chain Multiplier Limit and Chain Coefficient Reduction duration by 5 turns. If your crew has 3 or more [DEX] characters, boosts the Color Affinity of [STR], [DEX] and [PSY] characters by 2x for 1 turn",
+    "specialName": "Clone Soldier Wall"
+  },
+  "aliases": [
+    "",
+    "",
+    "Raid Judge"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": null,
+    "slots": null,
+    "level": 70,
+    "exp": 1066998,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2281,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2280.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2280.png"
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Vinsmoke Judge Raid",
+      "thumb": 2281,
+      "data": [
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
+}

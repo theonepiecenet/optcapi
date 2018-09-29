@@ -4,54 +4,81 @@
     "captain": "Boosts ATK of Cerebral and Slasher characters by 2.5x and reduces damage received by 10% if there's a [STR], [DEX], [QCK], [INT] and [PSY] character on your crew.",
     "special": "Deals 15x character's ATK as [DEX] damage to all enemies. Boosts ATK against delayed enemies by 1.5x for 2 turns",
     "specialName": "Front Line Dissection",
-    "sailor": "Boosts base ATK of Slasher and Cerebral characters by 75 if your Captain is a Cerebral character",
+    "sailor": {
+      "base": "If your Captain is a Cerebral character, boosts base ATK of Slasher and Cerebral characters by 75",
+      "level1": "Makes STR orbs \"beneficial\" for this character"
+    },
+    "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": ""
+        "description": "Boosts base RCV by 10"
       },
       {
-        "description": ""
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": ""
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": ""
+        "description": "Acquire Potential 1: Critical Hit"
       },
       {
-        "description": ""
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": ""
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": ""
+        "description": "Acquire Sailor Ability 1: Makes STR orbs \"beneficial\" for this character"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": ""
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": ""
+        "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": "Acquire Potential 2: "
+        "description": "Acquire Potential 2: Enrage"
       }
-    ]
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 40% chance to deal 7% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
   },
   "aliases": [
     "海軍本部中将モモンガ 怪物斬りの名将",
