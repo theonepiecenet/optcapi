@@ -29169,9 +29169,11 @@
     "aliases": [
       "“死の外科医”トラファルガー・ロー “ジョーカー”を狙う“ハート”",
       "Korean Law",
+      "Korea Law",
       "Legend Korean Law",
       "Legend Trafalgar Law",
       "Legend Law",
+      "V2 Law",
       "Shichibukai",
       "Trafalgar Law",
       "\"Surgeon of Death\" Trafalgar Law",
@@ -29191,9 +29193,11 @@
     "aliases": [
       "“王下七武海”トラファルガー・ロー “ジョーカー”を狙う“ハート”",
       "Korean Law",
+      "Korea Law",
       "Legend Korean Law",
       "Legend Trafalgar Law",
       "Legend Law",
+      "V2 Law",
       "Shichibukai",
       "Trafalgar Law",
       "\"Warlord of the Sea\" Trafalgar Law",
@@ -34857,9 +34861,10 @@
     "aliases": [
       "チョニキ",
       "Tony Tony Chopper",
-      "Anni Chopper",
+      "WCI Chopper",
       "Anniversary Chopper",
       "Choniki",
+      "Bropper",
       "Chobro/Bropper"
     ]
   },
@@ -34876,9 +34881,10 @@
     "aliases": [
       "おかしの国のチョニキ",
       "Tony Tony Chopper",
-      "Anni Chopper",
+      "WCI Chopper",
       "Anniversary Chopper",
       "Choniki",
+      "Bropper",
       "Sweet Country's Chobro"
     ]
   },
@@ -34975,6 +34981,7 @@
     "id": 2077,
     "aliases": [
       "キャロット おかしの森のウサギ",
+      "WCI Carrot",
       "Carrot",
       " Sweet Forest Rabbit"
     ]
@@ -34991,6 +34998,7 @@
     "id": 2078,
     "aliases": [
       "キャロット おかしの森のカワイイウサギ",
+      "WCI Carrot",
       "Carrot",
       " The Cute Rabbit in the Sweet Forest"
     ]
@@ -35007,6 +35015,7 @@
     "id": 2079,
     "aliases": [
       "ブルック ホールケーキ城の侵入者",
+      "WCI Brook",
       "Brook",
       " Whole Cake Castle Intruder"
     ]
@@ -35023,6 +35032,7 @@
     "id": 2080,
     "aliases": [
       "“ソウルキング”ブルック ホールケーキ城の侵入者",
+      "WCI Brook",
       "Brook",
       "\"Soul King\" Brook",
       " Whole Cake Castle Intruder"
@@ -35040,6 +35050,7 @@
     "id": 2081,
     "aliases": [
       "ペドロ “ソウルキング”の協力者",
+      "WCI Pedro",
       "Pedro",
       " \"Soul King's\" Collaborator"
     ]
@@ -35056,6 +35067,7 @@
     "id": 2082,
     "aliases": [
       "ペドロ “ソウルキング”の相棒",
+      "WCI Pedro",
       "Pedro",
       " \"Soul King's\" Partner"
     ]
@@ -38159,7 +38171,7 @@
     ]
   },
   {
-    "name": "Shanks",
+    "name": "Shanks, Toast to a New Era",
     "type": [
       "DEX"
     ],
@@ -38170,7 +38182,8 @@
     "id": 2260,
     "aliases": [
       "TM Shanks",
-      "Shanks"
+      "Shanks",
+      " Toast to a New Era"
     ]
   },
   {
@@ -38259,7 +38272,7 @@
     ]
   },
   {
-    "name": "Aladdin",
+    "name": "Aladdin, Sun Pirates' Former Doctor",
     "type": [
       "STR"
     ],
@@ -38269,7 +38282,8 @@
     ],
     "id": 2266,
     "aliases": [
-      "Aladdin"
+      "Aladdin",
+      " Sun Pirates' Former Doctor"
     ]
   },
   {
@@ -38317,7 +38331,7 @@
     ]
   },
   {
-    "name": "Wadatsumi",
+    "name": "Wadatsumi, Umibozu",
     "type": [
       "STR"
     ],
@@ -38327,7 +38341,8 @@
     ],
     "id": 2270,
     "aliases": [
-      "Wadatsumi"
+      "Wadatsumi",
+      " Umibozu"
     ]
   },
   {
@@ -38347,7 +38362,7 @@
     ]
   },
   {
-    "name": "Hatchan",
+    "name": "Hatchan, Fishman District Ruffian",
     "type": [
       "PSY"
     ],
@@ -38358,7 +38373,8 @@
     "id": 2272,
     "aliases": [
       "Hachi",
-      "Hatchan"
+      "Hatchan",
+      " Fishman District Ruffian"
     ]
   },
   {
@@ -38378,7 +38394,7 @@
     ]
   },
   {
-    "name": "Camie",
+    "name": "Camie, Mermaid Cafe Waitress",
     "type": [
       "PSY"
     ],
@@ -38388,7 +38404,8 @@
     ],
     "id": 2274,
     "aliases": [
-      "Camie"
+      "Camie",
+      " Mermaid Cafe Waitress"
     ]
   },
   {
@@ -38469,6 +38486,38 @@
   {
     "name": "Vinsmoke Judge",
     "type": [
+      "DEX"
+    ],
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "id": 2280,
+    "aliases": [
+      "Raid Judge",
+      "Vinsmoke Judge"
+    ]
+  },
+  {
+    "name": "\"Garuda\" Vinsmoke Judge, Germa Kingdom King",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "id": 2281,
+    "aliases": [
+      "Raid Judge",
+      "Vinsmoke Judge",
+      "\"Garuda\" Vinsmoke Judge",
+      " Germa Kingdom King"
+    ]
+  },
+  {
+    "name": "Vinsmoke Judge, The Patriarch of the Vinsmoke Family",
+    "type": [
       "STR"
     ],
     "class": [
@@ -38477,11 +38526,14 @@
     ],
     "id": 2286,
     "aliases": [
-      "Vinsmoke Judge"
+      "Limited Judge",
+      "Secret Judge",
+      "Vinsmoke Judge",
+      " The Patriarch of the Vinsmoke Family"
     ]
   },
   {
-    "name": "Vinsmoke Judge, Evolved",
+    "name": "Vinsmoke Judge, Germa 66 Commander",
     "type": [
       "STR"
     ],
@@ -38491,8 +38543,60 @@
     ],
     "id": 2287,
     "aliases": [
+      "Limited Judge",
+      "Secret Judge",
+      "Tamago",
       "Vinsmoke Judge",
-      " Evolved"
+      " Germa 66 Commander"
+    ]
+  },
+  {
+    "name": "Baron Tamago, Big Mom Pirates \"Knight\"",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Striker",
+      "Slasher"
+    ],
+    "id": 2288,
+    "aliases": [
+      "Baron Tamago",
+      "Tamago",
+      " Big Mom Pirates \"Knight\""
+    ]
+  },
+  {
+    "name": "Viscount Hiyoko, Big Mom Pirates \"Knight\"",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Striker",
+      "Slasher"
+    ],
+    "id": 2289,
+    "aliases": [
+      "Baron Tamago",
+      "Tamago",
+      "Viscount Hiyoko",
+      " Big Mom Pirates \"Knight\""
+    ]
+  },
+  {
+    "name": "Count Niwatori, Big Mom Pirates \"Knight\"",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Striker",
+      "Slasher"
+    ],
+    "id": 2290,
+    "aliases": [
+      "Baron Tamago",
+      "Count Niwatori",
+      " Big Mom Pirates \"Knight\""
     ]
   },
   {

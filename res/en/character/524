@@ -5,55 +5,81 @@
     "specialName": "Billy's Electrical Discharge",
     "specialNotes": "#{zombie}",
     "captain": "Boosts ATK of Striker characters by 2x and their RCV by 1.5x",
-    "sailor": "Makes [DEX] orbs \"beneficial\" for this character",
+    "sailor": {
+      "base": "Makes [DEX] orbs \"beneficial\" for this character",
+      "level1": "Makes [QCK] orbs \"beneficial\" for Cerebral characters"
+    },
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": ""
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 50"
       },
       {
-        "description": ""
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": ""
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": ""
+        "description": "Acquire Sailor Ability 1: Makes [QCK] orbs \"beneficial\" for Cerebral characters"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 70"
       },
       {
-        "description": ""
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 90"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 80"
       },
       {
-        "description": ""
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": ""
+        "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Potential 2: "
+        "description": "Acquire Potential 2: Enrage"
       }
-    ]
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by ?",
+          "Level 2: Boosts base ATK by ?",
+          "Level 3: Boosts base ATK by ?",
+          "Level 4: Boosts base ATK by ?",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
   },
   "aliases": [
     "ナミと雷鳥ビリー",
