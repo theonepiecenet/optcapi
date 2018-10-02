@@ -8,6 +8,53 @@
       "base": "Boosts base ATK of Slasher and Powerhouse characters by 50",
       "level1": "If this character has a [PSY] orb and you hit a PERFECT with him, keep his [PSY] orb for the next turn"
     },
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If this character has a [PSY] orb and you hit a PERFECT with him, keep his [PSY] orb for the next turn"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 75"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "Critical Hit",
@@ -32,7 +79,7 @@
     ]
   },
   "aliases": [
-    "",
+    "はっちゃん 宴の始まり",
     "",
     ""
   ],
@@ -48,14 +95,20 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 2621,
+    "maxATK": 1344,
+    "maxRCV": 288
   },
   "cooldown": null,
   "evolve": {
     "evolution": 2273,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      83,
+      92,
+      98,
+      103
+    ],
     "from": 2272
   },
   "image": {

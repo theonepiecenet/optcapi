@@ -1,13 +1,13 @@
 {
   "name": "Hatchan, Fishman District Ruffian",
   "detail": {
-    "captain": "Boosts ATK of Slasher and Powerhouse characters by ?x and boosts chain multiplier by ?x",
+    "captain": "Boosts ATK of Slasher and Powerhouse characters by 1.5x and boosts chain multiplier by 1.5x",
     "special": "Deals 6 hits of of 30x character's ATK in typeless damage to random enemies, reduces the defense of all enemies by 100% for 1 turn, changes [BLOCK], [TND], [G] and [BOMB] orbs into [RCV] orbs. If your Captain is a Powerhouse character, boosts ATK against enemies with reduced defense by 1.75x for 1 turn.",
     "specialName": "The Octopus' Strange Sword",
     "sailor": "Boosts base ATK of Slasher and Powerhouse characters by 50"
   },
   "aliases": [
-    "",
+    "はっちゃん 魚人街の曲者",
     "",
     ""
   ],
@@ -19,18 +19,24 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 6,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1029,
+    "maxATK": 821,
+    "maxRCV": 111
   },
   "cooldown": null,
   "evolution": {
     "evolution": 2273,
-    "evolvers": []
+    "evolvers": [
+      117,
+      83,
+      92,
+      98,
+      103
+    ]
   },
   "evolve": [],
   "image": {

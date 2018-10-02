@@ -8,6 +8,53 @@
       "base": "Reduces Paralysis duration on this character by 2 turns",
       "level1": "Reduces Silence duration on this character by 2 turns"
     },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 2: Double Special Activation"
+      }
+    ],
     "potential": [
       {
         "Name": "Pinch Healing",
@@ -32,7 +79,7 @@
     ]
   },
   "aliases": [
-    "",
+    "ケイミー 麦わらの一味の理解者",
     "",
     ""
   ],
@@ -48,14 +95,20 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1734,
+    "maxATK": 1129,
+    "maxRCV": 432
   },
   "cooldown": null,
   "evolve": {
     "evolution": 2275,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      81,
+      94,
+      98,
+      103
+    ],
     "from": 2274
   },
   "image": {

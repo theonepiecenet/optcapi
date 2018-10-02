@@ -1,12 +1,13 @@
 {
   "name": "Vinsmoke Judge",
   "detail": {
-    "captain": "Not Translated",
+    "captain": "Boosts ATK of [STR], [DEX] and [PSY] characters by 2x and their HP by 1.2x",
     "special": "Deals 200,000 fixed damage to one enemy, reduces crew's Increase Damage Taken, Chain Multiplier Limit and Chain Coefficient Reduction duration by 5 turns. If your crew has 3 or more [DEX] characters, boosts the Color Affinity of [STR], [DEX] and [PSY] characters by 2x for 1 turn",
-    "specialName": "Clone Soldier Wall"
+    "specialName": "Clone Soldier Wall",
+    "sailor": "Boosts base ATK, HP and RCV of [DEX] characters by 30"
   },
   "aliases": [
-    "",
+    "ヴィンスモーク・ジャッジ ジェルマ王国　国王",
     "",
     "Raid Judge"
   ],
@@ -18,18 +19,24 @@
     ],
     "stars": 4,
     "cost": 30,
-    "combo": null,
-    "slots": null,
+    "combo": 5,
+    "slots": 2,
     "level": 70,
     "exp": 1066998,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1167,
+    "maxATK": 652,
+    "maxRCV": 110
   },
   "cooldown": null,
   "evolution": {
     "evolution": 2281,
-    "evolvers": []
+    "evolvers": [
+      118,
+      97,
+      1180,
+      302,
+      102
+    ]
   },
   "evolve": [],
   "image": {

@@ -1,13 +1,13 @@
 {
   "name": "Aladdin, Sun Pirates' Former Doctor",
   "detail": {
-    "captain": "Boosts ATK of Powerhouse characters by ?x and their HP by ?x",
+    "captain": "Boosts ATK of Powerhouse characters by 2.25x",
     "special": "Reduces Bind and Despair duration by 3 turns, locks all orbs for 1 turn, changes right column orbs, from top to bottom, into [RCV], [INT] and [QCK] orbs. If your friend Captain's orb is [DEX], amplifies the effect of orbs by 1.75x for 3 turn.",
     "specialName": "The Fishman Preparing to Strike Back",
     "sailor": "Adds 2x character's ATK as Additional Typeless Damage"
   },
   "aliases": [
-    "",
+    "アラディン タイヨウの海賊団元船医",
     "",
     ""
   ],
@@ -19,18 +19,24 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1131,
+    "maxATK": 821,
+    "maxRCV": 81
   },
   "cooldown": null,
   "evolution": {
     "evolution": 2267,
-    "evolvers": []
+    "evolvers": [
+      117,
+      84,
+      1180,
+      300,
+      100
+    ]
   },
   "evolve": [],
   "image": {

@@ -6,9 +6,56 @@
     "specialName": "Mega Monk",
     "sailor": {
       "base": "Cannot be Blown Away",
-      "level1": "Makes INT orbs \"beneficial\" for Powerhouse characters"
+      "level1": "Makes [INT] orbs \"beneficial\" for Powerhouse characters"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [INT] orbs \"beneficial\" for Powerhouse characters"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 45"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "[DEX] Damage Reduction",
@@ -33,7 +80,7 @@
     ]
   },
   "aliases": [
-    "",
+    "大入道ワダツミ 海坊主",
     "",
     ""
   ],
@@ -49,14 +96,20 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 3221,
+    "maxATK": 1435,
+    "maxRCV": 62
   },
   "cooldown": null,
   "evolve": {
     "evolution": 2271,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      83,
+      84,
+      300,
+      100
+    ],
     "from": 2270
   },
   "image": {

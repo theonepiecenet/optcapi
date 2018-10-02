@@ -1,13 +1,13 @@
 {
   "name": "Wadatsumi, Umibozu",
   "detail": {
-    "captain": "Boosts ATK of Powerhouse characters by ?x, reduces crew's RCV to ?",
+    "captain": "Boosts ATK of Powerhouse characters by 2.5x, reduces crew's RCV to 0",
     "special": "Changes left column orbs, including [BLOCK] orbs, into Matching orbs and adds .7x to Chain multiplier for 2 turns.",
     "specialName": "Mega Monk",
     "sailor": "Cannot be Blown Away"
   },
   "aliases": [
-    "",
+    "ワダツミ 海坊主",
     "",
     ""
   ],
@@ -19,18 +19,24 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 4,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1201,
+    "maxATK": 891,
+    "maxRCV": 21
   },
   "cooldown": null,
   "evolution": {
     "evolution": 2271,
-    "evolvers": []
+    "evolvers": [
+      117,
+      83,
+      84,
+      300,
+      100
+    ]
   },
   "evolve": [],
   "image": {
