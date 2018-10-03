@@ -2,7 +2,7 @@
   "name": "Aladdin, Sun Pirates First Mate",
   "detail": {
     "captain": "Boosts ATK of Powerhouse characters by 2.5x and their HP by 1.25x",
-    "special": "Reduces Bind and Despair duration by 3 turns, locks all orbs for 1 turn, changes right column orbs, from top to bottom, into [RCV], [INT] and [QCK] orbs. If your friend Captain's orb is [DEX], amplifies the effect of orbs by 1.75x for 3 turn.",
+    "special": "Reduces Bind and Despair duration by 3 turns, locks all orbs for 1 turn, changes right column orbs, from top to bottom, into [RCV], [INT] and [QCK] orbs. If your friend Captain's orb is [DEX], amplifies the effect of orbs for all characters by 1.75x for 3 turns.",
     "specialName": "The Fishman Preparing to Strike Back",
     "sailor": {
       "base": "Adds 2x character's ATK as Additional Typeless Damage",
@@ -83,7 +83,7 @@
   "aliases": [
     "アラディン タイヨウの海賊団副船長",
     "",
-    ""
+    "Aladinsjustsayian"
   ],
   "unit": {
     "type": "STR",
@@ -101,7 +101,10 @@
     "maxATK": 1382,
     "maxRCV": 220
   },
-  "cooldown": null,
+  "cooldown": [
+    19,
+    13
+  ],
   "evolve": {
     "evolution": 2267,
     "evolvers": [

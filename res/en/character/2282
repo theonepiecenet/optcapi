@@ -1,0 +1,49 @@
+{
+  "name": "Sengoku",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral and Fighter characters by ?x and boosts ATK of characters with cost 30 or less by ?x.",
+    "captainNotes": "The bonus is cumulative. Cerebral and Fighter characters with 30 cost or less get a ?x bonus.",
+    "special": "Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers. If your crew has 4 or more characters with the same Type Orb, makes the Dominant Type Orbs \"beneficial\" for all characters for 1 turn and amplifies the effect of orbs for all characters by 2x for 3 turns.",
+    "specialName": "Ruthless Straight Fist"
+  },
+  "aliases": [
+    "",
+    "",
+    "Invasion Sengoku",
+    "Ambush Sengoku",
+    "Young Sengoku"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Cerebral",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 5,
+    "slots": 2,
+    "level": 70,
+    "exp": 1778330,
+    "maxHP": 1910,
+    "maxATK": 989,
+    "maxRCV": 102
+  },
+  "cooldown": 29,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2282.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2282.png"
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Invasion! Sengoku",
+      "thumb": 2283,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}
