@@ -1,0 +1,46 @@
+{
+  "name": "Vivi, Evolved",
+  "detail": {
+    "captain": "Boosts ATK and RCV of all characters by 1.75x and recovers 5x character's RCV in HP at the end of each turn",
+    "special": "Removes Blindness duration completely and reduces Paralysis duration by 2 turns. If your Captain is a Free Spirit or Cerebral character, reduces Special Cooldown of all characters by 1 turn and reduces enemy Barrier duration by 1 turn.",
+    "specialName": "Vivi Special",
+    "sailor": "Restores her own special cooldown by 2 turns when it is rewinded",
+    "sailorNotes": "#{rewind : 2}"
+  },
+  "aliases": [
+    "",
+    "",
+    "Halloween Vivi"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Free Spirit",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": null,
+    "maxHP": 2004,
+    "maxATK": 1083,
+    "maxRCV": 305
+  },
+  "cooldown": [
+    17,
+    10
+  ],
+  "evolve": {
+    "evolution": 2292,
+    "evolvers": [],
+    "from": 2291
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2292.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2292.png"
+  },
+  "drop": [],
+  "manual": []
+}

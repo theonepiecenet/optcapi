@@ -50,14 +50,20 @@
     "slots": null,
     "level": 99,
     "exp": 4000000,
-    "maxHP": 100,
-    "maxATK": 100,
-    "maxRCV": 100
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
   },
   "cooldown": null,
   "evolve": {
     "evolution": 2290,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      98,
+      1180,
+      303,
+      103
+    ],
     "from": 2289
   },
   "image": {
