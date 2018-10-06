@@ -9,28 +9,6 @@
       "level1": "Makes [DEX] orbs “beneficial” for this character"
     },
     "sailorNotes": "#{beneficial}",
-    "potential": [
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      },
-      {
-        "Name": "Double Special Activation",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
-          "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
-        ]
-      }
-    ],
     "limit": [
       {
         "description": "Boosts base RCV by 20"
@@ -76,6 +54,28 @@
       },
       {
         "description": "Acquire Potential 2: Double Special Activation"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      },
+      {
+        "Name": "Double Special Activation",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
+          "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
+        ]
       }
     ]
   }

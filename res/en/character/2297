@@ -1,0 +1,50 @@
+{
+  "name": "Ghost Nurse Perona, Halloween Midnight Parade",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 1.5x and their RCV by 1.2x",
+    "special": "Reduces Special Cooldown of your right column by 1 turn, reduces enemy Damage Nullification duration by 1 turn and recovers 15x character's RCV in HP.",
+    "specialName": "Inject Hollow",
+    "sailor": "Restores her own special cooldown by 2 turns when it is rewinded",
+    "sailorNotes": "#{rewind : 2}"
+  },
+  "aliases": [
+    "",
+    "",
+    "Halloween Perona",
+    "Secret Perona",
+    "Limited Perona"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Driven",
+      "Shooter"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": 1930,
+    "maxATK": 1003,
+    "maxRCV": 340
+  },
+  "cooldown": [
+    11,
+    11
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2297.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2297.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
+}
