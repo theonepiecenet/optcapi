@@ -1,14 +1,1 @@
-{
-  "name": "‘Empress’ 보아 행콕, Flower Princess",
-  "detail": {
-    "captain": "Boosts ATK of [QCK] and Free Spirit characters by 1.75x",
-    "captainNotes": "Attack boost stacks, so a [QCK] Free Spirit character has a 3.0625x ATK",
-    "special": "Recovers 3,960 HP, reduces enemies ATK Up and End of Turn Damage/Percent Cut Buff duration by 7 turns and reduces damage received by 80% for 1 turn.",
-    "sailor": {
-      "base": "Makes [TND] orbs “beneficial” for all characters if your Captain is a [QCK] or [PSY] character",
-      "base2": "Boosts base ATK, HP and RCV of [QCK] and [PSY] characters by 40"
-    },
-    "sailorNotes": "#{beneficial}",
-    "specialName": "Glorious Scenery"
-  }
-}
+{"name":"‘여제’ 보아 행콕, 꽃다운 뱀 공주","detail":{"captain":"[QCK]과 자유형 캐릭터의 공격력을 각각 1.75배로 만든다","captainNotes":"Attack boost stacks, so a [QCK] Free Spirit character has a 3.0625x ATK","special":"체력을 3960 회복, 적에게 걸려 있는 [END OF TURN DAMAGE], [ATK UP] 상태를 7턴 감소시키고, 1턴 동안 받는 데미지를 80% 감소시킨다","sailor":["[QCK]과 [PSY]의 기본 능력치가 40 상승한다","선장이 [QCK]이거나 [PSY]일 경우 일당은 [TND] 슬롯도 [유리] 슬롯으로 취급한다"],"sailorNotes":"#{beneficial}","specialName":"만개한 절경"}}
