@@ -10,32 +10,79 @@
       "level1": "Boosts base ATK, HP and RCV of all characters by 50",
       "level2": "Makes [TND] orbs \"beneficial\" for all characters"
     },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 50"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [TND] orbs \"beneficial\" for all characters"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Boosts base HP by 120"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by ?",
-          "Level 2: Boosts base ATK by ?",
-          "Level 3: Boosts base ATK by ?",
-          "Level 4: Boosts base ATK by ?",
-          "Level 5: Boosts base ATK by ?"
+          "Level 1: Boosts base ATK by 30",
+          "Level 2: Boosts base ATK by 60",
+          "Level 3: Boosts base ATK by 90",
+          "Level 4: Boosts base ATK by 100",
+          "Level 5: Boosts base ATK by 150"
         ]
       },
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: Reduces Slot Bind duration by 3 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 10 turns on this character",
+          "Level 5: Reduces Slot Bind completely on this character"
         ]
       }
     ],
     "potentialNotes": "#{enrage}"
   },
   "aliases": [
-    "",
+    "仏のセンゴク 海軍本部大将",
     "",
     "Invasion Sengoku",
     "Ambush Sengoku",
@@ -57,8 +104,21 @@
     "maxATK": 1470,
     "maxRCV": 320
   },
-  "cooldown": 29,
-  "evolve": [],
+  "cooldown": [
+    29,
+    15
+  ],
+  "evolve": {
+    "evolution": 2283,
+    "evolvers": [
+      118,
+      87,
+      92,
+      98,
+      267
+    ],
+    "from": 2282
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2283.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2283.png"

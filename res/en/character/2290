@@ -8,31 +8,78 @@
       "base": "Boosts base ATK of Slasher and Striker characters by 50",
       "level1": "Makes [INT] orbs \"beneficial\" for this character"
     },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [INT] orbs \"beneficial\" for this character"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Potential 2: Double Special Activation"
+      }
+    ],
     "potential": [
       {
         "Name": "Critical Hit",
         "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+          "Level 1: If you hit a PERFECT with this character, there is a 30% chance to deal 2% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 40% chance to deal 3% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 50% chance to deal 4% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 60% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage"
         ]
       },
       {
         "Name": "Double Special Activation",
         "description": [
           "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
-          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 5: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
+          "Level 2: Once per an adventure, reduce own Special Cooldown by 3 turns after the first time this special is used",
+          "Level 3: Once per an adventure, reduce own Special Cooldown by 5 turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by 7 turns after the first time this special is used",
+          "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "ニワトリ伯爵 ビッグ・マム海賊団“騎士”",
     "",
     "Baron Tamago",
     "Eggman",

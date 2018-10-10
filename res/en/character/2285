@@ -2,39 +2,85 @@
   "name": "Hody Jones, Natural Born Monster",
   "detail": {
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Powerhouse characters by 3.25x and increases damage received by ?x.",
-    "special": "Deals 50x character's ATK in [STR] damage to all enemies, changes the orbs in the left column into [DEX], [STR] and [PSY], the orbs in the right column into [TND], [QCK] and [INT]. If your friend Captain's orb is [STR] or [DEX], amplifies the effect of orbs for Powerhouse characters by 2.25x for 1 turn.",
-    "specialName": "Hody Jones Special",
+    "special": "Deals 50x character's ATK in [STR] damage to all enemies, changes the orbs in the left column into [DEX], [STR] and [PSY], the orbs in the right column into [TND], [QCK] and [INT]. If your friend Captain's orb is [STR], [DEX] or [RCV] at the time the special is activated, amplifies the effect of orbs for Powerhouse characters by 2.25x for 1 turn.",
+    "specialName": "Strength Gained From Sacrifice",
     "sailor": {
-      "base": "None",
-      "level1": "Boosts base ATK of all characters by 50",
-      "level2": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this character"
+      "base": "Boosts base ATK of all characters by 50",
+      "level1": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this character"
     },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this character"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by ?",
-          "Level 2: Boosts base ATK by ?",
-          "Level 3: Boosts base ATK by ?",
-          "Level 4: Boosts base ATK by ?",
-          "Level 5: Boosts base ATK by ?"
+          "Level 1: Boosts base ATK by 30",
+          "Level 2: Boosts base ATK by 60",
+          "Level 3: Boosts base ATK by 90",
+          "Level 4: Boosts base ATK by 100",
+          "Level 5: Boosts base ATK by 150"
         ]
       },
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: Reduces Slot Bind duration by 3 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 10 turns on this character",
+          "Level 5: Reduces Slot Bind completely on this character"
         ]
       }
     ],
     "potentialNotes": "#{enrage}"
   },
   "aliases": [
-    "",
+    "ホーディ・ジョーンズ 環境が生んだバケモノ",
     "",
     "Limited Hody Jones",
     "Secret Hody Jones"
@@ -48,15 +94,28 @@
     "stars": 5,
     "cost": 30,
     "combo": 4,
-    "slots": null,
+    "slots": 5,
     "level": 99,
     "exp": 4000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 3201,
+    "maxATK": 1540,
+    "maxRCV": 65
   },
-  "cooldown": null,
-  "evolve": [],
+  "cooldown": [
+    18,
+    13
+  ],
+  "evolve": {
+    "evolution": 2285,
+    "evolvers": [
+      118,
+      84,
+      95,
+      300,
+      100
+    ],
+    "from": 2284
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2285.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2285.png"

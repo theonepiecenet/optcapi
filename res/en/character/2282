@@ -1,13 +1,13 @@
 {
-  "name": "Sengoku",
+  "name": "Sengoku, Navy HQ Admiral",
   "detail": {
-    "captain": "Boosts ATK of Cerebral and Fighter characters by ?x and boosts ATK of characters with cost 30 or less by ?x.",
-    "captainNotes": "The bonus is cumulative. Cerebral and Fighter characters with 30 cost or less get a ?x bonus.",
+    "captain": "Boosts ATK of Cerebral and Fighter characters by 2.25x and boosts ATK of characters with cost 30 or less by 1.1x.",
+    "captainNotes": "The bonus is cumulative. Cerebral and Fighter characters with 30 cost or less get a 2.475x bonus.",
     "special": "Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers. If your crew has 4 or more characters with the same Type Orb, makes the Dominant Type Orbs \"beneficial\" for all characters for 1 turn and amplifies the effect of orbs for all characters by 2x for 3 turns.",
     "specialName": "Ruthless Straight Fist"
   },
   "aliases": [
-    "",
+    "センゴク 海軍本部大将",
     "",
     "Invasion Sengoku",
     "Ambush Sengoku",
@@ -29,7 +29,20 @@
     "maxATK": 989,
     "maxRCV": 102
   },
-  "cooldown": 29,
+  "cooldown": [
+    29,
+    15
+  ],
+  "evolution": {
+    "evolution": 2283,
+    "evolvers": [
+      118,
+      87,
+      92,
+      98,
+      267
+    ]
+  },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2282.png",

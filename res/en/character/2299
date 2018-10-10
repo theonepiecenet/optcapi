@@ -1,0 +1,39 @@
+{
+  "name": "Love-Love Bat Hancock, Halloween Midnight Parade",
+  "aliases": [
+    "",
+    "",
+    "Halloween Boa Hancock",
+    "TM Boa Hancock",
+    "Halloween Hancock",
+    "TM Hancock"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 60,
+    "combo": 4,
+    "slots": 1,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 2769,
+    "maxATK": 1329,
+    "maxRCV": 325
+  },
+  "cooldown": 38,
+  "evolve": {
+    "evolution": 2299,
+    "evolvers": [],
+    "from": 2298
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2299.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2299.png"
+  },
+  "drop": [],
+  "manual": []
+}

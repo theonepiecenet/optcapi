@@ -1,0 +1,48 @@
+{
+  "name": "Boa Hancock, Halloween Midnight Parade",
+  "aliases": [
+    "",
+    "",
+    "Halloween Boa Hancock",
+    "TM Boa Hancock",
+    "Halloween Hancock",
+    "TM Hancock"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": null,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": 38,
+  "evolution": {
+    "evolution": 2299,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2298.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2298.png"
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Boa Hancock",
+      "thumb": 2299,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
+}

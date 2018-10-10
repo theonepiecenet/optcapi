@@ -1,12 +1,13 @@
 {
   "name": "Hody Jones, The Grudge of Fishman District",
   "detail": {
-    "captain": "Reduces cooldown of all specials by ? turn at the start of the fight, boosts ATK of Powerhouse characters by ?x and increases damage received by ?x.",
-    "special": "Deals 50x character's ATK in [STR] damage to all enemies, changes the orbs in the left column into [DEX], [STR] and [PSY], the orbs in the right column into [TND], [QCK] and [INT]. If your friend Captain's orb is [STR] or [DEX], amplifies the effect of orbs for Powerhouse characters by 2.25x for 1 turn.",
-    "specialName": "Hody Jones Special"
+    "captain": "Reduces cooldown of all specials by ? turn at the start of the fight, boosts ATK of Powerhouse characters by 2.75x and increases damage received by ?x.",
+    "special": "Deals 50x character's ATK in [STR] damage to all enemies, changes the orbs in the left column into [DEX], [STR] and [PSY], the orbs in the right column into [TND], [QCK] and [INT]. If your friend Captain's orb is [STR], [DEX] or [RCV] at the time the special is activated, amplifies the effect of orbs for Powerhouse characters by 2.25x for 1 turn.",
+    "specialName": "Strength Gained From Sacrifice",
+    "sailor": "Boosts base ATK of all characters by 50"
   },
   "aliases": [
-    "",
+    "ホーディ・ジョーンズ 魚人街の怨念",
     "",
     "Limited Hody Jones",
     "Secret Hody Jones"
@@ -19,15 +20,28 @@
     ],
     "stars": 4,
     "cost": 20,
-    "combo": null,
-    "slots": null,
+    "combo": 4,
+    "slots": 4,
     "level": 70,
     "exp": 1066998,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1980,
+    "maxATK": 1050,
+    "maxRCV": 35
   },
-  "cooldown": null,
+  "cooldown": [
+    18,
+    13
+  ],
+  "evolution": {
+    "evolution": 2285,
+    "evolvers": [
+      118,
+      84,
+      95,
+      300,
+      100
+    ]
+  },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2284.png",
