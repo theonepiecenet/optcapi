@@ -1,0 +1,38 @@
+{
+  "name": "Katakuri, Halloween Midnight Parade",
+  "detail": {
+    "captain": "Boosts ATK of all characters by ?x, their HP by ?x and deals ?x character's ATK in [DEX] damage to all enemies at the end of each turn",
+    "special": "Reduces Increase Damage Taken and ATK DOWN duration by 3 turns, changes [BLOCK], [BOMB] [EMPTY] and Badly Matching orbs into [RCV] orbs. If your Captain is a Cerebral character, boosts ATK of Cerebral characters by 1.5x for 1 turn and makes [RCV] orbs \"beneficial\" for Cerebral characters for 1 turn",
+    "specialName": "Katakuri Special",
+    "sailor": "If your Captain is a Cerebral character, reduces Paralysis duration by 1 turn"
+  },
+  "aliases": [
+    "",
+    "",
+    "Halloween Katakuri"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Cerebral",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 12,
+    "combo": null,
+    "slots": 1,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2293.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2293.png"
+  },
+  "drop": [],
+  "manual": []
+}
