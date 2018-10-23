@@ -1,10 +1,10 @@
 {
-  "name": "Sanji, Germa Kingdom Prince",
+  "name": "Sanji, Vinsmoke Family's Illegitimate Child",
   "detail": {
-    "captain": "Boosts ATK of all characters by 2.5x and their HP by 1.3x <br> <b>Action:</b> Sanji Sky Walks into the air and is unable to attack for 1 turn, preventing all debuffs to himself (Including, but not limited to, Bind, Despair, Silence and Paralysis). This does not remove the his own Captain boost while he is unable to attack. During the next turn, boosts own ATK by 6.25x instead",
-    "captainNotes": "Sanji Captain Action lasts for 2 turns and can be reactivated after no cooldown. Even while Sky Walking, will still boost all characters by 2.5x. Sky Walk is not a type boost and will stack with other boosts",
-    "special": "Deals 100,000 fixed damage to all enemies. Changes [BLOCK], [TND], adjacent orbs and own orb into Matching orbs. Boosts own attack by 2x for 1 turn",
-    "specialName": "Hell Memories",
+    "captain": "Boosts own ATK by 3x and boosts ATK of all other characters by 2.75x and their HP by 1.3x and makes [TND] orbs \"beneficial\" for all characters <br> <b>Action:</b> Sanji Sky Walks into the air and is unable to attack for 1 turn, preventing all debuffs to himself (Including, but not limited to, Bind, Despair, Silence and Paralysis). This does not remove the his own Captain boost while he is unable to attack. During the next turn, boosts own ATK by 8.25x instead",
+    "captainNotes": "Sanji Captain Action lasts for 2 turns and can be reactivated after no cooldown. Even while Sky Walking, will still boost all characters by 2.75x. Sky Walk is not a type boost and will stack with other boosts",
+    "special": "Deals 100,000 fixed damage to all enemies, changes [BLOCK], adjacent orbs and own orb into Matching orbs and adds .8x to Chain multiplier for 1 turn. If Sanji is your Captain or Friend/Guest Captain, reduces Chain Multiplier Limit and Chain Coefficient Reduction duration by 5 turns",
+    "specialName": "Diable Mouton Shot",
     "sailor": {
       "base": "Makes [RCV] orbs \"beneficial\" for all characters",
       "level1": "Boosts amount healed from [RCV] orbs by 300 each"
@@ -137,13 +137,14 @@
     "potentialNotes": "#{enrage}"
   },
   "aliases": [
-    "サンジ ジェルマ王国　プリンス",
     "",
+    "",
+    "6+ Sanji",
+    "V1 Sanji",
     "Vinsmoke Sanji",
-    "Germa Sanji",
-    "Legend Vinsmoke Sanji",
-    "Legend Germa Sanji",
-    "Legend Sanji"
+    "Legend Sanji",
+    "Super Sanji",
+    "Mega Sanji"
   ],
   "unit": {
     "type": "INT",
@@ -151,43 +152,32 @@
       "Fighter",
       "Powerhouse"
     ],
-    "stars": 6,
-    "cost": 55,
-    "combo": 6,
+    "stars": "6+",
+    "cost": 65,
+    "combo": 4,
     "slots": 5,
     "level": 99,
     "exp": 5000000,
-    "maxHP": 3233,
-    "maxATK": 1506,
-    "maxRCV": 354
+    "maxHP": 3438,
+    "maxATK": 1538,
+    "maxRCV": 360
   },
   "cooldown": [
     19,
     14
   ],
-  "evolution": {
-    "evolution": 2245,
-    "evolvers": []
-  },
   "evolve": {
-    "evolution": 1588,
-    "evolvers": [
-      118,
-      88,
-      266,
-      304,
-      267
-    ],
-    "from": 1587
+    "evolution": 2245,
+    "evolvers": [],
+    "from": 1588
   },
   "image": {
-    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1588.png",
-    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1588.png"
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2245.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2245.png"
   },
   "flags": {
     "rr": 1,
-    "rro": 1,
-    "global": 1
+    "rro": 1
   },
   "drop": [],
   "manual": [

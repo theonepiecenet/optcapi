@@ -19,20 +19,32 @@
     ],
     "stars": 4,
     "cost": 12,
-    "combo": null,
+    "combo": 6,
     "slots": 1,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1593,
+    "maxATK": 800,
+    "maxRCV": 0
   },
-  "cooldown": null,
+  "cooldown": [
+    21,
+    14
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2293.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2293.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Dead or Treat!! Sweetie Party",
+      "thumb": 2292,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
   "manual": []
 }
