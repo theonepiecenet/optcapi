@@ -1,5 +1,5 @@
 {
-  "name": "Charlotte Daifuku, Puff Puff Fruit Lamp Human",
+  "name": "샬롯 다이후쿠, Puff Puff Fruit Lamp Human",
   "detail": {
     "captain": "Boosts ATK of Slasher and Powerhouse characters by 2.5x at the start of the chain and their HP by 1.25x, by 2.85x after scoring 3 PERFECTs in a row.",
     "special": [
@@ -11,7 +11,7 @@
         ]
       },
       {
-        "description": "Deals 75x character's ATK in [DEX] damage to all enemies that will ignore damage negating abilities and barriers. If your crew has 4 or more characters with [STR] or [DEX] orbs, Delays all enemies for 2 turns and adds .8x to Chain multiplier for 2 turns. If your crew has 4 or more characters with [PSY] or [INT] orbs, boosts the Color Affinity of all characters by 1.75x for 2 turns and makes [PSY] and [INT] orbs \"beneficial\" for all characters for 2 turns.",
+        "description": "Deals 75x character's ATK in [DEX] damage to all enemies that will ignore damage negating abilities and barriers. If your crew has 4 or more characters with [STR] or [DEX] orbs, Delays all enemies for 2 turns and adds .8x to Chain multiplier for 2 turns. If your crew has 4 or more characters with [PSY] or [INT] orbs, boosts the Color Affinity of all characters by 1.75x for 2 turns and makes [PSY] and [INT] orbs “beneficial” to all characters for 2 turns.",
         "cooldown": [
           28,
           14
@@ -21,7 +21,7 @@
     "specialName": "The Genie's Flashy Strike",
     "sailor": {
       "base": "If this character has a [DEX] orb and you hit a PERFECT with him, keep his [DEX] orb for the next turn",
-      "level1": "Makes [DEX] orbs \"beneficial\" for Slasher characters"
+      "level1": "Makes [DEX] orbs “beneficial” for Slasher characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -65,7 +65,7 @@
         "description": "Boosts base RCV by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs \"beneficial\" for Slasher characters"
+        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs “beneficial” for Slasher characters"
       },
       {
         "description": "Acquire Potential 2: Slot Bind Self-reduction"
