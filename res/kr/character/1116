@@ -1,10 +1,1 @@
-{
-  "name": "상디, 꿈을 좇는 모험자",
-  "detail": {
-    "special": "적 전체에 파티의 체력이 적을수록 큰 [INT] 데미지를 준다.",
-    "specialNotes": "#{specialProportional : lower : 100 * ( 1 - (remaining HP) / (total HP) )}",
-    "specialName": "디아블 잠브 : 분쇄",
-    "captain": "체력이 가득 차 있을때 받는 데미지를 크게(80%) 감소한다.",
-    "sailor": "자신의 저림 상태를 3턴 줄여준다."
-  }
-}
+{"name":"상디, 꿈을 좇는 모험자","detail":{"special":"아군의 잔여 체력이 적을수록 더 많은 [INT] 데미지를 적 전체에 준다.","specialNotes":"#{specialProportional : lower : 100 * ( 1 - (remaining HP) \/ (total HP) )}","specialName":"디아블 잠브 분쇄","captain":"체력이 가득 찼을 때, 적에게 받는 데미지를 큰 폭으로 줄인다","sailor":"자신은 마비 상태를 3턴 회복한다"}}
