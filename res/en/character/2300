@@ -1,0 +1,201 @@
+{
+  "name": "Franky, The Modified Man Living his Manly Dream",
+  "detail": {
+    "captain": "If there are 6 characters in your crew with Fighter, Slasher, Shooter or Striker classes, boosts ATK of all characters by 3.25x and their HP by 1.3x and makes [RCV] and [TND] orbs \"beneficial\" for all characters. <br> <b>Action:</b> Franky brings the entire crew into General Franky for 1 turn and becomes immune to Blow Away inflicted to the crew. During this turn, boosts ATK of all characters by 4.25x instead and reduces damage taken by 38%",
+    "captainNotes": "All characters on your crew must have one of the 4 classes listed, but you do not need one of each. Franky Captain Action lasts one turn and can be reactivated after a 4 turn cooldown. Only 1 Franky Captain Action can be activated at once. <br> During transformation:<br>If you attack with a Fighter character, deal 1.25x damage to targeted enemy<br>If you attack with a Slasher character, deal full damage to targeted enemy, but deal 0.1x damage to all enemies in the same row as the targeted enemy<br>If you attack with a Striker character, deal 0.5x damage to all enemies on the stage<br>If you attack with a Shooter character, deal .75x damage to targeted enemy but deal 0.3x damage to all other enemies on the stage",
+    "special": "Cuts the current HP of all enemies by 10% and randomizes all non-matching orbs, including [BLOCK] orbs. If there are 3 enemies or more on the stage,  boosts ATK of Fighter, Slasher, Shooter and Striker characters by 2.25x for 1 turn by 2x otherwise",
+    "specialName": "Franky Radical Beam",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of Shooter, Slasher, Fighter and Striker characters by 50",
+      "level2": "Makes [QCK] orbs \"beneficial\" for Shooter, Slasher, Fighter and Striker characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 2"
+      },
+      {
+        "description": "Boosts base ATK by 2"
+      },
+      {
+        "description": "Boosts base ATK by 38"
+      },
+      {
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Shooter, Slasher, Fighter and Striker characters by 50"
+      },
+      {
+        "description": "Boosts base RCV by 1"
+      },
+      {
+        "description": "Boosts base RCV by 1"
+      },
+      {
+        "description": "Boosts base RCV by 38"
+      },
+      {
+        "description": "Boosts base ATK by 3"
+      },
+      {
+        "description": "Boosts base ATK by 38"
+      },
+      {
+        "description": "Boosts base ATK by 38"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 38"
+      },
+      {
+        "description": "Boosts base RCV by 38"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [QCK] orbs \"beneficial\" for Shooter, Slasher, Fighter and Striker characters"
+      },
+      {
+        "description": "Boosts base ATK by 38"
+      },
+      {
+        "description": "Boosts base HP by 38"
+      },
+      {
+        "description": "Acquire Potential 3: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[STR] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [STR] characters by 1%",
+          "Level 2: Reduce damage taken from [STR] characters by 2%",
+          "Level 3: Reduce damage taken from [STR] characters by 3%",
+          "Level 4: Reduce damage taken from [STR] characters by 4%",
+          "Level 5: Reduce damage taken from [STR] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 5 turns",
+          "Level 5: Reduces No Healing duration by 7 turns"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "6+ Franky",
+    "General Franky",
+    "Shogun Franky",
+    "Legend Franky",
+    "Super Franky",
+    "Mega Franky"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": "6+",
+    "cost": 65,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 4478,
+    "maxATK": 1623,
+    "maxRCV": 148
+  },
+  "cooldown": [
+    21,
+    16
+  ],
+  "evolve": {
+    "evolution": 2300,
+    "evolvers": [],
+    "from": 1935
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2300.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2300.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Strawhat Pirates Pizza Party!! Dinner Fortnight",
+      "thumb": 2092,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Push Forward! Straw Hat Crew!",
+      "thumb": 2300,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
+}
