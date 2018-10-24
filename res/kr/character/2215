@@ -1,5 +1,5 @@
 {
-  "name": "빈스모크 레이주, The Sexy Woman Relaxing in the Tropical Country",
+  "name": "Vinsmoke Reiju, The Sexy Woman Relaxing in the Tropical Country",
   "detail": {
     "captain": "Boosts ATK of all characters by 1.5x and their RCV by 1.2x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 8 times to a maximum of 3x.",
     "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
@@ -7,28 +7,71 @@
       {
         "description": "Delays all enemies for 1 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
         "cooldown": [
-          null,
-          null
+          13,
+          7
         ]
       },
       {
         "description": "Delays all enemies for 1 turn, reduces Paralysis, Bind, Despair and Silence duration by 1 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
         "cooldown": [
-          null,
-          null
+          17,
+          10
         ]
       },
       {
-        "description": "Delays all enemies for 2 turn, reduces Paralysis, Bind, Despair and Silence duration by 2 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
+        "description": "Delays all enemies for 2 turn, reduces Paralysis, Bind, Despair and Silence duration by 2 turns and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
         "cooldown": [
-          null,
-          null
+          22,
+          15
         ]
       }
     ],
     "specialName": "Tropical Country Flowers",
-    "specialNotes": "#{stages}",
+    "specialNotes": "#{stages}<br>#{silence}",
     "sailor": "Reduces Silence duration on this character by 3 turns",
     "sailorNotes": "#{silence}"
-  }
+  },
+  "aliases": [
+    "ヴィンスモーク・レイジュ 南国でくつろぐ「いい女」",
+    "",
+    "Swimsuit Reiju",
+    "Summer Reiju"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Cerebral",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "maxHP": 1855,
+    "maxATK": 1266,
+    "maxRCV": 252
+  },
+  "cooldown": [
+    22,
+    15
+  ],
+  "evolve": {
+    "evolution": 2215,
+    "evolvers": [
+      117,
+      87,
+      92,
+      98,
+      103
+    ],
+    "from": 2214
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2215.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2215.png"
+  },
+  "drop": [],
+  "manual": []
 }
