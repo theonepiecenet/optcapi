@@ -1,1 +1,85 @@
-{"name":"아카이누, 정상전쟁의 업화","detail":{"captain":"야심형 캐릭터의 공격력이 2.5배, 이전 턴에 적을 1명이라도 격파했다면 일당의 공격력 배율이 상승한다(야심형은 최대 3턴으로 공격력 3.25배)","captainNotes":"If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.","special":"적 전체에게 캐릭터 공격력x50배의 무 속성 데미지를 주고, 1턴 동안 야심형 캐릭터의 슬롯의 영향을 2배로 증폭시킨다","specialName":"개 이빨 화염","sailor":["None","자신은 [STR] 슬롯도 [유리] 슬롯으로 취급한다","Makes [INT] orbs “beneficial” for Driven characters"],"sailorNotes":"#{beneficial}","limit":[{"description":"공격력 상승 : 10"},{"description":"공격력 상승 : 10"},{"description":"공격력 상승 : 10"},{"description":"잠재능력 습득 1: 피격 시 공격력 상승"},{"description":"공격력 상승 : 10"},{"description":"체력 상승 : 80"},{"description":"공격력 상승 : 10"},{"description":"공격력 상승 : 10"},{"description":"선원효과 추가 1: 자신은 [STR] 슬롯도 [유리] 슬롯으로 취급한다"},{"description":"공격력 상승 : 10"},{"description":"소켓 슬롯 1개 추가"},{"description":"체력 상승 : 100"},{"description":"공격력 상승 : 20"},{"description":"선원효과 추가 2: Makes [INT] orbs “beneficial” for Driven characters"},{"description":"잠재능력 습득 #: 슬롯 봉쇄 내성"}],"potential":[{"Name":"피격 시 공격력 상승","description":["Level 1: 공격력 상승 : 20","Level 2: 공격력 상승 : 30","Level 3: 공격력 상승 : 40","Level 4: 공격력 상승 : 50","Level 5: 공격력 상승 : 100"]},{"Name":"슬롯 봉쇄 내성","description":["Level 1: 캐릭터의 봉인상태를 1턴 감소시킨다.","Level 2: 캐릭터의 봉인상태를 2턴 감소시킨다.","Level 3: 캐릭터의 봉인상태를 3턴 감소시킨다.","Level 4: 캐릭터의 봉인상태를 4턴 감소시킨다.","Level 5: 캐릭터의 봉인상태를 5턴 감소시킨다."]}],"potentialNotes":"#{enrage}"}}
+{
+  "name": "아카이누, 정상전쟁의 업화",
+  "detail": {
+    "captain": "야심 캐릭터의 공격력이 2.5배 증가한다, 이전 턴에 적을 격파했으면 일당의 공격 배율이 상승한다 (최대 3턴, 공격력 3.25배)",
+    "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
+    "special": "적 전체에게 캐릭터 공격력 50배의 무속성 데미지를 주고 1턴 동안 야심 캐릭터의 슬롯 영향력을 2배로 증가시킨다.",
+    "specialName": "견교홍련",
+    "sailor": {
+      "base": "None",
+      "level1": "자신은 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
+      "level2": "Makes [INT] orbs “beneficial” for Driven characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+      },
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 80"
+      },
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "선원효과 추가 1: 자신은 [STR] 슬롯도 [유리] 슬롯으로 취급한다"
+      },
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "소켓 슬롯 1개 추가"
+      },
+      {
+        "description": "체력 상승 : 100"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "선원효과 추가 2: Makes [INT] orbs “beneficial” for Driven characters"
+      },
+      {
+        "description": "잠재능력 습득 #: 슬롯 봉쇄 내성"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 30",
+          "Level 3: 공격력 상승 : 40",
+          "Level 4: 공격력 상승 : 50",
+          "Level 5: 공격력 상승 : 100"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 캐릭터의 봉인상태를 1턴 감소시킨다.",
+          "Level 2: 캐릭터의 봉인상태를 2턴 감소시킨다.",
+          "Level 3: 캐릭터의 봉인상태를 3턴 감소시킨다.",
+          "Level 4: 캐릭터의 봉인상태를 4턴 감소시킨다.",
+          "Level 5: 캐릭터의 봉인상태를 5턴 감소시킨다."
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  }
+}

@@ -1,1 +1,10 @@
-{"name":"롤로노아 조로, 대지의 개척자","detail":{"captain":"참격형과 강인형의 공격력을 2배로 만들고, 2연속, 4연속 PERFECT를 달성하면 이후 같은 타입의 공격력이 각각 2.5배, 3배가 된다","special":"선장효과 무효 상태를 3턴 회복, 참격형과 강인형의 필살기 턴을 2턴 단축한다","sailor":"자신의 필살기 턴 되돌리기를 2턴 회복한다","sailorNotes":"#{rewind : 2}","specialName":"와일드 플랜"}}
+{
+  "name": "롤로노아 조로, 대지의 개척자",
+  "detail": {
+    "captain": "Boosts ATK of 참격형 and Powerhouse characters by 2x at the start of the chain, by 2.5x after the 2nd PERFECT in a row and by 3x after the 4th PERFECT in a row.",
+    "special": "Reduces Despair duration by 3 턴. Reduces Special Cooldown of 참격형 and Powerhouse characters by 2 턴",
+    "sailor": "Restores his own special by 2 턴 when it is rewinded",
+    "sailorNotes": "#{rewind : 2}",
+    "specialName": "Wild Plan"
+  }
+}
