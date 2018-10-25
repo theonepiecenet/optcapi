@@ -1,7 +1,7 @@
 {
   "name": "마젤란, 감옥 서장",
   "detail": {
-    "captain": "[INT] 캐릭터의 공격력을 2.25배, 체력을 1.5배로 만들고, 적으로부터 받은 데미지의 5배를 턴 종료 시에 적 전체에게 돌려준다",
+    "specialName": "히드라",
     "special": [
       {
         "description": "적 전체를 독 상태로 만들고 공격을 1턴 지연시킨다",
@@ -18,13 +18,34 @@
         ]
       }
     ],
-    "specialName": "히드라",
-    "specialNotes": "Toxic starts at 0.5x character's attack and increases by 3x at the end of every 턴 until 1,500,000 damage per 턴.<br>#{stages}",
+    "captain": "[INT] 캐릭터의 공격력을 2.25배, 체력을 1.5배로 만들고, 적으로부터 받은 데미지의 5배를 턴 종료 시에 적 전체에게 돌려준다",
     "sailor": {
       "base": "None",
       "level1": "일당의 기본 능력치가 50 상승한다",
       "level2": "자신은 [TND] and [RCV] 슬롯도 [유리] 슬롯으로 취급한다"
     },
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 20"
@@ -72,27 +93,6 @@
         "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
       }
     ],
-    "potential": [
-      {
-        "Name": "[PSY] 데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      }
-    ]
+    "specialNotes": "Toxic starts at 0.5x character's attack and increases by 3x at the end of every 턴 until 1,500,000 damage per 턴. #{stages}"
   }
 }

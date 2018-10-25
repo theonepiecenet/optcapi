@@ -1,19 +1,19 @@
 {
   "name": "스모커&타시기, 밀짚모자를 쫓는 해병",
   "detail": {
+    "specialName": "화이트 슬래시",
+    "special": "적 1명에게 고정 데미지 5000을 주고, 자신의 슬롯을 속성 일치 슬롯으로 바꾼다. 1턴 동안 받는 데미지를 50% 감소시키고, [PSY]과 [INT]의 공격력을 1.5배로 만들며, 2턴 동안 ‘스모커&타시기’가 된다",
     "captain": {
       "character1": "[PSY]과 [INT]의 공격력을 2.5배로 만들고, 받는 데미지를 7% 감소시키며, 같은 속성은 [TND] 슬롯도 [유리] 슬롯으로 취급한다",
       "character2": "[PSY]과 [INT]의 공격력을 2.5배로 만들고, 턴 종료 시 체력을 300 회복한다",
       "combined": "[PSY]과 [INT]의 공격력을 2.75배로 만들고, 받는 데미지를 10% 감소시키며, 턴 종료 시 체력을 1000 회복하고, 같은 속성은 [PSY][INT][TND] 슬롯도 [유리] 슬롯으로 취급한다"
     },
-    "captainNotes": "#{beneficial}",
-    "specialName": "화이트 슬래시",
-    "special": "적 1명에게 고정 데미지 5000을 주고, 자신의 슬롯을 속성 일치 슬롯으로 바꾼다. 1턴 동안 받는 데미지를 50% 감소시키고, [PSY]과 [INT]의 공격력을 1.5배로 만들며, 2턴 동안 ‘스모커&타시기’가 된다",
-    "specialNotes": "Change Action: When Change is activated, Recovers 2x character's RCV",
     "sailor": {
       "character1": "[PSY]과 [INT]의 기본 공격력이 50 상승한다",
       "character2": "[PSY]과 [INT]의 기본 회복력이 30 상승한다",
       "combined": "[PSY]과 [INT]의 기본 능력치가 75 상승한다"
-    }
+    },
+    "specialNotes": "Change Action: When Change is activated, Recovers 2x character's RCV",
+    "captainNotes": "#{beneficial}"
   }
 }

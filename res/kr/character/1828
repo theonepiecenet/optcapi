@@ -1,13 +1,35 @@
 {
   "name": "전력의 시실리안, 모코모 공국",
   "detail": {
-    "captain": "[INT]의 공격력을 2.5배로 만들고, 남은 체력이 적을 때는 3배가 된다",
-    "special": "일당의 체력이 50% 감소하는 대신 1턴 동안 [INT]의 공격력이 2배, 속성 일치 슬롯 이외의 슬롯을 랜덤으로 바꾼다([BLOCK] 슬롯 변환 가능)",
     "specialName": "스트라이크 스트럭처",
+    "special": "일당의 체력이 50% 감소하는 대신 1턴 동안 [INT]의 공격력이 2배, 속성 일치 슬롯 이외의 슬롯을 랜덤으로 바꾼다([BLOCK] 슬롯 변환 가능)",
+    "captain": "[INT]의 공격력을 2.5배로 만들고, 남은 체력이 적을 때는 3배가 된다",
     "sailor": {
       "base": "None",
       "level1": "참격형 캐릭터의 기본 공격력이 40 상승한다"
     },
+    "potential": [
+      {
+        "Name": "[PSY]데미지 피해 감소",
+        "description": [
+          "Level 1: Reduces Damage received from [PSY] enemies by 1%",
+          "Level 2: Reduces Damage received from [PSY] enemies by 2%",
+          "Level 3: Reduces Damage received from [PSY] enemies by 3%",
+          "Level 4: Reduces Damage received from [PSY] enemies by 4%",
+          "Level 5: Reduces Damage received from [PSY] enemies by 5%"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -53,28 +75,6 @@
       },
       {
         "description": "잠재능력 습득 2: 크리티컬 공격"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[PSY]데미지 피해 감소",
-        "description": [
-          "Level 1: Reduces Damage received from [PSY] enemies by 1%",
-          "Level 2: Reduces Damage received from [PSY] enemies by 2%",
-          "Level 3: Reduces Damage received from [PSY] enemies by 3%",
-          "Level 4: Reduces Damage received from [PSY] enemies by 4%",
-          "Level 5: Reduces Damage received from [PSY] enemies by 5%"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
-        ]
       }
     ]
   }

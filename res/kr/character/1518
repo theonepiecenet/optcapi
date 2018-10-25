@@ -1,16 +1,36 @@
 {
   "name": "하이에나 베라미, 드레스로자의 흉탄",
   "detail": {
-    "captain": "야심형 캐릭터의 공격력을 2.5배로 만든다",
-    "special": "적 1명의 HP를 10% 줄이고, 1턴 동안 일당의 [PSY][INT] 슬롯을 [유리] 슬롯으로 취급하고 슬롯의 영향을 상당히 증폭시킨다",
-    "specialNotes": "#{beneficial}",
     "specialName": "스프링 호퍼 흉탄",
+    "special": "적 1명의 HP를 10% 줄이고, 1턴 동안 일당의 [PSY][INT] 슬롯을 [유리] 슬롯으로 취급하고 슬롯의 영향을 상당히 증폭시킨다",
+    "captain": "야심형 캐릭터의 공격력을 2.5배로 만든다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Driven characters by 30",
       "level2": "Makes [RCV] orbs “beneficial” for Driven characters"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Double Special Activation",
+        "description": [
+          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -58,27 +78,7 @@
         "description": "잠재능력 습득 2: Double Special Activation"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Double Special Activation",
-        "description": [
-          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
-          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
-        ]
-      }
-    ]
+    "specialNotes": "#{beneficial}",
+    "sailorNotes": "#{beneficial}"
   }
 }

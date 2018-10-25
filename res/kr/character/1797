@@ -1,7 +1,7 @@
 {
   "name": "지저스 바제스, 코리다 콜로세움 A블록의 ‘챔피언’",
   "detail": {
-    "captain": "격투형 캐릭터의 공격력을 2.25배로 만든다",
+    "specialName": "파동 엘보",
     "special": [
       {
         "description": "적 전체의 HP를 10% 줄인다",
@@ -25,8 +25,8 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
+    "captain": "격투형 캐릭터의 공격력을 2.25배로 만든다",
     "sailor": "[STR][DEX][QCK] 속성의 기본 공격력과 기본 체력이 75 상승한다",
-    "specialName": "파동 엘보"
+    "specialNotes": "#{stages}"
   }
 }

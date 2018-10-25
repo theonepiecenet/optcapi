@@ -1,8 +1,7 @@
 {
   "name": "몽키 D. 루피, 신생 밀짚모자 일당",
   "detail": {
-    "captain": "자유형의 공격력을 2.5배로 만들고, 받는 데미지는 15% 감소되며 ‘고무고무 레드 호크’를 사용하면 필살기를 발동한 자신의 선장효과가 3턴 동안 ‘지유형의 공격력을 4배, 받는 데미지는 15% 감소’로 변경된다",
-    "captainNotes": "Using Luffy's special will change his own captain boost to 4x. If both Luffy's specials are used, the total ATK boost will be 16x",
+    "specialName": "고무고무 레드 호크",
     "special": [
       {
         "description": "1턴 동안 격투형과 자유형 캐릭터는 [QCK] [DEX] [PSY] 슬롯을 [유리] 슬롯으로 취급하고, 적 1명에게 [QCK] 큰 데미지를 준다",
@@ -17,9 +16,13 @@
           18,
           13
         ]
+      },
+      {
+        "description": ""
       }
     ],
+    "captain": "자유형의 공격력을 2.5배로 만들고, 받는 데미지는 15% 감소되며, ‘고무고무 레드 호크’를 사용하면 필살기를 발동한 자신의 선장효과가 3턴 동안 ‘지유형의 공격력을 4배, 받는 데미지는 15% 감소’로 변경된다",
     "specialNotes": "#{stages}",
-    "specialName": "고무고무 레드 호크"
+    "captainNotes": "Using Luffy's special will change his own captain boost to 4x. If both Luffy's specials are used, the total ATK boost will be 16x"
   }
 }

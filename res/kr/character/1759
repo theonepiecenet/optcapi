@@ -1,14 +1,35 @@
 {
   "name": "브룩, 20th Anniversary Memorial Treasure",
   "detail": {
-    "captain": "자유 캐릭터의 공격력을 2.5배, 체력을 1.2배 증가시킨다.",
-    "special": "적 전체의 공격을 1턴 지연시키고, 봉인 · 선장효과 무효와 저림 상태를 1턴 회복한다.",
-    "specialName": "파티 음악: 퀸트 티어스 판타지아",
-    "sailor": {
-      "base": "[RCV]슬롯도 [유리] 슬롯으로 취급한다.",
-      "level1": "Reduces Silence duration on this character by 2 turns"
-    },
-    "sailorNotes": "#{beneficial}",
+    "specialName": "파티 뮤직 퀸트 티어스 판타지아",
+    "special": "적 전체의 공격을 1턴 지연시키고 봉쇄, 선장효과 무효, 마비 상태를 1턴 회복한다",
+    "captain": "자유형 캐릭터의 공격력을 2.5배, 회복력을 1.2배로 만든다",
+    "sailor": [
+      "자신은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다",
+      "Reduces Silence duration on this character by 2 turns"
+    ],
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -56,27 +77,6 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
-        ]
-      }
-    ]
+    "sailorNotes": "#{beneficial}"
   }
 }

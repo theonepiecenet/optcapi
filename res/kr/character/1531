@@ -1,8 +1,7 @@
 {
   "name": "우소랜드",
   "detail": {
-    "captain": "일당의 [STR] [DEX] [QCK] [PSY] [INT] [RCV] [TND] 슬롯을 [유리] 슬롯으로 취급하며, 남은 체력이 50% 이하일 때 일당의 공격력이 1.5배, 30% 이하일 때 1.75배가 된다",
-    "captainNotes": "#{beneficial}",
+    "specialName": "원거리 배그웜",
     "special": [
       {
         "description": "적 전체의 공격을 3턴 지연시킨다",
@@ -26,8 +25,9 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
+    "captain": "일당의 [STR] [DEX] [QCK] [PSY] [INT] [RCV] [TND] 슬롯을 [유리] 슬롯으로 취급하며, 남은 체력이 50% 이하일 때 일당의 공격력이 1.5배, 30% 이하일 때 1.75배가 된다",
     "sailor": "일당의 의성어 은폐 상태를 완전히 회피한다",
-    "specialName": "원거리 배그웜"
+    "specialNotes": "#{stages}",
+    "captainNotes": "#{beneficial}"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "‘죽음의 외과의’ 트라팔가 로, ‘조커’를 노리는 ‘하트’",
   "detail": {
-    "captain": "타격형 캐릭터의 공격력을 3배로 만들고, 턴 종료 시에 PERFECT 1회당 캐릭터의 회복력x0.5배의 체력을 회복한다",
+    "specialName": "인젝션 샷",
     "special": [
       {
         "description": "적 1명에게 고정 데미지 50,000을 주고, 1턴 동안 타격형 캐릭터의 슬롯 영향을 상당히 증폭시킨다",
@@ -18,7 +18,7 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
-    "specialName": "인젝션 샷"
+    "captain": "타격형 캐릭터의 공격력을 3배로 만들고, 턴 종료 시에 PERFECT 1회당 캐릭터의 회복력x0.5배의 체력을 회복한다",
+    "specialNotes": "#{stages}"
   }
 }

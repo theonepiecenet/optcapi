@@ -1,7 +1,7 @@
 {
   "name": "상디, 신생 밀짚모자 일당",
   "detail": {
-    "captain": "[STR] 캐릭터의 공격력이 2.25배가 되고, 남은 체력이 적을 때는 3배가 된다",
+    "specialName": "스카이 워크",
     "special": [
       {
         "description": "1턴 동안 받는 데미지를 50% 줄이고, 슬롯의 영향을 증폭시킨다",
@@ -18,13 +18,33 @@
         ]
       }
     ],
-    "specialNotes": "#{orb : 1.75x}<br>#{stages}",
-    "specialName": "스카이 워크",
+    "captain": "[STR] 캐릭터의 공격력이 2.25배가 되고, 남은 체력이 적을 때는 3배가 된다",
     "sailor": {
       "base": "일당의 기본 능력치가 50 상승한다",
       "level1": "Makes [TND] and [RCV] orbs “beneficial” for Fighter characters"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -72,27 +92,7 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      }
-    ]
+    "specialNotes": "#{orb : 1.75x} #{stages}",
+    "sailorNotes": "#{beneficial}"
   }
 }

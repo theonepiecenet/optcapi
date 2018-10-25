@@ -1,7 +1,7 @@
 {
   "name": "라이조, 와노쿠니의 닌자",
   "detail": {
-    "captain": "사격형 캐릭터의 공격력을 2배로 만든다",
+    "specialName": "Flower Shuriken",
     "special": [
       {
         "description": "적 전체에게 캐릭터의 공격력x3배의 [QCK] 데미지를 주고, 사격형 캐릭터의 [RCV][TND] 슬롯을 속성 일치 슬롯으로 바꾼다",
@@ -25,7 +25,7 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
-    "specialName": "Flower Shuriken"
+    "captain": "사격형 캐릭터의 공격력을 2배로 만든다",
+    "specialNotes": "#{stages}"
   }
 }

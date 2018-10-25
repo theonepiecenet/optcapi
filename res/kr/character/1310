@@ -1,15 +1,36 @@
 {
   "name": "여우불 킨에몬",
   "detail": {
-    "captain": "자유형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시 회복력x2배의 체력을 회복한다",
-    "special": "참격형과 자유형의 필살기 턴을 1턴 단축하고, 남은 체력이 70% 이상일 때 인접한 슬롯을 속성 일치 슬롯으로 바꾼다",
     "specialName": "도롱",
+    "special": "참격형과 자유형의 필살기 턴을 1턴 단축하고, 남은 체력이 70% 이상일 때 인접한 슬롯을 속성 일치 슬롯으로 바꾼다",
+    "captain": "자유형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시 회복력x2배의 체력을 회복한다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Slasher and Free Spirit characters by 30",
       "level2": "Makes [DEX] orbs “beneficial” for this character"
     },
-    "specialNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Double Special Activation",
+        "description": [
+          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: Double Special Activation"
       }
     ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Double Special Activation",
-        "description": [
-          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
-          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
-        ]
-      }
-    ]
+    "specialNotes": "#{beneficial}"
   }
 }

@@ -1,15 +1,36 @@
 {
   "name": "헤라클레슨, 밀짚모자 일당의 공범자",
   "detail": {
-    "captain": "[STR]의 공격력을 2.5배, 타격형과 사격형 캐릭터의 체력을 1.25배로 만든다",
-    "special": "적 전체의 HP를 20% 줄이고, 오른쪽 줄의 타격형과 사격형 캐릭터의 속성 슬롯을 속성 일치 슬롯으로 바꾼다",
     "specialName": "그린 스톤의 위협",
+    "special": "적 전체의 HP를 20% 줄이고, 오른쪽 줄의 타격형과 사격형 캐릭터의 속성 슬롯을 속성 일치 슬롯으로 바꾼다",
+    "captain": "[STR]의 공격력을 2.5배, 타격형과 사격형 캐릭터의 체력을 1.25배로 만든다",
     "sailor": {
       "base": "None",
       "level1": "[STR]의 기본 체력이 150 상승한다",
       "level2": "Makes [STR] orbs “beneficial” for all characters if your Captain is a Striker or Shooter character"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
-      }
-    ]
+    "sailorNotes": "#{beneficial}"
   }
 }

@@ -1,15 +1,36 @@
 {
   "name": "몽키 D. 루피, 고무고무 코끼리 총",
   "detail": {
-    "captain": "일당의 공격력을 2.25배, 체력을 1.25배, 4연속 PERFECT를 달성하면 이후 캐릭터의 공격력이 1.25배 더 상승한다",
-    "special": "적 전체에게 공격력x40배의 [STR] 데미지를 주고, 공격을 1턴 지연시킨다",
     "specialName": "고무고무 코끼리 총",
+    "special": "적 전체에게 공격력x40배의 [STR] 데미지를 주고, 공격을 1턴 지연시킨다",
+    "captain": "일당의 공격력을 2.25배, 체력을 1.25배, 4연속 PERFECT를 달성하면 이후 캐릭터의 공격력이 1.25배 더 상승한다",
     "sailor": {
       "base": "None",
       "level1": "자신이 마지막으로 공격할 때 자신의 기본 공격력이 100 상승한다",
       "level2": "자신은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 강화 : 20",
+          "Level 2: 공격력 강화 : 30",
+          "Level 3: 공격력 강화 : 40",
+          "Level 4: 공격력 강화 : 50",
+          "Level 5: 공격력 강화 : 100"
+        ]
+      },
+      {
+        "Name": "회복 무효 상태 회복",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 1 턴",
+          "Level 3: 회복 무효 상태 회복 : 2 턴",
+          "Level 4: 회복 무효 상태 회복 : 3 턴",
+          "Level 5: 회복 무효 상태 회복 : 4 턴"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "필살기 턴 단축 : 1턴"
@@ -57,28 +78,7 @@
         "description": "잠재능력 습득 2: 회복 무효 상태 회복"
       }
     ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 강화 : 20",
-          "Level 2: 공격력 강화 : 30",
-          "Level 3: 공격력 강화 : 40",
-          "Level 4: 공격력 강화 : 50",
-          "Level 5: 공격력 강화 : 100"
-        ]
-      },
-      {
-        "Name": "회복 무효 상태 회복",
-        "description": [
-          "Level 1: 회복 무효 상태 회복 : 1 턴",
-          "Level 2: 회복 무효 상태 회복 : 1 턴",
-          "Level 3: 회복 무효 상태 회복 : 2 턴",
-          "Level 4: 회복 무효 상태 회복 : 3 턴",
-          "Level 5: 회복 무효 상태 회복 : 4 턴"
-        ]
-      }
-    ],
+    "sailorNotes": "#{beneficial}",
     "potentialNotes": "#{enrage}"
   }
 }

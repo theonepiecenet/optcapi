@@ -1,7 +1,7 @@
 {
   "name": "전사 레오, 톤타타족 톤타 병단",
   "detail": {
-    "captain": "코스트 20 이하 캐릭터의 공격력을 2.5배로 만든다",
+    "specialName": "꼬리 해머",
     "special": [
       {
         "description": "적 1명에게 공격력x3배의 [DEX] 데미지를 주고, 자신의 슬롯을 [DEX]로 바꾼다",
@@ -18,7 +18,7 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
-    "specialName": "꼬리 해머"
+    "captain": "코스트 20 이하 캐릭터의 공격력을 2.5배로 만든다",
+    "specialNotes": "#{stages}"
   }
 }

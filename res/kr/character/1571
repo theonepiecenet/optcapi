@@ -1,15 +1,46 @@
 {
   "name": "‘낮의 왕’ 이누아라시",
   "detail": {
-    "captain": "전투 시작 시 체력이 30% 미만이면 박식 캐릭터의 공격력이 2.75배, 체인 계수가 1.5배가 되고, 박식 캐릭터의 공격력이 2.5배가 된다.",
-    "special": "일당의 체력을 크게 줄이고 적 1기에 힘 속성 특대 데미지, 1턴 동안 탭 타이밍 보너스로 필살기 사용 캐릭터의 공격력 80배의 무속성 데미지를 가산한다",
-    "specialNotes": "#{additionalDamage : 80x}",
     "specialName": "빛나는 왕의 검",
+    "special": "일당의 체력을 크게 줄이고 적 1기에 힘 속성 특대 데미지, 1턴 동안 탭 타이밍 보너스로 필살기 사용 캐릭터의 공격력 80배의 무속성 데미지를 가산한다",
+    "captain": "전투 시작 시 체력이 30% 미만이면 박식 캐릭터의 공격력이 2.75배, 체인 계수가 1.5배가 되고, 박식 캐릭터의 공격력이 2.5배가 된다.",
     "sailor": {
       "base": "None",
       "level1": "Boosts base HP of Cerebral characters by 200",
       "level2": "Boosts own base ATK by 200 if this character is the last in the chain to attack"
     },
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 75",
+          "Level 2: 공격력 상승 : 100",
+          "Level 3: 공격력 상승 : 200",
+          "Level 4: 공격력 상승 : 250",
+          "Level 5: 공격력 상승 : 300"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 15"
@@ -102,38 +133,7 @@
         "description": "잠재능력 습득 3: 피격 시 공격력 상승"
       }
     ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 75",
-          "Level 2: 공격력 상승 : 100",
-          "Level 3: 공격력 상승 : 200",
-          "Level 4: 공격력 상승 : 250",
-          "Level 5: 공격력 상승 : 300"
-        ]
-      }
-    ],
+    "specialNotes": "#{additionalDamage : 80x}",
     "potentialNotes": "#{enrage}"
   }
 }

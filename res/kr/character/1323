@@ -1,11 +1,11 @@
 {
   "name": "오니구모, 팔도류의 검사",
   "detail": {
-    "captain": "모험 시작 시 필살기 턴을 2턴 단축하고, 참격형과 야심형의 공격력이 각각 1.3배가 된다",
-    "captainNotes": "The bonus is cumulative. 참격형 + Driven characters get a 1.69x bonus.",
     "specialName": "오니구모의 해체 검술",
     "special": "[TND] [RCV] [BLOCK] 슬롯을 랜덤으로 바꾸고, 2턴 동안 참격형과 야심형은 [STR] [DEX] [QCK] 슬롯을 [유리] 슬롯으로 취급한다",
+    "captain": "모험 시작 시 필살기 턴을 2턴 단축하고, 참격형과 야심형의 공격력이 각각 1.3배가 된다",
+    "sailor": "자신은 마비 상태를 5턴 회복한다",
     "specialNotes": "“beneficial” orbs grant the same ATK boost as matching orbs while retaining their original function.",
-    "sailor": "자신은 마비 상태를 5턴 회복한다"
+    "captainNotes": "The bonus is cumulative. 참격형 + Driven characters get a 1.69x bonus."
   }
 }

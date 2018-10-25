@@ -4,12 +4,32 @@
     "specialName": "프랑키 아이언 BOXING",
     "special": "자신의 슬롯을 [DEX]로 바꾸고, 무작위의 적에게 무 속성 랜덤 데미지를 15회 준 후, 2턴 동안 적 전체의 방어력을 0으로 만든다",
     "captain": "격투형 캐릭터의 공격력이 2.5배가 되고, 받는 데미지를 15% 줄인다",
-    "specialNotes": "#{randomHits : 15}<br>#{random : ??? : ??? : for each hit}",
     "sailor": {
       "base": "자신의 필살기 턴 되돌리기를 3턴 회복한다",
       "level1": "Boosts base ATK of Fighter characters by 60"
     },
-    "sailorNotes": "#{rewind : 3}",
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by 2%",
+          "Level 3: Reduce damage taken from [QCK] characters by 3%",
+          "Level 4: Reduce damage taken from [QCK] characters by 4%",
+          "Level 5: Reduce damage taken from [QCK] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "Boosts base ATK by 10"
@@ -57,27 +77,7 @@
         "description": "Acquire Potential 2: Barrier Penetration"
       }
     ],
-    "potential": [
-      {
-        "Name": "[QCK] Damage Reduction",
-        "description": [
-          "Level 1: Reduce damage taken from [QCK] characters by 1%",
-          "Level 2: Reduce damage taken from [QCK] characters by 2%",
-          "Level 3: Reduce damage taken from [QCK] characters by 3%",
-          "Level 4: Reduce damage taken from [QCK] characters by 4%",
-          "Level 5: Reduce damage taken from [QCK] characters by 5%"
-        ]
-      },
-      {
-        "Name": "Barrier Penetration",
-        "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
-      }
-    ]
+    "specialNotes": "#{randomHits : 15} #{random : ??? : ??? : for each hit}",
+    "sailorNotes": "#{rewind : 3}"
   }
 }

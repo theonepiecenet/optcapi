@@ -4,14 +4,43 @@
     "specialName": "만 개의 번개",
     "special": "필살기 발동 시까지 최대 체력을 넘어 회복한 값x10배의 무 속성 데미지를 적 전체에 준다(최대 2000000 데미지)",
     "captain": "일당의 최대 체력이 20% 줄어드는 대신 [RCV] 슬롯 출현율이 상승, 일당의 [RCV] 슬롯을 [유리] 슬롯으로 취급하고, 이전 턴의 회복량에 따라 일당의 공격력이 2배~3.25배가 된다",
-    "captainNotes": "The range of ATK boost is from 2x to 3.25x. The exact boost is calculated as 2 + <HP recovered in the previous 턴> * 0.000125 and maxes at 10k HP healed. This ignores your max HP, so it doesn't stop counting if you over-heal.",
-    "specialNotes": "The excess healing is counted from the last time the special is used and accumulates when you heal more than your maximum HP. For example, if you are at max HP, and you heal 1,000 HP, you will add 10k damage to the special. The amount of damage possible caps at 2,000,000 damage.",
     "sailor": {
       "base": "None",
       "level1": "일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다",
       "level2": "Boosts amount healed from [RCV] orbs by 300 each"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 10턴 회복한다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 3 turns",
+          "Level 3: Reduces No Healing duration by 5 turns",
+          "Level 4: Reduces No Healing duration by 7 turns",
+          "Level 5: Reduces No Healing duration by 10 turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 5"
@@ -104,37 +133,8 @@
         "description": "잠재능력 습득 3: 회복 무효 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 10턴 회복한다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 3 turns",
-          "Level 3: Reduces No Healing duration by 5 turns",
-          "Level 4: Reduces No Healing duration by 7 turns",
-          "Level 5: Reduces No Healing duration by 10 turns"
-        ]
-      }
-    ]
+    "specialNotes": "The excess healing is counted from the last time the special is used and accumulates when you heal more than your maximum HP. For example, if you are at max HP, and you heal 1,000 HP, you will add 10k damage to the special. The amount of damage possible caps at 2,000,000 damage.",
+    "captainNotes": "The range of ATK boost is from 2x to 3.25x. The exact boost is calculated as 2 + * 0.000125 and maxes at 10k HP healed. This ignores your max HP, so it doesn't stop counting if you over-heal.",
+    "sailorNotes": "#{beneficial}"
   }
 }

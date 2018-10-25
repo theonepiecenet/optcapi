@@ -1,12 +1,12 @@
 {
   "name": "푸딩, 두 사람을 갈라놓을 죽음의 계획",
   "detail": {
-    "captain": "[INT] 및 격투형 캐릭터의 공격력을 2.25배, 체력을 1.2배로 만들며, ‘결사의 파안’을 사용한 턴에는 [INT] 및 격투형 캐릭터의 공격력이 1.3배 더 상승한다",
-    "captainNotes": "This effect is boosted if you use Sanji's [1960/1961] special in the same turn",
-    "special": "[G] [BLOCK] [방해] 슬롯을 속성 일치 슬롯으로 바꾸고, 봉쇄 및 필살기 봉쇄 상태를 3턴 회복하며, 1턴 동안 체인 계수를 2.5배로 고정한다",
     "specialName": "매혹적인 눈물",
-    "specialNotes": "#{silence}",
+    "special": "[G] [BLOCK] [방해] 슬롯을 속성 일치 슬롯으로 바꾸고, 봉쇄 및 필살기 봉쇄 상태를 3턴 회복하며, 1턴 동안 체인 계수를 2.5배로 고정한다",
+    "captain": "[INT] 및 격투형 캐릭터의 공격력을 2.25배, 체력을 1.2배로 만들며, ‘결사의 파안’을 사용한 턴에는 [INT] 및 격투형 캐릭터의 공격력이 1.3배 더 상승한다",
     "sailor": "자신의 필살기 봉쇄 상태를 3턴 회복한다",
+    "specialNotes": "#{silence}",
+    "captainNotes": "This effect is boosted if you use Sanji's [1960/1961] special in the same turn",
     "sailorNotes": "#{silence}"
   }
 }

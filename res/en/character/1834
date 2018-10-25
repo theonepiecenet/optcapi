@@ -3,7 +3,7 @@
   "detail": {
     "captain": "Boosts ATK of [INT] characters by 2.25x and Powerhouse characters by 1.3x and the RCV of Powerhouse characters by 1.2x",
     "captainNotes": "Attack boost stacks, so a [INT] Powerhouse character has a 2.925x ATK",
-    "special": "If your captain is [INT] or [PSY], recovers 7,000 HP, removes Poison and reduces Paralysis, Despair and Silence duration by 3 turns. If your Captain is a Powerhouse character, reduces damage received by 70% for 2 turns",
+    "special": "If your captain is a [INT] or [PSY] character, recovers 7,000 HP, removes Poison and reduces Paralysis, Despair and Silence duration by 3 turns. If your Captain is a Powerhouse character, reduces damage received by 70% for 2 turns",
     "specialName": "Dangerous Healing",
     "sailor": {
       "base": "Makes [PSY] orbs \"beneficial\" for this character",
@@ -155,7 +155,7 @@
     },
     {
       "type": "Special",
-      "name": "Germa Revival Plan!",
+      "name": "Germa Resurrection Plan!",
       "thumb": 2138,
       "data": [
         "All Difficulties"

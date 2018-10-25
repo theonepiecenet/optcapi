@@ -1,16 +1,36 @@
 {
   "name": "델린저, 디아만테군 전투원",
   "detail": {
-    "captain": "강인형 캐릭터의 공격력을 2.75배로 만들지만, 일당의 체력을 20% 감소시키고, 받는 데미지가 2배가 된다",
-    "special": "적 1명에게 공격력x20배의 [QCK] 데미지를 주고, 1턴 동안 자신의 공격력과 슬롯의 영향을 1.5배로 만들며, 자신의 슬롯을 [QCK]으로 바꾼다",
-    "specialNotes": "Boosted ATK and Orb Effectivess only works for the Dellinger who uses his Special.",
     "specialName": "맹위의 데들리 팡",
+    "special": "적 1명에게 공격력x20배의 [QCK] 데미지를 주고, 1턴 동안 자신의 공격력과 슬롯의 영향을 1.5배로 만들며, 자신의 슬롯을 [QCK]으로 바꾼다",
+    "captain": "강인형 캐릭터의 공격력을 2.75배로 만들지만, 일당의 체력을 20% 감소시키고, 받는 데미지가 2배가 된다",
     "sailor": {
       "base": "None",
       "level1": "자신은 [DEX] and [TND] 슬롯도 [유리] 슬롯으로 취급한다",
       "level2": "Boosts own base ATK by 75"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -58,27 +78,7 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
-        ]
-      }
-    ]
+    "specialNotes": "Boosted ATK and Orb Effectivess only works for the Dellinger who uses his Special.",
+    "sailorNotes": "#{beneficial}"
   }
 }

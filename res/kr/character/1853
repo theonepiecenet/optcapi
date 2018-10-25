@@ -1,16 +1,36 @@
 {
   "name": "흰 수염, 흰 수염 해적단 선장",
   "detail": {
-    "captain": "일당의 체력이 1.2배, 공격 시작 전 남은 체력이 적을수록 일당의 공격력이 상승한다(최대 2.55배)",
-    "captainNotes": "#{captainProportional : lower : 1 + 2.25 * (1 - (remaining HP) / (total HP)) : 1 : 3.25}",
-    "special": "자신의 슬롯을 [INT]로 바꾼 후, 적 전체에게 모든 방어 효과를 무시하고 캐릭터의 공격력x100배의 무 속성 데미지를 주고, 적이 지연 무효, 상태이상 무효일 때는 1턴 동안 일당의 슬롯 영향을 2배로 증폭시키고, 적이 배리어를 치고 있을 때는 1턴 동안 자신의 공격력이 2.25배가 된다",
-    "specialNotes": "#{ignoreBarrier}",
     "specialName": "진원의 창",
+    "special": "자신의 슬롯을 [INT]로 바꾼 후, 적 전체에게 모든 방어 효과를 무시하고 캐릭터의 공격력x100배의 무 속성 데미지를 주고, 적이 지연 무효, 상태이상 무효일 때는 1턴 동안 일당의 슬롯 영향을 2배로 증폭시키고, 적이 배리어를 치고 있을 때는 1턴 동안 자신의 공격력이 2.25배가 된다",
+    "captain": "일당의 체력이 1.2배, 공격 시작 전 남은 체력이 적을수록 일당의 공격력이 상승한다(최대 2.55배)",
     "sailor": {
       "base": "None",
       "level1": "일당의 기본 체력이 100 상승한다",
       "level2": "일당의 기본 공격력이 50 상승한다"
     },
+    "potential": [
+      {
+        "Name": "[PSY]데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : 60",
+          "Level 3: 공격력 상승 : 90",
+          "Level 4: 공격력 상승 : 120",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "소켓 슬롯 1개 추가"
@@ -133,28 +153,8 @@
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
-    "potential": [
-      {
-        "Name": "[PSY]데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 30",
-          "Level 2: 공격력 상승 : 60",
-          "Level 3: 공격력 상승 : 90",
-          "Level 4: 공격력 상승 : 120",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      }
-    ],
+    "specialNotes": "#{ignoreBarrier}",
+    "captainNotes": "#{captainProportional : lower : 1 + 2.25 * (1 - (remaining HP) / (total HP)) : 1 : 3.25}",
     "potentialNotes": "#{enrage}"
   }
 }

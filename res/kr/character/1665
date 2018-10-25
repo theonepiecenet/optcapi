@@ -1,14 +1,36 @@
 {
   "name": "아오키지, ‘일기토’의 승자",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by 2.5x and boosts ATK of Shooters by 3.25x after scoring 3 PERFECTS in a row",
-    "special": "Locks all orbs for 1 turn. If during that 턴, you hit 2 PERFECTS and your Captain is a Shooter character, boosts ATK of Shooter characters by 2x for 1 turn in the following 턴.",
-    "specialName": "Ice Saber",
-    "sailor": {
-      "base": "None",
-      "level1": "사격형 캐릭터의 기본 체력이 50 상승한다",
-      "level2": "사격형 캐릭터의 기본 공격력이 50 상승한다"
-    },
+    "specialName": "아이스 사브르",
+    "special": "일당의 슬롯을 1턴 고정하고, 선장이 사격형일 때 필살기를 쓴 턴 동안 PERFECT 공격을 2번 성공하면 다음 턴의 사격형 캐릭터의 공격력이 2배가 된다",
+    "captain": "사격형 캐릭터의 공격력을 2.5배, 3연속 PERFECT 달성 시 이후 사격형 캐릭터의 공격력이 1.3배 더 상승한다",
+    "sailor": [
+      "None",
+      "사격형 캐릭터의 기본 체력이 50 상승한다",
+      "사격형 캐릭터의 기본 공격력이 50 상승한다"
+    ],
+    "potential": [
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: 일당에 사격형이 6명 있을 때 회복 무효 상태를 1턴 회복한다",
+          "Level 2: 일당에 사격형이 6명 있을 때 회복 무효 상태를 1턴 회복한다",
+          "Level 3: 일당에 사격형이 6명 있을 때 회복 무효 상태를 1턴 회복한다",
+          "Level 4: 일당에 사격형이 6명 있을 때 회복 무효 상태를 2턴 회복한다",
+          "Level 5: 일당에 사격형이 6명 있을 때 회복 무효 상태를 3턴 회복한다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 3: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다.",
+          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다."
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 20"
@@ -54,28 +76,6 @@
       },
       {
         "description": "잠재능력 습득 2: 배리어 관통"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: 일당에 사격형이 6명 있을 때 회복 무효 상태를 1턴 회복한다",
-          "Level 2: 일당에 사격형이 6명 있을 때 회복 무효 상태를 1턴 회복한다",
-          "Level 3: 일당에 사격형이 6명 있을 때 회복 무효 상태를 1턴 회복한다",
-          "Level 4: 일당에 사격형이 6명 있을 때 회복 무효 상태를 2턴 회복한다",
-          "Level 5: 일당에 사격형이 6명 있을 때 회복 무효 상태를 3턴 회복한다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 3: 공격 시작 전 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다.",
-          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다."
-        ]
       }
     ]
   }

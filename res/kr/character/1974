@@ -1,8 +1,7 @@
 {
   "name": "‘마술사’ 바질 호킨스, 저주 실행자",
   "detail": {
-    "captain": "박식형 캐릭터의 공격력을 슬롯 일치 시 3.25배, 평상시 2.5배로 만들고, 박식형 캐릭터는 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
-    "captainNotes": "#{beneficial}",
+    "specialName": "울화통의 구타",
     "special": [
       {
         "description": "적 1명의 HP를 10% 줄이고, [TND][EMPTY][불리] 슬롯을 속성 일치 슬롯으로 바꾸며, 선장이 박식형 캐릭터라면 일당의 마비 상태를 2턴 회복한다",
@@ -26,12 +25,33 @@
         ]
       }
     ],
-    "specialName": "울화통의 구타",
-    "specialNotes": "#{stages}",
+    "captain": "박식형 캐릭터의 공격력을 슬롯 일치 시 3.25배, 평상시 2.5배로 만들고, 박식형 캐릭터는 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
     "sailor": {
       "base": "박식형 캐릭터의 기본 공격력이 75 상승한다",
       "level1": "Adds 2x character's ATK as Additional Typeless Damage"
     },
+    "potential": [
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 2 턴",
+          "Level 3: 회복 무효 상태 회복 : 3 턴",
+          "Level 4: 회복 무효 상태 회복 : 4 턴",
+          "Level 5: 회복 무효 상태 회복 : 5 턴"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 40",
+          "Level 3: 공격력 상승 : 60",
+          "Level 4: 공격력 상승 : 80",
+          "Level 5: 공격력 상승 : 120"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -79,28 +99,8 @@
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
-    "potential": [
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: 회복 무효 상태 회복 : 1 턴",
-          "Level 2: 회복 무효 상태 회복 : 2 턴",
-          "Level 3: 회복 무효 상태 회복 : 3 턴",
-          "Level 4: 회복 무효 상태 회복 : 4 턴",
-          "Level 5: 회복 무효 상태 회복 : 5 턴"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 40",
-          "Level 3: 공격력 상승 : 60",
-          "Level 4: 공격력 상승 : 80",
-          "Level 5: 공격력 상승 : 120"
-        ]
-      }
-    ],
+    "specialNotes": "#{stages}",
+    "captainNotes": "#{beneficial}",
     "potentialNotes": "#{enrage}"
   }
 }

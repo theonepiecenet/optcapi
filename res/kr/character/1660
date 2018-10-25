@@ -1,12 +1,12 @@
 {
   "name": "안개의 라이조",
   "detail": {
-    "captainNotes": "#{beneficial}",
-    "sailorNotes": "#{silence}",
-    "specialNotes": "#{silence}",
     "specialName": "인법 「분신술」!!!",
     "special": "일당의 마비·필살기 봉쇄 상태를 3턴 회복하고 슬롯을 3회 자유롭게 움직인다",
+    "captain": "사격형 캐릭터의 공격력이 2.5배로 만들고, 사격형 캐릭터의 [RCV] [TND] 슬롯을 [유리] 슬롯으로 취급한다",
     "sailor": "자신은 필살기 봉쇄 상태를 완전히 회피한다",
-    "captain": "사격형 캐릭터의 공격력이 2.5배로 만들고, 사격형 캐릭터의 [RCV] [TND] 슬롯을 [유리] 슬롯으로 취급한다"
+    "specialNotes": "#{silence}",
+    "captainNotes": "#{beneficial}",
+    "sailorNotes": "#{silence}"
   }
 }

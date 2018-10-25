@@ -1,7 +1,7 @@
 {
   "name": "상디, 집결한 밀짚모자 일당",
   "detail": {
-    "captain": "[STR] 캐릭터의 공격력이 2배가 된다",
+    "specialName": "스카이 워크",
     "special": [
       {
         "description": "1턴 동안 받는 데미지를 50% 줄이고, 슬롯의 영향을 증폭시킨다",
@@ -18,8 +18,8 @@
         ]
       }
     ],
-    "specialNotes": "#{orb : 1.75x}<br>#{stages}",
+    "captain": "[STR] 캐릭터의 공격력이 2배가 된다",
     "sailor": "일당의 기본 능력치가 50 상승한다",
-    "specialName": "스카이 워크"
+    "specialNotes": "#{orb : 1.75x} #{stages}"
   }
 }

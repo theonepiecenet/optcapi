@@ -1,16 +1,35 @@
 {
   "name": "빈스모크 욘디, 과학전투부대 제르마 66",
   "detail": {
-    "captain": "[DEX]과 강인형 캐릭터의 공격력을 각각 2.25배, 1.3배로 만들고, 강인형 캐릭터의 체력을 1.2배로 만든다",
-    "captainNotes": "Attack boost stacks, so a [DEX] 강인형 character has a 2.925x ATK",
-    "special": "선장이 [DEX] 혹은 [PSY]일 때 지연 중인 적에게 주는 데미지가 1턴 동안 1.75배가 되고, 선장이 강인형일 때 1턴 동안 GOOD, GREAT, PERFECT 타이밍 보너스에 캐릭터의 공격력x40배의 무 속성 데미지가 가산된다",
     "specialName": "버스트 엔드 킥",
-    "specialNotes": "#{additionalDamage : 40x}",
+    "special": "선장이 [DEX] 혹은 [PSY]일 때 지연 중인 적에게 주는 데미지가 1턴 동안 1.75배가 되고, 선장이 강인형일 때 1턴 동안 GOOD, GREAT, PERFECT 타이밍 보너스에 캐릭터의 공격력x40배의 무 속성 데미지가 가산된다",
+    "captain": "[DEX]과 강인형 캐릭터의 공격력을 각각 2.25배, 1.3배로 만들고, 강인형 캐릭터의 체력을 1.2배로 만든다",
     "sailor": {
       "base": "자신은 [PSY] 슬롯도 [유리] 슬롯으로 취급한다",
       "level1": "일당의 기본 체력이 100 상승한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 8턴 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -58,27 +77,8 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[QCK] 데미지 피해 감소",
-        "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 8턴 회복한다"
-        ]
-      }
-    ]
+    "specialNotes": "#{additionalDamage : 40x}",
+    "captainNotes": "Attack boost stacks, so a [DEX] 강인형 character has a 2.925x ATK",
+    "sailorNotes": "#{beneficial}"
   }
 }

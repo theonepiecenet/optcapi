@@ -1,10 +1,9 @@
 {
   "name": "바솔로뮤 쿠마, 대해적 시대의 사투 [일당 말살]",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by 2.5x and their HP by 1.2x",
-    "special": "Reduces the duration of Bind and Despair by 7 턴.  Recovers 20% of crew's MAX HP, and has low chance to eliminate all enemies",
-    "specialNotes": "#{instantKill : 10%}",
     "specialName": "Paw Paw Fruit: Scatter and Fly Away",
+    "special": "Reduces the duration of Bind and Despair by 7 턴. Recovers 20% of crew's MAX HP, and has low chance to eliminate all enemies",
+    "captain": "Boosts ATK of Shooter characters by 2.5x and their HP by 1.2x",
     "sailor": "If Kuma has a [PSY] orb, and you hit a PERFECT with him, keep his [PSY] orb for the next 턴",
     "potential": [
       {
@@ -27,6 +26,7 @@
           "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
         ]
       }
-    ]
+    ],
+    "specialNotes": "#{instantKill : 10%}"
   }
 }

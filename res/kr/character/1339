@@ -1,7 +1,7 @@
 {
   "name": "토니토니 쵸파 점프력 강화(점핑 포인트)",
   "detail": {
-    "captain": "Boosts ATK of [DEX] characters by 2.25x",
+    "specialName": "점프력 강화",
     "special": [
       {
         "description": "Reduces Paralysis duration by 1 턴. Adds .2x to Chain multiplier for 1 turn",
@@ -23,9 +23,12 @@
           25,
           15
         ]
+      },
+      {
+        "description": ""
       }
     ],
-    "specialNotes": "#{stages}",
-    "specialName": "Flight Power Strengthening - Jump Point"
+    "captain": "Boosts ATK of [DEX] characters by 2.25x",
+    "specialNotes": "#{stages}"
   }
 }

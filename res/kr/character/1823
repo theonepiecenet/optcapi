@@ -1,7 +1,7 @@
 {
   "name": "반디 월드",
   "detail": {
-    "captain": "사격 캐릭터의 공격력이 2.2배 상승하고 PERFECT를 연속으로 터치할수록 사격 캐릭터읙 오격력이 1.1배씩 상승한다.(최대 약 3.543배)",
+    "specialName": "모아 모아: 100배 포",
     "special": [
       {
         "description": "적 1기에 100,000의 고정데미지, 일당에게 걸려있는 공격다운 상태 해제",
@@ -23,9 +23,12 @@
           22,
           18
         ]
+      },
+      {
+        "description": ""
       }
     ],
-    "specialNotes": "#{stages}",
-    "specialName": "모아 모아: 100배 포"
+    "captain": "사격형의 공격력이 2.2배 상승하고 PERFECT를 연속으로 터치할수록 사격형의 공격력이 1.1배씩 상승한다.(최대 약 3.543배)",
+    "specialNotes": "#{stages}"
   }
 }

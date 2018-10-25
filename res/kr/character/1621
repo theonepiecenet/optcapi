@@ -1,14 +1,36 @@
 {
   "name": "유스타스 키드, 대해적 시대의 서약 ‘해적왕’",
   "detail": {
-    "captain": "Boosts ATK of Striker characters by 3x if HP is below 30% at the start of the turn, by 2.5x otherwise and boosts HP of Striker characters by 1.2x",
-    "special": "Reduces crew's current HP by 80%, boosts ATK of Striker characters by 2x for 1 turn",
     "specialName": "Double Steel Magnetic Arm",
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts base ATK of Striker characters by 75",
-      "level2": "Boosts base HP of Driven characters by 75"
-    },
+    "special": "Reduces crew's current HP by 80%, boosts ATK of Striker characters by 2x for 1 turn",
+    "captain": "Boosts ATK of Striker characters by 3x if HP is below 30% at the start of the turn, by 2.5x otherwise and boosts HP of Striker characters by 1.2x",
+    "sailor": [
+      "None",
+      "Boosts base ATK of Striker characters by 75",
+      "Boosts base HP of Driven characters by 75"
+    ],
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 30",
+          "Level 3: 공격력 상승 : 40",
+          "Level 4: 공격력 상승 : 50",
+          "Level 5: 공격력 상승 : 100"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 20"
@@ -54,28 +76,6 @@
       },
       {
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 30",
-          "Level 3: 공격력 상승 : 40",
-          "Level 4: 공격력 상승 : 50",
-          "Level 5: 공격력 상승 : 100"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
-        ]
       }
     ],
     "potentialNotes": "#{enrage}"

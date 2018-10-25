@@ -1,13 +1,35 @@
 {
   "name": "코알라, You’re My Valentine",
   "detail": {
-    "captain": "[INT]의 공격력을 2.75배로 만든다",
     "specialName": "혈기 왕성한 정권",
     "special": "봉쇄, 선장효과 무효 상태를 3턴 회복하고 자신의 슬롯을 [RCV] 슬롯으로 바꾸며, 선장이 박식형일 경우 1턴동안 체인 계수가 +0.7 되고 하단의 슬롯을 속성 일치 슬롯으로 바꾼다",
+    "captain": "[INT]의 공격력을 2.75배로 만든다",
     "sailor": {
       "base": "자신의 PERFECT 공격 성공 시 자신의 [RCV] 슬롯이 다음 턴에도 유지된다",
       "level1": "Boosts base ATK, HP and RCV of Fighter and Cerebral characters by 35"
     },
+    "potential": [
+      {
+        "Name": "[PSY]데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by 3 turns at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by 6 turns at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by 9 turns at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by 12 turns at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -53,28 +75,6 @@
       },
       {
         "description": "잠재능력 습득 2: Cooldown Reduction"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[PSY]데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by 3 turns at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by 6 turns at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by 9 turns at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by 12 turns at the start of the fight"
-        ]
       }
     ]
   }

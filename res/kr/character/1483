@@ -1,13 +1,35 @@
 {
   "name": "마담 셜리, 점술사",
   "detail": {
-    "captain": "[INT] 캐릭터의 공격력을 2.5배, 회복력을 1.2배로 만든다",
-    "special": "속성 일치 슬롯 이외의 슬롯을 랜덤으로 바꿔 2회 자유롭게 움직이고, 1턴 동안 일당의 공격력이 배리어를 사용하는 적이 있을 때는 1.75배, 없을 때는 1.25배가 된다",
     "specialName": "관측된 카타스트로피",
+    "special": "속성 일치 슬롯 이외의 슬롯을 랜덤으로 바꿔 2회 자유롭게 움직이고, 1턴 동안 일당의 공격력이 배리어를 사용하는 적이 있을 때는 1.75배, 없을 때는 1.25배가 된다",
+    "captain": "[INT] 캐릭터의 공격력을 2.5배, 회복력을 1.2배로 만든다",
     "sailor": {
       "base": "[INT]이 [PSY] 이외의 적에게 주는 일반 공격의 데미지가 1.1배가 된다",
       "level1": "일당의 기본 능력치가 50 상승한다"
     },
+    "potential": [
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by 7 turns"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 15"
@@ -53,28 +75,6 @@
       },
       {
         "description": "잠재능력 습득 2: 배리어 관통"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by 7 turns"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
       }
     ]
   }

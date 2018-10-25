@@ -1,7 +1,7 @@
 {
   "name": "돈 칭자오, 전 팔보수군의 12대 두목",
   "detail": {
-    "captain": "Boosts ATK of Powerhouse characters by 2.75x until the first hit other than PERFECT and recovers 120 HP at end of each turn",
+    "specialName": "Legend Told to the Grandchild",
     "special": [
       {
         "description": "Cuts the current HP of one enemy by 20%, reduces damage received by 50% for 1 turn",
@@ -18,13 +18,34 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
-    "specialName": "Legend Told to the Grandchild",
+    "captain": "Boosts ATK of Powerhouse characters by 2.75x until the first hit other than PERFECT and recovers 120 HP at end of each turn",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Fighter and Powerhouse characters by 50",
       "level2": "Adds 2x character's ATK as Additional Typeless Damage"
     },
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turns",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 20"
@@ -72,27 +93,6 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turns",
-          "Level 3: Reduces No Healing duration by ? turns",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      }
-    ]
+    "specialNotes": "#{stages}"
   }
 }

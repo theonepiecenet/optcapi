@@ -1,7 +1,7 @@
 {
   "name": "해군본부 상사 코비, ‘위대한 항로’의 해병",
   "detail": {
-    "captain": "PERFECT 타이밍을 2연속, 5연속 성공 시에 이후 캐릭터의 공격력이 각각 2배, 3배가 된다",
+    "specialName": "메아리치는 영혼의 외침",
     "special": [
       {
         "description": "남은 체력이 3,000 이하인 경우, 회복 무효 상태를 1턴 줄이고, 회복력x3배의 체력을 회복한다",
@@ -25,8 +25,8 @@
         ]
       }
     ],
-    "specialNotes": "No Healing debuff completely stops healing abilities. This is the debuff used in Akainu raid<br>#{stages}",
+    "captain": "PERFECT 타이밍을 2연속, 5연속 성공 시에 이후 캐릭터의 공격력이 각각 2배, 3배가 된다",
     "sailor": "의성어 은폐 상태를 5턴 회복한다",
-    "specialName": "메아리치는 영혼의 외침"
+    "specialNotes": "No Healing debuff completely stops healing abilities. This is the debuff used in Akainu raid #{stages}"
   }
 }

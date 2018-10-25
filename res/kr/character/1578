@@ -1,7 +1,7 @@
 {
   "name": "모모노스케",
   "detail": {
-    "captain": "체력이 일정 비율 이상일 떄, 공격을 받아도 쓰러지지 않는다",
+    "specialName": "승천하는 기적의 용",
     "special": [
       {
         "description": "1턴 동안 체인 계수가 +0.2 증가한다",
@@ -25,9 +25,9 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
+    "captain": "체력이 일정 비율 이상일 떄, 공격을 받아도 쓰러지지 않는다",
     "sailor": "자신은 [STR][QCK][DEX][INT] 슬롯도 [유리] 슬롯으로 취급한다",
-    "sailorNotes": "#{beneficial}",
-    "specialName": "승천하는 기적의 용"
+    "specialNotes": "#{stages}",
+    "sailorNotes": "#{beneficial}"
   }
 }

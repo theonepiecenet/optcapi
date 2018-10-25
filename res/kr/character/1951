@@ -1,16 +1,46 @@
 {
   "name": "니코 로빈, 공백을 밝히는 고고학자",
   "detail": {
-    "captain": "Boosts ATK of Cerebral characters by 3.25x and their RCV by 1.5x, makes [RCV] orbs “beneficial” to Cerebral characters and reduce damage received by 20%",
-    "captainNotes": "#{beneficial}",
-    "special": "Reduces damage received by 100% for 1 turn. If your Captain is a Cerebral character, changes adjacent orbs into [RCV] orbs",
     "specialName": "Moth Orchid",
+    "special": "Reduces damage received by 100% for 1 turn. If your Captain is a Cerebral character, changes adjacent orbs into [RCV] orbs",
+    "captain": "Boosts ATK of Cerebral characters by 3.25x and their RCV by 1.5x, makes [RCV] orbs “beneficial” to Cerebral characters and reduce damage received by 20%",
     "sailor": {
       "base": "None",
       "level1": "Cerebral 캐릭터의 기본 공격력과 체력이 50 상승한다",
       "level2": "Makes [PSY], [RCV] and [TND] orbs “beneficial” for Cerebral characters"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[INT]데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 150",
+          "Level 2: 공격력 상승 : 200",
+          "Level 3: 공격력 상승 : 250",
+          "Level 4: 공격력 상승 : 300",
+          "Level 5: 공격력 상승 : 400"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -103,38 +133,8 @@
         "description": "잠재능력 습득 3: 피격 시 공격력 상승"
       }
     ],
-    "potential": [
-      {
-        "Name": "[INT]데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 150",
-          "Level 2: 공격력 상승 : 200",
-          "Level 3: 공격력 상승 : 250",
-          "Level 4: 공격력 상승 : 300",
-          "Level 5: 공격력 상승 : 400"
-        ]
-      }
-    ],
+    "captainNotes": "#{beneficial}",
+    "sailorNotes": "#{beneficial}",
     "potentialNotes": "#{enrage}"
   }
 }

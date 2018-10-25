@@ -1,9 +1,9 @@
 {
   "name": "목 베는 술레이만, 디아스 해전 A급 전범",
   "detail": {
-    "captain": "참격형 캐릭터의 공격력을 3.25배로 만들고 턴이 경과할 때마다 공격력이 약간 감소한다",
+    "specialName": "슬픔에 찬 처형",
     "special": "무작위의 적에게 무 속성의 큰 랜덤 데미지를 3회 주고, 적 전체의 공격을 1턴 지연시키며, 2턴 동안 지연 중인 적에게 주는 데미지가 1.3배가 된다",
-    "specialNotes": "#{randomHits : 3}<br>#{random : 50,000 : 150,000 : per hit}",
-    "specialName": "슬픔에 찬 처형"
+    "captain": "참격형 캐릭터의 공격력을 3.25배로 만들고 턴이 경과할 때마다 공격력이 약간 감소한다",
+    "specialNotes": "#{randomHits : 3} #{random : 50,000 : 150,000 : per hit}"
   }
 }

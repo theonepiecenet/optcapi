@@ -1,15 +1,36 @@
 {
   "name": "‘밤의 왕’ 네코마무시, 고래의 숲 수호자",
   "detail": {
-    "captain": "[STR]의 공격력을 2.5배, 타격형과 강인형 캐릭터의 체력을 1.25배로 만든다",
-    "special": "적 1명에게 모든 방어 효과를 무시하고 캐릭터의 공격력x50배의 무 속성 데미지를 주며, 적이 지연 무효, 상태 이상 무효일 때 [BLOCK]를 포함한 모든 슬롯을 속성 일치 슬롯으로 바꾸고, 1턴 동안 타격형과 강인형 캐릭터의 공격력이 1.75배가 된다",
-    "specialNotes": "#{ignoreBarrier}<br>#{fixed}",
     "specialName": "맹공의 수호자",
+    "special": "적 1명에게 모든 방어 효과를 무시하고 캐릭터의 공격력x50배의 무 속성 데미지를 주며, 적이 지연 무효, 상태 이상 무효일 때 [BLOCK]를 포함한 모든 슬롯을 속성 일치 슬롯으로 바꾸고, 1턴 동안 타격형과 강인형 캐릭터의 공격력이 1.75배가 된다",
+    "captain": "[STR]의 공격력을 2.5배, 타격형과 강인형 캐릭터의 체력을 1.25배로 만든다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Striker and Powerhouse characters by 30",
       "level2": "Boosts base ATK, HP and RCV for this character by 30"
     },
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: Slot Bind Self-reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      }
-    ]
+    "specialNotes": "#{ignoreBarrier} #{fixed}"
   }
 }

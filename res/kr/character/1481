@@ -1,15 +1,35 @@
 {
   "name": "반더 덱켄 9세, 플라잉 해적단 선장",
   "detail": {
-    "captain": "2연속, 5연속 PERFECT 판정 후부터 캐릭터의 공격력이 2.5배, 3.5배가 된다",
-    "special": "적 1명에게 모든 방어 효과를 무시하고 고정 데미지 200,000을 주며, 봉쇄·필살기 봉쇄 상태를 2턴 회복한다",
-    "specialNotes": "#{ignoreBarrier}<br>#{silence}",
     "specialName": "스토킹 로즈 액스",
+    "special": "적 1명에게 모든 방어 효과를 무시하고 고정 데미지 200,000을 주며, 봉쇄·필살기 봉쇄 상태를 2턴 회복한다",
+    "captain": "2연속, 5연속 PERFECT 판정 후부터 캐릭터의 공격력이 2.5배, 3.5배가 된다",
     "sailor": {
       "base": "자신은 필살기 봉인 상태를 3턴, 필살기 턴 되돌리기를 1턴 회복한다",
       "level1": "Reduces Paralysis duration on this character by 3 turns"
     },
-    "sailorNotes": "#{rewind : 1}<br>#{silence}",
+    "potential": [
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -57,27 +77,7 @@
         "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
-    "potential": [
-      {
-        "Name": "[QCK] 데미지 피해 감소",
-        "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
-        ]
-      }
-    ]
+    "specialNotes": "#{ignoreBarrier} #{silence}",
+    "sailorNotes": "#{rewind : 1} #{silence}"
   }
 }

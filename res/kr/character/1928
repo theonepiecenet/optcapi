@@ -1,15 +1,46 @@
 {
   "name": "식인종 바르톨로메오, 밀짚모자 대선단 ‘부하 술잔’",
   "detail": {
-    "captain": "Boosts ATK of Striker and Driven characters by 3x. If you don't attack with Bartolomeo, reduces damage received by 30% for that turn.",
-    "special": "Protects from defeat for 1 turn and boosts ATK of Striker and Driven characters and amplifies orbs of Striker and Driven characters by 1.5x for 1 turn",
-    "specialNotes": "#{zombie}",
     "specialName": "An Oath of One's Life and Soul",
+    "special": "Protects from defeat for 1 turn and boosts ATK of Striker and Driven characters and amplifies orbs of Striker and Driven characters by 1.5x for 1 turn",
+    "captain": "Boosts ATK of Striker and Driven characters by 3x. If you don't attack with Bartolomeo, reduces damage received by 30% for that turn.",
     "sailor": {
       "base": "None",
       "level1": "Striker 캐릭터의 기본 공격력과 체력이 60 상승한다",
       "level2": "자신의 마비 상태를 완전히 회복한다"
     },
+    "potential": [
+      {
+        "Name": "[DEX]데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : 60",
+          "Level 3: 공격력 상승 : 90",
+          "Level 4: 공격력 상승 : 120",
+          "Level 5: 공격력 상승 : 150"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 2 턴",
+          "Level 3: 회복 무효 상태 회복 : 3 턴",
+          "Level 4: 회복 무효 상태 회복 : 4 턴",
+          "Level 5: 회복 무효 상태 회복 : 5 턴"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -102,38 +133,7 @@
         "description": "잠재능력 습득 3: 회복 무효 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[DEX]데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 7% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 30",
-          "Level 2: 공격력 상승 : 60",
-          "Level 3: 공격력 상승 : 90",
-          "Level 4: 공격력 상승 : 120",
-          "Level 5: 공격력 상승 : 150"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: 회복 무효 상태 회복 : 1 턴",
-          "Level 2: 회복 무효 상태 회복 : 2 턴",
-          "Level 3: 회복 무효 상태 회복 : 3 턴",
-          "Level 4: 회복 무효 상태 회복 : 4 턴",
-          "Level 5: 회복 무효 상태 회복 : 5 턴"
-        ]
-      }
-    ],
+    "specialNotes": "#{zombie}",
     "potentialNotes": "#{enrage}"
   }
 }

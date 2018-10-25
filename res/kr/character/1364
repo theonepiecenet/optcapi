@@ -1,14 +1,35 @@
 {
   "name": "프랑키, 신생 밀짚모자 일당",
   "detail": {
-    "captain": "[PSY] 캐릭터의 공격력이 2.5배가 되고, 받는 데미지를 10% 줄인다",
-    "special": "적 전체에게 공격력x25배의 [PSY] 데미지를 주고, 1턴 동안 [PSY] 캐릭터의 슬롯의 영향이 2배가 된다",
-    "specialNotes": "#{orb : 2x}",
     "specialName": "프랑키~~ 파이어볼",
+    "special": "적 전체에게 공격력x25배의 [PSY] 데미지를 주고, 1턴 동안 [PSY] 캐릭터의 슬롯의 영향이 2배가 된다",
+    "captain": "[PSY] 캐릭터의 공격력이 2.5배가 되고, 받는 데미지를 10% 줄인다",
     "sailor": {
       "base": "[PSY] 캐릭터의 기본 체력이 100 상승한다",
       "level1": "[PSY] 속성의 기본 공격력이 70 상승한다"
     },
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 20"
@@ -56,27 +77,6 @@
         "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn"
-        ]
-      }
-    ]
+    "specialNotes": "#{orb : 2x}"
   }
 }

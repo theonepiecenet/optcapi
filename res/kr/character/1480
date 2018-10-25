@@ -1,11 +1,11 @@
 {
   "name": "반더 덱켄 9세, 유령선의 주인",
   "detail": {
-    "captain": "Boosts ATK by 2.5x after scoring 2 PERFECTs in a row",
+    "specialName": "Stalking Rose Axe",
     "special": "Deals 200,000 fixed damage to one enemy that will ignore damage negating abilities and barriers, reduces Bind and Silence duration by 2 턴",
-    "specialNotes": "#{ignoreBarrier}<br>#{silence}",
+    "captain": "Boosts ATK by 2.5x after scoring 2 PERFECTs in a row",
     "sailor": "Restores his own special by 1 턴 when it is rewinded and reduces Silence for 3 turns for himself",
-    "sailorNotes": "#{rewind : 1}<br>#{silence}",
-    "specialName": "Stalking Rose Axe"
+    "specialNotes": "#{ignoreBarrier} #{silence}",
+    "sailorNotes": "#{rewind : 1} #{silence}"
   }
 }

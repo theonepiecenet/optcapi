@@ -1,8 +1,7 @@
 {
   "name": "바질 호킨스, Tranquil Fortune Teller",
   "detail": {
-    "captain": "Boosts ATK of Cerebral characters by 2.5x and makes [STR] orbs “beneficial” to Cerebral characters",
-    "captainNotes": "#{beneficial}",
+    "specialName": "Raging Strike",
     "special": [
       {
         "description": "Cuts the current HP of one enemy by 10% and changes [TND], [EMPTY] and Badly Matching orbs into Matching orbs and if your Captain is a Cerebral character, reduces Paralysis duration by 2 turns",
@@ -26,8 +25,9 @@
         ]
       }
     ],
-    "specialName": "Raging Strike",
+    "captain": "Boosts ATK of Cerebral characters by 2.5x and makes [STR] orbs “beneficial” to Cerebral characters",
+    "sailor": "Boosts base ATK of Cerebral characters by 75",
     "specialNotes": "#{stages}",
-    "sailor": "Boosts base ATK of Cerebral characters by 75"
+    "captainNotes": "#{beneficial}"
   }
 }

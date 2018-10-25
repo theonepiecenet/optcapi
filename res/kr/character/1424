@@ -1,9 +1,9 @@
 {
   "name": "깅, 해적 함대 전투 ‘총대장’",
   "detail": {
-    "captainNotes": "#{captainProportional : higher : 1 + 1.25 * (remaining HP) / (total HP) : 2.25 : 1}",
     "specialName": "전투 총대장의 마무리",
     "special": "타격형 캐릭터의 필살기 턴을 1턴 단축하고, 적 전체에 고정 데미지 500을 준다",
-    "captain": "공격 시작 전 체력이 많을수록 타격형 캐릭터의 공격력을 최대 2,25배까지 상승시킨다"
+    "captain": "공격 시작 전 체력이 많을수록 타격형 캐릭터의 공격력을 최대 2,25배까지 상승시킨다",
+    "captainNotes": "#{captainProportional : higher : 1 + 1.25 * (remaining HP) / (total HP) : 2.25 : 1}"
   }
 }

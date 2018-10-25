@@ -1,10 +1,10 @@
 {
   "name": "츠루, 해군본부 중장",
   "detail": {
-    "captain": "턴 종료 시에 PERFECT 1회마다 캐릭터의 회복력x0.1배, GOOD 1회마다 캐릭터의 회복력x1배의 체력을 회복한다",
+    "specialName": "노장의 큰 호렁",
     "special": "무작위의 적에게 [QCK] 큰 데미지를 10회 주고, 1턴 동안 일당의 공격력이 1.5배가 된다",
-    "specialNotes": "#{randomHits : 10}#{random : 1,000 : 32,000 : for each hit}",
+    "captain": "턴 종료 시에 PERFECT 1회마다 캐릭터의 회복력x0.1배, GOOD 1회마다 캐릭터의 회복력x1배의 체력을 회복한다",
     "sailor": "일당의 마비 상태를 1턴 회복한다",
-    "specialName": "노장의 큰 호렁"
+    "specialNotes": "#{randomHits : 10}#{random : 1,000 : 32,000 : for each hit}"
   }
 }

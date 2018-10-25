@@ -1,15 +1,46 @@
 {
   "name": "보아 행콕, 뱀 여왕",
   "detail": {
-    "captain": "공격 시작 전 일당의 남은 체력이 많을수록 [QCK]과 [PSY]의 공격력이 높아지며, 체력이 일정 비율 이하일 때 같은 속성의 회복력이 1.5배가 된다",
     "specialName": "퍼퓸 피머",
     "special": "적 전체를 1턴 지연시키고, 1턴 동안 [QCK]과 [PSY] 캐릭터의 공격력과 회복력을 1.75배, 선장의 슬롯을 [RCV]로 바꾸고, 남은 체력이 일정 비율 이상일 때는 좌측 열의 슬롯을 속성 일치 슬롯으로 바꾼다",
-    "captainNotes": "#{captainProportional : higher : 2.25 + 0.5 * (remaining HP) / (total HP) : 2.75 : 2.25}",
+    "captain": "공격 시작 전 일당의 남은 체력이 많을수록 [QCK]과 [PSY]의 공격력이 높아지며, 체력이 일정 비율 이하일 때 같은 속성의 회복력이 1.5배가 된다",
     "sailor": {
       "base": "None",
       "level1": "[QCK]과 [PSY] 캐릭터의 기본 능력치가 30 상승한다",
       "level2": "[QCK]과 [PSY] 캐릭터의 기본 공격력이 75 상승한다"
     },
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by 2 turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by 3 turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by 4 turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by 5 turn at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -102,37 +133,6 @@
         "description": "잠재능력 습득 3: Cooldown Reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by 2 turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by 3 turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by 4 turn at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by 5 turn at the start of the fight"
-        ]
-      }
-    ]
+    "captainNotes": "#{captainProportional : higher : 2.25 + 0.5 * (remaining HP) / (total HP) : 2.75 : 2.25}"
   }
 }

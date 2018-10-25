@@ -3,7 +3,7 @@
   "detail": {
     "captain": "Boosts ATK of [STR] characters by 2.25x, boosts ATK of Powerhouse characters by 1.3x and the HP of Powerhouse characters by 1.2x",
     "captainNotes": "Attack boost stacks, so a [STR] Powerhouse character has a 2.925x ATK",
-    "special": "If your captain is [STR] or [PSY] character, locks the chain multiplier at 2.5x for 2 turns. If your Captain is a Powerhouse character, delays all enemies for 2 turns",
+    "special": "If your captain is a [STR] or [PSY] character, locks the chain multiplier at 2.5x for 2 turns. If your Captain is a Powerhouse character, delays all enemies for 2 turns",
     "specialName": "Majestic Impact",
     "sailor": {
       "base": "Makes [PSY] orbs \"beneficial\" for this character",
@@ -156,7 +156,7 @@
     },
     {
       "type": "Special",
-      "name": "Germa Revival Plan!",
+      "name": "Germa Resurrection Plan!",
       "thumb": 2138,
       "data": [
         "All Difficulties"

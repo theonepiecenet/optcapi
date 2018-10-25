@@ -1,13 +1,35 @@
 {
   "name": "전력의 시실리안",
   "detail": {
-    "captain": "Boosts ATK of [INT] characters by 2.5x and their HP by 1.25x",
-    "special": "Delays all enemies for 1 turn, deals 25x character's ATK [INT] damage to all enemies and changes [STR], [DEX], [QCK], [INT] and [PSY] orbs on Cerebral characters into Matching orbs.",
     "specialName": "Dash - Dive - Destroy",
+    "special": "Delays all enemies for 1 turn, deals 25x character's ATK [INT] damage to all enemies and changes [STR], [DEX], [QCK], [INT] and [PSY] orbs on Cerebral characters into Matching orbs.",
+    "captain": "Boosts ATK of [INT] characters by 2.5x and their HP by 1.25x",
     "sailor": {
       "base": "When HP is below 30% at the start of the turn, boosts own base ATK by 200",
       "level1": "Reduces Paralysis duration by 1 turn"
     },
+    "potential": [
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 20"
@@ -53,28 +75,6 @@
       },
       {
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
       }
     ],
     "potentialNotes": "#{enrage}"

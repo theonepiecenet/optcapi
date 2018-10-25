@@ -1,15 +1,36 @@
 {
   "name": "니코 로빈, 밀 플루르 캄포 데 프로레스",
   "detail": {
-    "captain": "[PSY]의 공격력을 2.25배로 만들고, 턴 종료 시에 캐릭터의 회복력x3배의 체력을 회복한다",
-    "special": "봉쇄, 선장효과 무효, 필살기 봉쇄 상태를 3턴 회복하고, 일당의 필살기 턴을 턴 단축한다",
     "specialName": "밀 플루르 캄포 데 프로레스",
-    "specialNotes": "#{silence}",
+    "special": "봉쇄, 선장효과 무효, 필살기 봉쇄 상태를 3턴 회복하고, 일당의 필살기 턴을 턴 단축한다",
+    "captain": "[PSY]의 공격력을 2.25배로 만들고, 턴 종료 시에 캐릭터의 회복력x3배의 체력을 회복한다",
     "sailor": {
       "base": "None",
       "level1": "Reduces Paralysis duration on this character by 3 turns",
       "level2": "Reduces Silence duration on this character by 3 turns"
     },
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -57,28 +78,7 @@
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      }
-    ],
+    "specialNotes": "#{silence}",
     "potentialNotes": "#{enrage}"
   }
 }

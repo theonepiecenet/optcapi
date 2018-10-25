@@ -1,7 +1,7 @@
 {
   "name": "해군본부 상사 코비, ‘해군의 영웅’의 제자",
   "detail": {
-    "captain": "PERFECT 타이밍을 2연속, 5연속 성공 시에 이후 캐릭터의 공격력이 각각 2.5배, 3.5배가 된다",
+    "specialName": "메아리치는 영혼의 외침",
     "special": [
       {
         "description": "남은 체력이 3,000 이하인 경우, 회복 무효 상태를 1턴 줄이고, 회복력x3배의 체력을 회복한다",
@@ -25,13 +25,33 @@
         ]
       }
     ],
-    "specialNotes": "No Healing debuff completely stops healing abilities. This is the debuff used in Akainu raid<br>#{stages}",
-    "specialName": "메아리치는 영혼의 외침",
+    "captain": "PERFECT 타이밍을 2연속, 5연속 성공 시에 이후 캐릭터의 공격력이 각각 2.5배, 3.5배가 된다",
     "sailor": {
       "base": "의성어 은폐 상태를 5턴 회복한다",
       "level1": "Makes [PSY] orbs “beneficial” for Fighter characters"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -79,27 +99,7 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
-        ]
-      }
-    ]
+    "specialNotes": "No Healing debuff completely stops healing abilities. This is the debuff used in Akainu raid #{stages}",
+    "sailorNotes": "#{beneficial}"
   }
 }

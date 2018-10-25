@@ -1,7 +1,7 @@
 {
   "name": "마하 바이스, 디아만테 군 간부",
   "detail": {
-    "captain": "자유형 캐릭터의 공격력을 2.25배, 회복력을 1.5배로 만든다",
+    "specialName": "파괴의 천 톤 바이스",
     "special": [
       {
         "description": "체인 계수 상한 고정 상태를 1턴 회복하고, 1턴 동안 타격형 캐릭터의 일반 공격에 의한 속성 상성의 영향을 조금 증폭시킨다",
@@ -25,14 +25,34 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
-    "specialName": "파괴의 천 톤 바이스",
+    "captain": "자유형 캐릭터의 공격력을 2.25배, 회복력을 1.5배로 만든다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK of Striker characters by 35",
       "level2": "자신은 [STR] 슬롯도 [유리] 슬롯으로 취급한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -80,27 +100,7 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[QCK] 데미지 피해 감소",
-        "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
-        ]
-      }
-    ]
+    "specialNotes": "#{stages}",
+    "sailorNotes": "#{beneficial}"
   }
 }

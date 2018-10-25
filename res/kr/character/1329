@@ -1,8 +1,7 @@
 {
   "name": "위커",
   "detail": {
-    "captain": "모험 시작 시 격투형과 자유형의 필살기 턴을 1턴 단축하고, 낮은 확률로 모험에서 획득한 보물이 한 가지 추가된다(보물 추가 효과는 모험 도중에 선장이 되면 발휘되지 않습니다)",
-    "captainNotes": "Does not work if she was not your captain upon starting the island. Stacks with other addional drop captains, giving you two chances of getting an extra drop.",
+    "specialName": "요정의 소행",
     "special": [
       {
         "description": "적 전체에게 고정 데미지 6을 주고, 상단 슬롯을 랜덤으로 바꾼다",
@@ -26,7 +25,8 @@
         ]
       }
     ],
-    "specialName": "요정의 소행",
-    "specialNotes": "#{colorAffinity : 1.25}<br>#{stages}"
+    "captain": "모험 시작 시 격투형과 자유형의 필살기 턴을 1턴 단축하고, 낮은 확률로 모험에서 획득한 보물이 한 가지 추가된다(보물 추가 효과는 모험 도중에 선장이 되면 발휘되지 않습니다)",
+    "specialNotes": "#{colorAffinity : 1.25} #{stages}",
+    "captainNotes": "Does not work if she was not your captain upon starting the island. Stacks with other addional drop captains, giving you two chances of getting an extra drop."
   }
 }

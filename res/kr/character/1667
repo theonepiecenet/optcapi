@@ -1,15 +1,36 @@
 {
   "name": "퀴로스, 리쿠 왕군 군대장",
   "detail": {
-    "captain": "타격형 캐릭터의 공격력을 2.25배, 체력을 1.2배로 만들고, 남은 체력이 적을 때는 타격형의 공격력이 2.75배가 된다",
-    "special": "인접한 캐릭터의 슬롯을 속성 일치 슬롯으로 바꾸고, 남은 체력이 70% 이상일 때 1턴 동안 타격형과 강인형 캐릭터의 슬롯의 영향을 증폭시킨다",
     "specialName": "신의의 파괴검",
+    "special": "인접한 캐릭터의 슬롯을 속성 일치 슬롯으로 바꾸고, 남은 체력이 70% 이상일 때 1턴 동안 타격형과 강인형 캐릭터의 슬롯의 영향을 증폭시킨다",
+    "captain": "타격형 캐릭터의 공격력을 2.25배, 체력을 1.2배로 만들고, 남은 체력이 적을 때는 타격형의 공격력이 2.75배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Adds 2x character's ATK as Additional Typeless Damage",
       "level2": "When any other character uses a special, reduces own cooldown by 1 turn"
     },
-    "sailorNotes": "#{additionalDamage : 2x}",
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 10턴 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 10턴 회복한다"
-        ]
-      }
-    ]
+    "sailorNotes": "#{additionalDamage : 2x}"
   }
 }

@@ -1,9 +1,9 @@
 {
   "name": "하몬드",
   "detail": {
-    "captain": "Boosts ATK of Powerhouse characters proportionally to the crew's current HP",
-    "captainNotes": "#{captainProportional : lower : ??? + ??? * (1 - (remaining HP) / (total HP)) : ??? : 2.25}",
+    "specialName": "Absurd Invitation",
     "special": "Changes own orb into [QCK] and changes adjacent orbs into [EMPTY] orbs",
-    "specialName": "Absurd Invitation"
+    "captain": "Boosts ATK of Powerhouse characters proportionally to the crew's current HP",
+    "captainNotes": "#{captainProportional : lower : ??? + ??? * (1 - (remaining HP) / (total HP)) : ??? : 2.25}"
   }
 }

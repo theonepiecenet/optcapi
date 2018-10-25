@@ -1,9 +1,9 @@
 {
   "name": "반더 덱켄 9세, 친애하는 공주에게",
   "detail": {
-    "captain": "일당의 공격력을 2배로 만들고, 턴 종료 시 회복력x2배의 체력을 회복한다",
+    "specialName": "하트 저격",
     "special": "1턴 동안 일당의 슬롯 영향을 증폭시키고, 슬롯을 고정하며, 적 1명에게 필살기 발동 시 체력이 많을수록 위력이 증폭되는 무 속성의 큰 데미지를 준다",
-    "specialNotes": "#{specialProportional : higher : 85 * ( (remaining HP) / (total HP) )}",
-    "specialName": "하트 저격"
+    "captain": "일당의 공격력을 2배로 만들고, 턴 종료 시 회복력x2배의 체력을 회복한다",
+    "specialNotes": "#{specialProportional : higher : 85 * ( (remaining HP) / (total HP) )}"
   }
 }

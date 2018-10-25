@@ -1,7 +1,7 @@
 {
   "name": "시라호시, 용궁 왕국 왕녀",
   "detail": {
-    "captain": "턴 종료 시에 회복력x5배의 체력을 회복하고, 자신 이외의 공격력을 2.25배, 자신의 공격력은 약간 상승, 자신이 공격하지 않았던 턴은 받는 데미지가 10% 감소한다",
+    "specialName": "울보의 용기",
     "special": [
       {
         "description": "[BLOCK] 슬롯을 포함해 인정한 슬롯을 무지개 슬롯(공격력을 2배로 만드는 슬롯이며, 적과 아군 모두 무지개 슬롯을 변환 대상으로 할 수 없음)으로 바꾸며, 캐릭터의 회복력x9배의 체력을 회복한다",
@@ -18,12 +18,43 @@
         ]
       }
     ],
-    "specialNotes": "Rainbow orbs are the benefittial form of [BLOCK] orbs. They can not be shuffled or swapped by you or your opponent. They count as benefittial orbs to any character. They do not count as [STR] orbs for Sakazuki but do act like Matching orbs for Black Clad Ace or Fujitora captain abilities.<br>#{stages}",
-    "specialName": "울보의 용기",
+    "captain": "턴 종료 시에 회복력x5배의 체력을 회복하고, 자신 이외의 공격력을 2.25배, 자신의 공격력은 약간 상승, 자신이 공격하지 않았던 턴은 받는 데미지가 10% 감소한다",
     "sailor": {
       "base": "모험 시작 시 모든 슬롯을 무지개 슬롯으로 바꾼다(같은 효과 중복 시엔 하나만 효과 발동)",
       "level1": "Boosts amount healed from [RCV] orbs by 150 each"
     },
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 10턴 회복한다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 5 turns",
+          "Level 5: Reduces No Healing duration by 10 turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 5"
@@ -116,37 +147,6 @@
         "description": "잠재능력 습득 3: 회복 무효 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 10턴 회복한다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 5 turns",
-          "Level 5: Reduces No Healing duration by 10 turns"
-        ]
-      }
-    ]
+    "specialNotes": "Rainbow orbs are the benefittial form of [BLOCK] orbs. They can not be shuffled or swapped by you or your opponent. They count as benefittial orbs to any character. They do not count as [STR] orbs for Sakazuki but do act like Matching orbs for Black Clad Ace or Fujitora captain abilities. #{stages}"
   }
 }

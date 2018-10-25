@@ -1,16 +1,46 @@
 {
   "name": "‘밤의 왕’ 네코마무시",
   "detail": {
-    "captain": "Boosts HP of Striker characters by 1.25x and boosts ATK of Striker charcters by 3.75x if they have a [STR], [QCK], [DEX], [INT], [PSY] or [RAINBOW] orb",
-    "special": "Deals 60x character's ATK in [PSY] damage to one enemy and makes [STR], [DEX], [QCK], [PSY] and [INT] orbs “beneficial” for Striker characters for 1 turn",
-    "specialNotes": "#{beneficial}",
     "specialName": "Daybreak Ruler's Spear",
+    "special": "Deals 60x character's ATK in [PSY] damage to one enemy and makes [STR], [DEX], [QCK], [PSY] and [INT] orbs “beneficial” for Striker characters for 1 turn",
+    "captain": "Boosts HP of Striker characters by 1.25x and boosts ATK of Striker charcters by 3.75x if they have a [STR], [QCK], [DEX], [INT], [PSY] or [RAINBOW] orb",
     "sailor": {
       "base": "None",
       "level1": "타격형 캐릭터의 기본 능력치가 70 상승한다",
       "level2": "자신은 [INT] 슬롯도 [유리] 슬롯으로 취급한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 10턴 회복한다",
+          "Level 5: Reduces Slot Bind completely on this character"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 5"
@@ -103,37 +133,7 @@
         "description": "잠재능력 습득 3: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 7% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "[PSY] 데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 10턴 회복한다",
-          "Level 5: Reduces Slot Bind completely on this character"
-        ]
-      }
-    ]
+    "specialNotes": "#{beneficial}",
+    "sailorNotes": "#{beneficial}"
   }
 }

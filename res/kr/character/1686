@@ -3,12 +3,33 @@
   "detail": {
     "specialName": "초록성 죽창림",
     "special": "[EMPTY] 슬롯을 속성 일치 슬롯으로, [불리] 슬롯을 [RCV] 슬롯으로 바꾸고, 적 전체의 공격을 1턴 지연시킨다",
+    "captain": "GOOD→GREAT→PERFECT 순으로 공격한 후부터 사격형 캐릭터의 공격력이 3.25배가 된다",
     "sailor": {
       "base": "자신의 필살기 봉쇄 상태를 4턴 회복한다",
       "level1": "Boosts base ATK and HP of Shooter characters by 50"
     },
-    "captain": "GOOD→GREAT→PERFECT 순으로 공격한 후부터 사격형 캐릭터의 공격력이 3.25배가 된다",
-    "sailorNotes": "#{silence}",
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -56,27 +77,6 @@
         "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
-    "potential": [
-      {
-        "Name": "[PSY] 데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
-        ]
-      }
-    ]
+    "sailorNotes": "#{silence}"
   }
 }

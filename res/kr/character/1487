@@ -1,15 +1,36 @@
 {
   "name": "파괴포 이데오, XXX급 복서",
   "detail": {
-    "captain": "모험 시작 시 필살기 턴을 2턴 단축하고, 격투형 캐릭터의 공격력을 슬롯 일치 시 3배로 만든다",
-    "special": "2턴 동안 받는 데미지가 2배가 되지만, 적 1명에게 [DEX] 데미지를 주고 1턴 동안 격투형 캐릭터의 슬롯의 영향을 2배로 증폭시킨다",
-    "specialNotes": "#{orb : 2x}",
     "specialName": "「파괴포」의 숨겨진 탄",
+    "special": "2턴 동안 받는 데미지가 2배가 되지만, 적 1명에게 [DEX] 데미지를 주고 1턴 동안 격투형 캐릭터의 슬롯의 영향을 2배로 증폭시킨다",
+    "captain": "모험 시작 시 필살기 턴을 2턴 단축하고, 격투형 캐릭터의 공격력을 슬롯 일치 시 3배로 만든다",
     "sailor": {
       "base": "None",
       "level1": "Makes [DEX] orbs “beneficial” for Fighter characters",
       "level2": "자신은 [STR] 슬롯도 [유리] 슬롯으로 취급한다"
     },
+    "potential": [
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 20"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
-    "potential": [
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn"
-        ]
-      }
-    ]
+    "specialNotes": "#{orb : 2x}"
   }
 }
