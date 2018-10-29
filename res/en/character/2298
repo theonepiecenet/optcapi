@@ -1,13 +1,12 @@
 {
   "name": "Boa Hancock, Halloween Midnight Parade",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by ?x and their RCV by ?x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 6 times to a maximum of ?x.",
+    "captain": "Boosts ATK of Shooter characters by 1.5x and their RCV by 1.1x",
     "special": "Reduces the defense of all enemies by 100% for 1 turn, reduces enemies' Threshold Damage Reduction, ATK Up, End of Turn Heal and Resilience Buffs duration by 2 turns, recovers 10,310 HP, Changes Captain's [EMPTY] orb into an [INT] orb and locks Captain's orb for 1 turn. If your Captain's orb is [INT] at the time the special is activated, boosts ATK against enemies with reduced defense by 1.75x for 1 turn and changes Captain's orb into [PSY]. If your Captain's orb is [PSY] at the time the special is activated, amplifies the effect of orbs for Shooter characters by 2x for 1 turn and changes Captain's orb into [INT].",
-    "specialName": "Mischievous Love-Love Beam",
-    "specialNotes": "#{additionalDamage : 55x}"
+    "specialName": "Mischievous Love-Love Beam"
   },
   "aliases": [
-    "",
+    "ハンコック セクシーバット　ハロウィン・ミッドナイトパレード",
     "",
     "Halloween Boa Hancock",
     "TM Boa Hancock",
@@ -37,11 +36,11 @@
   "evolution": {
     "evolution": 2299,
     "evolvers": [
+      115,
       116,
       117,
-      80,
-      86,
-      102
+      118,
+      104
     ]
   },
   "evolve": [],

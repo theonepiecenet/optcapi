@@ -3,10 +3,10 @@
   "detail": {
     "captain": "Boosts ATK of [STR], [DEX] and [PSY] characters by 2.5x and their HP by 1.2x at the start of the chain. Boosts ATK of [STR], [DEX] and [PSY] characters by 3x following a chain of [STR] > [PSY] > [DEX] attacks no lower than Good",
     "special": "Deals 200,000 fixed damage to one enemy, reduces crew's Increase Damage Taken, Chain Multiplier Limit and Chain Coefficient Reduction duration by 5 turns. If your crew has 3 or more [DEX] characters, boosts the Color Affinity of [STR], [DEX] and [PSY] characters by 2x for 1 turn",
-    "specialName": "Clone Soldier Wall",
+    "specialName": "Electro-Magnetic Shaft",
     "sailor": {
       "base": "Boosts base ATK, HP and RCV of [DEX] characters by 30",
-      "level1": "Boosts base ATK of Powerhouse characters by 30"
+      "level1": "Boosts base ATK of Powerhouse characters by 50"
     },
     "limit": [
       {
@@ -49,7 +49,7 @@
         "description": "Boosts base RCV by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK of Powerhouse characters by 30"
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of Powerhouse characters by 50"
       },
       {
         "description": "Acquire Potential 2: Slot Bind Self-reduction"

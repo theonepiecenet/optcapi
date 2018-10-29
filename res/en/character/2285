@@ -2,8 +2,8 @@
   "name": "Hody Jones, Natural Born Monster",
   "detail": {
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Powerhouse characters by 3.25x and increases damage received by ?x.",
-    "special": "Deals 50x character's ATK in [STR] damage to all enemies, changes the orbs in the left column into [DEX], [STR] and [PSY], the orbs in the right column into [TND], [QCK] and [INT]. If your friend Captain's orb is [STR], [DEX] or [RCV] at the time the special is activated, amplifies the effect of orbs for Powerhouse characters by 2.25x for 1 turn.",
-    "specialName": "Strength Gained From Sacrifice",
+    "special": "Deals 50x character's ATK in [STR] damage to all enemies, changes the orbs in the left column into [DEX], [STR] and [PSY], the orbs in the right column into [TND], [QCK] and [INT]. If your friend Captain's orb is [STR] or [DEX], amplifies the effect of orbs for Powerhouse characters by 2.25x for 1 turn.",
+    "specialName": "Shark Slicer",
     "sailor": {
       "base": "Boosts base ATK of all characters by 50",
       "level1": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this character"
@@ -69,7 +69,7 @@
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 3 turn on this character",
+          "Level 1: Reduces Slot Bind duration by 3 turns on this character",
           "Level 2: Reduces Slot Bind duration by 5 turns on this character",
           "Level 3: Reduces Slot Bind duration by 7 turns on this character",
           "Level 4: Reduces Slot Bind duration by 10 turns on this character",
