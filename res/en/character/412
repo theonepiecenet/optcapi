@@ -4,7 +4,81 @@
     "special": "Changes adjacent orbs into [STR] orbs, deals 1,000 fixed damage to all enemies",
     "specialName": "Ursa Shock",
     "specialNotes": "#{fixed}",
-    "captain": "Boosts ATK and HP of [STR] characters by 2x"
+    "captain": "Boosts ATK and HP of [STR] characters by 2x",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of Shooter characters by 50",
+      "level2": "Makes [STR] orbs \"beneficial\" for Shooter characters"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Shooter characters by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [STR] orbs \"beneficial\" for Shooter characters"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 140"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by ?%",
+          "Level 2: Reduce damage taken from [DEX] characters by ?%",
+          "Level 3: Reduce damage taken from [DEX] characters by ?%",
+          "Level 4: Reduce damage taken from [DEX] characters by ?%",
+          "Level 5: Reduce damage taken from [DEX] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ]
   },
   "aliases": [
     "バーソロミュー・くま 王下七武海",

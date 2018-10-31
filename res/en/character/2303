@@ -1,20 +1,20 @@
 {
-  "name": "Charlotte Chiffon",
+  "name": "Charlotte Chiffon, Bege's Wife",
   "detail": {
-    "captain": "Boosts ATK of all characters by ?x and reduces damage received by ?% if HP is above 99% at the start of the turn",
+    "captain": "Reduces damage received by ?% if HP is above 99% at the start of the turn",
     "special": [
       {
         "description": "Reduces Paralysis, Despair and Silence and ATK DOWN duration by 1 turn and recovers 3x character's RCV in HP at the end of each turn for 3 turns",
         "cooldown": [
-          null,
-          null
+          16,
+          10
         ]
       },
       {
         "description": "Reduces Paralysis, Despair and Silence and ATK DOWN duration by 3 turns, recovers 10x character's RCV in HP at the end of each turn for 3 turns and if your crew has Threshold Damage Reduction, Percent Damage Reduction or Resilience, recovers all missing HP",
         "cooldown": [
-          null,
-          null
+          23,
+          17
         ]
       }
     ],
@@ -24,7 +24,7 @@
     "sailorNotes": "#{silence}"
   },
   "aliases": [
-    "",
+    "シャーロット・シフォン ベッジの妻",
     "",
     ""
   ],
@@ -36,18 +36,27 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
-    "level": 70,
-    "exp": 1066998,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 980,
+    "maxATK": 857,
+    "maxRCV": 101
   },
-  "cooldown": null,
+  "cooldown": [
+    23,
+    17
+  ],
   "evolution": {
     "evolution": 2304,
-    "evolvers": []
+    "evolvers": [
+      117,
+      87,
+      1180,
+      303,
+      103
+    ]
   },
   "evolve": [],
   "image": {

@@ -1,13 +1,13 @@
 {
-  "name": "Vito",
+  "name": "\"Monster Gun\" Vito, Fire Tank Pirates",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by ?x and makes [DEX] orbs \"beneficial\" for Shooter characters",
+    "captain": "Boosts ATK of Shooter characters by 2.25x and makes [DEX] orbs \"beneficial\" for Shooter characters",
     "special": "Cuts the current HP of one enemy by 20%, changes orbs in the top row into Matching orbs, reduces enemy's Threshold Damage Reduction and Increased Defense duration by 3 turns. If there are 6 Shooter characters in your crew when the special is activated, reduces damage received by 90% for 1 turn.",
     "specialName": "Phantom Gun Shot",
     "sailor": "If your Captain is a Shooter character, completely resists Blindness"
   },
   "aliases": [
-    "",
+    "“怪銃”ヴィト ファイアタンク海賊団",
     "",
     ""
   ],
@@ -19,18 +19,27 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
-    "level": 70,
-    "exp": 1066998,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 970,
+    "maxATK": 805,
+    "maxRCV": 120
   },
-  "cooldown": null,
+  "cooldown": [
+    20,
+    14
+  ],
   "evolution": {
     "evolution": 2308,
-    "evolvers": []
+    "evolvers": [
+      117,
+      86,
+      1180,
+      302,
+      102
+    ]
   },
   "evolve": [],
   "image": {

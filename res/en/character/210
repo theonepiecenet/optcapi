@@ -7,7 +7,7 @@
     "sailor": {
       "base": "None",
       "level1": "Makes [PSY] orbs \"beneficial\" for this character",
-      "level2": "When HP is below ??% at the start of the turn, boosts own base ATK by 250"
+      "level2": "When HP is below ?% at the start of the turn, boosts own base ATK by 250"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -51,7 +51,7 @@
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "Acquire Sailor Ability 2: When HP is below ??% at the start of the turn, boosts own base ATK by 250"
+        "description": "Acquire Sailor Ability 2: When HP is below ?% at the start of the turn, boosts own base ATK by 250"
       },
       {
         "description": "Acquire Potential 2: Enrage"
