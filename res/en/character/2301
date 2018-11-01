@@ -1,13 +1,13 @@
 {
-  "name": "Capone Bege",
+  "name": "Capone \"Gang\" Bege, Big Mom Pirates Combatant \"Rook\"",
   "detail": {
     "captain": "Boosts ATK of Shooter characters by 3.75x and their HP by 1.35x and makes [PSY] and [INT] orbs \"beneficial\" for Shooter characters. If there are 6 Shooter characters in your crew, recovers .5x his RCV at the end of the turn each time you hit a PERFECT",
     "special": "Boosts ATK of Shooter characters by 2x for 1 turn. If there are 6 characters in your crew at the time the special is activated, reduces crew's current HP by 85%, transforms crew into Big Father and turns the amount of HP subtracted into Big Father's Barrier.",
     "specialNotes": "While Big Father is active, crew's HP isn't able to be reduced and becomes immune to Blow Away inflicted to the crew. Big Father deactivates when the Barrier HP is reduced to 0 HP. While in Big Father, you can not use Captain Swap, Captain Actions or Dual Unit Swap (last unconfirmed). If a Captain Swap or Captain Action is already active, you can not transform into Big Father.",
-    "specialName": "Full Scale Rook! Big Father"
+    "specialName": "Full-Scale Rook! The Big Father"
   },
   "aliases": [
-    "",
+    "カポネ・“ギャング”ベッジ ビッグ・マム海賊団傘下　戦闘員「城（ルーク）」",
     "",
     "Legend Capone Bege"
   ],
@@ -19,18 +19,27 @@
     ],
     "stars": 5,
     "cost": 30,
-    "combo": null,
+    "combo": 6,
     "slots": 3,
     "level": 70,
     "exp": 1066998,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1573,
+    "maxATK": 1247,
+    "maxRCV": 72
   },
-  "cooldown": null,
+  "cooldown": [
+    21,
+    16
+  ],
   "evolution": {
     "evolution": 2302,
-    "evolvers": []
+    "evolvers": [
+      118,
+      266,
+      99,
+      304,
+      267
+    ]
   },
   "evolve": [],
   "image": {

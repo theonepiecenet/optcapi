@@ -1,13 +1,13 @@
 {
   "name": "Gangster Gastino",
   "detail": {
-    "captain": "Boosts ATK of Slasher and Cerebral characters by ?x until the first hit other than PERFECT and makes [STR] and [DEX] orbs \"beneficial\" for Slasher and Cerebral characters",
+    "captain": "Boosts ATK of Cerebral characters by 2.75x until the first hit other than PERFECT",
     "special": "Poisons all enemies. If your Captain is a Slasher or Cerebral character, boosts ATK against Poisoned and Strongly Poisoned enemies by 1.75x for 3 turns",
     "specialName": "Blue Sword",
     "sailor": "Boosts base ATK of Slasher and Cerebral characters by 75"
   },
   "aliases": [
-    "",
+    "ガスティーノ ギャングスター",
     "",
     "Gangster Gastino",
     "Not Caesar Clown"
@@ -20,18 +20,27 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 4,
     "slots": 3,
-    "level": 70,
-    "exp": 1066998,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "level": 50,
+    "exp": 392109,
+    "maxHP": 1120,
+    "maxATK": 937,
+    "maxRCV": 51
   },
-  "cooldown": null,
+  "cooldown": [
+    16,
+    10
+  ],
   "evolution": {
     "evolution": 2306,
-    "evolvers": []
+    "evolvers": [
+      117,
+      86,
+      1180,
+      302,
+      102
+    ]
   },
   "evolve": [],
   "image": {

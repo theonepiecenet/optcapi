@@ -1,40 +1,87 @@
 {
   "name": "Gotti, \"Yonko Assassination Plan\" Allied Forces",
   "detail": {
-    "captain": "Boosts ATK of Shooter and Driven characters by 2.25x and their HP by 1.2x",
-    "special": "Reduces any damage received above 5,000 HP by ?% for 3 turns and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX], [QCK], [PSY] or [INT] orbs. If enemies have a barrier at the time the special was activated, makes [STR], [DEX], [QCK], [PSY] and [INT] orbs \"beneficial\" for Shooter characters for 3 turns",
+    "captain": "Boosts ATK of Shooter and Driven characters by 2.5x and their HP by 1.2x",
+    "special": "Reduces any damage received above 5,000 HP by 95% for 3 turns and randomizes all orbs, including [BLOCK] orbs, into either [STR], [DEX], [QCK], [PSY] or [INT] orbs. If enemies have a barrier at the time the special was activated, makes [STR], [DEX], [QCK], [PSY] and [INT] orbs \"beneficial\" for Shooter characters for 3 turns",
     "specialName": "Assassin's Angry Roar",
-    "specialNotes": "The exact formula for the damage received is: 5000 + ((total damage) - 5000) * ?<br>#{beneficial}",
+    "specialNotes": "The exact formula for the damage received is: 5000 + ((total damage) - 5000) * .05<br>#{beneficial}",
     "sailor": {
       "base": "If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn",
       "level1": "Makes [QCK] orbs \"beneficial\" for Shooter characters"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [QCK] orbs \"beneficial\" for Shooter characters"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
     "potential": [
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
         ]
       },
       {
         "Name": "Barrier Penetration",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "ゴッティ 「四皇暗殺作戦」連合軍",
     "",
     ""
   ],
@@ -50,14 +97,23 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": 2500,
-    "maxATK": 1300,
-    "maxRCV": 300
+    "maxHP": 2670,
+    "maxATK": 1428,
+    "maxRCV": 279
   },
-  "cooldown": null,
+  "cooldown": [
+    20,
+    14
+  ],
   "evolve": {
     "evolution": 2310,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      83,
+      90,
+      96,
+      101
+    ],
     "from": 2309
   },
   "image": {

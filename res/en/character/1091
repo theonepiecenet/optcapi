@@ -6,7 +6,7 @@
     "specialName": "Double Edge of Revolt",
     "sailor": {
       "base": "None",
-      "level1": "When HP is below ??% at the start of the turn, boosts own base ATK by 50",
+      "level1": "When HP is below ?% at the start of the turn, boosts own base ATK by 50",
       "level2": "Makes [INT] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
@@ -33,7 +33,7 @@
         "description": "Boosts base HP by 100"
       },
       {
-        "description": "Acquire Sailor Ability 1: When HP is below ??% at the start of the turn, boosts own base ATK by 50"
+        "description": "Acquire Sailor Ability 1: When HP is below ?% at the start of the turn, boosts own base ATK by 50"
       },
       {
         "description": "Boosts base RCV by 40"
@@ -62,10 +62,10 @@
         "Name": "Critical Hit",
         "description": [
           "Level 1: If you hit a PERFECT with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a ??% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a ??% chance to deal ?% of this character's attack in extra damage"
+          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
         ]
       },
       {

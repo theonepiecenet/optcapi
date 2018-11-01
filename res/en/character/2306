@@ -8,31 +8,78 @@
       "base": "Boosts base ATK of Slasher and Cerebral characters by 75",
       "level1": "Adds 2x character's ATK as Additional Typeless Damage"
     },
+    "limit": [
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Adds 2x character's ATK as Additional Typeless Damage"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
     "potential": [
       {
         "Name": "Reduce No Healing duration",
         "description": [
-          "Level 1: Reduces No Healing duration by ? turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turns",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
         ]
       },
       {
         "Name": "Critical Hit",
         "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+          "Level 1: If you hit a PERFECT with this character, there is a 4% chance to deal 30% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 5% chance to deal 40% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 6% chance to deal 50% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 7% chance to deal 60% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 8% chance to deal 70% of this character's attack in extra damage"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "ガスティーノ 「四皇暗殺作戦」連合軍",
     "",
     "Gangster Gastino",
     "Not Caesar Clown"
@@ -49,14 +96,23 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": 2500,
-    "maxATK": 1300,
-    "maxRCV": 300
+    "maxHP": 2911,
+    "maxATK": 1395,
+    "maxRCV": 247
   },
-  "cooldown": null,
+  "cooldown": [
+    16,
+    10
+  ],
   "evolve": {
     "evolution": 2306,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      86,
+      1180,
+      302,
+      102
+    ],
     "from": 2305
   },
   "image": {

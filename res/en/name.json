@@ -37997,7 +37997,7 @@
     ],
     "id": 2245,
     "aliases": [
-      "サンジ　ヴィスモーク家の隠し子",
+      "サンジ ヴィンスモーク家の隠し子",
       "6+ Sanji",
       "V1 Sanji",
       "Vinsmoke Sanji",
@@ -38980,7 +38980,7 @@
     ],
     "id": 2300,
     "aliases": [
-      "フランキー　男の夢を乗せた改造人間",
+      "フランキー 男の夢を乗せた改造人間",
       "6+ Franky",
       "General Franky",
       "Shogun Franky",
@@ -38992,7 +38992,7 @@
     ]
   },
   {
-    "name": "Capone Bege",
+    "name": "Capone \"Gang\" Bege, Big Mom Pirates Combatant \"Rook\"",
     "type": [
       "INT"
     ],
@@ -39002,8 +39002,11 @@
     ],
     "id": 2301,
     "aliases": [
+      "カポネ・“ギャング”ベッジ ビッグ・マム海賊団傘下　戦闘員「城（ルーク）」",
       "Legend Capone Bege",
-      "Capone Bege"
+      "Capone Bege",
+      "Capone \"Gang\" Bege",
+      " Big Mom Pirates Combatant \"Rook\""
     ]
   },
   {
@@ -39017,6 +39020,7 @@
     ],
     "id": 2302,
     "aliases": [
+      "カポネ・“ギャング”ベッジ 「四皇暗殺作戦」連合軍",
       "Legend Capone Bege",
       "Capone Bege",
       "Capone \"Gang\" Bege",
@@ -39024,7 +39028,7 @@
     ]
   },
   {
-    "name": "Charlotte Chiffon",
+    "name": "Charlotte Chiffon, Bege's Wife",
     "type": [
       "PSY"
     ],
@@ -39034,7 +39038,9 @@
     ],
     "id": 2303,
     "aliases": [
-      "Charlotte Chiffon"
+      "シャーロット・シフォン ベッジの妻",
+      "Charlotte Chiffon",
+      " Bege's Wife"
     ]
   },
   {
@@ -39048,6 +39054,7 @@
     ],
     "id": 2304,
     "aliases": [
+      "シャーロット・シフォン 「四皇暗殺作戦」連合軍",
       "Charlotte Chiffon",
       " \"Yonko Assassination Plan\" Allied Forces"
     ]
@@ -39063,6 +39070,7 @@
     ],
     "id": 2305,
     "aliases": [
+      "ガスティーノ ギャングスター",
       "Gangster Gastino",
       "Not Caesar Clown",
       "Caesar Clown"
@@ -39079,6 +39087,7 @@
     ],
     "id": 2306,
     "aliases": [
+      "ガスティーノ 「四皇暗殺作戦」連合軍",
       "Gangster Gastino",
       "Not Caesar Clown",
       "Caesar Clown",
@@ -39087,7 +39096,7 @@
     ]
   },
   {
-    "name": "Vito",
+    "name": "\"Monster Gun\" Vito, Fire Tank Pirates",
     "type": [
       "DEX"
     ],
@@ -39097,7 +39106,10 @@
     ],
     "id": 2307,
     "aliases": [
-      "Vito"
+      "“怪銃”ヴィト ファイアタンク海賊団",
+      "Vito",
+      "\"Monster Gun\" Vito",
+      " Fire Tank Pirates"
     ]
   },
   {
@@ -39111,13 +39123,14 @@
     ],
     "id": 2308,
     "aliases": [
+      "“怪銃”ヴィト 「四皇暗殺作戦」連合軍",
       "Vito",
       "\"Monster Gun\" Vito",
       " \"Yonko Assassination Plan\" Allied Forces"
     ]
   },
   {
-    "name": "Gotti",
+    "name": "Gotti, Fire Tank Pirates",
     "type": [
       "QCK"
     ],
@@ -39127,7 +39140,9 @@
     ],
     "id": 2309,
     "aliases": [
-      "Gotti"
+      "ゴッティ ファイアタンク海賊団",
+      "Gotti",
+      " Fire Tank Pirates"
     ]
   },
   {
@@ -39141,6 +39156,7 @@
     ],
     "id": 2310,
     "aliases": [
+      "ゴッティ 「四皇暗殺作戦」連合軍",
       "Gotti",
       " \"Yonko Assassination Plan\" Allied Forces"
     ]
@@ -39163,7 +39179,7 @@
     ]
   },
   {
-    "name": "Charlotte Oven, Heat Heat Fruit High Heat Human",
+    "name": "Charlotte Oven, Minister of Baking",
     "type": [
       "STR"
     ],
@@ -39176,7 +39192,90 @@
       "Coliseum Oven",
       "null",
       "Charlotte Oven",
-      " Heat Heat Fruit High Heat Human"
+      " Minister of Baking"
+    ]
+  },
+  {
+    "name": "Usoland",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Shooter"
+    ],
+    "id": 2324,
+    "aliases": [
+      "Limited Usoland",
+      "Secret Usoland",
+      "Limited Usopp",
+      "Secret Usopp",
+      "null",
+      "Usoland"
+    ]
+  },
+  {
+    "name": "Usoland, Operation SOP Commader",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Shooter"
+    ],
+    "id": 2325,
+    "aliases": [
+      "Limited Usoland",
+      "Secret Usoland",
+      "Limited Usopp",
+      "Secret Usopp",
+      "null",
+      "Usoland",
+      " Operation SOP Commader"
+    ]
+  },
+  {
+    "name": "Charlotte Amande",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "id": 2326,
+    "aliases": [
+      "null",
+      "Charlotte Amande"
+    ]
+  },
+  {
+    "name": "Charlotte Amande, Demon Lady",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "id": 2327,
+    "aliases": [
+      "null",
+      "Charlotte Amande",
+      " Demon Lady"
+    ]
+  },
+  {
+    "name": "Bobbin the Disposer",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "id": 2328,
+    "aliases": [
+      "null",
+      "Bobbin the Disposer"
     ]
   },
   {

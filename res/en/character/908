@@ -6,7 +6,7 @@
     "captain": "Boosts ATK of Cerebral characters by 2.5x and their RCV by 1.75x if HP is below 30% at the start of the turn",
     "sailor": {
       "base": "None",
-      "level1": "When HP is below ??% at the start of the turn, boosts base ATK of Cerebral characters by 40",
+      "level1": "When HP is below ?% at the start of the turn, boosts base ATK of Cerebral characters by 40",
       "level2": "Makes RCV and [PSY] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
@@ -33,7 +33,7 @@
         "description": "Boosts base ATK by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: When HP is below ??% at the start of the turn, boosts base ATK of Cerebral characters by 40"
+        "description": "Acquire Sailor Ability 1: When HP is below ?% at the start of the turn, boosts base ATK of Cerebral characters by 40"
       },
       {
         "description": "Boosts base HP by 50"
