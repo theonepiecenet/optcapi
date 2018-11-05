@@ -1,0 +1,49 @@
+{
+  "name": "LINE Batch Blackbeard, Evolved",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 3x at the start of the chain, boosts ATK by 4x following a chain of [STR] > [QCK] > [DEX] attacks no lower than Good and boosts their HP by 1.2x",
+    "special": "Cuts the current HP of each enemy by 15%, reduces enemy's Threshold Damage Reduction and Increased Defense duration by 5 turns. If your crew has 1 or more [STR] and 1 or more [QCK] characters, boosts ATK of [DEX] characters by 2.25x for 1 turn, by 1.75x otherwise.",
+    "specialName": "Blackbeard Special",
+    "sailor": "Boosts base ATK, HP and RCV of STR, DEX and QCK characters by 30"
+  },
+  "aliases": [
+    "",
+    "",
+    "LINE Blackbeard"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Driven",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 3083,
+    "maxATK": 1377,
+    "maxRCV": 172
+  },
+  "cooldown": [
+    null,
+    14
+  ],
+  "evolve": {
+    "evolution": 2403,
+    "evolvers": [],
+    "from": 2402
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2403.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2403.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}
