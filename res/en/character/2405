@@ -1,0 +1,49 @@
+{
+  "name": "LINE Batch Akainu, Evolved",
+  "detail": {
+    "captain": "Boosts ATK of [QCK] characters by 3x at the start of the chain, boosts ATK by 4x following a chain of [DEX] > [STR] > [QCK] attacks no lower than Good and boosts their HP by 1.2x",
+    "special": "Reduces ATK DOWN and Increase Damage Taken duration by 5 turns, changes [BLOCK], [STR] and [QCK] orbs into Matching orbs. If your crew has 1 or more [STR] and 1 or more [DEX] characters, boosts ATK of [QCK] characters by 2.25x for 1 turn, by 1.75x otherwise.",
+    "specialName": "Akainu Special",
+    "sailor": "Boosts base ATK, HP and RCV of STR, DEX and QCK characters by 30"
+  },
+  "aliases": [
+    "",
+    "",
+    "LINE Akainu"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Shooter"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "maxHP": 2200,
+    "maxATK": 1500,
+    "maxRCV": 260
+  },
+  "cooldown": [
+    null,
+    14
+  ],
+  "evolve": {
+    "evolution": 2405,
+    "evolvers": [],
+    "from": 2404
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2405.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2405.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}
