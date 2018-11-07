@@ -1,0 +1,78 @@
+{
+  "name": "Trafalgar Law, The Man Taking Responsibility for the \"Heart\"",
+  "detail": {
+    "captain": {
+      "base": "Not Translated",
+      "level1": "Not Translated",
+      "level2": "Not Translated",
+      "level3": "Not Translated",
+      "level4": "Not Translated",
+      "level5": "Not Translated",
+      "level6": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.8x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters."
+    },
+    "special": "Deals 30x character's ATK in [STR] damage to one enemy, reduces Bind and Despair duration by 2 turns, changes own orb and adjacent orb into Matching orbs, adds .7x to Chain multiplier for 1 turn and reduces Special Cooldown of Fighter, Slasher, Cerebral and Free Spirit specials by 1 turn",
+    "specialName": "Counter-Shock",
+    "sailor": {
+      "base": "None",
+      "level1": "Makes [TND] and [RCV] orbs \"beneficial\" for this character",
+      "level2": "Restores his own special cooldown by 2 turns when it is rewinded"
+    },
+    "sailorNotes": "#{beneficial}<br>#{rewind : 2}",
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by ? turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "TM Law",
+    "TM Trafalgar Law"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Slasher"
+    ],
+    "stars": 5,
+    "cost": 60,
+    "combo": 5,
+    "slots": 1,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 3000,
+    "maxATK": 1500,
+    "maxRCV": 300
+  },
+  "cooldown": null,
+  "evolve": {
+    "evolution": 2336,
+    "evolvers": [],
+    "from": 2335
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2336.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2336.png"
+  },
+  "drop": [],
+  "manual": []
+}

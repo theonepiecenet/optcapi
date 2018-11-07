@@ -1,0 +1,51 @@
+{
+  "name": "Trafalgar Law, Unprecedented Pirate Alliance",
+  "detail": {
+    "captain": "Not Translated",
+    "special": "Deals 30x character's ATK in [STR] damage to one enemy, reduces Bind and Despair duration by 2 turns, changes own orb and adjacent orb into Matching orbs, adds .7x to Chain multiplier for 1 turn and reduces Special Cooldown of Fighter, Slasher, Cerebral and Free Spirit specials by 1 turn",
+    "specialName": "Counter-Shock"
+  },
+  "aliases": [
+    "",
+    "",
+    "TM Law",
+    "TM Trafalgar Law"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": null,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2336,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2335.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2335.png"
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Trafalgar Law",
+      "thumb": 2336,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
+}
