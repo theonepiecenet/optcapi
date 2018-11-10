@@ -1,12 +1,12 @@
 {
-  "name": "Charlotte Amande",
+  "name": "Charlotte Amande, Charlotte Family 3rd Daughter",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters by ?x and their HP by ?x, deals ?x character's ATK in [QCK] damage to all enemies at the end of each turn",
+    "captain": "Boosts ATK of Slasher characters by 2x, deals ?x character's ATK in [QCK] damage to all enemies at the end of each turn",
     "special": "Cuts the current HP of all enemies by 10%, reduces enemy's Percent Damage Reduction and Resilience Buffs duration by 2 turns. If your Captain is a Slasher character, reduces damage received by 30% for 2 turns",
     "specialName": "Slow Waltz"
   },
   "aliases": [
-    "",
+    "シャーロット・アマンド シャーロット家３女",
     "",
     ""
   ],
@@ -22,9 +22,9 @@
     "slots": 3,
     "level": 50,
     "exp": 130703,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 940,
+    "maxATK": 580,
+    "maxRCV": 100
   },
   "cooldown": [
     19,
@@ -32,7 +32,13 @@
   ],
   "evolution": {
     "evolution": 2327,
-    "evolvers": []
+    "evolvers": [
+      117,
+      79,
+      85,
+      96,
+      101
+    ]
   },
   "evolve": [],
   "image": {
@@ -42,7 +48,7 @@
   "drop": [
     {
       "type": "Fortnight",
-      "name": "Amande and Bobbin Fortnight",
+      "name": "Angry Corps! Amande and Bobbin Fortnight",
       "thumb": 2327,
       "data": [
         "All Difficulties"

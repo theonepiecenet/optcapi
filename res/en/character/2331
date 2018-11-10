@@ -1,13 +1,13 @@
 {
-  "name": "Ain",
+  "name": "Ain, Abilities of the Return-Return Fruit",
   "detail": {
-    "captain": "Boosts ATK and RCV of Shooter and Slasher characters by ?x",
+    "captain": "Boosts ATK and RCV of Shooter and Slasher characters by 1.25x",
     "special": "Reduces enemies Percent Damage Reduction and Increased Defense duration by 2 turns, reduces Bind and Despair duration by 2 turns and if your crew has Percent Damage Reduction, recovers 20% of crew's MAX HP, reduces damage received by 70% for 1 turn otherwise.",
     "specialName": "Double Shot",
     "sailor": "Completely resists Silence on this character"
   },
   "aliases": [
-    "",
+    "アイン モドモドの実の能力者",
     "",
     ""
   ],
@@ -19,13 +19,13 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1227,
+    "maxATK": 748,
+    "maxRCV": 228
   },
   "cooldown": [
     17,
@@ -33,7 +33,13 @@
   ],
   "evolution": {
     "evolution": 2332,
-    "evolvers": []
+    "evolvers": [
+      117,
+      266,
+      304,
+      304,
+      104
+    ]
   },
   "evolve": [],
   "image": {

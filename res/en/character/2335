@@ -23,11 +23,14 @@
     "slots": 1,
     "level": 50,
     "exp": 130703,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1451,
+    "maxATK": 742,
+    "maxRCV": 142
   },
-  "cooldown": null,
+  "cooldown": [
+    30,
+    23
+  ],
   "evolution": {
     "evolution": 2336,
     "evolvers": []
