@@ -18,7 +18,7 @@
     ],
     "stars": 3,
     "cost": 13,
-    "combo": null,
+    "combo": 4,
     "slots": 3,
     "level": 50,
     "exp": 130703,
@@ -26,7 +26,10 @@
     "maxATK": null,
     "maxRCV": null
   },
-  "cooldown": null,
+  "cooldown": [
+    19,
+    13
+  ],
   "evolution": {
     "evolution": 2327,
     "evolvers": []
