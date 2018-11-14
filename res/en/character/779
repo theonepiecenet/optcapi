@@ -1,5 +1,5 @@
 {
-  "name": "Rebecca, Coliseum's Exclusive Gladiator",
+  "name": "Rebecca, Coliseum‘s Exclusive Gladiator",
   "detail": {
     "special": "Deals several times the character's ATK in [QCK] damage to one enemy, changes own orb into [QCK]",
     "specialNotes": "#{specialProportional : lower : 125 * ( 1 - (remaining HP) / (total HP) )}",

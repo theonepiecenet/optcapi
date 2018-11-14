@@ -22,7 +22,11 @@
     "maxRCV": null
   },
   "cooldown": null,
-  "evolve": [],
+  "evolve": {
+    "evolution": 2407,
+    "evolvers": [],
+    "from": 2406
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2407.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2407.png"
