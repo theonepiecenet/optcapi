@@ -1,9 +1,10 @@
 {
-  "name": "World Clash Sabo",
+  "name": "Sabo, Oath to a Fallen Brother",
   "aliases": [
     "",
     "",
-    "LINE Sabo"
+    "LINE Sabo",
+    "World Clash Sabo"
   ],
   "unit": {
     "type": "INT",
@@ -28,9 +29,18 @@
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2408.png"
   },
   "flags": {
-    "rr": 1,
-    "rro": 1
+    "special": 1,
+    "global": 1
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Special",
+      "name": "World Clash!",
+      "thumb": 2407,
+      "data": [
+        "Chopperman Missions"
+      ]
+    }
+  ],
   "manual": []
 }

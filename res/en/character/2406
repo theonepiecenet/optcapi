@@ -1,9 +1,15 @@
 {
-  "name": "World Clash Ace",
+  "name": "Portgas D. Ace",
+  "detail": {
+    "captain": "Boosts ATK of all characters by ?x and recovers ? HP at end of each turn",
+    "special": "Binds self for 50 turns, changes all orbs into Matching orbs, boosts ATK of all characters by ?x for 2 turns, amplifies the effect of orbs by ?x for 2 turns and adds .7x to Chain multiplier for 1 turn",
+    "specialName": "Words Left To Family"
+  },
   "aliases": [
     "",
     "",
-    "LINE Ace"
+    "LINE Ace",
+    "World Clash Ace"
   ],
   "unit": {
     "type": "PSY",
@@ -32,8 +38,8 @@
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2406.png"
   },
   "flags": {
-    "rr": 1,
-    "rro": 1
+    "special": 1,
+    "global": 1
   },
   "drop": [],
   "manual": []
