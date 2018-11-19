@@ -1,83 +1,83 @@
 {
-  "name": "유스타스 키드, The Worst Generation Aiming at “Red Hair”",
-  "detail": {
-    "captain": "Boosts ATK of Striker and Shooter characters by 2.5x and deals 5x character's ATK in [DEX] damage to all enemies at the end of each turn",
-    "special": "Deals 5 hits of random [DEX] damage to random enemies and reduces Special Cooldown of Striker and Shooter specials by 2 turns. If your Captain is a Striker or Shooter character, deals 350x character's ATK as [DEX] damage to all enemies at the end of the turn for 2 turns",
-    "specialNotes": "#{randomHits : 5}",
-    "specialName": "Electromagnetic Projection Sword",
-    "sailor": {
-      "base": "Boosts base ATK, HP and RCV of [DEX] characters by 20",
-      "level1": "Boosts base ATK of Striker characters by 30"
-    },
-    "limit": [
-      {
-        "description": "체력 상승 : 10"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
-      },
-      {
-        "description": "소켓 슬롯 1개 추가"
-      },
-      {
-        "description": "필살기 턴 단축 : 1턴"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "필살기 턴 단축 : 1턴"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "회복력 상승 : 60"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "선원 효과 추가 1: Boosts base ATK of Striker characters by 30"
-      },
-      {
-        "description": "잠재능력 습득 2: Cooldown Reduction"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by 3 turns at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by 5 turns at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by 7 turns at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by 11 turns at the start of the fight"
-        ]
-      }
-    ],
-    "potentialNotes": "#{enrage}"
-  }
+    "name": "유스타스 키드, ‘빨간 머리’를 노리는 최악의 세대",
+    "detail": {
+        "captain": "Boosts ATK of Striker and Shooter characters by 2.5x and deals 5x character's ATK in [DEX] damage to all enemies at the end of each turn",
+        "special": "Deals 5 hits of random [DEX] damage to random enemies and reduces Special Cooldown of Striker and Shooter specials by 2 turns. If your Captain is a Striker or Shooter character, deals 350x character's ATK as [DEX] damage to all enemies at the end of the turn for 2 turns",
+        "specialNotes": "#{randomHits : 5}",
+        "specialName": "Electromagnetic Projection Sword",
+        "sailor": {
+            "base": "Boosts base ATK, HP and RCV of [DEX] characters by 20",
+            "level1": "Boosts base ATK of Striker characters by 30"
+        },
+        "limit": [
+            {
+                "description": "체력 상승 : 10"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+            },
+            {
+                "description": "소켓 슬롯 1개 추가"
+            },
+            {
+                "description": "필살기 턴 단축 : 1턴"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "필살기 턴 단축 : 1턴"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "회복력 상승 : 60"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "선원 효과 추가 1: Boosts base ATK of Striker characters by 30"
+            },
+            {
+                "description": "잠재능력 습득 2: Cooldown Reduction"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "피격 시 공격력 상승",
+                "description": [
+                    "Level 1: 공격력 상승 : 50",
+                    "Level 2: 공격력 상승 : 75",
+                    "Level 3: 공격력 상승 : 100",
+                    "Level 4: 공격력 상승 : 150",
+                    "Level 5: 공격력 상승 : 200"
+                ]
+            },
+            {
+                "Name": "Cooldown Reduction",
+                "description": [
+                    "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+                    "Level 2: Reduce own Special Cooldown by 3 turns at the start of the fight",
+                    "Level 3: Reduce own Special Cooldown by 5 turns at the start of the fight",
+                    "Level 4: Reduce own Special Cooldown by 7 turns at the start of the fight",
+                    "Level 5: Reduce own Special Cooldown by 11 turns at the start of the fight"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}"
+    }
 }
