@@ -1,1 +1,50 @@
-{"name":"World Clash 루피","detail":{"captain":"Boosts ATK of [STR] characters by ?x at the start of the chain, boosts ATK by ?x following a chain of [QCK] > [DEX] > [STR] attacks no lower than Good and boosts their HP by ?x","special":"Deals 200,000 fixed damage to one enemy that will ignore damage negating abilities and barriers, reduces Bind and Despair duration by 4 turns. If your crew has 1 or more [DEX] and 1 or more [QCK] characters, boosts ATK of [STR] characters by 2.25x for 1 turn, by 1.75x otherwise.","specialName":"Luffy Special","specialNotes":"#{ignoreBarrier}","sailor":"Boosts base ATK, HP and RCV of STR, DEX and QCK characters by 30"},"aliases":["","","LINE Luffy"],"unit":{"type":"STR","class":["Fighter","Free Spirit"],"stars":4,"cost":15,"combo":null,"slots":3,"level":50,"exp":392109,"maxHP":null,"maxATK":null,"maxRCV":null},"cooldown":[null,14],"evolution":{"evolution":2401,"evolvers":[]},"evolve":[],"image":{"thumb":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/thumbs\/2400.png","character":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/characters\/2400.png"},"flags":{"rr":1,"rro":1},"drop":[],"manual":[]}
+{
+    "name": "World Clash 루피",
+    "detail": {
+        "captain": "Boosts ATK of [STR] characters by ?x at the start of the chain, boosts ATK by ?x following a chain of [QCK] > [DEX] > [STR] attacks no lower than Good and boosts their HP by ?x",
+        "special": "Deals 200,000 fixed damage to one enemy that will ignore damage negating abilities and barriers, reduces Bind and Despair duration by 4 turns. If your crew has 1 or more [DEX] and 1 or more [QCK] characters, boosts ATK of [STR] characters by 2.25x for 1 turn, by 1.75x otherwise.",
+        "specialName": "Luffy Special",
+        "specialNotes": "#{ignoreBarrier}",
+        "sailor": "Boosts base ATK, HP and RCV of STR, DEX and QCK characters by 30"
+    },
+    "aliases": [
+        "",
+        "",
+        "LINE Luffy"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Fighter",
+            "Free Spirit"
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": null,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "maxHP": null,
+        "maxATK": null,
+        "maxRCV": null
+    },
+    "cooldown": [
+        null,
+        14
+    ],
+    "evolution": {
+        "evolution": 2401,
+        "evolvers": []
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2400.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2400.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}
