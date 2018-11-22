@@ -1,12 +1,12 @@
 {
     "name": "유스타스 키드, ‘빨간 머리’를 노리는 최악의 세대",
     "detail": {
-        "captain": "Boosts ATK of Striker and Shooter characters by 2.5x and deals 5x character's ATK in [DEX] damage to all enemies at the end of each turn",
-        "special": "Deals 5 hits of random [DEX] damage to random enemies and reduces Special Cooldown of Striker and Shooter specials by 2 turns. If your Captain is a Striker or Shooter character, deals 350x character's ATK as [DEX] damage to all enemies at the end of the turn for 2 turns",
+        "captain": "타격형과 사격형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시 적 전체에 캐릭터의 공격력x5배의 [DEX] 데미지를 준다",
+        "special": "무작위의 적에게 [DEX] 랜덤 데미지를 5회 주고, 타격형과 사격형 캐릭터의 필살기 턴을 2턴 단축하며, 선장이 타격형 또는 사격형일 경우, 2턴 동안 턴 종료 시에 적 전체에 캐릭터의 공격력x50배의 [DEX] 데미지를 준다",
         "specialNotes": "#{randomHits : 5}",
-        "specialName": "Electromagnetic Projection Sword",
+        "specialName": "전자 투영의 검",
         "sailor": {
-            "base": "Boosts base ATK, HP and RCV of [DEX] characters by 20",
+            "base": "[DEX]의 기본 능력치가 20 상승한다",
             "level1": "Boosts base ATK of Striker characters by 30"
         },
         "limit": [
