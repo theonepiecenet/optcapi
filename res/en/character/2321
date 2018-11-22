@@ -1,0 +1,41 @@
+{
+  "name": "Cracker, Evolved",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by 2.5x and their HP by 1.2x and boosts chain by 1.4x if HP below 30% at the start of the turn",
+    "special": "Cuts the current HP of one enemy by 15%, reduces damage by 50% and deals 75x character's ATK as [INT] damage to all enemies at the end of the turn for 3 turns",
+    "specialName": "Cracker Special"
+  },
+  "aliases": [
+    "",
+    "",
+    "Story Cracker"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": null,
+    "slots": null,
+    "level": null,
+    "exp": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolve": {
+    "evolution": 2321,
+    "evolvers": [],
+    "from": 2320
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2321.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2321.png"
+  },
+  "drop": [],
+  "manual": []
+}

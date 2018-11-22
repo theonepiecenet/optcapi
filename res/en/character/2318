@@ -1,0 +1,37 @@
+{
+  "name": "Judge",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.75x when HP is below ?%, 2.5x otherwise and reduces damage received by 10%",
+    "special": "Makes [STR], [QCK] and [QCK] orbs \"beneficial\" for Powerhouse characters for 3 turns, reduces ATK DOWN duration by 2 turns and adds .5x to Chain multiplier for 2 turns",
+    "specialName": "Judge Special"
+  },
+  "aliases": [
+    "",
+    "",
+    "Story Judge"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": null,
+    "slots": null,
+    "level": null,
+    "exp": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2318.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2318.png"
+  },
+  "drop": [],
+  "manual": []
+}

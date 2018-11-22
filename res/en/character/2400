@@ -1,14 +1,14 @@
 {
-  "name": "World Clash Luffy",
+  "name": "Straw Hat Luffy, Straw Hat Pirates Captain",
   "detail": {
-    "captain": "Boosts ATK of [STR] characters by ?x at the start of the chain, boosts ATK by ?x following a chain of [QCK] > [DEX] > [STR] attacks no lower than Good and boosts their HP by ?x",
+    "captain": "Boosts ATK of [STR] characters by 2x at the start of the chain, boosts ATK by 3x following a chain of [QCK] > [DEX] > [STR] attacks no lower than Good and boosts their HP by 1.2x",
     "special": "Deals 200,000 fixed damage to one enemy that will ignore damage negating abilities and barriers, reduces Bind and Despair duration by 4 turns. If your crew has 2 or more [DEX] or [QCK] characters, boosts ATK of [STR] characters by 2.25x for 1 turn, by 1.75x otherwise.",
-    "specialName": "Luffy Special",
+    "specialName": "Gum Gum Culverin",
     "specialNotes": "#{ignoreBarrier}",
     "sailor": "Boosts base ATK, HP and RCV of STR, DEX and QCK characters by 30"
   },
   "aliases": [
-    "",
+    "麦わらのルフィ 海賊「麦わらの一味」船長",
     "",
     "LINE Luffy",
     "World Clash Luffy"
@@ -21,13 +21,13 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 6,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1046,
+    "maxATK": 604,
+    "maxRCV": 131
   },
   "cooldown": [
     14,
@@ -35,7 +35,13 @@
   ],
   "evolution": {
     "evolution": 2401,
-    "evolvers": []
+    "evolvers": [
+      118,
+      84,
+      89,
+      95,
+      100
+    ]
   },
   "evolve": [],
   "image": {
