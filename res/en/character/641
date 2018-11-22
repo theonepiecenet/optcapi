@@ -1,5 +1,5 @@
 {
-  "name": "DeCalvan Brothers, Brothers‘ Bond",
+  "name": "DeCalvan Brothers, Brothers' Bond",
   "detail": {
     "special": "Changes own orb into [DEX], deals several times the character's ATK in [DEX] damage to one enemy",
     "specialNotes": "#{specialProportional : lower : 50 * ( 1 - (remaining HP) / (total HP) )}",

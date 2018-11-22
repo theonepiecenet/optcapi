@@ -1,5 +1,5 @@
 {
-  "name": "Sanji, Straw Hat Pirates‘ Attack",
+  "name": "Sanji, Straw Hat Pirates' Attack",
   "detail": {
     "special": "Deals several times the character's ATK in [INT] damage to all enemies",
     "specialNotes": "#{specialProportional : lower : 100 * ( 1 - (remaining HP) / (total HP) )}",

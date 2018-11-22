@@ -1,5 +1,5 @@
 {
-  "name": "Sanji, Merveille‘s Adventurer",
+  "name": "Sanji, Merveille's Adventurer",
   "detail": {
     "special": "Deals several times the character's ATK in [INT] damage to all enemies",
     "specialNotes": "#{specialProportional : lower : 100 * ( 1 - (remaining HP) / (total HP) )}",
