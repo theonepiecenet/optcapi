@@ -1,5 +1,10 @@
 {
   "name": "Niji",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.25x and boosts HP of [STR] characters by 1.2x",
+    "special": "Deals 45x character's ATK in [STR] damage to all enemies that will ignore damage negating abilities and barriers and reduces enemies' Threshold Damage Reduction and Resilience Buffs duration by 2 turns",
+    "specialName": "Niji Special"
+  },
   "aliases": [
     "",
     "",
@@ -13,15 +18,18 @@
     ],
     "stars": 4,
     "cost": 20,
-    "combo": null,
-    "slots": null,
-    "level": null,
+    "combo": 6,
+    "slots": 2,
+    "level": 99,
     "exp": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 2098,
+    "maxATK": 1142,
+    "maxRCV": 219
   },
-  "cooldown": null,
+  "cooldown": [
+    null,
+    11
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2319.png",
