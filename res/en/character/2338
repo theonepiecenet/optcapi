@@ -1,0 +1,85 @@
+{
+  "name": "Carrot, A Mystical White Sulong",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight. For 12 turns after the start of the fight, boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 2x, boosts chances of getting Matching orbs and attacks will ignore defensive barriers and buffs. After 12 turns, boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 2.75x.",
+    "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 2x bonus for the first 12 turns",
+    "special": "Reduces Special Cooldown of Fighter, Slasher, Striker, Shooter and Cerebral specials by 2 turns, amplifies the effects of orbs for Fighter, Slasher, Striker, Shooter and Cerebral characters by 2x for 1 turn, makes [QCK], [RCV] and [TND] orbs \"beneficial\" for all characters for 1 turn and swaps this unit with your captain for 1 turn.",
+    "specialNotes": "#{beneficial}",
+    "specialName": "Electrical Rush",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of all characters by 30",
+      "level2": "Restores her own special cooldown completely when it is rewinded"
+    },
+    "sailorNotes": "#{rewind : all}",
+    "potential": [
+      {
+        "Name": "[STR] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [STR] characters by ?%",
+          "Level 2: Reduce damage taken from [STR] characters by ?%",
+          "Level 3: Reduce damage taken from [STR] characters by ?%",
+          "Level 4: Reduce damage taken from [STR] characters by ?%",
+          "Level 5: Reduce damage taken from [STR] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Legend Carrot"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Slasher"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 3000,
+    "maxATK": 1500,
+    "maxRCV": 300
+  },
+  "cooldown": null,
+  "evolve": {
+    "evolution": 2338,
+    "evolvers": [],
+    "from": 2337
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2338.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2338.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

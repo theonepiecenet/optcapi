@@ -1,0 +1,48 @@
+{
+  "name": "Charlotte Galette",
+  "detail": {
+    "captain": "Boosts ATK of [QCK] and [INT] characters by ?x and makes [QCK] and [INT] orbs \"beneficial\"? for [QCK] and [INT] characters",
+    "special": "Delays all enemies for 1 turn, reduces Special Cooldown of 1 character by 2 turns. If your Captain is a [QCK] or [INT] character, locks the chain multiplier at 3x for 1 turn.",
+    "specialName": "Left-Handed Haul",
+    "sailor": "Boosts base ATK, HP and RCV of all characters by 20"
+  },
+  "aliases": [
+    "",
+    "",
+    "Charlotte Gallette",
+    "Charlotte Galete",
+    "Charlotte Gallete"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Cerebral",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2346,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2345.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2345.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}
