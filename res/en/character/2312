@@ -1,5 +1,10 @@
 {
-  "name": "Fodder DEX",
+  "name": "Germa Kingdom Clone Soldier - DEX",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 1.5x and their HP by 1.25x",
+    "special": "Makes [DEX] and [TND] orbs \"beneficial\" for all characters for 1 turn. Following the activation of the special, if during that turn you score 4 PERFECT hits, makes [DEX], [PSY] and [INT] orbs \"beneficial\" for all characters for 1 turn",
+    "specialName": "Phantasmagoric Work"
+  },
   "aliases": [
     "",
     "",
@@ -13,15 +18,18 @@
     ],
     "stars": 3,
     "cost": 12,
-    "combo": null,
-    "slots": null,
-    "level": null,
-    "exp": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": 1656,
+    "maxATK": 777,
+    "maxRCV": 110
   },
-  "cooldown": null,
+  "cooldown": [
+    22,
+    16
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2312.png",

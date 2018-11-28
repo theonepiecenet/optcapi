@@ -1,5 +1,10 @@
 {
-  "name": "Fodder STR",
+  "name": "Germa Kingdom Clone Soldier - STR",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by 1.5x and reduces damage received by 5%",
+    "special": "Reduces damage received by 33%. Following the activation of the special, if during that turn you score 5 PERFECT hits, reduces damage received by 66% in the following turn",
+    "specialName": "Tough Body"
+  },
   "aliases": [
     "",
     "",
@@ -13,15 +18,15 @@
     ],
     "stars": 3,
     "cost": 12,
-    "combo": null,
-    "slots": null,
-    "level": null,
-    "exp": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": 1536,
+    "maxATK": 891,
+    "maxRCV": 92
   },
-  "cooldown": null,
+  "cooldown": 20,
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2311.png",

@@ -1,5 +1,10 @@
 {
-  "name": "Fodder QCK",
+  "name": "Germa Kingdom Clone Soldier - QCK",
+  "detail": {
+    "captain": "Reduces cooldown of [QCK] specials by 1 turn at the start of the fight and boosts ATK of [QCK] characters by 1.5x",
+    "special": "Reduces Special Cooldown of [QCK] specials by 1 turn. Following the activation of the special, if during that turn you score 6 PERFECT hits, reduces Special Cooldown of Powerhouse specials by 1 turn in the following turn",
+    "specialName": "Rapid Trump Card"
+  },
   "aliases": [
     "",
     "",
@@ -13,15 +18,18 @@
     ],
     "stars": 3,
     "cost": 12,
-    "combo": null,
-    "slots": null,
-    "level": null,
-    "exp": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "maxHP": 1500,
+    "maxATK": 753,
+    "maxRCV": 144
   },
-  "cooldown": null,
+  "cooldown": [
+    15,
+    9
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2313.png",

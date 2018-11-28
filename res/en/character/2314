@@ -1,5 +1,10 @@
 {
-  "name": "Fodder INY",
+  "name": "Sea Ant",
+  "detail": {
+    "captain": "Boosts ATK of characters with fewer than or equal to 3 stars by 2x",
+    "special": "Reduces enemy's Threshold Damage Reduction, Percent Damage Reduction and Increased Defense Buffs duration by 1 turn and cuts the current HP of one enemy by 10%",
+    "specialName": "Amazing Bite"
+  },
   "aliases": [
     "",
     "",
@@ -18,12 +23,21 @@
     "maxATK": null,
     "maxRCV": null
   },
-  "cooldown": null,
+  "cooldown": 19,
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2314.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2314.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Chocolat Town to The Seducing Woods",
+      "thumb": 2321,
+      "data": [
+        "04"
+      ]
+    }
+  ],
   "manual": []
 }

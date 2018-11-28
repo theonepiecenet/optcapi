@@ -1,7 +1,7 @@
 {
   "name": "Sabo the Revolutionary",
   "detail": {
-    "special": "Boosts ATK of Free Spirit characters by 1.5x for 1 turn. If during that turn every unit scores a PERFECT hit, boosts ATK of Free Spirit characters by 2x in the following turn.",
+    "special": "Boosts ATK of Free Spirit characters by 1.5x for 1 turn. If during that turn you score 6 PERFECT hits, boosts ATK of Free Spirit characters by 2x in the following turn.",
     "specialName": "Dragon's Claw",
     "captain": "Boosts HP and RCV of all characters by 1.2x, boosts ATK of Free Spirit characters proportionally to the crew's current HP",
     "captainNotes": "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}",

@@ -27,7 +27,7 @@
     "maxRCV": 187
   },
   "cooldown": [
-    null,
+    20,
     11
   ],
   "evolve": [],
@@ -35,6 +35,15 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2317.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2317.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Chocolat Town to The Seducing Woods",
+      "thumb": 2321,
+      "data": [
+        "01"
+      ]
+    }
+  ],
   "manual": []
 }
