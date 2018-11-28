@@ -1,0 +1,40 @@
+{
+    "name": "‘가루다’ 빈스모크 저지",
+    "detail": {
+        "captain": "Boosts ATK of Powerhouse characters by 2.75x when HP is below ?%, 2.5x otherwise and reduces damage received by 10%",
+        "special": "Makes [STR], [QCK] and [QCK] orbs \"beneficial\" for Powerhouse characters for 3 turns, reduces ATK DOWN duration by 2 turns and adds .5x to Chain multiplier for 2 turns",
+        "specialName": "Hand-in-Hand Combat "
+    },
+    "aliases": [
+        "",
+        "",
+        "Story Judge"
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Powerhouse",
+            "Striker"
+        ],
+        "stars": 4,
+        "cost": 20,
+        "combo": 4,
+        "slots": 2,
+        "level": 99,
+        "exp": null,
+        "maxHP": 2266,
+        "maxATK": 1266,
+        "maxRCV": 166
+    },
+    "cooldown": [
+        null,
+        12
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2318.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2318.png"
+    },
+    "drop": [],
+    "manual": []
+}
