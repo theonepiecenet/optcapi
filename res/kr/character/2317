@@ -1,0 +1,40 @@
+{
+    "name": "빈스모크 욘디, Vinsmoke Family - Fourth Son",
+    "detail": {
+        "captain": "Boosts ATK of Powerhouse characters by 2.25x and boosts HP of [DEX] characters by 1.2x",
+        "special": "Increases damage received by 2x for 2 turns and boosts ATK of Powerhouse characters by 1.5x for 1 turn and amplifies orbs of Powerhouse characters by 1.5x for 1 turn",
+        "specialName": "Excessive Provocation"
+    },
+    "aliases": [
+        "",
+        "",
+        "Story Yonji"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Powerhouse",
+            "Fighter"
+        ],
+        "stars": 4,
+        "cost": 20,
+        "combo": 5,
+        "slots": 2,
+        "level": 99,
+        "exp": null,
+        "maxHP": 2136,
+        "maxATK": 1220,
+        "maxRCV": 187
+    },
+    "cooldown": [
+        null,
+        11
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2317.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2317.png"
+    },
+    "drop": [],
+    "manual": []
+}
