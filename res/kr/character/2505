@@ -1,0 +1,165 @@
+{
+    "name": "루치 수인, 악의 절대 저지",
+    "detail": {
+        "captain": "모험 시작 시 필살기 턴을 1턴 단축하고, 사격형 캐릭터의 공격력을 3.25배, 회복력을 0으로 만들며, 이 턴 내에 PERFECT를 연속으로 달성할수록 사격형 캐릭터의 공격력이 1.05배씩 상승한다(최대 약 4.148배)",
+        "special": "1턴 동안 적 전체의 방어력을 대폭 감소시키고, 적 1명에게 [QCK] 슈퍼 데미지를 주며, 일당의 마비 상태를 4턴 회복하고, 1턴 동안 사격형 캐릭터의 일반 공격에 의한 속성 상성의 영향을 2배로 증폭시킨다",
+        "specialName": "「람각」 ‘개조’",
+        "sailor": {
+            "base": "None",
+            "level1": "강인형 캐릭터의 기본 공격력이 50 상승한다",
+            "level2": "자신은 마비 상태를 완전히 회피한다"
+        },
+        "limit": [
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Acquire Potential 1: Pinch Healing"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Boosts base ATK of Powerhouse characters by 50"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Acquire Potential 2: Enrage"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base RCV by 30"
+            },
+            {
+                "description": "Acquire Sailor Ability 2: Completely resists Paralysis on this character"
+            },
+            {
+                "description": "Boosts base HP by 90"
+            },
+            {
+                "description": "Acquire Potential 3: Slot Bind Self-reduction"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 10% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 15% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 20% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 30% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 50% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            },
+            {
+                "Name": "Enrage",
+                "description": [
+                    "Level 1: Boosts base ATK by 30",
+                    "Level 2: Boosts base ATK by 60",
+                    "Level 3: Boosts base ATK by 90",
+                    "Level 4: Boosts base ATK by 100",
+                    "Level 5: Boosts base ATK by 150"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 3 turns on this character",
+                    "Level 2: Reduces Slot Bind duration by 5 turns on this character",
+                    "Level 3: Reduces Slot Bind duration by 7 turns on this character",
+                    "Level 4: Reduces Slot Bind duration by 10 turns on this character",
+                    "Level 5: Reduces Slot Bind completely on this character"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}"
+    },
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Shooter",
+            "Powerhouse"
+        ],
+        "stars": "6+",
+        "cost": 60,
+        "combo": 4,
+        "slots": 5,
+        "level": 99,
+        "exp": 5000000,
+        "maxHP": 3505,
+        "maxATK": 1590,
+        "maxRCV": 363
+    },
+    "cooldown": [
+        17,
+        12
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2505.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2505.png"
+    },
+    "drop": [],
+    "manual": []
+}
