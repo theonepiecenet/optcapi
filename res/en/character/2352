@@ -1,0 +1,51 @@
+{
+  "name": "Mascarpone & Joscarpone",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by 1.75x and their RCV by 1.2x.",
+    "special": "Deals 20 hits of of 15x character's ATK in [QCK] damage to random enemies and removes Poison duration completely",
+    "specialName": "Mascarpone & Joscarpone Special"
+  },
+  "aliases": [
+    "",
+    "",
+    "Charlotte Mascarpone",
+    "Charlotte Joscarpone",
+    "Long Neck Twins"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Slasher"
+    ],
+    "stars": 3,
+    "cost": 15,
+    "combo": 6,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "maxHP": 1610,
+    "maxATK": 740,
+    "maxRCV": 125
+  },
+  "cooldown": [
+    null,
+    13
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2352.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2352.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Perospero Fortnight Fortnight",
+      "thumb": 2351,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}
