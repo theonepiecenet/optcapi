@@ -1,153 +1,156 @@
 {
-  "name": "몽키 D. 루피, 기어 ‘4’ ‘바운드맨’",
-  "detail": {
-    "specialName": "킹콩 건",
-    "special": [
-      {
-        "description": "적 1기에 캐릭터 공격력 100배의 무속성 데미지를 주고, 1턴 동안 격투 캐릭터의 [STR], [DEX], [PSY], [INT], [TND], [RCV] 슬롯을 [유리] 슬롯으로 취급한다. 3턴 후 7턴 동안 캐릭터 봉쇄, 선장효과 무효가 발생한다.",
-        "cooldown": [
-          13,
-          8
-        ]
-      },
-      {
-        "description": "적 1기에 캐릭터 공격력 200배의 무속성 데미지를 주고, 3턴 동안 격투,자유 캐릭터의 [STR], [DEX], [PSY], [INT], [TND], [RCV] 슬롯을 [유리] 슬롯으로 취급한다. 3턴 후 7턴 동안 캐릭터 봉쇄, 선장효과 무효가 발생한다.",
-        "cooldown": [
-          18,
-          13
-        ]
-      }
-    ],
-    "captain": "격투 캐릭터의 공격력을 2.5배로 상승시키고, 만약 \"킹콩 건\"을 사용하면, 3턴 동안 선장효과인 격투 캐릭터의 공격력 증가가 4배로 상승하며, 3턴 동안 받는 데미지가 56% 감소한다.",
-    "sailor": {
-      "base": "Completely resists Paralysis on this character",
-      "level1": "Boosts base ATK, HP and RCV for this character by 75"
-    },
-    "potential": [
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 2: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 3: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 4: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 5: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "공격력 상승 : 5"
-      },
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 5"
-      },
-      {
-        "description": "잠재능력 습득 1: Slot Bind Self-reduction"
-      },
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "체력 상승 : 10"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 15"
-      },
-      {
-        "description": "회복력 상승 : 15"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "잠재능력 습득 2: 긴급 회복"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "회복력 상승 : 25"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "회복력 상승 : 35"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "공격력 상승 : 60"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV for this character by 75"
-      },
-      {
-        "description": "체력 상승 : 70"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "잠재능력 습득 3: Cooldown Reduction"
-      }
-    ],
-    "specialNotes": "#{stages} #{beneficial}",
-    "captainNotes": "Using Luffy's special will change his own captain boost to 4x. If both Luffy's specials are used, the total ATK boost will be 16x"
-  }
+    "name": "몽키 D. 루피, 기어 ‘4’ ‘바운드맨’",
+    "detail": {
+        "specialName": "고무고무 킹콩 건",
+        "special": [
+            {
+                "description": "1턴 동안 격투형 캐릭터는 [STR][DEX][PSY][INT][TND][RCV] 슬롯이 [유리] 슬롯으로 취급되며, 적 1명에게 공격력x100배의 무 속성 데미지를 주지만, 3턴 경과 후 자신에게 여러 가지 불리한 효과가 발생한다",
+                "cooldown": [
+                    13,
+                    8
+                ]
+            },
+            {
+                "description": "3턴 동안 격투형과 자유형 캐릭터는 [STR][DEX][PSY][INT][TND][RCV] 슬롯이 [유리] 슬롯으로 취급되며, 적 1명에게 공격력x200배의 무 속성 데미지를 주지만, 3턴 경과 후 자신에게 여러 가지 불리한 효과가 발생한다",
+                "cooldown": [
+                    18,
+                    13
+                ]
+            },
+            {
+                "description": ""
+            }
+        ],
+        "captain": "격투형 캐릭터의 공격력을 2.5배로 만들며, ‘고무고무 킹콩 건’을 사용하면, 필살기를 발동한 자신의 선장효과가 3턴 동안 ‘격투형의 공격력을 4배, 받는 데미지가 56% 감소한다’로 변경된다",
+        "sailor": {
+            "base": "자신은 마비 상태를 완전히 회피한다",
+            "level1": "Boosts base ATK, HP and RCV for this character by 75"
+        },
+        "potential": [
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+                    "Level 2: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 3: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 4: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 5: Reduces Slot Bind duration by ? turns on this character"
+                ]
+            },
+            {
+                "Name": "긴급 회복",
+                "description": [
+                    "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+                    "Level 2: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+                    "Level 3: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+                    "Level 4: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+                    "Level 5: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
+                ]
+            },
+            {
+                "Name": "Cooldown Reduction",
+                "description": [
+                    "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+                    "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+                    "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+                    "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+                    "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "공격력 상승 : 5"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 5"
+            },
+            {
+                "description": "잠재능력 습득 1: Slot Bind Self-reduction"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "체력 상승 : 10"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 15"
+            },
+            {
+                "description": "회복력 상승 : 15"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "잠재능력 습득 2: 긴급 회복"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "회복력 상승 : 25"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "회복력 상승 : 35"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 60"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV for this character by 75"
+            },
+            {
+                "description": "체력 상승 : 70"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "잠재능력 습득 3: Cooldown Reduction"
+            }
+        ],
+        "specialNotes": "#{stages} #{beneficial}",
+        "captainNotes": "Using Luffy's special will change his own captain boost to 4x. If both Luffy's specials are used, the total ATK boost will be 16x"
+    }
 }
