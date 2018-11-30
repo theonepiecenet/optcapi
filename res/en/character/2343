@@ -20,7 +20,7 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 392109,
@@ -31,7 +31,13 @@
   "cooldown": 20,
   "evolution": {
     "evolution": 2344,
-    "evolvers": []
+    "evolvers": [
+      117,
+      87,
+      94,
+      303,
+      103
+    ]
   },
   "evolve": [],
   "image": {

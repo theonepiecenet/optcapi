@@ -51,14 +51,20 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": 2000,
-    "maxATK": 1400,
-    "maxRCV": 200
+    "maxHP": 2210,
+    "maxATK": 1235,
+    "maxRCV": 420
   },
   "cooldown": 17,
   "evolve": {
     "evolution": 2346,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      83,
+      93,
+      99,
+      104
+    ],
     "from": 2345
   },
   "image": {

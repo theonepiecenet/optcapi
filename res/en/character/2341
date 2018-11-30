@@ -1,5 +1,5 @@
 {
-  "name": "Charlotte Opera",
+  "name": "Charlotte Opera, Charlotte Family 5th Son",
   "detail": {
     "captain": "Boosts ATK of Striker and Fighter characters by ?x, cuts the current HP of each enemy by ?% at the end of each turn",
     "special": "Deals 80x character's ATK in Typeless damage to all enemies. If your crew has Orb Amplification, boosts the Color Affinity of Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.75x for 1 turn, amplifies the effects of orbs for Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.75x for 1 turn otherwise.",
@@ -19,18 +19,27 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1420,
+    "maxATK": 880,
+    "maxRCV": 20
   },
-  "cooldown": 19,
+  "cooldown": [
+    19,
+    13
+  ],
   "evolution": {
     "evolution": 2342,
-    "evolvers": []
+    "evolvers": [
+      117,
+      87,
+      1180,
+      303,
+      103
+    ]
   },
   "evolve": [],
   "image": {

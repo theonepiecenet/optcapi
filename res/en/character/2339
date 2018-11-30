@@ -1,5 +1,5 @@
 {
-  "name": "Stussy",
+  "name": "Stussy, Queen of Pleasure District",
   "detail": {
     "captain": "Reduces cooldown of all specials by ? turn at the start of the fight. Boosts ATK of Shooter and Cerebral characters by ?x",
     "special": "Deals 50x character's ATK in [QCK] damage to one enemy, randomizes all non-matching orbs and boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.5x for 1 turn. If \"Flying Finger Gun\" is used again in the same turn the special is activated in, boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 2.25x for 1 turn.",
@@ -19,7 +19,7 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 4,
     "slots": 3,
     "level": 50,
     "exp": 392109,
@@ -30,7 +30,13 @@
   "cooldown": 14,
   "evolution": {
     "evolution": 2340,
-    "evolvers": []
+    "evolvers": [
+      117,
+      85,
+      1180,
+      301,
+      101
+    ]
   },
   "evolve": [],
   "image": {
