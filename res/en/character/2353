@@ -6,14 +6,14 @@
       {
         "description": "Poisons all enemies, reduces enemy's Threshold Damage Reduction and Percent Damage Reduction duration by 1 turn and boosts ATK against Poisoned enemies by 1.5x for 1 turn",
         "cooldown": [
-          null,
+          23,
           null
         ]
       },
       {
         "description": "Strongly Poisons one enemy, Poisons all other enemies, reduces enemy's Threshold Damage Reduction and Percent Damage Reduction duration by 2 turns and boosts ATK against Poisoned and Strongly Poisoned enemies by 1.75x for 1 turn",
         "cooldown": [
-          null,
+          27,
           null
         ]
       }
