@@ -8,7 +8,7 @@
     "sailor": "Boosts base ATK of Shooter characters by 50"
   },
   "aliases": [
-    "",
+    "シャーロット・ババロア",
     "",
     ""
   ],
@@ -24,11 +24,14 @@
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1380,
+    "maxATK": 831,
+    "maxRCV": 43
   },
-  "cooldown": 20,
+  "cooldown": [
+    20,
+    14
+  ],
   "evolution": {
     "evolution": 2344,
     "evolvers": [
