@@ -7,7 +7,7 @@
     "sailor": "Boosts base ATK, HP and RCV of all characters by 20"
   },
   "aliases": [
-    "",
+    "シャーロット・ガレット",
     "",
     "Charlotte Gallette",
     "Charlotte Galete",
@@ -29,7 +29,10 @@
     "maxATK": 509,
     "maxRCV": 210
   },
-  "cooldown": 17,
+  "cooldown": [
+    17,
+    11
+  ],
   "evolution": {
     "evolution": 2346,
     "evolvers": [
