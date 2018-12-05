@@ -1,82 +1,82 @@
 {
-  "name": "샬롯 오페라, 빅 맘 해적단",
-  "detail": {
-    "captain": "Boosts ATK of Fighter characters by 2.5x and their HP by 1.25x",
-    "special": "Cuts the current HP of each enemy by 20%. If your crew has 5 or more Fighter characters, reduces Increase Damage Taken, Blindness and Despair duration by 7 turns and delays all enemies for 1 turn.",
-    "specialName": "Cream Monster",
-    "sailor": {
-      "base": "Makes [STR] orbs “beneficial” for Fighter characters",
-      "level1": "Reduces Silence duration on this character by 3 turns"
-    },
-    "limit": [
-      {
-        "description": "체력 상승 : 10"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "회복력 상승 : 60"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "선원 효과 추가 1: Reduces Silence duration on this character by 3 turns"
-      },
-      {
-        "description": "잠재능력 습득 2: 회복 무효 내성"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turn",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
-        ]
-      }
-    ],
-    "specialNotes": "#{beneficial}"
-  }
+    "name": "샬롯 오페라, 빅 맘 해적단",
+    "detail": {
+        "captain": "격투형 캐릭터의 공격력을 2.5배, 체력을 1.25배로 만든다",
+        "special": "적 전체의 HP를 20% 줄이고, 일당에 격투형 캐릭터가 5명 이상일 때 [INCREASE DAMAGE], 의성어 은폐, 선장효과 무효 상태를 7턴 회복하고, 적 전체의 공격을 1턴 지연시킨다",
+        "specialName": "크림 몬스터",
+        "sailor": {
+            "base": "격투형 캐릭터는 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
+            "level1": "Reduces Silence duration on this character by 3 turns"
+        },
+        "limit": [
+            {
+                "description": "체력 상승 : 10"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "회복력 상승 : 60"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "선원 효과 추가 1: Reduces Silence duration on this character by 3 turns"
+            },
+            {
+                "description": "잠재능력 습득 2: 회복 무효 내성"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[DEX] 데미지 피해 감소",
+                "description": [
+                    "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+                    "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+                    "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+                    "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+                ]
+            },
+            {
+                "Name": "회복 무효 내성",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turn",
+                    "Level 3: Reduces No Healing duration by 3 turns",
+                    "Level 4: Reduces No Healing duration by 4 turns",
+                    "Level 5: Reduces No Healing duration by 5 turns"
+                ]
+            }
+        ],
+        "specialNotes": "#{beneficial}"
+    }
 }
