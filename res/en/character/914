@@ -7,9 +7,56 @@
     "sailor": {
       "base": "None",
       "level1": "Completely resists Blindness",
-      "level2": "Makes STR, QCK, DEX, PSY and INT orbs \"beneficial\" for this character "
+      "level2": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Completely resists Blindness"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this character"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 120"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
     "potential": [
       {
         "Name": "Reduce No Healing duration",

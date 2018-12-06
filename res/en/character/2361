@@ -1,0 +1,53 @@
+{
+  "name": "Nami, Alluring Santa Lady",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by ? turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by ?x if HP is above 50%, by ?x otherwise",
+    "special": "Reduces Paralysis, ATK DOWN, Chain Multiplier Limit, Chain Coefficient Reduction, Burn and Blindness duration by 3 turns. Changes [BLOCK] and Badly Matching orbs into Matching orbs",
+    "specialName": "Mirage Tempo - Holy Night"
+  },
+  "aliases": [
+    "",
+    "",
+    "TM Nami"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Cerebral",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": 1451,
+    "maxATK": 750,
+    "maxRCV": 200
+  },
+  "cooldown": [
+    null,
+    26
+  ],
+  "evolution": {
+    "evolution": 2362,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2361.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2361.png"
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Cat Burglar Nami",
+      "thumb": 2362,
+      "data": [
+        "Calm Sea"
+      ]
+    }
+  ],
+  "manual": []
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Nekomamushi, Holy Knight King",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by 1.5x",
+    "special": "Reduces Bind and Despair duration by 3 turns, reduces Special Cooldown of Fighter, Striker and Powerhouse specials by 1 turn and recovers 15x character's RCV in HP.",
+    "specialName": "The Guardian's Christmas Chicken",
+    "sailor": "Restores his own special cooldown by 1 turn when it is rewinded",
+    "sailorNotes": "#{rewind : 1}",
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 3 turn",
+          "Level 2: Reduces No Healing duration by 5 turn",
+          "Level 3: Reduces No Healing duration by 7 turns",
+          "Level 4: Reduces No Healing duration by 8 turns",
+          "Level 5: Reduces No Healing duration by 10 turns"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Limited Nekomamushi",
+    "Secret Nekomamushi"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker",
+      "Fighter"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": null,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2360.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2360.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

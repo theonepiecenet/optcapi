@@ -1,0 +1,60 @@
+{
+  "name": "Tony Tony Chopper, Holy Night Reindeer",
+  "detail": {
+    "captain": "Boosts amount of Beli received by 3x",
+    "captainNotes": "Beli boost does not take effect if he becomes your captain in the middle of the adventure.",
+    "special": "Reduces Silence duration by 2 turns and changes adjacent orbs into Matching Orbs. If you are on a Treasure Map, boosts ATK of Fighter, Slasher and Striker characters depending on your Treasure Map Level for 1 turn",
+    "specialNotes": "Level 1-10: 1.75x ATK boost<br>Level 11-20: 2x ATK boost<br>Level 21+: 2.25x ATK boost",
+    "specialName": "The Ship's Doctor that will Deliver a Merry Christmas",
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 50% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 60% chance to deal 4% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Limited Chopper",
+    "Secret Chopper"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 5,
+    "slots": null,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2358.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2358.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}
