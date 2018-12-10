@@ -1,12 +1,12 @@
 {
-  "name": "Pedro",
+  "name": "Pedro, Former Nox Pirates Captain",
   "detail": {
     "captain": "Reduces cooldown of all specials by ? turn at the start of the fight. Boosts ATK of Slasher characters by ?x and if you have 5 or more Slashers characters in your crew, boosts chain by ?x",
     "special": "Cuts the current HP of one enemy by 10%, reduces the defense of all enemies by 100% for 1 turn if your crew has 5 or more Slasher characters at the time the special is activated, boosts ATK against enemies with reduced defense by 2x for 1 turn and changes adjacent orbs into Matching Orbs.",
     "specialName": "Royal Dawnbreak Sword"
   },
   "aliases": [
-    "",
+    "ペドロ 元ノックス海賊団“船長”",
     "",
     "Limited Pedro",
     "Secret Pedro"
@@ -19,18 +19,24 @@
     ],
     "stars": 4,
     "cost": 20,
-    "combo": null,
-    "slots": null,
+    "combo": 5,
+    "slots": 4,
     "level": 70,
     "exp": 1066998,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1123,
+    "maxATK": 598,
+    "maxRCV": 164
   },
   "cooldown": 19,
   "evolution": {
     "evolution": 2349,
-    "evolvers": []
+    "evolvers": [
+      118,
+      86,
+      97,
+      302,
+      102
+    ]
   },
   "evolve": [],
   "image": {
