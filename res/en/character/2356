@@ -46,13 +46,13 @@
     ],
     "stars": 5,
     "cost": 50,
-    "combo": null,
-    "slots": null,
+    "combo": 4,
+    "slots": 3,
     "level": 99,
     "exp": 5000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 2682,
+    "maxATK": 1512,
+    "maxRCV": 122
   },
   "cooldown": [
     null,
@@ -60,7 +60,13 @@
   ],
   "evolve": {
     "evolution": 2356,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      78,
+      83,
+      300,
+      100
+    ],
     "from": 2355
   },
   "image": {
