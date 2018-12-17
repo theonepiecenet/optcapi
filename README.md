@@ -9,7 +9,7 @@ install composer
 
 `php composer.phar require slim/slim "^3.0"`
 
-`php composer.phar require slim/php-view'`
+`php composer.phar require slim/php-view`
 
 `php /var/www/html/composer.phar install --no-dev`
 
