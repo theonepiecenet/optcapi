@@ -5,11 +5,11 @@ this project forked from [optc-db/optc-db.github.io](https://github.com/optc-db/
 
 install composer
 
-`php composer.phar requre slim/slim "^3.0"`
+`curl -s http://getcomposer.org/installer | php`
+
+`php composer.phar require slim/slim "^3.0"`
 
 `php composer.phar require slim/php-view'`
-
-`curl -s http://getcomposer.org/installer | php`
 
 `php /var/www/html/composer.phar install --no-dev`
 
