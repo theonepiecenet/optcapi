@@ -1,12 +1,12 @@
 {
   "name": "Nami, Alluring Santa Lady",
   "detail": {
-    "captain": "Reduces cooldown of all specials by ? turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by ?x if HP is above 50%, by ?x otherwise",
+    "captain": "Boosts ATK of Striker and Cerebral characters by 1.5x",
     "special": "Reduces Paralysis, ATK DOWN, Chain Multiplier Limit, Chain Coefficient Reduction, Burn and Blindness duration by 3 turns. Changes [BLOCK] and Badly Matching orbs into Matching orbs",
     "specialName": "Mirage Tempo - Holy Night"
   },
   "aliases": [
-    "",
+    "ナミ 魅惑のサンタレディ",
     "",
     "TM Nami"
   ],
@@ -32,7 +32,13 @@
   ],
   "evolution": {
     "evolution": 2362,
-    "evolvers": []
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      103
+    ]
   },
   "evolve": [],
   "image": {
@@ -45,7 +51,7 @@
       "name": "Cat Burglar Nami",
       "thumb": 2362,
       "data": [
-        "Calm Sea"
+        "Winter Sea"
       ]
     }
   ],

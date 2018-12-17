@@ -3,7 +3,7 @@
   "detail": {
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Slasher characters by 2.75x and if you have 5 or more Slashers characters in your crew, boosts chain by 1.3x",
     "special": "Cuts the current HP of one enemy by 10%, reduces the defense of all enemies by 100% for 1 turn if your crew has 5 or more Slasher characters at the time the special is activated, boosts ATK against enemies with reduced defense by 2x for 1 turn and changes adjacent orbs into Matching Orbs.",
-    "specialName": "Royal Dawnbreak Sword",
+    "specialName": "Dawn-break Sword",
     "sailor": {
       "base": "If this character has a [DEX] orb and you hit a PERFECT with him, keep his [DEX] orb for the next turn",
       "level1": "Makes [DEX] orbs \"beneficial\" for Slasher characters"
@@ -101,7 +101,10 @@
     "maxATK": 1372,
     "maxRCV": 312
   },
-  "cooldown": 19,
+  "cooldown": [
+    19,
+    14
+  ],
   "evolve": {
     "evolution": 2349,
     "evolvers": [
