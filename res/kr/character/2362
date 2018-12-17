@@ -1,0 +1,58 @@
+{
+    "name": "나미, Charming Santa Girl",
+    "detail": {
+        "captain": {
+            "base": "Not Translated",
+            "level1": "Not Translated",
+            "level2": "Not Translated",
+            "level3": "Not Translated",
+            "level4": "Not Translated",
+            "level5": "Not Translated",
+            "level6": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by 3x if HP is above 50%, by 2x otherwise"
+        },
+        "special": "Reduces Paralysis, ATK DOWN, Chain Multiplier Limit, Chain Coefficient Reduction, Burn and Blindness duration by 3 turns. Changes [BLOCK] and Badly Matching orbs into Matching orbs",
+        "specialName": "Mirage Tempo - Holy Night",
+        "sailor": {
+            "base": "None",
+            "level1": "Reduces Silence duration on this character by 3 turns",
+            "level2": "Makes [INT] orbs \"beneficial\" for this character"
+        },
+        "sailorNotes": "#{beneficial}"
+    },
+    "aliases": [
+        "",
+        "",
+        "TM Nami"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Cerebral",
+            "Striker"
+        ],
+        "stars": 5,
+        "cost": 60,
+        "combo": null,
+        "slots": 1,
+        "level": 99,
+        "exp": 5000000,
+        "maxHP": null,
+        "maxATK": null,
+        "maxRCV": null
+    },
+    "cooldown": [
+        null,
+        26
+    ],
+    "evolve": {
+        "evolution": 2362,
+        "evolvers": [],
+        "from": 2361
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2362.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2362.png"
+    },
+    "drop": [],
+    "manual": []
+}
