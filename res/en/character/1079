@@ -100,6 +100,18 @@
           "Level 5: Reduces No Healing duration by 5 turns"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Characters with cost 29 or less",
+        "description": [
+          "Level 1: Once per adventure, when you reach the final stage, recovers 500 HP at the end of each turn for 3 turns",
+          "Level 2: Once per adventure, when you reach the final stage, recovers 700 HP at the end of each turn for 3 turns",
+          "Level 3: Once per adventure, when you reach the final stage, recovers 1000 HP at the end of each turn for 3 turns",
+          "Level 4: Once per adventure, when you reach the final stage, recovers 1200 HP at the end of each turn for 3 turns",
+          "Level 5: Once per adventure, when you reach the final stage, recovers 1500 HP at the end of each turn for 3 turns"
+        ]
+      }
     ]
   },
   "aliases": [

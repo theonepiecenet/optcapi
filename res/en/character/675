@@ -77,6 +77,18 @@
           "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Luffy, Inazuma and Bon Clay",
+        "description": [
+          "Level 1: Once per adventure, when you gain Poison or Toxic, removes Poison duration by 3 turns",
+          "Level 2: Once per adventure, when you gain Poison or Toxic, removes Poison duration by 4 turns",
+          "Level 3: Once per adventure, when you gain Poison or Toxic, removes Poison duration by 5 turns",
+          "Level 4: Once per adventure, when you gain Poison or Toxic, removes Poison duration by 7 turns",
+          "Level 5: Once per adventure, when you gain Poison or Toxic, removes Poison duration completely"
+        ]
+      }
     ]
   },
   "aliases": [
