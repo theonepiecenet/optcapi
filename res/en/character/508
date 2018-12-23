@@ -3,7 +3,19 @@
   "detail": {
     "special": "Deals 25x character's ATK in [STR] damage to one enemy",
     "specialName": "Ringing Fang",
-    "captain": "Boosts ATK and HP of [STR] characters by 1.5x"
+    "captain": "Boosts ATK and HP of [STR] characters by 1.5x",
+    "support": [
+      {
+        "Characters": "[STR] Characters",
+        "description": [
+          "Level 1: Reduces damage received from [DEX] characters by 1%. Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Reduces damage received from [DEX] characters by 1%. Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Reduces damage received from [DEX] characters by 2%. Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Reduces damage received from [DEX] characters by 2%. Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Reduces damage received from [DEX] characters by 3%. Adds 3% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "チャカ アラバスタの守護神ジャッカル",
