@@ -3,7 +3,19 @@
   "detail": {
     "special": "Removes Poison duration completely, reduces Bind and Despair duration by 2 turns",
     "specialName": "Merciful Painkiller",
-    "captain": "Recovers 5x character's RCV in HP at the end of each turn"
+    "captain": "Recovers 5x character's RCV in HP at the end of each turn",
+    "support": [
+      {
+        "Characters": "[INT] characters",
+        "description": [
+          "Level 1: Adds 2% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Adds 6% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Adds 8% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Adds 10% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "クロッカス 双子岬の灯台守",

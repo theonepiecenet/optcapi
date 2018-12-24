@@ -3,7 +3,19 @@
   "detail": {
     "special": "Deals 3x character's ATK in [QCK] damage to one enemy, boosts ATK of STR, [DEX] and [QCK] characters by 1.2x for 3 turns",
     "specialName": "March!! Usopp Pirates",
-    "captain": "Boosts ATK, HP and RCV of STR, [DEX] and [QCK] characters by 1.25x"
+    "captain": "Boosts ATK, HP and RCV of STR, [DEX] and [QCK] characters by 1.25x",
+    "support": [
+      {
+        "Characters": "Usopp",
+        "description": [
+          "Level 1: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 9% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 12% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 15% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "たまねぎ＆ピーマン＆にんじん ウソップ海賊団",
