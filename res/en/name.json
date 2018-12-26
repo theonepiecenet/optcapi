@@ -40302,6 +40302,36 @@
     ]
   },
   {
+    "name": "Roronoa Zoro, Three-Sword Style Swordsman in Chainmail",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "id": 2500,
+    "aliases": [
+      "Roronoa Zoro",
+      " Three-Sword Style Swordsman in Chainmail"
+    ]
+  },
+  {
+    "name": "Sanji, First Class Cook in Shining Armor",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "id": 2501,
+    "aliases": [
+      "Sanji",
+      " First Class Cook in Shining Armor"
+    ]
+  },
+  {
     "name": "Monkey D. Luffy, Kung Fu Training",
     "type": [
       "DEX"
@@ -40386,8 +40416,79 @@
     ],
     "id": 2505,
     "aliases": [
+      "Mega Lucci",
+      "Super Lucci",
+      "Mega Rob Lucci",
+      "Super Rob Lucci",
       "Lucci",
       " Beastman - Absolute Prevention of Evil"
+    ]
+  },
+  {
+    "name": "Admiral Sengoku and Vice Admiral Garp",
+    "type": [
+      "INT",
+      "DEX"
+    ],
+    "class": [
+      [
+        "Fighter",
+        "Cerebral"
+      ],
+      [
+        "Fighter",
+        "Free Spirit"
+      ],
+      [
+        "Fighter",
+        "Cerebral"
+      ]
+    ],
+    "id": 2506,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "Admiral Sengoku and Vice Admiral Garp"
+    ]
+  },
+  {
+    "name": "Admiral Sengoku and Vice Admiral Garp, Dawn of the Great Era of Piracy",
+    "type": [
+      "INT",
+      "DEX"
+    ],
+    "class": [
+      [
+        "Fighter",
+        "Cerebral"
+      ],
+      [
+        "Fighter",
+        "Free Spirit"
+      ],
+      [
+        "Fighter",
+        "Cerebral"
+      ]
+    ],
+    "id": 2507,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "Admiral Sengoku and Vice Admiral Garp",
+      " Dawn of the Great Era of Piracy"
     ]
   },
   {
@@ -41116,6 +41217,186 @@
       "DazCrocodile",
       "[Dual Unit] Crocodile & Daz",
       " Revived Duo"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5028,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Vice Admiral Garp",
+    "type": [
+      "Type"
+    ],
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "id": 5029,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Vice Admiral Garp"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku and Vice Admiral Garp",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5030,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku and Vice Admiral Garp"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku and Vice Admiral Garp",
+    "type": [
+      "Type"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5031,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku and Vice Admiral Garp"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku, Dawn of the Great Era of Piracy",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5032,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku",
+      " Dawn of the Great Era of Piracy"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Vice Admiral Garp, Dawn of the Great Era of Piracy",
+    "type": [
+      "Type"
+    ],
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "id": 5033,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Vice Admiral Garp",
+      " Dawn of the Great Era of Piracy"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku and Vice Admiral Garp, Dawn of the Great Era of Piracy",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5034,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku and Vice Admiral Garp",
+      " Dawn of the Great Era of Piracy"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku and Vice Admiral Garp, Dawn of the Great Era of Piracy",
+    "type": [
+      "Type"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5035,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku and Vice Admiral Garp",
+      " Dawn of the Great Era of Piracy"
     ]
   }
 ]
