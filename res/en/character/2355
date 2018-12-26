@@ -45,6 +45,16 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2355.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2355.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Arlong Raid",
+      "thumb": 2356,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
   "manual": []
 }
