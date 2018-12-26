@@ -135,6 +135,14 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "",
+    "",
+    "Mega Lucci",
+    "Super Lucci",
+    "Mega Rob Lucci",
+    "Super Rob Lucci"
+  ],
   "unit": {
     "type": "QCK",
     "class": [
@@ -171,6 +179,8 @@
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2505.png"
   },
   "flags": {
+    "rr": 1,
+    "rro": 1,
     "global": 1
   },
   "drop": [],
