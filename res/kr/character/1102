@@ -1,82 +1,82 @@
 {
-  "name": "검은 팔 제파, 전 해군 대장",
-  "detail": {
-    "captain": "PERFECT 외의 공격을 할때까지 모든 캐릭터의 공격력을 2.25배로 만들고, 턴이 경과 할때마다 체력이(10%씩) 감소된다.",
-    "special": "일당의 남은 체력을 80% 감소시키며 적 1기에 감소한 값의 10배에 해당하는 무속성 데미지를 주고, STR, INT의 공격력을 1턴 동안 1.75배로 한다.",
-    "specialName": "검은팔의 마지막 충격",
-    "sailor": {
-      "base": "None",
-      "level1": "When HP is below ?% at the start of the turn, boosts own base ATK by 200",
-      "level2": "When HP is below ?% at the start of the turn, boosts base ATK of all characters by 100"
-    },
-    "limit": [
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "선원 효과 추가 1: When HP is below ?% at the start of the turn, boosts own base ATK by 200"
-      },
-      {
-        "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "선원 효과 추가 2: When HP is below ?% at the start of the turn, boosts base ATK of all characters by 100"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 2 turns"
-      },
-      {
-        "description": "공격력 상승 : 60"
-      },
-      {
-        "description": "잠재능력 습득 2: 크리티컬 공격"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다"
+    "name": "검은 팔 제파, 전 해군 대장",
+    "detail": {
+        "captain": "PERFECT 외의 공격을 할때까지 모든 캐릭터의 공격력을 2.25배로 만들고, 턴이 경과 할때마다 체력이(10%씩) 감소된다.",
+        "special": "일당의 남은 체력을 80% 감소시키며 적 1기에 감소한 값의 10배에 해당하는 무속성 데미지를 주고, [STR], [INT]의 공격력을 1턴 동안 1.75배로 한다.",
+        "specialName": "검은팔의 마지막 충격",
+        "sailor": {
+            "base": "None",
+            "level1": "When HP is below ?% at the start of the turn, boosts own base ATK by 200",
+            "level2": "When HP is below ?% at the start of the turn, boosts base ATK of all characters by 100"
+        },
+        "limit": [
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "선원 효과 추가 1: When HP is below ?% at the start of the turn, boosts own base ATK by 200"
+            },
+            {
+                "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "선원 효과 추가 2: When HP is below ?% at the start of the turn, boosts base ATK of all characters by 100"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 2 turns"
+            },
+            {
+                "description": "공격력 상승 : 60"
+            },
+            {
+                "description": "잠재능력 습득 2: 크리티컬 공격"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[DEX] 데미지 피해 감소",
+                "description": [
+                    "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+                    "Level 3: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+                    "Level 4: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+                    "Level 5: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다"
+                ]
+            },
+            {
+                "Name": "크리티컬 공격",
+                "description": [
+                    "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+                    "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+                    "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+                    "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+                    "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
-        ]
-      }
-    ]
-  }
+    }
 }
