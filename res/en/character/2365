@@ -1,0 +1,97 @@
+{
+  "name": "Charlotte Katakuri, A Real Man's Fight",
+  "detail": {
+    "captain": "Boosts ATK of Fighter, Slasher, Shooter, Driven and Powerhouse characters by 1.825x, boosts the Color Affinity of all characters by 1.4x and makes [STR], [PSY], [RCV] and [TND] orbs \"beneficial\" for all characters. Recovers 50% of damage taken in the previous turn when entering a new stage.",
+    "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 3.330625x bonus<br>#{beneficial}",
+    "special": "Deals typeless damage to all enemies equal to 30x the damage taken before the special is activated and adds Additional Typeless Damage equal to 15x the damage taken before the special is activated for 1 turn.",
+    "specialNotes": "The amount of damage possible caps at 200,000 damage taken, so 6,000,000 AOE Typeless damage and 3,000,000 Additional Damage.",
+    "specialName": "Burning Mochi",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of all characters by 75",
+      "level2": "Boosts this character's attack against [INT] characters by 1.1x"
+    },
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 7 turns on this character"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 150",
+          "Level 2: Boosts base ATK by 200",
+          "Level 3: Boosts base ATK by 250",
+          "Level 4: Boosts base ATK by 300",
+          "Level 5: Boosts base ATK by 350"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 3 turns",
+          "Level 3: Reduces No Healing duration by 5 turns",
+          "Level 4: Reduces No Healing duration by 7 turns",
+          "Level 5: Reduces No Healing duration by 10 turns"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Charlotte Linlin, Cracker, Brulee and Smoothie",
+        "description": [
+          "Level 1: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 8% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 10% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 12% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Katakuri V2"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": 4000,
+    "maxATK": 1650,
+    "maxRCV": 200
+  },
+  "cooldown": null,
+  "evolve": {
+    "evolution": 2365,
+    "evolvers": [],
+    "from": 2364
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2365.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2365.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}
