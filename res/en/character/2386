@@ -1,0 +1,50 @@
+{
+  "name": "Kaido",
+  "detail": {
+    "captain": "Boosts own ATK by ?x and boosts ATK of Driven and Powerhouse characters by ?x and their HP by ?x",
+    "special": "ATK and Orb amplification buff duration is equal to the amount of [RCV] orbs consumed prior to the time the special was activated with a maximum of 6 turns.",
+    "specialName": "Kaido Special"
+  },
+  "aliases": [
+    "",
+    "",
+    "TM Kaido"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": null,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2387,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2386.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2386.png"
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Kaido",
+      "thumb": 2387,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Mother Caramel",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by ?x and their RCV by ?x",
+    "special": "Reduces enemy's ATK UP duration by 3 turns, changes orbs in the top row into [RCV] orbs and boosts ATK of characters in the top row by 1.75x for 1 turn.",
+    "specialName": "The Voice Given by the Holy Mother"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 130703,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": [
+    null,
+    11
+  ],
+  "evolution": {
+    "evolution": 2377,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2376.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2376.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Mother Caramel Fortnight",
+      "thumb": 2377,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Basil Hawkins, The Problem Children's Pirate Alliance",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 1.5x",
+    "special": "Reduces enemy Damage Nullification duration by 1 turn and amplifies the effect of orbs for all characters by 1.5x for 1 turn. If your captain is a [STR] or [PSY], boosts the Color Affinity of all characters by 1.5x for 1 turn",
+    "specialName": "Allied \"Magician\" Grief",
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 3 turn",
+          "Level 2: Reduces No Healing duration by 5 turn",
+          "Level 3: Reduces No Healing duration by 7 turn",
+          "Level 4: Reduces No Healing duration by 8 turns",
+          "Level 5: Reduces No Healing duration by 10 turns"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Limited Hawkins",
+    "Secret Hawkins"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Slasher"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2384.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2384.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

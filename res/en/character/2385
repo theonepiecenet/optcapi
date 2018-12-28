@@ -1,0 +1,58 @@
+{
+  "name": "Scratchman Apoo, The Problem Children's Pirate Alliance",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 1.5x",
+    "special": "Reduces enemy Percent Damage Reduction duration by 3 turns reduces Chain Multiplier Limit duration by 3 turns and makes [RCV] and [TND] orbs \"beneficial\" for [STR], [QCK] and [PSY] characters for 3 turns",
+    "specialName": "Allied \"Roar of the Sea\" Aggravation",
+    "potential": [
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 60% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Limited Apoo",
+    "Secret Apoo"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": [
+    14,
+    14
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2385.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2385.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}
