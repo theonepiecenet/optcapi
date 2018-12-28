@@ -1,0 +1,85 @@
+{
+    "name": "\"Gourmet Knight\" 슈트로이젠, Big Mom Pirates Executive Chef",
+    "detail": {
+        "captain": "Boosts ATK of [STR] characters by 2.75x and their RCV by 1.3x",
+        "special": "Removes Poison duration completely, reduces Bind and Despair duration by 5 turns, changes [TND], [BLOCK], [BOMB] and Badly Matching orbs into [RCV] orbs and makes [STR], [PSY] and [RCV] orbs \"beneficial\" for 3 turns",
+        "specialName": "Gourmetamorphosis",
+        "sailor": {
+            "base": "Makes [RCV] orbs \"beneficial\" for this character",
+            "level1": "Changes all orbs into [RCV] orbs at the start of the fight"
+        },
+        "sailorNotes": "#{beneficial}",
+        "potential": [
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turns",
+                    "Level 3: Reduces No Healing duration by 3 turns",
+                    "Level 4: Reduces No Healing duration by 4 turns",
+                    "Level 5: Reduces No Healing duration by 5 turns"
+                ]
+            },
+            {
+                "Name": "Enrage",
+                "description": [
+                    "Level 1: Boosts base ATK by 50",
+                    "Level 2: Boosts base ATK by 75",
+                    "Level 3: Boosts base ATK by 100",
+                    "Level 4: Boosts base ATK by 150",
+                    "Level 5: Boosts base ATK by 200"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}",
+        "support": [
+            {
+                "Characters": "Charlotte Linlin, Charlotte Pudding and Sanji",
+                "description": [
+                    "Level 1: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 2: Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 3: Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 4: Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 5: Adds 12% of this character's base HP and RCV to the supported character's base HP and RCV"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Slasher",
+            "Driven"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": null,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "maxHP": 3000,
+        "maxATK": 1400,
+        "maxRCV": 250
+    },
+    "cooldown": null,
+    "evolve": {
+        "evolution": 2371,
+        "evolvers": [],
+        "from": 2370
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2371.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2371.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}
