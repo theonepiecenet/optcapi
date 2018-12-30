@@ -1,82 +1,82 @@
 {
-  "name": "Thousand Arm 크래커, 빅 맘 해적단",
-  "detail": {
-    "captain": "Boosts ATK of [STR], [DEX] and [QCK] characters by 2.75x and their HP by 1.25x",
-    "special": "If your Captain is a [STR], [DEX] or [QCK] character, boosts ATK of [STR], [DEX] and [QCK] characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for [STR], [DEX] and [QCK] characters for 1 turn and changes [BLOCK] orbs into Matching orbs. If your Captain is a [PSY] or [INT] character, boosts ATK of [STR], [DEX] and [QCK] characters by 1.75x for 3 turns and amplifies the effect of orbs by 1.75x for [STR], [DEX] and [QCK] characters for 3 turns and changes all orbs into [G] orbs.",
-    "specialName": "Infinite Biscuit Soldiers",
-    "sailor": {
-      "base": "Boosts this character's attack against [DEX] characters by 2x",
-      "level1": "Makes [TND] orbs “beneficial” for [STR], [DEX] and [QCK] characters"
-    },
-    "sailorNotes": "#{beneficial}",
-    "potential": [
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by ? turn",
-          "Level 2: Reduces No Healing duration by ? turns",
-          "Level 3: Reduces No Healing duration by ? turns",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
+    "name": "천수의 크래커, 빅 맘 해적단",
+    "detail": {
+        "captain": "Boosts ATK of [STR], [DEX] and [QCK] characters by 2.75x and their HP by 1.25x",
+        "special": "If your Captain is a [STR], [DEX] or [QCK] character, boosts ATK of [STR], [DEX] and [QCK] characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for [STR], [DEX] and [QCK] characters for 1 turn and changes [BLOCK] orbs into Matching orbs. If your Captain is a [PSY] or [INT] character, boosts ATK of [STR], [DEX] and [QCK] characters by 1.75x for 3 turns and amplifies the effect of orbs by 1.75x for [STR], [DEX] and [QCK] characters for 3 turns and changes all orbs into [G] orbs.",
+        "specialName": "Infinite Biscuit Soldiers",
+        "sailor": {
+            "base": "Boosts this character's attack against [DEX] characters by 2x",
+            "level1": "Makes [TND] orbs “beneficial” for [STR], [DEX] and [QCK] characters"
+        },
+        "sailorNotes": "#{beneficial}",
+        "potential": [
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by ? turn",
+                    "Level 2: Reduces No Healing duration by ? turns",
+                    "Level 3: Reduces No Healing duration by ? turns",
+                    "Level 4: Reduces No Healing duration by ? turns",
+                    "Level 5: Reduces No Healing duration by ? turns"
+                ]
+            },
+            {
+                "Name": "크리티컬 공격",
+                "description": [
+                    "Level 1: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+                    "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+                    "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+                    "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+                    "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Acquire Potential 1: Reduce No Healing duration"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [TND] orbs “beneficial” for [STR], [DEX] and [QCK] characters"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Potential 2: Critical Hit"
+            }
         ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Acquire Potential 1: Reduce No Healing duration"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base ATK by 50"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base RCV by 50"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [TND] orbs “beneficial” for [STR], [DEX] and [QCK] characters"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Acquire Potential 2: Critical Hit"
-      }
-    ]
-  }
+    }
 }

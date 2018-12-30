@@ -8,7 +8,7 @@
     "sailor": {
       "base": "None",
       "level1": "Makes [PSY] orbs \"beneficial\" for Free Spirit and Fighter characters",
-      "level2": "Adds 2x character's ATK as Additional Typeless Damage"
+      "level2": "Adds 2x character's ATK as Additional Damage"
     },
     "sailorNotes": "#{additionalDamage : 2x}",
     "limit": [
@@ -52,7 +52,7 @@
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Sailor Ability 2: Adds 2x character's ATK as Additional Typeless Damage"
+        "description": "Acquire Sailor Ability 2: Adds 2x character's ATK as Additional Damage"
       },
       {
         "description": "Acquire Potential 2: Pinch Healing"
@@ -80,7 +80,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Hack, Koala, Ivankov, Inazuma and Kuma",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 9% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "サボ 革命軍参謀総長",

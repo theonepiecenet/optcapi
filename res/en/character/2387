@@ -1,0 +1,76 @@
+{
+  "name": "Kaido, Evolved",
+  "detail": {
+    "captain": {
+      "base": "Boosts own ATK by ?x and boosts ATK of Driven and Powerhouse characters by ?x and their HP by ?x",
+      "level1": "Not Translated",
+      "level2": "Not Translated",
+      "level3": "Not Translated",
+      "level4": "Not Translated",
+      "level5": "Not Translated",
+      "level6": "Boosts own ATK by 3.25x and boosts ATK of Driven and Powerhouse characters by 2.75x and their HP by 1.2x"
+    },
+    "special": "ATK and Orb amplification buff duration is equal to the amount of [RCV] orbs consumed prior to the time the special was activated with a maximum of 6 turns.",
+    "specialName": "Kaido Special",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK of Powerhouse and Driven characters by 50",
+      "level2": "Cannot be Blown Away"
+    },
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turn on this character",
+          "Level 3: Reduces Slot Bind duration by ? turn on this character",
+          "Level 4: Reduces Slot Bind duration by ? turn on this character",
+          "Level 5: Reduces Slot Bind duration by ? turn on this character"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "TM Kaido"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 60,
+    "combo": 5,
+    "slots": 1,
+    "level": 99,
+    "exp": 5000000,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null
+  },
+  "cooldown": null,
+  "evolve": {
+    "evolution": 2387,
+    "evolvers": [],
+    "from": 2386
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2387.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2387.png"
+  },
+  "drop": [],
+  "manual": []
+}

@@ -1,10 +1,10 @@
 {
-  "name": "넵튠, The Great Knight of the Sea",
-  "detail": {
-    "captain": "Boosts ATK of all characters by ?x, EXP gained by ?x and recovers ?x character's RCV in HP at the end of each turn",
-    "captainNotes": "EXP boost does not take effect if he becomes your captain in the middle of the adventure.",
-    "special": "Reduces Despair and ATK DOWN duration by 5 turns and reduces enemies' Resilience Buffs by 5 turns. Reduces the defense of all enemies by ?% and amplifies the effect of orbs by 1.75x for Cerebral and Powerhouse characters for 3 turns",
-    "sailor": "Boosts base ATK, HP and RCV of Cerebral characters by 75",
-    "specialName": "Great Ocean Current of Resuscitation"
-  }
+    "name": "넵튠, 바다의 대기사",
+    "detail": {
+        "captain": "일당의 공격력을 1.5배로 만들고, 획득하는 해적 EXP가 1.25배가 된다(획득 해적 EXP 증가 효과는 모험 도중에 선장이 된 경우에는 발휘되지 않습니다)",
+        "captainNotes": "EXP boost does not take effect if he becomes your captain in the middle of the adventure.",
+        "special": "공격력 감소, 선장효과 무효, 적에게 걸려 있는 남은 체력 1로 버티는 효과를 5턴 줄이고, 3턴 동안 적 전체의 방어력을 대폭 감소시키며 박식형과 강인형 캐릭터의 슬롯의 영향을 상당히 증폭시킨다",
+        "sailor": "박식형 캐릭터의 기본 능력치가 50 상승한다",
+        "specialName": "기사회생의 대해류"
+    }
 }

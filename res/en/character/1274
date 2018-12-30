@@ -7,7 +7,7 @@
     "specialName": "Champion of the Wild Roar",
     "sailor": {
       "base": "Boosts base HP of all characters by 75",
-      "level1": "Adds 2x character's ATK as Additional Typeless Damage"
+      "level1": "Adds 2x character's ATK as Additional Damage"
     },
     "limit": [
       {
@@ -50,7 +50,7 @@
         "description": "Boosts base ATK by 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Adds 2x character's ATK as Additional Typeless Damage"
+        "description": "Acquire Sailor Ability 1: Adds 2x character's ATK as Additional Damage"
       },
       {
         "description": "Acquire Potential 2: Slot Bind Self-reduction"
@@ -75,6 +75,18 @@
           "Level 3: Reduces Slot Bind duration by ? turns on this character",
           "Level 4: Reduces Slot Bind duration by ? turns on this character",
           "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Blackbeard, Van Augur, Lafitte, Shiryu and Doc Q",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP"
         ]
       }
     ]

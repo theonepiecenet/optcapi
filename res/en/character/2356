@@ -5,36 +5,94 @@
     "special": "Deals ?x character's ATK in [STR] damage to one enemy, Reduces enemy's Increased Defense and Resilience Buffs duration by 3 turns, changes [BLOCK] orbs into Matching orbs and amplifies the effect of orbs for Slasher characters by 1.75x for 3 turns",
     "specialName": "Kiribachi - Single Stroke Slice",
     "sailor": {
-      "base": "None",
-      "level1": "Makes QCK orbs \"beneficial\" for this character",
-      "level2": "Boosts own base ATK by 200 if this character is the last in the chain to attack"
+      "base": "Makes QCK orbs \"beneficial\" for this character",
+      "level1": "Boosts own base ATK by 200 if this character is the last in the chain to attack"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts own base ATK by 200 if this character is the last in the chain to attack"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 45"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
     "potential": [
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turn on this character",
-          "Level 3: Reduces Slot Bind duration by ? turn on this character",
-          "Level 4: Reduces Slot Bind duration by ? turn on this character",
-          "Level 5: Reduces Slot Bind duration by ? turn on this character"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 3: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 4: Reduces Slot Bind duration by 2 turn on this character",
+          "Level 5: Reduces Slot Bind duration by 3 turn on this character"
         ]
       },
       {
         "Name": "Critical Hit",
         "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+          "Level 1: If you hit a PERFECT with this character, there is a 50% chance to deal 2% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 60% chance to deal 3% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 4% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 6% of this character's attack in extra damage"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Hatchan, Choo and Kuroobi",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 9% of this character's base ATK to the supported character's base ATK"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "ブチ切れアーロン 暴虐の魚人",
     "",
     "Raid Arlong"
   ],
@@ -46,21 +104,27 @@
     ],
     "stars": 5,
     "cost": 50,
-    "combo": null,
-    "slots": null,
+    "combo": 4,
+    "slots": 3,
     "level": 99,
     "exp": 5000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 2682,
+    "maxATK": 1512,
+    "maxRCV": 122
   },
   "cooldown": [
-    null,
+    28,
     14
   ],
   "evolve": {
     "evolution": 2356,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      78,
+      83,
+      300,
+      100
+    ],
     "from": 2355
   },
   "image": {

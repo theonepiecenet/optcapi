@@ -1,82 +1,82 @@
 {
-  "name": "샬롯 오븐, 빅 맘 해적단",
-  "detail": {
-    "captain": "Boosts ATK of 강인형 and Fighter characters by 1.65x and reduces damage received by 7%",
-    "captainNotes": "The bonus is cumulative. 강인형 + Fighter characters get a 2.7225x bonus",
-    "special": "If enemies are delayed at the time the special was activated, boost ATK of Fighter, Striker, Shooter, Cerebral and Powerhouse characters by 2x for 1 turn, boosts Fighter and Powerhouse characters by 1.75x for 3 turns otherwise.",
-    "specialName": "Grilled Scorch Blow",
-    "sailor": {
-      "base": "자신이 [STR] 속성에게 주는 일반 공격에 의한 데미지가 2배가 된다",
-      "level1": "Reduces Silence duration by 1 turn"
-    },
-    "limit": [
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "선원 효과 추가 1: Reduces Silence duration by 1 turn"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "소켓 슬롯 1개 추가"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "필살기 턴 단축 : 1턴"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "잠재능력 습득 2: 배리어 관통"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[QCK]데미지 피해 감소",
-        "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
+    "name": "샬롯 오븐, 빅 맘 해적단",
+    "detail": {
+        "captain": "격투형과 강인형 캐릭터의 공격력을 각각 1.65배(타입이 중복될 경우 약 2.72배)로 만들고, 받는 데미지가 7% 감소한다",
+        "captainNotes": "The bonus is cumulative. 강인형 + Fighter characters get a 2.7225x bonus",
+        "special": "지연 상태의 적이 있는 경우 1턴 동안 격투형, 타격형, 사격형, 박식형, 강인형 캐릭터의 공격력이 2배가 되고, 그 외의 경우 3턴 동안 격투형, 강인형 캐릭터의 공격력이 1.75배가 된다",
+        "specialName": "불사르는 일격",
+        "sailor": {
+            "base": "자신이 [STR] 속성에게 주는 일반 공격에 의한 데미지가 2배가 된다",
+            "level1": "Reduces Silence duration by 1 turn"
+        },
+        "limit": [
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "선원 효과 추가 1: Reduces Silence duration by 1 turn"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "소켓 슬롯 1개 추가"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "필살기 턴 단축 : 1턴"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "잠재능력 습득 2: 배리어 관통"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[QCK]데미지 피해 감소",
+                "description": [
+                    "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
+                    "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
+                    "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
+                    "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
+                ]
+            },
+            {
+                "Name": "배리어 관통",
+                "description": [
+                    "Level 1: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+                    "Level 2: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+                    "Level 3: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+                    "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+                    "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
-          "Level 2: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
-          "Level 3: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
-          "Level 4: 일당의 체력이 80% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
-          "Level 5: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다"
-        ]
-      }
-    ]
-  }
+    }
 }

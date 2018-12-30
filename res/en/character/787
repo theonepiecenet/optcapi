@@ -3,7 +3,19 @@
   "detail": {
     "special": "Seals himself for 10 turns, delays all enemies for 1 turn, reduces damage received by 50% for 4 turns",
     "specialName": "The Resolve to Face Death! \"Open Mind\"",
-    "captain": "Reduces damage received by 50%, reduces crew's current HP by 10% at the end of each turn"
+    "captain": "Reduces damage received by 50%, reduces crew's current HP by 10% at the end of each turn",
+    "support": [
+      {
+        "Characters": "Chopper",
+        "description": [
+          "Level 1: Once per adventure, when you reach the final stage, reduces damage received by 5% for 1 turn",
+          "Level 2: Once per adventure, when you reach the final stage, reduces damage received by 5% for 1 turn",
+          "Level 3: Once per adventure, when you reach the final stage, reduces damage received by 10% for 1 turn",
+          "Level 4: Once per adventure, when you reach the final stage, reduces damage received by 10% for 1 turn",
+          "Level 5: Once per adventure, when you reach the final stage, reduces damage received by 15% for 1 turn"
+        ]
+      }
+    ]
   },
   "aliases": [
     "Dr.ヒルルク ヤブ医者",

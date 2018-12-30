@@ -1,28 +1,30 @@
 {
-  "name": "Coliseum Magellan",
+  "name": "Magellan, Venom-Venom Fruit User",
   "detail": {
-    "captain": "Boosts ATK of Shooter and Striker characters by ?x and recovers ?x character's RCV in HP at the end of each turn.",
+    "captain": "Boosts ATK of Shooter and Striker characters by 2.25x and recovers 1.5x character's RCV in HP at the end of each turn.",
     "special": [
       {
         "description": "Poisons all enemies, reduces enemy's Threshold Damage Reduction and Percent Damage Reduction duration by 1 turn and boosts ATK against Poisoned enemies by 1.5x for 1 turn",
         "cooldown": [
           23,
-          null
+          9
         ]
       },
       {
         "description": "Strongly Poisons one enemy, Poisons all other enemies, reduces the defense of all enemies by 100% for 1 turn, reduces enemy's Threshold Damage Reduction and Percent Damage Reduction duration by 2 turns and boosts ATK against Poisoned and Strongly Poisoned enemies by 1.75x for 1 turn",
         "cooldown": [
           27,
-          null
+          13
         ]
       }
     ],
     "specialNotes": "Strong Poison deals 300x character's ATK in fixed damage at the end of each turn. Regular Poison deals .5x character's ATK in fixed damage at the end of each turn.",
-    "specialName": "Chloro Ball"
+    "specialName": "Chloro Ball",
+    "sailor": "Reduces Silence duration on this character by 3 turns",
+    "sailorNotes": "#{silence}"
   },
   "aliases": [
-    "",
+    "マゼラン “ドクドクの実”の能力者",
     "",
     "Coliseum Magellan"
   ],
@@ -34,18 +36,27 @@
     ],
     "stars": 4,
     "cost": 25,
-    "combo": null,
-    "slots": null,
+    "combo": 4,
+    "slots": 3,
     "level": 70,
     "exp": 1066998,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1367,
+    "maxATK": 818,
+    "maxRCV": 179
   },
-  "cooldown": null,
+  "cooldown": [
+    27,
+    13
+  ],
   "evolution": {
     "evolution": 2354,
-    "evolvers": []
+    "evolvers": [
+      118,
+      96,
+      1180,
+      301,
+      101
+    ]
   },
   "evolve": [],
   "image": {
@@ -58,7 +69,7 @@
       "name": "Coliseum",
       "thumb": 779,
       "data": [
-        "Neo"
+        "Chaos"
       ]
     }
   ],

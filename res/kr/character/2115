@@ -1,98 +1,101 @@
 {
-  "name": "샬롯 브륄레, 빅 맘 해적단",
-  "detail": {
-    "captain": "Boosts ATK and RCV of [PSY] characters by 1.5x and cuts the current HP of each enemy by 15% at the end of each turn",
-    "special": [
-      {
-        "description": "Changes [TND] and [RCV] orbs into [PSY] orbs, changes all other orbs on all characters into Brûlée's orb. Adds 30x character's ATK as Additional Typeless Damage for 3 turns",
-        "cooldown": [
-          18,
-          12
+    "name": "샬롯 브륄레, 빅 맘 해적단",
+    "detail": {
+        "captain": "박식형 캐릭터의 공격력과 회복력을 1.5배로 만들고, 턴 종료 시 적 전체의 HP를 15% 감소시킨다",
+        "special": [
+            {
+                "description": "자신의 [TND][RCV] 슬롯을 [PSY]으로 바꾸고, [BLOCK] 슬롯을 포함한 모든 슬롯을 자신과 같은 슬롯으로 바꾸며, 3턴 동안 GOOD, GREAT, PERFECT 공격 시 캐릭터의 공격력x30배의 무 속성 데미지를 가산한다",
+                "cooldown": [
+                    18,
+                    12
+                ]
+            },
+            {
+                "description": "자신의 [TND][RCV] 슬롯을 [PSY]으로 바꾸고, [BLOCK] 슬롯을 포함한 모든 슬롯을 자신과 같은 슬롯으로 바꾸며, 5턴 동안 GOOD, GREAT, PERFECT 공격 시 캐릭터의 공격력x30배의 무 속성 데미지를 가산한다",
+                "cooldown": [
+                    22,
+                    16
+                ]
+            },
+            {
+                "description": ""
+            }
+        ],
+        "specialNotes": "Upon activating the special, all orbs will be changed to the orb Brûlée has, including [RAINBOW] and [BLOCK] orbs. This will not override other [BLOCK] orbs.",
+        "specialName": "허상을 비추는 빛",
+        "sailor": {
+            "base": "박식형 캐릭터는 [PSY] 슬롯도 [유리] 슬롯으로 취급한다",
+            "level1": "Reduces Paralysis duration by 1 turn"
+        },
+        "sailorNotes": "#{beneficial}",
+        "limit": [
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "소켓 슬롯 1개 추가"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "선원 효과 추가 1: Reduces Paralysis duration by 1 turn"
+            },
+            {
+                "description": "필살기 턴 단축 : 1턴"
+            },
+            {
+                "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[INT]데미지 피해 감소",
+                "description": [
+                    "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+                    "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+                    "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+                    "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+                ]
+            },
+            {
+                "Name": "슬롯 봉쇄 내성",
+                "description": [
+                    "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+                    "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+                    "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+                    "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+                    "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
+                ]
+            }
         ]
-      },
-      {
-        "description": "Changes [TND] and [RCV] orbs into [PSY] orbs, changes all other orbs on all characters into Brûlée's orb. Adds 30x character's ATK as Additional Typeless Damage for 5 turns",
-        "cooldown": [
-          22,
-          16
-        ]
-      }
-    ],
-    "specialNotes": "Upon activating the special, all orbs will be changed to the orb Brûlée has, including [RAINBOW] and [BLOCK] orbs. This will not override other [BLOCK] orbs.",
-    "specialName": "Light Reflecting a Virtual Image",
-    "sailor": {
-      "base": "Makes [PSY] orbs “beneficial” for Cerebral characters",
-      "level1": "Reduces Paralysis duration by 1 turn"
-    },
-    "sailorNotes": "#{beneficial}",
-    "limit": [
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "소켓 슬롯 1개 추가"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "선원 효과 추가 1: Reduces Paralysis duration by 1 turn"
-      },
-      {
-        "description": "필살기 턴 단축 : 1턴"
-      },
-      {
-        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[INT]데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
-        ]
-      }
-    ]
-  }
+    }
 }

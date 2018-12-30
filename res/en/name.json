@@ -33283,8 +33283,18 @@
       "PSY"
     ],
     "class": [
-      "Striker",
-      "Slasher"
+      [
+        "Striker",
+        "Driven"
+      ],
+      [
+        "Slasher",
+        "Cerebral"
+      ],
+      [
+        "Striker",
+        "Slasher"
+      ]
     ],
     "id": 1983,
     "aliases": [
@@ -33308,8 +33318,18 @@
       "STR"
     ],
     "class": [
-      "Free Spirit",
-      "Fighter"
+      [
+        "Free Spirit",
+        "Fighter"
+      ],
+      [
+        "Free Spirit",
+        "Shooter"
+      ],
+      [
+        "Free Spirit",
+        "Fighter"
+      ]
     ],
     "id": 1984,
     "aliases": [
@@ -33338,8 +33358,18 @@
       "STR"
     ],
     "class": [
-      "Free Spirit",
-      "Fighter"
+      [
+        "Free Spirit",
+        "Fighter"
+      ],
+      [
+        "Free Spirit",
+        "Shooter"
+      ],
+      [
+        "Free Spirit",
+        "Fighter"
+      ]
     ],
     "id": 1985,
     "aliases": [
@@ -33605,8 +33635,18 @@
       "DEX"
     ],
     "class": [
-      "Fighter",
-      "Slasher"
+      [
+        "Fighter",
+        "Powerhouse"
+      ],
+      [
+        "Slasher",
+        "Driven"
+      ],
+      [
+        "Fighter",
+        "Slasher"
+      ]
     ],
     "id": 2000,
     "aliases": [
@@ -35218,8 +35258,8 @@
       "PSY"
     ],
     "class": [
-      "Shooter",
-      "Cerebral"
+      "Cerebral",
+      "Shooter"
     ],
     "id": 2089,
     "aliases": [
@@ -35529,7 +35569,7 @@
     ]
   },
   {
-    "name": "The Thief Carina",
+    "name": "Phantom Thief Carina",
     "type": [
       "PSY"
     ],
@@ -35542,7 +35582,7 @@
       "怪盗カリーナ",
       "V2 Carina",
       "Carina",
-      "The Thief Carina"
+      "Phantom Thief Carina"
     ]
   },
   {
@@ -36840,8 +36880,18 @@
       "INT"
     ],
     "class": [
-      "Striker",
-      "Powerhouse"
+      [
+        "Striker",
+        "Powerhouse"
+      ],
+      [
+        "Fighter",
+        "Powerhouse"
+      ],
+      [
+        "Striker",
+        "Powerhouse"
+      ]
     ],
     "id": 2180,
     "aliases": [
@@ -36870,8 +36920,18 @@
       "INT"
     ],
     "class": [
-      "Striker",
-      "Powerhouse"
+      [
+        "Striker",
+        "Powerhouse"
+      ],
+      [
+        "Fighter",
+        "Powerhouse"
+      ],
+      [
+        "Striker",
+        "Powerhouse"
+      ]
     ],
     "id": 2181,
     "aliases": [
@@ -39261,7 +39321,7 @@
     ]
   },
   {
-    "name": "Vinsmoke Yonji, Vinsmoke Family - Fourth Son",
+    "name": "Vinsmoke Yonji, Vinsmoke Family's Fourth Son",
     "type": [
       "DEX"
     ],
@@ -39274,7 +39334,7 @@
       "ヴィンスモーク・ヨンジ ヴィンスモーク家　四男",
       "Story Yonji",
       "Vinsmoke Yonji",
-      " Vinsmoke Family - Fourth Son"
+      " Vinsmoke Family's Fourth Son"
     ]
   },
   {
@@ -39295,7 +39355,7 @@
     ]
   },
   {
-    "name": "Vinsmoke Niji, Vinsmoke Family - Second Son",
+    "name": "Vinsmoke Niji, Vinsmoke Family's Second Son",
     "type": [
       "STR"
     ],
@@ -39308,7 +39368,7 @@
       "ヴィンスモーク・ニジ ヴィンスモーク家　次男",
       "Story Niji",
       "Vinsmoke Niji",
-      " Vinsmoke Family - Second Son"
+      " Vinsmoke Family's Second Son"
     ]
   },
   {
@@ -39346,7 +39406,7 @@
     ]
   },
   {
-    "name": "Charlotte Oven, Charlotte Family's 4th Son",
+    "name": "Charlotte Oven, Charlotte Family's Fourth Son",
     "type": [
       "STR"
     ],
@@ -39359,7 +39419,7 @@
       "シャーロット・オーブン シャーロット家４男",
       "Coliseum Oven",
       "Charlotte Oven",
-      " Charlotte Family's 4th Son"
+      " Charlotte Family's Fourth Son"
     ]
   },
   {
@@ -39400,7 +39460,7 @@
     ]
   },
   {
-    "name": "Usoland, Operation SOP Commader",
+    "name": "Usoland, Operation SOP Commander",
     "type": [
       "PSY"
     ],
@@ -39416,11 +39476,11 @@
       "Secret Usopp",
       "Usopp",
       "Usoland",
-      " Operation SOP Commader"
+      " Operation SOP Commander"
     ]
   },
   {
-    "name": "Charlotte Amande, Charlotte Family 3rd Daughter",
+    "name": "Charlotte Amande, Charlotte Family's Third Daughter",
     "type": [
       "QCK"
     ],
@@ -39432,7 +39492,7 @@
     "aliases": [
       "シャーロット・アマンド シャーロット家３女",
       "Charlotte Amande",
-      " Charlotte Family 3rd Daughter"
+      " Charlotte Family's Third Daughter"
     ]
   },
   {
@@ -39506,7 +39566,7 @@
     ]
   },
   {
-    "name": "Ain, Abilities of the Return-Return Fruit",
+    "name": "Ain, Return-Return Fruit User",
     "type": [
       "INT"
     ],
@@ -39518,7 +39578,7 @@
     "aliases": [
       "アイン モドモドの実の能力者",
       "Ain",
-      " Abilities of the Return-Return Fruit"
+      " Return-Return Fruit User"
     ]
   },
   {
@@ -39538,7 +39598,7 @@
     ]
   },
   {
-    "name": "Binz",
+    "name": "Binz, Grow-Grow Fruit User",
     "type": [
       "PSY"
     ],
@@ -39549,7 +39609,8 @@
     "id": 2333,
     "aliases": [
       "ビンズ モサモサの実の能力者",
-      "Binz"
+      "Binz",
+      " Grow-Grow Fruit User"
     ]
   },
   {
@@ -39673,7 +39734,7 @@
     ]
   },
   {
-    "name": "Charlotte Opera, Charlotte Family 5th Son",
+    "name": "Charlotte Opera, Charlotte Family's Fifth Son",
     "type": [
       "PSY"
     ],
@@ -39685,7 +39746,7 @@
     "aliases": [
       "シャーロット・オペラ シャーロット家５男",
       "Charlotte Opera",
-      " Charlotte Family 5th Son"
+      " Charlotte Family's Fifth Son"
     ]
   },
   {
@@ -39773,7 +39834,7 @@
     ]
   },
   {
-    "name": "Shanks, Hope towards the New Era",
+    "name": "Shanks, Hope towards the \"New Era\"",
     "type": [
       "PSY"
     ],
@@ -39783,13 +39844,14 @@
     ],
     "id": 2347,
     "aliases": [
+      "シャンクス “新しい時代”に懸ける想い",
       "Special Shanks",
       "Shanks",
-      " Hope towards the New Era"
+      " Hope towards the \"New Era\""
     ]
   },
   {
-    "name": "Pedro",
+    "name": "Pedro, Former Nox Pirates Captain",
     "type": [
       "DEX"
     ],
@@ -39799,9 +39861,11 @@
     ],
     "id": 2348,
     "aliases": [
+      "ペドロ 元ノックス海賊団“船長”",
       "Limited Pedro",
       "Secret Pedro",
-      "Pedro"
+      "Pedro",
+      " Former Nox Pirates Captain"
     ]
   },
   {
@@ -39815,6 +39879,7 @@
     ],
     "id": 2349,
     "aliases": [
+      "木の上のペドロ 元ノックス海賊団“船長”",
       "Limited Pedro",
       "Secret Pedro",
       "Pedro",
@@ -39833,6 +39898,7 @@
     ],
     "id": 2350,
     "aliases": [
+      "シャーロット・コンポート フルーツ大臣",
       "Charlotte Compote",
       " Minister of Fruits"
     ]
@@ -39848,6 +39914,7 @@
     ],
     "id": 2351,
     "aliases": [
+      "シャーロット・ペロスペロー キャンディ大臣",
       "Charlotte Perospero",
       " Minister of Candy"
     ]
@@ -39863,6 +39930,7 @@
     ],
     "id": 2352,
     "aliases": [
+      "マスカルポーネ＆ジョスカルポーネ",
       "Charlotte Mascarpone",
       "Charlotte Joscarpone",
       "Long Neck Twins",
@@ -39870,7 +39938,7 @@
     ]
   },
   {
-    "name": "Coliseum Magellan",
+    "name": "Magellan, Venom-Venom Fruit User",
     "type": [
       "QCK"
     ],
@@ -39880,8 +39948,10 @@
     ],
     "id": 2353,
     "aliases": [
+      "マゼラン “ドクドクの実”の能力者",
       "Coliseum Magellan",
-      "Magellan"
+      "Magellan",
+      " Venom-Venom Fruit User"
     ]
   },
   {
@@ -39895,6 +39965,7 @@
     ],
     "id": 2354,
     "aliases": [
+      "監獄署長マゼラン “ドクドクの実”の能力者",
       "Coliseum Magellan",
       "Magellan",
       "Chief Warden Magellan",
@@ -39912,6 +39983,7 @@
     ],
     "id": 2355,
     "aliases": [
+      "アーロン 暴虐の魚人",
       "Raid Arlong",
       "Arlong",
       " Violent Fishman"
@@ -39928,6 +40000,7 @@
     ],
     "id": 2356,
     "aliases": [
+      "ブチ切れアーロン 暴虐の魚人",
       "Raid Arlong",
       "Arlong",
       "Enraged Arlong",
@@ -39945,6 +40018,7 @@
     ],
     "id": 2357,
     "aliases": [
+      "ハクバ ロンメルのカマイタチ",
       "Super Cavendish",
       "Mega Cavendish",
       "Super Hakuba",
@@ -39964,6 +40038,7 @@
     ],
     "id": 2358,
     "aliases": [
+      "トニートニー・チョッパー 聖夜のトナカイ",
       "Limited Chopper",
       "Secret Chopper",
       "Tony Tony Chopper",
@@ -39981,6 +40056,7 @@
     ],
     "id": 2359,
     "aliases": [
+      "ニコ・ロビン クリスマス・サプライズ",
       "Limited Robin",
       "Secret Robin",
       "Nico Robin",
@@ -39998,6 +40074,7 @@
     ],
     "id": 2360,
     "aliases": [
+      "ネコマムシ 聖夜の王",
       "Limited Nekomamushi",
       "Secret Nekomamushi",
       "Nekomamushi",
@@ -40015,6 +40092,7 @@
     ],
     "id": 2361,
     "aliases": [
+      "ナミ 魅惑のサンタレディ",
       "TM Nami",
       "Nami",
       " Alluring Santa Lady"
@@ -40031,9 +40109,380 @@
     ],
     "id": 2362,
     "aliases": [
+      "ナミ 魅惑のサンタガール",
       "TM Nami",
       "Nami",
       " Charming Santa Girl"
+    ]
+  },
+  {
+    "name": "Monkey D. Luffy, Gear 4 - Snakeman",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "id": 2363,
+    "aliases": [
+      "Mega Luffy",
+      "Super Luffy",
+      "V2G4 Luffy",
+      "Gear Change G4",
+      "Monkey D. Luffy",
+      " Gear 4 - Snakeman"
+    ]
+  },
+  {
+    "name": "Charlotte Katakuri, Serious Fight",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "id": 2364,
+    "aliases": [
+      "Katakuri V2",
+      "Charlotte Katakuri",
+      " Serious Fight"
+    ]
+  },
+  {
+    "name": "Charlotte Katakuri, A Real Man's Fight",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "id": 2365,
+    "aliases": [
+      "Katakuri V2",
+      "Charlotte Katakuri",
+      " A Real Man's Fight"
+    ]
+  },
+  {
+    "name": "Charlotte Flampe",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "id": 2366,
+    "aliases": [
+      "Charlotte Flampe"
+    ]
+  },
+  {
+    "name": "Charlotte Flampe, Katakuri Fan Club's President and Special Forces Captain",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "id": 2367,
+    "aliases": [
+      "Charlotte Flampe",
+      " Katakuri Fan Club's President and Special Forces Captain"
+    ]
+  },
+  {
+    "name": "Charlotte Mont-d'Or",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "id": 2368,
+    "aliases": [
+      "Charlotte Mont-d'Or"
+    ]
+  },
+  {
+    "name": "Charlotte Mont-d'Or, Minister of Cheese and Charlotte Family's 19th Son",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "id": 2369,
+    "aliases": [
+      "Charlotte Mont-d'Or",
+      " Minister of Cheese and Charlotte Family's 19th Son"
+    ]
+  },
+  {
+    "name": "Streusen",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "id": 2370,
+    "aliases": [
+      "Streusen"
+    ]
+  },
+  {
+    "name": "\"Gourmet Knight\" Streusen, Big Mom Pirates Executive Chef",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "id": 2371,
+    "aliases": [
+      "Streusen",
+      "\"Gourmet Knight\" Streusen",
+      " Big Mom Pirates Executive Chef"
+    ]
+  },
+  {
+    "name": "Inuarashi, Ceremonial Banquet",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Cerebral",
+      "Slasher"
+    ],
+    "id": 2372,
+    "aliases": [
+      "Mega Inuarashi",
+      "Super Inuarashi",
+      "Dog Storm",
+      "Inuarashi",
+      " Ceremonial Banquet"
+    ]
+  },
+  {
+    "name": "Nekomamushi, Ceremonial Banquet",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Striker",
+      "Powerhouse"
+    ],
+    "id": 2373,
+    "aliases": [
+      "Mega Nekomamushi",
+      "Super Nekomamushi",
+      "Cat Viper",
+      "Nekomamushi",
+      " Ceremonial Banquet"
+    ]
+  },
+  {
+    "name": "Mother Caramel",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "id": 2376,
+    "aliases": [
+      "Mother Caramel"
+    ]
+  },
+  {
+    "name": "Mother Carmel, The Holy Mother of the Sheep's House",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "id": 2377,
+    "aliases": [
+      "Mother Caramel",
+      "Mother Carmel",
+      " The Holy Mother of the Sheep's House"
+    ]
+  },
+  {
+    "name": "Hajrudin, Young Giant Warrior",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "id": 2378,
+    "aliases": [
+      "Kid Hajrudin",
+      "Hajrudin",
+      " Young Giant Warrior"
+    ]
+  },
+  {
+    "name": "Streusen, Cook Cook Fruit User",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "id": 2379,
+    "aliases": [
+      "Streusen",
+      " Cook Cook Fruit User"
+    ]
+  },
+  {
+    "name": "Charlotte Linlin",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "id": 2380,
+    "aliases": [
+      "Young Big Mom",
+      "Ambush Big Mom",
+      "Invasion Big Mom",
+      "Charlotte Linlin"
+    ]
+  },
+  {
+    "name": "Charlotte Linlin, The Demon in the Land of Elbaf",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "id": 2381,
+    "aliases": [
+      "Young Big Mom",
+      "Ambush Big Mom",
+      "Invasion Big Mom",
+      "Charlotte Linlin",
+      " The Demon in the Land of Elbaf"
+    ]
+  },
+  {
+    "name": "Sanji, Bidding a Farewell to the Vinsmokes",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "id": 2382,
+    "aliases": [
+      "Support Sanji",
+      "Sanji",
+      " Bidding a Farewell to the Vinsmokes"
+    ]
+  },
+  {
+    "name": "Eustass Kid, The Problem Children's Pirate Alliance",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "id": 2383,
+    "aliases": [
+      "Limited Kid",
+      "Secret Kid",
+      "Eustass Kid",
+      " The Problem Children's Pirate Alliance"
+    ]
+  },
+  {
+    "name": "Basil Hawkins, The Problem Children's Pirate Alliance",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Fighter",
+      "Slasher"
+    ],
+    "id": 2384,
+    "aliases": [
+      "Limited Hawkins",
+      "Secret Hawkins",
+      "Basil Hawkins",
+      " The Problem Children's Pirate Alliance"
+    ]
+  },
+  {
+    "name": "Scratchman Apoo, The Problem Children's Pirate Alliance",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "id": 2385,
+    "aliases": [
+      "Limited Apoo",
+      "Secret Apoo",
+      "Scratchmen Apoo",
+      "Scratchman Apoo",
+      " The Problem Children's Pirate Alliance"
+    ]
+  },
+  {
+    "name": "Kaido",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "id": 2386,
+    "aliases": [
+      "TM Kaido",
+      "Kaido"
+    ]
+  },
+  {
+    "name": "Kaido, Evolved",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "id": 2387,
+    "aliases": [
+      "TM Kaido",
+      "Kaido",
+      " Evolved"
     ]
   },
   {
@@ -40050,7 +40499,7 @@
       "麦わらのルフィ 海賊「麦わらの一味」船長",
       "LINE Luffy",
       "World Clash Luffy",
-      "null",
+      "Monkey D. Luffy",
       "Straw Hat Luffy",
       " Straw Hat Pirates Captain"
     ]
@@ -40069,7 +40518,7 @@
       "麦わらのルフィ ドレスローザの“希望”",
       "LINE Luffy",
       "World Clash Luffy",
-      "null",
+      "Monkey D. Luffy",
       "Straw Hat Luffy",
       " The Hope of Dressrosa"
     ]
@@ -40088,7 +40537,7 @@
       "マーシャル・D・ティーチ 世界政府の反逆者",
       "LINE Blackbeard",
       "World Clash Blackbeard",
-      "null",
+      "Blackbeard",
       "Marshall D. Teach",
       " Traitor of the World Government"
     ]
@@ -40107,7 +40556,6 @@
       "黒ひげ 新時代を告げる台風の目",
       "LINE Blackbeard",
       "World Clash Blackbeard",
-      "null",
       "Blackbeard",
       " Eye of the Storm Heralding a New Era"
     ]
@@ -40126,7 +40574,7 @@
       "サカズキ元帥",
       "LINE Akainu",
       "World Clash Akainu",
-      "null",
+      "Akainu",
       "Fleet Admiral Sakazuki"
     ]
   },
@@ -40144,7 +40592,7 @@
       "サカズキ元帥 海軍総大将",
       "LINE Akainu",
       "World Clash Akainu",
-      "null",
+      "Akainu",
       "Fleet Admiral Sakazuki",
       " Supreme Commander of the Navy"
     ]
@@ -40160,15 +40608,15 @@
     ],
     "id": 2406,
     "aliases": [
+      "ポートガス・D・エース “大罪”の血筋",
       "LINE Ace",
       "World Clash Ace",
-      "null",
       "Portgas D. Ace",
       " Detested Bloodline"
     ]
   },
   {
-    "name": "Portgas D. Ace, The Blood of a Demon that Felt Loved",
+    "name": "Portgas D. Ace, Blood of a Loved Demon",
     "type": [
       "PSY"
     ],
@@ -40178,12 +40626,12 @@
     ],
     "id": 2407,
     "aliases": [
+      "ポートガス・D・エース 愛された鬼の血",
       "LINE Ace",
       "World Clash Ace",
       "Actually Dead",
-      "null",
       "Portgas D. Ace",
-      " The Blood of a Demon that Felt Loved"
+      " Blood of a Loved Demon"
     ]
   },
   {
@@ -40200,9 +40648,38 @@
       "サボ 亡き兄弟への宣誓",
       "LINE Sabo",
       "World Clash Sabo",
-      "null",
       "Sabo",
       " Oath to a Fallen Brother"
+    ]
+  },
+  {
+    "name": "Roronoa Zoro, Three-Sword Style Swordsman in Chainmail",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "id": 2500,
+    "aliases": [
+      "Roronoa Zoro",
+      " Three-Sword Style Swordsman in Chainmail"
+    ]
+  },
+  {
+    "name": "Sanji, First Class Cook in Shining Armor",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "id": 2501,
+    "aliases": [
+      "Sanji",
+      " First Class Cook in Shining Armor"
     ]
   },
   {
@@ -40252,8 +40729,18 @@
       "STR"
     ],
     "class": [
-      "Striker",
-      "Slasher"
+      [
+        "Striker",
+        "Driven"
+      ],
+      [
+        "Slasher",
+        "Cerebral"
+      ],
+      [
+        "Striker",
+        "Slasher"
+      ]
     ],
     "id": 2504,
     "aliases": [
@@ -40280,8 +40767,79 @@
     ],
     "id": 2505,
     "aliases": [
+      "Mega Lucci",
+      "Super Lucci",
+      "Mega Rob Lucci",
+      "Super Rob Lucci",
       "Lucci",
       " Beastman - Absolute Prevention of Evil"
+    ]
+  },
+  {
+    "name": "Admiral Sengoku and Vice Admiral Garp",
+    "type": [
+      "INT",
+      "DEX"
+    ],
+    "class": [
+      [
+        "Fighter",
+        "Cerebral"
+      ],
+      [
+        "Fighter",
+        "Free Spirit"
+      ],
+      [
+        "Fighter",
+        "Cerebral"
+      ]
+    ],
+    "id": 2506,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "Admiral Sengoku and Vice Admiral Garp"
+    ]
+  },
+  {
+    "name": "Admiral Sengoku and Vice Admiral Garp, Dawn of the Great Era of Piracy",
+    "type": [
+      "INT",
+      "DEX"
+    ],
+    "class": [
+      [
+        "Fighter",
+        "Cerebral"
+      ],
+      [
+        "Fighter",
+        "Free Spirit"
+      ],
+      [
+        "Fighter",
+        "Cerebral"
+      ]
+    ],
+    "id": 2507,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "Admiral Sengoku and Vice Admiral Garp",
+      " Dawn of the Great Era of Piracy"
     ]
   },
   {
@@ -41010,6 +41568,186 @@
       "DazCrocodile",
       "[Dual Unit] Crocodile & Daz",
       " Revived Duo"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5028,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Vice Admiral Garp",
+    "type": [
+      "Type"
+    ],
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "id": 5029,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Vice Admiral Garp"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku and Vice Admiral Garp",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5030,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku and Vice Admiral Garp"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku and Vice Admiral Garp",
+    "type": [
+      "Type"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5031,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku and Vice Admiral Garp"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku, Dawn of the Great Era of Piracy",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5032,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku",
+      " Dawn of the Great Era of Piracy"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Vice Admiral Garp, Dawn of the Great Era of Piracy",
+    "type": [
+      "Type"
+    ],
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "id": 5033,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Vice Admiral Garp",
+      " Dawn of the Great Era of Piracy"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku and Vice Admiral Garp, Dawn of the Great Era of Piracy",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5034,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku and Vice Admiral Garp",
+      " Dawn of the Great Era of Piracy"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral Sengoku and Vice Admiral Garp, Dawn of the Great Era of Piracy",
+    "type": [
+      "Type"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5035,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral Sengoku and Vice Admiral Garp",
+      " Dawn of the Great Era of Piracy"
     ]
   }
 ]

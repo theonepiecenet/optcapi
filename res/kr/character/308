@@ -1,83 +1,83 @@
 {
-  "name": "트라팔가 로 ROOM",
-  "detail": {
-    "special": "[DEX] 이외의 슬롯을 [DEX], [RCV],[TND] 으로 변환한다.",
-    "specialName": "ROOM - 샘블즈",
-    "captain": "DEX 캐릭터의 공격력이 2.5배가 된다.",
-    "sailor": {
-      "base": "None",
-      "level1": "Makes [RCV] orbs “beneficial” for [DEX] characters",
-      "level2": "Makes [TND] orbs “beneficial” for [DEX] characters"
-    },
-    "sailorNotes": "#{beneficial}",
-    "limit": [
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "잠재능력 습득 1: 긴급 회복"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "선원 효과 추가 1: Makes [RCV] orbs “beneficial” for [DEX] characters"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "공격력 상승 : 80"
-      },
-      {
-        "description": "선원 효과 추가 2: Makes [TND] orbs “beneficial” for [DEX] characters"
-      },
-      {
-        "description": "잠재능력 습득 2: 크리티컬 공격"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다",
-          "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다",
-          "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다",
-          "Level 5: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다"
+    "name": "트라팔가 로, ROOM",
+    "detail": {
+        "special": "[DEX] 이외의 슬롯을 [DEX][RCV][TND]으로 변환한다",
+        "specialName": "ROOM 샘블즈",
+        "captain": "[DEX] 캐릭터의 공격력을 2.5배로 만든다",
+        "sailor": {
+            "base": "None",
+            "level1": "Makes [RCV] orbs “beneficial” for [DEX] characters",
+            "level2": "Makes [TND] orbs “beneficial” for [DEX] characters"
+        },
+        "sailorNotes": "#{beneficial}",
+        "limit": [
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "잠재능력 습득 1: 긴급 회복"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "선원 효과 추가 1: Makes [RCV] orbs “beneficial” for [DEX] characters"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "공격력 상승 : 80"
+            },
+            {
+                "description": "선원 효과 추가 2: Makes [TND] orbs “beneficial” for [DEX] characters"
+            },
+            {
+                "description": "잠재능력 습득 2: 크리티컬 공격"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "긴급 회복",
+                "description": [
+                    "Level 1: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+                    "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다",
+                    "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다",
+                    "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다",
+                    "Level 5: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x??배의 체력을 회복한다"
+                ]
+            },
+            {
+                "Name": "크리티컬 공격",
+                "description": [
+                    "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+                    "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+                    "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+                    "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+                    "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
-        ]
-      }
-    ]
-  }
+    }
 }

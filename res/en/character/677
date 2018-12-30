@@ -79,6 +79,18 @@
           "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Luffy and Ivankov",
+        "description": [
+          "Level 1: Reduces damage received from [STR] characters by 1%. Adds 2% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Reduces damage received from [STR] characters by 2%. Adds 3% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Reduces damage received from [STR] characters by 3%. Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Reduces damage received from [STR] characters by 4%. Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Reduces damage received from [STR] characters by 5%. Adds 10% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
     ]
   },
   "aliases": [

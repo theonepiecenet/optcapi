@@ -3,7 +3,19 @@
   "detail": {
     "special": "Recovers 5x character's RCV in HP at the end of each turn for 4 turns",
     "specialName": "Studying Medicine",
-    "captain": "Boosts ATK, HP and RCV of [PSY] characters by 1.5x"
+    "captain": "Boosts ATK, HP and RCV of [PSY] characters by 1.5x",
+    "support": [
+      {
+        "Characters": "Usopp",
+        "description": [
+          "Level 1: Adds 6% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Adds 9% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Adds 12% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Adds 15% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "カヤ シロップ村のお嬢様",

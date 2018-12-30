@@ -4,6 +4,38 @@
     "captain": "Boosts ATK of Cerebral characters by 1.5x",
     "special": "If your crew has 4 or more characters with [STR], [QCK] or [INT] orbs, boosts the Color Affinity of Fighter and Cerebral characters by 1.75x for 1 turn",
     "specialName": "A Cute Christmas Gift",
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "Slot Bind Self-reduction",
@@ -18,7 +50,7 @@
     ]
   },
   "aliases": [
-    "",
+    "ニコ・ロビン クリスマス・サプライズ",
     "",
     "Limited Robin",
     "Secret Robin"
@@ -32,12 +64,12 @@
     "stars": 5,
     "cost": 20,
     "combo": 4,
-    "slots": null,
+    "slots": 4,
     "level": 99,
     "exp": 2000000,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 2191,
+    "maxATK": 1252,
+    "maxRCV": 309
   },
   "cooldown": [
     12,

@@ -1,169 +1,169 @@
 {
-  "name": "Sir 크로커다일, The Pirate that Controls Drought",
-  "detail": {
-    "captain": {
-      "base": "Boosts ATK of all characters by 2x. If this character becomes your captain in the middle of an island, boosts ATK of all characters by 2.5x instead",
-      "level1": "Not Translated",
-      "level2": "Not Translated",
-      "level3": "Not Translated",
-      "level4": "Not Translated",
-      "level5": "Not Translated",
-      "level6": "Boosts ATK of all characters by 2.5x and makes [STR], [DEX] and [INT] orbs “beneficial” to all characters. If this character becomes your captain in the middle of an island, boosts ATK of all characters by 4x instead"
-    },
-    "captainNotes": "#{beneficial}",
-    "special": "Deals 30x character's ATK in [INT] damage to one enemy, boosts own ATK by 2x and swaps this unit with your captain for 1 turn",
-    "specialNotes": "This is the same type of ability as raid boss Shiki's swap. You cannot use it if another effect swaps your captain. (Such as if Shiki swaps first)",
-    "specialName": "Scorpion Tail",
-    "sailor": {
-      "base": "None",
-      "level1": "Makes [PSY] orbs “beneficial” for this character",
-      "level2": "Makes [TND] orbs “beneficial” for this character"
-    },
-    "sailorNotes": "#{beneficial}",
-    "limit": [
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” for this character"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "필살기 턴 수 단축: 2"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "필살기 턴 수 단축: 3"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "필살기 턴 수 단축: 4"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "체력 상승 : 70"
-      },
-      {
-        "description": "선원 효과 추가 2: Makes [TND] orbs “beneficial” for this character"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "필살기 턴 수 단축: 5"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "잠재능력 습득 2: 크리티컬 공격"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"
-        ]
-      }
-    ],
-    "potentialNotes": "#{enrage}"
-  }
+    "name": "Sir 크로커다일, 건기를 지배하는 해적",
+    "detail": {
+        "captain": {
+            "base": "Boosts ATK of all characters by 2x. If this character becomes your captain in the middle of an island, boosts ATK of all characters by 2.5x instead",
+            "level1": "Not Translated",
+            "level2": "Not Translated",
+            "level3": "Not Translated",
+            "level4": "Not Translated",
+            "level5": "Not Translated",
+            "level6": "일당의 공격력을 2.5배로 만들고, 일당은 [STR][DEX][INT] 슬롯도 [유리] 슬롯으로 취급하며, 모험 도중 선장이 되었을 때는 일당의 공격력이 4배가 된다"
+        },
+        "captainNotes": "#{beneficial}",
+        "special": "적 1명에게 [INT] 큰 데미지를 주고, 1턴 동안 자신의 공격력이 2배가 되며, 자신이 선원일 때는 1턴 동안 자신과 선장의 위치를 바꾼다",
+        "specialNotes": "This is the same type of ability as raid boss Shiki's swap. You cannot use it if another effect swaps your captain. (Such as if Shiki swaps first)",
+        "specialName": "스콜피온 테일",
+        "sailor": {
+            "base": "None",
+            "level1": "자신은 [PSY] 슬롯도 [유리] 슬롯으로 취급한다",
+            "level2": "자신은 [TND] 슬롯도 [유리] 슬롯으로 취급한다"
+        },
+        "sailorNotes": "#{beneficial}",
+        "limit": [
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” for this character"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "필살기 턴 수 단축: 2"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "필살기 턴 수 단축: 3"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "필살기 턴 수 단축: 4"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "체력 상승 : 70"
+            },
+            {
+                "description": "선원 효과 추가 2: Makes [TND] orbs “beneficial” for this character"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "필살기 턴 수 단축: 5"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "잠재능력 습득 2: 크리티컬 공격"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "피격 시 공격력 상승",
+                "description": [
+                    "Level 1: 공격력 상승 : 50",
+                    "Level 2: 공격력 상승 : 75",
+                    "Level 3: 공격력 상승 : 100",
+                    "Level 4: 공격력 상승 : 150",
+                    "Level 5: 공격력 상승 : 200"
+                ]
+            },
+            {
+                "Name": "크리티컬 공격",
+                "description": [
+                    "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+                    "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+                    "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+                    "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다",
+                    "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}"
+    }
 }

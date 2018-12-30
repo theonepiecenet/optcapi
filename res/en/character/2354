@@ -7,50 +7,108 @@
         "description": "Poisons all enemies, reduces enemy's Threshold Damage Reduction and Percent Damage Reduction duration by 1 turn and boosts ATK against Poisoned enemies by 1.5x for 1 turn",
         "cooldown": [
           23,
-          null
+          9
         ]
       },
       {
         "description": "Strongly Poisons one enemy, Poisons all other enemies, reduces the defense of all enemies by 100% for 1 turn, reduces enemy's Threshold Damage Reduction and Percent Damage Reduction duration by 2 turns and boosts ATK against Poisoned and Strongly Poisoned enemies by 1.75x for 1 turn",
         "cooldown": [
           27,
-          null
+          13
         ]
       }
     ],
     "specialNotes": "Strong Poison deals 300x character's ATK in fixed damage at the end of each turn. Regular Poison deals .5x character's ATK in fixed damage at the end of each turn.",
     "specialName": "Chloro Ball",
     "sailor": {
-      "base": "None",
-      "level1": "Reduces Silence duration on this character by 3 turns",
-      "level2": "Completely resists Paralysis on this character"
+      "base": "Reduces Silence duration on this character by 3 turns",
+      "level1": "Completely resists Paralysis on this character"
     },
     "sailorNotes": "#{silence}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base HP by 35"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Completely resists Paralysis on this character"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
     "potential": [
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
         "Name": "Barrier Penetration",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 75% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Hannyabal, Sadie and Saldeath",
+        "description": [
+          "Level 1: Adds 4% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 2: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 3: Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 4: Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 5: Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "監獄署長マゼラン “ドクドクの実”の能力者",
     "",
     "Coliseum Magellan"
   ],
@@ -63,17 +121,26 @@
     "stars": 5,
     "cost": 40,
     "combo": 4,
-    "slots": null,
+    "slots": 4,
     "level": 99,
     "exp": 4000000,
     "maxHP": 2568,
     "maxATK": 1410,
     "maxRCV": 302
   },
-  "cooldown": null,
+  "cooldown": [
+    27,
+    13
+  ],
   "evolve": {
     "evolution": 2354,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      96,
+      1180,
+      301,
+      101
+    ],
     "from": 2353
   },
   "image": {
