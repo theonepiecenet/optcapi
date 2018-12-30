@@ -7,7 +7,7 @@
     "sailor": "Boosts base ATK, HP and RCV of all characters by 30"
   },
   "aliases": [
-    "",
+    "ポートガス・D・エース “大罪”の血筋",
     "",
     "LINE Ace",
     "World Clash Ace"
@@ -20,13 +20,13 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 4,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null
+    "maxHP": 1202,
+    "maxATK": 554,
+    "maxRCV": 170
   },
   "cooldown": [
     10,
@@ -34,7 +34,13 @@
   ],
   "evolution": {
     "evolution": 2407,
-    "evolvers": []
+    "evolvers": [
+      118,
+      87,
+      92,
+      98,
+      103
+    ]
   },
   "evolve": [],
   "image": {
