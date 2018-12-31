@@ -13,7 +13,7 @@
     "sailorNotes": "#{beneficial}",
     "limit": [
       {
-        "description": "Boosts base ATK by 10"
+        "description": "Boosts base ATK by 20"
       },
       {
         "description": "Boosts base RCV by 10"
@@ -77,6 +77,18 @@
           "Level 3: Reduces Slot Bind duration by 3 turns on this character",
           "Level 4: Reduces Slot Bind duration by 5 turns on this character",
           "Level 5: Reduces Slot Bind duration by 7 turns on this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "[INT] Characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 2: Adds 1% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 3: Adds 2% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 4: Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 5: Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV"
         ]
       }
     ]

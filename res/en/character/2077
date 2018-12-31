@@ -2,7 +2,7 @@
   "name": "Carrot, Sweet Forest Rabbit",
   "detail": {
     "captain": "Boosts ATK of Fighter characters by 2x",
-    "special": "Reduces Paralysis and Despair duration by 4 turns, delays all enemies for 1 turn, changes [STR], [DEX], [QCK], [INT] and [PSY] orbs into [PSY] orbs and boosts ATK against enemies with reduced defense by 1.75x for ? turns",
+    "special": "Reduces Paralysis and Despair duration by 4 turns, delays all enemies for 1 turn, changes [STR], [DEX], [QCK], [INT] and [PSY] orbs into [PSY] orbs and boosts ATK against enemies with reduced defense by 1.75x for 1 turn",
     "specialName": "Eleclaw",
     "sailor": "Completely resists Paralysis on this character"
   },
@@ -48,7 +48,8 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
   "manual": []

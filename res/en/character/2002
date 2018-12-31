@@ -3,7 +3,7 @@
   "detail": {
     "captain": "Increases damage received by 1.2x. Reduces cooldown of all specials by 2 turns at the start of the fight and boosts ATK of all characters by 2.5x.",
     "special": "Reduces Bind, Despair and Paralysis duration by 3 turns and deals several times character's ATK in Typeless damage to all enemies",
-    "specialNotes": "#{specialProportional : lower : ??? * ( 1 - (remaining HP) / (total HP) )}",
+    "specialNotes": "#{specialProportional : lower : ? * ( 1 - (remaining HP) / (total HP) )}",
     "specialName": "The Man Standing Tall"
   },
   "aliases": [
@@ -67,5 +67,14 @@
       ]
     }
   ],
-  "manual": []
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Forces of Rage - Amande and Bobbin Fortnight",
+      "thumb": 2327,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

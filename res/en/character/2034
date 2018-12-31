@@ -18,8 +18,137 @@
         ]
       }
     ],
-    "specialNotes": "#{randomHits : 20}<br>#{random : ??? : ??? : for each hit on Stage 1}<br>#{random : ??? : ??? : for each hit on Stage 2}<br>#{stages}",
-    "specialName": "Yasakani no Magatama: Divine Light"
+    "specialNotes": "#{randomHits : 20}<br>#{random : ? : ? : for each hit on Stage 1}<br>#{random : ? : ? : for each hit on Stage 2}<br>#{stages}",
+    "specialName": "Yasakani no Magatama: Divine Light",
+    "sailor": {
+      "base": "None",
+      "level1": "Completely resists Paralysis on this character",
+      "level2": "Makes [PSY] orbs \"beneficial\" for Shooter and Slasher characters"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 5"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Completely resists Paralysis on this character"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 35"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [PSY] orbs \"beneficial\" for Shooter and Slasher characters"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Potential 3: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by ?%",
+          "Level 2: Reduce damage taken from [INT] characters by ?%",
+          "Level 3: Reduce damage taken from [INT] characters by ?%",
+          "Level 4: Reduce damage taken from [INT] characters by ?%",
+          "Level 5: Reduce damage taken from [INT] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turns",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ボルサリーノ 海軍本部最高戦力",

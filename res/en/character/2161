@@ -124,8 +124,18 @@
   "flags": {
     "rr": 1,
     "rro": 1,
-    "lrr": 1
+    "lrr": 1,
+    "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Mother Caramel Fortnight",
+      "thumb": 2377,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

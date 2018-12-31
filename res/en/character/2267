@@ -5,7 +5,7 @@
     "special": "Reduces Bind and Despair duration by 3 turns, locks all orbs for 1 turn, changes right column orbs, from top to bottom, into [RCV], [INT] and [QCK] orbs. If your friend Captain's orb is [DEX], amplifies the effect of orbs for all characters by 1.75x for 3 turns.",
     "specialName": "The Fishman Preparing to Strike Back",
     "sailor": {
-      "base": "Adds 2x character's ATK as Additional Typeless Damage",
+      "base": "Adds 2x character's ATK as Additional Damage",
       "level1": "Makes [QCK] and [DEX] orbs \"beneficial\" for this character"
     },
     "sailorNotes": "#{additionalDamage : 2x}<br>#{beneficial}",

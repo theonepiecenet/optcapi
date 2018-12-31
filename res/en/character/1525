@@ -4,7 +4,82 @@
     "captain": "Boosts ATK of Slasher characters by 3.25x, reduces his own ATK multiplier by 0.0625x at the end of each turn until it is 2x",
     "special": "Deals 3 hits of random typeless damage to random enemies, delays all enemies for 1 turn, boosts ATK against delayed enemies by 1.3x for 2 turns",
     "specialNotes": "#{randomHits : 3}<br>#{random : 50,000 : 150,000 : per hit}",
-    "specialName": "Sorrowful Execution"
+    "specialName": "Sorrowful Execution",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK of Slasher and Cerebral characters by 50",
+      "level2": "Makes [QCK] orbs \"beneficial\" for Slasher characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 75"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 55"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of Slasher and Cerebral characters by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 75"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [QCK] orbs \"beneficial\" for Slasher characters"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[STR] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [STR] characters by 1%",
+          "Level 2: Reduce damage taken from [STR] characters by ?%",
+          "Level 3: Reduce damage taken from [STR] characters by ?%",
+          "Level 4: Reduce damage taken from [STR] characters by ?%",
+          "Level 5: Reduce damage taken from [STR] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ]
   },
   "aliases": [
     "首はねスレイマン ディアス海戦Ａ級戦犯",

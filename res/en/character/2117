@@ -21,7 +21,7 @@
     "specialName": "Slow Ballad",
     "sailor": {
       "base": "Makes [PSY] orbs \"beneficial\" for this character",
-      "level1": "Adds 2x character's ATK as Additional Typeless Damage"
+      "level1": "Adds 2x character's ATK as Additional Damage"
     },
     "sailorNotes": "#{beneficial} <br> #{additionalDamage : 2x}",
     "limit": [
@@ -62,7 +62,7 @@
         "description": "Boosts base ATK by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Adds 2x character's ATK as Additional Typeless Damage"
+        "description": "Acquire Sailor Ability 1: Adds 2x character's ATK as Additional Damage"
       },
       {
         "description": "Reduce base Special Cooldown by 1 turn"
@@ -141,5 +141,23 @@
     "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Forces of Rage - Amande and Bobbin Fortnight",
+      "thumb": 2327,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! Charlotte Family",
+      "thumb": 2113,
+      "data": [
+        "Expert",
+        "Ultimate"
+      ]
+    }
+  ]
 }

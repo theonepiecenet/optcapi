@@ -1,8 +1,8 @@
 {
   "name": "Nefertari Vivi, Vivi's Adventure",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit characters proportionally to the crew's current HP, by ?x at max and recovers ?x character's RCV in HP at the end of each turn",
-    "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : 3.25 : ?}",
+    "captain": "Boosts ATK of Free Spirit characters proportionally to the crew's current HP, by 2.5x at max and recovers 1.25x character's RCV in HP at the end of each turn",
+    "captainNotes": "#{captainProportional : higher : 1 + 1.5 * ((remaining HP) / (total HP)) : 2.5 : 1}",
     "special": "Reduces Special Cooldown of all characters by 1 turn and changes [BLOCK] and adjacent orbs into [RCV] orbs. If during that turn, you hit 2 PERFECTS, locks the chain multiplier at 3x for 3 turns.",
     "specialName": "The Mark of Friendship",
     "sailor": "Reduces Silence duration by 1 turn",

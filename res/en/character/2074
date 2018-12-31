@@ -134,6 +134,18 @@
           "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "All Characters",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 8% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 9% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
     ]
   },
   "aliases": [
@@ -168,6 +180,16 @@
     19,
     14
   ],
+  "evolution": {
+    "evolution": 2363,
+    "evolvers": [
+      "skullQCK",
+      "skullSTR",
+      95,
+      300,
+      267
+    ]
+  },
   "evolve": {
     "evolution": 2074,
     "evolvers": [
@@ -185,13 +207,14 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
   "manual": [
     {
       "type": "Fortnight",
-      "name": "Buggy's Festival Fortnight",
+      "name": "The Genius Jester! Buggy's Festival! Fortnight",
       "thumb": 2277,
       "data": [
         "All Difficulties"

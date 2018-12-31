@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts RCV of Cerebral characters by 1.2x and boosts ATK of Cerebral characters by 2.75x if they have a matching orb, by 1.75x otherwise",
     "special": "Reduces Bind duration by 2 turns and amplifies the effect of orbs for Cerebral characters by 1.5x and boosts ATK of Cerebral characters by 1.5x for 1 turn.",
-    "specialName": "The Witch's Meal"
+    "specialName": "The Witch's Meal",
+    "support": [
+      {
+        "Characters": "Cerebral Characters",
+        "description": [
+          "Level 1: Adds 2% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Adds 3% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Adds 6% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "シャーロット・ブリュレ ブリュレ一派",
@@ -39,6 +51,14 @@
     "global": 1
   },
   "drop": [
+    {
+      "type": "Story Island",
+      "name": "Chocolat Town to The Seducing Woods",
+      "thumb": 2321,
+      "data": [
+        "07"
+      ]
+    },
     {
       "type": "Fortnight",
       "name": "Brûlée's Cauldron Party Fortnight",

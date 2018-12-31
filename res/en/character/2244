@@ -77,6 +77,18 @@
           "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Katakuri, Oven, Brulee and Smoothie",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP"
+        ]
+      }
     ]
   },
   "aliases": [
@@ -124,5 +136,14 @@
     "rro": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Mother Caramel Fortnight",
+      "thumb": 2377,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

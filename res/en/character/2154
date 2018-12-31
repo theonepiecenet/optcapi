@@ -6,7 +6,7 @@
     "specialName": "Legs Benedict",
     "specialNotes": "#{ignoreBarrier}",
     "sailor": {
-      "base": "When HP is above 50% at the start of the turn, boosts ATK of Fighter characters by 125",
+      "base": "When HP is above 50% at the start of the turn, boosts ATK of Fighter characters by 120",
       "level1": "Makes [DEX] orbs \"beneficial\" for Fighter characters"
     },
     "limit": [
@@ -122,7 +122,8 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
   "manual": []

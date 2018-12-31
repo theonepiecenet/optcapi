@@ -2,7 +2,7 @@
   "name": "Vinsmoke Reiju, Celebrate the Long Cruise",
   "detail": {
     "captain": "Boosts ATK of [DEX] and [QCK] characters by 2.25x",
-    "special": "Removes Poison, changes left column [STR], [DEX], [QCK], [PSY], or [INT] orbs into Matching orbs and amplifies the effect of orbs on [DEX], [QCK] and [PSY] characters by 1.75x for 1 turn",
+    "special": "Removes Poison duration completely, changes left column [STR], [DEX], [QCK], [PSY], or [INT] orbs into Matching orbs and amplifies the effect of orbs on [DEX], [QCK] and [PSY] characters by 1.75x for 1 turn",
     "specialName": "Celebration at the Flower Garden"
   },
   "aliases": [
@@ -48,7 +48,8 @@
   "flags": {
     "rr": 1,
     "rro": 1,
-    "lrr": 1
+    "lrr": 1,
+    "global": 1
   },
   "drop": [],
   "manual": []

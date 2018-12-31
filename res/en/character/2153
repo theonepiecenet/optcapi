@@ -5,7 +5,7 @@
     "special": "Deals 75x character's ATK in [DEX] damage to one enemy that will ignore damage negating abilities and barriers. If your Captain is a Fighter character, changes all orbs, including [BLOCK] orbs, on Fighter characters into Matching orbs",
     "specialName": "Legs Benedict",
     "specialNotes": "#{ignoreBarrier}",
-    "sailor": "When HP is above 50% at the start of the turn, boosts ATK of Fighter characters by 125"
+    "sailor": "When HP is above 50% at the start of the turn, boosts ATK of Fighter characters by 120"
   },
   "aliases": [
     "タマゴ男爵 紳士的な騎士",
@@ -49,7 +49,8 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
   "manual": []

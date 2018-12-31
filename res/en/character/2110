@@ -12,7 +12,10 @@
     "",
     "Coliseum Kid",
     "Timeskip Captain Kid",
-    "Timeskip Kid"
+    "Timeskip Kid",
+    "Coliseum Kidd",
+    "Timeskip Captain Kidd",
+    "Timeskip Kidd"
   ],
   "unit": {
     "type": "DEX",
@@ -48,6 +51,9 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2110.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2110.png"
+  },
+  "flags": {
+    "global": 1
   },
   "drop": [
     {

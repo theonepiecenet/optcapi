@@ -1,18 +1,18 @@
 {
-  "name": "Red Hair Shanks, Toast to a New Era",
+  "name": "Red Hair Shanks, A Toast to a New Era",
   "detail": {
     "captain": {
-      "base": "Boosts ATK of Cerebral and Free Spirit characters by 1.5x if HP is above 99%, by 2x otherwise, recovers 1.5x character's RCV in HP at the end of each turn and boosts chances of getting Matching orbs for Cerebral and Free Spirit Characters",
+      "base": "Boosts ATK of Free Spirit and Cerebral characters by 2x if HP is above 99%, by 1.5x otherwise, recovers 1.5x character's RCV in HP at the end of each turn and boosts chances of getting Matching orbs for Free Spirit and Cerebral Characters",
       "level1": "Not Translated",
       "level2": "Not Translated",
       "level3": "Not Translated",
       "level4": "Not Translated",
       "level5": "Not Translated",
-      "level6": "Boosts ATK of Cerebral and Free Spirit characters by 3x if HP is above 99%, by 2.5x otherwise, recovers 1.75x character's RCV in HP at the end of each turn and boosts chances of getting Matching orbs for Cerebral and Free Spirit Characters"
+      "level6": "Boosts ATK of Free Spirit and Cerebral characters by 3x if HP is above 99%, by 2.5x otherwise, recovers 1.75x character's RCV in HP at the end of each turn and boosts chances of getting Matching orbs for Free Spirit and Cerebral Characters"
     },
-    "special": "Reduces enemy Barrier duration by 1 turn, reduces Burn duration by 1 turn, boosts chances of getting matching orbs for 1 turn, randomizes all non-matching orbs, including [BLOCK] orbs, Adds 60x character's ATK as Additional Typeless Damage for 1 turn.",
-    "specialName": "Great Pirate's Magesty",
-    "specialNotes": "#{additionalDamage : 55x}",
+    "special": "Reduces enemy Barrier duration by 1 turn, reduces Burn duration by 1 turn, boosts chances of getting matching orbs for 1 turn, randomizes all non-matching orbs, including [BLOCK] orbs and adds 60x character's ATK as Additional Typeless Damage for 1 turn.",
+    "specialName": "Great Pirate's Majesty",
+    "specialNotes": "#{additionalDamage : 60x}",
     "sailor": {
       "base": "None",
       "level1": "Makes [DEX] orbs \"beneficial\" for all characters",
@@ -135,7 +135,7 @@
         "description": "Boosts base ATK by 50"
       },
       {
-        "description": "Acquire new Captain Ability: "
+        "description": "Acquire new Captain Ability: Boosts ATK of Free Spirit and Cerebral characters by 3x if HP is above 99%, by 2.5x otherwise, recovers 1.75x character's RCV in HP at the end of each turn and boosts chances of getting Matching orbs for Free Spirit and Cerebral Characters"
       },
       {
         "description": "Acquire Potential 2: Double Special Activation"

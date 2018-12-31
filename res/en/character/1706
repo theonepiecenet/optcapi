@@ -78,7 +78,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Luffy",
+        "description": [
+          "Level 1: Reduces damage received from [DEX] characters by 1%. Adds 5% of this character's base HP to the supported character's base HP",
+          "Level 2: Reduces damage received from [DEX] characters by 2%. Adds 7% of this character's base HP to the supported character's base HP",
+          "Level 3: Reduces damage received from [DEX] characters by 3%. Adds 10% of this character's base HP to the supported character's base HP",
+          "Level 4: Reduces damage received from [DEX] characters by 4%. Adds 12% of this character's base HP to the supported character's base HP",
+          "Level 5: Reduces damage received from [DEX] characters by 5%. Adds 15% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "Mr.2　ボン・クレー “地獄”の友達（ダチ）",

@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Fighter characters by 2.25x",
     "special": "Reduces Special Cooldown of your top row by 2 turns, boosts ATK of Fighter characters by 1.5x for 1 turn",
-    "specialName": "Rabbit Mink's Air Step"
+    "specialName": "Rabbit Mink's Air Step",
+    "support": [
+      {
+        "Characters": "Fighter Characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "王の鳥　キャロット モコモ公国",

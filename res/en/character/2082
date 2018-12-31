@@ -77,6 +77,18 @@
           "Level 5: If you hit a PERFECT with this character, there is a 70% chance to deal 8% of this character's attack in extra damage"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Carrot, Wanda, Sicilian and Brook",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
     ]
   },
   "aliases": [
@@ -121,13 +133,14 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
   "manual": [
     {
       "type": "Fortnight",
-      "name": "Pound and King Baum Fortnight",
+      "name": "Lets Play! The Seducing Woods Fortnight",
       "thumb": 2253,
       "data": [
         "All Difficulties"

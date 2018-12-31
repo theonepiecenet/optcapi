@@ -76,6 +76,18 @@
           "Level 5: If you hit a PERFECT with this character, there is a 40% chance to deal 7% of this character's attack in extra damage"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Slasher Characters",
+        "description": [
+          "Level 1: Adds 3% of this character's base HP to the supported character's base HP",
+          "Level 2: Adds 4% of this character's base HP to the supported character's base HP",
+          "Level 3: Adds 5% of this character's base HP to the supported character's base HP",
+          "Level 4: Adds 6% of this character's base HP to the supported character's base HP",
+          "Level 5: Adds 9% of this character's base HP to the supported character's base HP"
+        ]
+      }
     ]
   },
   "aliases": [
@@ -101,7 +113,7 @@
   },
   "cooldown": [
     17,
-    10
+    11
   ],
   "evolve": {
     "evolution": 1989,
@@ -127,7 +139,7 @@
   "manual": [
     {
       "type": "Fortnight",
-      "name": "Coliseum Executioner! Diamante Fortnight",
+      "name": "Coliseum Executioner! Fortnight",
       "thumb": 2146,
       "data": [
         "All Difficulties"

@@ -1,7 +1,7 @@
 {
   "name": "Sanji, Vinsmoke Family's Illegitimate Child",
   "detail": {
-    "captain": "Boosts own ATK by 3x and boosts ATK of all other characters by 2.75x and their HP by 1.3x and makes [TND] orbs \"beneficial\" for all characters <br> <b>Action:</b> Sanji Sky Walks into the air and is unable to attack for 1 turn, preventing all debuffs to himself (Including, but not limited to, Bind, Despair, Silence and Paralysis). This does not remove the his own Captain boost while he is unable to attack. During the next turn, boosts own ATK by 8.25x instead",
+    "captain": "Boosts own ATK by 3x and boosts ATK of all other characters by 2.75x and their HP by 1.3x and makes [TND] orbs \"beneficial\" for all characters <br> <b>Action:</b> Sanji Sky Walks into the air and is unable to attack for 1 turn, preventing all debuffs to himself (Including, but not limited to, Bind, Despair, Silence and Paralysis). This does not remove his own Captain boost while he is unable to attack. During the next turn, boosts own ATK by 8.25x instead",
     "captainNotes": "Sanji Captain Action lasts for 2 turns and can be reactivated after no cooldown. Even while Sky Walking, will still boost all characters by 2.75x. Sky Walk is not a type boost and will stack with other boosts",
     "special": "Deals 100,000 fixed damage to all enemies, changes [BLOCK], adjacent orbs and own orb into Matching orbs and adds .8x to Chain multiplier for 1 turn. If Sanji is your Captain or Friend/Guest Captain, reduces Chain Multiplier Limit and Chain Coefficient Reduction duration by 5 turns",
     "specialName": "Diable Mouton Shot",
@@ -137,7 +137,7 @@
     "potentialNotes": "#{enrage}"
   },
   "aliases": [
-    "サンジ　ヴィスモーク家の隠し子",
+    "サンジ ヴィンスモーク家の隠し子",
     "",
     "6+ Sanji",
     "V1 Sanji",
@@ -168,7 +168,13 @@
   ],
   "evolve": {
     "evolution": 2245,
-    "evolvers": [],
+    "evolvers": [
+      "skullSanji2",
+      "skullSanji2",
+      "skullSanji2",
+      "skullSanji2",
+      "skullSanji2"
+    ],
     "from": 1588
   },
   "image": {

@@ -3,7 +3,81 @@
   "detail": {
     "captain": "Boosts ATK of Driven and Cerebral characters by 3x when HP is 50% or below, 1.5x otherwise",
     "special": "Randomizes all non-matching orbs, including [BLOCK] slots and locks all orbs for 1 turn. If your Captain is a Cerebral or Driven character, increases duration of any Class/Type boosting buffs and Orb Amplification buffs by 2 turns",
-    "specialName": "Athlete"
+    "specialName": "Athlete",
+    "sailor": {
+      "base": "None",
+      "level1": "When HP is below ?% at the start of the turn, boosts own base ATK by 100",
+      "level2": "When any other Cerebral or Driven character uses a special, reduces own cooldown by 1 turn"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: When HP is below ?% at the start of the turn, boosts own base ATK by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 80"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: When any other Cerebral or Driven character uses a special, reduces own cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ドンキホーテ・ドフラミンゴ 世界を滅ぼす異図",

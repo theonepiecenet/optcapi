@@ -133,6 +133,18 @@
           "Level 5: Reduces No Healing duration by 10 turns"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Luffy, Carrot and Chopper",
+        "description": [
+          "Level 1: Adds 6% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 2: Adds 7% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 3: Adds 9% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 4: Adds 11% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 5: Adds 13% of this character's base ATK and RCV to the supported character's base ATK and RCV"
+        ]
+      }
     ]
   },
   "aliases": [
@@ -177,13 +189,14 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
   "manual": [
     {
       "type": "Fortnight",
-      "name": "Buggy's Festival Fortnight",
+      "name": "The Genius Jester! Buggy's Festival! Fortnight",
       "thumb": 2277,
       "data": [
         "All Difficulties"

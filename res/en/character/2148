@@ -2,7 +2,7 @@
   "name": "Vinsmoke Sanji, Germa Kingdom's Savior",
   "detail": {
     "captain": "If there are 6 Fighter characters in your crew, boosts chain multiplier by 4x and boosts ATK of Fighter characters by 1.75x. Lowers chances of getting Matching orbs proportionally to the crew's current HP.",
-    "captainNotes": "At 1 HP, the rate of Matching orbs is ???% (lower) and at full HP, the rate of Matching orbs is ???%",
+    "captainNotes": "At 1 HP, the rate of Matching orbs is ?% (lower) and at full HP, the rate of Matching orbs is ?%",
     "special": "Deals 150x character's ATK in [PSY] damage to one enemy. If HP is above 50% at the time the special is activated, boosts ATK of Fighter characters by 2.25x for 1 turn. If Sanji is your Captain or Friend/Guest Captain, reduces Chain Multiplier Limit and Chain Coefficient Reduction duration by 10 turns",
     "specialName": "Full Course of Hell",
     "sailor": {
@@ -133,6 +133,18 @@
           "Level 5: Reduces No Healing duration by 10 turns"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Luffy, Nami and Reiju",
+        "description": [
+          "Level 1: Adds 8% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 10% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 12% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 15% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 18% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
     ]
   },
   "aliases": [
@@ -178,8 +190,18 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Banquet! The Best Tea Party Ever! Fortnight",
+      "thumb": 2351,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

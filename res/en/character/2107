@@ -1,8 +1,8 @@
 {
-  "name": "The Thief Carina",
+  "name": "Phantom Thief Carina",
   "detail": {
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight and boosts ATK of [PSY] characters by 2.5x and their RCV by 1.2x",
-    "special": "Reduces enemy's Threshold Damage Reduction, Percent Damage Reduction, and Resilience and End of Turn Damage/Percent Cut Buffs duration by 4 turns, changes adjacent orbs and [BLOCK] orbs into Matching orbs, randomizes non-matching orbs and reduces damage received by 70% for 2 turns.",
+    "special": "Reduces enemy's Threshold Damage Reduction, Percent Damage Reduction and Resilience and End of Turn Damage/Percent Cut Buffs duration by 4 turns, changes adjacent orbs and [BLOCK] orbs into Matching orbs, randomizes non-matching orbs and reduces damage received by 70% for 2 turns.",
     "specialName": "The Great Final Act of One's Victory",
     "sailor": {
       "base": "If this character has a [PSY] orb and you hit a GOOD or GREAT with her, keep her [PSY] orb for the next turn",
@@ -95,9 +95,9 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "maxHP": 2317,
-    "maxATK": 1298,
-    "maxRCV": 431
+    "maxHP": 2182,
+    "maxATK": 1258,
+    "maxRCV": 401
   },
   "cooldown": [
     18,
@@ -120,8 +120,18 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Banquet! The Best Tea Party Ever! Fortnight",
+      "thumb": 2351,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

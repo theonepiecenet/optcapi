@@ -4,7 +4,7 @@
     "captain": "Boosts ATK of Slasher, Striker and Shooter characters by 1.5x",
     "special": "Changes the captain's orb into [DEX], amplifies the effect of orbs for Fighter characters by 1.75x for 1 turn",
     "specialName": "Irritation of Love",
-    "sailor": "If your Captain is a Fighter character, adds 1.5x character's ATK as Additional Typeless Damage"
+    "sailor": "If your Captain is a Fighter character, adds 1.5x character's ATK as Additional Damage"
   },
   "aliases": [
     "ベビー５ サイへの片思い",
@@ -46,10 +46,13 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2164.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2164.png"
   },
+  "flags": {
+    "global": 1
+  },
   "drop": [
     {
       "type": "Fortnight",
-      "name": "Baby 5's Journey to Become a Bride Fortnight",
+      "name": "Baby 5's Wedding Plans Fortnight",
       "thumb": 2165,
       "data": [
         "All Difficulties"
