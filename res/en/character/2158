@@ -124,9 +124,13 @@
     "slots": 3,
     "level": 99,
     "exp": 5000000,
+    "minHP": 1167,
+    "minATK": 739,
+    "minRCV": 101,
     "maxHP": 2835,
     "maxATK": 1510,
-    "maxRCV": 210
+    "maxRCV": 210,
+    "ability": 1
   },
   "cooldown": [
     30,

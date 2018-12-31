@@ -13,9 +13,13 @@
     "slots": 0,
     "level": 1,
     "exp": 0,
+    "minHP": 30,
+    "minATK": 500,
+    "minRCV": 0,
     "maxHP": 30,
     "maxATK": 500,
-    "maxRCV": 0
+    "maxRCV": 0,
+    "ability": 1
   },
   "cooldown": null,
   "evolve": [],

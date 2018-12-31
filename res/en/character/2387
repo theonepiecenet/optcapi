@@ -58,9 +58,13 @@
     "slots": 1,
     "level": 99,
     "exp": 5000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
     "maxHP": null,
     "maxATK": null,
-    "maxRCV": null
+    "maxRCV": null,
+    "ability": null
   },
   "cooldown": null,
   "evolve": {
