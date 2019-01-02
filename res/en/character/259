@@ -6,8 +6,8 @@
     "captain": "Boosts ATK and RCV of [STR] characters by 2x",
     "sailor": {
       "base": "None",
-      "level1": "Makes [PSY] orbs \"beneficial\" for this character",
-      "level2": "Makes [INT] orbs \"beneficial\" for this character"
+      "level1": "Makes [PSY] orbs beneficial for this character",
+      "level2": "Makes [INT] orbs beneficial for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -27,7 +27,7 @@
         "description": "Boosts base ATK by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs beneficial for this character"
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
@@ -36,7 +36,7 @@
         "description": "Boosts base RCV by 30"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [INT] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 2: Makes [INT] orbs beneficial for this character"
       },
       {
         "description": "Boosts base ATK by 60"

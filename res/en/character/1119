@@ -6,8 +6,8 @@
     "specialNotes": "#{zombie}",
     "captain": "Boosts ATK of Striker characters by 2x and their RCV by 1.5x",
     "sailor": {
-      "base": "Makes [DEX] orbs \"beneficial\" for this character",
-      "level1": "Makes [QCK] orbs \"beneficial\" for Cerebral characters"
+      "base": "Makes [DEX] orbs beneficial for this character",
+      "level1": "Makes [QCK] orbs beneficial for Cerebral characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -33,7 +33,7 @@
         "description": "Boosts base HP by 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [QCK] orbs \"beneficial\" for Cerebral characters"
+        "description": "Acquire Sailor Ability 1: Makes [QCK] orbs beneficial for Cerebral characters"
       },
       {
         "description": "Boosts base HP by 70"

@@ -6,7 +6,7 @@
     "specialName": "Intelligent Monster",
     "sailor": {
       "base": "Restores his own special cooldown by 2 turns when it is rewinded and reduces Silence duration on this character by 2 turns",
-      "level1": "Makes [RCV] orbs \"beneficial\" for this character"
+      "level1": "Makes [RCV] orbs beneficial for this character"
     },
     "sailorNotes": "#{silence}<br>#{rewind : 2}<br>#{beneficial}",
     "limit": [
@@ -32,7 +32,7 @@
         "description": "Boosts base ATK by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs beneficial for this character"
       },
       {
         "description": "Boosts base HP by 40"

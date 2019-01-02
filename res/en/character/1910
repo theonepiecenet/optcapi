@@ -1,15 +1,15 @@
 {
   "name": "\"Heavenly Demon\" Doflamingo, Ruler of the Bird Cage",
   "detail": {
-    "captain": "If there are 6 Driven characters in your crew, boosts ATK of Driven characters by 3.9x if they have a matching orb, by 3.25x otherwise and their HP by 1.2x. Lowers chances of getting [STR] orbs and makes [DEX] and [QCK] orbs \"beneficial\" for Driven characters",
+    "captain": "If there are 6 Driven characters in your crew, boosts ATK of Driven characters by 3.9x if they have a matching orb, by 3.25x otherwise and their HP by 1.2x. Lowers chances of getting [STR] orbs and makes [DEX] and [QCK] orbs beneficial for Driven characters",
     "captainNotes": "#{beneficial}",
     "special": "Deals 200% of the damage dealt in Overkill Damage in the previous turn as typeless damage to all enemies.",
     "specialNotes": "Overkill Damage is damage dealt over the enemy's current HP with normal attacks that killed them. For example, dealing 2,100,000 damage to an enemy with 1,000,000 HP will count as 1,100,000 Overkill Damage. This stacks for each enemy killed in the previous turn. If the enemy dies by End-Of-Turn damage, your Overkill Damage dealt last turn will be 0.",
     "specialName": "Thousand Arrows: Flap Thread",
     "sailor": {
       "base": "None",
-      "level1": "Makes [QCK] orbs \"beneficial\" for this character",
-      "level2": "Makes [DEX] orbs \"beneficial\" for Driven characters"
+      "level1": "Makes [QCK] orbs beneficial for this character",
+      "level2": "Makes [DEX] orbs beneficial for Driven characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -35,7 +35,7 @@
         "description": "Boosts base RCV by 15"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [QCK] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [QCK] orbs beneficial for this character"
       },
       {
         "description": "Boosts base RCV by 20"
@@ -98,7 +98,7 @@
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [DEX] orbs \"beneficial\" for Driven characters"
+        "description": "Acquire Sailor Ability 2: Makes [DEX] orbs beneficial for Driven characters"
       },
       {
         "description": "Acquire Potential 3: Slot Bind Self-reduction"

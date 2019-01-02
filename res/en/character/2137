@@ -8,7 +8,7 @@
       "level3": "Not Translated",
       "level4": "Not Translated",
       "level5": "Not Translated",
-      "level6": "Boosts ATK of all characters by 2.5x and makes [STR], [DEX] and [INT] orbs \"beneficial\" for all characters. If this character becomes your captain in the middle of an island, boosts ATK of all characters by 4x instead"
+      "level6": "Boosts ATK of all characters by 2.5x and makes [STR], [DEX] and [INT] orbs beneficial for all characters. If this character becomes your captain in the middle of an island, boosts ATK of all characters by 4x instead"
     },
     "captainNotes": "#{beneficial}",
     "special": "Deals 30x character's ATK in [INT] damage to one enemy, boosts own ATK by 2x and swaps this unit with your captain for 1 turn",
@@ -16,8 +16,8 @@
     "specialName": "Scorpion Tail",
     "sailor": {
       "base": "None",
-      "level1": "Makes [PSY] orbs \"beneficial\" for this character",
-      "level2": "Makes [TND] orbs \"beneficial\" for this character"
+      "level1": "Makes [PSY] orbs beneficial for this character",
+      "level2": "Makes [TND] orbs beneficial for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -40,7 +40,7 @@
         "description": "Acquire new Captain Ability: "
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs beneficial for this character"
       },
       {
         "description": "Boosts base RCV by 20"
@@ -109,7 +109,7 @@
         "description": "Boosts base HP by 70"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [TND] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 2: Makes [TND] orbs beneficial for this character"
       },
       {
         "description": "Boosts base ATK by 40"

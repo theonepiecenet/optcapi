@@ -6,8 +6,8 @@
     "specialName": "Mil Fleur: Gigantesco Mano",
     "specialNotes": "The exact multiplier used is chosen based on the number of [BLOCK] orbs consumed: 0 orbs - Unknown; 1 orb - 36x ATK; 2 orbs - 60x ATK; 3 orbs - 105x ATK; 4 orbs - 195x ATK; 5 orbs - 300x ATK; 6 orbs - 450x ATK.",
     "sailor": {
-      "base": "Makes [TND] orbs \"beneficial\" for all characters if your Captain is a Fighter character",
-      "level1": "Makes [DEX] orbs \"beneficial\" for this character"
+      "base": "Makes [TND] orbs beneficial for all characters if your Captain is a Fighter character",
+      "level1": "Makes [DEX] orbs beneficial for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -33,7 +33,7 @@
         "description": "Boosts base HP by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs beneficial for this character"
       },
       {
         "description": "Boosts base HP by 50"

@@ -7,7 +7,7 @@
     "captainNotes": "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}",
     "sailor": {
       "base": "None",
-      "level1": "Makes [INT] orbs \"beneficial\" for [PSY] characters",
+      "level1": "Makes [INT] orbs beneficial for [PSY] characters",
       "level2": "Adds 3x character's ATK as Additional Damage"
     },
     "sailorNotes": "#{beneficial}",
@@ -34,7 +34,7 @@
         "description": "Boosts base HP by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [INT] orbs \"beneficial\" for [PSY] characters"
+        "description": "Acquire Sailor Ability 1: Makes [INT] orbs beneficial for [PSY] characters"
       },
       {
         "description": "Boosts base HP by 35"

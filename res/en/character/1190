@@ -1,14 +1,14 @@
 {
   "name": "Speed Jil, Shield and Lance",
   "detail": {
-    "captain": "Boosts ATK of [QCK] characters by 2.25x, makes [DEX] orbs \"beneficial\" for [QCK] characters",
+    "captain": "Boosts ATK of [QCK] characters by 2.25x, makes [DEX] orbs beneficial for [QCK] characters",
     "captainNotes": "#{beneficial}",
     "special": "Reduces enemy Barrier duration by 1 turn",
     "specialNotes": "Does not affect DEF Boost or % Damage reduction buffs. Reduces timers for Barriers such as PERFECT/Great/Good Barriers, Combo Hit Barriers and Orb Hit Barriers",
     "specialName": "Break Bullet",
     "sailor": {
       "base": "Boosts base ATK of [QCK] characters by 40",
-      "level1": "Makes [DEX] orbs \"beneficial\" for this character"
+      "level1": "Makes [DEX] orbs beneficial for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -31,7 +31,7 @@
         "description": "Boosts base ATK by 15"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs beneficial for this character"
       },
       {
         "description": "Boosts base ATK by 20"

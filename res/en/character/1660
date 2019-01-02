@@ -1,14 +1,14 @@
 {
   "name": "Raizo of the Mist",
   "detail": {
-    "captain": "Boosts ATK of Shooter characters by 2.5x and makes [TND] and [RCV] orbs \"beneficial\" for Shooter characters",
+    "captain": "Boosts ATK of Shooter characters by 2.5x and makes [TND] and [RCV] orbs beneficial for Shooter characters",
     "captainNotes": "#{beneficial}",
     "special": "Reduces Paralysis and Silence duration by 3 turns, switches orbs between slots 3 times",
     "sailorNotes": "#{silence}",
     "specialName": "Ninja Arts - Bunshin no Jutsu",
     "sailor": {
       "base": "Completely resists Silence on this character",
-      "level1": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this character"
+      "level1": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs beneficial for this character"
     },
     "specialNotes": "#{silence}<br>#{beneficial}",
     "limit": [
@@ -46,7 +46,7 @@
         "description": "Boosts base HP by 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs beneficial for this character"
       },
       {
         "description": "Boosts base RCV by 40"

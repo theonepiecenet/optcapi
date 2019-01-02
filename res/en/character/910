@@ -3,11 +3,11 @@
   "detail": {
     "specialName": "Hero of Justice! Chopper Mask!!",
     "special": "Recovers 5,000 HP, boosts ATK of [PSY] characters by 1.5x for 2 turns",
-    "captain": "Boosts ATK of [PSY] characters by 2x, their RCV by 1.5x, makes [INT] orbs \"beneficial\" for [PSY] characters",
+    "captain": "Boosts ATK of [PSY] characters by 2x, their RCV by 1.5x, makes [INT] orbs beneficial for [PSY] characters",
     "captainNotes": "#{beneficial}",
     "sailor": {
       "base": "None",
-      "level1": "Makes [RCV] orbs \"beneficial\" for this character",
+      "level1": "Makes [RCV] orbs beneficial for this character",
       "level2": "Boosts base ATK of characters with cost 30 or less by 300"
     },
     "sailorNotes": "#{beneficial}",
@@ -34,7 +34,7 @@
         "description": "Boosts base HP by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs beneficial for this character"
       },
       {
         "description": "Boosts base ATK by 50"

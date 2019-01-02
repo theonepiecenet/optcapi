@@ -2,13 +2,13 @@
   "name": "\"Red Hair\" Shanks, Captain of the Red Hair Pirates",
   "detail": {
     "captain": "Boosts chances of getting Matching orbs, boosts ATK of Cerebral characters by 2.5x",
-    "special": "Reduces Paralysis duration by 3 turns. For Cerebral and Free Spirit characters, amplifies the effects of orbs by 2x for 1 turn. Makes [RCV] and [TND] orbs \"beneficial\" for Cerebral and Free Spirit characters for 1 turn.",
+    "special": "Reduces Paralysis duration by 3 turns. For Cerebral and Free Spirit characters, amplifies the effects of orbs by 2x for 1 turn. Makes [RCV] and [TND] orbs beneficial for Cerebral and Free Spirit characters for 1 turn.",
     "specialName": "A Decision Made over Sake",
     "specialNotes": "#{orb : 2x}<br>#{beneficial}",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Cerebral and Free Spirit characters by 50",
-      "level2": "Makes [INT] orbs \"beneficial\" for Cerebral characters"
+      "level2": "Makes [INT] orbs beneficial for Cerebral characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -46,7 +46,7 @@
         "description": "Boosts base ATK by 50"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [INT] orbs \"beneficial\" for Cerebral characters"
+        "description": "Acquire Sailor Ability 2: Makes [INT] orbs beneficial for Cerebral characters"
       },
       {
         "description": "Acquire 1 additional Socket slot"

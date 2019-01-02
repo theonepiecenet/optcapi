@@ -6,8 +6,8 @@
     "captain": "Boosts ATK of [PSY] characters by 2x, recovers 3x character's RCV in HP at the end of each turn",
     "sailor": {
       "base": "None",
-      "level1": "Makes [STR] orbs \"beneficial\" for this character",
-      "level2": "Makes [TND] orbs \"beneficial\" for all characters"
+      "level1": "Makes [STR] orbs beneficial for this character",
+      "level2": "Makes [TND] orbs beneficial for all characters"
     },
     "specialNotes": "#{beneficial}",
     "limit": [
@@ -18,7 +18,7 @@
         "description": "Boosts base HP by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [STR] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [STR] orbs beneficial for this character"
       },
       {
         "description": "Acquire Potential 1: [INT] Damage Reduction"
@@ -45,7 +45,7 @@
         "description": "Boosts base HP by 70"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [TND] orbs \"beneficial\" for all characters"
+        "description": "Acquire Sailor Ability 2: Makes [TND] orbs beneficial for all characters"
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"

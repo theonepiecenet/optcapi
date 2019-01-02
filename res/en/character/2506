@@ -2,9 +2,9 @@
   "name": "Admiral Sengoku and Vice Admiral Garp",
   "detail": {
     "captain": {
-      "character1": "Boosts ATK of Fighter Characters by 2.25x and their HP by 1.2x and makes [INT] orbs \"beneficial\" for Fighter characters",
-      "character2": "Boosts ATK of Fighter Characters by 2x and their HP by 1.2x, but boosts his OWN attack by 2.5x and makes [DEX] orbs \"beneficial\" for Fighter characters",
-      "combined": "Boosts ATK of Fighter Characters by 3x and their HP by 1.2x, but boosts his OWN attack by 4x and makes [DEX], [INT], [RCV] and [TND] orbs \"beneficial\" for Fighter characters"
+      "character1": "Boosts ATK of Fighter Characters by 2.25x and their HP by 1.2x and makes [INT] orbs beneficial for Fighter characters",
+      "character2": "Boosts ATK of Fighter Characters by 2x and their HP by 1.2x, but boosts his OWN attack by 2.5x and makes [DEX] orbs beneficial for Fighter characters",
+      "combined": "Boosts ATK of Fighter Characters by 3x and their HP by 1.2x, but boosts his OWN attack by 4x and makes [DEX], [INT], [RCV] and [TND] orbs beneficial for Fighter characters"
     },
     "captainNotes": "#{beneficial}",
     "special": "Removes all positive buffs on your team and reduces Despair duration by 2 turns. Boosts ATK of Fighter characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for Fighter characters for 1 turn and becomes Sengoku & Garp for 3 turns",
@@ -57,8 +57,8 @@
     "minATK": 326,
     "minRCV": 123,
     "maxHP": 1546,
-    "maxATK": 257,
-    "maxRCV": 906,
+    "maxATK": 906,
+    "maxRCV": 257,
     "ability": null
   },
   "cooldown": [

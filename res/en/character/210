@@ -6,7 +6,7 @@
     "captain": "Boosts RCV of [INT] characters by 2x",
     "sailor": {
       "base": "None",
-      "level1": "Makes [PSY] orbs \"beneficial\" for this character",
+      "level1": "Makes [PSY] orbs beneficial for this character",
       "level2": "When HP is below ?% at the start of the turn, boosts own base ATK by 250"
     },
     "sailorNotes": "#{beneficial}",
@@ -33,7 +33,7 @@
         "description": "Boosts base HP by 60"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs beneficial for this character"
       },
       {
         "description": "Boosts base ATK by 35"

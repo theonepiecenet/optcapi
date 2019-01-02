@@ -6,7 +6,7 @@
     "captain": "Boosts ATK of all characters by 2.75x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good",
     "sailor": {
       "base": "None",
-      "level1": "Makes [STR], [DEX] and [RCV] orbs \"beneficial\" for this character",
+      "level1": "Makes [STR], [DEX] and [RCV] orbs beneficial for this character",
       "level2": "When any other character uses a special, reduces own cooldown by 1 turn"
     },
     "sailorNotes": "#{beneficial}",
@@ -33,7 +33,7 @@
         "description": "Boosts base ATK by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [STR], [DEX] and [RCV] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [STR], [DEX] and [RCV] orbs beneficial for this character"
       },
       {
         "description": "Boosts base ATK by 40"

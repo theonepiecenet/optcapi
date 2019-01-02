@@ -2,20 +2,20 @@
   "name": "Trafalgar Law, The Man Taking Responsibility for the \"Heart\"",
   "detail": {
     "captain": {
-      "base": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.2x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters.",
-      "level1": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.3x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters.",
-      "level2": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.4x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters.",
-      "level3": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.5x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters.",
-      "level4": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.6x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters.",
-      "level5": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.7x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters.",
-      "level6": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.8x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters."
+      "base": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.2x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
+      "level1": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.3x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
+      "level2": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.4x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
+      "level3": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.5x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
+      "level4": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.6x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
+      "level5": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.7x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
+      "level6": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.8x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
     },
     "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 3.24x bonus",
     "special": "Deals 30x character's ATK in [STR] damage to one enemy, reduces Bind and Despair duration by 2 turns, changes own orb and adjacent orbs into Matching orbs, adds .7x to Chain multiplier for 1 turn and reduces Special Cooldown of Fighter, Slasher, Cerebral and Free Spirit specials by 1 turn",
     "specialName": "Counter-Shock",
     "sailor": {
       "base": "None",
-      "level1": "Makes [TND] and [RCV] orbs \"beneficial\" for this character",
+      "level1": "Makes [TND] and [RCV] orbs beneficial for this character",
       "level2": "Restores his own special cooldown by 2 turns when it is rewinded"
     },
     "sailorNotes": "#{beneficial}<br>#{rewind : 2}",
@@ -36,13 +36,10 @@
         "description": "Acquire Potential 1: Reduce No Healing duration"
       },
       {
-        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.3x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters."
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.3x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [TND] and [RCV] orbs \"beneficial\" for this character"
-      },
-      {
-        "description": "Boosts base RCV by 20"
+        "description": "Acquire Sailor Ability 1: Makes [TND] and [RCV] orbs beneficial for this character"
       },
       {
         "description": "Boosts base RCV by 20"
@@ -51,7 +48,10 @@
         "description": "Boosts base RCV by 20"
       },
       {
-        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.4x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters."
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.4x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
       },
       {
         "description": "Acquire 1 additional Socket slot"
@@ -69,7 +69,7 @@
         "description": "Boosts base HP by 30"
       },
       {
-        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.5x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters."
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.5x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
@@ -99,7 +99,7 @@
         "description": "Reduce base Special Cooldown by 4 turns"
       },
       {
-        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.6x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters."
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.6x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
       },
       {
         "description": "Boosts base HP by 70"
@@ -126,7 +126,7 @@
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.7x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters."
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.7x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
       },
       {
         "description": "Boosts base ATK by 40"
@@ -135,7 +135,7 @@
         "description": "Boosts base ATK by 50"
       },
       {
-        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.8x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters."
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.8x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
       },
       {
         "description": "Acquire Potential 2: Cooldown Reduction"

@@ -1,7 +1,7 @@
 {
   "name": "Pedro of the Treetops, Mokomo Dukedom",
   "detail": {
-    "captain": "Boosts ATK of Cerebral characters by 2.5x and makes [PSY] and [INT] orbs \"beneficial\" for Cerebral characters",
+    "captain": "Boosts ATK of Cerebral characters by 2.5x and makes [PSY] and [INT] orbs beneficial for Cerebral characters",
     "captainNotes": "#{beneficial}",
     "special": "Reduces crew's current HP by 95%, deals 50x character's ATK in typeless damage to all enemies that will ignore damage negating abilities and barriers, boosts the Color Affinity of Cerebral characters by 1.75x for 2 turns",
     "specialNotes": "#{ignoreBarrier}",
@@ -9,7 +9,7 @@
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK of Cerebral characters by 35",
-      "level2": "Makes [PSY] orbs \"beneficial\" for Cerebral characters"
+      "level2": "Makes [PSY] orbs beneficial for Cerebral characters"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -53,7 +53,7 @@
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [PSY] orbs \"beneficial\" for Cerebral characters"
+        "description": "Acquire Sailor Ability 2: Makes [PSY] orbs beneficial for Cerebral characters"
       },
       {
         "description": "Acquire Potential 2: Enrage"

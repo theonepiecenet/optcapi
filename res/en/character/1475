@@ -6,7 +6,7 @@
     "special": "Locks all orbs for 1 turn. If the HP of the enemy with the highest Maximum HP is above 50%, cuts the current HP of all enemies by 20%, otherwise, deals 140x character's ATK in typeless damage to all enemies.",
     "specialName": "Merman Gujutsu - Ultramarine",
     "sailor": {
-      "base": "Makes [INT], [PSY] and [TND] orbs \"beneficial\" for this character",
+      "base": "Makes [INT], [PSY] and [TND] orbs beneficial for this character",
       "level1": "Boosts base ATK, HP and RCV of all characters by 30"
     },
     "sailorNotes": "#{beneficial}",

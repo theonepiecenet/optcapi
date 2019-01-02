@@ -6,8 +6,8 @@
     "specialNotes": "Upon activating the special, all orbs will be changed to the orb Kinemon has, including [RAINBOW] and [BLOCK] orbs. This will not override other [BLOCK] orbs.",
     "specialName": "Flaming Flash",
     "sailor": {
-      "base": "Makes [STR] and [QCK] orbs \"beneficial\" for this character",
-      "level1": "Makes [RCV] and [TND] orbs \"beneficial\" for this character"
+      "base": "Makes [STR] and [QCK] orbs beneficial for this character",
+      "level1": "Makes [RCV] and [TND] orbs beneficial for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -51,7 +51,7 @@
         "description": "Reduce base Special Cooldown by 2 turns"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs beneficial for this character"
       },
       {
         "description": "Acquire Potential 2: Pinch Healing"

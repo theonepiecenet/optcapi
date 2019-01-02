@@ -15,8 +15,8 @@
     "specialNotes": "#{additionalDamage : 60x}",
     "sailor": {
       "base": "None",
-      "level1": "Makes [DEX] orbs \"beneficial\" for all characters",
-      "level2": "Makes [STR] orbs \"beneficial\" for this character"
+      "level1": "Makes [DEX] orbs beneficial for all characters",
+      "level2": "Makes [STR] orbs beneficial for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -39,7 +39,7 @@
         "description": "Acquire new Captain Ability: "
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs \"beneficial\" for all characters"
+        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs beneficial for all characters"
       },
       {
         "description": "Boosts base RCV by 20"
@@ -108,7 +108,7 @@
         "description": "Boosts base HP by 80"
       },
       {
-        "description": "Acquire Sailor Ability 1: Makes [STR] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 1: Makes [STR] orbs beneficial for this character"
       },
       {
         "description": "Boosts base ATK by 30"

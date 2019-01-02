@@ -1,14 +1,14 @@
 {
   "name": "Kuzan, Decisive Deadly Battle",
   "detail": {
-    "captain": "Boosts ATK of [QCK] and [PSY] characters by 3.25x and their HP by 1.35x at the start of the chain and makes [QCK] and [PSY] orbs \"beneficial\" for [QCK] and [PSY] characters. Boosts ATK of [QCK] and [PSY] characters by 4.0625x following a chain of [PSY] > [PSY] > [QCK] attacks no lower than Good",
+    "captain": "Boosts ATK of [QCK] and [PSY] characters by 3.25x and their HP by 1.35x at the start of the chain and makes [QCK] and [PSY] orbs beneficial for [QCK] and [PSY] characters. Boosts ATK of [QCK] and [PSY] characters by 4.0625x following a chain of [PSY] > [PSY] > [QCK] attacks no lower than Good",
     "captainNotes": "#{beneficial}",
     "special": "Randomly changes all orbs, including [BLOCK] orbs, into either [QCK] or [PSY] orbs and boosts ATK of [QCK] and [PSY] characters by 2.25x for 1 turn",
     "specialName": "The Natural Disaster's Final Attack: Frozen Sea",
     "sailor": {
       "base": "None",
       "level1": "Boosts base HP and ATK of [QCK] and [PSY] characters by 100",
-      "level2": "Makes [STR] and [INT] orbs \"beneficial\" for this character"
+      "level2": "Makes [STR] and [INT] orbs beneficial for this character"
     },
     "sailorNotes": "#{beneficial}",
     "limit": [
@@ -91,7 +91,7 @@
         "description": "Boosts base RCV by 30"
       },
       {
-        "description": "Acquire Sailor Ability 2: Makes [STR] and [INT] orbs \"beneficial\" for this character"
+        "description": "Acquire Sailor Ability 2: Makes [STR] and [INT] orbs beneficial for this character"
       },
       {
         "description": "Boosts base ATK by 35"

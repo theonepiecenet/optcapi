@@ -1,11 +1,11 @@
 {
   "name": "Roronoa Zoro, Three-Sword Style Swordsman in Chainmail",
   "detail": {
-    "captain": "Boosts ATK of [STR] and [QCK] characters by 2.75x, their HP by 1.3x, lowers chances of getting [INT] orbs, makes [STR] and [QCK] orbs \"beneficial\" for [STR] and [QCK] characters. If there is a [STR], [QCK] and [INT] character in your crew, boosts chain multiplier by 1.5x.",
+    "captain": "Boosts ATK of [STR] and [QCK] characters by 2.75x, their HP by 1.3x, lowers chances of getting [INT] orbs, makes [STR] and [QCK] orbs beneficial for [STR] and [QCK] characters. If there is a [STR], [QCK] and [INT] character in your crew, boosts chain multiplier by 1.5x.",
     "captainNotes": "#{beneficial}",
     "special": "Locks all orbs for 1 turn and changes [QCK] and [DEX] orbs into Matching orbs. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, boosts ATK of [STR] and [QCK] characters by 2x for 2 turns, by 1.75x for 2 turns otherwise.",
     "sailor": {
-      "base": "Makes [RCV] orbs \"beneficial\" for all characters",
+      "base": "Makes [RCV] orbs beneficial for all characters",
       "level1": "Boosts base ATK, HP and RCV of all characters by 50"
     },
     "sailorNotes": "#{beneficial}",
