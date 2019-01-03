@@ -1,1 +1,139 @@
-{"name":"사카즈키, 천하를 가른 사투","detail":{"captain":"[STR]과 [INT] 캐릭터의 공격력을 3.25배로 만들고, [STR]과 [INT] 캐릭터는 [STR][INT] 슬롯도 [유리] 슬롯으로 취급하며, 1턴 동안의 PERFECT 수에 따라 턴 종료 시 적 1명에게 최대로 캐릭터의 공격력x500배의 무 속성 데미지를 준다","captainNotes":"End of turn damage is based on how many PERFECTs you hit this turn: 0 PERFECTs - 0x ATK; 1 PERFECT - 5x ATK; 2 PERFECTs - 13x ATK; 3 PERFECTs - 32x ATK; 4 PERFECTs - 80x ATK; 5 PERFECTs - 200x ATK; 6 PERFECTs - 500x ATK<br>#{beneficial}","special":"[BLOCK]를 포함한 모든 슬롯을 [STR][INT] 슬롯으로 바꾸고, 1턴 동안 [STR]과 [INT]의 슬롯의 영향을 2.25배로 증폭시킨다","specialName":"천지개벽의 결정타·초토화","sailor":["None","Boosts base ATK and HP of [STR] and [INT] characters by 100","Makes [PSY] and [QCK] orbs “beneficial” for this unit"],"sailorNotes":"#{beneficial}","limit":[{"description":"공격력 상승 : 10"},{"description":"공격력 상승 : 10"},{"description":"공격력 상승 : 10"},{"description":"잠재능력 습득 1: [PSY] 데미지 피해 감소"},{"description":"공격력 상승 : 15"},{"description":"공격력 상승 : 15"},{"description":"회복력 상승 : 10"},{"description":"선원 효과 추가 1: Boosts base ATK and HP of [STR] and [INT] characters by 100"},{"description":"체력 상승 : 30"},{"description":"체력 상승 : 30"},{"description":"공격력 상승 : 20"},{"description":"공격력 상승 : 20"},{"description":"체력 상승 : 35"},{"description":"체력 상승 : 35"},{"description":"잠재능력 습득 2: 슬롯 봉쇄 내성"},{"description":"체력 상승 : 45"},{"description":"체력 상승 : 45"},{"description":"공격력 상승 : 30"},{"description":"공격력 상승 : 30"},{"description":"체력 상승 : 55"},{"description":"체력 상승 : 55"},{"description":"회복력 상승 : 15"},{"description":"필살기 턴 단축 : 1턴"},{"description":"체력 상승 : 70"},{"description":"회복력 상승 : 20"},{"description":"회복력 상승 : 25"},{"description":"선원 효과 추가 2: Makes [PSY] and [QCK] orbs “beneficial” for this unit"},{"description":"체력 상승 : 80"},{"description":"공격력 상승 : 40"},{"description":"잠재능력 습득 3: 배리어 관통"}],"potential":[{"Name":"[PSY]데미지 피해 감소","description":["Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다","Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다","Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다","Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"]},{"Name":"슬롯 봉쇄 내성","description":["Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다","Level 2: 자신의 슬롯 봉쇄 상태를 3턴 회복한다","Level 3: 자신의 슬롯 봉쇄 상태를 5턴 회복한다","Level 4: 자신의 슬롯 봉쇄 상태를 7턴 회복한다","Level 5: 자신의 슬롯 봉쇄 상태를 10턴 회복한다"]},{"Name":"배리어 관통","description":["Level 1: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다","Level 2: 일당의 체력이 90% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다","Level 3: 일당의 체력이 70% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다","Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다","Level 5: This character's attack will ignore barriers"]}]}}
+{
+    "name": "사카즈키, 천하를 가른 사투",
+    "detail": {
+        "captain": "[STR]과 [INT] 캐릭터의 공격력을 3.25배로 만들고, [STR]과 [INT] 캐릭터는 [STR][INT] 슬롯도 [유리] 슬롯으로 취급하며, 1턴 동안의 PERFECT 수에 따라 턴 종료 시 적 1명에게 최대로 캐릭터의 공격력x500배의 무 속성 데미지를 준다",
+        "captainNotes": "End of turn damage is based on how many PERFECTs you hit this turn: 0 PERFECTs - 0x ATK; 1 PERFECT - 5x ATK; 2 PERFECTs - 13x ATK; 3 PERFECTs - 32x ATK; 4 PERFECTs - 80x ATK; 5 PERFECTs - 200x ATK; 6 PERFECTs - 500x ATK<br>#{beneficial}",
+        "special": "[BLOCK]를 포함한 모든 슬롯을 [STR][INT] 슬롯으로 바꾸고, 1턴 동안 [STR]과 [INT]의 슬롯의 영향을 2.25배로 증폭시킨다",
+        "specialName": "천지개벽의 결정타·초토화",
+        "sailor": [
+            "None",
+            "[STR]과 [INT]의 기본 공격력과 기본 체력이 100 상승한다",
+            "자신은 [QCK][PSY] 슬롯도 [유리] 슬롯으로 취급한다"
+        ],
+        "sailorNotes": "#{beneficial}",
+        "limit": [
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
+            },
+            {
+                "description": "공격력 상승 : 15"
+            },
+            {
+                "description": "공격력 상승 : 15"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "선원 효과 추가 1: Boosts base ATK and HP of [STR] and [INT] characters by 100"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 35"
+            },
+            {
+                "description": "체력 상승 : 35"
+            },
+            {
+                "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
+            },
+            {
+                "description": "체력 상승 : 45"
+            },
+            {
+                "description": "체력 상승 : 45"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 55"
+            },
+            {
+                "description": "체력 상승 : 55"
+            },
+            {
+                "description": "회복력 상승 : 15"
+            },
+            {
+                "description": "필살기 턴 단축 : 1턴"
+            },
+            {
+                "description": "체력 상승 : 70"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 25"
+            },
+            {
+                "description": "선원 효과 추가 2: Makes [PSY] and [QCK] orbs “beneficial” for this unit"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "잠재능력 습득 3: 배리어 관통"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[PSY]데미지 피해 감소",
+                "description": [
+                    "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+                    "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+                    "Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다",
+                    "Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"
+                ]
+            },
+            {
+                "Name": "슬롯 봉쇄 내성",
+                "description": [
+                    "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+                    "Level 2: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+                    "Level 3: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+                    "Level 4: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
+                    "Level 5: 자신의 슬롯 봉쇄 상태를 10턴 회복한다"
+                ]
+            },
+            {
+                "Name": "배리어 관통",
+                "description": [
+                    "Level 1: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+                    "Level 2: 일당의 체력이 90% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+                    "Level 3: 일당의 체력이 70% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+                    "Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+                    "Level 5: This character's attack will ignore barriers"
+                ]
+            }
+        ]
+    }
+}

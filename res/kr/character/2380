@@ -1,0 +1,57 @@
+{
+    "name": "샬롯 링링",
+    "detail": {
+        "captain": "Boosts ATK of Driven and Powerhouse characters by ?x and makes [RCV] orbs beneficial for Driven and Powerhouse characters.",
+        "captainNotes": "#{beneficial}",
+        "special": "Reduces ATK DOWN, Bind and Despair duration by 6 turns, changes own orb and adjacent orbs into [RCV] orbs boosts ATK of Driven and Powerhouse characters by 2.25x after 12th hit in the chain for 3 turns.",
+        "specialName": "Natural Born Destroyer"
+    },
+    "aliases": [
+        "",
+        "",
+        "Young Big Mom",
+        "Ambush Big Mom",
+        "Invasion Big Mom"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Powerhouse",
+            "Driven"
+        ],
+        "stars": 4,
+        "cost": 30,
+        "combo": null,
+        "slots": null,
+        "level": 70,
+        "exp": 1778330,
+        "minHP": null,
+        "minATK": null,
+        "minRCV": null,
+        "maxHP": null,
+        "maxATK": null,
+        "maxRCV": null,
+        "ability": null
+    },
+    "cooldown": null,
+    "evolution": {
+        "evolution": 2381,
+        "evolvers": []
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2380.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2380.png"
+    },
+    "drop": [
+        {
+            "type": "Special",
+            "name": "Invasion! Charlotte Linlin",
+            "thumb": 2381,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}
