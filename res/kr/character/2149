@@ -1,10 +1,10 @@
 {
-  "name": "제프, Baratie Owner",
-  "detail": {
-    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Fighter characters by 2.25x and their HP by 1.2x",
-    "special": "If your Captain is a Fighter character, boosts the Color Affinity of Fighter characters by 1.75x for 1 turn",
-    "specialNotes": "#{colorAffinity : 1.75}",
-    "specialName": "Chef's Long Kick",
-    "sailor": "When any other character uses a special, reduces own cooldown by 3 turns"
-  }
+    "name": "제프, ‘발라티에’ 주인장",
+    "detail": {
+        "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Fighter characters by 2.25x and their HP by 1.2x",
+        "special": "If your Captain is a Fighter character, boosts the Color Affinity of Fighter characters by 1.75x for 1 turn",
+        "specialNotes": "#{colorAffinity : 1.75}",
+        "specialName": "Chef's Long Kick",
+        "sailor": "When any other character uses a special, reduces own cooldown by 3 turns"
+    }
 }

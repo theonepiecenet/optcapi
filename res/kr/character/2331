@@ -1,0 +1,59 @@
+{
+    "name": "아인, Return-Return Fruit User",
+    "detail": {
+        "captain": "Boosts ATK and RCV of Shooter and Slasher characters by 1.25x",
+        "special": "Reduces enemies Percent Damage Reduction and Increased Defense duration by 2 turns, reduces Bind and Despair duration by 2 turns and if your crew has Percent Damage Reduction, recovers 20% of crew's MAX HP, reduces damage received by 70% for 1 turn otherwise.",
+        "specialName": "Double Shot",
+        "sailor": "Completely resists Silence on this character"
+    },
+    "aliases": [
+        "アイン モドモドの実の能力者",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Shooter",
+            "Slasher"
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 5,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "minHP": 618,
+        "minATK": 500,
+        "minRCV": 134,
+        "maxHP": 1227,
+        "maxATK": 748,
+        "maxRCV": 228,
+        "ability": 1
+    },
+    "cooldown": [
+        17,
+        11
+    ],
+    "evolution": {
+        "evolution": 2332,
+        "evolvers": [
+            117,
+            266,
+            304,
+            304,
+            104
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2331.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2331.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

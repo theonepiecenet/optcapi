@@ -36976,7 +36976,18 @@
       "PSY"
     ],
     "class": [
-      "[[\"Striker"
+      [
+        "Striker",
+        "Driven"
+      ],
+      [
+        "Slasher",
+        "Cerebral"
+      ],
+      [
+        "Striker",
+        "Slasher"
+      ]
     ],
     "id": 1983,
     "aliases": [
@@ -37002,7 +37013,18 @@
       "STR"
     ],
     "class": [
-      "[[\"Free Spirit"
+      [
+        "Free Spirit",
+        "Fighter"
+      ],
+      [
+        "Free Spirit",
+        "Shooter"
+      ],
+      [
+        "Free Spirit",
+        "Fighter"
+      ]
     ],
     "id": 1984,
     "aliases": [
@@ -37035,7 +37057,18 @@
       "STR"
     ],
     "class": [
-      "[[\"Free Spirit"
+      [
+        "Free Spirit",
+        "Fighter"
+      ],
+      [
+        "Free Spirit",
+        "Shooter"
+      ],
+      [
+        "Free Spirit",
+        "Fighter"
+      ]
     ],
     "id": 1985,
     "aliases": [
@@ -37338,7 +37371,18 @@
       "DEX"
     ],
     "class": [
-      "[[\"Fighter"
+      [
+        "Fighter",
+        "Powerhouse"
+      ],
+      [
+        "Slasher",
+        "Driven"
+      ],
+      [
+        "Fighter",
+        "Slasher"
+      ]
     ],
     "id": 2000,
     "aliases": [
@@ -39103,8 +39147,8 @@
       "PSY"
     ],
     "class": [
-      "Shooter",
-      "Cerebral"
+      "Cerebral",
+      "Shooter"
     ],
     "id": 2089,
     "aliases": [
@@ -40861,7 +40905,18 @@
       "INT"
     ],
     "class": [
-      "[[\"Striker"
+      [
+        "Striker",
+        "Powerhouse"
+      ],
+      [
+        "Fighter",
+        "Powerhouse"
+      ],
+      [
+        "Striker",
+        "Powerhouse"
+      ]
     ],
     "id": 2180,
     "aliases": [
@@ -40891,7 +40946,18 @@
       "INT"
     ],
     "class": [
-      "[[\"Striker"
+      [
+        "Striker",
+        "Powerhouse"
+      ],
+      [
+        "Fighter",
+        "Powerhouse"
+      ],
+      [
+        "Striker",
+        "Powerhouse"
+      ]
     ],
     "id": 2181,
     "aliases": [
@@ -43201,13 +43267,13 @@
     ]
   },
   {
-    "name": "Charlotte Chiffon, \"Yonko Assassination Plan\" Allied Forces",
+    "name": "Charlotte Chiffon, “Yonko Assassination Plan” Allied Forces",
     "type": [
-      "PSY"
+      "DEX"
     ],
     "class": [
-      "Shooter",
-      "Fighter"
+      "Slasher",
+      "Cerebral"
     ],
     "id": 2305,
     "aliases": [
@@ -43216,7 +43282,7 @@
       "Not Caesar Clown",
       "Caesar Clown",
       "Charlotte Chiffon",
-      " \"Yonko Assassination Plan\" Allied Forces"
+      " “Yonko Assassination Plan” Allied Forces"
     ]
   },
   {
@@ -43239,13 +43305,13 @@
     ]
   },
   {
-    "name": "Gastino, \"Yonko Assassination Plan\" Allied Forces",
+    "name": "Gastino, “Yonko Assassination Plan” Allied Forces",
     "type": [
       "DEX"
     ],
     "class": [
-      "Slasher",
-      "Cerebral"
+      "Shooter",
+      "Driven"
     ],
     "id": 2307,
     "aliases": [
@@ -43254,11 +43320,11 @@
       " Fire Tank Pirates",
       "Vito",
       "Gastino",
-      " \"Yonko Assassination Plan\" Allied Forces"
+      " “Yonko Assassination Plan” Allied Forces"
     ]
   },
   {
-    "name": "\"Monster Gun\" Vito, Fire Tank Pirates",
+    "name": "“Monster Gun” Vito, Fire Tank Pirates",
     "type": [
       "DEX"
     ],
@@ -43272,13 +43338,14 @@
       "\"Monster Gun\" Vito",
       " \"Yonko Assassination Plan\" Allied Forces",
       "Vito",
+      "“Monster Gun” Vito",
       " Fire Tank Pirates"
     ]
   },
   {
-    "name": "\"Monster Gun\" Vito, \"Yonko Assassination Plan\" Allied Forces",
+    "name": "“Monster Gun” Vito, “Yonko Assassination Plan” Allied Forces",
     "type": [
-      "DEX"
+      "QCK"
     ],
     "class": [
       "Shooter",
@@ -43289,8 +43356,8 @@
       "ゴッティ ファイアタンク海賊団",
       "Gotti",
       " Fire Tank Pirates",
-      "\"Monster Gun\" Vito",
-      " \"Yonko Assassination Plan\" Allied Forces"
+      "“Monster Gun” Vito",
+      " “Yonko Assassination Plan” Allied Forces"
     ]
   },
   {
@@ -43311,13 +43378,13 @@
     ]
   },
   {
-    "name": "Gotti, \"Yonko Assassination Plan\" Allied Forces",
+    "name": "Gotti, “Yonko Assassination Plan” Allied Forces",
     "type": [
-      "QCK"
+      "STR"
     ],
     "class": [
-      "Shooter",
-      "Driven"
+      "Powerhouse",
+      "Fighter"
     ],
     "id": 2311,
     "aliases": [
@@ -43325,13 +43392,13 @@
       "Germa Kingdom Clone Soldier - STR",
       "null",
       "Gotti",
-      " \"Yonko Assassination Plan\" Allied Forces"
+      " “Yonko Assassination Plan” Allied Forces"
     ]
   },
   {
     "name": "Germa Kingdom Clone Soldier - STR",
     "type": [
-      "STR"
+      "DEX"
     ],
     "class": [
       "Powerhouse",
@@ -43348,7 +43415,7 @@
   {
     "name": "Germa Kingdom Clone Soldier - DEX",
     "type": [
-      "DEX"
+      "QCK"
     ],
     "class": [
       "Powerhouse",
@@ -43365,10 +43432,9 @@
   {
     "name": "Germa Kingdom Clone Soldier - QCK",
     "type": [
-      "QCK"
+      "INT"
     ],
     "class": [
-      "Powerhouse",
       "Fighter"
     ],
     "id": 2314,
@@ -43385,7 +43451,7 @@
       "INT"
     ],
     "class": [
-      "Fighter"
+      "Free Spirit"
     ],
     "id": 2315,
     "aliases": [
@@ -43398,7 +43464,7 @@
   {
     "name": "Negative Soul Homie",
     "type": [
-      "INT"
+      "PSY"
     ],
     "class": [
       "Free Spirit"
@@ -43414,10 +43480,11 @@
   {
     "name": "Positive Soul Homie",
     "type": [
-      "PSY"
+      "DEX"
     ],
     "class": [
-      "Free Spirit"
+      "Powerhouse",
+      "Fighter"
     ],
     "id": 2317,
     "aliases": [
@@ -43431,11 +43498,11 @@
   {
     "name": "Vinsmoke Yonji, Vinsmoke Family's Fourth Son",
     "type": [
-      "DEX"
+      "QCK"
     ],
     "class": [
       "Powerhouse",
-      "Fighter"
+      "Striker"
     ],
     "id": 2318,
     "aliases": [
@@ -43448,13 +43515,13 @@
     ]
   },
   {
-    "name": "\"Garuda\" Vinsmoke Judge",
+    "name": "“Garuda” Vinsmoke Judge",
     "type": [
-      "QCK"
+      "STR"
     ],
     "class": [
       "Powerhouse",
-      "Striker"
+      "Fighter"
     ],
     "id": 2319,
     "aliases": [
@@ -43462,17 +43529,17 @@
       "Story Niji",
       "Vinsmoke Niji",
       " Vinsmoke Family's Second Son",
-      "\"Garuda\" Vinsmoke Judge"
+      "“Garuda” Vinsmoke Judge"
     ]
   },
   {
     "name": "Vinsmoke Niji, Vinsmoke Family's Second Son",
     "type": [
-      "STR"
+      "INT"
     ],
     "class": [
-      "Powerhouse",
-      "Fighter"
+      "Slasher",
+      "Powerhouse"
     ],
     "id": 2320,
     "aliases": [
@@ -43505,11 +43572,11 @@
   {
     "name": "Charlotte Cracker, Three Sweet Commander",
     "type": [
-      "INT"
+      "STR"
     ],
     "class": [
-      "Slasher",
-      "Powerhouse"
+      "Powerhouse",
+      "Fighter"
     ],
     "id": 2322,
     "aliases": [
@@ -43542,11 +43609,10 @@
   {
     "name": "Charlotte Oven, Minister of Baking",
     "type": [
-      "STR"
+      "PSY"
     ],
     "class": [
-      "Powerhouse",
-      "Fighter"
+      "Shooter"
     ],
     "id": 2324,
     "aliases": [
@@ -43586,10 +43652,11 @@
   {
     "name": "Usoland, Operation SOP Commander",
     "type": [
-      "PSY"
+      "QCK"
     ],
     "class": [
-      "Shooter"
+      "Slasher",
+      "Driven"
     ],
     "id": 2326,
     "aliases": [
@@ -43620,11 +43687,11 @@
   {
     "name": "Charlotte Amande, Demon Lady",
     "type": [
-      "QCK"
+      "DEX"
     ],
     "class": [
       "Slasher",
-      "Driven"
+      "Powerhouse"
     ],
     "id": 2328,
     "aliases": [
@@ -43638,11 +43705,11 @@
   {
     "name": "Bobbin the Disposer",
     "type": [
-      "DEX"
+      "QCK"
     ],
     "class": [
-      "Slasher",
-      "Powerhouse"
+      "Shooter",
+      "Fighter"
     ],
     "id": 2329,
     "aliases": [
@@ -43677,20 +43744,20 @@
     ]
   },
   {
-    "name": "\"Black Arm\" Zephyr, The Man who Trained Every Marine",
+    "name": "“Black Arm” Zephyr, The Man who Trained Every Marine",
     "type": [
-      "QCK"
+      "INT"
     ],
     "class": [
       "Shooter",
-      "Fighter"
+      "Slasher"
     ],
     "id": 2331,
     "aliases": [
       "アイン モドモドの実の能力者",
       "Ain",
       " Return-Return Fruit User",
-      "\"Black Arm\" Zephyr",
+      "“Black Arm” Zephyr",
       " The Man who Trained Every Marine"
     ]
   },
@@ -43714,11 +43781,11 @@
   {
     "name": "Ain, Following Z-Sensei's Ideals",
     "type": [
-      "INT"
+      "PSY"
     ],
     "class": [
       "Shooter",
-      "Slasher"
+      "Free Spirit"
     ],
     "id": 2333,
     "aliases": [
@@ -43749,11 +43816,11 @@
   {
     "name": "Binz, Faithfully Serving under Z-Sensei",
     "type": [
-      "PSY"
+      "STR"
     ],
     "class": [
-      "Shooter",
-      "Free Spirit"
+      "Fighter",
+      "Slasher"
     ],
     "id": 2335,
     "aliases": [
@@ -43786,9 +43853,9 @@
     ]
   },
   {
-    "name": "Trafalgar Law, The Man Taking Responsibility for the \"Heart\"",
+    "name": "Trafalgar Law, The Man Taking Responsibility for the “Heart”",
     "type": [
-      "STR"
+      "QCK"
     ],
     "class": [
       "Fighter",
@@ -43801,11 +43868,11 @@
       "Carrot",
       " Mink Tribe's \"True Form\"",
       "Trafalgar Law",
-      " The Man Taking Responsibility for the \"Heart\""
+      " The Man Taking Responsibility for the “Heart”"
     ]
   },
   {
-    "name": "Carrot, Mink Tribe's \"True Form\"",
+    "name": "Carrot, Mink Tribe's “True Form”",
     "type": [
       "QCK"
     ],
@@ -43819,7 +43886,7 @@
       "Legend Carrot",
       "Carrot",
       " A Mystical White Sulong",
-      " Mink Tribe's \"True Form\""
+      " Mink Tribe's “True Form”"
     ]
   },
   {
@@ -43828,8 +43895,8 @@
       "QCK"
     ],
     "class": [
-      "Fighter",
-      "Slasher"
+      "Shooter",
+      "Cerebral"
     ],
     "id": 2339,
     "aliases": [
@@ -43862,11 +43929,11 @@
   {
     "name": "Stussy, CP-AIGIS 0",
     "type": [
-      "QCK"
+      "PSY"
     ],
     "class": [
-      "Shooter",
-      "Cerebral"
+      "Fighter",
+      "Striker"
     ],
     "id": 2341,
     "aliases": [
@@ -43900,8 +43967,8 @@
       "PSY"
     ],
     "class": [
-      "Fighter",
-      "Striker"
+      "Shooter",
+      "Fighter"
     ],
     "id": 2343,
     "aliases": [
@@ -43930,11 +43997,11 @@
   {
     "name": "Charlotte Bavarois, Big Mom Pirates",
     "type": [
-      "PSY"
+      "INT"
     ],
     "class": [
-      "Shooter",
-      "Fighter"
+      "Cerebral",
+      "Slasher"
     ],
     "id": 2345,
     "aliases": [
@@ -43969,10 +44036,10 @@
   {
     "name": "Charlotte Galette, Big Mom Pirates",
     "type": [
-      "INT"
+      "PSY"
     ],
     "class": [
-      "Cerebral",
+      "Free Spirit",
       "Slasher"
     ],
     "id": 2347,
@@ -43986,13 +44053,13 @@
     ]
   },
   {
-    "name": "Shanks, Hope towards the \"New Era\"",
+    "name": "Shanks, Hope towards the “New Era”",
     "type": [
-      "PSY"
+      "DEX"
     ],
     "class": [
-      "Free Spirit",
-      "Slasher"
+      "Slasher",
+      "Cerebral"
     ],
     "id": 2348,
     "aliases": [
@@ -44002,7 +44069,7 @@
       "Pedro",
       " Former Nox Pirates Captain",
       "Shanks",
-      " Hope towards the \"New Era\""
+      " Hope towards the “New Era”"
     ]
   },
   {
@@ -44027,11 +44094,11 @@
   {
     "name": "Pedro of the Treetops, Former Nox Pirates Captain",
     "type": [
-      "DEX"
+      "STR"
     ],
     "class": [
-      "Slasher",
-      "Cerebral"
+      "Striker",
+      "Powerhouse"
     ],
     "id": 2350,
     "aliases": [
@@ -44049,7 +44116,7 @@
     ],
     "class": [
       "Striker",
-      "Powerhouse"
+      "Cerebral"
     ],
     "id": 2351,
     "aliases": [
@@ -44063,11 +44130,11 @@
   {
     "name": "Charlotte Perospero, Minister of Candy",
     "type": [
-      "STR"
+      "QCK"
     ],
     "class": [
-      "Striker",
-      "Cerebral"
+      "Shooter",
+      "Slasher"
     ],
     "id": 2352,
     "aliases": [
@@ -44087,7 +44154,7 @@
     ],
     "class": [
       "Shooter",
-      "Slasher"
+      "Striker"
     ],
     "id": 2353,
     "aliases": [
@@ -44119,11 +44186,11 @@
   {
     "name": "Chief Warden Magellan, Venom-Venom Fruit User",
     "type": [
-      "QCK"
+      "STR"
     ],
     "class": [
-      "Shooter",
-      "Striker"
+      "Slasher",
+      "Powerhouse"
     ],
     "id": 2355,
     "aliases": [
@@ -44156,11 +44223,11 @@
   {
     "name": "Enraged Arlong, Violent Fishman",
     "type": [
-      "STR"
+      "QCK"
     ],
     "class": [
       "Slasher",
-      "Powerhouse"
+      "Driven"
     ],
     "id": 2357,
     "aliases": [
@@ -44178,11 +44245,11 @@
   {
     "name": "Cavendish, Kamaitachi of Rommel",
     "type": [
-      "QCK"
+      "INT"
     ],
     "class": [
-      "Slasher",
-      "Driven"
+      "Fighter",
+      "Striker"
     ],
     "id": 2358,
     "aliases": [
@@ -44202,7 +44269,7 @@
     ],
     "class": [
       "Fighter",
-      "Striker"
+      "Cerebral"
     ],
     "id": 2359,
     "aliases": [
@@ -44218,11 +44285,11 @@
   {
     "name": "Nico Robin, Christmas Surprise",
     "type": [
-      "INT"
+      "STR"
     ],
     "class": [
-      "Fighter",
-      "Cerebral"
+      "Striker",
+      "Fighter"
     ],
     "id": 2360,
     "aliases": [
@@ -44238,11 +44305,11 @@
   {
     "name": "Nekomamushi, Holy Knight King",
     "type": [
-      "STR"
+      "PSY"
     ],
     "class": [
-      "Striker",
-      "Fighter"
+      "Cerebral",
+      "Striker"
     ],
     "id": 2361,
     "aliases": [
@@ -44275,11 +44342,11 @@
   {
     "name": "Nami, Charming Santa Girl",
     "type": [
-      "PSY"
+      "STR"
     ],
     "class": [
-      "Cerebral",
-      "Striker"
+      "Fighter",
+      "Powerhouse"
     ],
     "id": 2363,
     "aliases": [
@@ -44525,7 +44592,18 @@
       "STR"
     ],
     "class": [
-      "[[\"Striker"
+      [
+        "Striker",
+        "Driven"
+      ],
+      [
+        "Slasher",
+        "Cerebral"
+      ],
+      [
+        "Striker",
+        "Slasher"
+      ]
     ],
     "id": 2504,
     "aliases": [
@@ -45289,7 +45367,7 @@
     ]
   },
   {
-    "name": "[Dual Unit] 크로커다일 & 다즈, 다시 일어난 두 사람",
+    "name": "[Dual Unit] Crocodile & Daz, Revived Duo",
     "type": [
       "STR"
     ],
@@ -45311,6 +45389,186 @@
       " Revived Duo",
       "[Dual Unit] 크로커다일 & 다즈",
       " 다시 일어난 두 사람"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral 센고쿠",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5028,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral 센고쿠"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Vice Admiral 가프",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "id": 5029,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Vice Admiral 가프"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral 센고쿠 and Vice Admiral 가프",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5030,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral 센고쿠 and Vice Admiral 가프"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral 센고쿠 and Vice Admiral 가프",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5031,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral 센고쿠 and Vice Admiral 가프"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral 센고쿠, Dawn of the Great Era of Piracy",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5032,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral 센고쿠",
+      " Dawn of the Great Era of Piracy"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Vice Admiral 가프, Dawn of the Great Era of Piracy",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "id": 5033,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Vice Admiral 가프",
+      " Dawn of the Great Era of Piracy"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral 센고쿠 and Vice Admiral 가프, Dawn of the Great Era of Piracy",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5034,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral 센고쿠 and Vice Admiral 가프",
+      " Dawn of the Great Era of Piracy"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Admiral 센고쿠 and Vice Admiral 가프, Dawn of the Great Era of Piracy",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "id": 5035,
+    "aliases": [
+      "Sengoku&Garp",
+      "Sengoku and Garp",
+      "Sengoku Garp",
+      "SengokuGarp",
+      "Garp&Sengoku",
+      "Garp and Sengoku",
+      "Garp Sengoku",
+      "GarpSengoku",
+      "[Dual Unit] Admiral 센고쿠 and Vice Admiral 가프",
+      " Dawn of the Great Era of Piracy"
     ]
   }
 ]

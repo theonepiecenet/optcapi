@@ -1,0 +1,65 @@
+{
+    "name": "슈트로이젠, Cook Cook Fruit User",
+    "detail": {
+        "captain": "Boosts ATK of Slasher characters by 2x and their RCV by 1.2x",
+        "special": "Recovers 3,000 HP and boosts RCV of all characters by 2x for 1 turn.",
+        "specialName": "The Cook's Expectation",
+        "support": [
+            {
+                "Characters": "Charlotte Linlin",
+                "description": [
+                    "Level 1: Once per an adventure, when the supported character uses their special, recovers 100 HP",
+                    "Level 2: Once per an adventure, when the supported character uses their special, recovers 300 HP",
+                    "Level 3: Once per an adventure, when the supported character uses their special, recovers 500 HP",
+                    "Level 4: Once per an adventure, when the supported character uses their special, recovers 700 HP",
+                    "Level 5: Once per an adventure, when the supported character uses their special, recovers 1,000 HP"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Slasher",
+            "Driven"
+        ],
+        "stars": 4,
+        "cost": 1,
+        "combo": 5,
+        "slots": 4,
+        "level": 99,
+        "exp": 1000000,
+        "minHP": null,
+        "minATK": null,
+        "minRCV": null,
+        "maxHP": 1799,
+        "maxATK": 1099,
+        "maxRCV": 309,
+        "ability": null
+    },
+    "cooldown": [
+        null,
+        11
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2379.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2379.png"
+    },
+    "drop": [
+        {
+            "type": "Fortnight",
+            "name": "Mother Caramel Fortnight",
+            "thumb": 2377,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}

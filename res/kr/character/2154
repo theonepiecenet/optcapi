@@ -1,83 +1,83 @@
 {
-  "name": "Baron 타마고, Pedro’s Nemesis",
-  "detail": {
-    "captain": "Boosts ATK of Fighter Characters by 2.75x if they have a matching orb, by 2.5x otherwise",
-    "special": "Deals 75x character's ATK in [DEX] damage to one enemy that will ignore damage negating abilities and barriers. If your Captain is a Fighter character, changes all orbs, including [BLOCK] orbs, on Fighter characters into Matching orbs",
-    "specialName": "Legs Benedict",
-    "specialNotes": "#{ignoreBarrier}",
-    "sailor": {
-      "base": "When HP is above 50% at the start of the turn, boosts ATK of Fighter characters by 125",
-      "level1": "Makes [DEX] orbs “beneficial” for Fighter characters"
-    },
-    "limit": [
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "선원 효과 추가 1: Makes [DEX] orbs “beneficial” for Fighter characters"
-      },
-      {
-        "description": "잠재능력 습득 2: 긴급 회복"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 40",
-          "Level 3: 공격력 상승 : 60",
-          "Level 4: 공격력 상승 : 80",
-          "Level 5: 공격력 상승 : 120"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 4: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
-          "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
-        ]
-      }
-    ],
-    "potentialNotes": "#{enrage}"
-  }
+    "name": "타마고 남작, 페드로의 숙적",
+    "detail": {
+        "captain": "Boosts ATK of Fighter Characters by 2.75x if they have a matching orb, by 2.5x otherwise",
+        "special": "Deals 75x character's ATK in [DEX] damage to one enemy that will ignore damage negating abilities and barriers. If your Captain is a Fighter character, changes all orbs, including [BLOCK] orbs, on Fighter characters into Matching orbs",
+        "specialName": "Legs Benedict",
+        "specialNotes": "#{ignoreBarrier}",
+        "sailor": {
+            "base": "When HP is above 50% at the start of the turn, boosts ATK of Fighter characters by 125",
+            "level1": "Makes [DEX] orbs “beneficial” for Fighter characters"
+        },
+        "limit": [
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "선원 효과 추가 1: Makes [DEX] orbs “beneficial” for Fighter characters"
+            },
+            {
+                "description": "잠재능력 습득 2: 긴급 회복"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "피격 시 공격력 상승",
+                "description": [
+                    "Level 1: 공격력 상승 : 20",
+                    "Level 2: 공격력 상승 : 40",
+                    "Level 3: 공격력 상승 : 60",
+                    "Level 4: 공격력 상승 : 80",
+                    "Level 5: 공격력 상승 : 120"
+                ]
+            },
+            {
+                "Name": "긴급 회복",
+                "description": [
+                    "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+                    "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+                    "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+                    "Level 4: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+                    "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}"
+    }
 }
