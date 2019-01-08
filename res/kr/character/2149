@@ -1,10 +1,10 @@
 {
     "name": "제프, ‘발라티에’ 주인장",
     "detail": {
-        "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Fighter characters by 2.25x and their HP by 1.2x",
-        "special": "If your Captain is a Fighter character, boosts the Color Affinity of Fighter characters by 1.75x for 1 turn",
+        "captain": "격투형 캐릭터의 공격력을 2.25배, 체력을 1.2배로 만들고, 모험 시작 시 격투형 캐릭터의 필살기 턴을 1턴 단축한다",
+        "special": "선장이 격투형일 때 1턴 동안 격투형 캐릭터의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
         "specialNotes": "#{colorAffinity : 1.75}",
-        "specialName": "Chef's Long Kick",
-        "sailor": "When any other character uses a special, reduces own cooldown by 3 turns"
+        "specialName": "요리장 킥",
+        "sailor": "자신 이외의 캐릭터가 필살기 사용 시, 자신의 필살기 턴이 3턴 단축된다"
     }
 }

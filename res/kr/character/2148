@@ -1,138 +1,138 @@
 {
-  "name": "빈스모크 상디, Germa Kingdom’s Savior",
-  "detail": {
-    "captain": "If there are 6 Fighter characters in your crew, boosts chain multiplier by 4x and boosts ATK of Fighter characters by 1.75x. Lowers chances of getting Matching orbs proportionally to the crew's current HP.",
-    "captainNotes": "At 1 HP, the rate of Matching orbs is ???% (lower) and at full HP, the rate of Matching orbs is ???%",
-    "special": "Deals 150x character's ATK in [PSY] damage to one enemy. If HP is above ?% at the time the special is activated, boosts ATK of Fighter characters by 2.25x for 1 turn. If Sanji is your Captain or Friend/Guest Captain, reduces Chain Multiplier Limit and Chain Coefficient Reduction duration by 10 turns",
-    "specialName": "Full Course of Hell",
-    "sailor": {
-      "base": "None",
-      "level1": "자신이 [INT] 속성에게 주는 일반 공격에 의한 데미지가 1.2배가 된다",
-      "level2": "Makes [PSY] orbs “beneficial” for Fighter characters"
-    },
-    "limit": [
-      {
-        "description": "공격력 상승 : 5"
-      },
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 5"
-      },
-      {
-        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
-      },
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 15"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "선원 효과 추가 1: 자신이 [INT] 속성에게 주는 일반 공격에 의한 데미지가 1.2배가 된다"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for Fighter characters"
-      },
-      {
-        "description": "체력 상승 : 70"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "잠재능력 습득 3: 회복 무효 내성"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+    "name": "빈스모크 상디, Germa Kingdom’s Savior",
+    "detail": {
+        "captain": "일당에 격투형 캐릭터가 6명일 때 체인 계수 증가량을 4배, 격투형 캐릭터의 공격력을 1.75배로 만들고, 남은 체력이 적을수록 격투형 캐릭터의 속성 일치 슬롯 출현율이 감소한다",
+        "captainNotes": "At 1 HP, the rate of Matching orbs is ???% (lower) and at full HP, the rate of Matching orbs is ???%",
+        "special": "적 1명에게 캐릭터의 공격력x150배의 [PSY] 데미지를 주고, 필살기 발동 시 남은 체력이 일정 비율 이상일 경우 1턴 동안 격투형 캐릭터의 공격력이 2.25배가 되며, 자신이 선장, 친구 선장, 조력자 선장일 때 체인 계수 고정 및 체인 계수 증가량 감소 상태를 10턴 회복한다",
+        "specialName": "지옥의 풀 코스",
+        "sailor": {
+            "base": "None",
+            "level1": "자신이 [INT] 속성에게 주는 일반 공격에 의한 데미지가 1.2배가 된다",
+            "level2": "Makes [PSY] orbs “beneficial” for Fighter characters"
+        },
+        "limit": [
+            {
+                "description": "공격력 상승 : 5"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 5"
+            },
+            {
+                "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 15"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "선원 효과 추가 1: 자신이 [INT] 속성에게 주는 일반 공격에 의한 데미지가 1.2배가 된다"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for Fighter characters"
+            },
+            {
+                "description": "체력 상승 : 70"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "잠재능력 습득 3: 회복 무효 내성"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[INT] 데미지 피해 감소",
+                "description": [
+                    "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+                    "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+                    "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+                    "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+                ]
+            },
+            {
+                "Name": "슬롯 봉쇄 내성",
+                "description": [
+                    "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+                    "Level 2: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+                    "Level 3: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+                    "Level 4: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
+                    "Level 5: 자신의 슬롯 봉쇄 상태를 10턴 회복한다"
+                ]
+            },
+            {
+                "Name": "회복 무효 내성",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 3 turns",
+                    "Level 3: Reduces No Healing duration by 5 turns",
+                    "Level 4: Reduces No Healing duration by 7 turns",
+                    "Level 5: Reduces No Healing duration by 10 turns"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 10턴 회복한다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 3 turns",
-          "Level 3: Reduces No Healing duration by 5 turns",
-          "Level 4: Reduces No Healing duration by 7 turns",
-          "Level 5: Reduces No Healing duration by 10 turns"
-        ]
-      }
-    ]
-  }
+    }
 }

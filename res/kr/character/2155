@@ -1,9 +1,9 @@
 {
     "name": "페콤즈, 모코모 공국 출신",
     "detail": {
-        "captain": "Boosts ATK of Fighter characters by 1.5x, protects from defeat as long as HP is above ?%",
-        "special": "Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers and removes enemies Increased Defense buff",
-        "specialName": "Flicker Power Knuckle",
+        "captain": "격투형 캐릭터의 공격력을 1.5배로 만들고, 체력이 일정 비율 이상인 경우 공격을 받아도 쓰러지지 않는다",
+        "special": "모든 방어 효과를 무시하고 적 1명의 HP를 20% 줄이고, 적 전체에 걸린 방어력 상승 상태를 완전히 해제한다",
+        "specialName": "순간의 파워 너클",
         "specialNotes": "#{ignoreBarrier}"
     }
 }

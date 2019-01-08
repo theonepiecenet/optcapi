@@ -1,9 +1,9 @@
 {
     "name": "빈스모크 상디, 제르마 왕국의 제물",
     "detail": {
-        "captain": "If there are 6 Fighter characters in your crew, boosts chain multiplier by 4x and boosts ATK of Fighter characters by 1.75x. Lowers chances of getting Matching orbs proportionally to the crew's current HP.",
+        "captain": "일당에 격투형 캐릭터가 6명일 때 체인 계수 증가량을 4배, 격투형 캐릭터의 공격력을 1.75배로 만들고, 남은 체력이 적을수록 격투형 캐릭터의 속성 일치 슬롯 출현율이 감소한다",
         "captainNotes": "At 1 HP, the rate of Matching orbs is ???% (lower) and at full HP, the rate of Matching orbs is ???%",
-        "special": "Deals 150x character's ATK in [PSY] damage to one enemy. If HP is above ?% at the time the special is activated, boosts ATK of Fighter characters by 2.25x for 1 turn. If Sanji is your Captain or Friend/Guest Captain, reduces Chain Multiplier Limit and Chain Coefficient Reduction duration by 10 turns",
-        "specialName": "Full Course of Hell"
+        "special": "적 1명에게 캐릭터의 공격력x150배의 [PSY] 데미지를 주고, 필살기 발동 시 남은 체력이 일정 비율 이상일 경우 1턴 동안 격투형 캐릭터의 공격력이 2.25배가 되며, 자신이 선장, 친구 선장, 조력자 선장일 때 체인 계수 고정 및 체인 계수 증가량 감소 상태를 10턴 회복한다",
+        "specialName": "지옥의 풀 코스"
     }
 }
