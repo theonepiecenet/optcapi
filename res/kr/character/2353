@@ -1,7 +1,7 @@
 {
-    "name": "Coliseum 마젤란",
+    "name": "마젤란, Venom-Venom Fruit User",
     "detail": {
-        "captain": "Boosts ATK of Shooter and Striker characters by ?x and recovers ?x character's RCV in HP at the end of each turn.",
+        "captain": "Boosts ATK of Shooter and Striker characters by 2.25x and recovers 1.5x character's RCV in HP at the end of each turn.",
         "special": [
             {
                 "description": "Poisons all enemies, reduces enemy's Threshold Damage Reduction and Percent Damage Reduction duration by 1 turn and boosts ATK against Poisoned enemies by 1.5x for 1 turn",
@@ -19,7 +19,8 @@
             }
         ],
         "specialNotes": "Strong Poison deals 300x character's ATK in fixed damage at the end of each turn. Regular Poison deals .5x character's ATK in fixed damage at the end of each turn.",
-        "specialName": "Chloro Ball"
+        "specialName": "Chloro Ball",
+        "sailor": "Reduces Silence duration on this character by 3 turns"
     },
     "aliases": [
         "",
