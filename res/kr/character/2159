@@ -1,138 +1,138 @@
 {
-  "name": "마젤란, Hell’s Judgement",
-  "detail": {
-    "captain": "If there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, boosts ATK of all characters by 2.25x and their HP by 1.5x and cuts the current HP of each enemy by 15% at the end of each turn. If 300,000 damage was dealt to enemies in the last turn, poisons all enemies.",
-    "captainNotes": "#{poison : 50x}<br>To poison all enemies, the damage dealt with normal attacks must exceed 300,000 and the poison does not bypass immunity.",
-    "special": "Inflicts Toxic to all enemies, recovers 13x character's RCV in HP at the end of each turn for 3 turns. If enemies are inflicted with Toxic or Poison upon activation of the special, delays all enemies for 1 turn.",
-    "specialNotes": "#{toxic : 50x : 2x : 3,000,000}<br>Delay effect will not trigger from the Toxic in Magellan's special, the enemy must already be poisoned.<br>If enemies are both Poisoned and inflicted with Toxic, only the Toxic damage will damage the enemy at the end of the turn.",
-    "specialName": "Venom Demon: Hell's Judgement",
-    "sailor": {
-      "base": "None",
-      "level1": "Cannot be blown away"
-    },
-    "limit": [
-      {
-        "description": "공격력 상승 : 15"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "잠재능력 습득 1: 긴급 회복"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "공격력 상승 : 15"
-      },
-      {
-        "description": "선원 효과 추가 1: Cannot be blown away"
-      },
-      {
-        "description": "공격력 상승 : 15"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "잠재능력 습득 2: 배리어 관통"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "회복력 상승 : 15"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "회복력 상승 : 15"
-      },
-      {
-        "description": "체력 상승 : 90"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 45"
-      },
-      {
-        "description": "체력 상승 : 90"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 100"
-      },
-      {
-        "description": "잠재능력 습득 3: 회복 무효 내성"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
-          "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
-          "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
-          "Level 4: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
-          "Level 5: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x3배의 체력을 회복한다"
+    "name": "마젤란, 지옥의 심판",
+    "detail": {
+        "captain": "1턴 동안 적에게 준 일반 공격의 TOTAL 데미지가 300000 이상일 때, 적 전체를 캐릭터의 공격력x50배의 데미지를 주는 독 상태로 만들고, 일당에 모든 속성이 편성되어 있으면 일당의 공격력을 2.25배, 체력을 1.5배로 만들고, 턴 종료 시 적 전체의 체력을 15% 줄인다",
+        "captainNotes": "#{poison : 50x}<br>To poison all enemies, the damage dealt with normal attacks must exceed 300,000 and the poison does not bypass immunity.",
+        "special": "적 전체를 서서히 데미지 양이 늘어나는 독 상태로 만들고(최소 캐릭터의 공격력x50배부터 3000000 데미지), 3턴 동안 턴 종료 시 캐릭터의 회복력x13배의 체력을 회복하며, 필살기 발동 시 독, 맹독, 서서히 데미지 양이 늘어나는 독 상태의 적이 있을 때 적 전체의 공격을 1턴 지연시킨다",
+        "specialNotes": "#{toxic : 50x : 2x : 3,000,000}<br>Delay effect will not trigger from the Toxic in Magellan's special, the enemy must already be poisoned.<br>If enemies are both Poisoned and inflicted with Toxic, only the Toxic damage will damage the enemy at the end of the turn.",
+        "specialName": "베놈 데몬 지옥의 심판",
+        "sailor": {
+            "base": "None",
+            "level1": "Cannot be blown away"
+        },
+        "limit": [
+            {
+                "description": "공격력 상승 : 15"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "잠재능력 습득 1: 긴급 회복"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 15"
+            },
+            {
+                "description": "선원 효과 추가 1: Cannot be blown away"
+            },
+            {
+                "description": "공격력 상승 : 15"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "잠재능력 습득 2: 배리어 관통"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "회복력 상승 : 15"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "회복력 상승 : 15"
+            },
+            {
+                "description": "체력 상승 : 90"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 45"
+            },
+            {
+                "description": "체력 상승 : 90"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 100"
+            },
+            {
+                "description": "잠재능력 습득 3: 회복 무효 내성"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "긴급 회복",
+                "description": [
+                    "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
+                    "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
+                    "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
+                    "Level 4: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
+                    "Level 5: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x3배의 체력을 회복한다"
+                ]
+            },
+            {
+                "Name": "배리어 관통",
+                "description": [
+                    "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers"
+                ]
+            },
+            {
+                "Name": "회복 무효 내성",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turns",
+                    "Level 3: Reduces No Healing duration by 3 turns",
+                    "Level 4: Reduces No Healing duration by 4 turns",
+                    "Level 5: Reduces No Healing duration by 5 turns"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
-        ]
-      }
-    ]
-  }
+    }
 }
