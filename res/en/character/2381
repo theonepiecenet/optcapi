@@ -10,6 +10,53 @@
       "level1": "Boosts own base ATK by 300 if this character is the last in the chain to attack",
       "level2": "Boosts amount healed from [RCV] orbs by 250 each"
     },
+    "limit": [
+      {
+        "description": "Boosts base HP by 55"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts own base ATK by 300 if this character is the last in the chain to attack"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts amount healed from [RCV] orbs by 250 each"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 110"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "Reduce No Healing duration",
@@ -46,7 +93,7 @@
     ]
   },
   "aliases": [
-    "",
+    "シャーロット・リンリン エルバフの地の悪神",
     "",
     "Young Big Mom",
     "Ambush Big Mom",
@@ -70,15 +117,21 @@
     "maxHP": 2814,
     "maxATK": 1545,
     "maxRCV": 211,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     28,
-    null
+    14
   ],
   "evolve": {
     "evolution": 2381,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      87,
+      92,
+      98,
+      267
+    ],
     "from": 2380
   },
   "image": {

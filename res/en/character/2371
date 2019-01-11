@@ -9,6 +9,53 @@
       "level1": "Changes all orbs into [RCV] orbs at the start of the fight"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Changes all orbs into [RCV] orbs at the start of the fight"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
     "potential": [
       {
         "Name": "Reduce No Healing duration",
@@ -46,7 +93,7 @@
     ]
   },
   "aliases": [
-    "",
+    "美食騎士シュトロイゼン ビッグ・マム海賊団　総料理長",
     "",
     ""
   ],
@@ -62,18 +109,27 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
-    "maxHP": 3000,
-    "maxATK": 1400,
-    "maxRCV": 250,
-    "ability": null
+    "minHP": 866,
+    "minATK": 801,
+    "minRCV": 122,
+    "maxHP": 2532,
+    "maxATK": 1260,
+    "maxRCV": 358,
+    "ability": 1
   },
-  "cooldown": null,
+  "cooldown": [
+    20,
+    14
+  ],
   "evolve": {
     "evolution": 2371,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      84,
+      94,
+      300,
+      100
+    ],
     "from": 2370
   },
   "image": {

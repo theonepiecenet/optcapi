@@ -18,7 +18,7 @@
     ]
   },
   "aliases": [
-    "",
+    "マザー・カルメル 羊の家の聖母",
     "",
     ""
   ],
@@ -40,7 +40,7 @@
     "maxHP": 1626,
     "maxATK": 1017,
     "maxRCV": 355,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     17,
@@ -48,7 +48,13 @@
   ],
   "evolve": {
     "evolution": 2377,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ],
     "from": 2376
   },
   "image": {

@@ -137,7 +137,7 @@
     "potentialNotes": "#{enrage}"
   },
   "aliases": [
-    "",
+    "イヌアラシ 手打の宴",
     "",
     "Mega Inuarashi",
     "Super Inuarashi",
@@ -155,13 +155,13 @@
     "slots": 5,
     "level": 99,
     "exp": 5000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
+    "minHP": 1356,
+    "minATK": 772,
+    "minRCV": 172,
     "maxHP": 3245,
     "maxATK": 1582,
     "maxRCV": 421,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     19,
@@ -170,7 +170,11 @@
   "evolve": {
     "evolution": 2372,
     "evolvers": [
-      "skullSTR"
+      "skullSTR",
+      118,
+      84,
+      300,
+      267
     ],
     "from": 1571
   },

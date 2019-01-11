@@ -11,6 +11,98 @@
       "level1": "Boosts base ATK, HP and RCV of all characters by 75",
       "level2": "Boosts this character's attack against [INT] characters by 1.1x"
     },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 5"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 75"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts this character's attack against [INT] characters by 1.1x"
+      },
+      {
+        "description": "Boosts base ATK by 75"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Potential 3: Reduce No Healing duration"
+      }
+    ],
     "potential": [
       {
         "Name": "Slot Bind Self-reduction",
@@ -58,7 +150,7 @@
     ]
   },
   "aliases": [
-    "",
+    "シャーロット・カタクリ 男の勝負",
     "",
     "Katakuri V2"
   ],
@@ -74,18 +166,27 @@
     "slots": 5,
     "level": 99,
     "exp": 5000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
-    "maxHP": 4000,
-    "maxATK": 1650,
-    "maxRCV": 200,
-    "ability": null
+    "minHP": 1732,
+    "minATK": 1015,
+    "minRCV": 103,
+    "maxHP": 3850,
+    "maxATK": 1645,
+    "maxRCV": 220,
+    "ability": 1
   },
-  "cooldown": null,
+  "cooldown": [
+    21,
+    16
+  ],
   "evolve": {
     "evolution": 2365,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      266,
+      98,
+      303,
+      267
+    ],
     "from": 2364
   },
   "image": {

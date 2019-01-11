@@ -1,15 +1,16 @@
 {
   "name": "Charlotte Flampe",
   "detail": {
-    "captain": "Recovers ?x character's RCV in HP at the end of each turn",
+    "captain": "Recovers 3x character's RCV in HP at the end of each turn",
     "special": "Recovers 6x character's RCV in HP at the end of each turn for 3 turns. If during that turn, you hit 3 PERFECTS, boosts ATK of Fighter, Slasher, Shooter, Driven and Powerhouse characters by 1.75x for 3 turns in the following turn and protects from defeat as long as HP is above 50% for 1 turn",
     "specialName": "Numbing Needle",
     "sailor": "If this character has a [PSY] orb and you hit a PERFECT with her, keep his [PSY] orb for the next turn"
   },
   "aliases": [
+    "シャーロット・フランペ",
     "",
-    "",
-    ""
+    "Charlotte Flambe",
+    "Charlotte Flambé"
   ],
   "unit": {
     "type": "PSY",
@@ -29,12 +30,21 @@
     "maxHP": 980,
     "maxATK": 740,
     "maxRCV": 140,
-    "ability": null
+    "ability": 1
   },
-  "cooldown": null,
+  "cooldown": [
+    21,
+    15
+  ],
   "evolution": {
     "evolution": 2367,
-    "evolvers": []
+    "evolvers": [
+      117,
+      87,
+      1180,
+      303,
+      103
+    ]
   },
   "evolve": [],
   "image": {

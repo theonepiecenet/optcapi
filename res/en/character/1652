@@ -73,7 +73,7 @@
         "description": "Boosts base HP by 65"
       },
       {
-        "description": "Boosts base ATK by 35"
+        "description": "Boosts base ATK by 25"
       },
       {
         "description": "Boosts base ATK by 40"
@@ -170,7 +170,11 @@
   "evolution": {
     "evolution": 2373,
     "evolvers": [
-      "skullPSY"
+      "skullPSY",
+      118,
+      87,
+      303,
+      267
     ]
   },
   "evolve": {

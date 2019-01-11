@@ -6,7 +6,7 @@
     "specialName": "The Voice Given by the Holy Mother"
   },
   "aliases": [
-    "",
+    "マザー・カルメル",
     "",
     ""
   ],
@@ -28,7 +28,7 @@
     "maxHP": 1092,
     "maxATK": 499,
     "maxRCV": 130,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     17,
@@ -36,7 +36,13 @@
   ],
   "evolution": {
     "evolution": 2377,
-    "evolvers": []
+    "evolvers": [
+      117,
+      80,
+      86,
+      97,
+      102
+    ]
   },
   "evolve": [],
   "image": {
@@ -46,7 +52,7 @@
   "drop": [
     {
       "type": "Fortnight",
-      "name": "Mother Caramel Fortnight",
+      "name": "Our Lady's Motherly Love Fortnight",
       "thumb": 2377,
       "data": [
         "All Difficulties"

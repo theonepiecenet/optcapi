@@ -1,14 +1,14 @@
 {
   "name": "Streusen",
   "detail": {
-    "captain": "Boosts ATK of [STR] characters by ?x and their RCV by ?x",
+    "captain": "Boosts ATK of [STR] characters by 2.25x and their RCV by 1.2x",
     "special": "Removes Poison duration completely, reduces Bind and Despair duration by 5 turns, changes [TND], [BLOCK], [BOMB] and Badly Matching orbs into [RCV] orbs and makes [STR], [PSY] and [RCV] orbs beneficial for 3 turns",
     "specialName": "Gourmetamorphosis",
     "sailor": "Makes [RCV] orbs beneficial for this character",
     "sailorNotes": "#{beneficial}"
   },
   "aliases": [
-    "",
+    "美食騎士シュトロイゼン",
     "",
     ""
   ],
@@ -20,22 +20,31 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 230,
+    "minATK": 230,
+    "minRCV": 34,
+    "maxHP": 876,
+    "maxATK": 810,
+    "maxRCV": 134,
+    "ability": 1
   },
-  "cooldown": null,
+  "cooldown": [
+    20,
+    14
+  ],
   "evolution": {
     "evolution": 2371,
-    "evolvers": []
+    "evolvers": [
+      117,
+      84,
+      94,
+      300,
+      100
+    ]
   },
   "evolve": [],
   "image": {

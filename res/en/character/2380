@@ -1,13 +1,13 @@
 {
   "name": "Charlotte Linlin",
   "detail": {
-    "captain": "Boosts ATK of Driven and Powerhouse characters by ?x and makes [RCV] orbs beneficial for Driven and Powerhouse characters.",
+    "captain": "Boosts ATK of Powerhouse characters by 2.25x and makes [RCV] orbs beneficial for Powerhouse characters.",
     "captainNotes": "#{beneficial}",
     "special": "Reduces ATK DOWN, Bind and Despair duration by 6 turns, changes own orb and adjacent orbs into [RCV] orbs boosts ATK of Driven and Powerhouse characters by 2.25x after 12th hit in the chain for 3 turns.",
     "specialName": "Natural Born Destroyer"
   },
   "aliases": [
-    "",
+    "シャーロット・リンリン 羊の家の少女",
     "",
     "Young Big Mom",
     "Ambush Big Mom",
@@ -31,15 +31,21 @@
     "maxHP": 2188,
     "maxATK": 1081,
     "maxRCV": 64,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     28,
-    null
+    14
   ],
   "evolution": {
     "evolution": 2381,
-    "evolvers": []
+    "evolvers": [
+      118,
+      87,
+      92,
+      98,
+      267
+    ]
   },
   "evolve": [],
   "image": {

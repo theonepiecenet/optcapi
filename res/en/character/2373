@@ -73,7 +73,7 @@
         "description": "Boosts base HP by 65"
       },
       {
-        "description": "Boosts base ATK by 35"
+        "description": "Boosts base ATK by 25"
       },
       {
         "description": "Boosts base ATK by 40"
@@ -137,7 +137,7 @@
     ]
   },
   "aliases": [
-    "",
+    "ネコマムシ 手打の宴",
     "",
     "Mega Nekomamushi",
     "Super Nekomamushi",
@@ -155,13 +155,13 @@
     "slots": 5,
     "level": 99,
     "exp": 5000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
+    "minHP": 1588,
+    "minATK": 624,
+    "minRCV": 138,
     "maxHP": 3592,
-    "maxATK": 1514,
+    "maxATK": 1524,
     "maxRCV": 402,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     16,
@@ -170,7 +170,11 @@
   "evolve": {
     "evolution": 2373,
     "evolvers": [
-      "skullPSY"
+      "skullPSY",
+      118,
+      87,
+      303,
+      267
     ],
     "from": 1652
   },

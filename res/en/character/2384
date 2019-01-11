@@ -2,7 +2,7 @@
   "name": "Basil Hawkins, The Problem Children's Pirate Alliance",
   "detail": {
     "captain": "Boosts ATK of Fighter characters by 1.5x",
-    "special": "Reduces enemy Damage Nullification duration by 1 turn and amplifies the effect of orbs for all characters by 1.5x for 1 turn. If your captain is a [STR] or [PSY], boosts the Color Affinity of all characters by 1.5x for 1 turn",
+    "special": "Reduces enemy Damage Nullification duration by 1 turn and amplifies the effect of orbs for all characters by 1.5x for 1 turn. If your captain is a [STR] or [PSY] character, boosts the Color Affinity of all characters by 1.5x for 1 turn",
     "specialName": "Allied \"Magician\" Grief",
     "potential": [
       {
@@ -35,12 +35,12 @@
     "slots": 4,
     "level": 99,
     "exp": 2000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
+    "minHP": 1331,
+    "minATK": 701,
+    "minRCV": 159,
+    "maxHP": 2191,
+    "maxATK": 1307,
+    "maxRCV": 309,
     "ability": null
   },
   "cooldown": [

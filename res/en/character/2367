@@ -6,9 +6,56 @@
     "specialName": "Numbing Needle",
     "sailor": {
       "base": "If this character has a [PSY] orb and you hit a PERFECT with her, keep his [PSY] orb for the next turn",
-      "level1": "If your captain is a [STR] or [PSY], makes [INT] orbs beneficial for [STR] and [PSY] characters"
+      "level1": "If your captain is a [STR] or [PSY] character, makes [INT] orbs beneficial for [STR] and [PSY] characters"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If your captain is a [STR] or [PSY] character, makes [INT] orbs beneficial for [STR] and [PSY] characters"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
     "potential": [
       {
         "Name": "[INT] Damage Reduction",
@@ -46,9 +93,10 @@
     ]
   },
   "aliases": [
+    "シャーロット・フランペ カタクリファンクラブ会長兼特攻隊長",
     "",
-    "",
-    ""
+    "Charlotte Flambe",
+    "Charlotte Flambé"
   ],
   "unit": {
     "type": "PSY",
@@ -68,12 +116,21 @@
     "maxHP": 2140,
     "maxATK": 1210,
     "maxRCV": 440,
-    "ability": null
+    "ability": 1
   },
-  "cooldown": null,
+  "cooldown": [
+    21,
+    15
+  ],
   "evolve": {
     "evolution": 2367,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      87,
+      1180,
+      303,
+      103
+    ],
     "from": 2366
   },
   "image": {
