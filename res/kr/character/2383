@@ -1,0 +1,63 @@
+{
+    "name": "유스타스 키드, The Problem Children's Pirate Alliance",
+    "detail": {
+        "captain": "Boosts ATK of [QCK] characters by 1.5x",
+        "special": "Deals 30x character's ATK in [QCK] damage to one enemy and reduces ATK DOWN and Increase Damage Taken duration by 4 turns. If you are on a Treasure Map, boosts ATK of [STR], [QCK] and [PSY] characters depending on your Treasure Map Level for 1 turn",
+        "specialName": "Allied “Captain” Anger",
+        "specialNotes": "Level 1-10: 1.75x ATK boost<br>Level 11-20: 2x ATK boost<br>Level 21+: 2.25x ATK boost",
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 50% chance to deal 3% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 60% chance to deal 4% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 5% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        "Limited Kid",
+        "Secret Kid"
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "stars": 5,
+        "cost": 20,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 2000000,
+        "minHP": 1350,
+        "minATK": 753,
+        "minRCV": 142,
+        "maxHP": 2230,
+        "maxATK": 1359,
+        "maxRCV": 227,
+        "ability": null
+    },
+    "cooldown": [
+        12,
+        12
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2383.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2383.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1
+    },
+    "drop": [],
+    "manual": []
+}
