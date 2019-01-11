@@ -1,7 +1,10 @@
 {
   "name": "Nico Robin, Devil Girl",
   "detail": {
-    "special": "Changes top row orbs into [DEX] orbs, reduces Despair duration by 1 turn",
+    "special": {
+      "japan": "Changes top row orbs into [DEX] orbs, removes Blindness duration completely",
+      "global": "Changes top row orbs into [DEX] orbs, reduces Despair duration by 1 turn"
+    },
     "specialName": "Ojos Fleur: Thriller",
     "captain": "Boosts ATK and RCV of [DEX] characters by 1.5x"
   },
