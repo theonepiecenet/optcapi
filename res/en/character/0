@@ -1,0 +1,48 @@
+{
+  "name": "Monkey D. Luffy",
+  "detail": {
+    "special": "Deals 5x character's ATK in [STR] damage to one enemy",
+    "specialName": "Spinning Gum Punch"
+  },
+  "aliases": [
+    "モンキー・D・ルフィ",
+    "Monkey D. Luffy"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": "Fighter",
+    "stars": 2,
+    "cost": 1,
+    "combo": 5,
+    "slots": 0,
+    "level": 5,
+    "exp": 163,
+    "minHP": 42,
+    "minATK": 15,
+    "minRCV": 8,
+    "maxHP": 134,
+    "maxATK": 68,
+    "maxRCV": 15,
+    "ability": 1
+  },
+  "cooldown": [
+    3,
+    2
+  ],
+  "evolution": {
+    "evolution": 2,
+    "evolvers": [
+      78
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0001.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0001.png"
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}
