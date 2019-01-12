@@ -1,0 +1,57 @@
+{
+  "name": "Nami, Outlaw on the Prairie",
+  "detail": {
+    "captain": "Reduces damage received by 20% and boosts ATK of Shooter and Striker characters proportionally to the crew's current HP, by ?x at max",
+    "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : ? : ?}",
+    "special": "Reduces Paralysis and Silence duration by 3 turns. if HP is above 80% at the time the special is activated, changes [STR], [QCK], [DEX], [PSY] and [INT] orbs into Matching orbs",
+    "specialName": "Seductive Gun Play",
+    "sailor": "Reduces Paralysis duration on this character by 3 turns"
+  },
+  "aliases": [
+    "",
+    "",
+    "World Journey Nami",
+    "Cowboy Nami"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": null,
+    "level": null,
+    "exp": null,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    null,
+    12
+  ],
+  "evolution": {
+    "evolution": 2412,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2411.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2411.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}

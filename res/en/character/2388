@@ -1,0 +1,60 @@
+{
+  "name": "Makino, Looking After the 3 Brothers",
+  "detail": {
+    "captain": "Reduces damage received by 20% and recovers 2x character's RCV in HP at the end of each turn",
+    "special": "Recovers 3,000 HP and reduces damage received by 60% for 2 turns.",
+    "specialName": "Female Bartender's Care",
+    "support": [
+      {
+        "Characters": "Luffy, Ace and Sabo",
+        "description": [
+          "Level 1: Reduces damage received from [PSY] characters by 1%. Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Reduces damage received from [PSY] characters by 2%. Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Reduces damage received from [PSY] characters by 3%. Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Reduces damage received from [PSY] characters by 4%. Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Reduces damage received from [PSY] characters by 5%. Adds 9% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Support Makino"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Cerebral",
+      "Fighter"
+    ],
+    "stars": 5,
+    "cost": 1,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": null,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 1645,
+    "maxATK": 1011,
+    "maxRCV": 468,
+    "ability": null
+  },
+  "cooldown": [
+    null,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2388.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2388.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

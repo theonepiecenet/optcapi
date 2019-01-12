@@ -1,0 +1,60 @@
+{
+  "name": "Tsuru, Observant Great Staff Officer",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 1.75x and their HP by 1.2x.",
+    "special": "Reduces enemies Percent Damage Reduction duration by 2 turns and boosts ATK of all characters by 1.3x for 2 turns and amplifies the effect of orbs by 1.3x for 2 turns.",
+    "specialName": "Great Staff Officer's Commands",
+    "support": [
+      {
+        "Characters": "Garp and Sengoku",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses their special, cuts the current HP of each enemy by 2% for 3 turns at the end of the turn.",
+          "Level 2: Once per an adventure, when the supported character uses their special, cuts the current HP of each enemy by 3% for 3 turns at the end of the turn.",
+          "Level 3: Once per an adventure, when the supported character uses their special, cuts the current HP of each enemy by 4% for 3 turns at the end of the turn.",
+          "Level 4: Once per an adventure, when the supported character uses their special, cuts the current HP of each enemy by 5% for 3 turns at the end of the turn.",
+          "Level 5: Once per an adventure, when the supported character uses their special, cuts the current HP of each enemy by 7% for 3 turns at the end of the turn."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Support Tsuru"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Shooter",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 1,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": null,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 2671,
+    "maxATK": 1272,
+    "maxRCV": 331,
+    "ability": null
+  },
+  "cooldown": [
+    null,
+    9
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2389.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2389.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}
