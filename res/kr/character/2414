@@ -1,0 +1,78 @@
+{
+    "name": "롤로노아 조로, 황야의 한 마리 늑대",
+    "detail": {
+        "captain": "사격형과 야심형 캐릭터의 공격력을 평상시 2.25배, 슬롯 일치 시 약 2.75배로 만든다",
+        "special": "배리어를 친 적이 있을 때, [BLOCK] 슬롯을 포함한 모든 슬롯을 속성 일치 슬롯으로 바꾸고, 적 전체의 HP 바에 걸려 있는 모든 배리어를 1턴 줄인다. 배리어를 친 적이 없을 때는 인접한 슬롯을 속성 일치 슬롯으로 바꾼다",
+        "specialName": "삼총류의 무법자",
+        "sailor": {
+            "base": "Boosts base ATK, HP and RCV of Shooter and Driven characters by 50",
+            "level1": "Reduces Silence duration by 1 turn"
+        },
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by ? turn on this character",
+                    "Level 2: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 3: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 4: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 5: Reduces Slot Bind duration by ? turns on this character"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        "World Journey Zoro",
+        "Cowboy Zoro"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": null,
+        "slots": null,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": null,
+        "minATK": null,
+        "minRCV": null,
+        "maxHP": null,
+        "maxATK": null,
+        "maxRCV": null,
+        "ability": null
+    },
+    "cooldown": null,
+    "evolve": {
+        "evolution": 2414,
+        "evolvers": [],
+        "from": 2413
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2414.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2414.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
+}
