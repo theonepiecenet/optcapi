@@ -5,6 +5,38 @@
     "special": "Deals 30x character's ATK in [QCK] damage to one enemy and reduces ATK DOWN and Increase Damage Taken duration by 4 turns. If you are on a Treasure Map, boosts ATK of [STR], [QCK] and [PSY] characters depending on your Treasure Map Level for 1 turn",
     "specialName": "Allied \"Captain\" Anger",
     "specialNotes": "Level 1-10: 1.75x ATK boost<br>Level 11-20: 2x ATK boost<br>Level 21+: 2.25x ATK boost",
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      }
+    ],
     "potential": [
       {
         "Name": "Critical Hit",
@@ -19,7 +51,7 @@
     ]
   },
   "aliases": [
-    "",
+    "ユースタス・キッド 問題児達の海賊同盟",
     "",
     "Limited Kid",
     "Secret Kid"
@@ -42,7 +74,7 @@
     "maxHP": 2230,
     "maxATK": 1359,
     "maxRCV": 227,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     12,

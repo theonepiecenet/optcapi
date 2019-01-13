@@ -1,13 +1,13 @@
 {
   "name": "Kaido",
   "detail": {
-    "captain": "Boosts own ATK by ?x and boosts ATK of Driven and Powerhouse characters by ?x and their HP by ?x",
+    "captain": "Boosts ATK of Powerhouse characters by 1.2x",
     "special": "Removes all positive buffs on your team, cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers, amplifies the effect of orbs for all characters by 1.5x and boosts own ATK by 3.25x for a variable amount of turns",
     "specialNotes": "ATK and Orb amplification buff duration is equal to the amount of [RCV] orbs consumed prior to the time the special was activated with a maximum of 6 turns.",
-    "specialName": "Kaido Special"
+    "specialName": "Kanabō of the Beasts"
   },
   "aliases": [
-    "",
+    "カイドウ",
     "",
     "TM Kaido"
   ],
@@ -19,17 +19,17 @@
     ],
     "stars": 4,
     "cost": 30,
-    "combo": null,
+    "combo": 4,
     "slots": 1,
     "level": 50,
     "exp": 130703,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 1020,
+    "minATK": 502,
+    "minRCV": 30,
+    "maxHP": 1900,
+    "maxATK": 888,
+    "maxRCV": 61,
+    "ability": 1
   },
   "cooldown": [
     35,
@@ -37,7 +37,13 @@
   ],
   "evolution": {
     "evolution": 2387,
-    "evolvers": []
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      100
+    ]
   },
   "evolve": [],
   "image": {

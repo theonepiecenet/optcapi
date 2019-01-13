@@ -4,6 +4,38 @@
     "captain": "Boosts ATK of Fighter characters by 1.5x",
     "special": "Reduces enemy Damage Nullification duration by 1 turn and amplifies the effect of orbs for all characters by 1.5x for 1 turn. If your captain is a [STR] or [PSY] character, boosts the Color Affinity of all characters by 1.5x for 1 turn",
     "specialName": "Allied \"Magician\" Grief",
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      }
+    ],
     "potential": [
       {
         "Name": "Reduce No Healing duration",
@@ -18,7 +50,7 @@
     ]
   },
   "aliases": [
-    "",
+    "バジル・ホーキンス 問題児達の海賊同盟",
     "",
     "Limited Hawkins",
     "Secret Hawkins"
@@ -41,7 +73,7 @@
     "maxHP": 2191,
     "maxATK": 1307,
     "maxRCV": 309,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     12,

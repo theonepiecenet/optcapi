@@ -4,6 +4,38 @@
     "captain": "Boosts ATK of Shooter characters by 1.5x",
     "special": "Reduces enemy Percent Damage Reduction duration by 3 turns reduces Chain Multiplier Limit duration by 3 turns and makes [RCV] and [TND] orbs beneficial for [STR], [QCK] and [PSY] characters for 3 turns",
     "specialName": "Allied \"Roar of the Sea\" Aggravation",
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Acquire Potential 1: Barrier Penetration"
+      }
+    ],
     "potential": [
       {
         "Name": "Barrier Penetration",
@@ -18,7 +50,7 @@
     ]
   },
   "aliases": [
-    "",
+    "スクラッチメン・アプー 問題児達の海賊同盟",
     "",
     "Limited Apoo",
     "Secret Apoo"
@@ -41,7 +73,7 @@
     "maxHP": 2194,
     "maxATK": 1280,
     "maxRCV": 310,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     14,
