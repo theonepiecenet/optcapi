@@ -1,8 +1,55 @@
 {
-  "name": "푸른 귀신 도리",
-  "detail": {
-    "captain": "강인형 캐릭터의 공격과 체력이 1.5배가 된다.",
-    "specialName": "패국",
-    "special": "적 전체에 캐릭터의 공격 X20배 [INT] 데미지를 주고, 1턴간 강인형 캐릭터의 공격이 1.5배 상승, 동일턴에 이미 \"패국\"스킬이 발동되어 있을경우 공격이 2배 상승"
-  }
+    "name": "푸른 귀신 도리",
+    "detail": {
+        "captain": "강인형 캐릭터의 공격과 체력이 1.5배가 된다.",
+        "specialName": "패국",
+        "special": "적 전체에 캐릭터의 공격 X20배 [INT] 데미지를 주고, 1턴간 강인형 캐릭터의 공격이 1.5배 상승, 동일턴에 이미 \"패국\"스킬이 발동되어 있을경우 공격이 2배 상승",
+        "limit": [
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base HP by 75"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Acquire Potential 1: [PSY] Damage Reduction"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 4 turns"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [INT] orbs beneficial for Powerhouse characters"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 5 turns"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base HP by 125"
+            },
+            {
+                "description": "Acquire Sailor Ability 2: Cannot be Blown Away"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Acquire Potential 2: Reduce No Healing duration"
+            }
+        ]
+    }
 }
