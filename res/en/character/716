@@ -3,7 +3,19 @@
   "detail": {
     "special": "Boosts ATK and RCV of Free Spirit characters by 1.5x for 2 turns, seals herself for 3 turns",
     "specialName": "Angel's Harp - Healing",
-    "captain": "Boosts RCV of all characters by 5x if HP is below 30% at the start of the turn"
+    "captain": "Boosts RCV of all characters by 5x if HP is below 30% at the start of the turn",
+    "support": [
+      {
+        "Characters": "Ganfor, Aisa, Wyper, Nami, Usopp and Sanji",
+        "description": [
+          "Level 1: Boosts the supported character's ATK by 1.05x against Enel",
+          "Level 2: Boosts the supported character's ATK by 1.05x against Enel",
+          "Level 3: Boosts the supported character's ATK by 1.1x against Enel",
+          "Level 4: Boosts the supported character's ATK by 1.15x against Enel",
+          "Level 5: Boosts the supported character's ATK by 1.2x against Enel"
+        ]
+      }
+    ]
   },
   "aliases": [
     "コニス スカイピアの少女",
