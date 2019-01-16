@@ -1,9 +1,9 @@
 {
-  "name": "잭",
-  "detail": {
-    "captain": "Boosts ATK of Powerhouse characters by ?x and reduces damage received by ?%",
-    "special": "Reduces enemies Percent Damage Reduction, Increased Defense and Damage Nullification duration by 2 turns and deals fixed Typeless damage, proportional to the number of enemies on the stage, to one enemy that will ignore damage negating abilities and barriers.",
-    "specialNotes": "<br><b>1 enemy:</b> 300,000 damage<br><b>2 enemies:</b> 500,000 damage<br><b>3 enemies:</b> 800,000 damage<br><b>4 enemies:</b> 1,100,000 damage<br><b>5 enemies:</b> 1,500,000 damage<br><b>6 enemies:</b> 2,000,000 damage<br>",
-    "specialName": "Genocide Shotel"
-  }
+    "name": "잭",
+    "detail": {
+        "captain": "강인형 캐릭터의 공격력을 1.75배로 만들고, 받는 데미지를 5% 감소시킨다",
+        "special": "적 전체에게 걸려 있는 방어력 상승과 데미지 감소 상태([THRESHOLD DAMAGE] 제외), 데미지 무효 상태를 2턴 줄이고, 적 1명에게 모든 방어 효과 및 방어력을 무시하고 필살기 발동 시 적의 수가 많을수록 강력해지는 무 속성 데미지를 준다(최소 300000 ~ 최대 2000000 데미지)",
+        "specialNotes": "<br><b>1 enemy:</b> 300,000 damage<br><b>2 enemies:</b> 500,000 damage<br><b>3 enemies:</b> 800,000 damage<br><b>4 enemies:</b> 1,100,000 damage<br><b>5 enemies:</b> 1,500,000 damage<br><b>6 enemies:</b> 2,000,000 damage<br>",
+        "specialName": "제노사이드 쇼텔"
+    }
 }
