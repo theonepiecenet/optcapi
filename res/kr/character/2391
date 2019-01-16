@@ -1,0 +1,60 @@
+{
+    "name": "사보, The Will to Protect his Younger Brother",
+    "detail": {
+        "captain": "Boosts ATK of Fighter and Free Spirit characters by 2.25x at the start of the chain, by 2.925x after 3 PERFECTs in a row.",
+        "special": "Changes own orb into [STR], amplifies the effect of orbs for Fighter and Free Spirit characters by 1.75x for 1 turn.",
+        "specialName": "Sworn Brother's Rescuer",
+        "support": [
+            {
+                "Characters": "Luffy, Koala and Hack",
+                "description": [
+                    "Level 1: Once per an adventure, when the supported character uses their special, boosts base ATK of the supported character by 1.2x until the next stage.",
+                    "Level 2: Once per an adventure, when the supported character uses their special, boosts base ATK of the supported character by 1.25x until the next stage.",
+                    "Level 3: Once per an adventure, when the supported character uses their special, boosts base ATK of the supported character by 1.3x until the next stage.",
+                    "Level 4: Once per an adventure, when the supported character uses their special, boosts base ATK of the supported character by 1.35x until the next stage.",
+                    "Level 5: Once per an adventure, when the supported character uses their special, boosts base ATK of the supported character by 1.5x until the next stage."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "サボ 弟を守る意志",
+        "",
+        "Support Sabo"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Free Spirit",
+            "Fighter"
+        ],
+        "stars": 5,
+        "cost": 1,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 934,
+        "minATK": 862,
+        "minRCV": 100,
+        "maxHP": 2727,
+        "maxATK": 1354,
+        "maxRCV": 294,
+        "ability": 1
+    },
+    "cooldown": [
+        13,
+        13
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2391.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2391.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

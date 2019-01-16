@@ -1,0 +1,61 @@
+{
+    "name": "코니스, Fearless Angel Facing Judgement",
+    "detail": {
+        "captain": "Boosts ATK and RCV of all Striker and Free Spirit characters by 1.5x.",
+        "special": "Removes Blindness duration completely and reduces Bind duration by 5 turns.",
+        "specialName": "Angel's Message",
+        "support": [
+            {
+                "Characters": "Ganfor, Aisa, Wyper, Nami, Sanji and Usopp",
+                "description": [
+                    "Level 1: Adds 3% of this character's base ATK to the supported character's base ATK. Boosts the supported character's ATK by 1.5x against Enel. When the supported character hits a PERFECT, reduces enemy's Increased Defense duration by 1 turn.",
+                    "Level 2: Adds 6% of this character's base ATK to the supported character's base ATK. Boosts the supported character's ATK by 1.5x against Enel. When the supported character hits a PERFECT, reduces enemy's Increased Defense duration by 1 turn.",
+                    "Level 3: Adds 9% of this character's base ATK to the supported character's base ATK. Boosts the supported character's ATK by 1.5x against Enel. When the supported character hits a PERFECT, reduces enemy's Increased Defense duration by 1 turn.",
+                    "Level 4: Adds 12% of this character's base ATK to the supported character's base ATK. Boosts the supported character's ATK by 1.5x against Enel. When the supported character hits a PERFECT, reduces enemy's Increased Defense duration by 1 turn.",
+                    "Level 5: Adds 15% of this character's base ATK to the supported character's base ATK. Boosts the supported character's ATK by 1.5x against Enel. When the supported character hits a PERFECT, reduces enemy's Increased Defense duration by 1 turn."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "コニス 裁きを恐れぬ天使",
+        "",
+        "Support Conis",
+        "Support Konis"
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Striker",
+            "Free Spirit"
+        ],
+        "stars": 5,
+        "cost": 1,
+        "combo": 6,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 624,
+        "minATK": 673,
+        "minRCV": 144,
+        "maxHP": 1821,
+        "maxATK": 1056,
+        "maxRCV": 422,
+        "ability": 1
+    },
+    "cooldown": [
+        9,
+        9
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2390.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2390.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}
