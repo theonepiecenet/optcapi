@@ -1,11 +1,11 @@
 {
-  "name": "이누아라시, Warrior of Mokomo Dukedom",
-  "detail": {
-    "captain": "If there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, boosts ATK of all characters by 2x. If you use \"Lightning Counterattack\" in this turn and there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew boosts ATK of all characters by 2.75x instead, by 1.375x otherwise.",
-    "special": "Reduces Silence duration by 4 turns and reduces enemy Threshold Damage Reduction duration by 3 turns. If you are on a Treasure Map, amplifies the effects of orbs for all characters depending on your Treasure Map Level for 1 turn",
-    "specialName": "Lightning Counterattack",
-    "specialNotes": "Level 1-10: 1.75x orb boost<br>Level 11-20: 2x orb boost<br>Level 21+: 2.25x orb boost",
-    "sailor": "Reduces Silence duration on this character by 3 turns",
-    "sailorNotes": "#{silence}"
-  }
+    "name": "이누아라시, 모코모 공국 제일의 전사",
+    "detail": {
+        "captain": "If there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, boosts ATK of all characters by 2x. If you use \"Lightning Counterattack\" in this turn and there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew boosts ATK of all characters by 2.75x instead, by 1.375x otherwise.",
+        "special": "Reduces Silence duration by 4 turns and reduces enemy Threshold Damage Reduction duration by 3 turns. If you are on a Treasure Map, amplifies the effects of orbs for all characters depending on your Treasure Map Level for 1 turn",
+        "specialName": "Lightning Counterattack",
+        "specialNotes": "Level 1-10: 1.75x orb boost<br>Level 11-20: 2x orb boost<br>Level 21+: 2.25x orb boost",
+        "sailor": "Reduces Silence duration on this character by 3 turns",
+        "sailorNotes": "#{silence}"
+    }
 }
