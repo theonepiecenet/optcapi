@@ -1,98 +1,98 @@
 {
-  "name": "이데오, 파괴포",
-  "detail": {
-    "captain": "격투 캐릭터의 공격력을 2.25배 상승시키고, 체력을 1.5배 상승시킨다. 턴 종료후 캐릭터 회복력의 2배만큼 체력을 회복한다.",
-    "special": [
-      {
-        "description": "모든 적에게 [QCK] 데미지를 주고, 1턴 동안 격투 캐릭터의 공격력을 1.5배 상승시킨다.",
-        "cooldown": [
-          18,
-          12
+    "name": "이데오, 파괴포",
+    "detail": {
+        "captain": "격투형 캐릭터의 공격력을 2.25배, 체력을 1.5배로 만들고 턴 종료 시 체력을 소량 회복한다",
+        "special": [
+            {
+                "description": "적 전체에게 [QCK] 큰 데미지를 주고, 1턴 동안 격투형 캐릭터의 공격력을 1.5배로 만든다",
+                "cooldown": [
+                    18,
+                    12
+                ]
+            },
+            {
+                "description": "적 전체에게 [QCK] 특대 데미지를 주고, 1턴 동안 격투형과 사격형 캐릭터의 공격력을 1.75배로 만든다",
+                "cooldown": [
+                    23,
+                    17
+                ]
+            }
+        ],
+        "specialNotes": "#{stages}",
+        "specialName": "파괴포",
+        "sailor": {
+            "base": "None",
+            "level1": "Boosts base ATK of Fighter characters by 50",
+            "level2": "Boosts own base ATK by 200 if this character is the last in the chain to attack"
+        },
+        "limit": [
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "선원 효과 추가 1: Boosts base ATK of Fighter characters by 50"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "필살기 턴 수 단축: 2"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "선원 효과 추가 2: Boosts own base ATK by 200 if this character is the last in the chain to attack"
+            },
+            {
+                "description": "필살기 턴 수 단축: 3"
+            },
+            {
+                "description": "잠재능력 습득 2: 배리어 관통"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[STR] 데미지 피해 감소",
+                "description": [
+                    "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+                    "Level 3: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+                    "Level 4: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+                    "Level 5: [STR] 속성에게 받는 데미지를 ?% 감소시킨다"
+                ]
+            },
+            {
+                "Name": "배리어 관통",
+                "description": [
+                    "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+                ]
+            }
         ]
-      },
-      {
-        "description": "모든 적에게 [QCK] 데미지를 주고, 1턴 동안 격투 캐릭터의 공격력을 1.75배 상승시킨다.",
-        "cooldown": [
-          23,
-          17
-        ]
-      }
-    ],
-    "specialNotes": "#{stages}",
-    "specialName": "파괴포",
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts base ATK of Fighter characters by 50",
-      "level2": "Boosts own base ATK by 200 if this character is the last in the chain to attack"
-    },
-    "limit": [
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "선원 효과 추가 1: Boosts base ATK of Fighter characters by 50"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "필살기 턴 수 단축: 2"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "선원 효과 추가 2: Boosts own base ATK by 200 if this character is the last in the chain to attack"
-      },
-      {
-        "description": "필살기 턴 수 단축: 3"
-      },
-      {
-        "description": "잠재능력 습득 2: 배리어 관통"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
-        ]
-      }
-    ]
-  }
+    }
 }
