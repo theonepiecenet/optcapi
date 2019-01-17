@@ -4,11 +4,58 @@
         "captain": "Boosts ATK of Slasher and Powerhouse characters by 2.75x if they have a matching orb, by 2.25x otherwise, and boosts their HP by 1.25x.",
         "special": "Deals 100x character's ATK in [INT] damage to one enemy, makes [DEX], [QCK] and [INT] orbs beneficial for Slasher and Powerhouse characters for 1 turn. If your captain is a Slasher and Powerhouse character, boosts the Color Affinity of Slasher and Powerhouse characters by 1.75x for 3 turns",
         "specialNotes": "#{beneficial}",
-        "specialName": "Smoothie Special",
+        "specialName": "Juice Slash",
         "sailor": {
             "base": "Boosts base ATK, HP and RCV of Slasher and Powerhouse characters by 50",
             "level1": "Makes [PSY] orbs beneficial for this character"
-        }
+        },
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Acquire Potential 1: [PSY] Damage Reduction"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base RCV by 25"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [PSY] orbs beneficial for this character"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base ATK by 60"
+            },
+            {
+                "description": "Acquire Potential 2: Critical Hit"
+            }
+        ]
     },
     "aliases": [
         "",
