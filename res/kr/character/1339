@@ -1,31 +1,31 @@
 {
-  "name": "토니토니 쵸파 점프력 강화(점핑 포인트)",
-  "detail": {
-    "specialName": "점프력 강화",
-    "special": [
-      {
-        "description": "Reduces Paralysis duration by 1 턴. Adds .2x to Chain multiplier for 1 turn",
-        "cooldown": [
-          18,
-          8
-        ]
-      },
-      {
-        "description": "Reduces Paralysis duration by 2 턴. Adds .3x to Chain multiplier for 1 turn",
-        "cooldown": [
-          23,
-          13
-        ]
-      },
-      {
-        "description": "Reduces Paralysis duration by 2 턴. Adds .5x to Chain multiplier for 1 turn",
-        "cooldown": [
-          25,
-          15
-        ]
-      }
-    ],
-    "captain": "Boosts ATK of [DEX] characters by 2.25x",
-    "specialNotes": "#{stages}"
-  }
+    "name": "토니토니 쵸파, 점프력 강화",
+    "detail": {
+        "specialName": "점프력 강화",
+        "special": [
+            {
+                "description": "마비 상태를 1턴 회복하고, 1턴 동안 체인 계수가 +0.2 된다",
+                "cooldown": [
+                    18,
+                    8
+                ]
+            },
+            {
+                "description": "마비 상태를 2턴 회복하고, 1턴 동안 체인 계수가 +0.3 된다",
+                "cooldown": [
+                    23,
+                    13
+                ]
+            },
+            {
+                "description": "마비 상태를 2턴 회복하고, 1턴 동안 체인 계수가 +0.5 된다",
+                "cooldown": [
+                    25,
+                    15
+                ]
+            }
+        ],
+        "captain": "[DEX] 캐릭터의 공격력을 2.25배로 만든다",
+        "specialNotes": "#{stages}"
+    }
 }
