@@ -1,8 +1,13 @@
 {
-  "name": "붉은 귀신 브로기",
-  "detail": {
-    "captain": "Boosts ATK and HP of Powerhouse characters by 1.5x",
-    "specialName": "Hakoku Sovereignity",
-    "special": "Deals 20x character's ATK in character's type damage to all enemies, boosts ATK of Powerhouse characters by 1.5x for 1 turn. If \"Hakoku Sovereignity\" is used again in the same 턴 the special is activated in, boosts ATK of Powerhouse characters by 2x instead."
-  }
+    "name": "붉은 귀신 브로기",
+    "detail": {
+        "captain": "Boosts ATK and HP of Powerhouse characters by 1.5x",
+        "specialName": "Hakoku Sovereignity",
+        "special": "Deals 20x character's ATK in character's type damage to all enemies, boosts ATK of Powerhouse characters by 1.5x for 1 turn. If \"Hakoku Sovereignity\" is used again in the same 턴 the special is activated in, boosts ATK of Powerhouse characters by 2x instead.",
+        "sailor": {
+            "base": "None",
+            "level1": "Makes [PSY] orbs beneficial for Powerhouse characters",
+            "level2": "Cannot be Blown Away"
+        }
+    }
 }
