@@ -1,10 +1,10 @@
 {
   "name": "쥬라큘 미호크, 왕의 부하 칠무해",
   "detail": {
-    "special": "이전 턴에 적에게 준 일반 공격에 의한 총 데미지의 50%를 무 속성 데미지로 적 전체에게 준다(추가 데미지 등으로 적을 전멸시키고 다음 배틀로 이동할 시, 이전 턴에 일반 공격으로 준 총 데미지 합계치는 0으로 계산)",
-    "specialNotes": "The special only includes the damage inflicted through normal attacks.",
     "specialName": "흑도·자전일섬",
+    "special": "이전 턴에 적에게 준 일반 공격에 의한 총 데미지의 50%를 무 속성 데미지로 적 전체에게 준다(추가 데미지 등으로 적을 전멸시키고 다음 배틀로 이동할 시, 이전 턴에 일반 공격으로 준 총 데미지 합계치는 0으로 계산)",
     "captain": "앞 캐릭터의 공격 타이밍에 따라 이후 참격형 캐릭터의 공격이 최소 2배, 최대 2.75배가 된다",
+    "specialNotes": "The special only includes the damage inflicted through normal attacks.",
     "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a PERFECT hit by 2.75x. This bonus is applied only to Slasher characters."
   }
 }

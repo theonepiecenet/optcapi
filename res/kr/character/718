@@ -1,16 +1,46 @@
 {
   "name": "매의 눈 미호크, 세계 최강의 검사",
   "detail": {
-    "special": "이전 턴에 적에게 준 일반 공격에 의한 총 데미지의 50%를 무 속성 데미지로 적 전체에게 준다(추가 데미지 등으로 적을 전멸시키고 다음 배틀로 이동할 시, 이전 턴에 일반 공격으로 준 총 데미지 합계치는 0으로 계산)",
-    "specialNotes": "The special only includes the damage inflicted through normal attacks.",
     "specialName": "흑도·자전일섬",
+    "special": "이전 턴에 적에게 준 일반 공격에 의한 총 데미지의 50%를 무 속성 데미지로 적 전체에게 준다(추가 데미지 등으로 적을 전멸시키고 다음 배틀로 이동할 시, 이전 턴에 일반 공격으로 준 총 데미지 합계치는 0으로 계산)",
     "captain": "앞 캐릭터의 공격 타이밍에 따라 이후 참격형 캐릭터의 공격이 최소 2배, 최대 2.75배가 된다",
-    "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a PERFECT hit by 2.75x. This bonus is applied only to Slasher characters.",
     "sailor": {
       "base": "None",
       "level1": "참격형 캐릭터의 기본 체력이 120 상승한다",
       "level2": "참격형 캐릭터의 기본 공격력이 50 상승한다"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 40",
+          "Level 3: 공격력 상승 : 60",
+          "Level 4: 공격력 상승 : 80",
+          "Level 5: 공격력 상승 : 120"
+        ]
+      },
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 90% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 5"
@@ -103,37 +133,7 @@
         "description": "잠재능력 습득 3: 크리티컬 공격"
       }
     ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 40",
-          "Level 3: 공격력 상승 : 60",
-          "Level 4: 공격력 상승 : 80",
-          "Level 5: 공격력 상승 : 120"
-        ]
-      },
-      {
-        "Name": "[PSY] 데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 90% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
-        ]
-      }
-    ]
+    "specialNotes": "The special only includes the damage inflicted through normal attacks.",
+    "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a PERFECT hit by 2.75x. This bonus is applied only to Slasher characters."
   }
 }

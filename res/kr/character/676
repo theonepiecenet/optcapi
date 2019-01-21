@@ -1,9 +1,9 @@
 {
   "name": "이나즈마",
   "detail": {
-    "special": "3턴 동안 각각의 적에게 받는 데미지 중 5,000을 넘는 부분을 대폭으로 줄인다",
-    "specialNotes": "The exact formula for the damage received is: 5000 + ((total damage) - 5000) * 0.03",
     "specialName": "KEEP OUT ",
-    "captain": "참격형 캐릭터의 공격력이 1.5배가 되고, 턴 종료 시에 공격력x3배의 추가 데미지"
+    "special": "3턴 동안 각각의 적에게 받는 데미지 중 5,000을 넘는 부분을 대폭으로 줄인다",
+    "captain": "참격형 캐릭터의 공격력이 1.5배가 되고, 턴 종료 시에 공격력x3배의 추가 데미지",
+    "specialNotes": "The exact formula for the damage received is: 5000 + ((total damage) - 5000) * 0.03"
   }
 }

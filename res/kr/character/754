@@ -1,16 +1,36 @@
 {
   "name": "재브라, 역대 최강의 ‘CP9’",
   "detail": {
-    "special": "적 한 명에게 캐릭터의 공격력x15배의 [QCK] 데미지를 주고, 1턴 동안 슬롯의 영향을 상당히 크게 증폭시킨다",
-    "specialNotes": "#{orb : 1.75x}",
     "specialName": "월광십자지건",
+    "special": "적 한 명에게 캐릭터의 공격력x15배의 [QCK] 데미지를 주고, 1턴 동안 슬롯의 영향을 상당히 크게 증폭시킨다",
     "captain": "강인형 캐릭터의 공격력이 2.5배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Restores his own special cooldown by 1 turn when it is rewinded",
       "level2": "Makes [RCV] and [TND] orbs “beneficial” for this character"
     },
-    "sailorNotes": "#{beneficial}<br>#{rewind : 1}",
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 30"
@@ -58,27 +78,7 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
-        ]
-      }
-    ]
+    "specialNotes": "#{orb : 1.75x}",
+    "sailorNotes": "#{beneficial} #{rewind : 1}"
   }
 }

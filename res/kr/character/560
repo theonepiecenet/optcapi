@@ -1,14 +1,35 @@
 {
   "name": "프랑키, 특공의 밀짚모자 일당",
   "detail": {
-    "special": "Changes own orb into [STR], amplifies the effect of orbs by 1.5x for 2 turn",
-    "specialNotes": "#{orb : 1.5x}",
     "specialName": "Roar! Zarley Davison",
+    "special": "Changes own orb into [STR], amplifies the effect of orbs by 1.5x for 2 turn",
     "captain": "Boosts ATK of [STR] characters by 2.25x, deals 2x character's ATK in [STR] damage to all enemies at the end of each turn",
     "sailor": {
       "base": "사격형 캐릭터의 기본 공격력이 20 상승한다",
       "level1": "Reduces Blindness duration by 5 turns"
     },
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -56,27 +77,6 @@
         "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
-      }
-    ]
+    "specialNotes": "#{orb : 1.5x}"
   }
 }

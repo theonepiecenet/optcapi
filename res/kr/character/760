@@ -1,15 +1,36 @@
 {
   "name": "쿠마도리, 역대 최강의 ‘CP9’",
   "detail": {
-    "special": "슬롯을 3회 자유롭게 이동하고, 일당의 슬롯을 1턴 고정",
     "specialName": "「생명귀환」 - 사자지건",
+    "special": "슬롯을 3회 자유롭게 이동하고, 일당의 슬롯을 1턴 고정",
     "captain": "체력이 30%이하일때 [STR] 캐릭터의 공격이 3배가 된다.",
     "sailor": {
       "base": "None",
       "level1": "Makes [PSY] orbs “beneficial” for this character",
       "level2": "Makes [QCK] orbs “beneficial” for this character"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      }
-    ]
+    "sailorNotes": "#{beneficial}"
   }
 }

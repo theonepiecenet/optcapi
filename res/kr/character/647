@@ -1,9 +1,78 @@
 {
   "name": "맹공의 리틀 오즈 Jr.",
   "detail": {
-    "special": "Deals 20x character's ATK in [STR] damage to all enemies, boosts chances of getting [STR] orbs for 3 turn",
     "specialName": "Vanguard Breaker",
+    "special": "Deals 20x character's ATK in [STR] damage to all enemies, boosts chances of getting [STR] orbs for 3 turn",
     "captain": "Boosts ATK of Shooter characters by 2.75x 전투 시작 시 체력이 30% 미만이면",
-    "sailor": "Boosts base HP of [STR] characters by 30"
+    "sailor": "Boosts base HP of [STR] characters by 30",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base ATK by 80"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [STR] orbs beneficial for Shooter characters"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 7 turns"
+      },
+      {
+        "description": "Boosts base ATK by 120"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ]
   }
 }

@@ -1,8 +1,8 @@
 {
   "name": "로브 루치, 사이퍼 폴 No. 9",
   "detail": {
-    "special": "모든 슬롯을 [STR][PSY][INT]로 바꾸고, 적 전체에 랜덤 [STR] 데미지, 2턴 동안 적 전체의 방어력을 반감",
     "specialName": "지건 「황련」",
+    "special": "모든 슬롯을 [STR][PSY][INT]로 바꾸고, 적 전체에 랜덤 [STR] 데미지, 2턴 동안 적 전체의 방어력을 반감",
     "captain": "격투형 캐릭터의 공격력을 1.5배로 만든다",
     "specialNotes": "#{random : 2,000 : 20,000}"
   }

@@ -1,10 +1,10 @@
 {
   "name": "카쿠, 어둠의 정의의 ‘CP9’",
   "detail": {
-    "special": "적 전체에 랜덤 [DEX] 데미지를 주고, 랜덤으로 슬롯을 바꾼다",
     "specialName": "‘람각’ 주단",
-    "specialNotes": "#{random : 10,000 : 90,000}",
+    "special": "적 전체에 랜덤 [DEX] 데미지를 주고, 랜덤으로 슬롯을 바꾼다",
     "captain": "[DEX] 캐릭터의 공격력이 1.5배가 되고, 필살기로 주는 [DEX] 데미지가 1.5배가 된다",
+    "specialNotes": "#{random : 10,000 : 90,000}",
     "captainNotes": "#{noFixedPerc}"
   }
 }

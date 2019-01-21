@@ -1,14 +1,36 @@
 {
   "name": "니코 로빈, 밀짚모자 일당",
   "detail": {
-    "special": "‘봉쇄’·선장효과 무효 상태가 3턴 회복된다",
     "specialName": "시엔 플루르 윙",
+    "special": "‘봉쇄’·선장효과 무효 상태가 3턴 회복된다",
     "captain": "[PSY] 캐릭터의 공격력과 회복력이 1.5배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Reduces Paralysis duration on this character by 3 turns",
       "level2": "Reduces Silence duration on this character by 3 turns"
     },
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -54,28 +76,6 @@
       },
       {
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
       }
     ],
     "potentialNotes": "#{enrage}"

@@ -1,15 +1,36 @@
 {
   "name": "블루노, 역대 최강의 ‘CP9’",
   "detail": {
-    "special": "1턴 동안 받는 데미지를 반으로 줄이고, 강인형 캐릭터의 공격력이 1.75배가 된다",
     "specialName": "‘철괴’ 륜",
+    "special": "1턴 동안 받는 데미지를 반으로 줄이고, 강인형 캐릭터의 공격력이 1.75배가 된다",
     "captain": "[INT] 캐릭터이 2배가 되고, [PSY] 캐릭터로부터 받는 데미지가 약 30% 감소",
     "sailor": {
       "base": "None",
       "level1": "Makes [STR] orbs “beneficial” for this character",
       "level2": "Boosts base HP of Powerhouse characters by 150"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[PSY] 데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      }
-    ]
+    "sailorNotes": "#{beneficial}"
   }
 }

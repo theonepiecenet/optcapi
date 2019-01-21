@@ -1,1 +1,94 @@
-{"name":"거대 소용돌이 거미 스쿼드","detail":{"special":"일당의 체력을 30% 줄이고 적 1명에게 고정 데미지, 슬롯의 영향을 상당히 증폭시킨다 (1턴)","specialNotes":"#{fixed} #{orb : 1.75x}","specialName":"용맹한 자의 대태도","captain":"남은 체력이 적을 때 [PSY] 캐릭터의 공격력이 3배가 된다","sailor":["자신은 마비 상태를 2턴 회복한다","의성어 은폐 상태를 2턴 회복한다"],"limit":[{"description":"회복력 상승 : 25"},{"description":"체력 상승 : 40"},{"description":"회복력 상승 : 35"},{"description":"잠재능력 습득 1: [STR] 데미지 피해 감소"},{"description":"공격력 상승 : 40"},{"description":"체력 상승 : 40"},{"description":"필살기 턴 수 단축: 2"},{"description":"체력 상승 : 60"},{"description":"선원 효과 추가 1: 의성어 은폐 상태를 2턴 회복한다"},{"description":"공격력 상승 : 60"},{"description":"회복력 상승 : 40"},{"description":"필살기 턴 수 단축: 2"},{"description":"회복력 상승 : 50"},{"description":"잠재능력 소켓슬롯 추가 : 1"},{"description":"잠재능력 습득 2: [INT] 데미지 피해 감소"}],"potential":[{"Name":"[STR] 데미지 피해 감소","description":["Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다","Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다","Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다","Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"]},{"Name":"[INT] 데미지 피해 감소","description":["Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다","Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다","Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다","Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"]}]}}
+{
+  "name": "거대 소용돌이 거미 스쿼드",
+  "detail": {
+    "specialName": "용맹한 자의 대태도",
+    "special": "일당의 체력을 30% 줄이고 적 1명에게 고정 데미지, 슬롯의 영향을 상당히 증폭시킨다 (1턴)",
+    "captain": "남은 체력이 적을 때 [PSY] 캐릭터의 공격력이 3배가 된다",
+    "sailor": [
+      "자신은 마비 상태를 2턴 회복한다",
+      "의성어 은폐 상태를 2턴 회복한다"
+    ],
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "회복력 상승 : 25"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "회복력 상승 : 35"
+      },
+      {
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "필살기 턴 수 단축: 2"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "선원 효과 추가 1: 의성어 은폐 상태를 2턴 회복한다"
+      },
+      {
+        "description": "공격력 상승 : 60"
+      },
+      {
+        "description": "회복력 상승 : 40"
+      },
+      {
+        "description": "필살기 턴 수 단축: 2"
+      },
+      {
+        "description": "회복력 상승 : 50"
+      },
+      {
+        "description": "잠재능력 소켓슬롯 추가 : 1"
+      },
+      {
+        "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
+      }
+    ],
+    "specialNotes": "#{fixed} #{orb : 1.75x}",
+    "support": [
+      {
+        "Characters": "Whitebeard and Marco",
+        "description": [
+          "Level 1: Supported character deals 1.1x damage to Akainu",
+          "Level 2: Supported character deals 1.15x damage to Akainu",
+          "Level 3: Supported character deals 1.2x damage to Akainu",
+          "Level 4: Supported character deals 1.25x damage to Akainu",
+          "Level 5: Supported character deals 1.3x damage to Akainu"
+        ]
+      }
+    ]
+  }
+}

@@ -1,14 +1,36 @@
 {
   "name": "핵 혁명군",
   "detail": {
-    "special": "Cuts the current HP of each enemy by 20%, changes own orb into [STR]",
     "specialName": "Four Thousand Tile True Punch",
+    "special": "Cuts the current HP of each enemy by 20%, changes own orb into [STR]",
     "captain": "Reduces cooldown of all specials by 3 턴 at the start of the fight, boosts ATK of Fighter characters by 2x",
     "sailor": {
       "base": "None",
       "level1": "자신이 [DEX] 속성에게 주는 일반 공격에 의한 데미지가 1.1배가 된다",
       "level2": "자신이 [QCK] 속성에게 주는 일반 공격에 의한 데미지가 2배가 된다"
     },
+    "potential": [
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turns",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -56,25 +78,15 @@
         "description": "잠재능력 습득 2: Cooldown Reduction"
       }
     ],
-    "potential": [
+    "support": [
       {
-        "Name": "회복 무효 내성",
+        "Characters": "Sabo and Koala",
         "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turns",
-          "Level 3: Reduces No Healing duration by ? turns",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+          "Level 1: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 9% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 11% of this character's base ATK to the supported character's base ATK"
         ]
       }
     ]

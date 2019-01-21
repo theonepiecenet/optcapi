@@ -1,15 +1,36 @@
 {
   "name": "칼리파, 역대 최강의 ‘CP9’",
   "detail": {
-    "special": "1턴 동안, 필살기 발동 시의 체력이 50% 이상이면 데미지를 반으로 줄이고, 50% 미만에서 10% 이상 사이이면 데미지 80% 감소, 10% 미만이면 무효로 만든다",
     "specialName": "비누 양 양떼구름 대해일",
+    "special": "1턴 동안, 필살기 발동 시의 체력이 50% 이상이면 데미지를 반으로 줄이고, 50% 미만에서 10% 이상 사이이면 데미지 80% 감소, 10% 미만이면 무효로 만든다",
     "captain": "박식형 캐릭터의 공격력이 2.25배, 회복력이 1.5배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Reduces Blindness duration by 3 turns",
       "level2": "Restores her own special by 2 turns when it is rewinded"
     },
-    "sailorNotes": "#{rewind : 2}",
+    "potential": [
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 30"
@@ -57,28 +78,19 @@
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
-    "potential": [
+    "sailorNotes": "#{rewind : 2}",
+    "potentialNotes": "#{enrage}",
+    "support": [
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Characters": "Rob Lucci, Kaku, Jabra, Blueno, Fukuro and Kumadori",
         "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
+          "Level 1: Once per adventure, when you are inflicted with Increase Damage Taken, reduces any damage received above 5,000 HP by 50% for 1 turn",
+          "Level 2: Once per adventure, when you are inflicted with Increase Damage Taken, reduces any damage received above 5,000 HP by 50% for 1 turn",
+          "Level 3: Once per adventure, when you are inflicted with Increase Damage Taken, reduces any damage received above 5,000 HP by ??% for 1 turn",
+          "Level 4: Once per adventure, when you are inflicted with Increase Damage Taken, reduces any damage received above 4,000 HP by ??% for 1 turn",
+          "Level 5: Once per adventure, when you are inflicted with Increase Damage Taken, reduces any damage received above 3,000 HP by ??% for 1 turn"
         ]
       }
-    ],
-    "potentialNotes": "#{enrage}"
+    ]
   }
 }

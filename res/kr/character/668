@@ -1,8 +1,8 @@
 {
   "name": "사보",
   "detail": {
-    "special": "1턴 동안 자유형 캐릭터의 공격력이 1.5배가 되고, 그 턴 내에 일당 전원이 PERFECT 공격에 성공하면 다음 턴에 자유형 캐릭터의 공격력이 2배가 된다",
     "specialName": "용의 발톱",
+    "special": "1턴 동안 자유형 캐릭터의 공격력이 1.5배가 되고, 그 턴 내에 일당 전원이 PERFECT 공격에 성공하면 다음 턴에 자유형 캐릭터의 공격력이 2배가 된다",
     "captain": "일당의 체력과 회복력을 조금 올리고, 공격 개시 전에 체력이 많을수록 자유형 캐릭터의 공격력이 상승한다",
     "captainNotes": "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}"
   }

@@ -1,8 +1,20 @@
 {
   "name": "노지코, 나미의 의자매",
   "detail": {
-    "special": "선장의 슬롯을 [PSY]으로 바꾸고, 캐릭터의 회복력x9배의 체력을 회복한다",
     "specialName": "벨메일이 맡긴 인연",
-    "captain": "[PSY] 캐릭터의 체력과 회복력이 1.5배가 된다"
+    "special": "선장의 슬롯을 [PSY]으로 바꾸고, 캐릭터의 회복력x9배의 체력을 회복한다",
+    "captain": "[PSY] 캐릭터의 체력과 회복력이 1.5배가 된다",
+    "support": [
+      {
+        "Characters": "Nami and Bellemere",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses their special, recovers 1x supported character's RCV in HP",
+          "Level 2: Once per an adventure, when the supported character uses their special, recovers 1x supported character's RCV in HP",
+          "Level 3: Once per an adventure, when the supported character uses their special, recovers 2x supported character's RCV in HP",
+          "Level 4: Once per an adventure, when the supported character uses their special, recovers 2x supported character's RCV in HP",
+          "Level 5: Once per an adventure, when the supported character uses their special, recovers 3x supported character's RCV in HP"
+        ]
+      }
+    ]
   }
 }
