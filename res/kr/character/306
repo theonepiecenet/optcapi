@@ -1,15 +1,36 @@
 {
   "name": "주먹 가프",
   "detail": {
-    "special": "[공백] 이외의 슬롯이 [PSY][RCV]로 바뀐다",
     "specialName": "주먹 유성군",
+    "special": "[공백] 이외의 슬롯이 [PSY][RCV]로 바뀐다",
     "captain": "[PSY] 캐릭터의 공격력과 체력이 2배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Makes [RCV] orbs “beneficial” for this character",
       "level2": "[PSY] 속성의 기본 공격력이 65 상승한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 40",
+          "Level 3: 공격력 상승 : 60",
+          "Level 4: 공격력 상승 : 80",
+          "Level 5: 공격력 상승 : 120"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 30"
@@ -57,28 +78,19 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
+    "sailorNotes": "#{beneficial}",
+    "potentialNotes": "#{enrage}",
+    "support": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Characters": "Coby, Helmeppo and Aokiji",
         "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 40",
-          "Level 3: 공격력 상승 : 60",
-          "Level 4: 공격력 상승 : 80",
-          "Level 5: 공격력 상승 : 120"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
+          "Level 1: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 6% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 8% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 10% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 13% of this character's base ATK to the supported character's base ATK"
         ]
       }
-    ],
-    "potentialNotes": "#{enrage}"
+    ]
   }
 }

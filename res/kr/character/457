@@ -1,10 +1,79 @@
 {
   "name": "중화기를 쓰는 크리엘",
   "detail": {
-    "special": "중간 줄 슬롯을 [STR] 이나 [DEX] 으로 바꾸고, 아랫 줄 슬롯을 [PSY] 이나 [INT] 으로 바꾼다, 이후 슬롯을 1회 변경 할수있다.",
     "specialName": "더블 캐논",
+    "special": "중간 줄 슬롯을 [STR] 이나 [DEX] 으로 바꾸고, 아랫 줄 슬롯을 [PSY] 이나 [INT] 으로 바꾼다, 이후 슬롯을 1회 변경 할수있다.",
     "captain": "사격형 캐릭터의 공격력을 2배로 만들고 회복력을 1.5배로 만든다",
     "sailor": "[PSY] 슬롯도 [유리] 슬롯으로 만든다.",
-    "sailorNotes": "#{beneficial}"
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [STR] and [DEX] orbs beneficial for this character"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turns on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ]
   }
 }

@@ -1,1 +1,20 @@
-{"name":"호토리·코토리, 스카이피아 부 신병장","detail":{"special":"적 전체에게 [INT] 데미지를 주고, 1턴 동안 다양한 효과가 발동된다","specialName":"깜짝 다이얼 일루젼","captain":"[INT] 캐릭터의 체력이 2배가 된다"}}
+{
+  "name": "호토리·코토리, 스카이피아 부 신병장",
+  "detail": {
+    "specialName": "깜짝 다이얼 일루젼",
+    "special": "적 전체에게 [INT] 데미지를 주고, 1턴 동안 다양한 효과가 발동된다",
+    "captain": "[INT] 캐릭터의 체력이 2배가 된다",
+    "support": [
+      {
+        "Characters": "Enel",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
+  }
+}

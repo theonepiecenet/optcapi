@@ -1,14 +1,36 @@
 {
   "name": "대식가 쥬얼리 보니",
   "detail": {
-    "special": "2턴 동안 [RCV] 사용 시 회복량이 1번째에 1.5배, 2연속 2배, 3연속이후 2.5배 가 된다.",
     "specialName": "대식가",
+    "special": "2턴 동안 [RCV] 사용 시 회복량이 1번째에 1.5배, 2연속 2배, 3연속이후 2.5배 가 된다.",
     "captain": "[PSY] 캐릭터의 공격력과 회복을 2배로 만든다.",
     "sailor": {
       "base": "None",
       "level1": "Boosts amount healed from [RCV] orbs by 50 each",
       "level2": "If this character has a [RCV] orb and you hit a PERFECT with her, keep her [RCV] orb for the next turn"
     },
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turns",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turns at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "Boosts base HP by 30"
@@ -54,28 +76,6 @@
       },
       {
         "description": "Acquire Potential 2: Cooldown Reduction"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turns",
-          "Level 3: Reduces No Healing duration by ? turns",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turns at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turns at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turns at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turns at the start of the fight"
-        ]
       }
     ]
   }

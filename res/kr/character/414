@@ -1,1 +1,83 @@
-{"name":"겟코 모리아, 왕의 부하 칠무해","detail":{"special":"[STR],[DEX]슬롯을 [INT]슬롯으로 변환","specialName":"그림자","captain":"전투가 시작될때 체력이 가득 차 있으면 [INT] 캐릭터의 공격력이 3배가 된다.","sailor":["None","Makes [PSY] orbs “beneficial” for this character","Makes [QCK] orbs “beneficial” for this character"],"sailorNotes":"#{beneficial}","limit":[{"description":"공격력 상승 : 20"},{"description":"공격력 상승 : 10"},{"description":"체력 상승 : 30"},{"description":"잠재능력 습득 1: [PSY] 데미지 피해 감소"},{"description":"공격력 상승 : 30"},{"description":"공격력 상승 : 50"},{"description":"공격력 상승 : 80"},{"description":"체력 상승 : 70"},{"description":"잠재능력 소켓슬롯 추가 : 1"},{"description":"공격력 상승 : 100"},{"description":"선원 효과 추가 1: Makes [PSY] orbs “beneficial” for this character"},{"description":"공격력 상승 : 210"},{"description":"필살기 턴 수 단축: 2"},{"description":"선원 효과 추가 2: Makes [QCK] orbs “beneficial” for this character"},{"description":"잠재능력 습득 2: [INT] 데미지 피해 감소"}],"potential":[{"Name":"[PSY] 데미지 피해 감소","description":["Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다","Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다","Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다","Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"]},{"Name":"[INT] 데미지 피해 감소","description":["Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다","Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다","Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다","Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"]}]}}
+{
+  "name": "겟코 모리아, 왕의 부하 칠무해",
+  "detail": {
+    "specialName": "그림자",
+    "special": "[STR],[DEX]슬롯을 [INT]슬롯으로 변환",
+    "captain": "전투가 시작될때 체력이 가득 차 있으면 [INT] 캐릭터의 공격력이 3배가 된다.",
+    "sailor": [
+      "None",
+      "Makes [PSY] orbs “beneficial” for this character",
+      "Makes [QCK] orbs “beneficial” for this character"
+    ],
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "공격력 상승 : 80"
+      },
+      {
+        "description": "체력 상승 : 70"
+      },
+      {
+        "description": "잠재능력 소켓슬롯 추가 : 1"
+      },
+      {
+        "description": "공격력 상승 : 100"
+      },
+      {
+        "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” for this character"
+      },
+      {
+        "description": "공격력 상승 : 210"
+      },
+      {
+        "description": "필살기 턴 수 단축: 2"
+      },
+      {
+        "description": "선원 효과 추가 2: Makes [QCK] orbs “beneficial” for this character"
+      },
+      {
+        "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
+      }
+    ],
+    "sailorNotes": "#{beneficial}"
+  }
+}

@@ -1,8 +1,8 @@
 {
   "name": "괴승 우루지",
   "detail": {
-    "special": "타격형 캐릭터의 공격이1.5배 (1턴), 1명에게 [PSY] 데미지(25배) ",
     "specialName": "인과응보",
+    "special": "타격형 캐릭터의 공격이1.5배 (1턴), 1명에게 [PSY] 데미지(25배) ",
     "captain": {
       "base": "타격형 캐릭터의 공격력이 2배, 체력을 1.5배가 된다.",
       "level1": "Boosts ATK of all Striker characters proportionally to the crew's current HP, by 3x at 1 HP and their HP by 1.5x"
@@ -11,6 +11,28 @@
       "base": "None",
       "level1": "타격형 캐릭터의 기본 능력치가 30 상승한다"
     },
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : 150"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 40"
@@ -56,28 +78,6 @@
       },
       {
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 30",
-          "Level 2: 공격력 상승 : ??",
-          "Level 3: 공격력 상승 : ??",
-          "Level 4: 공격력 상승 : ??",
-          "Level 5: 공격력 상승 : 150"
-        ]
       }
     ],
     "potentialNotes": "#{enrage}"

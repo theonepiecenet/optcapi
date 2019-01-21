@@ -1,9 +1,21 @@
 {
   "name": "페루, 알라바스타의 수호신 팔콘",
   "detail": {
-    "special": "3턴 동안 [QCK]의 공격력이 1.25배가 된다",
     "specialName": "날으는 발톱",
+    "special": "3턴 동안 [QCK]의 공격력이 1.25배가 된다",
     "captain": "체력이 적게 남아도 일정 비율 이상일 경우, 공격을 받아도 쓰러지지 않는다.",
-    "captainNotes": "#{zombie}"
+    "captainNotes": "#{zombie}",
+    "support": [
+      {
+        "Characters": "Vivi, Chaka and Cobra",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 2: Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 3: Adds 5% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 4: Adds 7% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 5: Adds 9% of this character's base ATK and RCV to the supported character's base ATK and RCV"
+        ]
+      }
+    ]
   }
 }

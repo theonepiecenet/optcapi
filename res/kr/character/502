@@ -1,8 +1,20 @@
 {
   "name": "카야, 시롭마을의 아가씨",
   "detail": {
-    "special": "4 턴 동안 턴 종료시에 체력을 캐릭터 회복력 × 5 배 회복",
     "specialName": "의학 공부 중",
-    "captain": "PSY 캐릭터의 능력치가 1.5 배가 된다"
+    "special": "4 턴 동안 턴 종료시에 체력을 캐릭터 회복력 × 5 배 회복",
+    "captain": "PSY 캐릭터의 능력치가 1.5 배가 된다",
+    "support": [
+      {
+        "Characters": "Usopp",
+        "description": [
+          "Level 1: Adds 6% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Adds 9% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Adds 12% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Adds 15% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   }
 }

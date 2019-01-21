@@ -1,15 +1,36 @@
 {
   "name": "모닝스타 라쿠요",
   "detail": {
-    "special": "선장과 자신의 슬롯을 [PSY] 으로 변환",
     "specialName": "드레드 모닝 스타",
+    "special": "선장과 자신의 슬롯을 [PSY] 으로 변환",
     "captain": "전투가 시작 될 때 필살기를 3턴 줄이고, 타격형 캐릭터의 공격력을 2배가 된다.",
     "sailor": {
       "base": "None",
       "level1": "Makes [PSY] orbs “beneficial” for Striker characters",
       "level2": "Restores his own special cooldown by 5 turn when it is rewinded"
     },
-    "sailorNotes": "#{beneficial} <br> #{rewind : 5}",
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turns at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 50"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: Cooldown Reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turns at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turns at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turns at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turns at the start of the fight"
-        ]
-      }
-    ]
+    "sailorNotes": "#{beneficial}  #{rewind : 5}"
   }
 }

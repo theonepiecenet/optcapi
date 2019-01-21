@@ -1,18 +1,39 @@
 {
   "name": "화염도의 포사",
   "detail": {
-    "special": "1턴 동안 [STR] 캐릭터의 공격력이 1.5배로 만들고, 적 전체에게 캐릭터 공격력의 15배 [STR] 데미지를 입힌다.",
     "specialName": "남자다운 화염도",
+    "special": "1턴 동안 [STR] 캐릭터의 공격력이 1.5배로 만들고, 적 전체에게 캐릭터 공격력의 15배 [STR] 데미지를 입힌다.",
     "captain": {
       "base": "Boosts ATK of [STR] characters by 2x, boosts damage of [STR] specials by 2x",
       "level1": "Boosts ATK of [STR] characters by 2.25x and their HP by 1.2x and boosts damage of [STR] specials by 2x"
     },
-    "captainNotes": "#{noFixedPerc}",
     "sailor": {
       "base": "None",
       "level1": "When any other [STR] character uses a special, reduces own cooldown by 1 turn",
       "level2": "[STR] 속성의 기본 공격력이 50 상승한다"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : 150"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 20"
@@ -60,28 +81,7 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 30",
-          "Level 2: 공격력 상승 : ??",
-          "Level 3: 공격력 상승 : ??",
-          "Level 4: 공격력 상승 : ??",
-          "Level 5: 공격력 상승 : 150"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
-        ]
-      }
-    ],
+    "captainNotes": "#{noFixedPerc}",
     "potentialNotes": "#{enrage}"
   }
 }

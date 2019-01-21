@@ -1,15 +1,35 @@
 {
   "name": "붉은 깃발 X 드레이크",
   "detail": {
-    "special": "적 전체에 공격력 X10배의 [INT] 데미지,체력이 50% 이상 일때 1턴 동안 공격을 받아도 쓰러지지 않는다.",
     "specialName": "동물 고대 종의 힘",
-    "specialNotes": "#{zombie}",
+    "special": "적 전체에 공격력 X10배의 [INT] 데미지,체력이 50% 이상 일때 1턴 동안 공격을 받아도 쓰러지지 않는다.",
     "captain": "전투가 시작될때 체력이 30%이하면 [INT]캐릭터의 공격력을 3배가 된다.",
     "sailor": {
       "base": "강인형 캐릭터의 체력을 100 상승시킨다",
       "level1": "Makes [PSY] orbs “beneficial” for Powerhouse and Fighter characters"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -57,27 +77,7 @@
         "description": "잠재능력 습득 2: Reduce No Healing duration"
       }
     ],
-    "potential": [
-      {
-        "Name": "[PSY] 데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      }
-    ]
+    "specialNotes": "#{zombie}",
+    "sailorNotes": "#{beneficial}"
   }
 }

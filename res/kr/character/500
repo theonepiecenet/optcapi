@@ -1,8 +1,20 @@
 {
   "name": "벨메일, 나미와 노지코의 양어머니",
   "detail": {
-    "special": "적 전체의 공격을 1턴 지연시킨다",
     "specialName": "여자는 배짱!",
-    "captain": "사격형 캐릭터의 회복력이 2배가 된다"
+    "special": "적 전체의 공격을 1턴 지연시킨다",
+    "captain": "사격형 캐릭터의 회복력이 2배가 된다",
+    "support": [
+      {
+        "Characters": "Nami and Nojiko",
+        "description": [
+          "Level 1: Adds 6% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Adds 9% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Adds 12% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Adds 15% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   }
 }

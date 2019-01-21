@@ -1,8 +1,8 @@
 {
   "name": "징베, 왕의 부하 칠무해",
   "detail": {
-    "special": "자신의 슬롯을 [QCK]슬롯으로 변환하고 적 한명에게 캐릭터 공격력에 13배의 [QCK]데미지.",
     "specialName": "해류 한판 엎어치기",
+    "special": "자신의 슬롯을 [QCK]슬롯으로 변환하고 적 한명에게 캐릭터 공격력에 13배의 [QCK]데미지.",
     "captain": {
       "base": "격투형 캐릭터의 공격력이 2.5배가 된다.",
       "level1": "격투형 캐릭터의 공격력이 2.75배가 된다."
@@ -12,6 +12,28 @@
       "level1": "Makes [QCK] orbs “beneficial” for Fighter characters",
       "level2": "Boosts base ATK and HP of Fighter characters by 100"
     },
+    "potential": [
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+        ]
+      },
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 5: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 20"
@@ -59,25 +81,15 @@
         "description": "잠재능력 습득 2: 긴급 회복"
       }
     ],
-    "potential": [
+    "support": [
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Characters": "Fighter Characters",
         "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 5: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
+          "Level 1: Adds 3% of this character's base HP to the supported character's base HP",
+          "Level 2: Adds 4% of this character's base HP to the supported character's base HP",
+          "Level 3: Adds 5% of this character's base HP to the supported character's base HP",
+          "Level 4: Adds 7% of this character's base HP to the supported character's base HP",
+          "Level 5: Adds 9% of this character's base HP to the supported character's base HP"
         ]
       }
     ]

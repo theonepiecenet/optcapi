@@ -1,15 +1,36 @@
 {
   "name": "돈키호테 도플라밍고, 왕의 부하 칠무해",
   "detail": {
-    "special": "슬롯을 자유롭게 움직이고(2회), 슬롯 영향이 두 배가 된다(1턴)",
-    "specialNotes": "#{orb : 2x}",
     "specialName": "오버 히트",
+    "special": "슬롯을 자유롭게 움직이고(2회), 슬롯 영향이 두 배가 된다(1턴)",
     "captain": "참격형 캐릭터의 공격력과 체력이 2배가 된다.",
     "sailor": {
       "base": "None",
       "level1": "참격형 캐릭터의 기본 공격력이 30 상승한다",
       "level2": "참격형 캐릭터의 기본 체력이 60 상승한다"
     },
+    "potential": [
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 1 turn",
+          "Level 3: Reduces No Healing duration by 1 turn",
+          "Level 4: Reduces No Healing duration by 2 turns",
+          "Level 5: Reduces No Healing duration by 3 turns"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 20"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "potential": [
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 1 turn",
-          "Level 3: Reduces No Healing duration by 1 turn",
-          "Level 4: Reduces No Healing duration by 2 turns",
-          "Level 5: Reduces No Healing duration by 3 turns"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
-        ]
-      }
-    ]
+    "specialNotes": "#{orb : 2x}"
   }
 }

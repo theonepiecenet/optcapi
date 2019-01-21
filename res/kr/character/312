@@ -1,14 +1,35 @@
 {
   "name": "살육무인 킬러",
   "detail": {
-    "special": "HP가 1이 되는 대신 적 1명에게 슈퍼 데미지 (공격력 x100)",
     "specialName": "살육무인",
-    "specialNotes": "#{fixed}",
+    "special": "HP가 1이 되는 대신 적 1명에게 슈퍼 데미지 (공격력 x100)",
     "captain": "3연속으로 GOOD 이전 판정을 받으면 이후 캐릭터의 공격력이 3.5배",
     "sailor": {
       "base": "When HP is below 30% at the start of the turn, boosts ATK of Cerebral characters by 50",
       "level1": "When HP is below ??% at the start of the turn, boosts own base ATK by 200"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 40"
@@ -56,28 +77,19 @@
         "description": "잠재능력 습득 2: Cooldown Reduction"
       }
     ],
-    "potential": [
+    "specialNotes": "#{fixed}",
+    "potentialNotes": "#{enrage}",
+    "support": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Characters": "Kid",
         "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+          "Level 1: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 9% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 11% of this character's base ATK to the supported character's base ATK"
         ]
       }
-    ],
-    "potentialNotes": "#{enrage}"
+    ]
   }
 }
