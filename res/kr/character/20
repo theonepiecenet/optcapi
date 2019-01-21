@@ -1,16 +1,36 @@
 {
   "name": "상디, 디아블 잠브",
   "detail": {
-    "special": "적 전체에 5,000의 고정 데미지",
     "specialName": "디아블 잠브",
+    "special": "적 전체에 5,000의 고정 데미지",
     "captain": "[QCK] 캐릭터의 공격력과 체력이 1.5배가 된다",
-    "specialNotes": "#{fixed}",
     "sailor": {
       "base": "None",
       "level1": "일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다",
       "level2": "일당의 기본 능력치가 40 상승한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 2: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 3: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 4: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 5: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -58,25 +78,17 @@
         "description": "잠재능력 습득 2: 긴급 회복"
       }
     ],
-    "potential": [
+    "specialNotes": "#{fixed}",
+    "sailorNotes": "#{beneficial}",
+    "support": [
       {
-        "Name": "[STR] 데미지 피해 감소",
+        "Characters": "Powerhouse Characters",
         "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 2: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
-          "Level 3: 남은 체력이 5% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
-          "Level 4: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
-          "Level 5: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
+          "Level 1: Adds 1% of this character's base HP and ATK to the supported character's base HP and ATK",
+          "Level 2: Adds 1% of this character's base HP and ATK to the supported character's base HP and ATK",
+          "Level 3: Adds 2% of this character's base HP and ATK to the supported character's base HP and ATK",
+          "Level 4: Adds 3% of this character's base HP and ATK to the supported character's base HP and ATK",
+          "Level 5: Adds 4% of this character's base HP and ATK to the supported character's base HP and ATK"
         ]
       }
     ]

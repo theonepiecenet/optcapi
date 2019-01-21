@@ -1,15 +1,36 @@
 {
   "name": "대망치 블라멩코",
   "detail": {
-    "special": "[DEX],[QCK] 슬롯이 [STR] 슬롯으로 바뀐다",
     "specialName": "포켓 대망치",
+    "special": "[DEX],[QCK] 슬롯이 [STR] 슬롯으로 바뀐다",
     "captain": "[STR] 캐릭터의 공격력과 회복력이 2배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Makes [PSY] orbs “beneficial” for this character",
       "level2": "Makes [INT] orbs “beneficial” for this character"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 20"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: [DEX] 데미지 피해 감소"
       }
     ],
-    "potential": [
-      {
-        "Name": "[QCK] 데미지 피해 감소",
-        "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      }
-    ]
+    "sailorNotes": "#{beneficial}"
   }
 }

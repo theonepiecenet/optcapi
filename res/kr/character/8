@@ -1,15 +1,36 @@
 {
   "name": "롤로노아 조로, 아수라 일무은",
   "detail": {
-    "special": "적 전체에 캐릭터의 공격x15배의 [DEX] 데미지",
     "specialName": "귀기 구도류 아수라일무은",
+    "special": "적 전체에 캐릭터의 공격x15배의 [DEX] 데미지",
     "captain": "[DEX] 캐릭터의 공격력과 체력이 2배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Restores his own special cooldown by 1 turn when it is rewinded",
       "level2": "[DEX] 속성의 기본 공격력이 40 상승한다"
     },
-    "sailorNotes": "#{rewind : 1}",
+    "potential": [
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -57,25 +78,16 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "potential": [
+    "sailorNotes": "#{rewind : 1}",
+    "support": [
       {
-        "Name": "[QCK] 데미지 피해 감소",
+        "Characters": "[DEX] Characters",
         "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+          "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP"
         ]
       }
     ]

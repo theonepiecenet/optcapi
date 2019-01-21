@@ -1,15 +1,36 @@
 {
   "name": "나미, 썬더볼트 템포",
   "detail": {
-    "special": "적 전체에 캐릭터의 공격x15배의 [INT] 데미지",
     "specialName": "썬더볼트 템포",
+    "special": "적 전체에 캐릭터의 공격x15배의 [INT] 데미지",
     "captain": "[INT] 캐릭터의 공격력과 체력이 1.5배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Makes [RCV] orbs “beneficial” for [INT] characters",
       "level2": "Boosts base ATK, HP and RCV of [INT] characters by 50"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 4: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -57,25 +78,16 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
+    "sailorNotes": "#{beneficial}",
+    "support": [
       {
-        "Name": "긴급 회복",
+        "Characters": "[INT] Characters",
         "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 4: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
+          "Level 1: Adds 1% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 2: Adds 1% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 3: Adds 2% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 4: Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 5: Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV"
         ]
       }
     ]

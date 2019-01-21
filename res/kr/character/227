@@ -1,8 +1,8 @@
 {
   "name": "매의 눈 미호크",
   "detail": {
-    "special": "적 전체의 HP를 30% 줄인다",
     "specialName": "흑도·선박 베기",
+    "special": "적 전체의 HP를 30% 줄인다",
     "captain": {
       "base": "참격형 캐릭터의 공격력이 2.5배가 된다.",
       "level1": "참격형 캐릭터의 공격력이 2.5배가 되고 체력이 1.3배가 된다"
@@ -11,7 +11,28 @@
       "base": "None",
       "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 캐릭터의 봉인상태를 1턴 감소시킨다.",
+          "Level 2: 캐릭터의 봉인상태를 2턴 감소시킨다.",
+          "Level 3: 캐릭터의 봉인상태를 3턴 감소시킨다.",
+          "Level 4: 캐릭터의 봉인상태를 4턴 감소시킨다.",
+          "Level 5: 캐릭터의 봉인상태를 5턴 감소시킨다."
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "소켓 슬롯 1개 추가"
@@ -59,25 +80,16 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
+    "sailorNotes": "#{beneficial}",
+    "support": [
       {
-        "Name": "크리티컬 공격",
+        "Characters": "Slasher Characters",
         "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 캐릭터의 봉인상태를 1턴 감소시킨다.",
-          "Level 2: 캐릭터의 봉인상태를 2턴 감소시킨다.",
-          "Level 3: 캐릭터의 봉인상태를 3턴 감소시킨다.",
-          "Level 4: 캐릭터의 봉인상태를 4턴 감소시킨다.",
-          "Level 5: 캐릭터의 봉인상태를 5턴 감소시킨다."
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 5% of this character's base ATK to the supported character's base ATK"
         ]
       }
     ]

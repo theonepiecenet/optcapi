@@ -1,14 +1,36 @@
 {
   "name": "다이아몬드 조즈",
   "detail": {
-    "special": "DEX의 공격이 무효가 된다 (1턴)",
     "specialName": "브릴리언트 펑크",
+    "special": "DEX의 공격이 무효가 된다 (1턴)",
     "captain": "QCK 캐릭터의 공격력과 체력이 2배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Cannot be Blown Away",
       "level2": "Boosts base HP of Fighter characters by 100"
     },
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : 100"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -56,28 +78,18 @@
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
-    "potential": [
+    "potentialNotes": "#{enrage}",
+    "support": [
       {
-        "Name": "[STR] 데미지 피해 감소",
+        "Characters": "Whitebeard, Ace, Vista and Marco",
         "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : ??",
-          "Level 3: 공격력 상승 : ??",
-          "Level 4: 공격력 상승 : ??",
-          "Level 5: 공격력 상승 : 100"
+          "Level 1: Reduces damage received from [STR] characters by 1%. Adds 2% of this character's base HP to the supported character's base HP",
+          "Level 2: Reduces damage received from [STR] characters by 1%. Adds 4% of this character's base HP to the supported character's base HP",
+          "Level 3: Reduces damage received from [STR] characters by 2%. Adds 6% of this character's base HP to the supported character's base HP",
+          "Level 4: Reduces damage received from [STR] characters by 2%. Adds 8% of this character's base HP to the supported character's base HP",
+          "Level 5: Reduces damage received from [STR] characters by 3%. Adds 10% of this character's base HP to the supported character's base HP"
         ]
       }
-    ],
-    "potentialNotes": "#{enrage}"
+    ]
   }
 }

@@ -1,15 +1,36 @@
 {
   "name": "왕녀 비비",
   "detail": {
-    "special": "랜덤으로 슬롯을 바꾼다",
     "specialName": "돌격! 초 카루가모 부대!",
+    "special": "랜덤으로 슬롯을 바꾼다",
     "captain": "턴 종료 후에 캐릭터의 회복x5배의 체력이 회복한다",
     "sailor": {
       "base": "None",
       "level1": "Reduces Paralysis duration by 1 turn",
       "level2": "Makes [INT] orbs “beneficial” for this character"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 50"
@@ -57,25 +78,16 @@
         "description": "잠재능력 습득 2: [PSY] 데미지 피해 감소"
       }
     ],
-    "potential": [
+    "sailorNotes": "#{beneficial}",
+    "support": [
       {
-        "Name": "[INT] 데미지 피해 감소",
+        "Characters": "All Characters",
         "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "[PSY] 데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+          "Level 1: Once per adventure, when you reach the final stage, changes supported character's orb into a Matching orb and recovers 500 HP",
+          "Level 2: Once per adventure, when you reach the final stage, changes supported character's orb into a Matching orb and recovers 800 HP",
+          "Level 3: Once per adventure, when you reach the final stage, changes supported character's orb into a Matching orb and recovers 1,200 HP",
+          "Level 4: Once per adventure, when you reach the final stage, changes supported character's orb into a Matching orb and recovers 1,500 HP",
+          "Level 5: Once per adventure, when you reach the final stage, changes supported character's orb into a Matching orb and recovers 2,000 HP"
         ]
       }
     ]

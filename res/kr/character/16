@@ -1,13 +1,35 @@
 {
   "name": "저격왕",
   "detail": {
-    "special": "적 전체를 3턴 지연시키고 공격x15배의 [PSY] 데미지",
     "specialName": "불새성",
+    "special": "적 전체를 3턴 지연시키고 공격x15배의 [PSY] 데미지",
     "captain": "[PSY] 캐릭터의 공격력과 체력이 1.5배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Shooter characters by 20"
     },
+    "potential": [
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: 일당에 사격형이 6명 있을 때 회복 무효 상태를 1턴 회복한다",
+          "Level 2: 일당에 사격형이 5명 있을 때 회복 무효 상태를 1턴 회복한다",
+          "Level 3: 일당에 사격형이 4명 있을 때 회복 무효 상태를 1턴 회복한다",
+          "Level 4: 일당에 사격형이 4명 있을 때 회복 무효 상태를 2턴 회복한다",
+          "Level 5: 일당에 사격형이 4명 있을 때 회복 무효 상태를 3턴 회복한다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -55,25 +77,15 @@
         "description": "잠재능력 습득 2: 배리어 관통"
       }
     ],
-    "potential": [
+    "support": [
       {
-        "Name": "회복 무효 내성",
+        "Characters": "Shooter Characters",
         "description": [
-          "Level 1: 일당에 사격형이 6명 있을 때 회복 무효 상태를 1턴 회복한다",
-          "Level 2: 일당에 사격형이 5명 있을 때 회복 무효 상태를 1턴 회복한다",
-          "Level 3: 일당에 사격형이 4명 있을 때 회복 무효 상태를 1턴 회복한다",
-          "Level 4: 일당에 사격형이 4명 있을 때 회복 무효 상태를 2턴 회복한다",
-          "Level 5: 일당에 사격형이 4명 있을 때 회복 무효 상태를 3턴 회복한다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+          "Level 1: Reduces damage received from [INT] characters by 1%. Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Reduces damage received from [INT] characters by 1%. Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Reduces damage received from [INT] characters by 2%. Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Reduces damage received from [INT] characters by 2%. Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Reduces damage received from [INT] characters by 3%. Adds 3% of this character's base ATK to the supported character's base ATK"
         ]
       }
     ]

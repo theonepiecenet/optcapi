@@ -1,15 +1,36 @@
 {
   "name": "화검 비스타",
   "detail": {
-    "special": "적 전체에게 고정 데미지 5,000",
     "specialName": "로즈론도",
-    "specialNotes": "#{fixed}",
+    "special": "적 전체에게 고정 데미지 5,000",
     "captain": "[INT] 캐릭터의 공격력과 체력이 2배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of [INT] characters by 30",
       "level2": "If this character has an [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"
     },
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 20"
@@ -57,25 +78,16 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "potential": [
+    "specialNotes": "#{fixed}",
+    "support": [
       {
-        "Name": "[PSY] 데미지 피해 감소",
+        "Characters": "Whitebeard, Ace, Jozu and Marco",
         "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+          "Level 1: Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 2: Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 3: Adds 5% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 4: Adds 7% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 5: Adds 9% of this character's base ATK and RCV to the supported character's base ATK and RCV"
         ]
       }
     ]

@@ -1,14 +1,36 @@
 {
   "name": "권총사 이조",
   "detail": {
-    "special": "[STR],[QCK] 슬롯이 [DEX] 슬롯으로 바뀐다.",
     "specialName": "화려한 쌍권총",
+    "special": "[STR],[QCK] 슬롯이 [DEX] 슬롯으로 바뀐다.",
     "captain": "[DEX] 캐릭터의 공격력과 회복력이 2배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of [DEX] characters by 50",
       "level2": "사격형 캐릭터의 기본 공격력이 50 상승한다"
     },
+    "potential": [
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 1 턴",
+          "Level 3: 회복 무효 상태 회복 : 1 턴",
+          "Level 4: 회복 무효 상태 회복 : 2 턴",
+          "Level 5: 회복 무효 상태 회복 : 3 턴"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "필살기 턴 단축 : 1턴"
@@ -56,28 +78,6 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "limitnotes": "선장효과는 중첩됩니다. 그래서 [DEX] 사격 캐릭터는 공격력이 2.4배가 됩니다.",
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: 회복 무효 상태 회복 : 1 턴",
-          "Level 2: 회복 무효 상태 회복 : 1 턴",
-          "Level 3: 회복 무효 상태 회복 : 1 턴",
-          "Level 4: 회복 무효 상태 회복 : 2 턴",
-          "Level 5: 회복 무효 상태 회복 : 3 턴"
-        ]
-      }
-    ]
+    "captainNotes": "Attack boost stacks, so a [DEX] Shooter character has a 2.4x ATK"
   }
 }

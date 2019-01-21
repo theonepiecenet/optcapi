@@ -1,8 +1,20 @@
 {
   "name": "Mr. 프린스, 송아지 샷",
   "detail": {
-    "special": "적 1명에게 캐릭터의 공격×20배의 [QCK] 데미지",
     "specialName": "송아지 샷",
-    "captain": "2연속 PERFECT 시 이후의 캐릭터 공격력이 2.5배"
+    "special": "적 1명에게 캐릭터의 공격×20배의 [QCK] 데미지",
+    "captain": "2연속 PERFECT 시 이후의 캐릭터 공격력이 2.5배",
+    "support": [
+      {
+        "Characters": "Luffy, Zoro, Nami, Usopp, Chopper and Vivi",
+        "description": [
+          "Level 1: Boosts the supported character's ATK by 1.05x against Crocodile",
+          "Level 2: Boosts the supported character's ATK by 1.1x against Crocodile",
+          "Level 3: Boosts the supported character's ATK by 1.15x against Crocodile",
+          "Level 4: Boosts the supported character's ATK by 1.2x against Crocodile",
+          "Level 5: Boosts the supported character's ATK by 1.25x against Crocodile"
+        ]
+      }
+    ]
   }
 }
