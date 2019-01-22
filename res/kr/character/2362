@@ -1,58 +1,166 @@
 {
-    "name": "나미, Charming Santa Girl",
-    "detail": {
-        "captain": {
-            "base": "Not Translated",
-            "level1": "Not Translated",
-            "level2": "Not Translated",
-            "level3": "Not Translated",
-            "level4": "Not Translated",
-            "level5": "Not Translated",
-            "level6": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by 3x if HP is above 50%, by 2x otherwise"
-        },
-        "special": "Reduces Paralysis, ATK DOWN, Chain Multiplier Limit, Chain Coefficient Reduction, Burn and Blindness duration by 3 turns. Changes [BLOCK] and Badly Matching orbs into Matching orbs",
-        "specialName": "Mirage Tempo - Holy Night",
-        "sailor": {
-            "base": "None",
-            "level1": "Reduces Silence duration on this character by 3 turns",
-            "level2": "Makes [INT] orbs \"beneficial\" for this character"
-        },
-        "sailorNotes": "#{beneficial}"
+  "name": "나미, Charming Santa Girl",
+  "detail": {
+    "specialName": "Mirage Tempo - Holy Night",
+    "special": "Reduces Paralysis, ATK DOWN, Chain Multiplier Limit, Chain Coefficient Reduction, Burn and Blindness duration by 3 turns. Changes [BLOCK] and Badly Matching orbs into Matching orbs",
+    "captain": {
+      "base": "Not Translated",
+      "level1": "Not Translated",
+      "level2": "Not Translated",
+      "level3": "Not Translated",
+      "level4": "Not Translated",
+      "level5": "Not Translated",
+      "level6": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by 3x if HP is above 50%, by 2x otherwise"
     },
-    "aliases": [
-        "",
-        "",
-        "TM Nami"
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Silence duration on this character by 3 turns",
+      "level2": "Makes [INT] orbs \"beneficial\" for this character"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 3 turns"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [INT] orbs beneficial for this character"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 5 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire new Captain Ability: Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by 3x if HP is above 50%, by 2x otherwise"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
     ],
-    "unit": {
-        "type": "PSY",
-        "class": [
-            "Cerebral",
-            "Striker"
-        ],
-        "stars": 5,
-        "cost": 60,
-        "combo": null,
-        "slots": 1,
-        "level": 99,
-        "exp": 5000000,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null
-    },
-    "cooldown": [
-        null,
-        26
-    ],
-    "evolve": {
-        "evolution": 2362,
-        "evolvers": [],
-        "from": 2361
-    },
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2362.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2362.png"
-    },
-    "drop": [],
-    "manual": []
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, heals for 0.5x this character's RCV at the end of the turn each time you hit a Perfect with this character",
+          "Level 2: If HP is below 20% at the start of the turn, heals for 0.5x this character's RCV at the end of the turn each time you hit a Perfect with this character",
+          "Level 3: If HP is below 30% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a Perfect with this character",
+          "Level 4: If HP is below 40% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a Perfect with this character",
+          "Level 5: If HP is below 50% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a Perfect with this character"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+        ]
+      }
+    ]
+  }
 }

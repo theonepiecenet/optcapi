@@ -1,0 +1,51 @@
+{
+  "name": "Sanji & Zoro, Warriors Possessing the Emperor's Soul",
+  "aliases": [
+    "",
+    "",
+    "Tony Tony Chopper",
+    "Franky"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 4,
+    "slots": 1,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 332,
+    "minATK": 220,
+    "minRCV": 15,
+    "maxHP": null,
+    "maxATK": 710,
+    "maxRCV": 40,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2398,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2396.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2396.png"
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Big Emperor Raid",
+      "thumb": 2398,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
+}

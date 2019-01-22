@@ -1,87 +1,95 @@
 {
-    "name": "샬롯 링링, The Demon in the Land of Elbaf",
-    "detail": {
-        "captain": "Boosts ATK of Driven and Powerhouse characters by 2.75x and makes [RCV] orbs beneficial for Driven and Powerhouse characters.",
-        "captainNotes": "#{beneficial}",
-        "special": "Reduces ATK DOWN, Bind and Despair duration by 6 turns, changes own orb and adjacent orbs into [RCV] orbs boosts ATK of Driven and Powerhouse characters by 2.25x after 12th hit in the chain for 3 turns.",
-        "specialName": "Natural Born Destroyer",
-        "sailor": {
-            "base": "None",
-            "level1": "Boosts own base ATK by 300 if this character is the last in the chain to attack",
-            "level2": "Boosts amount healed from [RCV] orbs by 250 each"
-        },
-        "potential": [
-            {
-                "Name": "Reduce No Healing duration",
-                "description": [
-                    "Level 1: Reduces No Healing duration by 1 turn",
-                    "Level 2: Reduces No Healing duration by ? turn",
-                    "Level 3: Reduces No Healing duration by ? turn",
-                    "Level 4: Reduces No Healing duration by ? turns",
-                    "Level 5: Reduces No Healing duration by ? turns"
-                ]
-            },
-            {
-                "Name": "Slot Bind Self-reduction",
-                "description": [
-                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-                    "Level 2: Reduces Slot Bind duration by ? turns on this character",
-                    "Level 3: Reduces Slot Bind duration by ? turns on this character",
-                    "Level 4: Reduces Slot Bind duration by ? turns on this character",
-                    "Level 5: Reduces Slot Bind duration by ? turns on this character"
-                ]
-            }
-        ],
-        "support": [
-            {
-                "Characters": "Mother Caramel and Streusen",
-                "description": [
-                    "Level 1: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
-                    "Level 2: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
-                    "Level 3: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
-                    "Level 4: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
-                    "Level 5: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP"
-                ]
-            }
+  "name": "샬롯 링링, The Demon in the Land of Elbaf",
+  "detail": {
+    "specialName": "Natural Born Destroyer",
+    "special": "Reduces ATK DOWN, Bind and Despair duration by 6 turns, changes own orb and adjacent orbs into [RCV] orbs boosts ATK of Driven and Powerhouse characters by 2.25x after 12th hit in the chain for 3 turns.",
+    "captain": "Boosts ATK of Driven and Powerhouse characters by 2.75x and makes [RCV] orbs \"beneficial\" for Driven and Powerhouse characters.",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts own base ATK by 300 if this character is the last in the chain to attack",
+      "level2": "Boosts amount healed from [RCV] orbs by 250 each"
+    },
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
         ]
-    },
-    "aliases": [
-        "",
-        "",
-        "Young Big Mom",
-        "Ambush Big Mom",
-        "Invasion Big Mom"
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
     ],
-    "unit": {
-        "type": "PSY",
-        "class": [
-            "Powerhouse",
-            "Driven"
-        ],
-        "stars": 5,
-        "cost": 50,
-        "combo": null,
-        "slots": null,
-        "level": 99,
-        "exp": 5000000,
-        "minHP": null,
-        "minATK": null,
-        "minRCV": null,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null,
-        "ability": null
-    },
-    "cooldown": null,
-    "evolve": {
-        "evolution": 2381,
-        "evolvers": [],
-        "from": 2380
-    },
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2381.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2381.png"
-    },
-    "drop": [],
-    "manual": []
+    "captainNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 55"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts own base ATK by 300 if this character is the last in the chain to attack"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts amount healed from [RCV] orbs by 250 each"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 110"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Mother Caramel and Streusen",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP"
+        ]
+      }
+    ]
+  }
 }

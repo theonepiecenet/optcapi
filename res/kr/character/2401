@@ -1,50 +1,10 @@
 {
-    "name": "밀짚모자 루피, 드레스로자의 ‘희망’",
-    "detail": {
-        "captain": "[STR]의 공격력을 3배, 체력을 1.2배로 만들고, [QCK]→[DEX]→[STR] 속성의 캐릭터 순으로 GOOD 이상 달성 시, 이후 [STR]의 공격력이 약 4배가 된다",
-        "special": "일당의 봉쇄와 선장효과 무효 상태를 4턴 회복하고, 적 1명에게 모든 방어 효과를 무시하고 고정 데미지 200000을 주며, 1턴 동안 [STR]의 공격력을 1.75배, 일당에 [DEX]과 [QCK]이 2명 이상일 경우 1턴 동안 [STR]의 공격력을 2.25배로 만든다",
-        "specialName": "고무고무 컬버린",
-        "specialNotes": "#{ignoreBarrier}",
-        "sailor": "[STR]·[DEX]·[QCK] 속성의 기본 능력치가 30 상승한다"
-    },
-    "aliases": [
-        "",
-        "",
-        "LINE Luffy"
-    ],
-    "unit": {
-        "type": "STR",
-        "class": [
-            "Fighter",
-            "Free Spirit"
-        ],
-        "stars": 5,
-        "cost": 30,
-        "combo": 4,
-        "slots": 4,
-        "level": 99,
-        "exp": 4000000,
-        "maxHP": 2308,
-        "maxATK": 1409,
-        "maxRCV": 298
-    },
-    "cooldown": [
-        null,
-        14
-    ],
-    "evolve": {
-        "evolution": 2401,
-        "evolvers": [],
-        "from": 2400
-    },
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2401.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2401.png"
-    },
-    "flags": {
-        "rr": 1,
-        "rro": 1
-    },
-    "drop": [],
-    "manual": []
+  "name": "밀짚모자 루피, 드레스로자의 ‘희망’",
+  "detail": {
+    "specialName": "고무고무 컬버린",
+    "special": "일당의 봉쇄와 선장효과 무효 상태를 4턴 회복하고, 적 1명에게 모든 방어 효과를 무시하고 고정 데미지 200000을 주며, 1턴 동안 [STR]의 공격력을 1.75배, 일당에 [DEX]과 [QCK]이 2명 이상일 경우 1턴 동안 [STR]의 공격력을 2.25배로 만든다",
+    "captain": "[STR]의 공격력을 3배, 체력을 1.2배로 만들고, [QCK]→[DEX]→[STR] 속성의 캐릭터 순으로 GOOD 이상 달성 시, 이후 [STR]의 공격력이 약 4배가 된다",
+    "sailor": "[STR]·[DEX]·[QCK] 속성의 기본 능력치가 30 상승한다",
+    "specialNotes": "#{ignoreBarrier}"
+  }
 }

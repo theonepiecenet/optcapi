@@ -1,55 +1,9 @@
 {
-    "name": "카이도",
-    "detail": {
-        "captain": "Boosts own ATK by ?x and boosts ATK of Driven and Powerhouse characters by ?x and their HP by ?x",
-        "special": "Removes all positive buffs on your team, cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers, amplifies the effect of orbs for all characters by 1.5x and boosts own ATK by 3.25x for a variable amount of turns",
-        "specialNotes": "ATK and Orb amplification buff duration is equal to the amount of [RCV] orbs consumed prior to the time the special was activated with a maximum of 6 turns.",
-        "specialName": "Kaido Special"
-    },
-    "aliases": [
-        "",
-        "",
-        "TM Kaido"
-    ],
-    "unit": {
-        "type": "STR",
-        "class": [
-            "Powerhouse",
-            "Driven"
-        ],
-        "stars": 4,
-        "cost": 30,
-        "combo": null,
-        "slots": 1,
-        "level": 50,
-        "exp": 130703,
-        "minHP": null,
-        "minATK": null,
-        "minRCV": null,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null,
-        "ability": null
-    },
-    "cooldown": null,
-    "evolution": {
-        "evolution": 2387,
-        "evolvers": []
-    },
-    "evolve": [],
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2386.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2386.png"
-    },
-    "drop": [
-        {
-            "type": "Treasure Map",
-            "name": "Kaido",
-            "thumb": 2387,
-            "data": [
-                "Raging Sea"
-            ]
-        }
-    ],
-    "manual": []
+  "name": "카이도",
+  "detail": {
+    "specialName": "Kaido Special",
+    "special": "Removes all positive buffs on your team, cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers, amplifies the effect of orbs for all characters by 1.5x and boosts own ATK by 3.25x for a variable amount of turns",
+    "captain": "Boosts own ATK by ?x and boosts ATK of Driven and Powerhouse characters by ?x and their HP by ?x",
+    "specialNotes": "ATK and Orb amplification buff duration is equal to the amount of [RCV] orbs consumed prior to the time the special was activated with a maximum of 6 turns."
+  }
 }

@@ -1,53 +1,8 @@
 {
-    "name": "하이루딘, Young Giant Warrior",
-    "detail": {
-        "captain": "Boosts ATK of Slasher characters by 1.5x and their HP by 1.2x",
-        "special": "Changes own orb into [STR], boosts own ATK by 1.5x for 1 turn.",
-        "specialName": "The Pride of the Small Giant"
-    },
-    "aliases": [
-        "",
-        "",
-        "Kid Hajrudin"
-    ],
-    "unit": {
-        "type": "STR",
-        "class": [
-            "Slasher",
-            "Powerhouse"
-        ],
-        "stars": 3,
-        "cost": 1,
-        "combo": 6,
-        "slots": 2,
-        "level": 70,
-        "exp": 355666,
-        "minHP": null,
-        "minATK": null,
-        "minRCV": null,
-        "maxHP": 1405,
-        "maxATK": 1001,
-        "maxRCV": 42,
-        "ability": null
-    },
-    "cooldown": [
-        null,
-        11
-    ],
-    "evolve": [],
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2378.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2378.png"
-    },
-    "drop": [
-        {
-            "type": "Fortnight",
-            "name": "Mother Caramel Fortnight",
-            "thumb": 2377,
-            "data": [
-                "All Difficulties"
-            ]
-        }
-    ],
-    "manual": []
+  "name": "하이루딘, Young Giant Warrior",
+  "detail": {
+    "specialName": "The Pride of the Small Giant",
+    "special": "Changes own orb into [STR], boosts own ATK by 1.5x for 1 turn.",
+    "captain": "Boosts ATK of Slasher characters by 1.5x and their HP by 1.2x"
+  }
 }

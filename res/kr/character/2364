@@ -1,47 +1,10 @@
 {
-    "name": "샬롯 카타쿠리, Serious Fight",
-    "detail": {
-        "captain": "Boosts ATK of Fighter, Slasher, Shooter, Driven and Powerhouse characters by 1.825x, boosts the Color Affinity of all characters by 1.4x and makes [STR], [PSY], [RCV] and [TND] orbs \"beneficial\" for all characters. Recovers 50% of damage taken in the previous stage when entering a new stage.",
-        "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 3.330625x bonus<br>#{beneficial}",
-        "special": "Deals typeless damage to all enemies equal to 30x the damage taken before the special is activated and adds Additional Typeless Damage equal to 15x the damage taken before the special is activated for 1 turn.",
-        "specialNotes": "The amount of damage possible caps at 200,000 damage taken, so 6,000,000 AOE Typeless damage and 3,000,000 Additional Damage.",
-        "specialName": "Burning Mochi"
-    },
-    "aliases": [
-        "",
-        "",
-        "Katakuri V2"
-    ],
-    "unit": {
-        "type": "PSY",
-        "class": [
-            "Fighter",
-            "Powerhouse"
-        ],
-        "stars": 5,
-        "cost": 30,
-        "combo": null,
-        "slots": 3,
-        "level": 70,
-        "exp": 1066998,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null
-    },
-    "cooldown": null,
-    "evolution": {
-        "evolution": 2365,
-        "evolvers": []
-    },
-    "evolve": [],
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2364.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2364.png"
-    },
-    "flags": {
-        "rr": 1,
-        "rro": 1
-    },
-    "drop": [],
-    "manual": []
+  "name": "샬롯 카타쿠리, Serious Fight",
+  "detail": {
+    "specialName": "Burning Mochi",
+    "special": "Deals typeless damage to all enemies equal to 30x the damage taken before the special is activated and adds Additional Typeless Damage equal to 15x the damage taken before the special is activated for 1 turn.",
+    "captain": "Boosts ATK of Fighter, Slasher, Shooter, Driven and Powerhouse characters by 1.825x, boosts the Color Affinity of all characters by 1.4x and makes [STR], [PSY], [RCV] and [TND] orbs \"beneficial\" for all characters. Recovers 50% of damage taken in the previous stage when entering a new stage.",
+    "specialNotes": "The amount of damage possible caps at 200,000 damage taken, so 6,000,000 AOE Typeless damage and 3,000,000 Additional Damage.",
+    "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 3.330625x bonus #{beneficial}"
+  }
 }

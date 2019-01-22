@@ -1,58 +1,8 @@
 {
-    "name": "샬롯 콩포트",
-    "detail": {
-        "captain": "Boosts HP of Powerhouse characters by 1.2x. Boosts ATK of Powerhouse characters by 2.5x following a chain of 3 same Type attacks no lower than Good",
-        "special": "Changes [RCV], [TND] and [BOMB] orbs into Matching orbs and reduces Chain Coefficient Reduction duration by 3 turns.",
-        "specialName": "Compote Special"
-    },
-    "aliases": [
-        "",
-        "",
-        ""
-    ],
-    "unit": {
-        "type": "STR",
-        "class": [
-            "Striker",
-            "Powerhouse"
-        ],
-        "stars": 4,
-        "cost": 20,
-        "combo": 4,
-        "slots": 4,
-        "level": 99,
-        "exp": 1000000,
-        "maxHP": 2280,
-        "maxATK": 1110,
-        "maxRCV": 200
-    },
-    "cooldown": [
-        null,
-        14
-    ],
-    "evolve": [],
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2350.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2350.png"
-    },
-    "drop": [
-        {
-            "type": "Fortnight",
-            "name": "Perospero Fortnight Fortnight",
-            "thumb": 2351,
-            "data": [
-                "All Difficulties"
-            ]
-        }
-    ],
-    "manual": [
-        {
-            "type": "Fortnight",
-            "name": "Perospero Fortnight Fortnight",
-            "thumb": 2351,
-            "data": [
-                "All Difficulties"
-            ]
-        }
-    ]
+  "name": "샬롯 콩포트",
+  "detail": {
+    "specialName": "Compote Special",
+    "special": "Changes [RCV], [TND] and [BOMB] orbs into Matching orbs and reduces Chain Coefficient Reduction duration by 3 turns.",
+    "captain": "Boosts HP of Powerhouse characters by 1.2x. Boosts ATK of Powerhouse characters by 2.5x following a chain of 3 same Type attacks no lower than Good"
+  }
 }

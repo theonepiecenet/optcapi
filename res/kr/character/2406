@@ -1,42 +1,9 @@
 {
-    "name": "포트거스 D. 에이스, ‘대죄’의 혈통",
-    "aliases": [
-        "",
-        "",
-        "LINE Ace"
-    ],
-    "unit": {
-        "type": "PSY",
-        "class": [
-            "Shooter",
-            "Free Spirit"
-        ],
-        "stars": 4,
-        "cost": 15,
-        "combo": null,
-        "slots": 3,
-        "level": 50,
-        "exp": 392109,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null
-    },
-    "cooldown": null,
-    "evolve": [],
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2406.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2406.png"
-    },
-    "flags": {
-        "rr": 1,
-        "rro": 1
-    },
-    "drop": [],
-    "manual": [],
-    "detail": {
-        "specialName": "가족에게 남기는 말",
-        "special": "자신은 50턴 동안 봉쇄 상태가 되지만, 모든 슬롯을 속성 일치 슬롯으로 바꾸고, 2턴 동안 일당의 공격력과 슬롯의 영향을 상당히 증폭시키며, 1턴 동안 체인 계수가 +0.7 된다",
-        "captain": "일당의 공격력을 2배로 만들고, 턴 종료 시 체력을 500 회복한다",
-        "sailor": "Boosts base ATK, HP and RCV of all characters by 30"
-    }
+  "name": "포트거스 D. 에이스, ‘대죄’의 혈통",
+  "detail": {
+    "specialName": "가족에게 남기는 말",
+    "special": "자신은 50턴 동안 봉쇄 상태가 되지만, 모든 슬롯을 속성 일치 슬롯으로 바꾸고, 2턴 동안 일당의 공격력과 슬롯의 영향을 상당히 증폭시키며, 1턴 동안 체인 계수가 +0.7 된다",
+    "captain": "일당의 공격력을 2배로 만들고, 턴 종료 시 체력을 500 회복한다",
+    "sailor": "Boosts base ATK, HP and RCV of all characters by 30"
+  }
 }
