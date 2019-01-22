@@ -3,6 +3,18 @@
   "detail": {
     "specialName": "토끼 밍크의 에어 스텝",
     "special": "상단 캐릭터의 필살기 턴을 2턴 단축하고, 1턴 동안 격투형 캐릭터의 공격력을 1.5배로 만든다",
-    "captain": "격투형 캐릭터의 공격력을 2.25배, 모험 시작 시 필살기 턴을 1턴 단축한다"
+    "captain": "격투형 캐릭터의 공격력을 2.25배, 모험 시작 시 필살기 턴을 1턴 단축한다",
+    "support": [
+      {
+        "Characters": "Fighter Characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP"
+        ]
+      }
+    ]
   }
 }

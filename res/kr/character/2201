@@ -1,15 +1,46 @@
 {
   "name": "금사자 시키, Evolved",
   "detail": {
-    "captain": "Boosts ATK of [DEX], [QCK] and [INT] characters by 2.75x at the start of the chain, boosts ATK by 4x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good and boosts HP by 1.35x. Makes [TND] and [RCV] orbs “beneficial” to all characters",
-    "special": "Reduces crew's current HP by 99%, deals 30x the amount of HP subtracted in typeless damage to all enemies and changes all orbs, including [BLOCK] orbs, into [RCV] orbs",
     "specialName": "Lion's Threat: Earth Bind",
+    "special": "Reduces crew's current HP by 99%, deals 30x the amount of HP subtracted in typeless damage to all enemies and changes all orbs, including [BLOCK] orbs, into [RCV] orbs",
+    "captain": "Boosts ATK of [DEX], [QCK] and [INT] characters by 2.75x at the start of the chain, boosts ATK by 4x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good and boosts HP by 1.35x. Makes [TND] and [RCV] orbs “beneficial” to all characters",
     "sailor": {
       "base": "None",
       "level1": "Makes [DEX], [RCV] and [TND] orbs “beneficial” for this character",
       "level2": "자신은 필살기 봉쇄 상태를 완전히 회피한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 3 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+        ]
+      },
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 2남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 3남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 4남은 체력이 25% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+          "Level 5남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -102,37 +133,6 @@
         "description": "잠재능력 습득 3: 긴급 회복"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 7% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 3 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 4 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 2남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 3남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
-          "Level 4남은 체력이 25% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
-          "Level 5남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다"
-        ]
-      }
-    ]
+    "sailorNotes": "#{beneficial}"
   }
 }

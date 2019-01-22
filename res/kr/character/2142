@@ -1,84 +1,84 @@
 {
-    "name": "‘윈치 그린’ 빈스모크 욘디, 과학전투부대 제르마 66",
-    "detail": {
-        "captain": "[STR]과 강인형 캐릭터의 공격력을 각각 2.25배, 1.4배로 만들고, 강인형 캐릭터의 체력을 1.2배로 만든다",
-        "captainNotes": "Attack boost stacks, so a [STR] 강인형 character has a 3.15x ATK",
-        "special": "선장이 [STR]이나 [INT]일 경우, 1턴 동안 GOOD, GREAT, PERFECT 공격 시 캐릭터의 공격력x55배의 무 속성 데미지를 가산하고, 선장이 강인형일 경우 적에게 걸려 있는 데미지 감소와 [THRESHOLD DAMAGE] 상태를 3턴 줄인다",
-        "specialName": "버스트 앤드 아이언 암",
-        "specialNotes": "#{additionalDamage : 55x}",
-        "sailor": {
-            "base": "자신은 [INT] 슬롯도 [유리] 슬롯으로 취급한다",
-            "level1": "일당의 기본 체력이 100 상승한다"
-        },
-        "sailorNotes": "#{beneficial}",
-        "limit": [
-            {
-                "description": "회복력 상승 : 10"
-            },
-            {
-                "description": "체력 상승 : 30"
-            },
-            {
-                "description": "공격력 상승 : 20"
-            },
-            {
-                "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
-            },
-            {
-                "description": "회복력 상승 : 15"
-            },
-            {
-                "description": "체력 상승 : 40"
-            },
-            {
-                "description": "공격력 상승 : 30"
-            },
-            {
-                "description": "회복력 상승 : 25"
-            },
-            {
-                "description": "필살기 턴 수 단축: 1"
-            },
-            {
-                "description": "체력 상승 : 60"
-            },
-            {
-                "description": "잠재능력 소켓슬롯 추가 : 1"
-            },
-            {
-                "description": "공격력 상승 : 50"
-            },
-            {
-                "description": "체력 상승 : 70"
-            },
-            {
-                "description": "선원 효과 추가 1: 일당의 기본 체력이 100 상승한다"
-            },
-            {
-                "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
-            }
-        ],
-        "potential": [
-            {
-                "Name": "[QCK] 데미지 피해 감소",
-                "description": [
-                    "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-                    "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
-                    "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
-                    "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
-                    "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
-                ]
-            },
-            {
-                "Name": "슬롯 봉쇄 내성",
-                "description": [
-                    "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-                    "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-                    "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-                    "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-                    "Level 5: 자신의 슬롯 봉쇄 상태를 8턴 회복한다"
-                ]
-            }
+  "name": "‘윈치 그린’ 빈스모크 욘디, 과학전투부대 제르마 66",
+  "detail": {
+    "specialName": "버스트 앤드 아이언 암",
+    "special": "선장이 [STR]이나 [INT]일 경우, 1턴 동안 GOOD, GREAT, PERFECT 공격 시 캐릭터의 공격력x55배의 무 속성 데미지를 가산하고, 선장이 강인형일 경우 적에게 걸려 있는 데미지 감소와 [THRESHOLD DAMAGE] 상태를 3턴 줄인다",
+    "captain": "[STR]과 강인형 캐릭터의 공격력을 각각 2.25배, 1.4배로 만들고, 강인형 캐릭터의 체력을 1.2배로 만든다",
+    "sailor": {
+      "base": "자신은 [INT] 슬롯도 [유리] 슬롯으로 취급한다",
+      "level1": "일당의 기본 체력이 100 상승한다"
+    },
+    "potential": [
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
-    }
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 8턴 회복한다"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "회복력 상승 : 25"
+      },
+      {
+        "description": "필살기 턴 수 단축: 1"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "잠재능력 소켓슬롯 추가 : 1"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "체력 상승 : 70"
+      },
+      {
+        "description": "선원 효과 추가 1: 일당의 기본 체력이 100 상승한다"
+      },
+      {
+        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
+      }
+    ],
+    "specialNotes": "#{additionalDamage : 55x}",
+    "captainNotes": "Attack boost stacks, so a [STR] 강인형 character has a 3.15x ATK",
+    "sailorNotes": "#{beneficial}"
+  }
 }

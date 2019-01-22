@@ -1,1 +1,24 @@
-{"name":"몽키 D. 가프, 해적왕의 숙적","detail":{"captain":"일당의 공격력을 2배, 체력을 1.5배로 만들고, [PSY][RCV] 슬롯도 [유리] 슬롯으로 취급하며, GOOD→GREAT→PERFECT 순으로 공격하면 이후 일당의 공격력이 4배가 되지만, 일당에 편성된 타격형, 사격형, 박식형의 수에 따라 일당의 공격력이 대폭 감소한다","special":[{"description":"모든 방어 효과를 무시하고 적 1명의 HP를 10% 줄이고, 1턴 동안 일당의 체인 계수를 3배로 고정하며, 일당 의 필살기 봉쇄 상태를 1턴 회복한다","cooldown":[15,10]},{"description":"모든 방어 효과를 무시하고 적 1명의 HP를 30% 줄이고, 1턴 동안 일당의 체인 계수를 3배로 고정하며, 일당의 필살기 봉쇄 상태를 3턴 회복한다","cooldown":[21,16]}],"specialName":"사랑의 주먹","specialNotes":"#{silence}"},"aliases":["モンキー・D・ガープ 海賊王の宿敵","","Legend Garp"],"unit":{"type":"PSY","class":["Free Spirit","Powerhouse"],"stars":5,"cost":30,"combo":5,"slots":3,"level":70,"exp":1066998,"maxHP":1890,"maxATK":905,"maxRCV":193},"cooldown":[21,16],"evolution":{"evolution":2251,"evolvers":[118,98,1180,303,267]},"evolve":[],"image":{"thumb":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/thumbs\/2250.png","character":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/characters\/2250.png"},"flags":{"rr":1,"rro":1,"global":1},"drop":[],"manual":[]}
+{
+  "name": "몽키 D. 가프, 해적왕의 숙적",
+  "detail": {
+    "specialName": "사랑의 주먹",
+    "special": [
+      {
+        "description": "모든 방어 효과를 무시하고 적 1명의 HP를 10% 줄이고, 1턴 동안 일당의 체인 계수를 3배로 고정하며, 일당 의 필살기 봉쇄 상태를 1턴 회복한다",
+        "cooldown": [
+          15,
+          10
+        ]
+      },
+      {
+        "description": "모든 방어 효과를 무시하고 적 1명의 HP를 30% 줄이고, 1턴 동안 일당의 체인 계수를 3배로 고정하며, 일당의 필살기 봉쇄 상태를 3턴 회복한다",
+        "cooldown": [
+          21,
+          16
+        ]
+      }
+    ],
+    "captain": "일당의 공격력을 2배, 체력을 1.5배로 만들고, [PSY][RCV] 슬롯도 [유리] 슬롯으로 취급하며, GOOD→GREAT→PERFECT 순으로 공격하면 이후 일당의 공격력이 4배가 되지만, 일당에 편성된 타격형, 사격형, 박식형의 수에 따라 일당의 공격력이 대폭 감소한다",
+    "specialNotes": "#{silence}"
+  }
+}

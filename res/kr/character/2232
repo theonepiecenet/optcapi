@@ -1,17 +1,46 @@
 {
   "name": "갓 에넬, Return to “Fairy Vearth”",
   "detail": {
-    "captain": "Reduces HP of all characters by 20%, reduces damage received by 13%, boosts chances of getting [RCV] orbs, makes [RCV] orbs “beneficial” to all characters, boosts ATK of all characters proportionally to the amount healed in the last turn, by 3.75 at max.",
-    "captainNotes": "The range of ATK boost is from 2x to 3.75x. The exact boost is calculated as 2 + <HP recovered in the previous turn> * ? and maxes at ?k HP healed. This ignores your max HP, so it doesn't stop counting if you over-heal.<br>#{beneficial}",
-    "special": "Deals typeless damage to all enemies equal to 25x how much excess healing done before the special is activated.",
-    "specialNotes": "The excess healing is counted from the last time the special is used and accumulates when you heal more than your maximum HP. For example, if you are at max HP and you heal 1,000 HP, you will add 25k damage to the special. The amount of damage possible caps at 5,000,000 damage.",
     "specialName": "Kingdom Come",
+    "special": "Deals typeless damage to all enemies equal to 25x how much excess healing done before the special is activated.",
+    "captain": "Reduces HP of all characters by 20%, reduces damage received by 13%, boosts chances of getting [RCV] orbs, makes [RCV] orbs “beneficial” to all characters, boosts ATK of all characters proportionally to the amount healed in the last turn, by 3.75 at max.",
     "sailor": {
       "base": "None",
       "level1": "Makes [RCV] orbs “beneficial” for all characters",
       "level2": "Boosts amount healed from [RCV] orbs by 300 each"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 3 turns",
+          "Level 3: Reduces No Healing duration by 5 turns",
+          "Level 4: Reduces No Healing duration by 7 turns",
+          "Level 5: Reduces No Healing duration by 10 turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 5"
@@ -104,37 +133,8 @@
         "description": "잠재능력 습득 3: Reduce No Healing duration"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
-        ]
-      },
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 3 turns",
-          "Level 3: Reduces No Healing duration by 5 turns",
-          "Level 4: Reduces No Healing duration by 7 turns",
-          "Level 5: Reduces No Healing duration by 10 turns"
-        ]
-      }
-    ]
+    "specialNotes": "The excess healing is counted from the last time the special is used and accumulates when you heal more than your maximum HP. For example, if you are at max HP and you heal 1,000 HP, you will add 25k damage to the special. The amount of damage possible caps at 5,000,000 damage.",
+    "captainNotes": "The range of ATK boost is from 2x to 3.75x. The exact boost is calculated as 2 + * ? and maxes at ?k HP healed. This ignores your max HP, so it doesn't stop counting if you over-heal. #{beneficial}",
+    "sailorNotes": "#{beneficial}"
   }
 }

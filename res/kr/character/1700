@@ -77,6 +77,18 @@
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Fighter and Powerhouse Characters",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses their special, adds .1x to Chain multiplier for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses their special, adds .1x to Chain multiplier for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses their special, adds .15x to Chain multiplier for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses their special, adds .15x to Chain multiplier for 1 turn.",
+          "Level 5: Once per an adventure, when the supported character uses their special, adds .2x to Chain multiplier for 1 turn."
+        ]
+      }
+    ]
   }
 }

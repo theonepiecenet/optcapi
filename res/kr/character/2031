@@ -1,1 +1,83 @@
-{"name":"부랑 뉴, 절대적 정의에 맞서는 자","detail":{"captain":"[STR]과 [INT] 캐릭터의 공격력을 2.5배로 만들고, 받는 데미지를 7% 감소시킨다","special":"적에게 걸린 [THRESHOLD DAMAGE], 데미지 감소 상태를 4턴 줄이고 3턴 동안 [STR]과 [INT]의 [QCK][PSY][RCV][TND] 슬롯을 [유리] 슬롯으로 취급한다","specialNotes":"#{beneficial}","specialName":"이상한 사건에 대한 뜨거운 호소","sailor":["[INT]의 기본 능력치가 50 상승한다","참격형 캐릭터의 기본 공격력이 30 상승한다"],"limit":[{"description":"공격력 상승 : 25"},{"description":"체력 상승 : 40"},{"description":"회복력 상승 : 10"},{"description":"잠재능력 습득 1: 피격 시 공격력 상승"},{"description":"공격력 상승 : 25"},{"description":"회복력 상승 : 15"},{"description":"공격력 상승 : 30"},{"description":"필살기 턴 단축 : 1턴"},{"description":"회복력 상승 : 30"},{"description":"소켓 슬롯 1개 추가"},{"description":"체력 상승 : 50"},{"description":"공격력 상승 : 40"},{"description":"선원 효과 추가 1: 사격형 캐릭터의 기본 공격력이 30 상승한다"},{"description":"체력 상승 : 30"},{"description":"잠재능력 습득 2: 크리티컬 공격"}],"potential":[{"Name":"피격 시 공격력 상승","description":["Level 1: 공격력 상승 : 30","Level 2: 공격력 상승 : 60","Level 3: 공격력 상승 : 90","Level 4: 공격력 상승 : 100","Level 5: 공격력 상승 : 150"]},{"Name":"크리티컬 공격","description":["Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다","Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다","Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다","Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다","Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"]}],"potentialNotes":"#{enrage}"}}
+{
+  "name": "부랑 뉴, 절대적 정의에 맞서는 자",
+  "detail": {
+    "specialName": "이상한 사건에 대한 뜨거운 호소",
+    "special": "적에게 걸린 [THRESHOLD DAMAGE], 데미지 감소 상태를 4턴 줄이고 3턴 동안 [STR]과 [INT]의 [QCK][PSY][RCV][TND] 슬롯을 [유리] 슬롯으로 취급한다",
+    "captain": "[STR]과 [INT] 캐릭터의 공격력을 2.5배로 만들고, 받는 데미지를 7% 감소시킨다",
+    "sailor": [
+      "[INT]의 기본 능력치가 50 상승한다",
+      "참격형 캐릭터의 기본 공격력이 30 상승한다"
+    ],
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : 60",
+          "Level 3: 공격력 상승 : 90",
+          "Level 4: 공격력 상승 : 100",
+          "Level 5: 공격력 상승 : 150"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "공격력 상승 : 25"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+      },
+      {
+        "description": "공격력 상승 : 25"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "소켓 슬롯 1개 추가"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "선원 효과 추가 1: 사격형 캐릭터의 기본 공격력이 30 상승한다"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "잠재능력 습득 2: 크리티컬 공격"
+      }
+    ],
+    "specialNotes": "#{beneficial}",
+    "potentialNotes": "#{enrage}"
+  }
+}

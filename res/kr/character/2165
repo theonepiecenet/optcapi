@@ -1,9 +1,9 @@
 {
-    "name": "베이비 5, 사이의 프로포즈",
-    "detail": {
-        "captain": "참격형, 타격형, 사격형 캐릭터의 공격력을 1.75배로 만든다",
-        "special": "선장의 슬롯을 [DEX] 슬롯으로 바꾸고, 1턴 동안 격투형 캐릭터의 슬롯 영향을 상당히 증폭시킨다",
-        "specialName": "초조한 사랑",
-        "sailor": "선장이 격투형일 경우 GOOD,GREAT, PERFECT 공격 시 캐릭터의 공격력x1.5배의 데미지가 가산된다"
-    }
+  "name": "베이비 5, 사이의 프로포즈",
+  "detail": {
+    "specialName": "Irritation of Love",
+    "special": "Changes the captain's orb into [DEX], amplifies the effect of orbs for Fighter characters by 1.75x for 1 turn",
+    "captain": "Boosts ATK of Slasher, Striker and Shooter characters by 1.75x",
+    "sailor": "If your Captain is a Fighter character, adds 1.5x character's ATK as Additional Typeless Damage"
+  }
 }

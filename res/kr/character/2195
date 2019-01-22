@@ -1,15 +1,46 @@
 {
   "name": "코라손, Sympathy for Law",
   "detail": {
-    "captain": "Boosts ATK of all characters proportionally to the crew's current HP, by 3x at max. Recovers 1.5x his RCV at the end of the turn each time you hit a Good. Recovers .5x his RCV at the end of the turn each time you hit a Great",
-    "captainNotes": "#{captainProportional : higher : ? + ? * (remaining HP) / (total HP) : 3 : ? }",
-    "special": "Recovers 50x character's RCV in HP and reduces Bind, Despair, Paralysis, ATK DOWN, Chain Multiplier Limit and Chain Coefficient Reduction duration by 3 turns. If Corazon is your Captain or Friend/Guest Captain, reduces Despair duration by 20 turns.",
     "specialName": "Grateful Love",
+    "special": "Recovers 50x character's RCV in HP and reduces Bind, Despair, Paralysis, ATK DOWN, Chain Multiplier Limit and Chain Coefficient Reduction duration by 3 turns. If Corazon is your Captain or Friend/Guest Captain, reduces Despair duration by 20 turns.",
+    "captain": "Boosts ATK of all characters proportionally to the crew's current HP, by 3x at max. Recovers 1.5x his RCV at the end of the turn each time you hit a Good. Recovers .5x his RCV at the end of the turn each time you hit a Great",
     "sailor": {
       "base": "None",
       "level1": "Reduces Paralysis duration by 1 turn",
       "level2": "Reduces Silence duration by 1 turn"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 5 turns",
+          "Level 5: Reduces No Healing duration by 7 turns"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 5"
@@ -102,38 +133,7 @@
         "description": "잠재능력 습득 3: Cooldown Reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      },
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turn",
-          "Level 3: Reduces No Healing duration by 3 turn",
-          "Level 4: Reduces No Healing duration by 5 turns",
-          "Level 5: Reduces No Healing duration by 7 turns"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
-        ]
-      }
-    ],
+    "captainNotes": "#{captainProportional : higher : ? + ? * (remaining HP) / (total HP) : 3 : ? }",
     "potentialNotes": "#{enrage}"
   }
 }

@@ -1,6 +1,8 @@
 {
   "name": "빨간 머리 샹크스, Toast to a New Era",
   "detail": {
+    "specialName": "Shanks Special",
+    "special": "Reduces enemy Barrier duration by 1 turn, reduces Burn duration by 1 turn, boosts chances of getting matching orbs for 1 turn, randomizes all orbs, including [BLOCK] orbs, Adds 60x character's ATK as Additional Typeless Damage for 1 turn.",
     "captain": {
       "base": "Not Translated",
       "level1": "Not Translated",
@@ -10,15 +12,11 @@
       "level5": "Not Translated",
       "level6": "Boosts ATK of Cerebral and Free Spirit characters by 3x if HP is above 99%, by 2.5x otherwise, recovers 1.75x character's RCV in HP at the end of each turn and boosts chances of getting Matching orbs for Cerebral and Free Spirit Characters"
     },
-    "special": "Reduces enemy Barrier duration by 1 turn, reduces Burn duration by 1 turn, boosts chances of getting matching orbs for 1 turn, randomizes all orbs, including [BLOCK] orbs, Adds 60x character's ATK as Additional Typeless Damage for 1 turn.",
-    "specialName": "Shanks Special",
-    "specialNotes": "#{additionalDamage : 55x}",
     "sailor": {
       "base": "None",
       "level1": "Makes [DEX] orbs “beneficial” for all characters",
       "level2": "Makes [STR] orbs “beneficial” for this character"
     },
-    "sailorNotes": "#{beneficial}",
     "potential": [
       {
         "Name": "크리티컬 공격",
@@ -162,6 +160,8 @@
       {
         "description": "Acquire Potential 2: Double Special Activation"
       }
-    ]
+    ],
+    "specialNotes": "#{additionalDamage : 55x}",
+    "sailorNotes": "#{beneficial}"
   }
 }

@@ -1,1 +1,9 @@
-{"name":"벤 베크맨, 빛을 위협하는 총구","detail":{"captain":"박식형 캐릭터의 공격력을 1.5배, 체력을 1.2배로 만든다","special":"적에게 걸린 방어력 상승 상태를 3턴 줄이고, 자신의 슬롯을 [STR]으로 바꾸며, 1턴 동안 일당의 슬롯 영향을 증폭시킨다. 또한 1턴 동안 체인 계수를 트레저 맵 Lv 1~10일 때 2.5배, Lv 11~20일 때 2.75배, Lv 21 이상일 때 3배로 고정시킨다","specialName":"섬멸의 사전 연습","specialNotes":"Level 1-10: 2.5x chain lock<br>Level 11-20: 2.75x chain lock<br>Level 21+: 3x chain lock"}}
+{
+  "name": "벤 베크맨, 빛을 위협하는 총구",
+  "detail": {
+    "specialName": "섬멸의 사전 연습",
+    "special": "적에게 걸린 방어력 상승 상태를 3턴 줄이고, 자신의 슬롯을 [STR]으로 바꾸며, 1턴 동안 일당의 슬롯 영향을 증폭시킨다. 또한 1턴 동안 체인 계수를 트레저 맵 Lv 1~10일 때 2.5배, Lv 11~20일 때 2.75배, Lv 21 이상일 때 3배로 고정시킨다",
+    "captain": "박식형 캐릭터의 공격력을 1.5배, 체력을 1.2배로 만든다",
+    "specialNotes": "Level 1-10: 2.5x chain lock Level 11-20: 2.75x chain lock Level 21+: 3x chain lock"
+  }
+}

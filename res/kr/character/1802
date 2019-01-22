@@ -76,6 +76,18 @@
       {
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
+    ],
+    "support": [
+      {
+        "Characters": "Cavendish",
+        "description": [
+          "Level 1: Reduces damage received from [STR] characters by 1%. Adds 5% of this character's base HP to the supported character's base HP",
+          "Level 2: Reduces damage received from [STR] characters by 2%. Adds 7% of this character's base HP to the supported character's base HP",
+          "Level 3: Reduces damage received from [STR] characters by 3%. Adds 10% of this character's base HP to the supported character's base HP",
+          "Level 4: Reduces damage received from [STR] characters by 4%. Adds 12% of this character's base HP to the supported character's base HP",
+          "Level 5: Reduces damage received from [STR] characters by 5%. Adds 15% of this character's base HP to the supported character's base HP"
+        ]
+      }
     ]
   }
 }

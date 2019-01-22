@@ -1,10 +1,10 @@
 {
-    "name": "몽키 D. 루피, 고무고무 힘의 가능성",
-    "detail": {
-        "captain": "<b>Always Active: </b>일당의 체력을 1.25배로 만들고, [STR][QCK][PSY] 슬롯의 출현율이 상승한다<br><b>기어 2 Captain: </b>일당의 공격력을 3배로 만들고, [RCV] 슬롯의 출현율이 약간 상승하며, 일당의 [QCK] 슬롯을 [유리] 슬롯으로 취급한다<br><b>기어 3 Captain: </b>[RCV] 슬롯의 출현율이 상승하며, 일당의 [STR] 슬롯을 [유리] 슬롯으로 취급하고, 2연속 PERFECT를 달성하면 이후 캐릭터의 공격력이 3.5배가 된다<br><b>기어 4 - 바운드맨 Captain: </b>일당의 공격력을 4배로 만들고, [RCV] 슬롯의 출현율이 상승하며, 일당의 [STR][QCK][PSY] 슬롯을 [유리] 슬롯으로 취급하고, 받는 데미지를 20% 줄인다<br><b>기어 4 - 탱크맨 Captain: </b>일당의 공격력을 4배, 자신의 공격력을 4.25배로 만들고, 받는 데미지를 50% 줄이고, 일당은 [STR][QCK][PSY] 슬롯을 [유리] 슬롯으로 취급한다<br><b>Action: </b>기어 파워가 절반 이상이라면 선장 액션으로 기어 2와 기어 3로 자유롭게 기어 체인지를 할 수 있고, 기어 파워가 MAX라면 기어 4로 체인지할 수도 있다",
-        "captainnotes": "In order to increase Gear Power Gauge level, you must hit a PERFECT with Luffy or consume [RCV] orbs. MAX Gear Power Gauge level is 8. Hitting a PERFECT with Luffy and consuming a [RCV] orb increases Gauge level by 1. If Luffy gets swapped out in battle, Gear Gauge Power will go to 0. While in Gear 4, Luffy will stay in that form until Gauge Power goes to 0. Attacking with any character while in Gear 4 reduces Gear Power Gauge by 3.",
-        "special": "적 전체에게 무 속성 슈퍼 데미지를 주고, 1턴 동안 일당의 공격력을 2배로 만들며, 3턴 동안 [RCV][TND] 슬롯을 [유리] 슬롯으로 취급한다. 자신이 선장 액션 ‘기어 4’ 상태에서, 모험 중 [RCV]를 10개 이상 획득한 후 필살기를 사용하면 탱크맨 상태가 된다",
-        "specialNotes": "If you use this special after consuming 10 [RCV] orbs since the start of the fight, transform into Tankman, otherwise transform into Boundman",
-        "specialName": "고무고무 콩 오르건"
-    }
+  "name": "몽키 D. 루피, 고무고무 힘의 가능성",
+  "detail": {
+    "specialName": "고무고무 콩 오르건",
+    "special": "적 전체에게 무 속성 슈퍼 데미지를 주고, 1턴 동안 일당의 공격력을 2배로 만들며, 3턴 동안 [RCV][TND] 슬롯을 [유리] 슬롯으로 취급한다. 자신이 선장 액션 ‘기어 4’ 상태에서, 모험 중 [RCV]를 10개 이상 획득한 후 필살기를 사용하면 탱크맨 상태가 된다",
+    "captain": "Always Active: </b>일당의 체력을 1.25배로 만들고, [STR][QCK][PSY] 슬롯의 출현율이 상승한다 기어 2 Captain: </b>일당의 공격력을 3배로 만들고, [RCV] 슬롯의 출현율이 약간 상승하며, 일당의 [QCK] 슬롯을 [유리] 슬롯으로 취급한다 기어 3 Captain: </b>[RCV] 슬롯의 출현율이 상승하며, 일당의 [STR] 슬롯을 [유리] 슬롯으로 취급하고, 2연속 PERFECT를 달성하면 이후 캐릭터의 공격력이 3.5배가 된다 기어 4 - 바운드맨 Captain: </b>일당의 공격력을 4배로 만들고, [RCV] 슬롯의 출현율이 상승하며, 일당의 [STR][QCK][PSY] 슬롯을 [유리] 슬롯으로 취급하고, 받는 데미지를 20% 줄인다 기어 4 - 탱크맨 Captain: </b>일당의 공격력을 4배, 자신의 공격력을 4.25배로 만들고, 받는 데미지를 50% 줄이고, 일당은 [STR][QCK][PSY] 슬롯을 [유리] 슬롯으로 취급한다 Action: </b>기어 파워가 절반 이상이라면 선장 액션으로 기어 2와 기어 3로 자유롭게 기어 체인지를 할 수 있고, 기어 파워가 MAX라면 기어 4로 체인지할 수도 있다",
+    "specialNotes": "If you use this special after consuming 10 [RCV] orbs since the start of the fight, transform into Tankman, otherwise transform into Boundman",
+    "captainNotes": "In order to increase Gear Power Gauge level, you must hit a PERFECT with Luffy or consume [RCV] orbs. MAX Gear Power Gauge level is 8. Hitting a PERFECT with Luffy and consuming a [RCV] orb increases Gauge level by 1. If Luffy gets swapped out in battle, Gear Gauge Power will go to 0. While in Gear 4, Luffy will stay in that form until Gauge Power goes to 0. Attacking with any character while in Gear 4 reduces Gear Power Gauge by 3."
+  }
 }

@@ -1,14 +1,35 @@
 {
   "name": "다이후쿠, Charlotte Family’s 3rd Son",
   "detail": {
-    "captain": "Boosts ATK of Powerhouse characters by 2.5x and reduces damage received by 20%",
-    "special": "Reduces enemy's Percent Damage Reduction, End of Turn Heal, Increased Defense and Resilience Buffs duration by 2 turns, changes own orb into [QCK] and deals 30x character's ATK in [QCK] damage to all enemies",
     "specialName": "Genie-uine Rage Split",
+    "special": "Reduces enemy's Percent Damage Reduction, End of Turn Heal, Increased Defense and Resilience Buffs duration by 2 turns, changes own orb into [QCK] and deals 30x character's ATK in [QCK] damage to all enemies",
+    "captain": "Boosts ATK of Powerhouse characters by 2.5x and reduces damage received by 20%",
     "sailor": {
       "base": "Boosts base HP of all characters by 75",
       "level1": "Makes [DEX] orbs “beneficial” for this character"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      },
+      {
+        "Name": "Double Special Activation",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
+          "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "Boosts base RCV by 20"
@@ -56,25 +77,16 @@
         "description": "Acquire Potential 2: Double Special Activation"
       }
     ],
-    "potential": [
+    "sailorNotes": "#{beneficial}",
+    "support": [
       {
-        "Name": "Slot Bind Self-reduction",
+        "Characters": "Katakuri, Oven, Brulee and Smoothie",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      },
-      {
-        "Name": "Double Special Activation",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
-          "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
+          "Level 1: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP"
         ]
       }
     ]

@@ -1,22 +1,41 @@
 {
   "name": "상디&조로, 밀짚모자 일당의 쌍벽",
   "detail": {
+    "specialName": "아르메 드 레르 파워 슈트",
+    "special": "적 1명에게 모든 방어 효과를 무시하고 캐릭터의 공격력x30배의 속성 데미지를 주고, 1턴 동안 [DEX]과 [PSY]의 슬롯의 영향을 2.25배로 증폭시키며, 1턴 동안 ‘조로&상디’가 된다",
     "captain": {
       "character1": "모험 시작 시 [DEX]과 [PSY]의 필살기 턴을 2턴 단축하고, [DEX]의 공격력을 2배, [PSY]의 공격력을 2.75배로 만든다",
       "character2": "모험 시작 시 [DEX]과 [PSY]의 필살기 턴을 2턴 단축하고, [DEX]의 공격력을 2.75배, [PSY]의 공격력을 2배로 만든다",
       "combined": "[DEX]과 [PSY]의 공격력을 3.75배로 만들고, [DEX]과 [PSY]은 [DEX][PSY] 슬롯도 [유리] 슬롯으로 취급한다"
     },
-    "captainNotes": "#{beneficial}",
-    "special": "적 1명에게 모든 방어 효과를 무시하고 캐릭터의 공격력x30배의 속성 데미지를 주고, 1턴 동안 [DEX]과 [PSY]의 슬롯의 영향을 2.25배로 증폭시키며, 1턴 동안 ‘조로&상디’가 된다",
-    "specialNotes": "Change Action: When Change is activated, randomizes all non-matching orbs on [PSY] and [DEX] characters and adds .5x to Chain multiplier for 1 turn<br>#{ignoreBarrier}",
-    "specialName": "아르메 드 레르 파워 슈트",
     "sailor": {
       "character1": "[PSY] 속성의 기본 공격력이 30 상승한다",
       "character2": "[DEX] 속성의 기본 공격력이 30 상승한다",
       "combined": "[DEX]과 [PSY]의 기본 능력치가 50 상승한다",
       "level1": "[DEX]과 [PSY]은 [TND] 슬롯도 [유리] 슬롯으로 취급한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
+          "Level 2: 전투 시작 시 체력이 25% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 3: 전투 시작 시 체력이 35% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 4: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 5: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다."
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "소켓 슬롯 1개 추가"
@@ -139,27 +158,8 @@
         "description": "잠재능력 습득 2: 긴급 회복"
       }
     ],
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
-          "Level 2: 전투 시작 시 체력이 25% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
-          "Level 3: 전투 시작 시 체력이 35% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
-          "Level 4: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
-          "Level 5: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다."
-        ]
-      }
-    ]
+    "specialNotes": "Change Action: When Change is activated, randomizes all non-matching orbs on [PSY] and [DEX] characters and adds .5x to Chain multiplier for 1 turn #{ignoreBarrier}",
+    "captainNotes": "#{beneficial}",
+    "sailorNotes": "#{beneficial}"
   }
 }

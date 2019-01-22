@@ -1,1 +1,81 @@
-{"name":"하찌, Starting Up the Party","detail":{"captain":"Boosts ATK of Slasher and Powerhouse characters by 1.75x and boosts chain multiplier by 2x","special":"Deals 6 hits of of 30x character's ATK in typeless damage to random enemies, reduces the defense of all enemies by 100% for 1 turn, changes [BLOCK], [TND], [G] and [BOMB] orbs into [RCV] orbs. If your Captain is a Powerhouse character, boosts ATK against enemies with reduced defense by 1.75x for 1 turn.","specialName":"The Octopus' Strange Sword","sailor":["Boosts base ATK of Slasher and Powerhouse characters by 50","If this character has a [PSY] orb and you hit a PERFECT with him, keep his [PSY] orb for the next turn"],"potential":[{"Name":"크리티컬 공격","description":["Level 1: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다","Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다","Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다","Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다","Level 5: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"]},{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by 1 turn on this character","Level 2: Reduces Slot Bind duration by 2 turn on this character","Level 3: Reduces Slot Bind duration by 3 turn on this character","Level 4: Reduces Slot Bind duration by 4 turn on this character","Level 5: Reduces Slot Bind duration by 5 turn on this character"]}],"limit":[{"description":"Boosts base HP by 20"},{"description":"Boosts base ATK by 15"},{"description":"Boosts base RCV by 10"},{"description":"Acquire Potential 1: Critical Hit"},{"description":"Boosts base HP by 45"},{"description":"Boosts base ATK by 20"},{"description":"Acquire 1 additional Socket slot"},{"description":"Boosts base RCV by 15"},{"description":"Acquire Sailor Ability 1: If this character has a [PSY] orb and you hit a PERFECT with him, keep his [PSY] orb for the next turn"},{"description":"Boosts base HP by 60"},{"description":"Boosts base ATK by 25"},{"description":"Boosts base RCV by 25"},{"description":"Boosts base HP by 75"},{"description":"Boosts base ATK by 40"},{"description":"Acquire Potential 2: Slot Bind Self-reduction"}]}}
+{
+  "name": "하찌, Starting Up the Party",
+  "detail": {
+    "specialName": "The Octopus' Strange Sword",
+    "special": "Deals 6 hits of of 30x character's ATK in typeless damage to random enemies, reduces the defense of all enemies by 100% for 1 turn, changes [BLOCK], [TND], [G] and [BOMB] orbs into [RCV] orbs. If your Captain is a Powerhouse character, boosts ATK against enemies with reduced defense by 1.75x for 1 turn.",
+    "captain": "Boosts ATK of Slasher and Powerhouse characters by 1.75x and boosts chain multiplier by 2x",
+    "sailor": [
+      "Boosts base ATK of Slasher and Powerhouse characters by 50",
+      "If this character has a [PSY] orb and you hit a PERFECT with him, keep his [PSY] orb for the next turn"
+    ],
+    "potential": [
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turn on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turn on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turn on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turn on this character"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If this character has a [PSY] orb and you hit a PERFECT with him, keep his [PSY] orb for the next turn"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 75"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ]
+  }
+}

@@ -1,1 +1,82 @@
-{"name":"로브 루치, ‘어둠의 정의’를 표방하는 병기","detail":{"captain":"격투형 캐릭터의 공격력을 2.5배, 일당의 회복력을 0으로 만들고, 이전 턴에 적을 1명이라도 격파했다면 격투형 캐릭터의 공격력이 3배, 그 외 캐릭터의 공격력은 1.2배가 된다","captainNotes":"If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.","special":"적 1명에게 캐릭터의 공격력x100배의 [INT] 데미지를 주고, 필살기 발동 시 적의 수가 1명일 때는 적의 공격을 1턴 지연시키고, 1턴 동안 지연 상태의 적에게 주는 데미지가 1.75배가 된다","specialName":"최대륜 「육왕건」","sailor":["None","격투형 캐릭터의 기본 공격력이 100 상승한다"],"limit":[{"description":"체력 상승 : 10"},{"description":"회복력 상승 : 15"},{"description":"공격력 상승 : 10"},{"description":"잠재능력 습득 1: [INT] 데미지 피해 감소"},{"description":"필살기 턴 단축 : 1턴"},{"description":"회복력 상승 : 55"},{"description":"공격력 상승 : 30"},{"description":"체력 상승 : 20"},{"description":"체력 상승 : 30"},{"description":"공격력 상승 : 30"},{"description":"공격력 상승 : 30"},{"description":"공격력 상승 : 45"},{"description":"필살기 턴 단축 : 1턴"},{"description":"선원 효과 추가 1: Boosts base ATK of Fighter characters by 100"},{"description":"잠재능력 습득 2: 배리어 관통"}],"potential":[{"Name":"[INT]데미지 피해 감소","description":["Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다","Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다","Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다","Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"]},{"Name":"배리어 관통","description":["Level 1: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다","Level 2: 일당의 체력이 90% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다","Level 3: 일당의 체력이 70% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다","Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다","Level 5: This character's attack will ignore barriers"]}]}}
+{
+  "name": "로브 루치, ‘어둠의 정의’를 표방하는 병기",
+  "detail": {
+    "specialName": "최대륜 「육왕건」",
+    "special": "적 1명에게 캐릭터의 공격력x100배의 [INT] 데미지를 주고, 필살기 발동 시 적의 수가 1명일 때는 적의 공격을 1턴 지연시키고, 1턴 동안 지연 상태의 적에게 주는 데미지가 1.75배가 된다",
+    "captain": "격투형 캐릭터의 공격력을 2.5배, 일당의 회복력을 0으로 만들고, 이전 턴에 적을 1명이라도 격파했다면 격투형 캐릭터의 공격력이 3배, 그 외 캐릭터의 공격력은 1.2배가 된다",
+    "sailor": [
+      "None",
+      "격투형 캐릭터의 기본 공격력이 100 상승한다"
+    ],
+    "potential": [
+      {
+        "Name": "[INT]데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 일당의 체력이 99% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 2: 일당의 체력이 90% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 3: 일당의 체력이 70% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 4: 일당의 체력이 50% 이상이면, 이 캐릭터의 공격은 배리어를 무시한다",
+          "Level 5: This character's attack will ignore barriers"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "체력 상승 : 10"
+      },
+      {
+        "description": "회복력 상승 : 15"
+      },
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "회복력 상승 : 55"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 45"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "선원 효과 추가 1: Boosts base ATK of Fighter characters by 100"
+      },
+      {
+        "description": "잠재능력 습득 2: 배리어 관통"
+      }
+    ],
+    "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks."
+  }
+}

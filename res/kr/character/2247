@@ -1,15 +1,35 @@
 {
   "name": "네펠타리 비비, The Princess’ Resolve",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit characters proportionally to the crew's current HP, by 3.25x at max and recovers 1.5x character's RCV in HP at the end of each turn",
-    "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : 3.25 : ?}",
-    "special": "Reduces Special Cooldown of all characters by 1 turn and changes [BLOCK] and adjacent orbs into [RCV] orbs. If during that turn, you hit 2 PERFECTS, locks the chain multiplier at 3x for 3 turns.",
     "specialName": "The Mark of Friendship",
+    "special": "Reduces Special Cooldown of all characters by 1 turn and changes [BLOCK] and adjacent orbs into [RCV] orbs. If during that turn, you hit 2 PERFECTS, locks the chain multiplier at 3x for 3 turns.",
+    "captain": "Boosts ATK of Free Spirit characters proportionally to the crew's current HP, by 3.25x at max and recovers 1.5x character's RCV in HP at the end of each turn",
     "sailor": {
       "base": "Reduces Silence duration by 1 turn",
       "level1": "Makes [RCV] orbs “beneficial” for all characters"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "Boosts base RCV by 10"
@@ -57,27 +77,7 @@
         "description": "Acquire Potential 2: Slot Bind Self-reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turn",
-          "Level 3: Reduces No Healing duration by 3 turn",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
-        ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
-        ]
-      }
-    ]
+    "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : 3.25 : ?}",
+    "sailorNotes": "#{beneficial}"
   }
 }

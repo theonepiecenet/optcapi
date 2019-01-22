@@ -1,8 +1,8 @@
 {
-    "name": "전력의 시실리안, 모코모 공국 이누아라시 총사대 대장",
-    "detail": {
-        "captain": "[DEX]의 공격력을 2.25배로 만든다",
-        "special": "적 1명에게 모든 방어 효과를 무시하고 캐릭터의 공격력x15배의 [DEX] 데미지를 주고, 적 전체의 공격을 1턴 지연시키며, 1턴 동안 일당의 공격력이 배리어를 친 적이 있을 때 1.75배, 없을 때는 1.5배가 된다",
-        "specialName": "라이트닝 슬래시"
-    }
+  "name": "전력의 시실리안, 모코모 공국 이누아라시 총사대 대장",
+  "detail": {
+    "specialName": "Lightning Slash",
+    "special": "Deals 15x character's ATK in [DEX] damage to all enemies, delays all enemies for 1 turn and if enemies have a barrier at the time the special was activated, boosts ATK of all characters by 1.75x, 1.5x otherwise.",
+    "captain": "Boosts ATK of [DEX] characters by 2.25x"
+  }
 }

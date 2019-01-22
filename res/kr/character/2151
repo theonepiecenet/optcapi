@@ -1,9 +1,9 @@
 {
-    "name": "샬롯 푸딩, 거짓된 눈물",
-    "detail": {
-        "captain": "일당의 공격력을 1.75배, 체력을 1.3배로 만들고, 자신이 공격하지 않은 턴은 받는 데미지가 20% 감소된다",
-        "special": "모든 슬롯을 자신과 같은 슬롯으로 바꾸고, 체력을 5000 회복하며, 1턴 동안 받는 데미지를 80% 줄이고, 일당에게 걸린 [INCREASE DAMAGE], 마비, 봉쇄, 선장효과 무효 상태를 4턴 회복한다",
-        "specialName": "메모리즈 필름",
-        "sailor": "자신은 마비 상태를 5턴 회복한다"
-    }
+  "name": "샬롯 푸딩, 거짓된 눈물",
+  "detail": {
+    "specialName": "Memory Film",
+    "special": "Changes all orbs on all characters into Pudding's orb, recovers 5,000 HP, reduces damage received by 80% for 1 turn and reduces Bind, Despair, Paralysis and Increase Damage Taken duration by 4 turns",
+    "captain": "Boosts ATK of all characters by 1.75x and their HP by 1.3x. If you don't attack with her, reduces damage received by 20% for that turn.",
+    "sailor": "Reduces Paralysis duration on this character by 5 turns"
+  }
 }

@@ -78,6 +78,18 @@
       }
     ],
     "sailorNotes": "#{beneficial}",
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Powerhouse Characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 5% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   }
 }

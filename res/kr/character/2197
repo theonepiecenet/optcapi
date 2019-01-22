@@ -1,14 +1,36 @@
 {
   "name": "검은 수염, Former Warlord of the Sea",
   "detail": {
-    "captain": "Boosts ATK of Driven characters by 3.75x when HP is 10% or below, 2x otherwise and boosts HP of Driven characters by 1.2x",
-    "special": "Reduces enemy's Threshold Damage Reduction, Percent Damage Reduction, End of Turn Damage/Percent Cut, End of Turn Heal, Increased Defense, Damage Nullification, Barrier, ATK Up, Enrage and Resilience Buffs duration by 1 turn. Boosts ATK of all characters by 2x if HP is below 10% at the time the special is activated.",
     "specialName": "Blackbeard Special",
+    "special": "Reduces enemy's Threshold Damage Reduction, Percent Damage Reduction, End of Turn Damage/Percent Cut, End of Turn Heal, Increased Defense, Damage Nullification, Barrier, ATK Up, Enrage and Resilience Buffs duration by 1 turn. Boosts ATK of all characters by 2x if HP is below 10% at the time the special is activated.",
+    "captain": "Boosts ATK of Driven characters by 3.75x when HP is 10% or below, 2x otherwise and boosts HP of Driven characters by 1.2x",
     "sailor": {
       "base": "None",
       "level1": "When HP is below 10% at the start of the turn, boosts base ATK of all characters by 100",
       "level2": "Makes [PSY] orbs “beneficial” for this character"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 75% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 3"
@@ -54,28 +76,6 @@
       },
       {
         "description": "잠재능력 습득 2: Barrier Penetration"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 75% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers"
-        ]
       }
     ],
     "potentialNotes": "#{enrage}"

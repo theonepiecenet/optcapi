@@ -41,9 +41,6 @@
         ]
       }
     ],
-    "specialNotes": "#{beneficial}",
-    "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 4x bonus for the first 12 turns<br>Attacks are still affected by DEF value. DEF boost buffs (Blue shield) still reduce your damage and you can not kill through Resilience, but Damage Negating (Yellow shield), % Damage Reduction (Rainbow shield), Barriers and Threshold Damage Reduction are ignored). Enemy attacks will go through YOUR defensive buffs.",
-    "sailorNotes": "#{rewind : all}",
     "limit": [
       {
         "description": "Boosts base ATK by 5"
@@ -136,6 +133,9 @@
         "description": "Acquire Potential 3: Critical Hit"
       }
     ],
+    "specialNotes": "#{beneficial}",
+    "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 4x bonus for the first 12 turns Attacks are still affected by DEF value. DEF boost buffs (Blue shield) still reduce your damage and you can not kill through Resilience, but Damage Negating (Yellow shield), % Damage Reduction (Rainbow shield), Barriers and Threshold Damage Reduction are ignored). Enemy attacks will go through YOUR defensive buffs.",
+    "sailorNotes": "#{rewind : all}",
     "support": [
       {
         "Characters": "Nami, Jimbei, Chopper and Brook",

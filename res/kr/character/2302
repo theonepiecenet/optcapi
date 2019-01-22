@@ -1,1 +1,139 @@
-{"name":"카포네 ‘갱’ 벳지, ‘Yonko Assassination Plan’ Allied Forces","detail":{"captain":"Boosts ATK of Shooter characters by 3.75x and their HP by 1.35x and makes [PSY] and [INT] orbs \"beneficial\" for Shooter characters. If there are 6 Shooter characters in your crew, recovers .5x his RCV at the end of the turn each time you hit a PERFECT","special":"Boosts ATK of Shooter characters by 2x for 1 turn. If there are 6 characters in your crew at the time the special is activated, reduces crew's current HP by 85%, transforms crew into Big Father and turns the amount of HP subtracted into Big Father's Barrier.","specialNotes":"While Big Father is active, crew's HP isn't able to be reduced and becomes immune to Blow Away inflicted to the crew. Big Father deactivates when the Barrier HP is reduced to 0 HP. While in Big Father, you can not use Captain Swap, Captain Actions or Dual Unit Swap (last unconfirmed). If a Captain Swap or Captain Action is already active, you can not transform into Big Father.","specialName":"Full Scale Rook! Big Father","sailor":["None","Boosts base ATK, HP and RCV of Shooter characters by 50","Makes [PSY] and [INT] orbs \"beneficial\" for Shooter characters"],"sailorNotes":"#{beneficial}","potential":[{"Name":"Critical Hit","description":["Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage","Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage","Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage","Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage","Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"]},{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by ? turn on this character","Level 2: Reduces Slot Bind duration by ? turns on this character","Level 3: Reduces Slot Bind duration by ? turns on this character","Level 4: Reduces Slot Bind duration by ? turns on this character","Level 5: Reduces Slot Bind duration by ? turns on this character"]},{"Name":"Barrier Penetration","description":["Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn","Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn","Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn","Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn","Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"]}]},"aliases":["","","Legend Capone Bege"],"unit":{"type":"INT","class":["Shooter","Driven"],"stars":6,"cost":55,"combo":7,"slots":5,"level":99,"exp":5000000,"maxHP":3500,"maxATK":1500,"maxRCV":400},"cooldown":null,"evolve":{"evolution":2302,"evolvers":[],"from":2301},"image":{"thumb":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/thumbs\/2302.png","character":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/characters\/2302.png"},"flags":{"rr":1,"rro":1},"drop":[],"manual":[]}
+{
+  "name": "카포네 ‘갱’ 벳지, ‘Yonko Assassination Plan’ Allied Forces",
+  "detail": {
+    "specialName": "Full Scale Rook! Big Father",
+    "special": "Boosts ATK of Shooter characters by 2x for 1 turn. If there are 6 characters in your crew at the time the special is activated, reduces crew's current HP by 85%, transforms crew into Big Father and turns the amount of HP subtracted into Big Father's Barrier.",
+    "captain": "Boosts ATK of Shooter characters by 3.75x and their HP by 1.35x and makes [PSY] and [INT] orbs \"beneficial\" for Shooter characters. If there are 6 Shooter characters in your crew, recovers .5x his RCV at the end of the turn each time you hit a PERFECT",
+    "sailor": [
+      "None",
+      "Boosts base ATK, HP and RCV of Shooter characters by 50",
+      "Makes [PSY] and [INT] orbs \"beneficial\" for Shooter characters"
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ],
+    "specialNotes": "While Big Father is active, crew's HP isn't able to be reduced and becomes immune to Blow Away inflicted to the crew. Big Father deactivates when the Barrier HP is reduced to 0 HP. While in Big Father, you can not use Captain Swap, Captain Actions or Dual Unit Swap (last unconfirmed). If a Captain Swap or Captain Action is already active, you can not transform into Big Father.",
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 5"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Shooter characters by 50"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 35"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: "
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Potential 3: Barrier Penetration"
+      }
+    ]
+  }
+}

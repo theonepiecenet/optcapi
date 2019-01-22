@@ -1,1 +1,9 @@
-{"name":"Demon Lord 레일리, Halloween Midnight Parade","detail":{"captain":"Boosts ATK of Cerebral characters by 1.75x","special":"Removes all positive buffs on your team and adds 0.5 to Chain multiplier for 1 turn. If you are on a Treasure Map, amplifies the effects of orbs for [STR], [DEX] and [PSY] characters depending on your Treasure Map Level for 1 turn","specialName":"Enjoying the Elegant Night","specialNotes":"Level 1-10: 1.75x orb boost<br>Level 11-20: 2x orb boost<br>Level 21+: 2.25x orb boost"},"aliases":["","","Halloween Rayleigh","Secret Rayleigh","Limited Rayleigh"],"unit":{"type":"DEX","class":["Cerebral","Free Spirit"],"stars":5,"cost":20,"combo":5,"slots":4,"level":99,"exp":2000000,"maxHP":2199,"maxATK":1225,"maxRCV":250},"cooldown":[13,13],"evolve":[],"image":{"thumb":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/thumbs\/2296.png","character":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/characters\/2296.png"},"flags":{"rr":1,"rro":1,"lrr":1,"tmlrr":1},"drop":[],"manual":[]}
+{
+  "name": "Demon Lord 레일리, Halloween Midnight Parade",
+  "detail": {
+    "specialName": "Enjoying the Elegant Night",
+    "special": "Removes all positive buffs on your team and adds 0.5 to Chain multiplier for 1 turn. If you are on a Treasure Map, amplifies the effects of orbs for [STR], [DEX] and [PSY] characters depending on your Treasure Map Level for 1 turn",
+    "captain": "Boosts ATK of Cerebral characters by 1.75x",
+    "specialNotes": "Level 1-10: 1.75x orb boost Level 11-20: 2x orb boost Level 21+: 2.25x orb boost"
+  }
+}

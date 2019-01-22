@@ -1,1 +1,29 @@
-{"name":"샬롯 시폰","detail":{"captain":"Boosts ATK of all characters by ?x and reduces damage received by ?% if HP is above 99% at the start of the turn","special":[{"description":"Reduces Paralysis, Despair and Silence and ATK DOWN duration by 1 turn and recovers 3x character's RCV in HP at the end of each turn for 3 turns","cooldown":[null,null]},{"description":"Reduces Paralysis, Despair and Silence and ATK DOWN duration by 3 turns, recovers 10x character's RCV in HP at the end of each turn for 3 turns and if your crew has Threshold Damage Reduction, Percent Damage Reduction or Resilience, recovers all missing HP","cooldown":[null,null]},{"description":""}],"specialNotes":"#{silence}","specialName":"A Speech from a Fool","sailor":"Reduces Silence duration on this character by 3 turns","sailorNotes":"#{silence}"},"aliases":["","",""],"unit":{"type":"PSY","class":["Shooter","Fighter"],"stars":4,"cost":15,"combo":null,"slots":3,"level":70,"exp":1066998,"maxHP":null,"maxATK":null,"maxRCV":null},"cooldown":null,"evolution":{"evolution":2304,"evolvers":[]},"evolve":[],"image":{"thumb":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/thumbs\/2303.png","character":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/characters\/2303.png"},"flags":{"rr":1,"rro":1},"drop":[],"manual":[]}
+{
+  "name": "샬롯 시폰",
+  "detail": {
+    "specialName": "A Speech from a Fool",
+    "special": [
+      {
+        "description": "Reduces Paralysis, Despair and Silence and ATK DOWN duration by 1 turn and recovers 3x character's RCV in HP at the end of each turn for 3 turns",
+        "cooldown": [
+          16,
+          10
+        ]
+      },
+      {
+        "description": "Reduces Paralysis, Despair and Silence and ATK DOWN duration by 3 turns, recovers 10x character's RCV in HP at the end of each turn for 3 turns and if your crew has Threshold Damage Reduction, Percent Damage Reduction or Resilience, recovers all missing HP",
+        "cooldown": [
+          23,
+          17
+        ]
+      },
+      {
+        "description": ""
+      }
+    ],
+    "captain": "Boosts ATK of all characters by ?x and reduces damage received by ?% if HP is above 99% at the start of the turn",
+    "sailor": "Reduces Silence duration on this character by 3 turns",
+    "specialNotes": "#{silence}",
+    "sailorNotes": "#{silence}"
+  }
+}

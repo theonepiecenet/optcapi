@@ -1,1 +1,10 @@
-{"name":"비비","detail":{"captain":"Boosts ATK and RCV of all characters by ?x and recovers ?x character's RCV in HP at the end of each turn","special":"Removes Blindness duration completely and reduces Paralysis duration by 2 turns. If your Captain is a Free Spirit or Cerebral character, reduces Special Cooldown of all characters by 1 turn and reduces enemy Barrier duration by 1 turn.","specialName":"Vivi Special","sailor":"Restores her own special cooldown by 2 turns when it is rewinded","sailorNotes":"#{rewind : 2}"}}
+{
+  "name": "비비",
+  "detail": {
+    "specialName": "Vivi Special",
+    "special": "Removes Blindness duration completely and reduces Paralysis duration by 2 turns. If your Captain is a Free Spirit or Cerebral character, reduces Special Cooldown of all characters by 1 turn and reduces enemy Barrier duration by 1 turn.",
+    "captain": "Boosts ATK and RCV of all characters by ?x and recovers ?x character's RCV in HP at the end of each turn",
+    "sailor": "Restores her own special cooldown by 2 turns when it is rewinded",
+    "sailorNotes": "#{rewind : 2}"
+  }
+}

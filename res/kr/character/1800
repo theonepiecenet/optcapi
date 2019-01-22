@@ -77,6 +77,18 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "sailorNotes": "#{beneficial}"
+    "sailorNotes": "#{beneficial}",
+    "support": [
+      {
+        "Characters": "Bartolomeo",
+        "description": [
+          "Level 1: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 6% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 8% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 10% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 12% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   }
 }

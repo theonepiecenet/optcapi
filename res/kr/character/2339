@@ -1,46 +1,9 @@
 {
-    "name": "스튜시",
-    "detail": {
-        "captain": "Reduces cooldown of all specials by ? turn at the start of the fight. Boosts ATK of Shooter and Cerebral characters by ?x",
-        "special": "Deals 50x character's ATK in [QCK] damage to one enemy, randomizes all non-matching orbs and boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.5x for 1 turn. If \"Flying Finger Gun\" is used again in the same turn the special is activated in, boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 2.25x for 1 turn.",
-        "specialName": "Flying Finger Gun",
-        "sailor": "When any other character uses a special, reduces own cooldown by 1 turn"
-    },
-    "aliases": [
-        "",
-        "",
-        "CP-0 Stussy"
-    ],
-    "unit": {
-        "type": "QCK",
-        "class": [
-            "Shooter",
-            "Cerebral"
-        ],
-        "stars": 4,
-        "cost": 15,
-        "combo": null,
-        "slots": 3,
-        "level": 50,
-        "exp": 392109,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null
-    },
-    "cooldown": null,
-    "evolution": {
-        "evolution": 2340,
-        "evolvers": []
-    },
-    "evolve": [],
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2339.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2339.png"
-    },
-    "flags": {
-        "rr": 1,
-        "rro": 1
-    },
-    "drop": [],
-    "manual": []
+  "name": "스튜시",
+  "detail": {
+    "specialName": "Flying Finger Gun",
+    "special": "Deals 50x character's ATK in [QCK] damage to one enemy, randomizes all non-matching orbs and boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.5x for 1 turn. If \"Flying Finger Gun\" is used again in the same turn the special is activated in, boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 2.25x for 1 turn.",
+    "captain": "Reduces cooldown of all specials by ? turn at the start of the fight. Boosts ATK of Shooter and Cerebral characters by ?x",
+    "sailor": "When any other character uses a special, reduces own cooldown by 1 turn"
+  }
 }

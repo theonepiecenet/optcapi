@@ -1,1 +1,81 @@
-{"name":"괴도 카리나","detail":{"captain":"모험 시작 시 필살기 턴을 1턴 단축하고, [PSY]의 공격력을 2.5배, 회복력을 1.2배로 만든다","special":"적에게 걸린 [THRESHOLD DAMAGE], 데미지 감소, [END OF TURN DAMAGE] 상태 및 남은 체력 1로 버티는 효과를 4턴 줄이고, 인접한 슬롯 및 [BLOCK] 슬롯을 속성 일치 슬롯으로, 속성 일치 슬롯 이외의 슬롯을 랜덤하게 바꾸고, 2턴 동안 받는 데미지가 70% 감소한다","specialName":"대규모 독점 승리","sailor":["자신이 GOOD이나 GREAT 공격을 성공하면 자신의 [PSY] 슬롯이 다음 턴에도 출현한다","If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, 강인형 and 야심형 character on your crew, Changes all orbs into Matching orbs at the start of the fight"],"limit":[{"description":"체력 상승 : 30"},{"description":"체력 상승 : 30"},{"description":"체력 상승 : 30"},{"description":"잠재능력 습득 1: 슬롯 봉쇄 내성"},{"description":"공격력 상승 : 20"},{"description":"회복력 상승 : 30"},{"description":"체력 상승 : 45"},{"description":"공격력 상승 : 20"},{"description":"회복력 상승 : 30"},{"description":"선원 효과 추가 1: If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, 강인형 and 야심형 character on your crew, Changes all orbs into Matching orbs at the start of the fight"},{"description":"체력 상승 : 60"},{"description":"공격력 상승 : 25"},{"description":"소켓 슬롯 1개 추가"},{"description":"공격력 상승 : 40"},{"description":"잠재능력 습득 2: [INT] 데미지 피해 감소"}],"potential":[{"Name":"슬롯 봉쇄 내성","description":["Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다","Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다","Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다","Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다","Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"]},{"Name":"[INT]데미지 피해 감소","description":["Level 1: [INT] 속성에게 받는 데미지를 2% 감소시킨다","Level 2: [INT] 속성에게 받는 데미지를 3% 감소시킨다","Level 3: [INT] 속성에게 받는 데미지를 4% 감소시킨다","Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다","Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"]}]}}
+{
+  "name": "괴도 카리나",
+  "detail": {
+    "specialName": "대규모 독점 승리",
+    "special": "적에게 걸린 [THRESHOLD DAMAGE], 데미지 감소, [END OF TURN DAMAGE] 상태 및 남은 체력 1로 버티는 효과를 4턴 줄이고, 인접한 슬롯 및 [BLOCK] 슬롯을 속성 일치 슬롯으로, 속성 일치 슬롯 이외의 슬롯을 랜덤하게 바꾸고, 2턴 동안 받는 데미지가 70% 감소한다",
+    "captain": "모험 시작 시 필살기 턴을 1턴 단축하고, [PSY]의 공격력을 2.5배, 회복력을 1.2배로 만든다",
+    "sailor": [
+      "자신이 GOOD이나 GREAT 공격을 성공하면 자신의 [PSY] 슬롯이 다음 턴에도 출현한다",
+      "If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, 강인형 and 야심형 character on your crew, Changes all orbs into Matching orbs at the start of the fight"
+    ],
+    "potential": [
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
+        ]
+      },
+      {
+        "Name": "[INT]데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "잠재능력 습득 1: 슬롯 봉쇄 내성"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 45"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "선원 효과 추가 1: If you have a Striker, Shooter, Fighter, Slasher, Free Spirit, Cerebral, 강인형 and 야심형 character on your crew, Changes all orbs into Matching orbs at the start of the fight"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "공격력 상승 : 25"
+      },
+      {
+        "description": "소켓 슬롯 1개 추가"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
+      }
+    ]
+  }
+}

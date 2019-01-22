@@ -1,72 +1,94 @@
 {
-    "name": "샬롯 바바루아, Big Mom Pirates",
-    "detail": {
-        "captain": "Boosts ATK of Shooter characters by 2.5x and recovers 1000 HP at end of each turn",
-        "special": "Deals 8 hits of random Typeless damage to random enemies and changes left column orbs into Matching orbs. If your Captain's orb is [QCK], [PSY], [INT] or [TND], boosts ATK of Shooter characters by 1.75x for 3 turns.",
-        "specialNotes": "#{randomHits : 8}<br>#{random : ? : ? : for each hit}",
-        "specialName": "Ordering the Homie Cannonballs",
-        "sailor": {
-            "base": "Boosts base ATK of Shooter characters by 50",
-            "level1": "Reduces Paralysis duration on this character by 3 turns"
-        },
-        "potential": [
-            {
-                "Name": "Slot Bind Self-reduction",
-                "description": [
-                    "Level 1: Reduces Slot Bind duration by ? turn on this character",
-                    "Level 2: Reduces Slot Bind duration by ? turns on this character",
-                    "Level 3: Reduces Slot Bind duration by ? turns on this character",
-                    "Level 4: Reduces Slot Bind duration by ? turns on this character",
-                    "Level 5: Reduces Slot Bind duration by ? turns on this character"
-                ]
-            },
-            {
-                "Name": "Barrier Penetration",
-                "description": [
-                    "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-                    "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-                    "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-                    "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-                    "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
-                ]
-            }
+  "name": "샬롯 바바루아, Big Mom Pirates",
+  "detail": {
+    "specialName": "Ordering the Homie Cannonballs",
+    "special": "Deals 8 hits of random Typeless damage to random enemies and changes left column orbs into Matching orbs. If your Captain's orb is [QCK], [PSY], [INT] or [TND], boosts ATK of Shooter characters by 1.75x for 3 turns.",
+    "captain": "Boosts ATK of Shooter characters by 2.5x and recovers 1000 HP at end of each turn",
+    "sailor": {
+      "base": "Boosts base ATK of Shooter characters by 50",
+      "level1": "Reduces Paralysis duration on this character by 3 turns"
+    },
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
         ]
-    },
-    "aliases": [
-        "",
-        "",
-        ""
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
     ],
-    "unit": {
-        "type": "PSY",
-        "class": [
-            "Shooter",
-            "Fighter"
-        ],
-        "stars": 5,
-        "cost": 30,
-        "combo": 5,
-        "slots": 4,
-        "level": 99,
-        "exp": 4000000,
-        "maxHP": 2000,
-        "maxATK": 1400,
-        "maxRCV": 200
-    },
-    "cooldown": null,
-    "evolve": {
-        "evolution": 2344,
-        "evolvers": [],
-        "from": 2343
-    },
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2344.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2344.png"
-    },
-    "flags": {
-        "rr": 1,
-        "rro": 1
-    },
-    "drop": [],
-    "manual": []
+    "specialNotes": "#{randomHits : 8} #{random : ? : ? : for each hit}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration on this character by 3 turns"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Charlotte Linlin and Perospero",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
+  }
 }

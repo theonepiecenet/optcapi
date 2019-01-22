@@ -1,81 +1,81 @@
 {
-    "name": "보빈, 빅 맘 해적단",
-    "detail": {
-        "captain": "[QCK]과 [PSY]의 공격력을 2.5배로 만든다",
-        "special": "적 전체에 걸린 [THRESHOLD DAMAGE], 데미지 감소, [HEAL], 방어력 상승과 일당에게 걸린 공격력 감소 상태를 5턴 줄이고, 인접한 슬롯을 속성 일치 슬롯으로 바꾼다",
-        "specialName": "죽음을 부르는 자장가",
-        "sailor": {
-            "base": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 350 상승한다",
-            "level1": "Reduces Silence duration by 1 turn"
-        },
-        "limit": [
-            {
-                "description": "체력 상승 : 20"
-            },
-            {
-                "description": "공격력 상승 : 30"
-            },
-            {
-                "description": "체력 상승 : 20"
-            },
-            {
-                "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
-            },
-            {
-                "description": "공격력 상승 : 30"
-            },
-            {
-                "description": "회복력 상승 : 20"
-            },
-            {
-                "description": "공격력 상승 : 50"
-            },
-            {
-                "description": "선원 효과 추가 1: Reduces Silence duration by 1 turn"
-            },
-            {
-                "description": "회복력 상승 : 20"
-            },
-            {
-                "description": "소켓 슬롯 1개 추가"
-            },
-            {
-                "description": "회복력 상승 : 30"
-            },
-            {
-                "description": "체력 상승 : 50"
-            },
-            {
-                "description": "필살기 턴 단축 : 1턴"
-            },
-            {
-                "description": "체력 상승 : 60"
-            },
-            {
-                "description": "잠재능력 습득 2: 회복 무효 내성"
-            }
-        ],
-        "potential": [
-            {
-                "Name": "[STR]데미지 피해 감소",
-                "description": [
-                    "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-                    "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-                    "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-                    "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-                    "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
-                ]
-            },
-            {
-                "Name": "회복 무효 내성",
-                "description": [
-                    "Level 1: 회복 무효 상태 회복 : 1 턴",
-                    "Level 2: 회복 무효 상태 회복 : 2 턴",
-                    "Level 3: 회복 무효 상태 회복 : 3 턴",
-                    "Level 4: 회복 무효 상태 회복 : 4 턴",
-                    "Level 5: 회복 무효 상태 회복 : 5 턴"
-                ]
-            }
+  "name": "보빈, 빅 맘 해적단",
+  "detail": {
+    "specialName": "죽음을 부르는 자장가",
+    "special": "적 전체에 걸린 [THRESHOLD DAMAGE], 데미지 감소, [HEAL], 방어력 상승과 일당에게 걸린 공격력 감소 상태를 5턴 줄이고, 인접한 슬롯을 속성 일치 슬롯으로 바꾼다",
+    "captain": "[QCK]과 [PSY]의 공격력을 2.5배로 만든다",
+    "sailor": {
+      "base": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 350 상승한다",
+      "level1": "Reduces Silence duration by 1 turn"
+    },
+    "potential": [
+      {
+        "Name": "[STR]데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
         ]
-    }
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 2 턴",
+          "Level 3: 회복 무효 상태 회복 : 3 턴",
+          "Level 4: 회복 무효 상태 회복 : 4 턴",
+          "Level 5: 회복 무효 상태 회복 : 5 턴"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "체력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 20"
+      },
+      {
+        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "선원 효과 추가 1: Reduces Silence duration by 1 turn"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "소켓 슬롯 1개 추가"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "잠재능력 습득 2: 회복 무효 내성"
+      }
+    ]
+  }
 }

@@ -1,13 +1,35 @@
 {
   "name": "볼사리노, Chaos at Marineford - ‘Navy Admiral’",
   "detail": {
-    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Shooter and Fighter characters by 2.25x and their HP by 1.25x",
-    "special": "Reduces Special Cooldown of [PSY] and [INT] characters by 1 turn and changes adjacent orbs into Matching Orbs. If your Captain is a [PSY] or [INT] character, locks the chain multiplier at 3x for 1 turn.",
     "specialName": "Amaterasu Descent",
+    "special": "Reduces Special Cooldown of [PSY] and [INT] characters by 1 turn and changes adjacent orbs into Matching Orbs. If your Captain is a [PSY] or [INT] character, locks the chain multiplier at 3x for 1 turn.",
+    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Shooter and Fighter characters by 2.25x and their HP by 1.25x",
     "sailor": {
       "base": "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 30",
       "level1": "Makes [INT] orbs “beneficial” for this character"
     },
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 15"
@@ -53,28 +75,6 @@
       },
       {
         "description": "잠재능력 습득 2: Barrier Penetration"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Barrier Penetration",
-        "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
       }
     ]
   }

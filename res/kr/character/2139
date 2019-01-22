@@ -1,84 +1,84 @@
 {
-    "name": "‘포이즌 핑크’ 빈스모크 레이주, 과학전투부대 제르마 66",
-    "detail": {
-        "captain": "[PSY]과 강인형 캐릭터의 공격력을 각각 2.25배, 1.4배로 만들고, 강인형 캐릭터의 회복력을 1.2배로 만든다",
-        "captainNotes": "Attack boost stacks, so a [PSY] 강인형 character has a 3.15x ATK",
-        "special": "선장이 [PSY]이나 [INT]일 경우 일당의 공격력 감소와 필살기 봉쇄 상태를 3턴 회복하고, 적 전체를 서서히 데미지 양이 늘어나는 독 상태로 만들며(최소 공격력x20배에서 최대 500000 데미지), 선장이 강인형 캐릭터일 경우 1턴 동안 서서히 데미지 양이 늘어나는 독 상태의 적에게 주는 데미지가 1.75배가 된다",
-        "specialName": "데인저러스 버터플라이",
-        "specialNotes": "#{toxic : 20x : 2x : 500,000}<br>If enemies are both Poisoned and inflicted with Toxic, only the Toxic damage will damage the enemy at the end of the turn.",
-        "sailor": {
-            "base": "자신은 [INT] 슬롯도 [유리] 슬롯으로 취급한다",
-            "level1": "Reduces Silence duration on this character by 3 turns"
-        },
-        "sailorNotes": "#{beneficial}",
-        "limit": [
-            {
-                "description": "회복력 상승 : 10"
-            },
-            {
-                "description": "회복력 상승 : 20"
-            },
-            {
-                "description": "체력 상승 : 50"
-            },
-            {
-                "description": "잠재능력 습득 1: 회복 무효 내성"
-            },
-            {
-                "description": "공격력 상승 : 20"
-            },
-            {
-                "description": "체력 상승 : 50"
-            },
-            {
-                "description": "공격력 상승 : 30"
-            },
-            {
-                "description": "회복력 상승 : 30"
-            },
-            {
-                "description": "필살기 턴 수 단축: 1"
-            },
-            {
-                "description": "체력 상승 : 50"
-            },
-            {
-                "description": "잠재능력 소켓슬롯 추가 : 1"
-            },
-            {
-                "description": "공격력 상승 : 40"
-            },
-            {
-                "description": "체력 상승 : 50"
-            },
-            {
-                "description": "선원 효과 추가 1: Reduces Silence duration on this character by 3 turns"
-            },
-            {
-                "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
-            }
-        ],
-        "potential": [
-            {
-                "Name": "회복 무효 내성",
-                "description": [
-                    "Level 1: Reduces No Healing duration by 1 turn",
-                    "Level 2: Reduces No Healing duration by 1 turn",
-                    "Level 3: Reduces No Healing duration by 1 turn",
-                    "Level 4: Reduces No Healing duration by 2 turns",
-                    "Level 5: Reduces No Healing duration by 3 turns"
-                ]
-            },
-            {
-                "Name": "슬롯 봉쇄 내성",
-                "description": [
-                    "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-                    "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-                    "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-                    "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-                    "Level 5: 자신의 슬롯 봉쇄 상태를 8턴 회복한다"
-                ]
-            }
+  "name": "‘포이즌 핑크’ 빈스모크 레이주, 과학전투부대 제르마 66",
+  "detail": {
+    "specialName": "데인저러스 버터플라이",
+    "special": "선장이 [PSY]이나 [INT]일 경우 일당의 공격력 감소와 필살기 봉쇄 상태를 3턴 회복하고, 적 전체를 서서히 데미지 양이 늘어나는 독 상태로 만들며(최소 공격력x20배에서 최대 500000 데미지), 선장이 강인형 캐릭터일 경우 1턴 동안 서서히 데미지 양이 늘어나는 독 상태의 적에게 주는 데미지가 1.75배가 된다",
+    "captain": "[PSY]과 강인형 캐릭터의 공격력을 각각 2.25배, 1.4배로 만들고, 강인형 캐릭터의 회복력을 1.2배로 만든다",
+    "sailor": {
+      "base": "자신은 [INT] 슬롯도 [유리] 슬롯으로 취급한다",
+      "level1": "Reduces Silence duration on this character by 3 turns"
+    },
+    "potential": [
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 1 turn",
+          "Level 3: Reduces No Healing duration by 1 turn",
+          "Level 4: Reduces No Healing duration by 2 turns",
+          "Level 5: Reduces No Healing duration by 3 turns"
         ]
-    }
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 8턴 회복한다"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "잠재능력 습득 1: 회복 무효 내성"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "필살기 턴 수 단축: 1"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "잠재능력 소켓슬롯 추가 : 1"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "선원 효과 추가 1: Reduces Silence duration on this character by 3 turns"
+      },
+      {
+        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
+      }
+    ],
+    "specialNotes": "#{toxic : 20x : 2x : 500,000} If enemies are both Poisoned and inflicted with Toxic, only the Toxic damage will damage the enemy at the end of the turn.",
+    "captainNotes": "Attack boost stacks, so a [PSY] 강인형 character has a 3.15x ATK",
+    "sailorNotes": "#{beneficial}"
+  }
 }

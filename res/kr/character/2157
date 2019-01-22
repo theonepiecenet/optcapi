@@ -1,24 +1,24 @@
 {
-    "name": "샬롯 크래커",
-    "detail": {
-        "captain": "박식형 캐릭터의 공격력을 2.25배, 체력을 1.2배로 만든다",
-        "special": [
-            {
-                "description": "1턴 동안 박식형 캐릭터의 [DEX] 슬롯을 [유리] 슬롯으로 취급하며, [BLOCK]를 포함한 모든 슬롯을  [DEX] 슬롯으로 바꾸고, 모든 방어 효과를 무시하고 적 1명의 HP를 10% 줄인다",
-                "cooldown": [
-                    26,
-                    11
-                ]
-            },
-            {
-                "description": "체인 계수 상한 고정 상태를 5턴 회복하고, 1턴 동안 일당의 [DEX] 슬롯을 [유리] 슬롯으로 취급하며, [BLOCK]를 포함한 모든 슬롯을  [DEX] 슬롯으로 바꾸고, 모든 방어 효과를 무시하고 적 1명의 HP를 20% 줄인다",
-                "cooldown": [
-                    30,
-                    15
-                ]
-            }
-        ],
-        "specialName": "허니 프레첼",
-        "specialNotes": "#{ignoreBarrier}<br>#{stages}"
-    }
+  "name": "샬롯 크래커",
+  "detail": {
+    "specialName": "허니 프레첼",
+    "special": [
+      {
+        "description": "1턴 동안 박식형 캐릭터의 [DEX] 슬롯을 [유리] 슬롯으로 취급하며, [BLOCK]를 포함한 모든 슬롯을 [DEX] 슬롯으로 바꾸고, 모든 방어 효과를 무시하고 적 1명의 HP를 10% 줄인다",
+        "cooldown": [
+          26,
+          11
+        ]
+      },
+      {
+        "description": "체인 계수 상한 고정 상태를 5턴 회복하고, 1턴 동안 일당의 [DEX] 슬롯을 [유리] 슬롯으로 취급하며, [BLOCK]를 포함한 모든 슬롯을 [DEX] 슬롯으로 바꾸고, 모든 방어 효과를 무시하고 적 1명의 HP를 20% 줄인다",
+        "cooldown": [
+          30,
+          15
+        ]
+      }
+    ],
+    "captain": "박식형 캐릭터의 공격력을 2.25배, 체력을 1.2배로 만든다",
+    "specialNotes": "#{ignoreBarrier} #{stages}"
+  }
 }

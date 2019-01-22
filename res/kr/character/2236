@@ -1,1 +1,140 @@
-{"name":"‘소울 킹’ 브룩, The Soul’s Special Live","detail":{"captain":"Boosts ATK of all characters by 2.75x if HP is above 99% at the start of the turn, by 2x otherwise, cuts the current HP of each enemy by 10% at the end of each turn and revives the team after a GAME OVER once per adventure.","captainNotes":"This is not Resilience as you still die, but (still unconfirmed) after revive you will get full HP and your buffs and debuffs will be cleared, similarly to using a gem to revive.","special":"Recovers 14,343, reduces damage received by 90% for 1 turn and makes [STR], [DEX], [QCK], [PSY] and [INT] orbs “beneficial” for all characters for 2 turns. If the HP of the enemy with the highest Maximum HP is below 434,300, instantly defeats all enemies, otherwise, delays all enemies for 1 turn, cuts the current HP of each enemy by 20%.","specialNotes":"#{beneficial}","specialName":"Tenacious Shout of the Soul","sailor":["None","Completely resists Paralysis on this character","Makes RCV orbs “beneficial” for all characters"],"sailorNotes":"#{beneficial}","limit":[{"description":"회복력 상승 : 10"},{"description":"공격력 상승 : 10"},{"description":"체력 상승 : 30"},{"description":"잠재능력 습득 1: [QCK] 데미지 피해 감소"},{"description":"회복력 상승 : 10"},{"description":"공격력 상승 : 15"},{"description":"체력 상승 : 40"},{"description":"선원 효과 추가 1: Completely resists Paralysis on this character"},{"description":"회복력 상승 : 10"},{"description":"공격력 상승 : 20"},{"description":"체력 상승 : 40"},{"description":"회복력 상승 : 10"},{"description":"공격력 상승 : 25"},{"description":"체력 상승 : 50"},{"description":"잠재능력 습득 2: [STR] 데미지 피해 감소"},{"description":"회복력 상승 : 20"},{"description":"공격력 상승 : 30"},{"description":"체력 상승 : 50"},{"description":"회복력 상승 : 20"},{"description":"공격력 상승 : 30"},{"description":"체력 상승 : 60"},{"description":"체력 상승 : 60"},{"description":"체력 상승 : 70"},{"description":"회복력 상승 : 20"},{"description":"공격력 상승 : 30"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"선원 효과 추가 2: Makes [RCV] and [TND] orbs “beneficial” for all characters"},{"description":"체력 상승 : 100"},{"description":"공격력 상승 : 40"},{"description":"잠재능력 습득 3: Slot Bind Self-reduction"}],"potential":[{"Name":"[QCK] 데미지 피해 감소","description":["Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다","Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다","Level 4: [QCK] 속성에게 받는 데미지를 5% 감소시킨다","Level 5: [QCK] 속성에게 받는 데미지를 7% 감소시킨다"]},{"Name":"[STR] 데미지 피해 감소","description":["Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다","Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다","Level 4: [STR] 속성에게 받는 데미지를 5% 감소시킨다","Level 5: [STR] 속성에게 받는 데미지를 7% 감소시킨다"]},{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by 3 turn on this character","Level 2: Reduces Slot Bind duration by 5 turns on this character","Level 3: Reduces Slot Bind duration by 7 turns on this character","Level 4: Reduces Slot Bind duration by 10 turns on this character","Level 5: Reduces Slot Bind duration by 99 turns on this character"]}]}}
+{
+  "name": "‘소울 킹’ 브룩, The Soul’s Special Live",
+  "detail": {
+    "specialName": "Tenacious Shout of the Soul",
+    "special": "Recovers 14,343, reduces damage received by 90% for 1 turn and makes [STR], [DEX], [QCK], [PSY] and [INT] orbs “beneficial” for all characters for 2 turns. If the HP of the enemy with the highest Maximum HP is below 434,300, instantly defeats all enemies, otherwise, delays all enemies for 1 turn, cuts the current HP of each enemy by 20%.",
+    "captain": "Boosts ATK of all characters by 2.75x if HP is above 99% at the start of the turn, by 2x otherwise, cuts the current HP of each enemy by 10% at the end of each turn and revives the team after a GAME OVER once per adventure.",
+    "sailor": [
+      "None",
+      "Completely resists Paralysis on this character",
+      "Makes RCV orbs “beneficial” for all characters"
+    ],
+    "potential": [
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 3 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 10 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 99 turns on this character"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "잠재능력 습득 1: [QCK] 데미지 피해 감소"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 15"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "선원 효과 추가 1: Completely resists Paralysis on this character"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 25"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "잠재능력 습득 2: [STR] 데미지 피해 감소"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "체력 상승 : 70"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "선원 효과 추가 2: Makes [RCV] and [TND] orbs “beneficial” for all characters"
+      },
+      {
+        "description": "체력 상승 : 100"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "잠재능력 습득 3: Slot Bind Self-reduction"
+      }
+    ],
+    "specialNotes": "#{beneficial}",
+    "captainNotes": "This is not Resilience as you still die, but (still unconfirmed) after revive you will get full HP and your buffs and debuffs will be cleared, similarly to using a gem to revive.",
+    "sailorNotes": "#{beneficial}"
+  }
+}

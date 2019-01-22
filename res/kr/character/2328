@@ -1,1 +1,8 @@
-{"name":"보빈 the Disposer","detail":{"captain":"Boosts ATK of [DEX] characters by 1.75x and their HP by 1.2x","special":"Removes Blindness duration completely. Following the activation of the special, if every unit scores a PERFECT hit, boosts ATK of Slasher characters by 1.5x in the following turn.","specialName":"The Disposer's Pursuit"},"aliases":["","",""],"unit":{"type":"DEX","class":["Slasher","Powerhouse"],"stars":3,"cost":15,"combo":null,"slots":2,"level":70,"exp":355666,"maxHP":null,"maxATK":null,"maxRCV":null},"cooldown":null,"evolve":[],"image":{"thumb":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/thumbs\/2328.png","character":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/characters\/2328.png"},"drop":[{"type":"Fortnight","name":"Amande and Bobbin Fortnight","thumb":2327,"data":["All Difficulties"]}],"manual":[]}
+{
+  "name": "보빈 the Disposer",
+  "detail": {
+    "specialName": "The Disposer's Pursuit",
+    "special": "Removes Blindness duration completely. Following the activation of the special, if every unit scores a PERFECT hit, boosts ATK of Slasher characters by 1.5x in the following turn.",
+    "captain": "Boosts ATK of [DEX] characters by 1.75x and their HP by 1.2x"
+  }
+}

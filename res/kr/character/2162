@@ -1,10 +1,10 @@
 {
-    "name": "샬롯 오페라",
-    "detail": {
-        "captain": "격투형 캐릭터의 공격력을 2배, 체력을 1.25배로 만든다",
-        "special": "적 전체의 HP를 20% 줄이고, 일당에 격투형 캐릭터가 5명 이상일 때 [INCREASE DAMAGE], 의성어 은폐, 선장효과 무효 상태를 7턴 회복하고, 적 전체의 공격을 1턴 지연시킨다",
-        "specialName": "크림 몬스터",
-        "sailor": "격투형 캐릭터는 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
-        "specialNotes": "#{beneficial}"
-    }
+  "name": "샬롯 오페라",
+  "detail": {
+    "specialName": "크림 몬스터",
+    "special": "적 전체의 HP를 20% 줄이고, 일당에 격투형 캐릭터가 5명 이상일 때 [INCREASE DAMAGE], 의성어 은폐, 선장효과 무효 상태를 7턴 회복하고, 적 전체의 공격을 1턴 지연시킨다",
+    "captain": "격투형 캐릭터의 공격력을 2배, 체력을 1.25배로 만든다",
+    "sailor": "격투형 캐릭터는 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
+    "specialNotes": "#{beneficial}"
+  }
 }

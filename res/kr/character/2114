@@ -1,7 +1,7 @@
 {
   "name": "샬롯 브륄레",
   "detail": {
-    "captain": "Boosts ATK and RCV of [PSY] characters by 1.2x and cuts the current HP of each enemy by 10% at the end of each turn",
+    "specialName": "Light Reflecting a Virtual Image",
     "special": [
       {
         "description": "Changes [TND] and [RCV] orbs into [PSY] orbs, changes all other orbs on all characters into Brûlée's orb. Adds 30x character's ATK as Additional Typeless Damage for 3 turns",
@@ -18,9 +18,9 @@
         ]
       }
     ],
-    "specialNotes": "Upon activating the special, all orbs will be changed to the orb Brûlée has, including [RAINBOW] and [BLOCK] orbs. This will not override other [BLOCK] orbs.",
-    "specialName": "Light Reflecting a Virtual Image",
+    "captain": "Boosts ATK and RCV of [PSY] characters by 1.2x and cuts the current HP of each enemy by 10% at the end of each turn",
     "sailor": "Makes [PSY] orbs “beneficial” for Cerebral characters",
+    "specialNotes": "Upon activating the special, all orbs will be changed to the orb Brûlée has, including [RAINBOW] and [BLOCK] orbs. This will not override other [BLOCK] orbs.",
     "sailorNotes": "#{beneficial}"
   }
 }

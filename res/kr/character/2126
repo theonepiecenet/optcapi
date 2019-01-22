@@ -1,9 +1,9 @@
 {
-    "name": "돈키호테 도플라밍고, ‘조커’",
-    "detail": {
-        "captain": "타격형 캐릭터의 공격력을 2.5배, 체력을 1.3배로 만들며, ‘풀 브라이트’를 사용하면 필살기를 발동한 캐릭터의 선장효과가 3턴 동안 ‘타격형 캐릭터의 공격력을 3배, 체력을 1.3배’로 변경된다",
-        "captainNotes": "Using Doflamingo's special will change his own captain boost to 3x. If both Doflamingo's specials are used, the total ATK boost will be 9x",
-        "special": "적 전체의 HP를 20% 줄이고, 자신의 슬롯을 [STR] 슬롯으로 바꾸며, 2턴 동안 턴 종료 시 적 전체의 HP를 10% 줄인다. 남은 체력이 일정 비율 이하일 때, 1턴 동안 타격형과 야심형 캐릭터의 공격력을 1.75배로 만든다",
-        "specialName": "풀 브라이트"
-    }
+  "name": "돈키호테 도플라밍고, ‘조커’",
+  "detail": {
+    "specialName": "풀 브라이트",
+    "special": "적 전체의 HP를 20% 줄이고, 자신의 슬롯을 [STR] 슬롯으로 바꾸며, 2턴 동안 턴 종료 시 적 전체의 HP를 10% 줄인다. 남은 체력이 일정 비율 이하일 때, 1턴 동안 타격형과 야심형 캐릭터의 공격력을 1.75배로 만든다",
+    "captain": "타격형 캐릭터의 공격력을 2.5배, 체력을 1.3배로 만들며, ‘풀 브라이트’를 사용하면 필살기를 발동한 캐릭터의 선장효과가 3턴 동안 ‘타격형 캐릭터의 공격력을 3배, 체력을 1.3배’로 변경된다",
+    "captainNotes": "Using Doflamingo's special will change his own captain boost to 3x. If both Doflamingo's specials are used, the total ATK boost will be 9x"
+  }
 }

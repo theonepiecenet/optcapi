@@ -99,6 +99,18 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "specialNotes": "#{stages}"
+    "specialNotes": "#{stages}",
+    "support": [
+      {
+        "Characters": "Luffy, Inazuma and Bon Clay",
+        "description": [
+          "Level 1: Reduces damage received from [STR] characters by 1%. Adds 2% of this character's base HP to the supported character's base HP",
+          "Level 2: Reduces damage received from [STR] characters by 2%. Adds 4% of this character's base HP to the supported character's base HP",
+          "Level 3: Reduces damage received from [STR] characters by 3%. Adds 6% of this character's base HP to the supported character's base HP",
+          "Level 4: Reduces damage received from [STR] characters by 4%. Adds 8% of this character's base HP to the supported character's base HP",
+          "Level 5: Reduces damage received from [STR] characters by 5%. Adds 10% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   }
 }

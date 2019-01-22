@@ -1,46 +1,9 @@
 {
-    "name": "샬롯 오페라",
-    "detail": {
-        "captain": "Boosts ATK of Striker and Fighter characters by ?x, cuts the current HP of each enemy by ?% at the end of each turn",
-        "special": "Deals 80x character's ATK in Typeless damage to all enemies. If your crew has Orb Amplification, boosts the Color Affinity of Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.75x for 1 turn, amplifies the effects of orbs for Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.75x for 1 turn otherwise.",
-        "specialName": "Cream Flame",
-        "sailor": "Cannot be blown away"
-    },
-    "aliases": [
-        "",
-        "",
-        ""
-    ],
-    "unit": {
-        "type": "PSY",
-        "class": [
-            "Fighter",
-            "Striker"
-        ],
-        "stars": 4,
-        "cost": 15,
-        "combo": null,
-        "slots": 3,
-        "level": 50,
-        "exp": 392109,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null
-    },
-    "cooldown": null,
-    "evolution": {
-        "evolution": 2342,
-        "evolvers": []
-    },
-    "evolve": [],
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2341.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2341.png"
-    },
-    "flags": {
-        "rr": 1,
-        "rro": 1
-    },
-    "drop": [],
-    "manual": []
+  "name": "샬롯 오페라",
+  "detail": {
+    "specialName": "Cream Flame",
+    "special": "Deals 80x character's ATK in Typeless damage to all enemies. If your crew has Orb Amplification, boosts the Color Affinity of Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.75x for 1 turn, amplifies the effects of orbs for Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.75x for 1 turn otherwise.",
+    "captain": "Boosts ATK of Striker and Fighter characters by ?x, cuts the current HP of each enemy by ?% at the end of each turn",
+    "sailor": "Cannot be blown away"
+  }
 }

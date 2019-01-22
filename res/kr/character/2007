@@ -1,14 +1,45 @@
 {
   "name": "빨간 머리 샹크스, 세계의 운명을 바꾼 사황",
   "detail": {
-    "captain": "일당의 공격력을 2.75배, 체력을 1.3배로 만들며, 일당에 같은 속성이 4명 이상 있으면 일당의 공격력이 약 3.5배가 된다",
     "specialName": "끝으로 향하는 설파",
     "special": "1턴 동안 체인 계수가 +0.9 되며, 일당에 같은 속성이 4명 이상 있을 때, [BLOCK] 슬롯을 포함한 모든 슬롯을 해당 속성의 슬롯으로 바꾸고, 1턴 동안 해당 속성의 공격력이 2.25배가 된다",
+    "captain": "일당의 공격력을 2.75배, 체력을 1.3배로 만들며, 일당에 같은 속성이 4명 이상 있으면 일당의 공격력이 약 3.5배가 된다",
     "sailor": {
       "base": "일당에 같은 속성이 4명 이상 있으면 해당 속성의 기본 공격력이 125 상승한다",
       "level1": "일당은 [PSY] 슬롯도 [유리] 슬롯으로 취급한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 60",
+          "Level 2: 공격력 상승 : 90",
+          "Level 3: 공격력 상승 : 120",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      },
+      {
+        "Name": "[PSY]데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 2: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다.",
+          "Level 4: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다.",
+          "Level 5: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 2배 만큼 체력을 회복한다."
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -101,38 +132,19 @@
         "description": "잠재능력 습득 3: 긴급 회복"
       }
     ],
-    "potential": [
+    "sailorNotes": "#{beneficial}",
+    "potentialNotes": "#{enrage}",
+    "support": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Characters": "[INT] Characters",
         "description": [
-          "Level 1: 공격력 상승 : 60",
-          "Level 2: 공격력 상승 : 90",
-          "Level 3: 공격력 상승 : 120",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      },
-      {
-        "Name": "[PSY]데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
-          "Level 2: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
-          "Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다.",
-          "Level 4: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다.",
-          "Level 5: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 2배 만큼 체력을 회복한다."
+          "Level 1: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 8% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 9% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
         ]
       }
-    ],
-    "potentialNotes": "#{enrage}"
+    ]
   }
 }

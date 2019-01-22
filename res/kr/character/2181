@@ -1,1 +1,143 @@
-{"name":"흰 수염&마르코, The Fierce Battle at the Paramount War","detail":{"captain":["Boosts ATK of [PSY] characters by 3.5x, boosts ATK of all other characters by 2.75x, reduce damage received by 15% and makes [PSY] orbs “beneficial” to all characters","Boosts ATK of [INT] characters by 3.5x, boosts ATK of all other characters by 2.75x, boosts RCV of all characters by 1.25x and makes [PSY] orbs “beneficial” to all characters","Boosts ATK of [PSY] and [INT] characters by 4.25x, boosts ATK of all other characters by 3x, boosts RCV of all characters by 1.5x, reduce damage received by 20% and makes [PSY] and [INT] orbs “beneficial” to all characters"],"special":"Cuts the current HP of each enemy by 30%, recovers 20,000 HP, randomizes all orbs into either [PSY], [INT] or [RCV] orbs and becomes Whitebeard & Marco for 3 turns","specialNotes":"Change Action: When Change is activated, reduces Paralysis and Silence duration by 1 turn, makes [RCV] orbs “beneficial” for all characters for 1 turn and changes their own orb into a [RCV] orb<br>#{beneficial}","specialName":"Immortal Blue Flame Shockwave","sailor":["[PSY] and [INT] 속성의 기본 공격력이 75 상승한다","Boosts base HP and RCV of [PSY] and [INT] characters by 75","Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 100","Completely resists Paralysis and Silence on this character"],"limit":[{"description":"체력 상승 : 40"},{"description":"체력 상승 : 40"},{"description":"체력 상승 : 40"},{"description":"잠재능력 습득 1: [PSY] 데미지 피해 감소"},{"description":"회복력 상승 : 5"},{"description":"회복력 상승 : 5"},{"description":"회복력 상승 : 5"},{"description":"공격력 상승 : 15"},{"description":"공격력 상승 : 15"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"체력 상승 : 60"},{"description":"체력 상승 : 60"},{"description":"체력 상승 : 60"},{"description":"회복력 상승 : 10"},{"description":"잠재능력 습득 2: [INT] 데미지 피해 감소"},{"description":"회복력 상승 : 10"},{"description":"회복력 상승 : 10"},{"description":"공격력 상승 : 20"},{"description":"공격력 상승 : 20"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"체력 상승 : 90"},{"description":"체력 상승 : 120"},{"description":"선원 효과 추가 1: Completely resists Paralysis and Silence on this character"},{"description":"회복력 상승 : 20"},{"description":"회복력 상승 : 20"},{"description":"공격력 상승 : 30"},{"description":"공격력 상승 : 40"},{"description":"공격력 상승 : 50"},{"description":"공격력 상승 : 50"},{"description":"잠재능력 습득 3: Slot Bind Self-reduction"}],"potential":[{"Name":"[PSY] 데미지 피해 감소","description":["Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다","Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다","Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다","Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"]},{"Name":"[INT] 데미지 피해 감소","description":["Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다","Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다","Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다","Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"]},{"Name":"슬롯 봉쇄 내성","description":["Level 1: 자신의 슬롯 봉쇄 상태를 3턴 회복한다","Level 2: 자신의 슬롯 봉쇄 상태를 5턴 회복한다","Level 3: 자신의 슬롯 봉쇄 상태를 7턴 회복한다","Level 4: 자신의 슬롯 봉쇄 상태를 10턴 회복한다","Level 5: Reduces Slot Bind completely on this character"]}]}}
+{
+  "name": "흰 수염&마르코, The Fierce Battle at the Paramount War",
+  "detail": {
+    "specialName": "Immortal Blue Flame Shockwave",
+    "special": "Cuts the current HP of each enemy by 30%, recovers 20,000 HP, randomizes all orbs into either [PSY], [INT] or [RCV] orbs and becomes Whitebeard & Marco for 3 turns",
+    "captain": [
+      "Boosts ATK of [PSY] characters by 3.5x, boosts ATK of all other characters by 2.75x, reduce damage received by 15% and makes [PSY] orbs “beneficial” to all characters",
+      "Boosts ATK of [INT] characters by 3.5x, boosts ATK of all other characters by 2.75x, boosts RCV of all characters by 1.25x and makes [PSY] orbs “beneficial” to all characters",
+      "Boosts ATK of [PSY] and [INT] characters by 4.25x, boosts ATK of all other characters by 3x, boosts RCV of all characters by 1.5x, reduce damage received by 20% and makes [PSY] and [INT] orbs “beneficial” to all characters"
+    ],
+    "sailor": [
+      "[PSY] and [INT] 속성의 기본 공격력이 75 상승한다",
+      "Boosts base HP and RCV of [PSY] and [INT] characters by 75",
+      "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 100",
+      "Completely resists Paralysis and Silence on this character"
+    ],
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 5% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 7% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 7턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 10턴 회복한다",
+          "Level 5: Reduces Slot Bind completely on this character"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
+      },
+      {
+        "description": "회복력 상승 : 5"
+      },
+      {
+        "description": "회복력 상승 : 5"
+      },
+      {
+        "description": "회복력 상승 : 5"
+      },
+      {
+        "description": "공격력 상승 : 15"
+      },
+      {
+        "description": "공격력 상승 : 15"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "체력 상승 : 90"
+      },
+      {
+        "description": "체력 상승 : 120"
+      },
+      {
+        "description": "선원 효과 추가 1: Completely resists Paralysis and Silence on this character"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "잠재능력 습득 3: Slot Bind Self-reduction"
+      }
+    ],
+    "specialNotes": "Change Action: When Change is activated, reduces Paralysis and Silence duration by 1 turn, makes [RCV] orbs “beneficial” for all characters for 1 turn and changes their own orb into a [RCV] orb #{beneficial}"
+  }
+}

@@ -1,96 +1,111 @@
 {
-    "name": "식인종 바르톨로메오, 해적단 ‘바르토 클럽’ 선장",
-    "detail": {
-        "specialName": "배리어 크래시",
-        "special": [
-            {
-                "description": "2턴 동안 적 각각에 대해 5,000이 넘는 부분의 데미지를 초대폭 감소시키고, 최대 체력의 20%를 회복하며, 적의 [ATK UP] [ENRAGE]를 5턴 줄인다",
-                "cooldown": [
-                    28,
-                    13
-                ]
-            },
-            {
-                "description": "2턴 동안 적 각각에 대해 3,000이 넘는 부분의 데미지를 초대폭 감소시키고, 최대 체력의 50%를 회복하며, 적의 [END OF TURN DAMAGE] [ATK UP] [ENRAGE] & 남은 체력 1로 버티는 효과를 5턴 줄인다",
-                "cooldown": [
-                    33,
-                    18
-                ]
-            }
-        ],
-        "captain": "일당의 공격력을 2.25배, 체력을 1.35배로 만들고, 받는 데미지를 10% 줄이며, ‘배리어 크래시’를 사용한 턴은 일당의 공격력이 약 2.75배가 된다",
-        "sailor": {
-            "base": "None",
-            "level1": "일당의 기본 체력이 150 상승한다"
-        },
-        "potential": [
-            {
-                "Name": "[PSY]데미지 피해 감소",
-                "description": [
-                    "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-                    "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-                    "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-                    "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-                    "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
-                ]
-            },
-            {
-                "Name": "[INT]데미지 피해 감소",
-                "description": [
-                    "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-                    "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-                    "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-                    "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-                    "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-                ]
-            }
-        ],
-        "limit": [
-            {
-                "description": "체력 상승 : 10"
-            },
-            {
-                "description": "체력 상승 : 20"
-            },
-            {
-                "description": "체력 상승 : 25"
-            },
-            {
-                "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
-            },
-            {
-                "description": "체력 상승 : 30"
-            },
-            {
-                "description": "체력 상승 : 35"
-            },
-            {
-                "description": "체력 상승 : 40"
-            },
-            {
-                "description": "체력 상승 : 45"
-            },
-            {
-                "description": "회복력 상승 : 20"
-            },
-            {
-                "description": "회복력 상승 : 30"
-            },
-            {
-                "description": "필살기 턴 단축 : 1턴"
-            },
-            {
-                "description": "공격력 상승 : 40"
-            },
-            {
-                "description": "공격력 상승 : 50"
-            },
-            {
-                "description": "선원 효과 추가 1: 일당의 기본 체력이 150 상승한다"
-            },
-            {
-                "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
-            }
+  "name": "식인종 바르톨로메오, 해적단 ‘바르토 클럽’ 선장",
+  "detail": {
+    "specialName": "배리어 크래시",
+    "special": [
+      {
+        "description": "2턴 동안 적 각각에 대해 5,000이 넘는 부분의 데미지를 초대폭 감소시키고, 최대 체력의 20%를 회복하며, 적의 [ATK UP] [ENRAGE]를 5턴 줄인다",
+        "cooldown": [
+          28,
+          13
         ]
-    }
+      },
+      {
+        "description": "2턴 동안 적 각각에 대해 3,000이 넘는 부분의 데미지를 초대폭 감소시키고, 최대 체력의 50%를 회복하며, 적의 [END OF TURN DAMAGE] [ATK UP] [ENRAGE] & 남은 체력 1로 버티는 효과를 5턴 줄인다",
+        "cooldown": [
+          33,
+          18
+        ]
+      },
+      {
+        "description": ""
+      }
+    ],
+    "captain": "일당의 공격력을 2.25배, 체력을 1.35배로 만들고, 받는 데미지를 10% 줄이며, ‘배리어 크래시’를 사용한 턴은 일당의 공격력이 약 2.75배가 된다",
+    "sailor": {
+      "base": "None",
+      "level1": "일당의 기본 체력이 150 상승한다"
+    },
+    "potential": [
+      {
+        "Name": "[PSY]데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[INT]데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "체력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 25"
+      },
+      {
+        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 35"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 45"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "선원 효과 추가 1: 일당의 기본 체력이 150 상승한다"
+      },
+      {
+        "description": "잠재능력 습득 2: [INT] 데미지 피해 감소"
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Striker Characters",
+        "description": [
+          "Level 1: Reduces damage received from [INT] characters by 1%",
+          "Level 2: Reduces damage received from [INT] characters by 1%",
+          "Level 3: Reduces damage received from [INT] characters by 2%",
+          "Level 4: Reduces damage received from [INT] characters by 2%",
+          "Level 5: Reduces damage received from [INT] characters by 3%"
+        ]
+      }
+    ]
+  }
 }

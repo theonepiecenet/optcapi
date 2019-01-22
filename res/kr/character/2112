@@ -1,9 +1,9 @@
 {
-    "name": "샬롯 카타쿠리",
-    "detail": {
-        "captain": "격투형, 타격형, 사격형, 박식형, 강인형 캐릭터의 공격력을 각각 1.825배(타입이 중복될 경우 약 3.33배)로 만들고, [QCK][PSY][RCV][TND] 슬롯도 [유리] 슬롯으로 취급하며, 받는 데미지가 20% 감소한다. 1턴 동안 적에게 준 일반 공격의 TOTAL 데미지에 따라 적 전체의 공격을 다음 확률로 1턴 지연시킨다 [100,000 이상일 경우 20%], [500,000 이상일 경우 50%], [1,000,000 이상일 경우 100%], [2,000,000 이상일 경우 지연 무효 및 상태이상 무효 효과를 무시하고 100%]",
-        "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 3.330625x bonus<br>Delay chance is based on damage dealt with normal attacks and does not stack with any other delay specials or effects<br><b>100,000 damage or more:</b> 20% chance to delay<br><b>500,000 damage or more:</b> 50% chance to delay<br><b>1,000,000 damage or more:</b> 100% chance to delay<br><b>2,000,000 damage or more:</b> 100% chance to delay ignoring Delay Debuff Protection",
-        "special": "2턴 동안 지연 상태의 적에게 주는 데미지가 1.75배가 되고, 격투형, 타격형, 사격형, 박식형, 강인형 캐릭터의 [BLOCK] 및 속성 슬롯을 속성 일치 슬롯으로 바꾸며, 격투형, 타격형, 사격형, 박식형, 강인형 캐릭터의 필살기 턴을 1턴 단축한다",
-        "specialName": "무쌍 도넛 떡 쌈지"
-    }
+  "name": "샬롯 카타쿠리",
+  "detail": {
+    "specialName": "무쌍 도넛 떡 쌈지",
+    "special": "2턴 동안 지연 상태의 적에게 주는 데미지가 1.75배가 되고, 격투형, 타격형, 사격형, 박식형, 강인형 캐릭터의 [BLOCK] 및 속성 슬롯을 속성 일치 슬롯으로 바꾸며, 격투형, 타격형, 사격형, 박식형, 강인형 캐릭터의 필살기 턴을 1턴 단축한다",
+    "captain": "격투형, 타격형, 사격형, 박식형, 강인형 캐릭터의 공격력을 각각 1.825배(타입이 중복될 경우 약 3.33배)로 만들고, [QCK][PSY][RCV][TND] 슬롯도 [유리] 슬롯으로 취급하며, 받는 데미지가 20% 감소한다. 1턴 동안 적에게 준 일반 공격의 TOTAL 데미지에 따라 적 전체의 공격을 다음 확률로 1턴 지연시킨다 [100,000 이상일 경우 20%], [500,000 이상일 경우 50%], [1,000,000 이상일 경우 100%], [2,000,000 이상일 경우 지연 무효 및 상태이상 무효 효과를 무시하고 100%]",
+    "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 3.330625x bonus Delay chance is based on damage dealt with normal attacks and does not stack with any other delay specials or effects 100,000 damage or more:</b> 20% chance to delay 500,000 damage or more:</b> 50% chance to delay 1,000,000 damage or more:</b> 100% chance to delay 2,000,000 damage or more:</b> 100% chance to delay ignoring Delay Debuff Protection"
+  }
 }

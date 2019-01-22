@@ -1,1 +1,84 @@
-{"name":"부처님 센고쿠, 해군본부 대장","detail":{"captain":"Boosts ATK of Cerebral and Fighter characters by 2.75x and boosts ATK of characters with cost 30 or less by 1.1x.","captainNotes":"The bonus is cumulative. Cerebral and Fighter characters with 30 cost or less get a 3.025x bonus.","special":"Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers. If your crew has 4 or more characters with the same Type Orb, makes the Dominant Type Orbs “beneficial” for all characters for 1 turn and amplifies the effect of orbs for all characters by 2x for 3 turns.","specialName":"Ruthless Straight Fist","sailor":["None","Boosts base ATK, HP and RCV of all characters by 50","Makes [TND] orbs “beneficial” for all characters"],"potential":[{"Name":"Enrage","description":["Level 1: Boosts base ATK by ?","Level 2: Boosts base ATK by ?","Level 3: Boosts base ATK by ?","Level 4: Boosts base ATK by ?","Level 5: Boosts base ATK by ?"]},{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by ? turn on this character","Level 2: Reduces Slot Bind duration by ? turns on this character","Level 3: Reduces Slot Bind duration by ? turns on this character","Level 4: Reduces Slot Bind duration by ? turns on this character","Level 5: Reduces Slot Bind duration by ? turns on this character"]}],"potentialNotes":"#{enrage}"}}
+{
+  "name": "부처님 센고쿠, 해군본부 대장",
+  "detail": {
+    "specialName": "Ruthless Straight Fist",
+    "special": "Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers. If your crew has 4 or more characters with the same Type Orb, makes the Dominant Type Orbs “beneficial” for all characters for 1 turn and amplifies the effect of orbs for all characters by 2x for 3 turns.",
+    "captain": "Boosts ATK of Cerebral and Fighter characters by 2.75x and boosts ATK of characters with cost 30 or less by 1.1x.",
+    "sailor": [
+      "None",
+      "Boosts base ATK, HP and RCV of all characters by 50",
+      "Makes [TND] orbs “beneficial” for all characters"
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by ?",
+          "Level 2: Boosts base ATK by ?",
+          "Level 3: Boosts base ATK by ?",
+          "Level 4: Boosts base ATK by ?",
+          "Level 5: Boosts base ATK by ?"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ],
+    "captainNotes": "The bonus is cumulative. Cerebral and Fighter characters with 30 cost or less get a 3.025x bonus.",
+    "potentialNotes": "#{enrage}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 50"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [TND] orbs beneficial for all characters"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Boosts base HP by 120"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ]
+  }
+}

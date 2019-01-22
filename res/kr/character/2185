@@ -1,13 +1,35 @@
 {
   "name": "매의 눈 미호크, Chaos at Marineford - ‘Swordsman’",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters by 2.5x and boosts HP of [PSY] characters by 1.3x",
-    "special": "Deal 50x character's ATK in typeless damage to one enemy and reduces enemy Barrier duration by 1 turn. If your crew has 3 or more [PSY] characters, changes own orb into [PSY] and amplifies the effect of orbs by 2x for 1 turn",
     "specialName": "Hawk Eyes' Instantaneous Killing",
+    "special": "Deal 50x character's ATK in typeless damage to one enemy and reduces enemy Barrier duration by 1 turn. If your crew has 3 or more [PSY] characters, changes own orb into [PSY] and amplifies the effect of orbs by 2x for 1 turn",
+    "captain": "Boosts ATK of Slasher characters by 2.5x and boosts HP of [PSY] characters by 1.3x",
     "sailor": {
       "base": "Boosts base ATK and HP of [PSY] and [INT] characters by 50",
       "level1": "자신이 [INT] 속성에게 주는 일반 공격에 의한 데미지가 1.1배가 된다"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : 60",
+          "Level 3: 공격력 상승 : 90",
+          "Level 4: 공격력 상승 : 120",
+          "Level 5: 공격력 상승 : 150"
+        ]
+      },
+      {
+        "Name": "크리티컬 히트",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -53,28 +75,6 @@
       },
       {
         "description": "잠재능력 습득 2: 크리티컬 히트"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 30",
-          "Level 2: 공격력 상승 : 60",
-          "Level 3: 공격력 상승 : 90",
-          "Level 4: 공격력 상승 : 120",
-          "Level 5: 공격력 상승 : 150"
-        ]
-      },
-      {
-        "Name": "크리티컬 히트",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"
-        ]
       }
     ],
     "potentialNotes": "#{enrage}"

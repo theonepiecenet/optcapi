@@ -1,1 +1,82 @@
-{"name":"‘살육무인’ 킬러, A Leading Figure Initiating an Alliance","detail":{"captain":"Boosts ATK of Striker characters by 2x and their HP by 1.2x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 3 times to a maximum of 3.25x.","captainNotes":"If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.","special":"If the HP of the enemy with the highest Maximum HP is above 50%, cuts the current HP of one enemy by 20% and boosts the Color Affinity of all characters by 1.5x for 3 turns, otherwise, deals 100x character's ATK in [INT] damage to one enemy and boosts the Color Affinity of all characters by 1.75x for 3 turns.","specialName":"Soaring Massacre Blades","sailor":["Boosts own base ATK by 200 if this character is the last in the chain to attack","자신이 [PSY] 속성에게 주는 일반 공격에 의한 데미지가 1.2배가 된다"],"limit":[{"description":"회복력 상승 : 10"},{"description":"공격력 상승 : 10"},{"description":"회복력 상승 : 10"},{"description":"잠재능력 습득 1: Slot Bind Self-reduction"},{"description":"공격력 상승 : 20"},{"description":"체력 상승 : 30"},{"description":"공격력 상승 : 20"},{"description":"체력 상승 : 30"},{"description":"체력 상승 : 40"},{"description":"Reduce base Special Cooldown by 1 turn"},{"description":"체력 상승 : 40"},{"description":"체력 상승 : 60"},{"description":"선원 효과 추가 1: Boosts this character's attack against [PSY] characters by 1.2x"},{"description":"공격력 상승 : 50"},{"description":"잠재능력 습득 2: Reduce No Healing duration"}],"potential":[{"Name":"Slot Bind Self-reduction","description":["Level 1: Reduces Slot Bind duration by 1 turn on this character","Level 2: Reduces Slot Bind duration by 2 turns on this character","Level 3: Reduces Slot Bind duration by 3 turns on this character","Level 4: Reduces Slot Bind duration by 4 turns on this character","Level 5: Reduces Slot Bind duration by 5 turns on this character"]},{"Name":"회복 무효 내성","description":["Level 1: Reduces No Healing duration by 1 turn","Level 2: Reduces No Healing duration by 2 turn","Level 3: Reduces No Healing duration by 3 turn","Level 4: Reduces No Healing duration by 4 turns","Level 5: Reduces No Healing duration by 5 turns"]}]}}
+{
+  "name": "‘살육무인’ 킬러, A Leading Figure Initiating an Alliance",
+  "detail": {
+    "specialName": "Soaring Massacre Blades",
+    "special": "If the HP of the enemy with the highest Maximum HP is above 50%, cuts the current HP of one enemy by 20% and boosts the Color Affinity of all characters by 1.5x for 3 turns, otherwise, deals 100x character's ATK in [INT] damage to one enemy and boosts the Color Affinity of all characters by 1.75x for 3 turns.",
+    "captain": "Boosts ATK of Striker characters by 2x and their HP by 1.2x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 3 times to a maximum of 3.25x.",
+    "sailor": [
+      "Boosts own base ATK by 200 if this character is the last in the chain to attack",
+      "자신이 [PSY] 속성에게 주는 일반 공격에 의한 데미지가 1.2배가 된다"
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "잠재능력 습득 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "선원 효과 추가 1: Boosts this character's attack against [PSY] characters by 1.2x"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "잠재능력 습득 2: Reduce No Healing duration"
+      }
+    ],
+    "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks."
+  }
+}

@@ -77,6 +77,18 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "sailorNotes": "#{silence}"
+    "sailorNotes": "#{silence}",
+    "support": [
+      {
+        "Characters": "Kyros, Riku and Rebecca",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV. Boosts the supported character's ATK by 1.05x against Doflamingo",
+          "Level 2: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV. Boosts the supported character's ATK by 1.1x against Doflamingo",
+          "Level 3: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV. Boosts the supported character's ATK by 1.15x against Doflamingo",
+          "Level 4: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV. Boosts the supported character's ATK by 1.2x against Doflamingo",
+          "Level 5: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV. Boosts the supported character's ATK by 1.25x against Doflamingo"
+        ]
+      }
+    ]
   }
 }

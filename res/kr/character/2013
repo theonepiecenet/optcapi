@@ -1,1 +1,99 @@
-{"name":"‘대식가’ 쥬얼리 보니, 붙잡힌 초신성","detail":{"captain":"자유형 캐릭터의 공격력을 평상시 2.25배, [RCV] 슬롯일 때는 약 3.25배로 만들며, 자유형 캐릭터는 [RCV] 슬롯도 [유리] 슬롯으로 취급하고, [RCV] 슬롯의 출현율이 약간 상승하며, 일당의 회복력이 대폭 감소한다","captainNotes":"#{beneficial}","special":[{"description":"봉쇄, 마비 상태를 3턴 회복하고, [BOMB][BLOCK] 슬롯을 [RCV] 슬롯으로 바꾸며, 선장이 자유형 캐릭터라면 회복력 감소, 의성어 은폐 상태를 5턴 회복한다","cooldown":[11,6]},{"description":"봉쇄, 마비 상태를 10턴 회복하고, 캐릭터의 회복력x50배의 체력을 회복하며, [BOMB][BLOCK] 슬롯을 [RCV] 슬롯으로 바꾸고, 선장이 자유형 캐릭터라면 필살기 봉쇄, 회복력 감소, 의성어 은폐 상태를 5턴 회복한다","cooldown":[18,13]}],"specialnotes":"#{silence}","specialName":"무전취식한 꼬맹이","sailor":["자신은 필살기 봉쇄 상태를 3턴 회복한다","일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다"],"sailorNotes":"#{silence}<br>#{beneficial}","limit":[{"description":"회복력 상승 : 10"},{"description":"체력 상승 : 10"},{"description":"체력 상승 : 20"},{"description":"잠재능력 습득 1: 회복 무효 내성"},{"description":"체력 상승 : 50"},{"description":"회복력 상승 : 20"},{"description":"체력 상승 : 60"},{"description":"회복력 상승 : 20"},{"description":"공격력 상승 : 30"},{"description":"회복력 상승 : 30"},{"description":"체력 상승 : 80"},{"description":"필살기 턴 단축 : 1턴"},{"description":"공격력 상승 : 50"},{"description":"선원 효과 추가 1: 일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다"},{"description":"잠재능력 습득 2: 긴급 회복"}],"potential":[{"Name":"회복 무효 내성","description":["Level 1: 회복 무효 상태 회복 : 1 턴","Level 2: 회복 무효 상태 회복 : 2 턴","Level 3: 회복 무효 상태 회복 : 3 턴","Level 4: 회복 무효 상태 회복 : 4 턴","Level 5: 회복 무효 상태 회복 : 5 턴"]},{"Name":"긴급 회복","description":["Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.","Level 2: 전투 시작 시 체력이 15% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.","Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.","Level 4: 전투 시작 시 체력이 25% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다.","Level 5: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다."]}]}}
+{
+  "name": "‘대식가’ 쥬얼리 보니, 붙잡힌 초신성",
+  "detail": {
+    "specialName": "무전취식한 꼬맹이",
+    "special": [
+      {
+        "description": "봉쇄, 마비 상태를 3턴 회복하고, [BOMB][BLOCK] 슬롯을 [RCV] 슬롯으로 바꾸며, 선장이 자유형 캐릭터라면 회복력 감소, 의성어 은폐 상태를 5턴 회복한다",
+        "cooldown": [
+          11,
+          6
+        ]
+      },
+      {
+        "description": "봉쇄, 마비 상태를 10턴 회복하고, 캐릭터의 회복력x50배의 체력을 회복하며, [BOMB][BLOCK] 슬롯을 [RCV] 슬롯으로 바꾸고, 선장이 자유형 캐릭터라면 필살기 봉쇄, 회복력 감소, 의성어 은폐 상태를 5턴 회복한다",
+        "cooldown": [
+          18,
+          13
+        ]
+      }
+    ],
+    "captain": "자유형 캐릭터의 공격력을 평상시 2.25배, [RCV] 슬롯일 때는 약 3.25배로 만들며, 자유형 캐릭터는 [RCV] 슬롯도 [유리] 슬롯으로 취급하고, [RCV] 슬롯의 출현율이 약간 상승하며, 일당의 회복력이 대폭 감소한다",
+    "sailor": [
+      "자신은 필살기 봉쇄 상태를 3턴 회복한다",
+      "일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다"
+    ],
+    "potential": [
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 2 턴",
+          "Level 3: 회복 무효 상태 회복 : 3 턴",
+          "Level 4: 회복 무효 상태 회복 : 4 턴",
+          "Level 5: 회복 무효 상태 회복 : 5 턴"
+        ]
+      },
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 2: 전투 시작 시 체력이 15% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+          "Level 4: 전투 시작 시 체력이 25% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다.",
+          "Level 5: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다."
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 20"
+      },
+      {
+        "description": "잠재능력 습득 1: 회복 무효 내성"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 80"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "선원 효과 추가 1: 일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다"
+      },
+      {
+        "description": "잠재능력 습득 2: 긴급 회복"
+      }
+    ],
+    "captainNotes": "#{beneficial}",
+    "sailorNotes": "#{silence} #{beneficial}",
+    "specialnotes": "#{silence}"
+  }
+}

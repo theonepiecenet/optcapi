@@ -1,1 +1,81 @@
-{"name":"닭 백작, Big Mom Pirates ‘Knight’","detail":{"captain":"Boosts ATK of Slasher and Striker characters by 2.75x if they have a matching orb, by 2.25x otherwise and reduces damage received by 7%","special":"Deals 120x character's ATK in typeless damage to one enemy that will ignore damage negating abilities and barriers and changes [EMPTY] orbs into Matching orbs. If your friend Captain's orb is [RCV] or [TND], adds 45x character's ATK as Additional Typeless Damage for 2 turns and changes [RCV] and [TND] orbs into Matching orbs. If your friend Captain's orb is [STR], [DEX], [QCK], [PSY] or [INT], changes orbs in the top row to [RCV], boosts RCV of all characters by 1.5x for 2 turns and reduces damage received by 60% for 2 turns.","specialName":"Chicken Wing Edge","sailor":["Boosts base ATK of Slasher and Striker characters by 50","Makes [INT] orbs “beneficial” for this character"],"potential":[{"Name":"Critical Hit","description":["Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage","Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage","Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage","Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage","Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"]},{"Name":"Double Special Activation","description":["Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used","Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used","Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used","Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used","Level 5: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"]}]}}
+{
+  "name": "닭 백작, Big Mom Pirates ‘Knight’",
+  "detail": {
+    "specialName": "Chicken Wing Edge",
+    "special": "Deals 120x character's ATK in typeless damage to one enemy that will ignore damage negating abilities and barriers and changes [EMPTY] orbs into Matching orbs. If your friend Captain's orb is [RCV] or [TND], adds 45x character's ATK as Additional Typeless Damage for 2 turns and changes [RCV] and [TND] orbs into Matching orbs. If your friend Captain's orb is [STR], [DEX], [QCK], [PSY] or [INT], changes orbs in the top row to [RCV], boosts RCV of all characters by 1.5x for 2 turns and reduces damage received by 60% for 2 turns.",
+    "captain": "Boosts ATK of Slasher and Striker characters by 2.75x if they have a matching orb, by 2.25x otherwise and reduces damage received by 7%",
+    "sailor": [
+      "Boosts base ATK of Slasher and Striker characters by 50",
+      "Makes [INT] orbs “beneficial” for this character"
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Double Special Activation",
+        "description": [
+          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 5: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [INT] orbs beneficial for this character"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Potential 2: Double Special Activation"
+      }
+    ]
+  }
+}

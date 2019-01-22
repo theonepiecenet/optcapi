@@ -1,9 +1,139 @@
 {
   "name": "천냥광대 버기",
   "detail": {
+    "specialName": "대악당의 허세",
+    "special": "2턴 동안 코스트 40 이하 캐릭터의 공격력을 2배로 만든다",
     "captain": "코스트 40 이하인 캐릭터의 공격력을 1.75배, 코스트 41 이상인 캐릭터의 공격력과 체력을 50% 감소시키고, 모험에서 획득한 보물이 한 가지 추가된다(모험 도중에 선장이 된 경우에는 보물 추가 효과가 적용되지 않습니다)",
     "captainNotes": "Does not work if he was not your captain upon starting the island. Stacks with other additional drop captains, giving you two chances of getting an extra drop.",
-    "special": "2턴 동안 코스트 40 이하 캐릭터의 공격력을 2배로 만든다",
-    "specialName": "대악당의 허세"
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of characters with a cost of 40 or less by 50",
+      "level2": "Makes [INT] orbs beneficial for all characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 5"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of characters with a cost of 40 or less by 50"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [INT] orbs beneficial for all characters"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 110"
+      },
+      {
+        "description": "Acquire Potential 3: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turns",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ]
   }
 }

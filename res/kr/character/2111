@@ -1,83 +1,83 @@
 {
-    "name": "유스타스 키드, ‘빨간 머리’를 노리는 최악의 세대",
-    "detail": {
-        "captain": "타격형과 사격형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시 적 전체에 캐릭터의 공격력x5배의 [DEX] 데미지를 준다",
-        "special": "무작위의 적에게 [DEX] 랜덤 데미지를 5회 주고, 타격형과 사격형 캐릭터의 필살기 턴을 2턴 단축하며, 선장이 타격형 또는 사격형일 경우, 2턴 동안 턴 종료 시에 적 전체에 캐릭터의 공격력x50배의 [DEX] 데미지를 준다",
-        "specialNotes": "#{randomHits : 5}",
-        "specialName": "전자 투영의 검",
-        "sailor": {
-            "base": "[DEX]의 기본 능력치가 20 상승한다",
-            "level1": "Boosts base ATK of Striker characters by 30"
-        },
-        "limit": [
-            {
-                "description": "체력 상승 : 10"
-            },
-            {
-                "description": "체력 상승 : 20"
-            },
-            {
-                "description": "공격력 상승 : 30"
-            },
-            {
-                "description": "잠재능력 습득 1: 피격 시 공격력 상승"
-            },
-            {
-                "description": "소켓 슬롯 1개 추가"
-            },
-            {
-                "description": "필살기 턴 단축 : 1턴"
-            },
-            {
-                "description": "체력 상승 : 40"
-            },
-            {
-                "description": "공격력 상승 : 30"
-            },
-            {
-                "description": "체력 상승 : 40"
-            },
-            {
-                "description": "필살기 턴 단축 : 1턴"
-            },
-            {
-                "description": "공격력 상승 : 30"
-            },
-            {
-                "description": "회복력 상승 : 60"
-            },
-            {
-                "description": "공격력 상승 : 40"
-            },
-            {
-                "description": "선원 효과 추가 1: Boosts base ATK of Striker characters by 30"
-            },
-            {
-                "description": "잠재능력 습득 2: Cooldown Reduction"
-            }
-        ],
-        "potential": [
-            {
-                "Name": "피격 시 공격력 상승",
-                "description": [
-                    "Level 1: 공격력 상승 : 50",
-                    "Level 2: 공격력 상승 : 75",
-                    "Level 3: 공격력 상승 : 100",
-                    "Level 4: 공격력 상승 : 150",
-                    "Level 5: 공격력 상승 : 200"
-                ]
-            },
-            {
-                "Name": "Cooldown Reduction",
-                "description": [
-                    "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-                    "Level 2: Reduce own Special Cooldown by 3 turns at the start of the fight",
-                    "Level 3: Reduce own Special Cooldown by 5 turns at the start of the fight",
-                    "Level 4: Reduce own Special Cooldown by 7 turns at the start of the fight",
-                    "Level 5: Reduce own Special Cooldown by 11 turns at the start of the fight"
-                ]
-            }
-        ],
-        "potentialNotes": "#{enrage}"
-    }
+  "name": "유스타스 키드, ‘빨간 머리’를 노리는 최악의 세대",
+  "detail": {
+    "specialName": "전자 투영의 검",
+    "special": "무작위의 적에게 [DEX] 랜덤 데미지를 5회 주고, 타격형과 사격형 캐릭터의 필살기 턴을 2턴 단축하며, 선장이 타격형 또는 사격형일 경우, 2턴 동안 턴 종료 시에 적 전체에 캐릭터의 공격력x50배의 [DEX] 데미지를 준다",
+    "captain": "타격형과 사격형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시 적 전체에 캐릭터의 공격력x5배의 [DEX] 데미지를 준다",
+    "sailor": {
+      "base": "[DEX]의 기본 능력치가 20 상승한다",
+      "level1": "Boosts base ATK of Striker characters by 30"
+    },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by 3 turns at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by 5 turns at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by 7 turns at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by 11 turns at the start of the fight"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "체력 상승 : 10"
+      },
+      {
+        "description": "체력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+      },
+      {
+        "description": "소켓 슬롯 1개 추가"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "필살기 턴 단축 : 1턴"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "회복력 상승 : 60"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "선원 효과 추가 1: Boosts base ATK of Striker characters by 30"
+      },
+      {
+        "description": "잠재능력 습득 2: Cooldown Reduction"
+      }
+    ],
+    "specialNotes": "#{randomHits : 5}",
+    "potentialNotes": "#{enrage}"
+  }
 }

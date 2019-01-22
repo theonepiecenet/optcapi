@@ -1,1 +1,167 @@
-{"name":"트라팔가 로, The Man Taking Responsibility for the ‘Heart’","detail":{"captain":["Not Translated","Not Translated","Not Translated","Not Translated","Not Translated","Not Translated","Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.8x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters."],"special":"Deals 30x character's ATK in [STR] damage to one enemy, reduces Bind and Despair duration by 2 turns, changes own orb and adjacent orb into Matching orbs, adds .7x to Chain multiplier for 1 turn and reduces Special Cooldown of Fighter, Slasher, Cerebral and Free Spirit specials by 1 turn","specialName":"Counter-Shock","sailor":["None","Makes [TND] and [RCV] orbs \"beneficial\" for this character","Restores his own special cooldown by 2 turns when it is rewinded"],"sailorNotes":"#{beneficial}<br>#{rewind : 2}","potential":[{"Name":"Reduce No Healing duration","description":["Level 1: Reduces No Healing duration by ? turn","Level 2: Reduces No Healing duration by ? turn","Level 3: Reduces No Healing duration by ? turns","Level 4: Reduces No Healing duration by ? turns","Level 5: Reduces No Healing duration by ? turns"]},{"Name":"Cooldown Reduction","description":["Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight","Level 2: Reduce own Special Cooldown by ? turn at the start of the fight","Level 3: Reduce own Special Cooldown by ? turn at the start of the fight","Level 4: Reduce own Special Cooldown by ? turn at the start of the fight","Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"]}]},"aliases":["","","TM Law","TM Trafalgar Law"],"unit":{"type":"STR","class":["Fighter","Slasher"],"stars":5,"cost":60,"combo":5,"slots":1,"level":99,"exp":5000000,"maxHP":3000,"maxATK":1500,"maxRCV":300},"cooldown":null,"evolve":{"evolution":2336,"evolvers":[],"from":2335},"image":{"thumb":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/thumbs\/2336.png","character":"https:\/\/raw.githubusercontent.com\/theonepiecenet\/optcapi\/master\/res\/characters\/2336.png"},"drop":[],"manual":[]}
+{
+  "name": "트라팔가 로, The Man Taking Responsibility for the ‘Heart’",
+  "detail": {
+    "specialName": "Counter-Shock",
+    "special": "Deals 30x character's ATK in [STR] damage to one enemy, reduces Bind and Despair duration by 2 turns, changes own orb and adjacent orb into Matching orbs, adds .7x to Chain multiplier for 1 turn and reduces Special Cooldown of Fighter, Slasher, Cerebral and Free Spirit specials by 1 turn",
+    "captain": [
+      "Not Translated",
+      "Not Translated",
+      "Not Translated",
+      "Not Translated",
+      "Not Translated",
+      "Not Translated",
+      "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.8x and makes [RCV] and [TND] orbs \"beneficial\" for Fighter, Slasher, Cerebral and Free Spirit characters."
+    ],
+    "sailor": [
+      "None",
+      "Makes [TND] and [RCV] orbs \"beneficial\" for this character",
+      "Restores his own special cooldown by 2 turns when it is rewinded"
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by ? turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ],
+    "sailorNotes": "#{beneficial} #{rewind : 2}",
+    "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 3.24x bonus",
+    "limit": [
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.3x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [TND] and [RCV] orbs beneficial for this character"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.4x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.5x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.6x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Restores his own special cooldown by 2 turns when it is rewinded"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 5 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.7x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.8x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
+      },
+      {
+        "description": "Acquire Potential 2: Cooldown Reduction"
+      }
+    ]
+  }
+}

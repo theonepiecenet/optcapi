@@ -1,8 +1,8 @@
 {
-    "name": "Mr. 디아만테, 우승을 방해하는 원수",
-    "detail": {
-        "captain": "참격형 캐릭터의 공격력을 2.25배, 체력을 1.2배로 만든다",
-        "special": "적 1명에게 캐릭터의 공격력x20배의 [DEX] 데미지를 주고, 3턴 동안 참격형 캐릭터의 공격력을 1.5배로 만든다",
-        "specialName": "코리다 글레이브"
-    }
+  "name": "Mr. 디아만테, 우승을 방해하는 원수",
+  "detail": {
+    "specialName": "Corrida Glaive",
+    "special": "Deals 20x character's ATK in [DEX] damage to one enemy and boosts ATK of Slasher characters by 1.5x for 3 turns",
+    "captain": "Boosts ATK of Slasher characters by 2.25x and their HP by 1.2x"
+  }
 }

@@ -1,10 +1,10 @@
 {
-    "name": "타마고 남작, 신사적인 기사",
-    "detail": {
-        "captain": "격투형 캐릭터의 공격력을 평상시 2.25배, 슬롯 일치 시 2.5배로 만든다",
-        "special": "적 1명에게 모든 방어 효과 및 방어력을 무시하고 캐릭터의 공격력x75배의 [DEX] 데미지를 주고, 선장이 격투형 캐릭터일 경우 격투형 캐릭터의 [BLOCK] 슬롯을 포함한 모든 슬롯을 속성 일치 슬롯으로 바꾼다",
-        "specialName": "레그 베네딕트",
-        "specialNotes": "#{ignoreBarrier}",
-        "sailor": "공격 시작 전 남은 체력이 50% 이상일 때 격투형 캐릭터의 기본 공격력이 120 상승한다"
-    }
+  "name": "타마고 남작, 신사적인 기사",
+  "detail": {
+    "specialName": "Legs Benedict",
+    "special": "Deals 75x character's ATK in [DEX] damage to one enemy that will ignore damage negating abilities and barriers. If your Captain is a Fighter character, changes all orbs, including [BLOCK] orbs, on Fighter characters into Matching orbs",
+    "captain": "Boosts ATK of Fighter Characters by 2.5x if they have a matching orb, by 2.25x otherwise",
+    "sailor": "When HP is above 50% at the start of the turn, boosts ATK of Fighter characters by 125",
+    "specialNotes": "#{ignoreBarrier}"
+  }
 }

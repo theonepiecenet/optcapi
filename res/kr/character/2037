@@ -1,15 +1,36 @@
 {
   "name": "지저스 바제스, 검은 수염 해적단",
   "detail": {
-    "captain": "격투형 캐릭터의 공격력을 2.5배로 만들고, PERFECT 4연속 달성 시, 이후 격투형 캐릭터의 공격력이 1.5배 더 상승한다",
     "specialName": "갈레온 래리어~~~트",
     "special": "적 전체의 HP를 7% 감소시키고, 필살기 발동 시의 적의 수에 따른 턴 동안 격투형 캐릭터의 공격력이 1.75배가 된다(1~6턴)",
-    "specialNotes": "Fighter ATK buff duration is equal to the amount of enemies on the stage at the time the special was activated",
+    "captain": "격투형 캐릭터의 공격력을 2.5배로 만들고, PERFECT 4연속 달성 시, 이후 격투형 캐릭터의 공격력이 1.5배 더 상승한다",
     "sailor": {
       "base": "None",
       "level1": "격투형 캐릭터의 기본 공격력이 50 상승한다",
       "level2": "격투형 캐릭터는 [INT] 슬롯도 [유리] 슬롯으로 취급한다"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: 회복 무효 상태 회복 : 1 턴",
+          "Level 2: 회복 무효 상태 회복 : 2 턴",
+          "Level 3: 회복 무효 상태 회복 : 3 턴",
+          "Level 4: 회복 무효 상태 회복 : 4 턴",
+          "Level 5: 회복 무효 상태 회복 : 5 턴"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -57,28 +78,7 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: 회복 무효 상태 회복 : 1 턴",
-          "Level 2: 회복 무효 상태 회복 : 2 턴",
-          "Level 3: 회복 무효 상태 회복 : 3 턴",
-          "Level 4: 회복 무효 상태 회복 : 4 턴",
-          "Level 5: 회복 무효 상태 회복 : 5 턴"
-        ]
-      }
-    ],
+    "specialNotes": "Fighter ATK buff duration is equal to the amount of enemies on the stage at the time the special was activated",
     "potentialNotes": "#{enrage}"
   }
 }

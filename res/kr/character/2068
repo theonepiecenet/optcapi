@@ -1,82 +1,82 @@
 {
-    "name": "타시기, 패기를 구사하는 여검사",
-    "detail": {
-        "captain": "참격형 캐릭터의 공격력을 2.75배로 만들고, PERFECT 3연속 달성 시 이후 참격형 캐릭터의 공격력이 1.25배 더 상승하며, 턴 종료 시 캐릭터의 회복력x1.25배의 체력을 회복한다",
-        "special": "일당에게 걸려 있는 공격력 감소 상태 및 [INCREASE DAMAGE]을 5턴 회복하고, [BLOCK][STR][QCK] 슬롯을 속성 일치 슬롯으로 바꾸며, 3턴 동안 체인 계수가 2.75배로 고정된다",
-        "specialName": "도약 회선격",
-        "sailor": {
-            "base": "참격형 캐릭터의 기본 능력치가 50 상승한다",
-            "level1": "Makes [PSY] orbs “beneficial” for Slasher characters"
-        },
-        "sailorNotes": "#{beneficial}",
-        "limit": [
-            {
-                "description": "회복력 상승 : 10"
-            },
-            {
-                "description": "회복력 상승 : 20"
-            },
-            {
-                "description": "공격력 상승 : 20"
-            },
-            {
-                "description": "잠재능력 습득 1: 크리티컬 공격"
-            },
-            {
-                "description": "공격력 상승 : 20"
-            },
-            {
-                "description": "공격력 상승 : 30"
-            },
-            {
-                "description": "공격력 상승 : 30"
-            },
-            {
-                "description": "공격력 상승 : 30"
-            },
-            {
-                "description": "회복력 상승 : 30"
-            },
-            {
-                "description": "공격력 상승 : 40"
-            },
-            {
-                "description": "체력 상승 : 40"
-            },
-            {
-                "description": "체력 상승 : 40"
-            },
-            {
-                "description": "체력 상승 : 50"
-            },
-            {
-                "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” for Slasher characters"
-            },
-            {
-                "description": "잠재능력 습득 2: Cooldown Reduction"
-            }
-        ],
-        "potential": [
-            {
-                "Name": "크리티컬 공격",
-                "description": [
-                    "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 2%의 추가 데미지가 가산된다",
-                    "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-                    "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-                    "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-                    "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다"
-                ]
-            },
-            {
-                "Name": "Cooldown Reduction",
-                "description": [
-                    "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-                    "Level 2: Reduce own Special Cooldown by 3 turns at the start of the fight",
-                    "Level 3: Reduce own Special Cooldown by 5 turns at the start of the fight",
-                    "Level 4: Reduce own Special Cooldown by 7 turns at the start of the fight",
-                    "Level 5: Reduce own Special Cooldown by 10 turns at the start of the fight"
-                ]
-            }
+  "name": "타시기, 패기를 구사하는 여검사",
+  "detail": {
+    "specialName": "도약 회선격",
+    "special": "일당에게 걸려 있는 공격력 감소 상태 및 [INCREASE DAMAGE]을 5턴 회복하고, [BLOCK][STR][QCK] 슬롯을 속성 일치 슬롯으로 바꾸며, 3턴 동안 체인 계수가 2.75배로 고정된다",
+    "captain": "참격형 캐릭터의 공격력을 2.75배로 만들고, PERFECT 3연속 달성 시 이후 참격형 캐릭터의 공격력이 1.25배 더 상승하며, 턴 종료 시 캐릭터의 회복력x1.25배의 체력을 회복한다",
+    "sailor": {
+      "base": "참격형 캐릭터의 기본 능력치가 50 상승한다",
+      "level1": "Makes [PSY] orbs “beneficial” for Slasher characters"
+    },
+    "potential": [
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 2%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다"
         ]
-    }
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by 3 turns at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by 5 turns at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by 7 turns at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by 10 turns at the start of the fight"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "잠재능력 습득 1: 크리티컬 공격"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” for Slasher characters"
+      },
+      {
+        "description": "잠재능력 습득 2: Cooldown Reduction"
+      }
+    ],
+    "sailorNotes": "#{beneficial}"
+  }
 }
