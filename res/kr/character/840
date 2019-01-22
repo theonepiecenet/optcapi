@@ -1,1 +1,97 @@
-{"name":"베르고, 돈키호테 해적단","detail":{"captain":["타격형 캐릭터의 공격이 2.5배가 된다","Boosts ATK of Striker characters by 2.5x and reduces damage received by 7%"],"specialName":"도깨비 대나무","special":"자신의 슬롯을 [INT]로 바꾸고, 1턴동안 자신의 공격력을 2배 + 적 1명에게 [INT] 데미지","sailor":["None","If this character has a [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"],"limit":[{"description":"체력 상승 : 30"},{"description":"체력 상승 : 40"},{"description":"공격력 상승 : 30"},{"description":"잠재능력 습득 1: [PSY] 데미지 피해 감소"},{"description":"회복력 상승 : 20"},{"description":"새로운 선장 효과 습득: Boosts ATK of Striker characters by 2.5x and reduces damage received by 7%"},{"description":"공격력 상승 : 30"},{"description":"체력 상승 : 50"},{"description":"선원 효과 추가 1: If this character has a [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"},{"description":"체력 상승 : 60"},{"description":"회복력 상승 : 40"},{"description":"필살기 턴 수 단축: 2"},{"description":"공격력 상승 : 40"},{"description":"잠재능력 소켓슬롯 추가 : 1"},{"description":"잠재능력 습득 2: 피격 시 공격력 상승"}],"potential":[{"Name":"[PSY] 데미지 피해 감소","description":["Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다","Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다","Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다","Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"]},{"Name":"피격 시 공격력 상승","description":["Level 1: 공격력 상승 : 30","Level 2: 공격력 상승 : ??","Level 3: 공격력 상승 : ??","Level 4: 공격력 상승 : ??","Level 5: 공격력 상승 : 150"]}],"potentialNotes":"#{enrage}"}}
+{
+  "name": "베르고, 돈키호테 해적단",
+  "detail": {
+    "specialName": "도깨비 대나무",
+    "special": "자신의 슬롯을 [INT]로 바꾸고, 1턴동안 자신의 공격력을 2배 + 적 1명에게 [INT] 데미지",
+    "captain": [
+      "타격형 캐릭터의 공격이 2.5배가 된다",
+      "Boosts ATK of Striker characters by 2.5x and reduces damage received by 7%"
+    ],
+    "sailor": [
+      "None",
+      "If this character has a [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"
+    ],
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : 150"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "새로운 선장 효과 습득: Boosts ATK of Striker characters by 2.5x and reduces damage received by 7%"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "선원 효과 추가 1: If this character has a [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"
+      },
+      {
+        "description": "체력 상승 : 60"
+      },
+      {
+        "description": "회복력 상승 : 40"
+      },
+      {
+        "description": "필살기 턴 수 단축: 2"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "잠재능력 소켓슬롯 추가 : 1"
+      },
+      {
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
+      }
+    ],
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Doflamingo, Monet and Caesar",
+        "description": [
+          "Level 1: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 9% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 11% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
+  }
+}

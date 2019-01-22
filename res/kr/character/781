@@ -1,1 +1,83 @@
-{"name":"괴승 우루지, 파계승 해적단 선장","detail":{"special":"1턴간 자신의 공격력을 남은 체력에 따라 상승","specialNotes":"남은체력이 50%이상일때: 1.5배, 20%이상 50%미만일때: 1.75배, 20%미만일때: 2배","specialName":"계명의 귀신화","captain":"남은 체력이 30%이하일때 일당의 공격이 2.5배가 된다.","sailor":["None","Reduces Paralysis duration on this character by 3 turns"],"limit":[{"description":"회복력 상승 : 10"},{"description":"회복력 상승 : 20"},{"description":"회복력 상승 : 30"},{"description":"잠재능력 습득 1: [DEX] 데미지 피해 감소"},{"description":"체력 상승 : 30"},{"description":"체력 상승 : 40"},{"description":"체력 상승 : 50"},{"description":"체력 상승 : 70"},{"description":"필살기 턴 수 단축: 1"},{"description":"공격력 상승 : 20"},{"description":"잠재능력 소켓슬롯 추가 : 1"},{"description":"공격력 상승 : 40"},{"description":"공격력 상승 : 50"},{"description":"선원 효과 추가 1: Reduces Paralysis duration on this character by 3 turns"},{"description":"잠재능력 습득 2: 피격 시 공격력 상승"}],"potential":[{"Name":"[DEX] 데미지 피해 감소","description":["Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다","Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다","Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다","Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다","Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"]},{"Name":"피격 시 공격력 상승","description":["Level 1: 공격력 상승 : 20","Level 2: 공격력 상승 : 50","Level 3: 공격력 상승 : 100","Level 4: 공격력 상승 : 150","Level 5: 공격력 상승 : 200"]}],"potentialNotes":"#{enrage}"}}
+{
+  "name": "괴승 우루지, 파계승 해적단 선장",
+  "detail": {
+    "specialName": "계명의 귀신화",
+    "special": "1턴간 자신의 공격력을 남은 체력에 따라 상승",
+    "captain": "남은 체력이 30%이하일때 일당의 공격이 2.5배가 된다.",
+    "sailor": [
+      "None",
+      "Reduces Paralysis duration on this character by 3 turns"
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 50",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "잠재능력 습득 1: [DEX] 데미지 피해 감소"
+      },
+      {
+        "description": "체력 상승 : 30"
+      },
+      {
+        "description": "체력 상승 : 40"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "체력 상승 : 70"
+      },
+      {
+        "description": "필살기 턴 수 단축: 1"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "잠재능력 소켓슬롯 추가 : 1"
+      },
+      {
+        "description": "공격력 상승 : 40"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "선원 효과 추가 1: Reduces Paralysis duration on this character by 3 turns"
+      },
+      {
+        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
+      }
+    ],
+    "specialNotes": "남은체력이 50%이상일때: 1.5배, 20%이상 50%미만일때: 1.75배, 20%미만일때: 2배",
+    "potentialNotes": "#{enrage}"
+  }
+}

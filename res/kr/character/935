@@ -1,16 +1,46 @@
 {
   "name": "바다의 협객 징베, 전 왕의 부하 칠무해",
   "detail": {
-    "captain": "격투형 캐릭터의 공격력을 2배, 체력을 1.5배로 만들고, 체력이 일정 수준 이상일 때와 적을 때 공격력이 2.75배가 된다",
     "specialName": "「어인공수도」!! 상어 기와 정권",
     "special": "1턴 동안 PERFECT 타이밍이 약간 어려워지지만, 적 전체에게 [INT] 큰 데미지를 주고, 격투형 슬롯을 속성이 일치하는 슬롯으로 바꾼다",
-    "specialNotes": "Decreases timing window to hit a PERFECT. (Animation remains the same)",
+    "captain": "격투형 캐릭터의 공격력을 2배, 체력을 1.5배로 만들고, 체력이 일정 수준 이상일 때와 적을 때 공격력이 2.75배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character",
       "level2": "Restores his own special cooldown completely when it is rewinded"
     },
-    "sailorNotes": "#{beneficial}<br>#{rewind : all}",
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: Reduces Slot Bind completely on this character"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 5"
@@ -103,37 +133,7 @@
         "description": "잠재능력 습득 3: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[PSY] 데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: Reduces Slot Bind completely on this character"
-        ]
-      }
-    ]
+    "specialNotes": "Decreases timing window to hit a PERFECT. (Animation remains the same)",
+    "sailorNotes": "#{beneficial} #{rewind : all}"
   }
 }

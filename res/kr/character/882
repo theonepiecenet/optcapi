@@ -1,8 +1,82 @@
 {
   "name": "바다천둥 스크래치멘 아푸, 온에어 해적단의 선장",
   "detail": {
-    "captain": "GOOD→GREAT→PERFECT 순으로 공격 성공한 후부터 자유형의 공격력이 3배",
     "specialName": "전투 음악 「투쟁의 첵킷아웃」",
-    "special": "2턴 동안 받는 데미지가 2배가 되고, 회복력이 매우 큰 폭으로 감소하는 대신 사격형 캐릭터와 자유형 캐릭터의 공격력이 1턴 동안 1.75배가 된다"
+    "special": "2턴 동안 받는 데미지가 2배가 되고, 회복력이 매우 큰 폭으로 감소하는 대신 사격형 캐릭터와 자유형 캐릭터의 공격력이 1턴 동안 1.75배가 된다",
+    "captain": "GOOD→GREAT→PERFECT 순으로 공격 성공한 후부터 자유형의 공격력이 3배",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base HP of Shooter and Free Spirit characters by 100",
+      "level2": "When any other character uses a special, reduces own cooldown by 2 turns"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base HP of Shooter and Free Spirit characters by 100"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire 2 additional Socket slots"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: When any other character uses a special, reduces own cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[STR] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [STR] characters by ?%",
+          "Level 2: Reduce damage taken from [STR] characters by ?%",
+          "Level 3: Reduce damage taken from [STR] characters by ?%",
+          "Level 4: Reduce damage taken from [STR] characters by ?%",
+          "Level 5: Reduce damage taken from [STR] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ]
   }
 }

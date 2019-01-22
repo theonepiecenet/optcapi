@@ -1,15 +1,36 @@
 {
   "name": "폭군 바솔로뮤 쿠마, 정부의 인간병기",
   "detail": {
-    "captain": "박식형 캐릭터의 공격력과 체력이 2배가 되고, 받은 데미지의 5배를 턴 종료시 적 전체에게 돌려준다",
-    "special": "[RCV][TND][EMPTY][BLOCK][BOMB] 슬롯을 각각 속성이 일치하는 슬롯으로 바꾸고, 1턴 동안 슬롯 영향을 상당히 증폭시킨다",
     "specialName": "밀쳐내기 압력포",
-    "specialNotes": "#{orb : 1.75x}",
+    "special": "[RCV][TND][EMPTY][BLOCK][BOMB] 슬롯을 각각 속성이 일치하는 슬롯으로 바꾸고, 1턴 동안 슬롯 영향을 상당히 증폭시킨다",
+    "captain": "박식형 캐릭터의 공격력과 체력이 2배가 되고, 받은 데미지의 5배를 턴 종료시 적 전체에게 돌려준다",
     "sailor": {
       "base": "None",
       "level1": "체력이 가득 차 있으면 자신의 기본 공격력이 50 상승한다",
       "level2": "남은 체력이 적을 때 자신의 기본 공격력이 75 상승한다"
     },
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 20"
@@ -57,28 +78,7 @@
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      }
-    ],
+    "specialNotes": "#{orb : 1.75x}",
     "potentialNotes": "#{enrage}"
   }
 }

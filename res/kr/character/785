@@ -3,6 +3,18 @@
   "detail": {
     "specialName": "단정치 못한 딸에게 쓴소리",
     "special": "선장효과 무효 상태를 2턴 줄이고, 의성어 은폐 상태를 완전히 회복한다",
-    "captain": "받는 데미지를 20% 줄인다"
+    "captain": "받는 데미지를 20% 줄인다",
+    "support": [
+      {
+        "Characters": "Nami, Bellemere and Nojiko",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   }
 }

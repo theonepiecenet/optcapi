@@ -1,8 +1,83 @@
 {
   "name": "브룩, 본 to be Wild!!!",
   "detail": {
-    "captain": "Boosts ATK of [QCK] characters by 3x if they have a matching orb, by 1.2x otherwise",
     "specialName": "소환 흑마술 「악마왕 사탄 강림」",
-    "special": "자신이 1턴 봉쇄 상태가 되지만, [BLOCK] 슬롯을 속성이 일치하는 슬롯으로, [불리] 슬롯을 랜덤 속성 슬롯으로 바꾼다"
+    "special": "자신이 1턴 봉쇄 상태가 되지만, [BLOCK] 슬롯을 속성이 일치하는 슬롯으로, [불리] 슬롯을 랜덤 속성 슬롯으로 바꾼다",
+    "captain": "Boosts ATK of [QCK] characters by 3x if they have a matching orb, by 1.2x otherwise",
+    "sailor": {
+      "base": "None",
+      "level1": "Completely resists Blindness",
+      "level2": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs beneficial for this character"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Completely resists Blindness"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs beneficial for this character"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 120"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by ? turn",
+          "Level 2: Reduces No Healing duration by ? turns",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
   }
 }

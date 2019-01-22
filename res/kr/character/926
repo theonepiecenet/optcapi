@@ -1,14 +1,36 @@
 {
   "name": "옥졸장 사디 양, 옥졸수의 지휘관",
   "detail": {
-    "captain": "강인형 캐릭터의 공격력을 2.5배로 만든다",
     "specialName": "가 버리렴! 옥졸수들",
     "special": "적 1명에게 공격력x15배의 [QCK] 데미지를 주고, 방어력 감소 중인 적에게 주는 데미지가 3턴 동안 1.3배가 된다",
+    "captain": "강인형 캐릭터의 공격력을 2.5배로 만든다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV for this character by 50",
       "level2": "If your Captain is a Free Spirit or Striker character, completely resists Blindness"
     },
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turn on this character",
+          "Level 3: Reduces Slot Bind duration by ? turn on this character",
+          "Level 4: Reduces Slot Bind duration by ? turn on this character",
+          "Level 5: Reduces Slot Bind duration by ? turn on this character"
+        ]
+      },
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 2: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 3: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 4: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 5: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -54,28 +76,6 @@
       },
       {
         "description": "잠재능력 습득 2: 긴급 회복"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turn on this character",
-          "Level 3: Reduces Slot Bind duration by ? turn on this character",
-          "Level 4: Reduces Slot Bind duration by ? turn on this character",
-          "Level 5: Reduces Slot Bind duration by ? turn on this character"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 2: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 3: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 4: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 5: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
-        ]
       }
     ]
   }

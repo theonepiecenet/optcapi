@@ -1,10 +1,10 @@
 {
   "name": "몽키 D. 루피, 희망의 별",
   "detail": {
-    "special": "무작위의 적에게 [INT] 큰 랜덤 데미지를 10회 주고, 적 전체를 1턴 지연시킨다",
-    "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 30,000 : for each hit}",
     "specialName": "고무고무 폭풍우",
+    "special": "무작위의 적에게 [INT] 큰 랜덤 데미지를 10회 주고, 적 전체를 1턴 지연시킨다",
     "captain": "강인형 캐릭터의 공격력이 3배가 되고, 턴 경과시마다 공격력과 체력이 감소된다",
+    "specialNotes": "#{randomHits : 10} #{random : 1,000 : 30,000 : for each hit}",
     "captainNotes": "처음 던전 입장시 3배, 첫턴 경과시 2.9배, 두번째턴 2.8배 최소 1배까지 감소."
   }
 }

@@ -1,1 +1,20 @@
-{"name":"양파&피망&홍당무, 우솝 해적단","detail":{"special":"적 1명에게 캐릭터의 공격력x3배의 [QCK] 데미지를 주고, 3턴 동안 [STR]·[DEX]·[QCK] 속성 캐릭터의 공격력이 1.2배가 된다","specialName":"출동!! 우솝 해적단","captain":"[STR]·[DEX]·[QCK] 속성 캐릭터의 능력치가 1.25배가 된다"}}
+{
+  "name": "양파&피망&홍당무, 우솝 해적단",
+  "detail": {
+    "specialName": "출동!! 우솝 해적단",
+    "special": "적 1명에게 캐릭터의 공격력x3배의 [QCK] 데미지를 주고, 3턴 동안 [STR]·[DEX]·[QCK] 속성 캐릭터의 공격력이 1.2배가 된다",
+    "captain": "[STR]·[DEX]·[QCK] 속성 캐릭터의 능력치가 1.25배가 된다",
+    "support": [
+      {
+        "Characters": "Usopp",
+        "description": [
+          "Level 1: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 9% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 12% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 15% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
+  }
+}

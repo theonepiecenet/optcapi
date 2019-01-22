@@ -1,1 +1,20 @@
-{"name":"쿠이나, 시모츠키 마을의 소녀 검사","detail":{"special":"필살기 발동 턴 내에 일당 전원이 PERFECT 공격에 성공하면 다음 턴에 참격형 캐릭터의 공격력이 1.75배가 된다","specialName":"소녀 검사의 진검승부","captain":"참격형 캐릭터의 공격력이 1.5배가 된다"}}
+{
+  "name": "쿠이나, 시모츠키 마을의 소녀 검사",
+  "detail": {
+    "specialName": "소녀 검사의 진검승부",
+    "special": "필살기 발동 턴 내에 일당 전원이 PERFECT 공격에 성공하면 다음 턴에 참격형 캐릭터의 공격력이 1.75배가 된다",
+    "captain": "참격형 캐릭터의 공격력이 1.5배가 된다",
+    "support": [
+      {
+        "Characters": "Zoro",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses their special, amplifies the effect of orbs for the supported character by 1.1x for 1 turn",
+          "Level 2: Once per an adventure, when the supported character uses their special, amplifies the effect of orbs for the supported character by 1.15x for 1 turn",
+          "Level 3: Once per an adventure, when the supported character uses their special, amplifies the effect of orbs for the supported character by 1.2x for 1 turn",
+          "Level 4: Once per an adventure, when the supported character uses their special, amplifies the effect of orbs for the supported character by 1.25x for 1 turn",
+          "Level 5: Once per an adventure, when the supported character uses their special, amplifies the effect of orbs for the supported character by 1.3x for 1 turn"
+        ]
+      }
+    ]
+  }
+}

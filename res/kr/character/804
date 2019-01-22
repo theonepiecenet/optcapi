@@ -1,9 +1,83 @@
 {
   "name": "검은 감옥의 히나, 해군본부 대령",
   "detail": {
-    "special": "무작위의 적에게 랜덤 데미지를 8회 주고, 3턴 동안 일당의 공격력을 조금 상승시킨다",
-    "specialNotes": "#{randomHits : 8}",
     "specialName": "「흑창의 진」총공격!",
-    "captain": "[DEX] 캐릭터의 공격력과 회복력이 1.5배가 되고, 턴 종료시에 공격력x1배의 추가 데미지를 준다"
+    "special": "무작위의 적에게 랜덤 데미지를 8회 주고, 3턴 동안 일당의 공격력을 조금 상승시킨다",
+    "captain": "[DEX] 캐릭터의 공격력과 회복력이 1.5배가 되고, 턴 종료시에 공격력x1배의 추가 데미지를 준다",
+    "specialNotes": "#{randomHits : 8}",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Paralysis duration by 1 turn",
+      "level2": "When any other character uses a special, reduces own cooldown by 2 turns"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Paralysis duration by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 8 turns"
+      },
+      {
+        "description": "Boosts base HP by 110"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: When any other character uses a special, reduces own cooldown by 2 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by ?%",
+          "Level 3: Reduce damage taken from [QCK] characters by ?%",
+          "Level 4: Reduce damage taken from [QCK] characters by ?%",
+          "Level 5: Reduce damage taken from [QCK] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ]
   }
 }

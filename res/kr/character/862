@@ -1,15 +1,36 @@
 {
   "name": "레이디 알비다, 절세의 미녀",
   "detail": {
-    "special": "적 한 명에게 캐릭터의 공격력x13배의 [QCK] 데미지를 주고, 1턴 동안 받는 데미지를 75% 감소+슬롯 영향을 증폭시킨다",
     "specialName": "매혹의 아름다운 쇠몽둥이",
+    "special": "적 한 명에게 캐릭터의 공격력x13배의 [QCK] 데미지를 주고, 1턴 동안 받는 데미지를 75% 감소+슬롯 영향을 증폭시킨다",
     "captain": "[QCK] 캐릭터의 공격력이 2배가 되고, 받는 데미지를 10% 감소시킨다",
-    "specialNotes": "#{beneficial}",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of all characters by 20",
       "level2": "Makes [STR] orbs “beneficial” for this character"
     },
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: Slot Bind Self-reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      }
-    ]
+    "specialNotes": "#{beneficial}"
   }
 }

@@ -1,7 +1,6 @@
 {
   "name": "피카, 돈키호테 해적단",
   "detail": {
-    "captain": "강인형의 공격력을 2.25배, 체력을 1.5배로 만든다",
     "specialName": "암석지배 지옥의 벽 짓누르기",
     "special": [
       {
@@ -19,11 +18,33 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
+    "captain": "강인형의 공격력을 2.25배, 체력을 1.5배로 만든다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK of 강인형 and Driven characters by 30"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : 40",
+          "Level 3: 공격력 상승 : 60",
+          "Level 4: 공격력 상승 : 80",
+          "Level 5: 공격력 상승 : 120"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 5"
@@ -71,28 +92,19 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "potential": [
+    "specialNotes": "#{stages}",
+    "potentialNotes": "#{enrage}",
+    "support": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Characters": "Doflamingo, Gladius, Buffalo and Baby 5",
         "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 40",
-          "Level 3: 공격력 상승 : 60",
-          "Level 4: 공격력 상승 : 80",
-          "Level 5: 공격력 상승 : 120"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
+          "Level 1: Once per adventure, when the supported character uses their special, For Powerhouse characters, changes [EMPTY] orbs into Matching orbs",
+          "Level 2: Once per adventure, when the supported character uses their special, For Powerhouse characters, changes [EMPTY] orbs into Matching orbs",
+          "Level 3: Once per adventure, when the supported character uses their special, For Powerhouse characters, changes [EMPTY] orbs into Matching orbs",
+          "Level 4: Once per adventure, when the supported character uses their special, For Powerhouse characters, changes [EMPTY] and Badly Matching orbs into Matching orbs",
+          "Level 5: Once per adventure, when the supported character uses their special, For Driven and Powerhouse characters, changes [EMPTY] and Badly Matching orbs into Matching orbs"
         ]
       }
-    ],
-    "potentialNotes": "#{enrage}"
+    ]
   }
 }
