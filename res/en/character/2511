@@ -1,0 +1,54 @@
+{
+  "name": "Garp the Fist [Neo]",
+  "detail": {
+    "special": "Randomizes all orbs into either [STR] or [RCV] orbs, reduces Bind and Despair duration by 1 turn and boosts ATK of Fighter characters by 1.75x for 1 turn.",
+    "specialName": "Meteor Fist Shower [Neo]",
+    "captain": "Boosts ATK Fighter characters by 2.25x and their HP by 1.5x"
+  },
+  "aliases": [
+    "",
+    "",
+    "Neo Garp"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 1437,
+    "minATK": 785,
+    "minRCV": 105,
+    "maxHP": 2852,
+    "maxATK": 1491,
+    "maxRCV": 225,
+    "ability": null
+  },
+  "cooldown": [
+    28,
+    14
+  ],
+  "evolve": {
+    "evolution": 2511,
+    "evolvers": [
+      118,
+      84,
+      300,
+      100,
+      266
+    ],
+    "from": 2510
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2511.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2511.png"
+  },
+  "drop": [],
+  "manual": []
+}

@@ -1,5 +1,5 @@
 {
-  "name": "Sabo, Evolved",
+  "name": "Sabo, Straw Hat Luffy's Ally",
   "detail": {
     "captain": "Boosts chances of getting Matching orbs for Fighter, Shooter and Free Spirit characters. Boosts ATK of Fighter, Shooter and Free Spirit characters by 3x and their HP by 1.25x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 5 times to a maximum of 4.25x.",
     "special": "Locks the chain multiplier at 3x for 1 turn and amplifies the effects of orbs for Fighter, Shooter and Free Spirit characters by 2.25x for 1 turn",
@@ -62,14 +62,18 @@
     "slots": 5,
     "level": 99,
     "exp": 5000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
-    "maxHP": 3000,
-    "maxATK": 1600,
-    "maxRCV": 450,
+    "minHP": 1480,
+    "minATK": 931,
+    "minRCV": 212,
+    "maxHP": 3325,
+    "maxATK": 1542,
+    "maxRCV": 462,
     "ability": null
   },
+  "cooldown": [
+    21,
+    15
+  ],
   "evolve": {
     "evolution": 2509,
     "evolvers": [],
