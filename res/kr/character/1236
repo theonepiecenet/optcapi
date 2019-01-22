@@ -1,14 +1,35 @@
 {
   "name": "추격의 메이너드, 해군본부 중장",
   "detail": {
-    "captain": "[PSY] 캐릭터의 공격력이 2배가 되고, 턴 종료 시에 공격력53배의 추가 데미지를 준다",
-    "special": "적 1명에게 아군의 남은 체력이 많을수록 [PSY] 큰 데미지를 주고, 적 전체의 공격을 1턴 지연시킨다",
-    "specialNotes": "#{specialProportional : higher : 10x + (25x * (remaining HP) / (total HP)) }",
     "specialName": "묵비의 검",
+    "special": "적 1명에게 아군의 남은 체력이 많을수록 [PSY] 큰 데미지를 주고, 적 전체의 공격을 1턴 지연시킨다",
+    "captain": "[PSY] 캐릭터의 공격력이 2배가 되고, 턴 종료 시에 공격력53배의 추가 데미지를 준다",
     "sailor": {
       "base": "의성어 은폐 상태를 3턴 회복한다",
       "level1": "Completely resists Blindness"
     },
+    "potential": [
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 2: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 3: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 4: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+          "Level 5: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 20"
@@ -56,27 +77,6 @@
         "description": "잠재능력 습득 2: Reduce No Healing duration"
       }
     ],
-    "potential": [
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 2: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 3: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 4: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 5: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
-        ]
-      },
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      }
-    ]
+    "specialNotes": "#{specialProportional : higher : 10x + (25x * (remaining HP) / (total HP)) }"
   }
 }

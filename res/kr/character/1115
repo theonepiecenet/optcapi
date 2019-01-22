@@ -1,16 +1,36 @@
 {
   "name": "몽키 D. 루피, 신념을 지키는 밀짚모자 일당",
   "detail": {
-    "special": "체력을 큰 폭으로 줄이고 적 전체에게 고정 데미지 + 1턴 동안 [STR] 캐릭터의 공격력이 2배가 된다",
     "specialName": "고무고무 거인의 도끼",
-    "specialNotes": "#{fixed}",
+    "special": "체력을 큰 폭으로 줄이고 적 전체에게 고정 데미지 + 1턴 동안 [STR] 캐릭터의 공격력이 2배가 된다",
     "captain": "[STR] 캐릭터의 공격력이 2.5배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK and HP of [STR] characters by 35",
       "level2": "Makes [TND] and [RCV] orbs “beneficial” for [STR] characters"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 2: 남은 체력이 25% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 3: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 4: 남은 체력이 40% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 5: 남은 체력이 40% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 40"
@@ -58,27 +78,7 @@
         "description": "잠재능력 습득 2: 긴급 회복"
       }
     ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 2: 남은 체력이 25% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 3: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 4: 남은 체력이 40% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 5: 남은 체력이 40% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
-        ]
-      }
-    ]
+    "specialNotes": "#{fixed}",
+    "sailorNotes": "#{beneficial}"
   }
 }

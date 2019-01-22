@@ -1,15 +1,36 @@
 {
   "name": "겟코 모리아, 마의 삼각지대의 지배자",
   "detail": {
-    "captain": "야심형 캐릭터의 공격력을 2.25배로 만들고 턴 종료 시 회복력x3배의 체력을 회복한다",
-    "special": "자신의 슬롯을 [DEX]로 바꾸고, 적 1명에게 고정 데미지 300,000을 준다",
     "specialName": "뿔도마뱀",
+    "special": "자신의 슬롯을 [DEX]로 바꾸고, 적 1명에게 고정 데미지 300,000을 준다",
+    "captain": "야심형 캐릭터의 공격력을 2.25배로 만들고 턴 종료 시 회복력x3배의 체력을 회복한다",
     "sailor": {
       "base": "None",
       "level1": "If your Captain is a Driven character, boosts own base ATK by 100",
       "level2": "Makes [STR] orbs “beneficial” for this character"
     },
-    "specialNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Double Special Activation",
+        "description": [
+          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 5: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: Double Special Activation"
       }
     ],
-    "potential": [
-      {
-        "Name": "[QCK] 데미지 피해 감소",
-        "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Double Special Activation",
-        "description": [
-          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
-          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 5: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
-        ]
-      }
-    ]
+    "specialNotes": "#{beneficial}"
   }
 }

@@ -1,10 +1,10 @@
 {
   "name": "후지토라",
   "detail": {
-    "captain": "슬롯 일치 시 야심형 캐릭터의 공격력을 3배, 평상시 1.5배, 체력을 1.5배로 만들고, 야심형은 [RCV][TND] 슬롯도 [유리] 슬롯으로 취급된다",
-    "captainNotes": "#{beneficial}",
+    "specialName": "중력도 「천락」",
     "special": "적 전체의 HP를 20% 줄이고, 3턴 동안 턴 종료 시 적 전체의 HP를 20% 줄인다",
+    "captain": "슬롯 일치 시 야심형 캐릭터의 공격력을 3배, 평상시 1.5배, 체력을 1.5배로 만들고, 야심형은 [RCV][TND] 슬롯도 [유리] 슬롯으로 취급된다",
     "specialNotes": "Does not stack with other 'end of turn damage' abilities",
-    "specialName": "중력도 「천락」"
+    "captainNotes": "#{beneficial}"
   }
 }

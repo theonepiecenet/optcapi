@@ -1,7 +1,6 @@
 {
   "name": "바이올렛",
   "detail": {
-    "captain": "베리의 획득량이 2배가 된다(모험 도중에 선장이 되면 효과 무효)",
     "specialName": "피핑 마인드",
     "special": [
       {
@@ -19,8 +18,9 @@
         ]
       }
     ],
-    "specialNotes": "Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on turns' and 'Effect after Death'<br>#{stages}",
+    "captain": "베리의 획득량이 2배가 된다(모험 도중에 선장이 되면 효과 무효)",
     "sailor": "자신의 필살기 턴 되돌리기를 1턴 회복한다",
+    "specialNotes": "Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on turns' and 'Effect after Death' #{stages}",
     "sailorNotes": "#{rewind : 1}"
   }
 }

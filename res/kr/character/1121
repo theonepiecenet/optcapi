@@ -1,16 +1,46 @@
 {
   "name": "몽키 D. 루피, 대해적시대에 대한 맹세 ‘해적왕’",
   "detail": {
-    "special": "적 전체에게 무속성의 데미지(대)를 주고, 자기 슬롯을 [STR]으로 바꾼다",
     "specialName": "고무고무 JET 총난타",
-    "specialNotes": "랜덤 데미지 : 70,00 ~ 200,000",
+    "special": "적 전체에게 무속성의 데미지(대)를 주고, 자기 슬롯을 [STR]으로 바꾼다",
     "captain": "GOOD→GREAT→PERFECT 순으로 공격하면 이후 캐릭터의 공격력이 4배",
     "sailor": {
       "base": "None",
       "level1": "일당은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다",
       "level2": "일당은 [TND] 슬롯도 [유리] 슬롯으로 취급한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
+          "Level 2: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
+          "Level 3: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
+          "Level 4: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
+          "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 100% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 5"
@@ -103,37 +133,7 @@
         "description": "잠재능력 습득 3: 크리티컬 공격"
       }
     ],
-    "potential": [
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
-          "Level 2: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
-          "Level 3: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
-          "Level 4: 남은 체력이 ?% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다",
-          "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 100% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
-        ]
-      }
-    ]
+    "specialNotes": "랜덤 데미지 : 70,00 ~ 200,000",
+    "sailorNotes": "#{beneficial}"
   }
 }

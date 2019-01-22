@@ -1,10 +1,7 @@
 {
   "name": "레오, 톤타타족 전사장",
   "detail": {
-    "captain": {
-      "base": "타격형과 자유형의 공격력을 2.25배, 회복력을 1.5배로 만든다",
-      "level1": "타격형과 자유형의 공격력을 2.45배, 회복력을 1.5배로 만든다"
-    },
+    "specialName": "오트 쿠튀르 패치★워크",
     "special": [
       {
         "description": "일당의 슬롯을 1턴 고정하고, 적 전체의 공격을 1턴 지연, 적 전체의 HP를 10% 줄인다",
@@ -21,13 +18,37 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
-    "specialName": "오트 쿠튀르 패치★워크",
+    "captain": {
+      "base": "타격형과 자유형의 공격력을 2.25배, 회복력을 1.5배로 만든다",
+      "level1": "타격형과 자유형의 공격력을 2.45배, 회복력을 1.5배로 만든다"
+    },
     "sailor": {
       "base": "None",
       "level1": "Boosts ATK of Striker characters by 30",
       "level2": "자신이 [DEX] 속성에게 주는 일반 공격에 의한 데미지가 2배가 된다"
     },
+    "potential": [
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
+          "Level 2: 전투 시작 시 체력이 15% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
+          "Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
+          "Level 4: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
+          "Level 5: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다."
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 캐릭터의 봉인상태를 1턴 감소시킨다.",
+          "Level 2: 캐릭터의 봉인상태를 2턴 감소시킨다.",
+          "Level 3: 캐릭터의 봉인상태를 3턴 감소시킨다.",
+          "Level 4: 캐릭터의 봉인상태를 4턴 감소시킨다.",
+          "Level 5: 캐릭터의 봉인상태를 5턴 감소시킨다."
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 20"
@@ -75,25 +96,16 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
+    "specialNotes": "#{stages}",
+    "support": [
       {
-        "Name": "긴급 회복",
+        "Characters": "Usopp, Robin and Mansherry",
         "description": [
-          "Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
-          "Level 2: 전투 시작 시 체력이 15% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
-          "Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
-          "Level 4: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 0.5배 만큼 체력을 회복한다.",
-          "Level 5: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다."
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 캐릭터의 봉인상태를 1턴 감소시킨다.",
-          "Level 2: 캐릭터의 봉인상태를 2턴 감소시킨다.",
-          "Level 3: 캐릭터의 봉인상태를 3턴 감소시킨다.",
-          "Level 4: 캐릭터의 봉인상태를 4턴 감소시킨다.",
-          "Level 5: 캐릭터의 봉인상태를 5턴 감소시킨다."
+          "Level 1: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
         ]
       }
     ]

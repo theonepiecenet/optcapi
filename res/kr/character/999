@@ -1,14 +1,35 @@
 {
   "name": "디아만테, 돈키호테 해적단",
   "detail": {
-    "captain": "Boosts ATK of Driven characters by 2.25x and reduces cooldown of all specials by 2 turns at the start of the fight",
     "specialName": "Hira Release: Death Enjambre",
     "special": "Delays all enemies for 2 turns, deals 50x character's ATK as typeless damage to all enemies at the end of the turn for 5 turns",
+    "captain": "Boosts ATK of Driven characters by 2.25x and reduces cooldown of all specials by 2 turns at the start of the fight",
     "sailor": {
       "base": "None",
       "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 40"
@@ -56,27 +77,6 @@
         "description": "잠재능력 습득 2: [DEX] 데미지 피해 감소"
       }
     ],
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      }
-    ]
+    "sailorNotes": "#{beneficial}"
   }
 }

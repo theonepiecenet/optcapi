@@ -1,8 +1,7 @@
 {
   "name": "마르코, 흰 수염 해적단",
   "detail": {
-    "captain": "강인형 캐릭터의 공격력을 1.5배로 만들고, 일당의 강인형 캐릭터 수에 따라 턴 종료 시 체력을 회복한다",
-    "captainNotes": "1x 강인형: .5x RCV | 2x 강인형: .75x RCV | 3x 강인형: 1x RCV | 4x 강인형: 1.5x RCV | 5x 강인형: 2x RCV | 6x 강인형: 3.5x RCV",
+    "specialName": "열화의 선진",
     "special": [
       {
         "description": "슬롯을 랜덤으로 바꾸고 강인형 캐릭터의 공격력을 1턴 동안 1.5배로 만든다",
@@ -19,7 +18,8 @@
         ]
       }
     ],
+    "captain": "강인형 캐릭터의 공격력을 1.5배로 만들고, 일당의 강인형 캐릭터 수에 따라 턴 종료 시 체력을 회복한다",
     "specialNotes": "#{stages}",
-    "specialName": "열화의 선진"
+    "captainNotes": "1x 강인형: .5x RCV | 2x 강인형: .75x RCV | 3x 강인형: 1x RCV | 4x 강인형: 1.5x RCV | 5x 강인형: 2x RCV | 6x 강인형: 3.5x RCV"
   }
 }

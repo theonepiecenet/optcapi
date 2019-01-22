@@ -1,18 +1,38 @@
 {
   "name": "돈 칭자오, 꽃의 나라의 갱",
   "detail": {
+    "specialName": "Eight-Impact Fist! Blow of Resentment",
+    "special": "Amplifies the effect of orbs for 2 turn, the exact multiplier changes depending on the current HP at the time the special was activated. ",
     "captain": {
       "base": "Boosts ATK of Powerhouse characters by 2x and boosts the HP of Striker characters by 2x",
       "level1": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Powerhouse characters by 2.25x and boosts the HP of Striker characters by 2x"
     },
-    "captainNotes": "A character with both classes will get both boosts",
-    "special": "Amplifies the effect of orbs for 2 turn, the exact multiplier changes depending on the current HP at the time the special was activated. ",
-    "specialNotes": "Below 30% -> 1.75x orb boost, between 30% and 70% -> 1.5x, above 70% -> 1.25x",
-    "specialName": "Eight-Impact Fist! Blow of Resentment",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK and HP of 강인형 and Striker characters by 50"
     },
+    "potential": [
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : 60",
+          "Level 3: 공격력 상승 : 90",
+          "Level 4: 공격력 상승 : 100",
+          "Level 5: 공격력 상승 : 150"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 50"
@@ -60,28 +80,8 @@
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 30",
-          "Level 2: 공격력 상승 : 60",
-          "Level 3: 공격력 상승 : 90",
-          "Level 4: 공격력 상승 : 100",
-          "Level 5: 공격력 상승 : 150"
-        ]
-      }
-    ],
+    "specialNotes": "Below 30% -> 1.75x orb boost, between 30% and 70% -> 1.5x, above 70% -> 1.25x",
+    "captainNotes": "A character with both classes will get both boosts",
     "potentialNotes": "#{enrage}"
   }
 }

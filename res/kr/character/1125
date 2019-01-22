@@ -1,16 +1,36 @@
 {
   "name": "목 베는 술레이만",
   "detail": {
-    "captain": "참격형 캐릭터의 공격력을 3배로 만들고 턴이 경과할 때마다 공격력이 감소한다",
-    "captainNotes": "His ATK multiplier will be 3.5x on the first turn, 3.4x on the second, 3.3x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Slasher characters.",
-    "special": "적 전체에 캐릭터의 공격력x13배의 [PSY] 데미지를 주고, 자신과 선장의 슬롯을 속성이 일치하는 슬롯으로 바꾼다",
     "specialName": "귀찮음의 단죄",
+    "special": "적 전체에 캐릭터의 공격력x13배의 [PSY] 데미지를 주고, 자신과 선장의 슬롯을 속성이 일치하는 슬롯으로 바꾼다",
+    "captain": "참격형 캐릭터의 공격력을 3배로 만들고 턴이 경과할 때마다 공격력이 감소한다",
     "sailor": {
       "base": "None",
       "level1": "참격형 캐릭터의 기본 공격력이 60 상승한다",
       "level2": "Makes [PSY] orbs “beneficial” for Slasher characters"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : ??"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -58,28 +78,8 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 30",
-          "Level 2: 공격력 상승 : ??",
-          "Level 3: 공격력 상승 : ??",
-          "Level 4: 공격력 상승 : ??",
-          "Level 5: 공격력 상승 : ??"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
-        ]
-      }
-    ],
+    "captainNotes": "His ATK multiplier will be 3.5x on the first turn, 3.4x on the second, 3.3x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Slasher characters.",
+    "sailorNotes": "#{beneficial}",
     "potentialNotes": "#{enrage}"
   }
 }

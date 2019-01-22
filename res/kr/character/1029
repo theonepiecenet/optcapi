@@ -1,16 +1,36 @@
 {
   "name": "펑크 형제, 모가로 왕국의 킬러",
   "detail": {
-    "captain": "1턴 내에 준 콤보 수 21 이상부터 약 2.5배, 36 이상부터 약 3.5배로 공격력을 상승시킨다",
     "specialName": "라라라람보",
     "special": "적 전체에 [DEX] 랜덤 데미지를 주고, 3턴 동안 1턴 내에 준 콤보 수가 30 이상일 때부터 일당의 공격력이 1.75배가 된다",
-    "specialNotes": "Buffalo's Captain as a Special essentially",
+    "captain": "1턴 내에 준 콤보 수 21 이상부터 약 2.5배, 36 이상부터 약 3.5배로 공격력을 상승시킨다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Fighter characters by 50",
       "level2": "Makes [DEX] orbs “beneficial” for Fighter characters"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turns at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 5"
@@ -58,27 +78,7 @@
         "description": "잠재능력 습득 2: Cooldown Reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "[QCK] 데미지 피해 감소",
-        "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turns at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turns at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turns at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turns at the start of the fight"
-        ]
-      }
-    ]
+    "specialNotes": "Buffalo's Captain as a Special essentially",
+    "sailorNotes": "#{beneficial}"
   }
 }

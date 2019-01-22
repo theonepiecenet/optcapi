@@ -1,15 +1,35 @@
 {
   "name": "비의 시류",
   "detail": {
-    "captain": "참격형 캐릭터의 공격력과 체력이 2배가 된다",
+    "specialName": "지옥의 심판",
     "special": "적 전체의 각각의 대상을 일정 확률로 격파한다",
-    "specialNotes": "#{instantKill : 25%}",
+    "captain": "참격형 캐릭터의 공격력과 체력이 2배가 된다",
     "sailor": {
       "base": "자신은 필살기 봉쇄 상태를 완전히 회피한다",
       "level1": "Boosts base ATK, HP and RCV of all characters by 50"
     },
-    "sailorNotes": "#{silence}",
-    "specialName": "지옥의 심판",
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -57,25 +77,17 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "potential": [
+    "specialNotes": "#{instantKill : 25%}",
+    "sailorNotes": "#{silence}",
+    "support": [
       {
-        "Name": "[PSY] 데미지 피해 감소",
+        "Characters": "Blackbeard, Burgess, Laffitte, Van Augur and Doc Q",
         "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+          "Level 1: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 9% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 11% of this character's base ATK to the supported character's base ATK"
         ]
       }
     ]

@@ -1,7 +1,6 @@
 {
   "name": "바이올렛, 돈키호테 해적단",
   "detail": {
-    "captain": "베리의 획득량이 3배가 된다(모험 도중에 선장이 되면 효과 무효)",
     "specialName": "피핑 마인드",
     "special": [
       {
@@ -19,12 +18,33 @@
         ]
       }
     ],
-    "specialNotes": "Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on 턴', and 'Effect after Death'<br>#{stages}",
+    "captain": "베리의 획득량이 3배가 된다(모험 도중에 선장이 되면 효과 무효)",
     "sailor": {
       "base": "자신의 필살기 턴 되돌리기를 1턴 회복한다",
       "level1": "자신의 필살기 봉쇄 상태를 2턴 회복한다"
     },
-    "sailorNotes": "#{rewind : 1}",
+    "potential": [
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 3 turns at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -72,27 +92,7 @@
         "description": "잠재능력 습득 2: Cooldown Reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 3 turns at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
-        ]
-      }
-    ]
+    "specialNotes": "Status includes Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on 턴', and 'Effect after Death' #{stages}",
+    "sailorNotes": "#{rewind : 1}"
   }
 }

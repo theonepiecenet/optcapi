@@ -1,10 +1,9 @@
 {
   "name": "메이너드, 해군본부 중장",
   "detail": {
-    "captain": "[PSY] 캐릭터의 공격력이 1.75배가 되고, 턴 종료 시에 공격력x3배의 추가 데미지를 준다",
-    "special": "적 1명에게 아군의 남은 체력이 많을수록 [PSY] 큰 데미지를 주고, 적 전체의 공격을 1턴 지연시킨다",
-    "specialNotes": "#{specialProportional : higher : 10x + (25x * (remaining HP) / (total HP)) }",
     "specialName": "묵비의 검",
+    "special": "적 1명에게 아군의 남은 체력이 많을수록 [PSY] 큰 데미지를 주고, 적 전체의 공격을 1턴 지연시킨다",
+    "captain": "[PSY] 캐릭터의 공격력이 1.75배가 되고, 턴 종료 시에 공격력x3배의 추가 데미지를 준다",
     "sailor": "의성어 은폐 상태를 3턴 회복한다",
     "potential": [
       {
@@ -27,6 +26,7 @@
           "Level 5: Reduces No Healing duration by ? turns"
         ]
       }
-    ]
+    ],
+    "specialNotes": "#{specialProportional : higher : 10x + (25x * (remaining HP) / (total HP)) }"
   }
 }

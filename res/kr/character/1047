@@ -1,16 +1,36 @@
 {
   "name": "사보, 혁명군 참모총장",
   "detail": {
-    "captain": "GOOD→GREAT→PERFECT 순으로 공격 성공한 후부터 자유형의 공격력이 3.5배가 된다",
     "specialName": "「용조권」 용의 숨결",
     "special": "적 전체에 무 속성 랜덤 데미지를 주고, 2턴 동안 GOOD, GREAT, PERFECT 공격 시 필살기를 사용한 캐릭터의 공격력×55배의 무 속성 데미지를 가산한다",
-    "specialNotes": "#{random : 10,000 : 30,000} <br> #{additionalDamage : 55x}",
+    "captain": "GOOD→GREAT→PERFECT 순으로 공격 성공한 후부터 자유형의 공격력이 3.5배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Makes [PSY] orbs “beneficial” for Free Spirit and Fighter characters",
       "level2": "Adds 2x character's ATK as Additional Typeless Damage"
     },
-    "sailorNotes": "#{additionalDamage : 2x}",
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      },
+      {
+        "Name": "긴급 회복",
+        "description": [
+          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+          "Level 4: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+          "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -58,28 +78,20 @@
         "description": "잠재능력 습득 2: 긴급 회복"
       }
     ],
-    "potential": [
+    "specialNotes": "#{random : 10,000 : 30,000}  #{additionalDamage : 55x}",
+    "sailorNotes": "#{additionalDamage : 2x}",
+    "potentialNotes": "#{enrage}",
+    "support": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Characters": "Hack, Koala, Ivankov, Inazuma and Kuma",
         "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 4: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다"
+          "Level 1: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 9% of this character's base ATK to the supported character's base ATK"
         ]
       }
-    ],
-    "potentialNotes": "#{enrage}"
+    ]
   }
 }

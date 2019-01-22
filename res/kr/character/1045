@@ -1,14 +1,7 @@
 {
   "name": "트라팔가 로, 왕의 부하 칠무해",
   "detail": {
-    "captain": "참격형과 자유형의 공격력을 2배로 만들고 PERFECT를 3연속, 5연속 달성 시, 이후 같은 타입의 공격력이 3배, 4배로 상승한다",
     "specialName": "감마 나이프",
-    "sailor": {
-      "base": "None",
-      "level1": "When HP is below 10% at the start of the turn, boosts base RCV of 참격형 and Free Spirit characters by 300",
-      "level2": "Makes [INT], [RCV] and [TND] orbs “beneficial” for this character"
-    },
-    "sailorNotes": "#{beneficial}",
     "special": [
       {
         "description": "1턴 동안 참격형과 자유형의 필살기 데미지·적 HP 감소 필살기가 모든 방어 효과를 무시하고, 1명에게 [PSY] 데미지를 준다",
@@ -25,7 +18,44 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
+    "captain": "참격형과 자유형의 공격력을 2배로 만들고 PERFECT를 3연속, 5연속 달성 시, 이후 같은 타입의 공격력이 3배, 4배로 상승한다",
+    "sailor": {
+      "base": "None",
+      "level1": "When HP is below 10% at the start of the turn, boosts base RCV of 참격형 and Free Spirit characters by 300",
+      "level2": "Makes [INT], [RCV] and [TND] orbs “beneficial” for this character"
+    },
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 90% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 5"
@@ -118,37 +148,7 @@
         "description": "잠재능력 습득 3: 크리티컬 공격"
       }
     ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 80% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 90% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
-        ]
-      }
-    ]
+    "specialNotes": "#{stages}",
+    "sailorNotes": "#{beneficial}"
   }
 }

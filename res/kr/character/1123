@@ -1,16 +1,46 @@
 {
   "name": "백마의 캐번디시",
   "detail": {
-    "captain": "[STR][DEX][QCK] 속성 캐릭터의 공격력이 2.5배, 자신의 공격력을 4배로 만든다",
-    "captainNotes": "Cavendish only boosts Friend or Sub Cavendish by 2.5x for a total of 10x boost with two Cavendish captains",
-    "special": "적 전체에 무 속성의 큰 데미지를 주고 일당에게 걸려있는 유리한 효과를 모두 없애며, 2턴 동안 자신에게만 여러 가지 유리한 효과가 발동된다",
-    "specialNotes": "Boosted ATK and Orb Effectiveness only works for the character who uses their own Special.",
     "specialName": "휘몰아치는 롬멜의 칼바람",
+    "special": "적 전체에 무 속성의 큰 데미지를 주고 일당에게 걸려있는 유리한 효과를 모두 없애며, 2턴 동안 자신에게만 여러 가지 유리한 효과가 발동된다",
+    "captain": "[STR][DEX][QCK] 속성 캐릭터의 공격력이 2.5배, 자신의 공격력을 4배로 만든다",
     "sailor": {
       "base": "None",
       "level1": "If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn",
       "level2": "Boosts own base ATK by 200 if this character is the last in the chain to attack"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : ?",
+          "Level 3: 공격력 상승 : ?",
+          "Level 4: 공격력 상승 : ?",
+          "Level 5: 공격력 상승 : ?"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 5"
@@ -103,38 +133,8 @@
         "description": "잠재능력 습득 3: 크리티컬 공격"
       }
     ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 30",
-          "Level 2: 공격력 상승 : ?",
-          "Level 3: 공격력 상승 : ?",
-          "Level 4: 공격력 상승 : ?",
-          "Level 5: 공격력 상승 : ?"
-        ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ?% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
-        ]
-      }
-    ],
+    "specialNotes": "Boosted ATK and Orb Effectiveness only works for the character who uses their own Special.",
+    "captainNotes": "Cavendish only boosts Friend or Sub Cavendish by 2.5x for a total of 10x boost with two Cavendish captains",
     "potentialNotes": "#{enrage}"
   }
 }

@@ -1,8 +1,7 @@
 {
   "name": "작은 질풍의 검사 할타",
   "detail": {
-    "captain": "참격형과 박식형의 공격력을 1.75배로 만들고 일정 확률로 모험에서 획득한 보물이 한 개 추가된다(보물 추가 효과는 모험 도중에 선장이 되면 발동되지 않습니다)",
-    "captainNotes": "Does not work if he was not your captain upon starting the island. Stacks with other additional drop captains, giving you two chances of getting an extra drop.",
+    "specialName": "신속한 일검류 십자베기",
     "special": [
       {
         "description": "적 전체에 공격력x4배의 [INT] 데미지를 주고, 자신의 슬롯을 [INT]로 바꾼다",
@@ -19,13 +18,33 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
-    "specialName": "신속한 일검류 십자베기",
+    "captain": "참격형과 박식형의 공격력을 1.75배로 만들고 일정 확률로 모험에서 획득한 보물이 한 개 추가된다(보물 추가 효과는 모험 도중에 선장이 되면 발동되지 않습니다)",
     "sailor": {
       "base": "자신의 필살기 턴 되돌리기를 1턴 회복한다",
       "level1": "If this character has an [INT] orb and you hit a PERFECT with him, keep his [INT] orb for the next turn"
     },
-    "sailorNotes": "#{rewind : 1}",
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : ??"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -73,28 +92,21 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "potential": [
+    "specialNotes": "#{stages}",
+    "captainNotes": "Does not work if he was not your captain upon starting the island. Stacks with other additional drop captains, giving you two chances of getting an extra drop.",
+    "sailorNotes": "#{rewind : 1}",
+    "potentialNotes": "#{enrage}",
+    "support": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Characters": "Cerebral Characters",
         "description": [
-          "Level 1: 공격력 상승 : 30",
-          "Level 2: 공격력 상승 : ??",
-          "Level 3: 공격력 상승 : ??",
-          "Level 4: 공격력 상승 : ??",
-          "Level 5: 공격력 상승 : ??"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+          "Level 1: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 4% of this character's base ATK to the supported character's base ATK"
         ]
       }
-    ],
-    "potentialNotes": "#{enrage}"
+    ]
   }
 }

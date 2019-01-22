@@ -1,16 +1,38 @@
 {
   "name": "글라디우스, 돈키호테 해적단",
   "detail": {
+    "specialName": "펑크 록 「페스티벌」",
+    "special": "적 전체의 HP를 20% 줄이고, 자신의 슬롯을 [QCK]으로 바꾼다",
     "captain": {
       "base": "[QCK] 캐릭터의 공격력을 2.5배로 만든다",
       "level1": "[QCK] 캐릭터의 공격력을 2.75배로 만든다"
     },
-    "specialName": "펑크 록 「페스티벌」",
-    "special": "적 전체의 HP를 20% 줄이고, 자신의 슬롯을 [QCK]으로 바꾼다",
     "sailor": {
       "base": "None",
       "level1": "[QCK] 속성의 기본 능력치가 30 상승한다"
     },
+    "potential": [
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -56,28 +78,6 @@
       },
       {
         "description": "잠재능력 습득 2: 배리어 관통"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 3: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
       }
     ]
   }

@@ -1,8 +1,7 @@
 {
   "name": "반디 월드",
   "detail": {
-    "captain": "이전 턴에 적을 1명이라도 격파하면 사격형의 공격력 배율이 상승한다(최대 10턴으로 공격력 3배)",
-    "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
+    "specialName": "모아모아 10배속 「철퇴」",
     "special": [
       {
         "description": "체력이 50% 감소하는 대신 적 1명에게 공격력x7배의 [INT] 데미지를 주고, 1턴 동안 사격형의 공격력이 1.2배가 된다",
@@ -26,7 +25,8 @@
         ]
       }
     ],
+    "captain": "이전 턴에 적을 1명이라도 격파하면 사격형의 공격력 배율이 상승한다(최대 10턴으로 공격력 3배)",
     "specialNotes": "#{stages}",
-    "specialName": "모아모아 10배속 「철퇴」"
+    "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks."
   }
 }

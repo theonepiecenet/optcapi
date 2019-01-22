@@ -1,15 +1,46 @@
 {
   "name": "돈키호테 로시난테",
   "detail": {
-    "captain": "공격 시작 전 남은 체력이 많을수록 일당의 공격력이 높아지며 턴 종료 시, GREAT 1회당 캐릭터의 회복력x0.5배, GOOD 1회당 캐릭터의 회복력x1.5배의 체력을 회복한다",
-    "captainNotes": "#{captainProportional : higher : 1 + 1 * (remaining HP) / (total HP) : 2 : 1 }",
-    "special": "캐릭터의 회복력x25배의 체력을 회복하고, 봉쇄ㆍ선장효과 무효 상태를 3턴 회복한다",
     "specialName": "사랑의 새크리파이스",
+    "special": "캐릭터의 회복력x25배의 체력을 회복하고, 봉쇄ㆍ선장효과 무효 상태를 3턴 회복한다",
+    "captain": "공격 시작 전 남은 체력이 많을수록 일당의 공격력이 높아지며 턴 종료 시, GREAT 1회당 캐릭터의 회복력x0.5배, GOOD 1회당 캐릭터의 회복력x1.5배의 체력을 회복한다",
     "sailor": {
       "base": "None",
       "level1": "Reduces Paralysis duration by 1 turn",
       "level2": "Reduces Silence duration by 1 turn"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : 75",
+          "Level 3: 공격력 상승 : 100",
+          "Level 4: 공격력 상승 : 150",
+          "Level 5: 공격력 상승 : 200"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 5 turns",
+          "Level 5: Reduces No Healing duration by 7 turns"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 5"
@@ -102,38 +133,7 @@
         "description": "잠재능력 습득 3: Cooldown Reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turn",
-          "Level 3: Reduces No Healing duration by 3 turn",
-          "Level 4: Reduces No Healing duration by 5 turns",
-          "Level 5: Reduces No Healing duration by 7 turns"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
-        ]
-      }
-    ],
+    "captainNotes": "#{captainProportional : higher : 1 + 1 * (remaining HP) / (total HP) : 2 : 1 }",
     "potentialNotes": "#{enrage}"
   }
 }

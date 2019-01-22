@@ -1,9 +1,83 @@
 {
   "name": "맹공의 리틀 오즈 Jr., 흰 수염 해적단 산하",
   "detail": {
-    "captain": "참격형의 공격력을 2배, 강인형의 체력을 1.75배로 만든다",
+    "specialName": "정상의 파쇄",
     "special": "적 1명에게 공격력x25배의 [STR] 데미지를 주고, 1턴 동안 [STR] 슬롯을 [유리] 슬롯으로 취급한다",
+    "captain": "참격형의 공격력을 2배, 강인형의 체력을 1.75배로 만든다",
     "specialNotes": "#{beneficial}",
-    "specialName": "정상의 파쇄"
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK of Slasher and Powerhouse characters by 50",
+      "level2": "If this character has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next turn"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of Slasher and Powerhouse characters by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 8 turns"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: If this character has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 130"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by 1%",
+          "Level 2: Reduce damage taken from [DEX] characters by ?%",
+          "Level 3: Reduce damage taken from [DEX] characters by ?%",
+          "Level 4: Reduce damage taken from [DEX] characters by ?%",
+          "Level 5: Reduce damage taken from [DEX] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ]
   }
 }

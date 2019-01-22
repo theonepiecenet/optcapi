@@ -1,15 +1,36 @@
 {
   "name": "아카이누, 마그마 인간",
   "detail": {
-    "captain": "속성 [STR]→[STR]→[STR] 캐릭터 순으로 GOOD 이상 공격 시 이후 캐릭터의 공격력이 3배가 된다",
-    "special": "적 전체에게 공격력x50배의 [STR] 데미지를 주고, [STR] 캐릭터의 슬롯을 [STR] 으로 바꾸고, 1턴 동안 [STR] 의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
-    "specialNotes": "#{colorAffinity : 1.75}",
     "specialName": "대분화",
+    "special": "적 전체에게 공격력x50배의 [STR] 데미지를 주고, [STR] 캐릭터의 슬롯을 [STR] 으로 바꾸고, 1턴 동안 [STR] 의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
+    "captain": "속성 [STR]→[STR]→[STR] 캐릭터 순으로 GOOD 이상 공격 시 이후 캐릭터의 공격력이 3배가 된다",
     "sailor": {
       "base": "None",
       "level1": "Boosts base HP of [STR] characters by 100",
       "level2": "[STR] 속성의 기본 공격력이 75 상승한다"
     },
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
-        ]
-      }
-    ]
+    "specialNotes": "#{colorAffinity : 1.75}"
   }
 }

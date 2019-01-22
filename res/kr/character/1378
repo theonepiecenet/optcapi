@@ -4,6 +4,75 @@
     "specialName": "성심성의의 헌신",
     "special": "캐릭터의 회복력x18배의 체력을 회복하고, 1턴 동안 받는 데미지를 50% 감소시킨다",
     "captain": "참격형과 사격형의 공격력과 회복력을 1.75배로 만든다",
-    "sailor": "[RCV]를 습득할 경우 추가로 체력을 125 회복한다"
+    "sailor": "[RCV]를 습득할 경우 추가로 체력을 125 회복한다",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Changes all orbs into [RCV] orbs at the start of the fight"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by ?%",
+          "Level 2: Reduce damage taken from [QCK] characters by ?%",
+          "Level 3: Reduce damage taken from [QCK] characters by ?%",
+          "Level 4: Reduce damage taken from [QCK] characters by ?%",
+          "Level 5: Reduce damage taken from [QCK] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ]
   }
 }

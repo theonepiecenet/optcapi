@@ -1,13 +1,35 @@
 {
   "name": "브룩, 신념을 지키는 밀짚모자 일당",
   "detail": {
-    "special": "Deals random [PSY] damage to all enemies, randomizes all orbs",
     "specialName": "Three-Verse Humming: Arrow-Notch Slash",
+    "special": "Deals random [PSY] damage to all enemies, randomizes all orbs",
     "captain": "Boosts ATK of [PSY] characters by 2x, reduces damage received from [INT] enemies by 30%",
     "sailor": {
       "base": "Boosts base RCV of [PSY] characters by 15",
       "level1": "If this character has a [PSY] orb and you hit a PERFECT with him, keep his [PSY] orb for the next turn"
     },
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "필살기 턴 수 단축: 1"
@@ -53,28 +75,6 @@
       },
       {
         "description": "잠재능력 습득 2: 크리티컬 공격"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
-        ]
       }
     ]
   }

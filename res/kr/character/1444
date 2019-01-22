@@ -1,83 +1,95 @@
 {
-    "name": "도슨, 어인가의 망령",
-    "detail": {
-        "specialName": "파파라추",
-        "special": "[RCV][TND][BOMB][BLOCK][EMPTY] 슬롯을 속성 슬롯으로 랜덤하게 바꾸고, 1턴 동안 강인형 캐릭터의 공격력과 슬롯의 영향을 증폭시킨다",
-        "captain": "GOOD→GREAT→PERFECT 순으로 공격하면 이후부터 강인형 캐릭터의 공격력이 3.25배가 된다",
-        "sailor": {
-            "base": "일당의 기본 체력이 150 상승하고, 강인형 6명으로 편성 시, 일당의 기본 공격력이 50 상승한다",
-            "level1": "자신은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다"
-        },
-        "potential": [
-            {
-                "Name": "피격 시 공격력 상승",
-                "description": [
-                    "Level 1: 공격력 상승 : 20",
-                    "Level 2: 공격력 상승 : ??",
-                    "Level 3: 공격력 상승 : ??",
-                    "Level 4: 공격력 상승 : ??",
-                    "Level 5: 공격력 상승 : ??"
-                ]
-            },
-            {
-                "Name": "회복 무효 내성",
-                "description": [
-                    "Level 1: Reduces No Healing duration by 1 turn",
-                    "Level 2: Reduces No Healing duration by ? turns",
-                    "Level 3: Reduces No Healing duration by ? turns",
-                    "Level 4: Reduces No Healing duration by ? turns",
-                    "Level 5: Reduces No Healing duration by ? turns"
-                ]
-            }
-        ],
-        "limit": [
-            {
-                "description": "공격력 상승 : 10"
-            },
-            {
-                "description": "공격력 상승 : 20"
-            },
-            {
-                "description": "회복력 상승 : 10"
-            },
-            {
-                "description": "잠재능력 습득 1: 피격 시 공격력 상승"
-            },
-            {
-                "description": "회복력 상승 : 20"
-            },
-            {
-                "description": "체력 상승 : 50"
-            },
-            {
-                "description": "공격력 상승 : 30"
-            },
-            {
-                "description": "회복력 상승 : 30"
-            },
-            {
-                "description": "필살기 턴 수 단축: 1"
-            },
-            {
-                "description": "필살기 턴 수 단축: 1"
-            },
-            {
-                "description": "잠재능력 소켓슬롯 추가 : 1"
-            },
-            {
-                "description": "체력 상승 : 90"
-            },
-            {
-                "description": "공격력 상승 : 50"
-            },
-            {
-                "description": "선원 효과 추가 1: 자신은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다"
-            },
-            {
-                "description": "잠재능력 습득 2: 회복 무효 내성"
-            }
-        ],
-        "sailorNotes": "#{beneficial}",
-        "potentialNotes": "#{enrage}"
-    }
+  "name": "도슨, 어인가의 망령",
+  "detail": {
+    "specialName": "파파라추",
+    "special": "[RCV][TND][BOMB][BLOCK][EMPTY] 슬롯을 속성 슬롯으로 랜덤하게 바꾸고, 1턴 동안 강인형 캐릭터의 공격력과 슬롯의 영향을 증폭시킨다",
+    "captain": "GOOD→GREAT→PERFECT 순으로 공격하면 이후부터 강인형 캐릭터의 공격력이 3.25배가 된다",
+    "sailor": {
+      "base": "일당의 기본 체력이 150 상승하고, 강인형 6명으로 편성 시, 일당의 기본 공격력이 50 상승한다",
+      "level1": "자신은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다"
+    },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : ??"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turns",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ],
+    "limit": [
+      {
+        "description": "공격력 상승 : 10"
+      },
+      {
+        "description": "공격력 상승 : 20"
+      },
+      {
+        "description": "회복력 상승 : 10"
+      },
+      {
+        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+      },
+      {
+        "description": "회복력 상승 : 20"
+      },
+      {
+        "description": "체력 상승 : 50"
+      },
+      {
+        "description": "공격력 상승 : 30"
+      },
+      {
+        "description": "회복력 상승 : 30"
+      },
+      {
+        "description": "필살기 턴 수 단축: 1"
+      },
+      {
+        "description": "필살기 턴 수 단축: 1"
+      },
+      {
+        "description": "잠재능력 소켓슬롯 추가 : 1"
+      },
+      {
+        "description": "체력 상승 : 90"
+      },
+      {
+        "description": "공격력 상승 : 50"
+      },
+      {
+        "description": "선원 효과 추가 1: 자신은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다"
+      },
+      {
+        "description": "잠재능력 습득 2: 회복 무효 내성"
+      }
+    ],
+    "sailorNotes": "#{beneficial}",
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Hody Jones, Hyouzou, Ikaros, Daruma and Zeo",
+        "description": [
+          "Level 1: Adds 6% of this character's base HP to the supported character's base HP",
+          "Level 2: Adds 7% of this character's base HP to the supported character's base HP",
+          "Level 3: Adds 9% of this character's base HP to the supported character's base HP",
+          "Level 4: Adds 12% of this character's base HP to the supported character's base HP",
+          "Level 5: Adds 15% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
+  }
 }

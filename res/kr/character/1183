@@ -1,10 +1,10 @@
 {
   "name": "킹듀",
   "detail": {
-    "captain": "[PSY] 캐릭터의 공격력을 2.5배로 만든다",
-    "special": "일당 모두의 [PSY] 슬롯을 소비하고, 적 1명에게 소비한 슬롯 수에 따라 증폭되는 [PSY] 데미지를 준다",
-    "specialNotes": "The exact multiplier used is chosen based on the number of [PSY] orbs consumed: 1 orb will give a 13x multiplier, 2 orbs 19x, 3 orbs 26x, 4 orbs 65x, 5 orbs 130x, 6 orbs 230x. It's not possible to activate the special without consuming at least one [PSY] orb.",
     "specialName": "격멸의 브래스 너클",
-    "sailor": "공격 시작 전에 체력이 가득 차 있으면 [PSY] 캐릭터의 기본 공격력이 75 상승한다"
+    "special": "일당 모두의 [PSY] 슬롯을 소비하고, 적 1명에게 소비한 슬롯 수에 따라 증폭되는 [PSY] 데미지를 준다",
+    "captain": "[PSY] 캐릭터의 공격력을 2.5배로 만든다",
+    "sailor": "공격 시작 전에 체력이 가득 차 있으면 [PSY] 캐릭터의 기본 공격력이 75 상승한다",
+    "specialNotes": "The exact multiplier used is chosen based on the number of [PSY] orbs consumed: 1 orb will give a 13x multiplier, 2 orbs 19x, 3 orbs 26x, 4 orbs 65x, 5 orbs 130x, 6 orbs 230x. It's not possible to activate the special without consuming at least one [PSY] orb."
   }
 }

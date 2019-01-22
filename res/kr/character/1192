@@ -1,16 +1,46 @@
 {
   "name": "쿠잔",
   "detail": {
-    "captain": "Boosts ATK of all characters by 2x and their HP by 1.2x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 8 times to a maximum of 3.5x.",
-    "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
-    "special": "Increases duration of any Class/Type boosting buffs and Orb Amplification buffs by 1 turn",
     "specialName": "Ice Age",
+    "special": "Increases duration of any Class/Type boosting buffs and Orb Amplification buffs by 1 turn",
+    "captain": "Boosts ATK of all characters by 2x and their HP by 1.2x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 8 times to a maximum of 3.5x.",
     "sailor": {
       "base": "None",
       "level1": "Makes [QCK] orbs “beneficial” for Striker and Shooter characters",
       "level2": "If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[STR] 데미지 피해 감소",
+        "description": [
+          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "배리어 관통",
+        "description": [
+          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 5"
@@ -103,37 +133,7 @@
         "description": "잠재능력 습득 3: 배리어 관통"
       }
     ],
-    "potential": [
-      {
-        "Name": "[STR] 데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers"
-        ]
-      }
-    ]
+    "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
+    "sailorNotes": "#{beneficial}"
   }
 }

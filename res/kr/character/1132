@@ -1,24 +1,24 @@
 {
-    "name": "이데오",
-    "detail": {
-        "captain": "격투형 캐릭터의 공격력과 체력을 1.5배로 만든다",
-        "special": [
-            {
-                "description": "적 전체에 [QCK] 큰 데미지를 주고 1턴 동안 격투형 캐릭터의 공격력을 1.5배로 만든다",
-                "cooldown": [
-                    18,
-                    12
-                ]
-            },
-            {
-                "description": "적 전체에 [QCK] 특대 데미지를 주고 1턴 동안 격투형과 사격형 캐릭터의 공격력을 1.75배로 만든다",
-                "cooldown": [
-                    23,
-                    17
-                ]
-            }
-        ],
-        "specialNotes": "#{stages}",
-        "specialName": "파괴포"
-    }
+  "name": "이데오",
+  "detail": {
+    "specialName": "파괴포",
+    "special": [
+      {
+        "description": "적 전체에 [QCK] 큰 데미지를 주고 1턴 동안 격투형 캐릭터의 공격력을 1.5배로 만든다",
+        "cooldown": [
+          18,
+          12
+        ]
+      },
+      {
+        "description": "적 전체에 [QCK] 특대 데미지를 주고 1턴 동안 격투형과 사격형 캐릭터의 공격력을 1.75배로 만든다",
+        "cooldown": [
+          23,
+          17
+        ]
+      }
+    ],
+    "captain": "격투 캐릭터의 공격력과 체력을 1.5배 상승시킨다.",
+    "specialNotes": "#{stages}"
+  }
 }

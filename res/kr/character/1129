@@ -1,14 +1,36 @@
 {
   "name": "다가마, 프로덴스 왕국의 군사",
   "detail": {
-    "captain": "전투 시작시 필살기를 2턴 단축하고, 모든 캐릭터의 공격력을 2배로 상승시킨다.",
-    "special": "저림 · 선장 효과 무효 상태를 5 차례 회복하고 적 1 기의 HP를 10 % 감소시킨다.",
     "specialName": "군사의 참격",
+    "special": "저림 · 선장 효과 무효 상태를 5 차례 회복하고 적 1 기의 HP를 10 % 감소시킨다.",
+    "captain": "전투 시작시 필살기를 2턴 단축하고, 모든 캐릭터의 공격력을 2배로 상승시킨다.",
     "sailor": {
       "base": "None",
       "level1": "일당의 기본 능력치가 25 상승한다",
       "level2": "Reduces Silence duration on this character by 2 turns"
     },
+    "potential": [
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 30"
@@ -56,25 +78,15 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
+    "support": [
       {
-        "Name": "회복 무효 내성",
+        "Characters": "Elizabello",
         "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+          "Level 1: Reduces damage received from [PSY] characters by 1%. Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Reduces damage received from [PSY] characters by 2%. Adds 10% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Reduces damage received from [PSY] characters by 3%. Adds 12% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Reduces damage received from [PSY] characters by 4%. Adds 15% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Reduces damage received from [PSY] characters by 5%. Adds 20% of this character's base ATK to the supported character's base ATK"
         ]
       }
     ]

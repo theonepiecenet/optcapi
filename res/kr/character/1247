@@ -1,17 +1,39 @@
 {
   "name": "포트거스 D. 에이스, 마린포드에서 싸우는 ‘불주먹’",
   "detail": {
+    "specialName": "반디 불덩이",
+    "special": "체력을 대폭 줄이고 적 전체에 무 속성 큰 데미지를 주고, 1턴 동안 격투형 공격력을 1.3배로 만들며, 같은 턴 안에 이미 「고무고무 스탬프 난타」를 사용했다면 2배가 된다",
     "captain": {
       "base": "격투형 캐릭터의 공격력을 슬롯 일치 시 2.75배, 평상시 2배로 만들고 체력을 조금 상승시킨다",
       "level1": "Boosts HP of Fighter characters by ?x and their ATK by 3x if they have a matching orb, by 2x otherwise"
     },
-    "special": "체력을 대폭 줄이고 적 전체에 무 속성 큰 데미지를 주고, 1턴 동안 격투형 공격력을 1.3배로 만들며, 같은 턴 안에 이미 「고무고무 스탬프 난타」를 사용했다면 2배가 된다",
-    "specialName": "반디 불덩이",
     "sailor": {
       "base": "None",
       "level1": "Makes [STR] orbs “beneficial” for Fighter characters",
       "level2": "When HP is below 10% at the start of the turn, boosts base ATK of Fighter characters by 100"
     },
+    "potential": [
+      {
+        "Name": "[DEX] 데미지 피해 감소",
+        "description": [
+          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 20"
@@ -59,28 +81,6 @@
         "description": "잠재능력 습득 2: 피격 시 공격력 상승"
       }
     ],
-    "limitNotes": "This Limit Break is exclusive to Global ONLY",
-    "potential": [
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
-        ]
-      }
-    ]
+    "limitNotes": "This Limit Break is exclusive to Global ONLY"
   }
 }

@@ -1,14 +1,35 @@
 {
   "name": "상디, 신념을 지키는 밀짚모자 일당",
   "detail": {
-    "special": "적 전체에 파티의 체력이 적을수록 큰 [INT] 데미지를 준다.",
-    "specialNotes": "#{specialProportional : lower : 100 * ( 1 - (remaining HP) / (total HP) )}",
     "specialName": "디아블 잠브 : 분쇄",
+    "special": "적 전체에 파티의 체력이 적을수록 큰 [INT] 데미지를 준다.",
     "captain": "체력이 가득 차 있을때 받는 데미지를 크게(80%) 감소한다.",
     "sailor": {
       "base": "Reduces Paralysis by 3 turns for self",
       "level1": "When HP is below ??% at the start of the turn, boosts own base ATK by 500"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 50",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : ??"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -56,28 +77,7 @@
         "description": "잠재능력 습득 2: Cooldown Reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : ??",
-          "Level 3: 공격력 상승 : ??",
-          "Level 4: 공격력 상승 : ??",
-          "Level 5: 공격력 상승 : ??"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
-        ]
-      }
-    ],
+    "specialNotes": "#{specialProportional : lower : 100 * ( 1 - (remaining HP) / (total HP) )}",
     "potentialNotes": "#{enrage}"
   }
 }

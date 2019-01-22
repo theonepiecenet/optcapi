@@ -1,7 +1,7 @@
 {
   "name": "맨셸리, 톤타타족 왕녀",
   "detail": {
-    "captain": "턴 종료 후 캐릭터의 회복력x4배의 체력을 회복한다",
+    "specialName": "치유들레",
     "special": [
       {
         "description": "마비 상태를 3턴 회복하고, 캐릭터의 회복력x6배의 체력을 회복한다",
@@ -25,13 +25,34 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
-    "specialName": "치유들레",
+    "captain": "턴 종료 후 캐릭터의 회복력x4배의 체력을 회복한다",
     "sailor": {
       "base": "None",
       "level1": "Reduces Paralysis duration on this character by 1 turn",
       "level2": "Reduces Silence duration on this character by 2 turns"
     },
+    "potential": [
+      {
+        "Name": "[INT] 데미지 피해 감소",
+        "description": [
+          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 20"
@@ -79,25 +100,16 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "potential": [
+    "specialNotes": "#{stages}",
+    "support": [
       {
-        "Name": "[INT] 데미지 피해 감소",
+        "Characters": "Characters with cost 29 or less",
         "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
+          "Level 1: Once per adventure, when you reach the final stage, recovers 500 HP at the end of each turn for 3 turns",
+          "Level 2: Once per adventure, when you reach the final stage, recovers 700 HP at the end of each turn for 3 turns",
+          "Level 3: Once per adventure, when you reach the final stage, recovers 1000 HP at the end of each turn for 3 turns",
+          "Level 4: Once per adventure, when you reach the final stage, recovers 1200 HP at the end of each turn for 3 turns",
+          "Level 5: Once per adventure, when you reach the final stage, recovers 1500 HP at the end of each turn for 3 turns"
         ]
       }
     ]

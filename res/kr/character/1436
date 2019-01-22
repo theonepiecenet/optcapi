@@ -77,6 +77,18 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "specialNotes": "Decreases timing window to hit a PERFECT. (Animation remains the same)"
+    "specialNotes": "Decreases timing window to hit a PERFECT. (Animation remains the same)",
+    "support": [
+      {
+        "Characters": "Hody, Ikaros, Daruma, Dosun and Zeo",
+        "description": [
+          "Level 1: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 9% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 11% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   }
 }

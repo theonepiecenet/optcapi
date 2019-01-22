@@ -1,1 +1,24 @@
-{"name":"도르돈, 드럼섬 민간 호위단 단장","detail":{"specialName":"단악의 도끼","special":[{"description":"적 1명에게 캐릭터의 공격력x3배의 [PSY] 데미지를 주고, 1턴 동안 [PSY] 캐릭터의 공격력이 1.3배가 된다","cooldown":[14,4]},{"description":"적 1명에게 캐릭터의 공격력x13배의 [PSY] 데미지를 주고, 1턴 동안 [PSY] 캐릭터의 공격력이 1.5배가 된다","cooldown":[18,8]}],"captain":"[PSY]과 [QCK] 캐릭터의 공격력을 2배로 만든다","specialNotes":"#{stages}"}}
+{
+  "name": "도르돈, 드럼섬 민간 호위단 단장",
+  "detail": {
+    "specialName": "단악의 도끼",
+    "special": [
+      {
+        "description": "적 1명에게 캐릭터의 공격력x3배의 [PSY] 데미지를 주고, 1턴 동안 [PSY] 캐릭터의 공격력이 1.3배가 된다",
+        "cooldown": [
+          14,
+          4
+        ]
+      },
+      {
+        "description": "적 1명에게 캐릭터의 공격력x13배의 [PSY] 데미지를 주고, 1턴 동안 [PSY] 캐릭터의 공격력이 1.5배가 된다",
+        "cooldown": [
+          18,
+          8
+        ]
+      }
+    ],
+    "captain": "[PSY]과 [QCK] 캐릭터의 공격력을 2배로 만든다",
+    "specialNotes": "#{stages}"
+  }
+}

@@ -1,9 +1,9 @@
 {
   "name": "아카이누",
   "detail": {
-    "captain": "속성 [STR]→[STR]→[STR] 캐릭터 순으로 GOOD 이상 공격 시 이후 캐릭터의 공격력이 2.5배가 된다",
+    "specialName": "대분화",
     "special": "적 전체에게 공격력x50배의 [STR] 데미지를 주고, [STR] 캐릭터의 슬롯을 [STR] 으로 바꾸고, 1턴 동안 [STR] 의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
-    "specialNotes": "#{colorAffinity : 1.75}",
-    "specialName": "대분화"
+    "captain": "속성 [STR]→[STR]→[STR] 캐릭터 순으로 GOOD 이상 공격 시 이후 캐릭터의 공격력이 2.5배가 된다",
+    "specialNotes": "#{colorAffinity : 1.75}"
   }
 }

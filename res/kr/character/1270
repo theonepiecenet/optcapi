@@ -1,14 +1,35 @@
 {
   "name": "‘악마보안관’ 라피트",
   "detail": {
-    "captain": "턴 종료 시 회복력x3배의 체력을 회복하고, 적 전체에 공격력x7배의 데미지를 준다",
+    "specialName": "괴기한 암시",
     "special": "봉쇄·선장효과 무효 상태를 2턴 회복하고, 4턴 동안 일당의 슬롯에 의한 공격력 감소를 무효화한다",
-    "specialNotes": "Ex. A [STR] character with a [QCK] orb will still deal regular damage",
+    "captain": "턴 종료 시 회복력x3배의 체력을 회복하고, 적 전체에 공격력x7배의 데미지를 준다",
     "sailor": {
       "base": "선장이 야심형일 경우, 일당의 기본 공격력이 100 상승한다",
       "level1": "Reduces Blindness duration by 3 turns"
     },
-    "specialName": "괴기한 암시",
+    "potential": [
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 10"
@@ -56,25 +77,16 @@
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
     ],
-    "potential": [
+    "specialNotes": "Ex. A [STR] character with a [QCK] orb will still deal regular damage",
+    "support": [
       {
-        "Name": "[QCK] 데미지 피해 감소",
+        "Characters": "Blackbeard, Jesus Burgess, Van Augur, Shiryu and Doc Q",
         "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+          "Level 1: Once per an adventure, when you are inflicted with Bind or Despair, reduces Bind and Despair duration by 1 turn.",
+          "Level 2: Once per an adventure, when you are inflicted with Bind or Despair, reduces Bind and Despair duration by 1 turn.",
+          "Level 3: Once per an adventure, when you are inflicted with Bind or Despair, reduces Bind and Despair duration by 1 turn.",
+          "Level 4: Once per an adventure, when you are inflicted with Bind or Despair, reduces Bind and Despair duration by 2 turns.",
+          "Level 5: Once per an adventure, when you are inflicted with Bind, Despair or Blindness, reduces Bind, Despair and Blindness duration by 2 turns."
         ]
       }
     ]

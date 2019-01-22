@@ -1,15 +1,35 @@
 {
   "name": "스모커, 해군 GL 제5지부 ‘G-5’ 중장",
   "detail": {
-    "captain": "타격형과 야심형 캐릭터의 공격력이 2.25배가 되고, 일당의 회복력이 50% 감소한다. 모험 중에 선장이 된 경우, 받는 데미지가 30% 줄며 같은 타입의 공격력이 추가로 1.3배가 된다",
-    "special": "적 1명에게 [DEX] 특대 데미지를 주고, 자신이 선원일 때는 2턴 동안 선장과 교대한다",
-    "specialNotes": "This is the same type of ability as raid boss Shiki's swap. You cannot use it if another effect swaps your captain. (Such as if Shiki swaps first)",
     "specialName": "암드 화이트 런처",
+    "special": "적 1명에게 [DEX] 특대 데미지를 주고, 자신이 선원일 때는 2턴 동안 선장과 교대한다",
+    "captain": "타격형과 야심형 캐릭터의 공격력이 2.25배가 되고, 일당의 회복력이 50% 감소한다. 모험 중에 선장이 된 경우, 받는 데미지가 30% 줄며 같은 타입의 공격력이 추가로 1.3배가 된다",
     "sailor": {
       "base": "타격형의 기본 공격력이 50 상승한다",
       "level1": "자신은 [STR] 슬롯도 [유리] 슬롯으로 취급한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -57,27 +77,7 @@
         "description": "잠재능력 습득 2: [QCK] 데미지 피해 감소"
       }
     ],
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 10%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "[QCK] 데미지 피해 감소",
-        "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      }
-    ]
+    "specialNotes": "This is the same type of ability as raid boss Shiki's swap. You cannot use it if another effect swaps your captain. (Such as if Shiki swaps first)",
+    "sailorNotes": "#{beneficial}"
   }
 }

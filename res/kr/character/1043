@@ -1,14 +1,36 @@
 {
   "name": "‘살육무인’ 킬러, 키드 해적단",
   "detail": {
-    "captain": "타격형과 참격형의 공격력을 슬롯 일치 시 2.75배, 평상시 2배로 만들고 일당의 회복력을 0으로 만든다",
-    "special": "타격형과 참격형의 [STR][QCK] 슬롯을 속성 일치 슬롯으로 바꾸고, 적 1명의 HP를 7% 줄인다",
     "specialName": "히팅 사이즈",
+    "special": "타격형과 참격형의 [STR][QCK] 슬롯을 속성 일치 슬롯으로 바꾸고, 적 1명의 HP를 7% 줄인다",
+    "captain": "타격형과 참격형의 공격력을 슬롯 일치 시 2.75배, 평상시 2배로 만들고 일당의 회복력을 0으로 만든다",
     "sailor": {
       "base": "None",
       "level1": "참격형 캐릭터의 기본 공격력이 30 상승한다",
       "level2": "참격형 캐릭터의 기본 체력이 60 상승한다"
     },
+    "potential": [
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 10"
@@ -56,25 +78,15 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "potential": [
+    "support": [
       {
-        "Name": "슬롯 봉쇄 내성",
+        "Characters": "Striker Characters",
         "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 5% of this character's base ATK to the supported character's base ATK"
         ]
       }
     ]

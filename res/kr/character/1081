@@ -1,14 +1,36 @@
 {
   "name": "퀴로스, 전 리쿠왕군 군대장",
   "detail": {
-    "captain": "코스트 30 이하 캐릭터의 공격력을 2.5배로 만든다",
-    "special": "자신의 슬롯을 [DEX]로 바꾸고, 1턴 동안 자신의 공격력을 2배로 만들며, 적 1명에게 [DEX] 데미지를 준다",
     "specialName": "번개의 파괴검",
+    "special": "자신의 슬롯을 [DEX]로 바꾸고, 1턴 동안 자신의 공격력을 2배로 만들며, 적 1명에게 [DEX] 데미지를 준다",
+    "captain": "코스트 30 이하 캐릭터의 공격력을 2.5배로 만든다",
     "sailor": {
       "base": "None",
       "level1": "Reduces Paralysis duration on this character by 2 turns",
       "level2": "Boosts base ATK of all characters by 50"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 20",
+          "Level 2: 공격력 상승 : ??",
+          "Level 3: 공격력 상승 : ??",
+          "Level 4: 공격력 상승 : ??",
+          "Level 5: 공격력 상승 : ??"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "회복력 상승 : 20"
@@ -54,28 +76,6 @@
       },
       {
         "description": "잠재능력 습득 2: 회복 무효 내성"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : ??",
-          "Level 3: 공격력 상승 : ??",
-          "Level 4: 공격력 상승 : ??",
-          "Level 5: 공격력 상승 : ??"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
       }
     ],
     "potentialNotes": "#{enrage}"

@@ -1,7 +1,6 @@
 {
   "name": "키자루, 해군본부 최고 전력",
   "detail": {
-    "captain": "모험 시작 시 필살기 턴을 1턴 단축하고, 일당의 공격력이 2배, 회복력이 1.3배가 된다. ‘팔척경곡옥’을 사용한 턴은 일당의 공격력이 3배가 된다",
     "specialName": "팔척경곡옥",
     "special": [
       {
@@ -26,6 +25,7 @@
         ]
       }
     ],
-    "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 3,000 : for each hit on Stage 1}<br>#{random : 3,000 : 6,000 : for each hit on Stage 2}<br>#{random : 10,000 : 16,000 : for each hit on Stage 3}<br>#{stages}"
+    "captain": "모험 시작 시 필살기 턴을 1턴 단축하고, 일당의 공격력이 2배, 회복력이 1.3배가 된다. ‘팔척경곡옥’을 사용한 턴은 일당의 공격력이 3배가 된다",
+    "specialNotes": "#{randomHits : 10} #{random : 1,000 : 3,000 : for each hit on Stage 1} #{random : 3,000 : 6,000 : for each hit on Stage 2} #{random : 10,000 : 16,000 : for each hit on Stage 3} #{stages}"
   }
 }

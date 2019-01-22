@@ -1,14 +1,35 @@
 {
   "name": "니코 로빈, 신념을 지키는 밀짚모자 일당",
   "detail": {
-    "special": "[INT] 슬롯의 출현율이 크게 상승한다(3턴)",
     "specialName": "오첸타 플루트 콰트로 마노!! 쇼크!!",
+    "special": "[INT] 슬롯의 출현율이 크게 상승한다(3턴)",
     "captain": "[INT] 캐릭터의 공격력과 회복력이 1.5배가 된다",
     "sailor": {
       "base": "의성어 은폐 상태를 3턴 회복한다",
       "level1": "Makes [PSY] orbs “beneficial” for this character"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[PSY] 데미지 피해 감소",
+        "description": [
+          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 30"
@@ -56,27 +77,6 @@
         "description": "잠재능력 습득 2: Cooldown Reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "[PSY] 데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
-        ]
-      }
-    ]
+    "sailorNotes": "#{beneficial}"
   }
 }

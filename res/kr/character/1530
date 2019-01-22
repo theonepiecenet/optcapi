@@ -4,6 +4,75 @@
     "specialName": "미검 블루 버드",
     "special": "1턴 동안 일당의 체력이 일정 비율 이상일 때, 참격형 캐릭터의 슬롯의 영향을 2.25배, 그 이외일 때는 2배로 증폭시킨다",
     "captain": "일당의 공격력을 1.75배로 만들고 자신의 공격력은 3.5배가 된다",
-    "sailor": "선장이 [STR]이거나 [QCK]일 때 일당의 기본 공격력을 50% 감소시킨다"
+    "sailor": "선장이 [STR]이거나 [QCK]일 때 일당의 기본 공격력을 50% 감소시킨다",
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of all characters by 75"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 130"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "센토마루, 해군본부 장교",
   "detail": {
-    "captain": "자신 및 강인형 캐릭터의 공격력이 2배가 된다",
+    "specialName": "족공동행",
     "special": [
       {
         "description": "적 1명에게 고정 데미지 500을 주고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
@@ -25,8 +25,8 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
+    "captain": "자신 및 강인형 캐릭터의 공격력이 2배가 된다",
     "sailor": "자신은 날아가지 않는다",
-    "specialName": "족공동행"
+    "specialNotes": "#{stages}"
   }
 }

@@ -1,14 +1,35 @@
 {
   "name": "상어 베기 바스티유, 해군본부 중장",
   "detail": {
-    "captain": "Boosts ATK of all characters by 2x after the 15th hit in the chain and by 3x after the 30th hit",
-    "special": "적 전체에 공격력x20배의 [STR] 데미지를 주고, 1턴 동안 해당 턴 내에 준 콤보 수가 30 이상일 때부터 일당의 공격력이 2배가 된다",
     "specialName": "무장색의 상어 베기 참마도 일성",
+    "special": "적 전체에 공격력x20배의 [STR] 데미지를 주고, 1턴 동안 해당 턴 내에 준 콤보 수가 30 이상일 때부터 일당의 공격력이 2배가 된다",
+    "captain": "Boosts ATK of all characters by 2x after the 15th hit in the chain and by 3x after the 30th hit",
     "sailor": {
       "base": "자신은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다",
       "level1": "일당의 기본 능력치가 50 상승한다"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "슬롯 봉쇄 내성",
+        "description": [
+          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+        ]
+      },
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 20"
@@ -56,27 +77,6 @@
         "description": "잠재능력 습득 2: 크리티컬 공격"
       }
     ],
-    "potential": [
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
-        ]
-      },
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ?%의 추가 데미지가 가산된다"
-        ]
-      }
-    ]
+    "sailorNotes": "#{beneficial}"
   }
 }

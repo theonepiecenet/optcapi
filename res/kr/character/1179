@@ -1,9 +1,9 @@
 {
   "name": "마인 오즈",
   "detail": {
-    "captain": "Boosts ATK of [STR] characters by 2.75x if HP is above 99% at the start of the turn. Reduces damage received by 50%",
-    "special": "Deals random typeless damage to all enemies. Randomizes all orbs including [BLOCK] orbs.",
     "specialName": "Not Rubber Gum-Gum Jet Gatling",
+    "special": "Deals random typeless damage to all enemies. Randomizes all orbs including [BLOCK] orbs.",
+    "captain": "Boosts ATK of [STR] characters by 2.75x if HP is above 99% at the start of the turn. Reduces damage received by 50%",
     "specialNotes": "#{random : 30,000 : 150,000}"
   }
 }

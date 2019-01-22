@@ -1,8 +1,7 @@
 {
   "name": "델린저, 돈키호테 해적단",
   "detail": {
-    "captain": "강인형 캐릭터의 공격력을 2.25배로 만들고, 강인형 캐릭터는 [TND][RCV] 슬롯도 [유리] 슬롯으로 취급한다",
-    "captainNotes": "#{beneficial}",
+    "specialName": "단두 하이힐",
     "special": [
       {
         "description": "강인형 캐릭터의 [불리] 슬롯을 속성이 일치하는 슬롯으로 바꾼다",
@@ -19,14 +18,34 @@
         ]
       }
     ],
-    "specialName": "단두 하이힐",
-    "specialNotes": "#{stages}",
+    "captain": "강인형 캐릭터의 공격력을 2.25배로 만들고, 강인형 캐릭터는 [TND][RCV] 슬롯도 [유리] 슬롯으로 취급한다",
     "sailor": {
       "base": "None",
       "level1": "Makes [TND] orbs “beneficial” for Powerhouse characters",
       "level2": "Makes [RCV] orbs “beneficial” for Powerhouse characters"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "크리티컬 공격",
+        "description": [
+          "Level 1: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ??%의 추가 데미지가 가산된다",
+          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ??%의 추가 데미지가 가산된다",
+          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ??%의 추가 데미지가 가산된다",
+          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "공격력 상승 : 10"
@@ -74,27 +93,8 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ??%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ??%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 ??% 확률로 자신의 최종 히트 데미지에 ??%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      }
-    ]
+    "specialNotes": "#{stages}",
+    "captainNotes": "#{beneficial}",
+    "sailorNotes": "#{beneficial}"
   }
 }

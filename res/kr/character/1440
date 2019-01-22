@@ -78,6 +78,18 @@
       }
     ],
     "specialNotes": "#{silence}",
-    "sailorNotes": "#{silence}"
+    "sailorNotes": "#{silence}",
+    "support": [
+      {
+        "Characters": "Hody Jones, Hyouzou, Ikaros, Dosun and Zeo",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character is inflicted with Silence, reduces Silence on supported character duration by 1 turn.",
+          "Level 2: Once per an adventure, when the supported character is inflicted with Silence, reduces Silence on supported character duration by 1 turn.",
+          "Level 3: Once per an adventure, when the supported character is inflicted with Silence, reduces Silence on supported character duration by 2 turns.",
+          "Level 4: Once per an adventure, when the supported character is inflicted with Silence or Paralysis, reduces Silence and Paralysis on supported character duration by 2 turns.",
+          "Level 5: Once per an adventure, when the supported character is inflicted with Silence or Paralysis, reduces Silence and Paralysis on supported character duration by 3 turns."
+        ]
+      }
+    ]
   }
 }

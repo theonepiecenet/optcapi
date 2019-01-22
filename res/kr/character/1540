@@ -76,6 +76,18 @@
       {
         "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
       }
+    ],
+    "support": [
+      {
+        "Characters": "Zoro",
+        "description": [
+          "Level 1: Reduces damage received from [PSY] characters by 1%. Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Reduces damage received from [PSY] characters by 2%. Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Reduces damage received from [PSY] characters by 3%. Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Reduces damage received from [PSY] characters by 4%. Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Reduces damage received from [PSY] characters by 5%. Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
     ]
   }
 }

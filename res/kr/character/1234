@@ -1,15 +1,35 @@
 {
   "name": "타시기, 해군 GL 제5지부 ‘G-5’ 대령 ",
   "detail": {
-    "captain": "참격형과 박식형 캐릭터의 공격력이 각각 1.6배, 회복력이 각각 1.3배가 된다",
-    "captainNotes": "Attack boost stacks, so a Slasher/Cerebral character has a 2.56x ATK",
-    "special": "적 전체에게 캐릭터의 공격력x15배의 [QCK] 데미지를 주고, 2턴 동안 참격형과 박식형의 일반 공격에 의한 속성 상성의 영향을 증폭시킨다",
-    "specialNotes": "#{colorAffinity : 1.5}",
     "specialName": "참격맹폭",
+    "special": "적 전체에게 캐릭터의 공격력x15배의 [QCK] 데미지를 주고, 2턴 동안 참격형과 박식형의 일반 공격에 의한 속성 상성의 영향을 증폭시킨다",
+    "captain": "참격형과 박식형 캐릭터의 공격력이 각각 1.6배, 회복력이 각각 1.3배가 된다",
     "sailor": {
       "base": "참격형의 기본 회복력이 30 상승한다",
       "level1": "Boosts base ATK and HP of all characters by 30"
     },
+    "potential": [
+      {
+        "Name": "피격 시 공격력 상승",
+        "description": [
+          "Level 1: 공격력 상승 : 30",
+          "Level 2: 공격력 상승 : 60",
+          "Level 3: 공격력 상승 : 90",
+          "Level 4: 공격력 상승 : 120",
+          "Level 5: 공격력 상승 : 150"
+        ]
+      },
+      {
+        "Name": "회복 무효 내성",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 30"
@@ -57,28 +77,20 @@
         "description": "잠재능력 습득 2: 회복 무효 내성"
       }
     ],
-    "potential": [
+    "specialNotes": "#{colorAffinity : 1.5}",
+    "captainNotes": "Attack boost stacks, so a Slasher/Cerebral character has a 2.56x ATK",
+    "potentialNotes": "#{enrage}",
+    "support": [
       {
-        "Name": "피격 시 공격력 상승",
+        "Characters": "Smoker and Zoro",
         "description": [
-          "Level 1: 공격력 상승 : 30",
-          "Level 2: 공격력 상승 : 60",
-          "Level 3: 공격력 상승 : 90",
-          "Level 4: 공격력 상승 : 120",
-          "Level 5: 공격력 상승 : 150"
-        ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
+          "Level 1: Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 2: Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 3: Adds 5% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 4: Adds 7% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 5: Adds 9% of this character's base ATK and RCV to the supported character's base ATK and RCV"
         ]
       }
-    ],
-    "potentialNotes": "#{enrage}"
+    ]
   }
 }

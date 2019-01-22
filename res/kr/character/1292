@@ -9,7 +9,28 @@
       "level1": "Changes all orbs into [G] orbs at the start of the fight",
       "level2": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs “beneficial” for this character"
     },
-    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[QCK] 데미지 피해 감소",
+        "description": [
+          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
+          "Level 2: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 3: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 4: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
+          "Level 5: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ],
     "limit": [
       {
         "description": "체력 상승 : 50"
@@ -57,27 +78,6 @@
         "description": "잠재능력 습득 2: Slot Bind Self-reduction"
       }
     ],
-    "potential": [
-      {
-        "Name": "[QCK] 데미지 피해 감소",
-        "description": [
-          "Level 1: [QCK] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 3: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 4: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다",
-          "Level 5: [QCK] 속성에게 받는 데미지를 ?% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      }
-    ]
+    "sailorNotes": "#{beneficial}"
   }
 }

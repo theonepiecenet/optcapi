@@ -1,11 +1,11 @@
 {
   "name": "타시기, 해군 GL 제5지부",
   "detail": {
-    "captain": "참격형과 박식형 캐릭터의 공격력이 각각 1.5배, 회복력이 각각 1.2배가 된다",
-    "captainNotes": "Attack boost stacks, so a 참격형 Cerebral unit has 2.25x ATK",
-    "special": "적 전체에게 캐릭터의 공격력x15배의 [QCK] 데미지를 주고, 2턴 동안 참격형과 박식형의 일반 공격에 의한 속성 상성의 영향을 증폭시킨다",
-    "specialNotes": "#{colorAffinity : 1.5}",
     "specialName": "참격맹폭",
-    "sailor": "참격형의 기본 회복력이 30 상승한다"
+    "special": "적 전체에게 캐릭터의 공격력x15배의 [QCK] 데미지를 주고, 2턴 동안 참격형과 박식형의 일반 공격에 의한 속성 상성의 영향을 증폭시킨다",
+    "captain": "참격형과 박식형 캐릭터의 공격력이 각각 1.5배, 회복력이 각각 1.2배가 된다",
+    "sailor": "참격형의 기본 회복력이 30 상승한다",
+    "specialNotes": "#{colorAffinity : 1.5}",
+    "captainNotes": "Attack boost stacks, so a 참격형 Cerebral unit has 2.25x ATK"
   }
 }

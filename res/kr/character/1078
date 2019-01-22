@@ -1,7 +1,7 @@
 {
   "name": "맨셸리",
   "detail": {
-    "captain": "턴 종료 후 캐릭터의 회복력x3배의 체력을 회복한다",
+    "specialName": "치유들레",
     "special": [
       {
         "description": "마비 상태를 3턴 회복하고, 캐릭터의 회복력x6배의 체력을 회복한다",
@@ -25,7 +25,7 @@
         ]
       }
     ],
-    "specialNotes": "#{stages}",
-    "specialName": "치유들레"
+    "captain": "턴 종료 후 캐릭터의 회복력x3배의 체력을 회복한다",
+    "specialNotes": "#{stages}"
   }
 }

@@ -1,11 +1,11 @@
 {
   "name": "스피드 질",
   "detail": {
-    "captain": "[QCK] 캐릭터의 공격력을 2.25배로 만들고, [QCK] 캐릭터는 [DEX] 슬롯도 [유리] 슬롯으로 취급한다",
-    "captainNotes": "#{beneficial}",
-    "special": "적 전체의 체력 게이지에 붙어있는 배리어의 턴을 1턴 줄인다(hit 배리어 등)",
-    "specialNotes": "Does not affect DEF Boost or % Damage reduction buffs. Reduces timers for Barriers such as PERFECT/Great/Good Barriers, Combo Hit Barriers and Orb Hit Barriers",
     "specialName": "브레이크 불릿",
-    "sailor": "[QCK] 캐릭터의 기본 공격력이 40 상승한다"
+    "special": "적 전체의 체력 게이지에 붙어있는 배리어의 턴을 1턴 줄인다(hit 배리어 등)",
+    "captain": "[QCK] 캐릭터의 공격력을 2.25배로 만들고, [QCK] 캐릭터는 [DEX] 슬롯도 [유리] 슬롯으로 취급한다",
+    "sailor": "[QCK] 캐릭터의 기본 공격력이 40 상승한다",
+    "specialNotes": "Does not affect DEF Boost or % Damage reduction buffs. Reduces timers for Barriers such as PERFECT/Great/Good Barriers, Combo Hit Barriers and Orb Hit Barriers",
+    "captainNotes": "#{beneficial}"
   }
 }
