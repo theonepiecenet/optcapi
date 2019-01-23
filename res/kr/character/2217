@@ -1,9 +1,9 @@
 {
-    "name": "코니스, 물가에서 놀고 있는 엔젤",
-    "detail": {
-        "specialName": "천사의 크루징",
-        "special": "모든 독 상태를 회복하고, 회복력 감소 상태를 10턴 회복하며, 1턴 동안 일당의 회복력을 1.5배로 만들고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
-        "captain": "일당의 능력치를 1.75배로 만든다",
-        "sailor": "자신의 필살기 턴 되돌리기를 5턴 회복한다"
-    }
+  "name": "코니스, The Angel Frolicking by the Beachside",
+  "detail": {
+    "specialName": "Angel Cruising",
+    "special": "Removes Poison, reduces RCV DOWN duration by 10 turns, boosts RCV of all characters by 1.5x for 1 turn and reduces Special Cooldown of your top row by 1 turn.",
+    "captain": "Boosts ATK, HP and RCV of all characters by 1.75x",
+    "sailor": "Restores her own special cooldown by 5 turns when it is rewinded"
+  }
 }
