@@ -1,0 +1,63 @@
+{
+    "name": "Big Emperor, Giant Robo Warrior",
+    "detail": {
+        "captain": "Boosts ATK of Shooter characters by 2.5x and their HP by 1.2x. If you use \"Tactics Fifteen \"Big Emperor\"\" in this turn boosts ATK of Shooter characters by 2.75x instead.",
+        "special": "Increases damage received by ?x for 2 turns and amplifies the effect of orbs for Shooter characters by 1.75x for 2 turns. If during that turn you score 5 PERFECT hits, changes all orbs on Shooter characters into Matching orbs in the following turn.",
+        "specialName": "Tactics Fifteen \"Big Emperor\"",
+        "sailor": {
+            "base": "None",
+            "level1": "Makes [STR] and [QCK] orbs beneficial for this character",
+            "level2": "Makes [TND] orbs beneficial for Shooter characters"
+        },
+        "sailorNotes": "#{beneficial}",
+        "support": [
+            {
+                "Characters": "Shooter Characters",
+                "description": [
+                    "Level 1: Adds 1% of this character's base HP to the supported character's base HP.",
+                    "Level 2: Adds 2% of this character's base HP to the supported character's base HP.",
+                    "Level 3: Adds 3% of this character's base HP to the supported character's base HP.",
+                    "Level 4: Adds 4% of this character's base HP to the supported character's base HP.",
+                    "Level 5: Adds 5% of this character's base HP to the supported character's base HP."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        "Pirate Docking"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Shooter",
+            "Free Spirit"
+        ],
+        "stars": 5,
+        "cost": 50,
+        "combo": 4,
+        "slots": null,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": null,
+        "minATK": null,
+        "minRCV": null,
+        "maxHP": null,
+        "maxATK": 1203,
+        "maxRCV": 210,
+        "ability": null
+    },
+    "cooldown": null,
+    "evolve": {
+        "evolution": 2398,
+        "evolvers": [],
+        "from": 2397
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2398.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2398.png"
+    },
+    "drop": [],
+    "manual": []
+}
