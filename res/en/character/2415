@@ -1,0 +1,56 @@
+{
+  "name": "Pica",
+  "detail": {
+    "captain": "If this character becomes your captain in the middle of an island, reduces damage received by ?% and boosts his OWN attack by ?x and cuts the current HP of each enemy by ?% at the end of each turn.",
+    "special": "Deals 300,000 Fixed damage to one enemy. Swaps this unit with your captain for 3 turns",
+    "specialName": "Giant Rock Punch",
+    "sailor": "Restores his own special cooldown by 2 turns when it is rewinded",
+    "sailorNotes": "#{rewind : 2}"
+  },
+  "aliases": [
+    "",
+    "",
+    "Coliseum Pica"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Driven",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": null,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2416,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2415.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2415.png"
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
+}
