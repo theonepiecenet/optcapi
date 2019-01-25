@@ -1,17 +1,17 @@
 {
-    "name": "센고쿠&가프",
+    "name": "센고쿠 대장&가프 중장",
     "detail": {
-        "specialName": "Twin Fists of Justice",
-        "special": "Removes all positive buffs on your team and reduces Despair duration by 2 turns. Boosts ATK of Fighter characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for Fighter characters for 1 turn and becomes Sengoku & Garp for 3 turns.",
+        "specialName": "정의의 쌍권",
+        "special": "일당에게 걸려 있는 모든 유리 효과를 해제하고, 선장효과 무효 상태를 2턴 회복하며, 1턴 동안 격투형 캐릭터의 공격력과 슬롯의 영향을 상당히 증폭시키고, 3턴 동안 ‘센고쿠 대장&가프 중장’이 된다",
         "captain": {
             "character1": "Boosts ATK of Fighter Characters by 2.25x and their HP by 1.2x and makes [INT] orbs beneficial for Fighter characters",
             "character2": "Boosts ATK of Fighter Characters by 2x and their HP by 1.2x, but boosts his OWN attack by 2.5x and makes [DEX] orbs beneficial for Fighter characters",
-            "combined": "Boosts ATK of Fighter Characters by 3x and their HP by 1.2x, but boosts his OWN attack by 4x and makes [DEX], [INT], [RCV] and [TND] orbs beneficial for Fighter characters"
+            "combined": "격투형 캐릭터의 체력을 1.2배, 공격력을 3배, 자신의 공격력을 약 4배로 만들고, 격투형 캐릭터는 [DEX][INT][RCV][TND] 슬롯도 [유리] 슬롯으로 취급한다"
         },
         "sailor": {
-            "character1": "Boosts base ATK of all characters by 40 if your Captain is a Fighter character",
-            "character2": "Boosts base ATK of all characters by 40 if your Captain is a Fighter character",
-            "combined": "Boosts base ATK of all characters by 40 if your Captain is a Fighter character"
+            "character1": "선장이 격투형 캐릭터라면 일당의 기본 공격력이 40 상승한다",
+            "character2": "선장이 격투형 캐릭터라면 일당의 기본 공격력이 40 상승한다",
+            "combined": "선장이 격투형 캐릭터라면 일당의 기본 공격력이 40 상승한다"
         },
         "specialNotes": "Change Action: When Change is activated, boosts ATK of Fighter characters by 1.2x for 1 turn and changes their own orb into a Matching orb",
         "captainNotes": "#{beneficial}"
