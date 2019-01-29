@@ -1,0 +1,50 @@
+{
+  "name": "Don Sai",
+  "detail": {
+    "captain": "Boosts HP of Driven characters by ?x and boosts ATK of Driven characters by ?x if they have a matching orb, by ?x otherwise",
+    "special": "Reduces Bind, Despair and Burn duration by 3 turns, reduces enemies' ATK Up, Enrage and Resilience Buffs duration by 3 turns, reduces the defense of all enemies by ?% for 1 turn and makes [STR], [DEX], [QCK], [PSY] and [INT] orbs beneficial for Driven characters for 1 turn",
+    "specialName": "Drill Dragon Nail - The Leader's Killing Strike",
+    "sailor": "Makes [RCV] and [TND] orbs beneficial for this character"
+  },
+  "aliases": [
+    "",
+    "",
+    "Don Sai"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Driven",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": 21,
+  "evolution": {
+    "evolution": 2426,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2425.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2425.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

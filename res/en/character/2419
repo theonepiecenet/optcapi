@@ -1,0 +1,51 @@
+{
+  "name": "Ideo",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by ? turn at the start of the fight boosts ATK of Driven and Fighter characters by ?x, but boosts his OWN attack by ?x",
+    "special": "Delays all enemies for 2 turns. If your Captain is a [DEX] or [INT] character, changes [G], [EMPTY] and [BLOCK] orbs into Matching orbs and locks the chain multiplier at 2.75x for 3 turns. If your Captain is a [QCK] or [PSY] character, changes [RCV], [TND] and [BOMB] orbs into Matching orbs and locks the chain multiplier at 3x for 1 turn.",
+    "specialName": "The Fist of Humanity and Duty",
+    "sailor": "Makes [QCK] orbs beneficial for this character",
+    "sailorNotes": "#{beneficial}"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Driven",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": 20,
+  "evolution": {
+    "evolution": 2420,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2419.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2419.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

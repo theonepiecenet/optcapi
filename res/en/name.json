@@ -34449,6 +34449,7 @@
     "id": 2044,
     "aliases": [
       "ベン・ベックマン 港村の海賊",
+      "Benn Beckman",
       "Ben Beckman",
       " Harbor Village Pirates"
     ]
@@ -34710,6 +34711,8 @@
       "ベン・ベックマン 光を止める銃口",
       "Limited Ben Beckman",
       "Secret Ben Beckman",
+      "Limited Benn Beckman",
+      "Secret Benn Beckman",
       "Ben Beckman",
       " Light-Stopping Gunpoint"
     ]
@@ -34728,6 +34731,8 @@
       "ベン・ベックマン 光を脅かす銃口",
       "Limited Ben Beckman",
       "Secret Ben Beckman",
+      "Limited Benn Beckman",
+      "Secret Benn Beckman",
       "Ben Beckman",
       " Light-Threatening Gunpoint"
     ]
@@ -41002,6 +41007,203 @@
     ]
   },
   {
+    "name": "Bartolomeo & Cavendish, Bickering Rebels",
+    "type": [
+      "DEX",
+      "QCK"
+    ],
+    "class": [
+      [
+        "Driven",
+        "Striker"
+      ],
+      [
+        "Driven",
+        "Slasher"
+      ],
+      [
+        "Driven",
+        "Slasher"
+      ]
+    ],
+    "id": 2417,
+    "aliases": [
+      "Bartolomeo&Cavendish",
+      "Bartolomeo and Cavendish",
+      "Bartolomeo Cavendish",
+      "BartolomeoCavendish",
+      "Cavendish&Bartolomeo",
+      "Cavendish and Bartolomeo",
+      "Cavendish Bartolomeo",
+      "CavendishBartolomeo",
+      "Barto",
+      "Cabbage",
+      "Bartolomeo",
+      "Cavendish",
+      "Bartolomeo & Cavendish",
+      " Bickering Rebels"
+    ]
+  },
+  {
+    "name": "Bartolomeo & Cavendish, The Noble Prince & Cannibal Fighting Together",
+    "type": [
+      "DEX",
+      "QCK"
+    ],
+    "class": [
+      [
+        "Driven",
+        "Striker"
+      ],
+      [
+        "Driven",
+        "Slasher"
+      ],
+      [
+        "Driven",
+        "Slasher"
+      ]
+    ],
+    "id": 2418,
+    "aliases": [
+      "Bartolomeo&Cavendish",
+      "Bartolomeo and Cavendish",
+      "Bartolomeo Cavendish",
+      "BartolomeoCavendish",
+      "Cavendish&Bartolomeo",
+      "Cavendish and Bartolomeo",
+      "Cavendish Bartolomeo",
+      "CavendishBartolomeo",
+      "Barto",
+      "Cabbage",
+      "Bartolomeo",
+      "Cavendish",
+      "Bartolomeo & Cavendish",
+      " The Noble Prince & Cannibal Fighting Together"
+    ]
+  },
+  {
+    "name": "Ideo",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Driven",
+      "Fighter"
+    ],
+    "id": 2419,
+    "aliases": [
+      "Ideo"
+    ]
+  },
+  {
+    "name": "\"Destruction Cannon\" Ideo, New World Central Fighting Tournament - V2 Champion",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Driven",
+      "Fighter"
+    ],
+    "id": 2420,
+    "aliases": [
+      "Ideo",
+      "\"Destruction Cannon\" Ideo",
+      " New World Central Fighting Tournament - V2 Champion"
+    ]
+  },
+  {
+    "name": "Hajrudin",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Driven",
+      "Powerhouse"
+    ],
+    "id": 2421,
+    "aliases": [
+      "Hajrudin"
+    ]
+  },
+  {
+    "name": "\"Pirate Mercenary\" Hajrudin, Spear of Elbaf",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Driven",
+      "Powerhouse"
+    ],
+    "id": 2422,
+    "aliases": [
+      "Hajrudin",
+      "\"Pirate Mercenary\" Hajrudin",
+      " Spear of Elbaf"
+    ]
+  },
+  {
+    "name": "King Elizabello II",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Driven",
+      "Fighter"
+    ],
+    "id": 2423,
+    "aliases": [
+      "Elizabello",
+      "King Elizabello II"
+    ]
+  },
+  {
+    "name": "\"The Fighting King\" Elizabello II, The King's Fist Destroying the Giant Arm",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Driven",
+      "Fighter"
+    ],
+    "id": 2424,
+    "aliases": [
+      "Elizabello",
+      "\"The Fighting King\" Elizabello II",
+      " The King's Fist Destroying the Giant Arm"
+    ]
+  },
+  {
+    "name": "Don Sai",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Driven",
+      "Fighter"
+    ],
+    "id": 2425,
+    "aliases": [
+      "Don Sai"
+    ]
+  },
+  {
+    "name": "Sai, The Leader Repaying his Crew's Indebtness",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Driven",
+      "Fighter"
+    ],
+    "id": 2426,
+    "aliases": [
+      "Don Sai",
+      "Sai",
+      " The Leader Repaying his Crew's Indebtness"
+    ]
+  },
+  {
     "name": "Roronoa Zoro, Three-Sword Style Swordsman in Chainmail",
     "type": [
       "STR"
@@ -42172,6 +42374,206 @@
       "GarpSengoku",
       "[Dual Unit] Admiral Sengoku and Vice Admiral Garp",
       " Dawn of the Great Era of Piracy"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Bartolomeo & Cavendish, Bickering Rebels",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Driven",
+      "Striker"
+    ],
+    "id": 5036,
+    "aliases": [
+      "Bartolomeo&Cavendish",
+      "Bartolomeo and Cavendish",
+      "Bartolomeo Cavendish",
+      "BartolomeoCavendish",
+      "Cavendish&Bartolomeo",
+      "Cavendish and Bartolomeo",
+      "Cavendish Bartolomeo",
+      "CavendishBartolomeo",
+      "Barto",
+      "Cabbage",
+      "[Dual Unit] Bartolomeo & Cavendish",
+      " Bickering Rebels"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Bartolomeo & Cavendish, Bickering Rebels",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Driven",
+      "Slasher"
+    ],
+    "id": 5037,
+    "aliases": [
+      "Bartolomeo&Cavendish",
+      "Bartolomeo and Cavendish",
+      "Bartolomeo Cavendish",
+      "BartolomeoCavendish",
+      "Cavendish&Bartolomeo",
+      "Cavendish and Bartolomeo",
+      "Cavendish Bartolomeo",
+      "CavendishBartolomeo",
+      "Barto",
+      "Cabbage",
+      "[Dual Unit] Bartolomeo & Cavendish",
+      " Bickering Rebels"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Bartolomeo & Cavendish, Bickering Rebels",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Driven",
+      "Slasher"
+    ],
+    "id": 5038,
+    "aliases": [
+      "Bartolomeo&Cavendish",
+      "Bartolomeo and Cavendish",
+      "Bartolomeo Cavendish",
+      "BartolomeoCavendish",
+      "Cavendish&Bartolomeo",
+      "Cavendish and Bartolomeo",
+      "Cavendish Bartolomeo",
+      "CavendishBartolomeo",
+      "Barto",
+      "Cabbage",
+      "[Dual Unit] Bartolomeo & Cavendish",
+      " Bickering Rebels"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Bartolomeo & Cavendish, Bickering Rebels",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Driven",
+      "Slasher"
+    ],
+    "id": 5039,
+    "aliases": [
+      "Bartolomeo&Cavendish",
+      "Bartolomeo and Cavendish",
+      "Bartolomeo Cavendish",
+      "BartolomeoCavendish",
+      "Cavendish&Bartolomeo",
+      "Cavendish and Bartolomeo",
+      "Cavendish Bartolomeo",
+      "CavendishBartolomeo",
+      "Barto",
+      "Cabbage",
+      "[Dual Unit] Bartolomeo & Cavendish",
+      " Bickering Rebels"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Bartolomeo & Cavendish, The Noble Prince & Cannibal Fighting Together",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Driven",
+      "Striker"
+    ],
+    "id": 5040,
+    "aliases": [
+      "Bartolomeo&Cavendish",
+      "Bartolomeo and Cavendish",
+      "Bartolomeo Cavendish",
+      "BartolomeoCavendish",
+      "Cavendish&Bartolomeo",
+      "Cavendish and Bartolomeo",
+      "Cavendish Bartolomeo",
+      "CavendishBartolomeo",
+      "Barto",
+      "Cabbage",
+      "[Dual Unit] Bartolomeo & Cavendish",
+      " The Noble Prince & Cannibal Fighting Together"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Bartolomeo & Cavendish, The Noble Prince & Cannibal Fighting Together",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Driven",
+      "Slasher"
+    ],
+    "id": 5041,
+    "aliases": [
+      "Bartolomeo&Cavendish",
+      "Bartolomeo and Cavendish",
+      "Bartolomeo Cavendish",
+      "BartolomeoCavendish",
+      "Cavendish&Bartolomeo",
+      "Cavendish and Bartolomeo",
+      "Cavendish Bartolomeo",
+      "CavendishBartolomeo",
+      "Barto",
+      "Cabbage",
+      "[Dual Unit] Bartolomeo & Cavendish",
+      " The Noble Prince & Cannibal Fighting Together"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Bartolomeo & Cavendish, The Noble Prince & Cannibal Fighting Together",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Driven",
+      "Slasher"
+    ],
+    "id": 5042,
+    "aliases": [
+      "Bartolomeo&Cavendish",
+      "Bartolomeo and Cavendish",
+      "Bartolomeo Cavendish",
+      "BartolomeoCavendish",
+      "Cavendish&Bartolomeo",
+      "Cavendish and Bartolomeo",
+      "Cavendish Bartolomeo",
+      "CavendishBartolomeo",
+      "Barto",
+      "Cabbage",
+      "[Dual Unit] Bartolomeo & Cavendish",
+      " The Noble Prince & Cannibal Fighting Together"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Bartolomeo & Cavendish, The Noble Prince & Cannibal Fighting Together",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Driven",
+      "Slasher"
+    ],
+    "id": 5043,
+    "aliases": [
+      "Bartolomeo&Cavendish",
+      "Bartolomeo and Cavendish",
+      "Bartolomeo Cavendish",
+      "BartolomeoCavendish",
+      "Cavendish&Bartolomeo",
+      "Cavendish and Bartolomeo",
+      "Cavendish Bartolomeo",
+      "CavendishBartolomeo",
+      "Barto",
+      "Cabbage",
+      "[Dual Unit] Bartolomeo & Cavendish",
+      " The Noble Prince & Cannibal Fighting Together"
     ]
   }
 ]
