@@ -1,41 +1,8 @@
 {
-  "name": "Reconnaissance Group, Guardians",
+  "name": "? Group, Guardians",
   "detail": {
-    "captain": "Boosts ATK of [DEX] characters by 1.5x",
+    "specialName": "Mink Slot Boost",
     "special": "Reduces Paralysis duration by 2 turns and amplifies the effect of orbs by 1.25x for 1 turn.",
-    "specialName": "Mink Slot Boost"
-  },
-  "aliases": [
-    "偵察団員 侠客団",
-    "",
-    ""
-  ],
-  "unit": {
-    "type": "QCK",
-    "class": [
-      "Fighter",
-      "Powerhouse"
-    ],
-    "stars": 3,
-    "cost": 12,
-    "combo": 6,
-    "slots": 1,
-    "level": 60,
-    "exp": 449516,
-    "minHP": 78,
-    "minATK": 49,
-    "minRCV": 29,
-    "maxHP": 1294,
-    "maxATK": 862,
-    "maxRCV": 128,
-    "ability": 1
-  },
-  "cooldown": 21,
-  "evolve": [],
-  "image": {
-    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2223.png",
-    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2223.png"
-  },
-  "drop": [],
-  "manual": []
+    "captain": "Boosts ATK of [DEX] characters by 1.5x"
+  }
 }
