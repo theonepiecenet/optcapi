@@ -1,0 +1,88 @@
+{
+    "name": "“Pirate Mercenary” 하이루딘, Spear of Elbaf",
+    "detail": {
+        "captain": "Boosts ATK of Driven and Powerhouse characters by 3.25x, reduces crew's current HP by ?% at the end of each turn, reduces his own ATK multiplier by ?x at the end of each turn",
+        "captainNotes": "His ATK multiplier will be 3.25x on the first turn, ?x on the second, ?x on the third and so on. The reduction stops once the multiplier is ?x. The multiplier affects all Driven and Powerhouse characters. You will not die to the HP reduction",
+        "special": "Reduces Bind, Paralysis and Chain Coefficient Reduction duration by 4 turns, reduces Special Cooldown of Driven and Powerhouse characters by 1 turn. If your Captain is a Driven and Powerhouse character, boosts ATK against delayed enemies by 1.75x for 2 turns",
+        "specialName": "\"Gungnir\" - The Decree of the Giant",
+        "sailor": {
+            "base": "Boosts base ATK, HP and RCV of Driven characters by 30",
+            "level1": "Boosts this character's attack against [DEX] characters by 2x"
+        },
+        "potential": [
+            {
+                "Name": "[STR] Damage Reduction",
+                "description": [
+                    "Level 1: Reduce damage taken from [STR] characters by ?%",
+                    "Level 2: Reduce damage taken from [STR] characters by ?%",
+                    "Level 3: Reduce damage taken from [STR] characters by ?%",
+                    "Level 4: Reduce damage taken from [STR] characters by ?%",
+                    "Level 5: Reduce damage taken from [STR] characters by ?%"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by ? turn on this character",
+                    "Level 2: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 3: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 4: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 5: Reduces Slot Bind duration by ? turns on this character"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Don Chinjao, Dagama, Abdullah & Jeet, Orlumbus, Blue Gilly, Suleiman, Cavendish, Don Sai, Ideo and Elizabello",
+                "description": [
+                    "Level 1: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 2: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 3: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 4: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 5: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Driven",
+            "Powerhouse"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 5,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1,
+        "minATK": 1,
+        "minRCV": 1,
+        "maxHP": 3000,
+        "maxATK": 1455,
+        "maxRCV": 188,
+        "ability": null
+    },
+    "cooldown": 19,
+    "evolve": {
+        "evolution": 2422,
+        "evolvers": [],
+        "from": 2421
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2422.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2422.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}
