@@ -1,0 +1,89 @@
+{
+    "name": "사이, The Leader Repaying his Crew's Indebtness",
+    "detail": {
+        "captain": "Boosts HP of Driven characters by 1.25x and boosts ATK of Driven characters by 2.75x if they have a matching orb, by 1.5x otherwise",
+        "special": "Reduces Bind, Despair and Burn duration by 3 turns, reduces enemies' ATK Up, Enrage and Resilience Buffs duration by 3 turns, reduces the defense of all enemies by ?% for 1 turn and makes [STR], [DEX], [QCK], [PSY] and [INT] orbs beneficial for Driven characters for 1 turn",
+        "specialName": "Drill Dragon Nail - The Leader's Killing Strike",
+        "sailor": {
+            "base": "Boosts base ATK of Driven characters by 50",
+            "level1": "Makes [RCV] and [TND] orbs beneficial for this character"
+        },
+        "sailorNotes": "#{beneficial}",
+        "potential": [
+            {
+                "Name": "Enrage",
+                "description": [
+                    "Level 1: Boosts base ATK by ?",
+                    "Level 2: Boosts base ATK by ?",
+                    "Level 3: Boosts base ATK by ?",
+                    "Level 4: Boosts base ATK by ?",
+                    "Level 5: Boosts base ATK by ?"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by ? turn on this character",
+                    "Level 2: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 3: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 4: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 5: Reduces Slot Bind duration by ? turns on this character"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}",
+        "support": [
+            {
+                "Characters": "Don Chinjao, Dagama, Abdullah & Jeet, Orlumbus, Blue Gilly, Suleiman, Cavendish, Ideo, Elizabello and Hajrudin",
+                "description": [
+                    "Level 1: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV.",
+                    "Level 2: Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV.",
+                    "Level 3: Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV.",
+                    "Level 4: Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV.",
+                    "Level 5: Adds 12% of this character's base HP and RCV to the supported character's base HP and RCV."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        "Don Sai"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Driven",
+            "Fighter"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 6,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1,
+        "minATK": 1,
+        "minRCV": 1,
+        "maxHP": 3000,
+        "maxATK": 1422,
+        "maxRCV": 322,
+        "ability": null
+    },
+    "cooldown": 21,
+    "evolve": {
+        "evolution": 2426,
+        "evolvers": [],
+        "from": 2425
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2426.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2426.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

@@ -1,0 +1,88 @@
+{
+    "name": "“Destruction Cannon” 이데오, New World Central Fighting Tournament - V2 Champion",
+    "detail": {
+        "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight boosts ATK of Driven and Fighter characters by 2.5x, but boosts his OWN attack by 2.75x",
+        "special": "Delays all enemies for 2 turns. If your Captain is a [DEX] or [INT] character, changes [G], [EMPTY] and [BLOCK] orbs into Matching orbs and locks the chain multiplier at 2.75x for 3 turns. If your Captain is a [QCK] or [PSY] character, changes [RCV], [TND] and [BOMB] orbs into Matching orbs and locks the chain multiplier at 3x for 1 turn.",
+        "specialName": "The Fist of Humanity and Duty",
+        "sailor": {
+            "base": "Makes [QCK] orbs beneficial for this character",
+            "level1": "Reduces Silence duration on this character by 3 turns"
+        },
+        "sailorNotes": "#{beneficial}",
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by ? turn on this character",
+                    "Level 2: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 3: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 4: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 5: Reduces Slot Bind duration by ? turns on this character"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Don Chinjao, Dagama, Abdullah & Jeet, Orlumbus, Blue Gilly, Suleiman, Cavendish, Don Sai, Elizabello and Hajrudin",
+                "description": [
+                    "Level 1: Adds 6% of this character's base HP to the supported character's base HP.",
+                    "Level 2: Adds 7% of this character's base HP to the supported character's base HP.",
+                    "Level 3: Adds 9% of this character's base HP to the supported character's base HP.",
+                    "Level 4: Adds 12% of this character's base HP to the supported character's base HP.",
+                    "Level 5: Adds 15% of this character's base HP to the supported character's base HP."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Driven",
+            "Fighter"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1,
+        "minATK": 1,
+        "minRCV": 1,
+        "maxHP": 3000,
+        "maxATK": 1428,
+        "maxRCV": 302,
+        "ability": null
+    },
+    "cooldown": 20,
+    "evolve": {
+        "evolution": 2420,
+        "evolvers": [],
+        "from": 2419
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2420.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2420.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}
