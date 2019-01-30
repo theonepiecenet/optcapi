@@ -1,9 +1,9 @@
 {
-  "name": "바솔로뮤 쿠마",
-  "detail": {
-    "specialName": "Erasing Palm Strike",
-    "special": "Reduces enemy's Threshold Damage Reduction and Percent Damage Reduction duration by 3 turns and changes adjacent orbs into [RCV] orbs. If there are 2 enemies or more on the stage, instantly defeats one enemy with HP equal to or below 350x character's ATK, cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers otherwise",
-    "captain": "Boosts ATK of Shooter characters by ?x and recovers ?x character's RCV in HP at the end of each turn",
-    "sailor": "사격형 캐릭터의 기본 체력이 75 상승한다"
-  }
+    "name": "바솔로뮤 쿠마, 미완성인 인간병기",
+    "detail": {
+        "specialName": "날려 보내는 손바닥",
+        "special": "적 전체에게 걸려 있는 [THRESHOLD DAMAGE], 데미지 감소 상태를 3턴 줄이고, 인접한 슬롯을 [RCV] 슬롯으로 바꾼다. 적이 2명 이상일 경우, 대상인 적 1명의 남은 HP가 필살기를 발동하는 캐릭터의 공격력x350배 이하일 때 그 적 1명을 격파하며, 격파하지 못하는 경우 모든 방어 효과를 무시하고 그 적 1명의 HP를 20% 줄인다",
+        "captain": "사격형 캐릭터의 공격력을 2배로 만들고, 턴 종료 시 캐릭터의 회복력x1.5배의 체력을 회복한다",
+        "sailor": "사격형 캐릭터의 기본 체력이 75 상승한다"
+    }
 }

@@ -1,81 +1,81 @@
 {
-  "name": "바솔로뮤 쿠마, The Human Weapon Defying Justice",
-  "detail": {
-    "specialName": "Erasing Palm Strike",
-    "special": "Reduces enemy's Threshold Damage Reduction and Percent Damage Reduction duration by 3 turns and changes adjacent orbs into [RCV] orbs. If there are 2 enemies or more on the stage, instantly defeats one enemy with HP equal to or below 350x character's ATK, cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers otherwise",
-    "captain": "Boosts ATK of Shooter characters by 2.5x and recovers 2x character's RCV in HP at the end of each turn",
-    "sailor": {
-      "base": "Boosts base HP of Shooter characters by 75",
-      "level1": "Makes [PSY] orbs “beneficial” for Shooter characters"
-    },
-    "potential": [
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 1 turn",
-          "Level 3: Reduces No Healing duration by 1 turn",
-          "Level 4: Reduces No Healing duration by 2 turns",
-          "Level 5: Reduces No Healing duration by 3 turns"
+    "name": "바솔로뮤 쿠마, 정의에 거스르는 인간병기",
+    "detail": {
+        "specialName": "날려 보내는 손바닥",
+        "special": "적 전체에게 걸려 있는 [THRESHOLD DAMAGE], 데미지 감소 상태를 3턴 줄이고, 인접한 슬롯을 [RCV] 슬롯으로 바꾼다. 적이 2명 이상일 경우, 대상인 적 1명의 남은 HP가 필살기를 발동하는 캐릭터의 공격력x350배 이하일 때 그 적 1명을 격파하며, 격파하지 못하는 경우 모든 방어 효과를 무시하고 그 적 1명의 HP를 20% 줄인다",
+        "captain": "사격형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시 캐릭터의 회복력x2배의 체력을 회복한다",
+        "sailor": {
+            "base": "사격형 캐릭터의 기본 체력이 75 상승한다",
+            "level1": "Makes [PSY] orbs “beneficial” for Shooter characters"
+        },
+        "potential": [
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 1 turn",
+                    "Level 3: Reduces No Healing duration by 1 turn",
+                    "Level 4: Reduces No Healing duration by 2 turns",
+                    "Level 5: Reduces No Healing duration by 3 turns"
+                ]
+            },
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "회복력 상승 : 5"
+            },
+            {
+                "description": "회복력 상승 : 5"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "잠재능력 습득 1: Reduce No Healing duration"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” for Shooter characters"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "잠재능력 습득 2: Barrier Penetration"
+            }
         ]
-      },
-      {
-        "Name": "Barrier Penetration",
-        "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "회복력 상승 : 5"
-      },
-      {
-        "description": "회복력 상승 : 5"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "잠재능력 습득 1: Reduce No Healing duration"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "선원 효과 추가 1: Makes [PSY] orbs “beneficial” for Shooter characters"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "잠재능력 습득 2: Barrier Penetration"
-      }
-    ]
-  }
+    }
 }
