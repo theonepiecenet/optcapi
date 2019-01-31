@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of all characters by 2x",
     "special": "Reduces Special Cooldown of all characters by 1 turn and reduces crew's current HP by 10%",
-    "specialName": "War of Mislead Order"
+    "specialName": "War of Mislead Order",
+    "support": [
+      {
+        "Characters": "Elizabello, Chinjao, Sai, Ideo and Hajrudin",
+        "description": [
+          "Level 1: Boosts the supported character's ATK by 1.05x against Bartolomeo",
+          "Level 2: Boosts the supported character's ATK by 1.05x against Bartolomeo",
+          "Level 3: Boosts the supported character's ATK by 1.1x against Bartolomeo",
+          "Level 4: Boosts the supported character's ATK by 1.1x against Bartolomeo",
+          "Level 5: Boosts the supported character's ATK by 1.2x against Bartolomeo"
+        ]
+      }
+    ]
   },
   "aliases": [
     "軍師ダガマ プロデンス王国",

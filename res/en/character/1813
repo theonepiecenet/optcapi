@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of all characters by 2.25x and boosts EXP and amount of Beli received by 1.2x",
     "special": "Changes Captain's orb into Matching and boosts ATK of your Captain by 1.5x for 1 turn",
-    "specialName": "Revolutionary Soldier's Anger"
+    "specialName": "Revolutionary Soldier's Anger",
+    "support": [
+      {
+        "Characters": "Fighter Characters",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses their special, boosts ATK of your captain characters by 1.025x for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses their special, boosts ATK of your captain characters by 1.05x for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses their special, boosts ATK of your captain characters by 1.1x for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses their special, boosts ATK of your captain characters by 1.15x for 1 turn.",
+          "Level 5: Once per an adventure, when the supported character uses their special, boosts ATK of your captain characters by 1.2x for 1 turn."
+        ]
+      }
+    ]
   },
   "aliases": [
     "コアラ 極秘任務の革命軍",

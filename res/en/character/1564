@@ -20,7 +20,19 @@
     ],
     "specialNotes": "#{stages}",
     "specialName": "Battle Royale Rush",
-    "sailor": "Boosts own base ATK by 350 if this character is the last in the chain to attack"
+    "sailor": "Boosts own base ATK by 350 if this character is the last in the chain to attack",
+    "support": [
+      {
+        "Characters": "Dagama, Chinjao, Sai, Ideo and Hajrudin",
+        "description": [
+          "Level 1: Once per adventure, when the enemy enables an End of Turn Damage buff, reduces Increase Damage Taken duration by 1 turns.",
+          "Level 2: Once per adventure, when the enemy enables an End of Turn Damage buff, reduces Increase Damage Taken duration by 1 turns.",
+          "Level 3: Once per adventure, when the enemy enables an End of Turn Damage buff, reduces Increase Damage Taken duration by 1 turns and recovers 1,000 HP.",
+          "Level 4: Once per adventure, when the enemy enables an End of Turn Damage buff, reduces Increase Damage Taken duration by 3 turns and recovers 2,000 HP.",
+          "Level 5: Once per adventure, when the enemy enables an End of Turn Damage buff, reduces Increase Damage Taken duration by 3 turns and recovers 3,000 HP."
+        ]
+      }
+    ]
   },
   "aliases": [
     "“戦う王”エリザベローII世 プロデンス王国",
