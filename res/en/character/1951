@@ -135,7 +135,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Bartolomeo, Cavendish, Rebecca and Kyros",
+        "description": [
+          "Level 1: Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 2: Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 3: Adds 12% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 4: Adds 15% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 5: Adds 18% of this character's base HP and RCV to the supported character's base HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ニコ・ロビン 空白を明かす考古学者",
