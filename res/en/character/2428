@@ -1,0 +1,60 @@
+{
+  "name": "Cavendish, Evolved",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by 2x, but boosts his OWN attack by 2.75x",
+    "special": "Deals 15x character's ATK in [PSY] damage to one enemy and amplifies the effect of orbs for Slasher characters by 1.5x and boosts ATK of Slasher characters by 1.5x for 1 turn",
+    "specialName": "Cavendish Special",
+    "support": [
+      {
+        "Characters": "Suleiman, Bartolomeo",
+        "description": [
+          "Level 1: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 1870,
+    "maxATK": 1210,
+    "maxRCV": 235,
+    "ability": null
+  },
+  "cooldown": [
+    null,
+    13
+  ],
+  "evolve": {
+    "evolution": 2428,
+    "evolvers": [],
+    "from": 2427
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2428.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2428.png"
+  },
+  "drop": [],
+  "manual": []
+}

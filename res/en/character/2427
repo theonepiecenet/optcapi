@@ -1,0 +1,57 @@
+{
+  "name": "Cavendish",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by ?x, but boosts his OWN attack by ?x",
+    "special": "Deals 15x character's ATK in [PSY] damage to one enemy and amplifies the effect of orbs for Slasher characters by 1.5x and boosts ATK of Slasher characters by 1.5x for 1 turn",
+    "specialName": "Cavendish Special"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 130703,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    null,
+    13
+  ],
+  "evolution": {
+    "evolution": 2428,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2427.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2427.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Cavendish Fortnight Fortnight",
+      "thumb": 2428,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}
