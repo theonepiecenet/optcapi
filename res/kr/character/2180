@@ -1,18 +1,18 @@
 {
-  "name": "흰 수염&마르코, The Foundation of the Paramount War",
-  "detail": {
-    "specialName": "Immortal Blue Flame Shockwave",
-    "special": "Cuts the current HP of each enemy by 30%, recovers 20,000 HP, randomizes all orbs into either [PSY], [INT] or [RCV] orbs and becomes Whitebeard & Marco for 3 turns",
-    "captain": [
-      "Boosts ATK of [PSY] characters by 3.5x, boosts ATK of all other characters by 2.75x, reduce damage received by 15% and makes [PSY] orbs “beneficial” to all characters",
-      "Boosts ATK of [INT] characters by 3.5x, boosts ATK of all other characters by 2.75x, boosts RCV of all characters by 1.25x and makes [PSY] orbs “beneficial” to all characters",
-      "Boosts ATK of [PSY] and [INT] characters by 4.25x, boosts ATK of all other characters by 3x, boosts RCV of all characters by 1.5x, reduce damage received by 20% and makes [PSY] and [INT] orbs “beneficial” to all characters"
-    ],
-    "sailor": [
-      "[PSY] and [INT] 속성의 기본 공격력이 75 상승한다",
-      "Boosts base HP and RCV of [PSY] and [INT] characters by 75",
-      "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 100"
-    ],
-    "specialNotes": "Change Action: When Change is activated, reduces Paralysis and Silence duration by 1 turn, makes [RCV] orbs “beneficial” for all characters for 1 turn and changes their own orb into a [RCV] orb #{beneficial}"
-  }
+    "name": "흰 수염&마르코, 정상전쟁을 위한 포진",
+    "detail": {
+        "specialName": "창염의 충격파",
+        "special": "체력을 20000 회복하고, 적 전체의 HP를 30% 줄이며, 모든 슬롯을 [PSY][INT][RCV]로 바꾸고, 3턴 동안 ‘흰 수염&마르코’가 된다",
+        "captain": [
+            "[PSY]의 공격력을 3.5배, [PSY] 이외의 공격력을 2.75배로 만들고, 받는 데미지를 20% 감소시키며, 일당은 [PSY] 슬롯도 [유리] 슬롯으로 취급한다",
+            "[INT]의 공격력을 3.5배, [INT] 이외의 공격력을 2.75배, 일당의 회복력을 1.25배로 만들고, 일당은 [INT] 슬롯도 [유리] 슬롯으로 취급한다",
+            "[PSY]과 [INT]의 공격력을 4.25배, [PSY]과 [INT] 이외의 공격력을 3배, 일당의 회복력을 1.5배로 만들고, 받는 데미지를 20% 감소시키며, 일당은 [PSY][INT] 슬롯도 [유리] 슬롯으로 취급한다"
+        ],
+        "sailor": [
+            "[PSY]과 [INT]의 기본 공격력이 75 상승한다",
+            "[PSY]과 [INT]의 기본 체력과 기본 회복력이 75 상승한다",
+            "[PSY]과 [INT]의 기본 능력치가 100 상승한다"
+        ],
+        "specialNotes": "Change Action: When Change is activated, reduces Paralysis and Silence duration by 1 turn, makes [RCV] orbs “beneficial” for all characters for 1 turn and changes their own orb into a [RCV] orb #{beneficial}"
+    }
 }
