@@ -1,93 +1,93 @@
 {
-  "name": "스트로베리, Chaos at Marineford - ‘Vice Admiral’",
-  "detail": {
-    "specialName": "Heartful Twin Slashes",
-    "special": "Reduces Bind, Despair, ATK DOWN and Chain Multiplier Limit duration by 2 turns, reduces enemy Barrier duration by 1 turn and deals 50,000 fixed damage to one enemy",
-    "captain": "Boosts ATK of 참격형 and Cerebral characters by 2.25x and reduce damage received by 10%",
-    "sailor": {
-      "base": "When any other [PSY] or [INT] character uses a special, reduces own cooldown by 3 turns",
-      "level1": "Makes [TND] orbs “beneficial” for [PSY] and [INT] characters"
-    },
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+    "name": "스트로베리, 광란의 마린포드 ‘해군 중장’",
+    "detail": {
+        "specialName": "심안의 이연참",
+        "special": "Reduces Bind, Despair, ATK DOWN and Chain Multiplier Limit duration by 2 turns, reduces enemy Barrier duration by 1 turn and deals 50,000 fixed damage to one enemy",
+        "captain": "Boosts ATK of 참격형 and Cerebral characters by 2.25x and reduce damage received by 10%",
+        "sailor": {
+            "base": "When any other [PSY] or [INT] character uses a special, reduces own cooldown by 3 turns",
+            "level1": "Makes [TND] orbs “beneficial” for [PSY] and [INT] characters"
+        },
+        "potential": [
+            {
+                "Name": "크리티컬 공격",
+                "description": [
+                    "Level 1: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+                    "Level 2: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+                    "Level 3: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+                    "Level 4: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+                    "Level 5: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+                ]
+            },
+            {
+                "Name": "회복 무효 내성",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turn",
+                    "Level 3: Reduces No Healing duration by 3 turn",
+                    "Level 4: Reduces No Healing duration by 4 turns",
+                    "Level 5: Reduces No Healing duration by 5 turns"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 15"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "잠재능력 습득 1: 크리티컬 공격"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "선원 효과 추가 1: Makes [TND] orbs “beneficial” for [PSY] and [INT] characters"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "잠재능력 습득 2: Reduce No Healing duration"
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Cerebral Characters",
+                "description": [
+                    "Level 1: Adds 1% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 2: Adds 2% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 3: Adds 3% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 4: Adds 4% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 5: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turn",
-          "Level 3: Reduces No Healing duration by 3 turn",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 15"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "잠재능력 습득 1: 크리티컬 공격"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "선원 효과 추가 1: Makes [TND] orbs “beneficial” for [PSY] and [INT] characters"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "잠재능력 습득 2: Reduce No Healing duration"
-      }
-    ],
-    "support": [
-      {
-        "Characters": "Cerebral Characters",
-        "description": [
-          "Level 1: Adds 1% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 2: Adds 2% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 3: Adds 3% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 4: Adds 4% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 5: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV"
-        ]
-      }
-    ]
-  }
+    }
 }

@@ -1,81 +1,81 @@
 {
-  "name": "보아 행콕, Chaos at Marineford - ‘Pirate Empress’",
-  "detail": {
-    "specialName": "Mero Mero Slave Arrow",
-    "special": "Delays all enemies for 1 turn. If your crew has 3 or more [INT] characters, changes [BLOCK] orbs into Matching orbs and boosts ATK of [PSY] and [INT] characters by 2x for 1 turn",
-    "captain": "Boosts ATK of [PSY] and [INT] characters by 2.5x and their RCV by 1.2x",
-    "sailor": {
-      "base": "Boosts base RCV of [PSY] and [INT] characters by 50",
-      "level1": "Makes [STR], [QCK], [DEX] and [INT] orbs “beneficial” for this character if your Captain is a [PSY] or [INT] character"
-    },
-    "potential": [
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
+    "name": "보아 행콕, 광란의 마린포드 ‘해적여제’",
+    "detail": {
+        "specialName": "Mero Mero Slave Arrow",
+        "special": "Delays all enemies for 1 turn. If your crew has 3 or more [INT] characters, changes [BLOCK] orbs into Matching orbs and boosts ATK of [PSY] and [INT] characters by 2x for 1 turn",
+        "captain": "Boosts ATK of [PSY] and [INT] characters by 2.5x and their RCV by 1.2x",
+        "sailor": {
+            "base": "Boosts base RCV of [PSY] and [INT] characters by 50",
+            "level1": "Makes [STR], [QCK], [DEX] and [INT] orbs “beneficial” for this character if your Captain is a [PSY] or [INT] character"
+        },
+        "potential": [
+            {
+                "Name": "슬롯 봉쇄 내성",
+                "description": [
+                    "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+                    "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+                    "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+                    "Level 4: 자신의 슬롯 봉쇄 상태를 4턴 회복한다",
+                    "Level 5: 자신의 슬롯 봉쇄 상태를 5턴 회복한다"
+                ]
+            },
+            {
+                "Name": "긴급 회복",
+                "description": [
+                    "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+                    "Level 2: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+                    "Level 3: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+                    "Level 4: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
+                    "Level 5: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "잠재능력 습득 1: Slot Bind Self-reduction"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 15"
+            },
+            {
+                "description": "회복력 상승 : 15"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "선원 효과 추가 1: Makes [STR], [QCK], [DEX] and [INT] orbs “beneficial” for this character if your Captain is a [PSY] or [INT] character"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "회복력 상승 : 25"
+            },
+            {
+                "description": "잠재능력 습득 2: 긴급 회복"
+            }
         ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 2: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
-          "Level 3: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
-          "Level 4: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
-          "Level 5: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "잠재능력 습득 1: Slot Bind Self-reduction"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 15"
-      },
-      {
-        "description": "회복력 상승 : 15"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "선원 효과 추가 1: Makes [STR], [QCK], [DEX] and [INT] orbs “beneficial” for this character if your Captain is a [PSY] or [INT] character"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "회복력 상승 : 25"
-      },
-      {
-        "description": "잠재능력 습득 2: 긴급 회복"
-      }
-    ]
-  }
+    }
 }
