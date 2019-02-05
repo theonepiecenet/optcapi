@@ -1,5 +1,5 @@
 {
-  "name": "Suleiman",
+  "name": "Suleiman, Passenger of the Beautiful Pirates",
   "detail": {
     "captain": "Boosts ATK of Slasher characters by 2x",
     "special": "Deals 15x character's ATK in [PSY] damage to all enemies. If your Captain is a Slasher character, changes [RCV], [TND], [EMPTY], [BLOCK] and [BOMB] orbs on Slasher characters into Matching orbs and reduces the defense of all enemies by 50% for 1 turn.",
@@ -8,17 +8,17 @@
       {
         "Characters": "Cavendish",
         "description": [
-          "Level 1: Adds ?% of this character's base ATK to the supported character's base ATK.",
-          "Level 2: Adds ?% of this character's base ATK to the supported character's base ATK.",
-          "Level 3: Adds ?% of this character's base ATK to the supported character's base ATK.",
-          "Level 4: Adds ?% of this character's base ATK to the supported character's base ATK.",
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Adds 1% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Adds 2% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Adds 2% of this character's base ATK to the supported character's base ATK.",
           "Level 5: Adds 3% of this character's base ATK to the supported character's base ATK."
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "スレイマン 美しき海賊団の同乗者",
     "",
     ""
   ],
@@ -34,16 +34,16 @@
     "slots": 4,
     "level": 99,
     "exp": 1000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 808,
+    "minATK": 460,
+    "minRCV": 92,
     "maxHP": 2020,
     "maxATK": 1150,
     "maxRCV": 230,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
-    null,
+    19,
     13
   ],
   "evolve": [],

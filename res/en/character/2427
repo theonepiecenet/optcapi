@@ -1,12 +1,12 @@
 {
-  "name": "Cavendish",
+  "name": "Cavendish, The Beautiful Captain who Gains Popularity",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters by ?x, but boosts his OWN attack by ?x",
+    "captain": "Boosts ATK of Slasher characters by 1.75x, but boosts his OWN attack by 2.5x",
     "special": "Deals 15x character's ATK in [PSY] damage to one enemy and amplifies the effect of orbs for Slasher characters by 1.5x and boosts ATK of Slasher characters by 1.5x for 1 turn",
     "specialName": "Cavendish Special"
   },
   "aliases": [
-    "",
+    "キャベンディッシュ 人気を集める美しき船長",
     "",
     ""
   ],
@@ -18,25 +18,31 @@
     ],
     "stars": 3,
     "cost": 1,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 130703,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 440,
+    "minATK": 200,
+    "minRCV": 40,
+    "maxHP": 1100,
+    "maxATK": 500,
+    "maxRCV": 100,
+    "ability": 1
   },
   "cooldown": [
-    null,
+    19,
     13
   ],
   "evolution": {
     "evolution": 2428,
-    "evolvers": []
+    "evolvers": [
+      117,
+      81,
+      87,
+      98,
+      103
+    ]
   },
   "evolve": [],
   "image": {
