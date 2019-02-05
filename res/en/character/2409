@@ -1,13 +1,13 @@
 {
   "name": "Monkey D. Luffy, Outlaw on the Prairie",
   "detail": {
-    "captain": "Boosts ATK of Fighter and Free Spirit characters by ?x and their HP by ?x",
+    "captain": "Boosts ATK of Fighter and Free Spirit characters by 2.5x and their HP by 1.2x",
     "special": "Reduces enemy's Percent Damage Reduction and Threshold Damage Reduction Buffs duration by 3 turns. If you captain is a Fighter character, changes [BLOCK] orbs into Matching orbs",
     "specialName": "Captain's Spinning Gun",
     "sailor": "Boosts base ATK, HP and RCV of Fighter and Free Spirit characters by 50"
   },
   "aliases": [
-    "",
+    "モンキー・D・ルフィ 荒野のお尋ね者",
     "",
     "World Journey Luffy",
     "Cowboy Luffy"
@@ -20,22 +20,31 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
-    "slots": null,
-    "level": null,
-    "exp": null,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 703,
+    "minATK": 382,
+    "minRCV": 80,
+    "maxHP": 1401,
+    "maxATK": 753,
+    "maxRCV": 175,
+    "ability": 1
   },
-  "cooldown": null,
+  "cooldown": [
+    12,
+    12
+  ],
   "evolution": {
     "evolution": 2410,
-    "evolvers": []
+    "evolvers": [
+      118,
+      85,
+      96,
+      301,
+      101
+    ]
   },
   "evolve": [],
   "image": {

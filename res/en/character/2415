@@ -1,14 +1,14 @@
 {
-  "name": "Pica",
+  "name": "Pica, The Executive Eliminating Obstacles",
   "detail": {
-    "captain": "If this character becomes your captain in the middle of an island, reduces damage received by ?% and boosts his OWN attack by ?x and cuts the current HP of each enemy by ?% at the end of each turn.",
+    "captain": "If this character becomes your captain in the middle of an island, reduces damage received by 30% and boosts his OWN attack by 3x and cuts the current HP of each enemy by 5% at the end of each turn.",
     "special": "Deals 300,000 Fixed damage to one enemy. Swaps this unit with your captain for 3 turns",
     "specialName": "Giant Rock Punch",
     "sailor": "Restores his own special cooldown by 2 turns when it is rewinded",
     "sailorNotes": "#{rewind : 2}"
   },
   "aliases": [
-    "",
+    "ピーカ 邪魔者を排除する幹部",
     "",
     "Coliseum Pica"
   ],
@@ -30,7 +30,7 @@
     "maxHP": 2512,
     "maxATK": 622,
     "maxRCV": 18,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     29,

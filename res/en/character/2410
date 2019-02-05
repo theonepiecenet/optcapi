@@ -8,31 +8,78 @@
       "base": "Boosts base ATK, HP and RCV of Fighter and Free Spirit characters by 50",
       "level1": "If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn"
     },
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Potential 2: Barrier Penetration"
+      }
+    ],
     "potential": [
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
         ]
       },
       {
         "Name": "Barrier Penetration",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 60% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "モンキー・D・ルフィ 荒野の暴れん坊",
     "",
     "World Journey Luffy",
     "Cowboy Luffy"
@@ -45,22 +92,31 @@
     ],
     "stars": 5,
     "cost": 30,
-    "combo": null,
-    "slots": null,
+    "combo": 4,
+    "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 1301,
+    "minATK": 721,
+    "minRCV": 161,
+    "maxHP": 2410,
+    "maxATK": 1359,
+    "maxRCV": 302,
+    "ability": 1
   },
-  "cooldown": null,
+  "cooldown": [
+    12,
+    12
+  ],
   "evolve": {
     "evolution": 2410,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      85,
+      96,
+      301,
+      101
+    ],
     "from": 2409
   },
   "image": {

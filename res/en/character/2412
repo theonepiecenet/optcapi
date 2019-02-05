@@ -9,31 +9,79 @@
       "base": "Reduces Paralysis duration on this character by 3 turns",
       "level1": "Reduces Silence duration on this character by 3 turns"
     },
+    "sailorNotes": "#{silence}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 3 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: If HP is below 30% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 40% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "ナミ 荒野の泥棒猫",
     "",
     "World Journey Nami",
     "Cowboy Nami"
@@ -46,25 +94,31 @@
     ],
     "stars": 5,
     "cost": 30,
-    "combo": null,
-    "slots": null,
+    "combo": 4,
+    "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 1191,
+    "minATK": 711,
+    "minRCV": 200,
+    "maxHP": 2098,
+    "maxATK": 1289,
+    "maxRCV": 373,
+    "ability": 1
   },
   "cooldown": [
-    null,
+    12,
     12
   ],
   "evolve": {
     "evolution": 2412,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      88,
+      99,
+      304,
+      104
+    ],
     "from": 2411
   },
   "image": {

@@ -1,8 +1,8 @@
 {
   "name": "\"The Fighting King\" Elizabello II, The King's Fist Destroying the Giant Arm",
   "detail": {
-    "captain": "Boosts ATK of Driven characters by ?x. Increases his own ATK multiplier by ??x at the end of each turn until it reaches a maximum 3.25x after 20 turns. Recovers 500 HP at end of each turn.",
-    "captainNotes": "His ATK multiplier will be ?x on the first turn, ?x on the second, ?x on the third and so on. The increase stops once the multiplier is 3.25x.",
+    "captain": "Boosts ATK of Driven characters by 1x. Increases his own ATK multiplier by 0.1125x at the end of each turn until it reaches a maximum 3.25x after 20 turns. Recovers 500 HP at end of each turn.",
+    "captainNotes": "His ATK multiplier will be 1x on the first turn, 1.1125x on the second, 1.225x on the third and so on. The increase stops once the multiplier is 3.25x.",
     "special": "Reduces enemy's Percent Damage Reduction and Threshold Damage Reduction Buffs duration by 3 turns and locks all orbs for 1 turn. If enemies have a Increased Defense buff or a Defense Reduction debuff at the time the special was activated, amplifies the effect of orbs by 2x for 1 turn, amplifies the effect of orbs by 1.75x for Driven and Fighter characters for 3 turns otherwise",
     "specialName": "Light Version: King Punch",
     "sailor": {
@@ -10,25 +10,72 @@
       "level1": "Makes [INT] orbs beneficial for Driven characters"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [INT] orbs beneficial for Driven characters"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "[PSY] Damage Reduction",
         "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by ?%",
-          "Level 2: Reduce damage taken from [PSY] characters by ?%",
-          "Level 3: Reduce damage taken from [PSY] characters by ?%",
-          "Level 4: Reduce damage taken from [PSY] characters by ?%",
-          "Level 5: Reduce damage taken from [PSY] characters by ?%"
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by 2%",
+          "Level 3: Reduce damage taken from [PSY] characters by 3%",
+          "Level 4: Reduce damage taken from [PSY] characters by 4%",
+          "Level 5: Reduce damage taken from [PSY] characters by 5%"
         ]
       },
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: Reduces Slot Bind duration by 2 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 7 turns on this character"
         ]
       }
     ],
@@ -46,7 +93,7 @@
     ]
   },
   "aliases": [
-    "",
+    "“戦う王”エリザベローII世 巨腕を砕く王の拳",
     "",
     ""
   ],
@@ -62,18 +109,27 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
-    "maxHP": 3000,
+    "minHP": 1150,
+    "minATK": 717,
+    "minRCV": 122,
+    "maxHP": 2828,
     "maxATK": 1411,
     "maxRCV": 258,
-    "ability": null
+    "ability": 1
   },
-  "cooldown": 20,
+  "cooldown": [
+    20,
+    14
+  ],
   "evolve": {
     "evolution": 2424,
-    "evolvers": [],
+    "evolvers": [
+      83,
+      266,
+      99,
+      304,
+      104
+    ],
     "from": 2423
   },
   "image": {

@@ -93,9 +93,9 @@
     ]
   },
   "aliases": [
+    "“ビッグ皇帝（エンペラー）” 巨大ロボ戦士",
     "",
-    "",
-    "Pirate Docking"
+    "Pirate Docking 6"
   ],
   "unit": {
     "type": "DEX",
@@ -115,7 +115,7 @@
     "maxHP": 3002,
     "maxATK": 1203,
     "maxRCV": 210,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     27,
@@ -124,8 +124,8 @@
   "evolve": {
     "evolution": 2398,
     "evolvers": [
-      2396,
-      2395
+      2395,
+      2396
     ],
     "from": 2397
   },

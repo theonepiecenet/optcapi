@@ -9,25 +9,72 @@
       "level1": "Makes [RCV] and [TND] orbs beneficial for this character"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Boosts base HP by 120"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [RCV] and [TND] orbs beneficial for this character"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by ?",
-          "Level 2: Boosts base ATK by ?",
-          "Level 3: Boosts base ATK by ?",
-          "Level 4: Boosts base ATK by ?",
-          "Level 5: Boosts base ATK by ?"
+          "Level 1: Boosts base ATK by 30",
+          "Level 2: Boosts base ATK by 60",
+          "Level 3: Boosts base ATK by 90",
+          "Level 4: Boosts base ATK by 120",
+          "Level 5: Boosts base ATK by 150"
         ]
       },
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: Reduces Slot Bind duration by 2 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 7 turns on this character"
         ]
       }
     ],
@@ -46,7 +93,7 @@
     ]
   },
   "aliases": [
-    "",
+    "サイ 一味の恩義に報いる首領",
     "",
     "Don Sai"
   ],
@@ -62,18 +109,27 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
-    "maxHP": 3000,
+    "minHP": 984,
+    "minATK": 723,
+    "minRCV": 152,
+    "maxHP": 2421,
     "maxATK": 1422,
     "maxRCV": 322,
-    "ability": null
+    "ability": 1
   },
-  "cooldown": 21,
+  "cooldown": [
+    21,
+    15
+  ],
   "evolve": {
     "evolution": 2426,
-    "evolvers": [],
+    "evolvers": [
+      83,
+      266,
+      98,
+      303,
+      103
+    ],
     "from": 2425
   },
   "image": {

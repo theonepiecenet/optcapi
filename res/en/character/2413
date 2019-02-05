@@ -1,13 +1,13 @@
 {
   "name": "Roronoa Zoro, Outlaw on the Prairie",
   "detail": {
-    "captain": "Boosts ATK of Shooter and Driven characters by ?x if they have a matching orb, by ?x otherwise.",
+    "captain": "Boosts ATK of Shooter and Driven characters by 2.75x if they have a matching orb, by 2.25x otherwise.",
     "special": "If enemies have a barrier at the time the special was activated, changes all orbs, including [BLOCK] orbs, into Matching orbs and reduces enemy Barrier duration by 1 turn, changes adjacent orbs into Matching Orbs otherwise.",
     "specialName": "Triple-Wielding Outlaw",
     "sailor": "Boosts base ATK, HP and RCV of Shooter and Driven characters by 50"
   },
   "aliases": [
-    "",
+    "ロロノア・ゾロ 荒野のお尋ね者",
     "",
     "World Journey Zoro",
     "Cowboy Zoro"
@@ -20,22 +20,31 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
-    "slots": null,
-    "level": null,
-    "exp": null,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 1000,
+    "minATK": 481,
+    "minRCV": 36,
+    "maxHP": 1805,
+    "maxATK": 854,
+    "maxRCV": 70,
+    "ability": 1
   },
-  "cooldown": null,
+  "cooldown": [
+    8,
+    8
+  ],
   "evolution": {
     "evolution": 2414,
-    "evolvers": []
+    "evolvers": [
+      118,
+      86,
+      97,
+      302,
+      102
+    ]
   },
   "evolve": [],
   "image": {
