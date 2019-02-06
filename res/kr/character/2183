@@ -1,11 +1,11 @@
 {
     "name": "보아 행콕, 광란의 마린포드 ‘해적여제’",
     "detail": {
-        "specialName": "Mero Mero Slave Arrow",
-        "special": "Delays all enemies for 1 turn. If your crew has 3 or more [INT] characters, changes [BLOCK] orbs into Matching orbs and boosts ATK of [PSY] and [INT] characters by 2x for 1 turn",
-        "captain": "Boosts ATK of [PSY] and [INT] characters by 2.5x and their RCV by 1.2x",
+        "specialName": "매료매료 「슬레이브 애로우」",
+        "special": "적 전체의 공격을 1턴 지연시키고, 일당에 [INT]이 3명 이상이면 [BLOCK] 슬롯을 속성 일치 슬롯으로 바꾸며, 1턴 동안 [PSY]과 [INT]의 공격력이 2배가 된다",
+        "captain": "[PSY]과 [INT]의 공격력을 2.5배, 회복력을 1.2배로 만든다",
         "sailor": {
-            "base": "Boosts base RCV of [PSY] and [INT] characters by 50",
+            "base": "[PSY]과 [INT]의 기본 회복력이 50 상승한다",
             "level1": "Makes [STR], [QCK], [DEX] and [INT] orbs “beneficial” for this character if your Captain is a [PSY] or [INT] character"
         },
         "potential": [
