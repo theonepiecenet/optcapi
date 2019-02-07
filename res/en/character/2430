@@ -1,14 +1,14 @@
 {
-  "name": "Charlotte Pudding",
+  "name": "Charlotte Pudding, Flipped Personality",
   "detail": {
-    "captain": "Boosts ATK of Driven characters by ?x and recovers ?x character's RCV in HP at the end of each turn",
+    "captain": "Boosts ATK of Driven characters by 2.5x and recovers 1x character's RCV in HP at the end of each turn",
     "special": "Reduces Silence duration by 5 turns, reduces enemy's Percent Damage Reduction and Resilience Buffs duration by 5 turns, changes [BLOCK] and Badly Matching orbs into [G] orbs. If there are 6 Driven characters in your crew when the special is activated, changes [STR], [DEX], [QCK], [PSY], [INT] orbs into Matching orbs and recovers 5,000 HP at the end of the turn for 3 turns.",
     "sailor": "Reduces Silence duration on this character by 5 turns",
     "sailorNotes": "#{silence}",
-    "specialName": "Pudding Special"
+    "specialName": "Memory Filament: Flashback"
   },
   "aliases": [
-    "",
+    "シャーロット・プリン 感情の裏返し",
     "",
     "Limited Pudding",
     "Secret Pudding"
@@ -21,17 +21,17 @@
     ],
     "stars": 4,
     "cost": 20,
-    "combo": null,
-    "slots": 3,
+    "combo": 5,
+    "slots": 4,
     "level": 70,
     "exp": 1066998,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 300,
+    "minATK": 294,
+    "minRCV": 120,
+    "maxHP": 750,
+    "maxATK": 735,
+    "maxRCV": 300,
+    "ability": 1
   },
   "cooldown": [
     19,
@@ -39,7 +39,13 @@
   ],
   "evolution": {
     "evolution": 2431,
-    "evolvers": []
+    "evolvers": [
+      118,
+      87,
+      98,
+      303,
+      103
+    ]
   },
   "evolve": [],
   "image": {
