@@ -1,0 +1,60 @@
+{
+  "name": "Orlumbus, Grand Fleet Admiral's Dignity",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by 2.7x if they have a matching orb, by 2.25x otherwise",
+    "special": "Changes all orbs on all characters into Orlumbus's orb and locks all orbs for 1 turn.",
+    "specialName": "Adventurer's Assistance",
+    "support": [
+      {
+        "Characters": "Elizabello, Chinjao, Sai, Ideo and Hajrudin",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses their special, changes [RCV] orbs on Driven characters into the supported character's orb.",
+          "Level 2: Once per an adventure, when the supported character uses their special, changes [RCV] and [EMPTY] orbs on Driven characters into the supported character's orb.",
+          "Level 3: Once per an adventure, when the supported character uses their special, changes [RCV], [EMPTY] and [BOMB] orbs on Driven characters into the supported character's orb.",
+          "Level 4: Once per an adventure, when the supported character uses their special, changes [RCV], [TND], [EMPTY] and [BOMB] orbs on Driven characters into the supported character's orb.",
+          "Level 5: Once per an adventure, when the supported character uses their special, changes [RCV], [TND], [EMPTY] and [BOMB] orbs on Driven characters into the supported character's orb and locks the supported character's orb for 1 turn."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Support Orlumbus"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 1,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 2423,
+    "maxATK": 1328,
+    "maxRCV": 245,
+    "ability": null
+  },
+  "cooldown": [
+    10,
+    10
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2436.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2436.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}
