@@ -1,82 +1,82 @@
 {
-  "name": "디아만테, 돈키호테 해적단",
-  "detail": {
-    "specialName": "Hira Release: Death Enjambre",
-    "special": "Delays all enemies for 2 turns, deals 50x character's ATK as typeless damage to all enemies at the end of the turn for 5 turns",
-    "captain": "Boosts ATK of Driven characters by 2.25x and reduces cooldown of all specials by 2 turns at the start of the fight",
-    "sailor": {
-      "base": "None",
-      "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character"
-    },
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "[DEX] 데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "잠재능력 습득 1: 크리티컬 공격"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "선원 효과 추가 1: Makes [RCV] and [TND] orbs “beneficial” for this character"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "잠재능력 습득 2: [DEX] 데미지 피해 감소"
-      }
-    ],
-    "sailorNotes": "#{beneficial}"
-  }
+    "name": "디아만테, 돈키호테 해적단",
+    "detail": {
+        "specialName": "해제 데스 엔함브레",
+        "special": "적 전체를 2턴 지연시키고, 5턴 동안 턴 종료 시에 무 속성 특대 데미지를 준다",
+        "captain": "모험 시작 시 필살 턴을 2턴 단축하고, 야심형 캐릭터의 공격력을 2.25배로 만든다",
+        "sailor": {
+            "base": "None",
+            "level1": "Makes [RCV] and [TND] orbs “beneficial” for this character"
+        },
+        "potential": [
+            {
+                "Name": "크리티컬 공격",
+                "description": [
+                    "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
+                    "Level 2: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+                    "Level 3: 자신의 공격이 PERFECT일 경우 15% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+                    "Level 4: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+                    "Level 5: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+                ]
+            },
+            {
+                "Name": "[DEX] 데미지 피해 감소",
+                "description": [
+                    "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+                    "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+                    "Level 4: [DEX] 속성에게 받는 데미지를 4% 감소시킨다",
+                    "Level 5: [DEX] 속성에게 받는 데미지를 5% 감소시킨다"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "잠재능력 습득 1: 크리티컬 공격"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "선원 효과 추가 1: Makes [RCV] and [TND] orbs “beneficial” for this character"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "잠재능력 습득 2: [DEX] 데미지 피해 감소"
+            }
+        ],
+        "sailorNotes": "#{beneficial}"
+    }
 }
