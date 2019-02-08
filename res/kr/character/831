@@ -1,84 +1,84 @@
 {
-  "name": "마술사 바질 호킨스 호킨스 해적단 선장",
-  "detail": {
-    "specialName": "천명의 단죄",
-    "special": "상단 슬롯을 [STR], 중단 슬롯을 [DEX], 하단 슬롯을 [QCK] 으로 변환",
-    "captain": "박식타입과 타격타입의 공격이 2배가 되고, 턴 종료시 적으로부터 받은 데미지의 5배를 [DEX] 데미지를 준다",
-    "sailor": {
-      "base": "None",
-      "level1": "Makes [QCK] orbs “beneficial” for this character",
-      "level2": "Makes [STR] orbs “beneficial” for this character"
-    },
-    "potential": [
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "잠재능력 습득 1: 슬롯 봉쇄 내성"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "선원 효과 추가 #: Makes [QCK] orbs “beneficial” for this character"
-      },
-      {
-        "description": "체력 상승 : 90"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "필살기 턴 수 단축: 2"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "필살기 턴 수 단축: 2"
-      },
-      {
-        "description": "선원 효과 추가 #: Makes [STR] orbs “beneficial” for this character"
-      },
-      {
-        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
-      }
-    ],
-    "sailorNotes": "#{beneficial}",
-    "potentialNotes": "#{enrage}"
-  }
+    "name": "마술사 바질 호킨스, 호킨스 해적단 선장",
+    "detail": {
+        "specialName": "천명의 단죄",
+        "special": "슬롯 상단을 [STR], 중단을 [DEX], 하단을 [QCK] 으로 바꾼다",
+        "captain": "박식형과 타격형의 공격력이 2배가 되고, 적에게서 받은 데미지의 5배를 턴 종료 시에 적 전체에게 돌려준다",
+        "sailor": {
+            "base": "None",
+            "level1": "Makes [QCK] orbs “beneficial” for this character",
+            "level2": "Makes [STR] orbs “beneficial” for this character"
+        },
+        "potential": [
+            {
+                "Name": "슬롯 봉쇄 내성",
+                "description": [
+                    "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+                    "Level 2: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+                    "Level 3: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+                    "Level 4: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다",
+                    "Level 5: 자신의 슬롯 봉쇄 상태를 ?턴 회복한다"
+                ]
+            },
+            {
+                "Name": "피격 시 공격력 상승",
+                "description": [
+                    "Level 1: 공격력 상승 : 50",
+                    "Level 2: 공격력 상승 : 75",
+                    "Level 3: 공격력 상승 : 100",
+                    "Level 4: 공격력 상승 : 150",
+                    "Level 5: 공격력 상승 : 200"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "잠재능력 습득 1: 슬롯 봉쇄 내성"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "선원 효과 추가 #: Makes [QCK] orbs “beneficial” for this character"
+            },
+            {
+                "description": "체력 상승 : 90"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "필살기 턴 수 단축: 2"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "필살기 턴 수 단축: 2"
+            },
+            {
+                "description": "선원 효과 추가 #: Makes [STR] orbs “beneficial” for this character"
+            },
+            {
+                "description": "잠재능력 습득 2: 피격 시 공격력 상승"
+            }
+        ],
+        "sailorNotes": "#{beneficial}",
+        "potentialNotes": "#{enrage}"
+    }
 }

@@ -1,9 +1,9 @@
 {
-  "name": "보빈",
-  "detail": {
-    "specialName": "Death-Inducing Lullaby",
-    "special": "Reduces enemy's Threshold Damage Reduction, Percent Damage Reduction, Increased Defense and End of Turn Heal duration by 5 turns, crew's ATK DOWN duration by 5 turns and changes adjacent orbs into Matching Orbs.",
-    "captain": "[QCK] and [PSY]의 공격력을 2배로 만든다",
-    "sailor": "Boosts own base ATK by 350 if this character is the last in the chain to attack"
-  }
+    "name": "보빈",
+    "detail": {
+        "specialName": "죽음을 부르는 자장가",
+        "special": "적 전체에 걸린 [THRESHOLD DAMAGE], 데미지 감소, [HEAL], 방어력 상승과 일당에게 걸린 공격력 감소 상태를 5턴 줄이고, 인접한 슬롯을 속성 일치 슬롯으로 바꾼다",
+        "captain": "[QCK]과 [PSY]의 공격력을 2배로 만든다",
+        "sailor": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 350 상승한다"
+    }
 }
