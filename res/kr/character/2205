@@ -1,11 +1,11 @@
 {
     "name": "스칼렛, 전설의 해적의 측근",
     "detail": {
-        "specialName": "Chemical Juggling",
-        "special": "If HP is below 10%, amplifies the effect of orbs by 2x for 1 turn. If your Captain is a Driven character, reduces enemies' ATK Up, Enrage and End of Turn Damage/Percent Cut duration by 5 turns.",
-        "captain": "Boosts ATK of Fighter and Powerhouse characters by 3.25x following a chain of Good > Great > PERFECT hits",
+        "specialName": "야생의 힘",
+        "special": "필살기 발동 시 일당의 체력이 10% 이하라면 1턴 동안 일당의 슬롯의 영향이 2배가 되고, 선장이 야심형 캐릭터라면 일당 전원의 슬롯을 1턴 동안 고정시키며, 적 전체에게 걸려 있는 [END OF TURN DAMAGE], [ATK UP], [ENRAGE] 상태를 5턴 줄인다",
+        "captain": "GOOD→GREAT→PERFECT 순으로 공격하면 이후 격투형과 강인형 캐릭터의 공격력이 3.25배가 된다",
         "sailor": {
-            "base": "If your Captain is a Driven character, boosts own base ATK by 100",
+            "base": "선장이 야심형 캐릭터라면 자신의 기본 공격력이 100 상승한다",
             "level1": "Boosts base ATK of all characters by 50"
         },
         "potential": [
