@@ -1,166 +1,166 @@
 {
-  "name": "Kami 에넬, The Natural Calamity of Skypiea",
-  "detail": {
-    "specialName": "God's Judgement: El Thor",
-    "special": "Deals 565,600 fixed damage to all enemies and locks all orbs for 1 turn.",
-    "captain": {
-      "base": "Boosts ATK of all characters by 2x, deals 5656 in [PSY] damage to all enemies at the end of each turn and recovers 51 HP at end of each turn",
-      "level1": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
-      "level2": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
-      "level3": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
-      "level4": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
-      "level5": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
-      "level6": "Boosts ATK of all characters by 2.5x, deals 56560 in [PSY] damage to all enemies at the end of each turn and recovers 510 HP at end of each turn"
-    },
-    "sailor": {
-      "base": "None",
-      "level1": "When any other character uses a special, reduces own cooldown by 5 turns",
-      "level2": "Makes [RCV] orbs “beneficial” for this character"
-    },
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"
-        ]
-      },
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 5 turns",
-          "Level 5: Reduces No Healing duration by 7 turns"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "잠재능력 습득 1: 크리티컬 공격"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "선원 효과 추가 1: When any other character uses a special, reduces own cooldown by 5 turns"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "Reduce base Special Cooldown by 2 turns"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 3 turns"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 4 turns"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "체력 상승 : 70"
-      },
-      {
-        "description": "선원 효과 추가 2: Makes [RCV] orbs “beneficial” for this character"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 5 turns"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "잠재능력 습득 2: Reduce No Healing duration"
-      }
-    ],
-    "sailorNotes": "#{beneficial}"
-  }
+    "name": "갓 에넬, 스카이피아의 천재지변",
+    "detail": {
+        "specialName": "신의 심판",
+        "special": "적 전체에 고정 데미지 565600을 주고, 1턴 동안 일당의 슬롯을 고정한다",
+        "captain": {
+            "base": "Boosts ATK of all characters by 2x, deals 5656 in [PSY] damage to all enemies at the end of each turn and recovers 51 HP at end of each turn",
+            "level1": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+            "level2": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+            "level3": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+            "level4": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+            "level5": "Boosts ATK of all characters by ?x, deals ? in [PSY] damage to all enemies at the end of each turn and recovers ? HP at end of each turn",
+            "level6": "일당의 공격력을 2.5배로 만들고, 턴 종료 시 적 전체에게 56560의 [PSY] 데미지를 주며, 체력을 510 회복한다"
+        },
+        "sailor": {
+            "base": "None",
+            "level1": "자신 이외의 캐릭터가 필살기 사용 시, 자신의 필살기 턴이 5턴 단축된다",
+            "level2": "자신은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다"
+        },
+        "potential": [
+            {
+                "Name": "크리티컬 공격",
+                "description": [
+                    "Level 1: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 4%의 추가 데미지가 가산된다",
+                    "Level 2: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
+                    "Level 3: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 6%의 추가 데미지가 가산된다",
+                    "Level 4: 자신의 공격이 PERFECT일 경우 60% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다",
+                    "Level 5: 자신의 공격이 PERFECT일 경우 70% 확률로 자신의 최종 히트 데미지에 8%의 추가 데미지가 가산된다"
+                ]
+            },
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turns",
+                    "Level 3: Reduces No Healing duration by 3 turns",
+                    "Level 4: Reduces No Healing duration by 5 turns",
+                    "Level 5: Reduces No Healing duration by 7 turns"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "잠재능력 습득 1: 크리티컬 공격"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "선원 효과 추가 1: When any other character uses a special, reduces own cooldown by 5 turns"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "Reduce base Special Cooldown by 2 turns"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 3 turns"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 4 turns"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "체력 상승 : 70"
+            },
+            {
+                "description": "선원 효과 추가 2: Makes [RCV] orbs “beneficial” for this character"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 5 turns"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "잠재능력 습득 2: Reduce No Healing duration"
+            }
+        ],
+        "sailorNotes": "#{beneficial}"
+    }
 }
