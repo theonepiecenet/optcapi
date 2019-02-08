@@ -1,19 +1,19 @@
 {
-    "name": "Shanks and Mihawk, World's Leading Two Swordsmen",
+    "name": "샹크스&미호크, 세계를 견인하는 양대 검사",
     "detail": {
         "captain": {
-            "character1": "Boosts ATK of Slasher characters by 2.25x and reduces damage received by 10%",
-            "character2": "Boosts ATK of Slasher Characters by 2.5x and makes [TND] and [RCV] orbs beneficial for Slasher characters",
-            "combined": "Boosts ATK of Slasher Characters by 3x, reduces damage received by 20% and makes [TND] and [RCV] orbs beneficial for Slasher characters"
+            "character1": "참격형 캐릭터의 공격력을 2.25배로 만들고, 받는 데미지를 20% 감소시킨다",
+            "character2": "참격형 캐릭터의 공격력을 2.5배로 만들고, [TND][RCV] 슬롯도 [유리] 슬롯으로 취급한다",
+            "combined": "참격형 캐릭터의 공격력을 3배로 만들고, 받는 데미지를 20% 감소시키며, [TND][RCV] 슬롯도 [유리] 슬롯으로 취급한다"
         },
         "captainNotes": "#{beneficial}",
-        "special": "Reduces Bind, Silence and ATK DOWN duration by 2 turns. If HP is below 50% at the time the special is activated, delays all enemies for 2 turns and boosts ATK against delayed enemies by 1.75x for 2 turns and becomes Shanks & Mihawk for 2 turns",
+        "special": "봉쇄, 필살기 봉쇄, 공격력 감소 상태를 2턴 회복하고, 2턴 동안 ‘샹크스&미호크’가 된다. 필살기 발동 시 체력이 50% 이하일 경우 적 전체의 공격을 2턴 지연시키고, 2턴 동안 지연 중인 적에게 주는 데미지가 1.75배가 된다",
         "specialNotes": "Change Action: When Change is activated, boosts chances of getting [QCK], [INT] and [RCV] orbs for 1 turn and randomizes all non-matching orbs",
-        "specialName": "A Feast for the New Age",
+        "specialName": "새로운 시대를 향한 환희의 연회",
         "sailor": {
-            "character1": "Boosts base ATK of [QCK] characters by 50",
-            "character2": "Boosts base ATK of [INT] characters by 50",
-            "combined": "Boosts base ATK of [QCK] and [INT] characters by 50",
+            "character1": "[QCK]의 기본 공격력이 50 상승한다",
+            "character2": "[INT]의 기본 공격력이 50 상승한다",
+            "combined": "[QCK]과 [INT]의 기본 능력치가 50 상승한다",
             "level1": "Reduces Silence duration on this character by 3 turns"
         },
         "limit": [
