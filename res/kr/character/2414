@@ -1,3 +1,135 @@
 {
-  "name": "롤로노아 조로, 황야의 한 마리 늑대"
+    "name": "롤로노아 조로, 황야의 한 마리 늑대",
+    "detail": {
+        "captain": "사격형과 야심형 캐릭터의 공격력을 평상시 2.25배, 슬롯 일치 시 약 2.75배로 만든다",
+        "special": "배리어를 친 적이 있을 때, [BLOCK] 슬롯을 포함한 모든 슬롯을 속성 일치 슬롯으로 바꾸고, 적 전체의 HP바에 걸려 있는 모든 배리어를 1턴 줄인다. 배리어를 친 적이 없을 때는 인접한 슬롯을 속성 일치 슬롯으로 바꾼다",
+        "specialName": "삼총류의 무법자",
+        "sailor": {
+            "base": "Boosts base ATK, HP and RCV of Shooter and Driven characters by 50",
+            "level1": "Reduces Silence duration by 1 turn"
+        },
+        "sailorNotes": "#{silence}",
+        "limit": [
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Acquire Potential 1: Critical Hit"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base RCV by 30"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Reduces Silence duration by 1 turn"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Acquire Potential 2: Slot Bind Self-reduction"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 3% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 3% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 60% chance to deal 5% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 80% chance to deal 7% of this character's attack in extra damage"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by ? turn on this character",
+                    "Level 2: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 3: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 4: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 5: Reduces Slot Bind duration by ? turns on this character"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ロロノア・ゾロ 荒野の一匹狼",
+        "",
+        "World Journey Zoro",
+        "Cowboy Zoro"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 5,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1702,
+        "minATK": 810,
+        "minRCV": 66,
+        "maxHP": 3120,
+        "maxATK": 1399,
+        "maxRCV": 110,
+        "ability": 1
+    },
+    "cooldown": [
+        8,
+        8
+    ],
+    "evolve": {
+        "evolution": 2414,
+        "evolvers": [
+            118,
+            86,
+            97,
+            302,
+            102
+        ],
+        "from": 2413
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2414.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2414.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
 }

@@ -1,3 +1,63 @@
 {
-  "name": "나미, Outlaw on the Prairie"
+    "name": "나미, Outlaw on the Prairie",
+    "detail": {
+        "captain": "Reduces damage received by 20% and boosts ATK of Shooter and Striker characters proportionally to the crew's current HP, by 2.75x at max",
+        "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : ? : 2.75}",
+        "special": "일당의 마비, 필살기 봉쇄 상태를 3턴 회복하고, 필살기 발동 시 일당의 체력이 80% 이상일 경우, 일당의 속성 슬>롯을 속성 일치 슬롯으로 바꾼다",
+        "specialName": "유혹의 건 플레이",
+        "sailor": "Reduces Paralysis duration on this character by 3 turns"
+    },
+    "aliases": [
+        "ナミ 荒野のお尋ね者",
+        "",
+        "World Journey Nami",
+        "Cowboy Nami"
+    ],
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Shooter",
+            "Striker"
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 4,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "minHP": 762,
+        "minATK": 520,
+        "minRCV": 123,
+        "maxHP": 1250,
+        "maxATK": 810,
+        "maxRCV": 210,
+        "ability": 1
+    },
+    "cooldown": [
+        12,
+        12
+    ],
+    "evolution": {
+        "evolution": 2412,
+        "evolvers": [
+            118,
+            88,
+            99,
+            304,
+            104
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2411.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2411.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
 }
