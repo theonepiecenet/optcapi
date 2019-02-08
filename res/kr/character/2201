@@ -1,12 +1,12 @@
 {
     "name": "시키, 전설의 해적",
     "detail": {
-        "specialName": "Lion's Threat: Earth Bind",
-        "special": "Reduces crew's current HP by 99%, deals 30x the amount of HP subtracted in typeless damage to all enemies and changes all orbs, including [BLOCK] orbs, into [RCV] orbs",
-        "captain": "Boosts ATK of [DEX], [QCK] and [INT] characters by 2.75x at the start of the chain, boosts ATK by 4x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good and boosts HP by 1.35x. Makes [TND] and [RCV] orbs “beneficial” to all characters",
+        "specialName": "사자 떨어트리기 회오리",
+        "special": "일당의 체력을 99% 감소시켜 적 전체에게 감소치x30배의 무 속성 데미지를 주고, [BLOCK]를 포함한 모든 슬롯을 [RCV] 슬롯으로 바꾼다",
+        "captain": "[DEX], [INT], [QCK]의 공격력을 2.75배, 체력을 1.35배로 만들고, [DEX]→[INT]→[QCK] 속성의 캐릭터 순으로 GOOD 이상 달성 시, 이후 [DEX], [INT], [QCK]의 공격력이 약 4배, 일당의 [RCV][TND] 슬롯도 [유리] 슬롯으로 취급한다",
         "sailor": {
             "base": "None",
-            "level1": "Makes [DEX], [RCV] and [TND] orbs “beneficial” for this character",
+            "level1": "Makes [DEX], [RCV] and [TND] orbs beneficial for this character",
             "level2": "자신은 필살기 봉쇄 상태를 완전히 회피한다"
         },
         "potential": [
