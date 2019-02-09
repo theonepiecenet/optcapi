@@ -1,83 +1,83 @@
 {
-  "name": "검은 수염, Former Warlord of the Sea",
-  "detail": {
-    "specialName": "Blackbeard Special",
-    "special": "Reduces enemy's Threshold Damage Reduction, Percent Damage Reduction, End of Turn Damage/Percent Cut, End of Turn Heal, Increased Defense, Damage Nullification, Barrier, ATK Up, Enrage and Resilience Buffs duration by 1 turn. Boosts ATK of all characters by 2x if HP is below 10% at the time the special is activated.",
-    "captain": "Boosts ATK of Driven characters by 3.75x when HP is 10% or below, 2x otherwise and boosts HP of Driven characters by 1.2x",
-    "sailor": {
-      "base": "None",
-      "level1": "When HP is below 10% at the start of the turn, boosts base ATK of all characters by 100",
-      "level2": "Makes [PSY] orbs “beneficial” for this character"
-    },
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 50",
-          "Level 2: 공격력 상승 : 75",
-          "Level 3: 공격력 상승 : 100",
-          "Level 4: 공격력 상승 : 150",
-          "Level 5: 공격력 상승 : 200"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 75% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "회복력 상승 : 3"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "선원 효과 추가 1: When HP is below 10% at the start of the turn, boosts base ATK of all characters by 100"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for this character"
-      },
-      {
-        "description": "잠재능력 습득 2: Barrier Penetration"
-      }
-    ],
-    "potentialNotes": "#{enrage}"
-  }
+    "name": "검은 수염, 전 왕의 부하 칠무해",
+    "detail": {
+        "specialName": "세대교체의 봉화",
+        "special": "적에게 걸려 있는 데미지 감소, [THRESHOLD DAMAGE], [END OF TURN DAMAGE],  방어력 상승, 데미지 무효, HP 바에 걸린 모든 배리어, [ENRAGE], [ATK UP], [HEAL], 남은 체력 1로 버티는 효과를 1턴 줄이고, 필살기 발동 시 일당의 체력이 10% 이하일 경우, 1턴 동안 일당의 공격력을 2배로 만든다",
+        "captain": "야심형 캐릭터의 공격력을 2배, 체력을 1.2배로 만들고, 남은 체력이 10% 이하라면 야심형 캐릭터의 공격력이 3.75배가 된다",
+        "sailor": {
+            "base": "None",
+            "level1": "남은 체력이 10% 이하일 경우 일당의 기본 공격력이 100 상승한다",
+            "level2": "자신은 [PSY] 슬롯도 [유리] 슬롯으로 취급한다"
+        },
+        "potential": [
+            {
+                "Name": "피격 시 공격력 상승",
+                "description": [
+                    "Level 1: 공격력 상승 : 50",
+                    "Level 2: 공격력 상승 : 75",
+                    "Level 3: 공격력 상승 : 100",
+                    "Level 4: 공격력 상승 : 150",
+                    "Level 5: 공격력 상승 : 200"
+                ]
+            },
+            {
+                "Name": "배리어 관통",
+                "description": [
+                    "Level 1: 공격 시작 시 체력이 가득 차 있으면 자신의 일반 공격은 모든 배리어를 무시한다",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above 75% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "회복력 상승 : 3"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "선원 효과 추가 1: When HP is below 10% at the start of the turn, boosts base ATK of all characters by 100"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for this character"
+            },
+            {
+                "description": "잠재능력 습득 2: Barrier Penetration"
+            }
+        ],
+        "potentialNotes": "#{enrage}"
+    }
 }
