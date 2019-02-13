@@ -1,37 +1,37 @@
 {
-  "name": "빈스모크 레이주, 남국에서 편히 쉬는 ‘멋진 여자’",
-  "detail": {
-    "specialName": "Tropical Country Flowers",
-    "special": [
-      {
-        "description": "Delays all enemies for 1 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
-        "cooldown": [
-          13,
-          7
-        ]
-      },
-      {
-        "description": "Delays all enemies for 1 turn, reduces Paralysis, Bind, Despair and Silence duration by 1 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
-        "cooldown": [
-          17,
-          10
-        ]
-      },
-      {
-        "description": "Delays all enemies for 2 turn, reduces Paralysis, Bind, Despair and Silence duration by 2 turns and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
-        "cooldown": [
-          22,
-          15
-        ]
-      },
-      {
-        "description": ""
-      }
-    ],
-    "captain": "Boosts ATK of all characters by 1.5x and their RCV by 1.2x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 8 times to a maximum of 3x.",
-    "sailor": "Reduces Silence duration on this character by 3 turns",
-    "specialNotes": "#{stages} #{silence}",
-    "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
-    "sailorNotes": "#{silence}"
-  }
+    "name": "빈스모크 레이주, 남국에서 편히 쉬는 ‘멋진 여자’",
+    "detail": {
+        "specialName": "남쪽 나라의 꽃",
+        "special": [
+            {
+                "description": "적 전체의 공격을 1턴 지연시키고, 3턴 동안 일당의 슬롯에 의한 공격력 감소를 무효화한다",
+                "cooldown": [
+                    13,
+                    7
+                ]
+            },
+            {
+                "description": "적 전체의 공격을 1턴 지연시키고, 3턴 동안 일당의 슬롯에 의한 공격력 감소를 무효화하며, 일당의 필살기 봉쇄, 마비, 봉쇄, 선장효과 무효 상태를 1턴 회복한다",
+                "cooldown": [
+                    17,
+                    10
+                ]
+            },
+            {
+                "description": "적 전체의 공격을 2턴 지연시키고, 3턴 동안 일당의 슬롯에 의한 공격력 감소를 무효화하며, 일당의 필살기 봉쇄, 마비, 봉쇄, 선장효과 무효 상태를 2턴 회복한다",
+                "cooldown": [
+                    22,
+                    15
+                ]
+            },
+            {
+                "description": ""
+            }
+        ],
+        "captain": "일당의 공격력을 1.5배, 회복력을 1.2배로 만들고, 이전 턴에 적을 1명이라도 격파했다면 공격력 배율이 상승한다(최대 8턴으로 공격력 3배)",
+        "sailor": "자신은 필살기 봉쇄 상태를 2턴 회복한다",
+        "specialNotes": "#{stages} #{silence}",
+        "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
+        "sailorNotes": "#{silence}"
+    }
 }
