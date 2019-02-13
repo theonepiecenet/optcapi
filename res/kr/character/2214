@@ -1,35 +1,35 @@
 {
-  "name": "빈스모크 레이주, 포이즌 핑크의 바캉스",
-  "detail": {
-    "specialName": "Tropical Country Flowers",
-    "special": [
-      {
-        "description": "Delays all enemies for 1 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
-        "cooldown": [
-          13,
-          7
-        ]
-      },
-      {
-        "description": "Delays all enemies for 1 turn, reduces Paralysis, Bind, Despair and Silence duration by 1 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
-        "cooldown": [
-          17,
-          10
-        ]
-      },
-      {
-        "description": "Delays all enemies for 2 turn, reduces Paralysis, Bind, Despair and Silence duration by 2 turns and makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns.",
-        "cooldown": [
-          22,
-          15
-        ]
-      },
-      {
-        "description": ""
-      }
-    ],
-    "captain": "Boosts ATK of all characters by 1.5x and their RCV by 1.2x.",
-    "sailor": "Reduces Silence duration on this character by 3 turns",
-    "specialNotes": "#{stages}"
-  }
+    "name": "빈스모크 레이주, 포이즌 핑크의 바캉스",
+    "detail": {
+        "specialName": "남쪽 나라의 꽃",
+        "special": [
+            {
+                "description": "적 전체의 공격을 1턴 지연시키고, 3턴 동안 일당의 슬롯에 의한 공격력 감소를 무효화한다",
+                "cooldown": [
+                    13,
+                    7
+                ]
+            },
+            {
+                "description": "적 전체의 공격을 1턴 지연시키고, 3턴 동안 일당의 슬롯에 의한 공격력 감소를 무효화하며, 일당의 필살기 봉쇄, 마비, 봉쇄, 선장효과 무효 상태를 1턴 회복한다",
+                "cooldown": [
+                    17,
+                    10
+                ]
+            },
+            {
+                "description": "적 전체의 공격을 2턴 지연시키고, 3턴 동안 일당의 슬롯에 의한 공격력 감소를 무효화하며, 일당의 필살기 봉쇄, 마비, 봉쇄, 선장효과 무효 상태를 2턴 회복한다",
+                "cooldown": [
+                    22,
+                    15
+                ]
+            },
+            {
+                "description": ""
+            }
+        ],
+        "captain": "일당의 공격력을 1.5배, 회복력을 1.2배로 만든다",
+        "sailor": "자신은 필살기 봉쇄 상태를 2턴 회복한다",
+        "specialNotes": "#{stages}"
+    }
 }
