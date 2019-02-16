@@ -1,5 +1,55 @@
 {
   "name": "Usoland, Tontatta Tribe's Savior",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 2.75x if HP is below ?% at the start of the turn, by 1.5x otherwise",
+    "special": "Reduces crew's current HP by 50%, delays all enemies for 1 turn, removes all positive buffs on your team and reduces Bind, Despair, Paralysis and Silence duration by 1 turn.",
+    "specialName": "Usoland's Great Scream",
+    "sailor": "Reduces Silence duration on this character by 2 turns",
+    "limit": [
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": "Acquire Potential 1: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 60% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      }
+    ]
+  },
   "aliases": [
     "",
     "",

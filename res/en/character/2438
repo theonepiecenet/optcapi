@@ -1,5 +1,55 @@
 {
   "name": "Trafalgar Law, 13 Year Fate",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by 1.5x",
+    "special": "Deals 30x character's ATK in [DEX] damage to one enemy. If enemies have a Defense Reduction debuff at the time the special was activated, boosts the Color Affinity of all characters by 1.5x and boosts ATK against enemies with reduced defense depending on your Treasure Map Level for 1 turn",
+    "specialName": "Shambles - Kikoku's Strike",
+    "specialNotes": "Level 1-10: 1.75x conditional boost<br>Level 11-20: 2x conditional boost<br>Level 21+: 2.25x conditional boost",
+    "limit": [
+      {
+        "description": "Boosts base "
+      },
+      {
+        "description": "Boosts base "
+      },
+      {
+        "description": "Boosts base "
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base "
+      },
+      {
+        "description": "Boosts base "
+      },
+      {
+        "description": "Boosts base "
+      },
+      {
+        "description": "Boosts base "
+      },
+      {
+        "description": "Boosts base "
+      },
+      {
+        "description": "Acquire Potential 1: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 60% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+        ]
+      }
+    ]
+  },
   "aliases": [
     "",
     "",
