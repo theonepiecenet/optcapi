@@ -7,31 +7,31 @@
     "specialNotes": "Level 1-10: 1.75x conditional boost<br>Level 11-20: 2x conditional boost<br>Level 21+: 2.25x conditional boost",
     "limit": [
       {
-        "description": "Boosts base "
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base ATK by 15"
       },
       {
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base RCV by 25"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base ATK by 25"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base ATK by 30"
       },
       {
         "description": "Acquire Potential 1: Barrier Penetration"
@@ -51,7 +51,7 @@
     ]
   },
   "aliases": [
-    "",
+    "トラファルガー・ロー １３年の因縁",
     "",
     "Secret Law",
     "Limited Law"
@@ -68,13 +68,13 @@
     "slots": 4,
     "level": 99,
     "exp": 2000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 1331,
+    "minATK": 701,
+    "minRCV": 150,
     "maxHP": 2191,
     "maxATK": 1359,
     "maxRCV": 277,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     12,

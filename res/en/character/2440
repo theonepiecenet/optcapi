@@ -3,10 +3,10 @@
   "detail": {
     "captain": "Boosts chances of getting Matching orbs for Fighter, Shooter and Free Spirit characters. Boosts ATK of Fighter, Shooter and Free Spirit characters by 3x and their HP by 1.25x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 5 times to a maximum of 4.25x.",
     "special": "Locks the chain multiplier at 3x for 1 turn and amplifies the effects of orbs for Fighter, Shooter and Free Spirit characters by 2.25x for 1 turn",
-    "specialName": "Sabo Special"
+    "specialName": "Recieving the Will of \"Fire Fist\""
   },
   "aliases": [
-    "",
+    "サボ “麦わらのルフィ”の兄",
     "",
     "Korea Sabo",
     "V2 Sabo",
@@ -27,10 +27,10 @@
     "minHP": 394,
     "minATK": 337,
     "minRCV": 71,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "maxHP": 1394,
+    "maxATK": 981,
+    "maxRCV": 232,
+    "ability": 1
   },
   "cooldown": [
     21,
@@ -38,7 +38,13 @@
   ],
   "evolution": {
     "evolution": 2441,
-    "evolvers": []
+    "evolvers": [
+      118,
+      86,
+      266,
+      302,
+      1180
+    ]
   },
   "evolve": [],
   "image": {

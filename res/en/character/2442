@@ -1,12 +1,12 @@
 {
-  "name": "Donquixote Doflamingo",
+  "name": "Doflamingo, Another Stage Called \"Awakening\"",
   "detail": {
-    "captain": "Boosts ATK of Driven characters by ?x and recovers ? HP at end of each turn. If you use \"Off White\" in this turn boosts ATK of Driven characters by ?x instead.",
+    "captain": "Boosts ATK of Driven characters by 1.5x.",
     "special": "Removes RCV DOWN duration completely and reduces damage received by 80% for 2 turns. If your Captain is a Driven character, changes all Driven character's orbs, including [BLOCK] orbs, into Matching orbs",
     "specialName": "Off White"
   },
   "aliases": [
-    "",
+    "ドフラミンゴ 「覚醒」という上の世界（ステージ）",
     "",
     "TM Doffy",
     "TM Doflamingo"
@@ -19,25 +19,31 @@
     ],
     "stars": 4,
     "cost": 30,
-    "combo": null,
+    "combo": 4,
     "slots": 1,
     "level": 50,
     "exp": 130703,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 706,
+    "minATK": 491,
+    "minRCV": 87,
+    "maxHP": 1203,
+    "maxATK": 888,
+    "maxRCV": 179,
+    "ability": 1
   },
   "cooldown": [
-    null,
+    35,
     28
   ],
   "evolution": {
     "evolution": 2443,
-    "evolvers": []
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      101
+    ]
   },
   "evolve": [],
   "image": {
@@ -50,7 +56,7 @@
       "name": "Doflamingo",
       "thumb": 2443,
       "data": [
-        "Raging Sea"
+        "Primordial Sea"
       ]
     }
   ],

@@ -6,31 +6,31 @@
     "specialName": "The Gentle \"Heart\" Resolution",
     "limit": [
       {
-        "description": "Boosts base "
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base ATK by 15"
       },
       {
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base RCV by 25"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base ATK by 25"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "Boosts base "
+        "description": "Boosts base ATK by 30"
       },
       {
         "description": "Acquire Potential 1: Barrier Penetration"
@@ -50,7 +50,7 @@
     ]
   },
   "aliases": [
-    "",
+    "コラソン ローを救う作戦",
     "",
     "Secret Corazon",
     "Limited Corazon"
@@ -67,13 +67,13 @@
     "slots": 4,
     "level": 99,
     "exp": 2000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 1350,
+    "minATK": 753,
+    "minRCV": 169,
     "maxHP": 2130,
     "maxATK": 1300,
     "maxRCV": 353,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     12,

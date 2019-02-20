@@ -7,31 +7,31 @@
     "sailor": "Reduces Silence duration on this character by 2 turns",
     "limit": [
       {
-        "description": ""
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 15"
       },
       {
-        "description": ""
+        "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": ""
+        "description": "Boosts base RCV by 25"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 25"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 30"
       },
       {
         "description": "Acquire Potential 1: Barrier Penetration"
@@ -51,7 +51,7 @@
     ]
   },
   "aliases": [
-    "",
+    "ウソランド トンタッタ族の救世主",
     "",
     "Usopp"
   ],
@@ -61,16 +61,16 @@
     "stars": 5,
     "cost": 20,
     "combo": 4,
-    "slots": null,
+    "slots": 3,
     "level": 99,
-    "exp": null,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": 1713,
+    "exp": 2000000,
+    "minHP": 1409,
+    "minATK": 621,
+    "minRCV": 30,
+    "maxHP": 2201,
     "maxATK": 1189,
     "maxRCV": 45,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     7,
