@@ -1,10 +1,10 @@
 {
-  "name": "롤로노아 조로, The Swordsman Opening Up the New World",
-  "detail": {
-    "specialName": "One Sword Style: Great Dragon Shock",
-    "special": "Deals 55x character's ATK in Typeless damage to one enemy that will ignore damage negating abilities and barriers, reduces enemy's Threshold Damage Reduction and Percent Damage Reduction duration by 5 turns. If HP is full at the time the special was activated, boosts the Color Affinity of 참격형 and Driven characters by 2x for 1 turn, by 1.75x for 2 turns otherwise",
-    "captain": "Boosts 참격형 and 야심형 character's ATK by 2.25x, by 2.5x after 2 consecutive PERFECTs, by 2.75x after 5 consecutive PERFECTs.",
-    "sailor": "If this character has a [QCK] orb and you hit a GOOD or GREAT with him, keep his [QCK] orb for the next turn",
-    "specialNotes": "#{ignoreBarrier} #{colorAffinity : 2}"
-  }
+    "name": "롤로노아 조로, 신세계를 여는 검사",
+    "detail": {
+        "specialName": "일검류 대전율",
+        "special": "적 1명에게 모든 방어 효과 및 방어력을 무시하고 캐릭터의 공격력x55배의 무 속성 데미지를 주며, [THRESHOLD DAMAGE] 상태 및 데미지 감소 상태를 5턴 줄이고, 필살기 발동 시 체력이 가득 차 있을 경우 1턴 동안 참격형과 야심형 캐릭터의 일반 공격에 의한 속성 상성의 영향을 2배로 증폭시키며, 그 외의 경우에는 2턴 동안 참격형과 야심형 캐릭터의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
+        "captain": "참격형과 야심형 캐릭터의 공격력을 2.25배로 만들며, PERFECT를 2연속, 5연속 달성 시 이후 같은 타입의 공격력이 약 2.5배, 약 2.75배까지 상승한다",
+        "sailor": "자신이 GOOD이나 GREAT 공격을 성공하면 자신의 [QCK] 슬롯이 다음 턴에도 출현한다",
+        "specialNotes": "#{ignoreBarrier} #{colorAffinity : 2}"
+    }
 }
