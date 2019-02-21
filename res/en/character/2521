@@ -1,0 +1,54 @@
+{
+  "name": "Portgas D. Ace, Wake of an Endless Dream - High Seas Pirate",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit and Powerhouse characters by 1.75x and their HP by 1.5x. Boosts Beli gained by 2.5x",
+    "special": "Reduces crew's HP to 1, removes Poison duration completely, reduces Paralysis, Bind and Silence duration by 4 turns, recovers 7,000 HP at the end of the turn for 1 turn and changes [EMPTY], [BLOCK] and [BOMB] orbs into Matching orbs. If your Captain is a Free Spirit or Powerhouse character, reduces enemy's Threshold Damage Reduction duration by 5 turns.",
+    "specialName": "Flame Fence",
+    "sailor": "Reduces Silence duration on this character by 3 turns"
+  },
+  "aliases": [
+    "",
+    "",
+    "Log Ace"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Free Spirit",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": null,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    14,
+    14
+  ],
+  "evolve": {
+    "evolution": 2521,
+    "evolvers": [],
+    "from": 2520
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2521.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2521.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}
