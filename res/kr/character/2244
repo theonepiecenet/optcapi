@@ -1,94 +1,94 @@
 {
-  "name": "다이후쿠, Charlotte Family’s 3rd Son",
-  "detail": {
-    "specialName": "Genie-uine Rage Split",
-    "special": "Reduces enemy's Percent Damage Reduction, End of Turn Heal, Increased Defense and Resilience Buffs duration by 2 turns, changes own orb into [QCK] and deals 30x character's ATK in [QCK] damage to all enemies",
-    "captain": "Boosts ATK of Powerhouse characters by 2.5x and reduces damage received by 20%",
-    "sailor": {
-      "base": "Boosts base HP of all characters by 75",
-      "level1": "Makes [DEX] orbs “beneficial” for this character"
-    },
-    "potential": [
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+    "name": "다이후쿠, 샬롯 가 3남",
+    "detail": {
+        "specialName": "마인참",
+        "special": "적 전체에게 걸린 방어력 상승,  [HEAL], 남은 체력 1로 버티기, 데미지 감소 상태([THRESHOLD DAMAGE] 제외)를 2턴 줄이고, 적 전체에게 캐릭터의 공격력x30배의 [QCK] 데미지를 주며, 자신의 슬롯을 [RCV]로 바꾼다",
+        "captain": "강인형 캐릭터의 공격력을 2.5배로 만들고, 받는 데미지를 20% 감소시킨다",
+        "sailor": {
+            "base": "일당의 기본 체력이 75 상승한다",
+            "level1": "Makes [DEX] orbs “beneficial” for this character"
+        },
+        "potential": [
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by ? turn on this character",
+                    "Level 2: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 3: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 4: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 5: Reduces Slot Bind duration by ? turns on this character"
+                ]
+            },
+            {
+                "Name": "Double Special Activation",
+                "description": [
+                    "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
+                    "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Acquire Potential 1: Slot Bind Self-reduction"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [DEX] orbs “beneficial” for this character"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Potential 2: Double Special Activation"
+            }
+        ],
+        "sailorNotes": "#{beneficial}",
+        "support": [
+            {
+                "Characters": "Katakuri, Oven, Brulee and Smoothie",
+                "description": [
+                    "Level 1: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 2: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 3: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 4: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 5: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "Double Special Activation",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
-          "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Acquire Potential 1: Slot Bind Self-reduction"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base ATK by 50"
-      },
-      {
-        "description": "Boosts base HP by 70"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs “beneficial” for this character"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Acquire Potential 2: Double Special Activation"
-      }
-    ],
-    "sailorNotes": "#{beneficial}",
-    "support": [
-      {
-        "Characters": "Katakuri, Oven, Brulee and Smoothie",
-        "description": [
-          "Level 1: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 2: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 3: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 4: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 5: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP"
-        ]
-      }
-    ]
-  }
+    }
 }
