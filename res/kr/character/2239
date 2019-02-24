@@ -1,10 +1,10 @@
 {
-  "name": "페로스페로",
-  "detail": {
-    "specialName": "Candy Maiden",
-    "special": "Locks all orbs for 1 turn, cuts the current HP of one enemy by 10%, reduces Special Cooldown of all characters by 1 turn and boosts the Color Affinity of [STR], [DEX] and [QCK] characters by 1.75x for 1 turn",
-    "captain": "Boosts ATK of characters with cost 50 or greater by ?x and their HP and RCV by ?x",
-    "sailor": "Restores his own special cooldown by 2 turns when it is rewinded",
-    "sailorNotes": "#{rewind : 2}"
-  }
+    "name": "샬롯 페로스페로",
+    "detail": {
+        "specialName": "캔디 메이든",
+        "special": "일당의 슬롯을 1턴 동안 고정시키고, 적 1명의 HP를 10% 줄이며, 일당의 필살기 턴을 1턴 단축하고, 1턴 동안 [STR], [DEX], [QCK] 속성의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
+        "captain": "코스트 50 이상 캐릭터의 공격력을 3배, 체력과 회복력을 1.1배로 만든다",
+        "sailor": "자신의 필살기 턴 되돌리기를 2턴 회복한다",
+        "sailorNotes": "#{rewind : 2}"
+    }
 }
