@@ -1,9 +1,9 @@
 {
-  "name": "크래커",
-  "detail": {
-    "specialName": "Infinite Biscuit Soldiers",
-    "special": "If your Captain is a [STR], [DEX] or [QCK] character, boosts ATK of [STR], [DEX] and [QCK] characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for [STR], [DEX] and [QCK] characters for 1 turn and changes [BLOCK] orbs into Matching orbs. If your Captain is a [PSY] or [INT] character, boosts ATK of [STR], [DEX] and [QCK] characters by 1.75x for 3 turns and amplifies the effect of orbs by 1.75x for [STR], [DEX] and [QCK] characters for 3 turns and changes all orbs into [G] orbs.",
-    "captain": "Boosts ATK of [STR], [DEX] and [QCK] characters by ?x and their HP by ?x",
-    "sailor": "Boosts this character's attack against [DEX] characters by 2x"
-  }
+    "name": "샬롯 크래커",
+    "detail": {
+        "specialName": "무한의 비스킷 병사",
+        "special": "선장이 [STR], [DEX], [QCK] 속성이라면, 1턴 동안 [STR], [DEX], [QCK] 속성의 공격력과 슬롯의 영향을 1.75배로 만들고, [BLOCK] 슬롯을 속성 일치 슬롯으로 바꾼다. 선장이 [PSY], [INT] 속성이라면, 3턴 동안 [STR], [DEX], [QCK] 속성의 공격력과 슬롯 영향을 1.75배로 만들고, 모든 슬롯을 [G]로 바꾼다",
+        "captain": "[STR], [DEX], [QCK] 속성의 공격력을 2배, 체력을 1.2배로 만든다",
+        "sailor": "자신이 [DEX]에게 주는 일반 공격에 의한 데미지가 2배가 된다"
+    }
 }

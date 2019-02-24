@@ -1,9 +1,9 @@
 {
-  "name": "다이후쿠",
-  "detail": {
-    "specialName": "Genie-uine Rage Split",
-    "special": "Reduces enemy's Percent Damage Reduction, End of Turn Heal, Increased Defense and Resilience Buffs duration by 2 turns, changes own orb into [QCK] and deals 30x character's ATK in [QCK] damage to all enemies",
-    "captain": "Boosts ATK of Powerhouse characters by ?x and reduces damage received by ?%",
-    "sailor": "Boosts base HP of all characters by 75"
-  }
+    "name": "샬롯 다이후쿠",
+    "detail": {
+        "specialName": "마인참",
+        "special": "적 전체에게 걸린 방어력 상승,  [HEAL], 남은 체력 1로 버티기, 데미지 감소 상태([THRESHOLD DAMAGE] 제외)를 2턴 줄이고, 적 전체에게 캐릭터의 공격력x30배의 [QCK] 데미지를 주며, 자신의 슬롯을 [RCV]로 바꾼다",
+        "captain": "강인형 캐릭터의 공격력을 2배로 만들고, 받는 데미지를 10% 감소시킨다",
+        "sailor": "일당의 기본 체력이 75 상승한다"
+    }
 }
