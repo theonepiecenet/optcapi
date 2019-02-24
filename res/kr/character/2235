@@ -1,10 +1,10 @@
 {
-  "name": "브룩",
-  "detail": {
-    "specialName": "Tenacious Shout of the Soul",
-    "special": "Recovers 14,343, reduces damage received by 90% for 1 turn and makes [STR], [DEX], [QCK], [PSY] and [INT] orbs “beneficial” for all characters for 2 turns. If the HP of the enemy with the highest Maximum HP is below 434,300, instantly defeats all enemies, otherwise, delays all enemies for 1 turn, cuts the current HP of each enemy by 20%.",
-    "captain": "Boosts ATK of all characters by 2.75x if HP is above 99% at the start of the turn, by 2x otherwise, cuts the current HP of each enemy by 10% at the end of each turn and revives the team after a GAME OVER once per adventure.",
-    "specialNotes": "#{beneficial}",
-    "captainNotes": "This is not Resilience as you still die, but (still unconfirmed) after revive you will get full HP and your buffs and debuffs will be cleared, similarly to using a gem to revive."
-  }
+    "name": "‘소울 킹’ 브룩, 파트너와의 약속",
+    "detail": {
+        "specialName": "집념의 「영혼의 외침」",
+        "special": "체력을 14143 회복하고, 1턴 동안 받는 데미지를 90% 감소시키며, 2턴 동안 일당의 속성 슬롯을 [유리] 슬롯으로 취급한다. 최대 HP가 가장 높은 적의 HP가 434300보다 낮으면 모든 적을 격파하며, 최대 HP가 가장 높은 적의 HP가 434300보다 높으면 적 전체의 HP를 20% 줄이고 공격을 1턴 지연시킨다",
+        "captain": "모험 중 1회에 한하여 GAME OVER 상태에서 부활한다. 공격 시작 전에 체력이 가득 차 있으면 일당의 공격력을 2.75배, 그 외의 상태일 때는 2배로 만들며 턴 종료 시 적 전체의 HP를 10% 감소시킨다",
+        "specialNotes": "#{beneficial}",
+        "captainNotes": "This is not Resilience as you still die, but (still unconfirmed) after revive you will get full HP and your buffs and debuffs will be cleared, similarly to using a gem to revive."
+    }
 }
