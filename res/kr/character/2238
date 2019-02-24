@@ -1,83 +1,83 @@
 {
-  "name": "Sweet Commander 스무디, 빅 맘 해적단",
-  "detail": {
-    "specialName": "Human Juicer",
-    "special": "Recovers 5,000, removes Poison, reduces Paralysis, Bind, Despair and Burn by 2 turns, changes adjacent orbs into Matching Orbs and switches orbs between slots three times",
-    "captain": "Boosts ATK of all characters by 3.5x following a chain of Good > Great > PERFECT hits and recovers 500 HP at end of each turn",
-    "sailor": {
-      "base": "Boosts base ATK of characters in the top row by 50",
-      "level1": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs “beneficial” for this character if your Captain is a [STR] character"
-    },
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : ?",
-          "Level 2: 공격력 상승 : ?",
-          "Level 3: 공격력 상승 : ?",
-          "Level 4: 공격력 상승 : ?",
-          "Level 5: 공격력 상승 : ?"
-        ]
-      },
-      {
-        "Name": "Double Special Activation",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
-          "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base RCV by 30"
-      },
-      {
-        "description": "Acquire Potential 1: Enrage"
-      },
-      {
-        "description": "Boosts base HP by 10"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base HP by 70"
-      },
-      {
-        "description": "Boosts base HP by 90"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base ATK by 60"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs “beneficial” for this character if your Captain is a [STR] character"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Acquire Potential 2: Double Special Activation"
-      }
-    ],
-    "sailorNotes": "#{beneficial}",
-    "potentialNotes": "#{enrage}"
-  }
+    "name": "장성 스무디, 빅 맘 해적단",
+    "detail": {
+        "specialName": "휴먼 주스 메이커",
+        "special": "일당의 체력을 5000 회복하고, 모든 독 상태를 회복하며, 일당의 마비, 화상, 봉쇄, 선장효과 무효 상태를 2턴 회복하고, 인접한 슬롯을 속성 일치 슬롯으로 바꾸며, 슬롯을 3회 자유롭게 움직인다",
+        "captain": "GOOD→GREAT→PERFECT 순으로 공격하면 이후 캐릭터의 공격력을 3.5배로 만들고, 턴 종료 시 체력을 500 회복한다",
+        "sailor": {
+            "base": "상단 캐릭터의 기본 공격력이 50 상승한다",
+            "level1": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs “beneficial” for this character if your Captain is a [STR] character"
+        },
+        "potential": [
+            {
+                "Name": "피격 시 공격력 상승",
+                "description": [
+                    "Level 1: 공격력 상승 : ?",
+                    "Level 2: 공격력 상승 : ?",
+                    "Level 3: 공격력 상승 : ?",
+                    "Level 4: 공격력 상승 : ?",
+                    "Level 5: 공격력 상승 : ?"
+                ]
+            },
+            {
+                "Name": "Double Special Activation",
+                "description": [
+                    "Level 1: Reduce own Special Cooldown by ? turn after the first time this special is used",
+                    "Level 2: Reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 3: Reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 4: Reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 5: Reduce own Special Cooldown by ? turns after the first time this special is used"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base RCV by 30"
+            },
+            {
+                "description": "Acquire Potential 1: Enrage"
+            },
+            {
+                "description": "Boosts base HP by 10"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Boosts base HP by 90"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base ATK by 60"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs “beneficial” for this character if your Captain is a [STR] character"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Potential 2: Double Special Activation"
+            }
+        ],
+        "sailorNotes": "#{beneficial}",
+        "potentialNotes": "#{enrage}"
+    }
 }
