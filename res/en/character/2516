@@ -27,9 +27,9 @@
     "minHP": 1194,
     "minATK": 426,
     "minRCV": 14,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
+    "maxHP": 2091,
+    "maxATK": 933,
+    "maxRCV": 60,
     "ability": null
   },
   "cooldown": [
@@ -38,7 +38,13 @@
   ],
   "evolution": {
     "evolution": 2517,
-    "evolvers": []
+    "evolvers": [
+      118,
+      79,
+      1180,
+      301,
+      267
+    ]
   },
   "evolve": [],
   "image": {
