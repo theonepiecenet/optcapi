@@ -1,8 +1,41 @@
 {
-  "name": "? Musketeers, Musketeers",
+  "name": "Elite Musketeers, Musketeers",
   "detail": {
-    "specialName": "Mink Damage Plus",
+    "captain": "Boosts ATK of [PSY] characters by 1.5x",
     "special": "Reduces Paralysis duration by 2 turns and adds 2.5x character's ATK as Additional Typeless Damage for 1 turn.",
-    "captain": "Boosts ATK of [PSY] characters by 1.5x"
-  }
+    "specialName": "Mink Damage Plus"
+  },
+  "aliases": [
+    "精鋭銃士 銃士隊",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "minHP": 68,
+    "minATK": 47,
+    "minRCV": 33,
+    "maxHP": 1202,
+    "maxATK": 849,
+    "maxRCV": 147,
+    "ability": 1
+  },
+  "cooldown": 21,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2226.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2226.png"
+  },
+  "drop": [],
+  "manual": []
 }

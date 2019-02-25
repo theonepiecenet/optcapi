@@ -1,9 +1,49 @@
 {
-  "name": "인연 BOOST 루피",
-  "detail": {
-    "specialName": "Gum-Gum Flail",
-    "special": "Changes [BLOCK]슬롯을 [STR], deals 20x character's ATK in [STR] damage to one enemy",
-    "captain": "Boosts ATK of [STR] and Fighter characters by 1.5x, reduces cooldown of all specials by 1 턴 at the start of the fight",
-    "captainNotes": "The bonus is cumulative. [STR] Fighter characters get a 2.25x bonus."
-  }
+    "name": "Kizuna BOOST 루피",
+    "detail": {
+        "special": "Changes [BLOCK] orbs into [STR], deals 20x character's ATK in [STR] damage to one enemy",
+        "specialName": "Gum-Gum Flail",
+        "captain": "Boosts ATK of [STR] and Fighter characters by 1.5x, reduces cooldown of all specials by 1 turn at the start of the fight",
+        "captainNotes": "The bonus is cumulative. [STR] Fighter characters get a 2.25x bonus."
+    },
+    "aliases": [
+        "キズナBOOOOSTルフィ",
+        "",
+        "Afro Luffy",
+        "Afroluffy"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Fighter",
+            "Powerhouse"
+        ],
+        "stars": 4,
+        "cost": 20,
+        "combo": 6,
+        "slots": 2,
+        "level": 99,
+        "exp": 3000000,
+        "minHP": 465,
+        "minATK": 232,
+        "minRCV": 36,
+        "maxHP": 1978,
+        "maxATK": 1170,
+        "maxRCV": 220,
+        "ability": 1
+    },
+    "cooldown": [
+        25,
+        14
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1009.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1009.png"
+    },
+    "flags": {
+        "special": 1
+    },
+    "drop": [],
+    "manual": []
 }
