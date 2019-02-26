@@ -3,7 +3,7 @@
   "detail": {
     "captain": "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Fighter characters by 2x",
     "specialName": "Battle Preservation Fist: Manki Kayaku",
-    "special": "Changes all orbs including [BLOCK] orbs into [G] orbs, deals random typeless damage to all enemies",
+    "special": "Changes all orbs, including [BLOCK] orbs, into [G] orbs, deals random typeless damage to all enemies",
     "specialNotes": "#{gOrbs}<br>#{random : 5,000 : 100,000}",
     "sailor": {
       "base": "None",
