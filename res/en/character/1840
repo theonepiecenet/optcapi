@@ -3,7 +3,7 @@
   "detail": {
     "captain": "Boosts ATK of [DEX] characters by 2.25x, boosts ATK of Powerhouse characters by 1.3x and the HP of Powerhouse characters by 1.2x",
     "captainNotes": "Attack boost stacks, so a [DEX] Powerhouse character has a 2.925x ATK",
-    "special": "If your Captain is a [DEX] or [PSY] character, boosts ATK against delayed enemies by 1.75x for 1 turn. If your Captain is a Powerhouse character, adds 40x characters ATK as Additional Damage for 1 turn",
+    "special": "If your Captain is a [DEX] or [PSY] character, boosts ATK against delayed enemies by 1.75x for 1 turn. If your Captain is a Powerhouse character, adds 40x character's ATK as Additional Damage for 1 turn",
     "specialName": "Burst End Kick",
     "specialNotes": "#{additionalDamage : 40x}",
     "sailor": {
@@ -77,6 +77,18 @@
           "Level 3: Reduces Slot Bind duration by 3 turns on this character",
           "Level 4: Reduces Slot Bind duration by 5 turns on this character",
           "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Judge, Ichiji, Niji and Reiju",
+        "description": [
+          "Level 1: Once per adventure, when you reach the final stage, adds 10x supported character's ATK as Additional Damage to Powerhouse character's attacks for 1 turn",
+          "Level 2: Once per adventure, when you reach the final stage, adds 10x supported character's ATK as Additional Damage to Powerhouse character's attacks for 1 turn",
+          "Level 3: Once per adventure, when you reach the final stage, adds 20x supported character's ATK as Additional Damage to Powerhouse character's attacks for 1 turn",
+          "Level 4: Once per adventure, when you reach the final stage, adds 20x supported character's ATK as Additional Damage to Powerhouse character's attacks for 1 turn",
+          "Level 5: Once per adventure, when you reach the final stage, adds 30x supported character's ATK as Additional Damage to Powerhouse character's attacks for 1 turn"
         ]
       }
     ]

@@ -23,9 +23,9 @@
     "slots": 5,
     "level": 99,
     "exp": null,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 813,
+    "minATK": 520,
+    "minRCV": 213,
     "maxHP": 2119,
     "maxATK": 1321,
     "maxRCV": 388,
@@ -37,7 +37,13 @@
   ],
   "evolve": {
     "evolution": 2519,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      83,
+      86,
+      302,
+      102
+    ],
     "from": 2518
   },
   "image": {

@@ -1,0 +1,51 @@
+{
+  "name": "Sora, Warm Smile",
+  "detail": {
+    "captain": "Boosts ATK and RCV of all characters by 1.75x and recovers 500 HP at end of each turn.",
+    "special": "Reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by 5 turns and boosts chances of getting [PSY] orbs for 3 turns.",
+    "specialName": "Sora Special",
+    "support": [
+      {
+        "Characters": "Sanji, Judge, Reiju, Ichiji, Niji and Yonji",
+        "description": [
+          "Level 1: Once per adventure, when you reach the final stage, changes supported character's orb, including [BLOCK] orbs, into a [TND] orb, reduces Special Cooldown of supported character by ? turn and recovers ? HP",
+          "Level 2: Once per adventure, when you reach the final stage, changes supported character's orb, including [BLOCK] orbs, into a [TND] orb, reduces Special Cooldown of supported character by ? turn and recovers ? HP",
+          "Level 3: Once per adventure, when you reach the final stage, changes supported character's orb, including [BLOCK] orbs, into a [TND] orb, reduces Special Cooldown of supported character by ? turn and recovers ? HP",
+          "Level 4: Once per adventure, when you reach the final stage, changes supported character's orb, including [BLOCK] orbs, into a [TND] orb, reduces Special Cooldown of supported character by ? turn and recovers ? HP",
+          "Level 5: Once per adventure, when you reach the final stage, changes supported character's orb, including [BLOCK] orbs, into a [TND] orb, reduces Special Cooldown of supported character by 1 turn and recovers 3,000 HP"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Vinsmoke Sora",
+    "Roxas"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": "Cerebral",
+    "stars": 5,
+    "cost": 1,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 1677,
+    "maxATK": 828,
+    "maxRCV": 542,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2455.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2455.png"
+  },
+  "drop": [],
+  "manual": []
+}

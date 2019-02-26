@@ -1,0 +1,88 @@
+{
+  "name": "Vinsmoke Reiju, Germa 66 Poison Pink",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters and [INT] characters by 2.5x and their HP by 1.2x. Boosts RCV of Powerhouse characters by 1.2x.",
+    "special": "If there are 6 Powerhouse characters in your crew, poisons all enemies and reduces damage received by 70% for 2 turns. If your Captain's orb or Friend Captain's orb is [TND], reduces enemy's Threshold Damage Reduction, Percent Damage Reduction and Increased Defense Buffs duration by 5 turns.",
+    "specialNotes": "Poison deals 75x character's ATK in fixed damage at the end of each turn.",
+    "specialName": "Reiju Special",
+    "sailor": {
+      "base": "Reduces Silence duration on this character by 3 turns",
+      "level1": "If there are 6 Powerhouse characters in your crew, makes [INT] orbs beneficial for Powerhouse characters"
+    },
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Judge, Ichiji, Niji and Yonji",
+        "description": [
+          "Level 1: Adds ?% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Adds ?% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Adds ?% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Adds ?% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Adds 15% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Pink Ranger"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Powerhouse",
+      "Shooter"
+    ],
+    "stars": "5+",
+    "cost": 40,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 1,
+    "minATK": 1,
+    "minRCV": 1,
+    "maxHP": 3000,
+    "maxATK": 1500,
+    "maxRCV": 300,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": {
+    "evolution": 2454,
+    "evolvers": [],
+    "from": 2453
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2454.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2454.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

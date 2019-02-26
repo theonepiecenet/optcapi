@@ -78,7 +78,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Cracker and Katakuri",
+        "description": [
+          "Level 1: Adds 3% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 2: Adds 4% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 3: Adds 7% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 4: Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 5: Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "将星スムージー ビッグ・マム海賊団",
@@ -126,7 +138,8 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
   "manual": [

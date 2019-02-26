@@ -34993,6 +34993,7 @@
       "Gear Change Luffy",
       "Gear Shift Luffy",
       "Legend Luffy",
+      "V2G4",
       "Monkey D. Luffy",
       " The Potential Power of the Gomu Gomu no Mi"
     ]
@@ -35017,6 +35018,7 @@
       "Gear Change Luffy",
       "Gear Shift Luffy",
       "Legend Luffy",
+      "V2G4",
       "Monkey D. Luffy",
       "Strawhat Luffy",
       " The Potential Power of the Gomu Gomu no Mi"
@@ -41514,6 +41516,224 @@
     ]
   },
   {
+    "name": "Sanji & Judge",
+    "type": [
+      "PSY",
+      "PSY"
+    ],
+    "class": [
+      [
+        "Powerhouse",
+        "Fighter"
+      ],
+      [
+        "Powerhouse",
+        "Driven"
+      ],
+      [
+        "Powerhouse",
+        "Fighter"
+      ]
+    ],
+    "id": 2445,
+    "aliases": [
+      "Yellow Ranger",
+      "Black Ranger",
+      "Sanji&Judge",
+      "Sanji and Judge",
+      "Sanji Judge",
+      "SanjiJudge",
+      "Judge&Sanji",
+      "Judge and Sanji",
+      "Judge Sanji",
+      "JudgeSanji",
+      "Sanji",
+      "Vinsmoke Judge",
+      "Sanji & Judge"
+    ]
+  },
+  {
+    "name": "Sanji & Judge, The Parting between Father and Son",
+    "type": [
+      "PSY",
+      "PSY"
+    ],
+    "class": [
+      [
+        "Powerhouse",
+        "Fighter"
+      ],
+      [
+        "Powerhouse",
+        "Driven"
+      ],
+      [
+        "Powerhouse",
+        "Fighter"
+      ]
+    ],
+    "id": 2446,
+    "aliases": [
+      "Yellow Ranger",
+      "Black Ranger",
+      "Sanji&Cavendish",
+      "Sanji and Judge",
+      "Sanji Judge",
+      "SanjiJudge",
+      "Judge&Sanji",
+      "Judge and Sanji",
+      "Judge Sanji",
+      "JudgeSanji",
+      "Sanji",
+      "Vinsmoke Judge",
+      "Sanji & Judge",
+      " The Parting between Father and Son"
+    ]
+  },
+  {
+    "name": "Vinsmoke Ichiji, Germa Royal Family First Son",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "id": 2447,
+    "aliases": [
+      "Red Ranger",
+      "Vinsmoke Ichiji",
+      " Germa Royal Family First Son"
+    ]
+  },
+  {
+    "name": "Vinsmoke Ichiji, Germa 66 Sparkling Red",
+    "type": [
+      "STR"
+    ],
+    "class": [
+      "Powerhouse",
+      "Shooter"
+    ],
+    "id": 2448,
+    "aliases": [
+      "Red Ranger",
+      "Vinsmoke Ichiji",
+      " Germa 66 Sparkling Red"
+    ]
+  },
+  {
+    "name": "Vinsmoke Niji, Germa Royal Family Second Son",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "id": 2449,
+    "aliases": [
+      "Blue Ranger",
+      "Vinsmoke Niji",
+      " Germa Royal Family Second Son"
+    ]
+  },
+  {
+    "name": "Vinsmoke Niji, Germa 66 Dengeki Blue",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Powerhouse",
+      "Slasher"
+    ],
+    "id": 2450,
+    "aliases": [
+      "Vinsmoke Niji",
+      " Germa 66 Dengeki Blue"
+    ]
+  },
+  {
+    "name": "Vinsmoke Yonji, Germa Royal Family Third Son",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "id": 2451,
+    "aliases": [
+      "Green Ranger",
+      "Vinsmoke Yonji",
+      " Germa Royal Family Third Son"
+    ]
+  },
+  {
+    "name": "Vinsmoke Yonji, Germa 66 Winch Green",
+    "type": [
+      "DEX"
+    ],
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "id": 2452,
+    "aliases": [
+      "Green Ranger",
+      "Vinsmoke Yonji",
+      " Germa 66 Winch Green"
+    ]
+  },
+  {
+    "name": "Vinsmoke Reiju, Germa Royal Family Daughter",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "id": 2453,
+    "aliases": [
+      "Pink Ranger",
+      "Vinsmoke Reiju",
+      " Germa Royal Family Daughter"
+    ]
+  },
+  {
+    "name": "Vinsmoke Reiju, Germa 66 Poison Pink",
+    "type": [
+      "INT"
+    ],
+    "class": [
+      "Powerhouse",
+      "Shooter"
+    ],
+    "id": 2454,
+    "aliases": [
+      "Pink Ranger",
+      "Vinsmoke Reiju",
+      " Germa 66 Poison Pink"
+    ]
+  },
+  {
+    "name": "Sora, Warm Smile",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Cerebral"
+    ],
+    "id": 2455,
+    "aliases": [
+      "Vinsmoke Sora",
+      "Roxas",
+      "Sora",
+      " Warm Smile"
+    ]
+  },
+  {
     "name": "Big Mom, Emperor Suffering from Hunger Pangs",
     "type": [
       "STR"
@@ -42062,34 +42282,6 @@
     ]
   },
   {
-    "name": "[Dual Unit] Monkey D. Luffy, Pirates Rising",
-    "type": [
-      "QCK"
-    ],
-    "class": [
-      "Free Spirit",
-      "Fighter"
-    ],
-    "id": 5005,
-    "aliases": [
-      "ルフィ 海賊の高み",
-      "Luffy&Ace",
-      "Luffy and Ace",
-      "Luffy Ace",
-      "LuffyAce",
-      "Ace&Luffy",
-      "Ace and Luffy",
-      "Ace Luffy",
-      "AceLuffy",
-      "L/A",
-      "Legend Luffy & Ace",
-      "Legend Luffy and Ace",
-      "Lace",
-      "[Dual Unit] Monkey D. Luffy",
-      " Pirates Rising"
-    ]
-  },
-  {
     "name": "[Dual Unit] Portgas D. Ace, Reunion at War",
     "type": [
       "STR"
@@ -42098,9 +42290,9 @@
       "Free Spirit",
       "Shooter"
     ],
-    "id": 5006,
+    "id": 5005,
     "aliases": [
-      "エース 戦火の再会",
+      "ルフィ 海賊の高み",
       "Luffy&Ace",
       "Luffy and Ace",
       "Luffy Ace",
@@ -42118,13 +42310,41 @@
     ]
   },
   {
-    "name": "[Dual Unit] Portgas D. Ace, Pirates Rising",
+    "name": "[Dual Unit] Luffy & Ace, Reunion at War",
+    "type": [
+      "QCK"
+    ],
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "id": 5006,
+    "aliases": [
+      "エース 戦火の再会",
+      "Luffy&Ace",
+      "Luffy and Ace",
+      "Luffy Ace",
+      "LuffyAce",
+      "Ace&Luffy",
+      "Ace and Luffy",
+      "Ace Luffy",
+      "AceLuffy",
+      "L/A",
+      "Legend Luffy & Ace",
+      "Legend Luffy and Ace",
+      "Lace",
+      "[Dual Unit] Luffy & Ace",
+      " Reunion at War"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Luffy & Ace, Reunion at War",
     "type": [
       "STR"
     ],
     "class": [
       "Free Spirit",
-      "Shooter"
+      "Fighter"
     ],
     "id": 5007,
     "aliases": [
@@ -42141,12 +42361,12 @@
       "Legend Luffy & Ace",
       "Legend Luffy and Ace",
       "Lace",
-      "[Dual Unit] Portgas D. Ace",
-      " Pirates Rising"
+      "[Dual Unit] Luffy & Ace",
+      " Reunion at War"
     ]
   },
   {
-    "name": "[Dual Unit] Luffy & Ace, Reunion at War",
+    "name": "[Dual Unit] Monkey D. Luffy, Pirates Rising",
     "type": [
       "QCK"
     ],
@@ -42169,18 +42389,18 @@
       "Legend Luffy & Ace",
       "Legend Luffy and Ace",
       "Lace",
-      "[Dual Unit] Luffy & Ace",
-      " Reunion at War"
+      "[Dual Unit] Monkey D. Luffy",
+      " Pirates Rising"
     ]
   },
   {
-    "name": "[Dual Unit] Luffy & Ace, Reunion at War",
+    "name": "[Dual Unit] Portgas D. Ace, Pirates Rising",
     "type": [
       "STR"
     ],
     "class": [
       "Free Spirit",
-      "Fighter"
+      "Shooter"
     ],
     "id": 5009,
     "aliases": [
@@ -42197,8 +42417,8 @@
       "Legend Luffy & Ace",
       "Legend Luffy and Ace",
       "Lace",
-      "[Dual Unit] Luffy & Ace",
-      " Reunion at War"
+      "[Dual Unit] Portgas D. Ace",
+      " Pirates Rising"
     ]
   },
   {
@@ -42398,12 +42618,12 @@
     ]
   },
   {
-    "name": "[Dual Unit] Whitebeard, The Fierce Battle at the Paramount War",
+    "name": "[Dual Unit] Marco, The Foundation of the Paramount War",
     "type": [
-      "PSY"
+      "INT"
     ],
     "class": [
-      "Striker",
+      "Fighter",
       "Powerhouse"
     ],
     "id": 5017,
@@ -42421,17 +42641,17 @@
       "Legend Whitebeard & Marco",
       "Legend Whitebeard and Marco",
       "Warco",
-      "[Dual Unit] Whitebeard",
-      " The Fierce Battle at the Paramount War"
+      "[Dual Unit] Marco",
+      " The Foundation of the Paramount War"
     ]
   },
   {
-    "name": "[Dual Unit] Marco, The Foundation of the Paramount War",
+    "name": "[Dual Unit] Whitebeard & Marco, The Foundation of the Paramount War",
     "type": [
-      "INT"
+      "PSY"
     ],
     "class": [
-      "Fighter",
+      "Striker",
       "Powerhouse"
     ],
     "id": 5018,
@@ -42449,17 +42669,17 @@
       "Legend Whitebeard & Marco",
       "Legend Whitebeard and Marco",
       "Warco",
-      "[Dual Unit] Marco",
+      "[Dual Unit] Whitebeard & Marco",
       " The Foundation of the Paramount War"
     ]
   },
   {
-    "name": "[Dual Unit] Marco, The Fierce Battle at the Paramount War",
+    "name": "[Dual Unit] Whitebeard & Marco, The Foundation of the Paramount War",
     "type": [
       "INT"
     ],
     "class": [
-      "Fighter",
+      "Striker",
       "Powerhouse"
     ],
     "id": 5019,
@@ -42477,12 +42697,12 @@
       "Legend Whitebeard & Marco",
       "Legend Whitebeard and Marco",
       "Warco",
-      "[Dual Unit] Marco",
-      " The Fierce Battle at the Paramount War"
+      "[Dual Unit] Whitebeard & Marco",
+      " The Foundation of the Paramount War"
     ]
   },
   {
-    "name": "[Dual Unit] Whitebeard & Marco, The Foundation of the Paramount War",
+    "name": "[Dual Unit] Whitebeard, The Fierce Battle at the Paramount War",
     "type": [
       "PSY"
     ],
@@ -42505,17 +42725,17 @@
       "Legend Whitebeard & Marco",
       "Legend Whitebeard and Marco",
       "Warco",
-      "[Dual Unit] Whitebeard & Marco",
-      " The Foundation of the Paramount War"
+      "[Dual Unit] Whitebeard",
+      " The Fierce Battle at the Paramount War"
     ]
   },
   {
-    "name": "[Dual Unit] Whitebeard & Marco, The Foundation of the Paramount War",
+    "name": "[Dual Unit] Marco, The Fierce Battle at the Paramount War",
     "type": [
       "INT"
     ],
     "class": [
-      "Striker",
+      "Fighter",
       "Powerhouse"
     ],
     "id": 5021,
@@ -42533,8 +42753,8 @@
       "Legend Whitebeard & Marco",
       "Legend Whitebeard and Marco",
       "Warco",
-      "[Dual Unit] Whitebeard & Marco",
-      " The Foundation of the Paramount War"
+      "[Dual Unit] Marco",
+      " The Fierce Battle at the Paramount War"
     ]
   },
   {
@@ -43267,6 +43487,93 @@
       "Mishanks",
       "[Dual Unit] Shanks and Mihawk",
       " World's Leading Two Swordsmen"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Sanji",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "id": 5052,
+    "aliases": [
+      "[Dual Unit] Sanji"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Judge",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "id": 5053,
+    "aliases": [
+      "[Dual Unit] Judge"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Sanji & Judge",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "id": 5054,
+    "aliases": [
+      "[Dual Unit] Sanji & Judge"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Sanji, The Parting between Father and Son",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "id": 5055,
+    "aliases": [
+      "[Dual Unit] Sanji",
+      " The Parting between Father and Son"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Judge, The Parting between Father and Son",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "id": 5056,
+    "aliases": [
+      "[Dual Unit] Judge",
+      " The Parting between Father and Son"
+    ]
+  },
+  {
+    "name": "[Dual Unit] Sanji & Judge, The Parting between Father and Son",
+    "type": [
+      "PSY"
+    ],
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "id": 5057,
+    "aliases": [
+      "[Dual Unit] Sanji & Judge",
+      " The Parting between Father and Son"
     ]
   }
 ]
