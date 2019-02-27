@@ -68,7 +68,10 @@
     "maxRCV": 300,
     "ability": null
   },
-  "cooldown": null,
+  "cooldown": [
+    20,
+    14
+  ],
   "evolve": {
     "evolution": 2450,
     "evolvers": [],
