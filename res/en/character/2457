@@ -20,7 +20,7 @@
   "aliases": [
     "",
     "",
-    ""
+    "Fortnight Pudding"
   ],
   "unit": {
     "type": "INT",
@@ -42,8 +42,15 @@
     "maxRCV": 281,
     "ability": null
   },
-  "cooldown": null,
-  "evolve": [],
+  "cooldown": [
+    null,
+    13
+  ],
+  "evolve": {
+    "evolution": 2457,
+    "evolvers": [],
+    "from": 2456
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2457.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2457.png"

@@ -8,7 +8,7 @@
   "aliases": [
     "",
     "",
-    ""
+    "Fortnight Pudding"
   ],
   "unit": {
     "type": "INT",
@@ -30,12 +30,28 @@
     "maxRCV": null,
     "ability": null
   },
-  "cooldown": null,
+  "cooldown": [
+    null,
+    13
+  ],
+  "evolution": {
+    "evolution": 2457,
+    "evolvers": []
+  },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2456.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2456.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Pudding's Sweet Cooking Fortnight",
+      "thumb": 2457,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
   "manual": []
 }
