@@ -9,25 +9,72 @@
       "base": "Reduces Silence duration on this character by 3 turns",
       "level1": "If there are 6 Powerhouse characters in your crew, makes [INT] orbs beneficial for Powerhouse characters"
     },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If there are 6 Powerhouse characters in your crew, makes [INT] orbs beneficial for Powerhouse characters"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
         ]
       }
     ],
@@ -35,17 +82,17 @@
       {
         "Characters": "Judge, Ichiji, Niji and Yonji",
         "description": [
-          "Level 1: Adds ?% of this character's base RCV to the supported character's base RCV",
-          "Level 2: Adds ?% of this character's base RCV to the supported character's base RCV",
-          "Level 3: Adds ?% of this character's base RCV to the supported character's base RCV",
-          "Level 4: Adds ?% of this character's base RCV to the supported character's base RCV",
+          "Level 1: Adds 6% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Adds 9% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Adds 12% of this character's base RCV to the supported character's base RCV",
           "Level 5: Adds 15% of this character's base RCV to the supported character's base RCV"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "ヴィンスモーク・レイジュ ジェルマ王家　長女",
     "",
     "Pink Ranger"
   ],
@@ -61,13 +108,13 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
-    "maxHP": 3000,
-    "maxATK": 1500,
-    "maxRCV": 300,
-    "ability": null
+    "minHP": 836,
+    "minATK": 342,
+    "minRCV": 204,
+    "maxHP": 2018,
+    "maxATK": 1334,
+    "maxRCV": 439,
+    "ability": 1
   },
   "cooldown": [
     20,
@@ -75,7 +122,13 @@
   ],
   "evolution": {
     "evolution": 2454,
-    "evolvers": []
+    "evolvers": [
+      "skullReiju2",
+      "skullReiju2",
+      "skullReiju2",
+      "skullReiju2",
+      "skullReiju2"
+    ]
   },
   "evolve": [],
   "image": {

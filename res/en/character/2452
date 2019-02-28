@@ -8,25 +8,72 @@
       "base": "Reduces Silence duration on this character by 3 turns",
       "level1": "If there are 6 Powerhouse characters in your crew, makes [DEX] orbs beneficial for Powerhouse characters"
     },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If there are 6 Powerhouse characters in your crew, makes [DEX] orbs beneficial for Powerhouse characters"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "Reduce No Healing duration",
         "description": [
-          "Level 1: Reduces No Healing duration by ? turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
         ]
       },
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
         ]
       }
     ],
@@ -34,17 +81,17 @@
       {
         "Characters": "Judge, Ichiji, Niji and Reiju",
         "description": [
-          "Level 1: Adds ?% of this character's base HP to the supported character's base HP",
-          "Level 2: Adds ?% of this character's base HP to the supported character's base HP",
-          "Level 3: Adds ?% of this character's base HP to the supported character's base HP",
-          "Level 4: Adds ?% of this character's base HP to the supported character's base HP",
+          "Level 1: Adds 6% of this character's base HP to the supported character's base HP",
+          "Level 2: Adds 7% of this character's base HP to the supported character's base HP",
+          "Level 3: Adds 9% of this character's base HP to the supported character's base HP",
+          "Level 4: Adds 12% of this character's base HP to the supported character's base HP",
           "Level 5: Adds 15% of this character's base HP to the supported character's base HP"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "ヴィンスモーク・ヨンジ ジェルマ６６　翠の剛腕",
     "",
     "Green Ranger"
   ],
@@ -60,13 +107,13 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
-    "maxHP": 3000,
-    "maxATK": 1500,
-    "maxRCV": 300,
-    "ability": null
+    "minHP": 1135,
+    "minATK": 433,
+    "minRCV": 175,
+    "maxHP": 2583,
+    "maxATK": 1387,
+    "maxRCV": 378,
+    "ability": 1
   },
   "cooldown": [
     20,
@@ -74,7 +121,13 @@
   ],
   "evolve": {
     "evolution": 2452,
-    "evolvers": [],
+    "evolvers": [
+      "skullYonji2",
+      "skullYonji2",
+      "skullYonji2",
+      "skullYonji2",
+      "skullYonji2"
+    ],
     "from": 2451
   },
   "image": {

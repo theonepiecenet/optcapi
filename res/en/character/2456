@@ -1,0 +1,41 @@
+{
+  "name": "Pudding",
+  "detail": {
+    "captain": "Boosts ATK of all characters by ?x and their RCV by ?x.",
+    "special": "Binds self for 3 turns, reduces crew's ATK DOWN duration by 2 turns and adds .3x to Chain multiplier for 1 turn. If your Captain is a Fighter character, changes own orb and the Captain's orb into Matching orbs.",
+    "specialName": "Chocolatier's Love"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Cerebral",
+      "Fighter"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 130703,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2456.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2456.png"
+  },
+  "drop": [],
+  "manual": []
+}

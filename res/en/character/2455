@@ -8,20 +8,21 @@
       {
         "Characters": "Sanji, Judge, Reiju, Ichiji, Niji and Yonji",
         "description": [
-          "Level 1: Once per adventure, when you reach the final stage, changes supported character's orb, including [BLOCK] orbs, into a [TND] orb, reduces Special Cooldown of supported character by ? turn and recovers ? HP",
-          "Level 2: Once per adventure, when you reach the final stage, changes supported character's orb, including [BLOCK] orbs, into a [TND] orb, reduces Special Cooldown of supported character by ? turn and recovers ? HP",
-          "Level 3: Once per adventure, when you reach the final stage, changes supported character's orb, including [BLOCK] orbs, into a [TND] orb, reduces Special Cooldown of supported character by ? turn and recovers ? HP",
-          "Level 4: Once per adventure, when you reach the final stage, changes supported character's orb, including [BLOCK] orbs, into a [TND] orb, reduces Special Cooldown of supported character by ? turn and recovers ? HP",
+          "Level 1: Once per adventure, when you reach the final stage, changes supported character's orb into a [TND] orb",
+          "Level 2: Once per adventure, when you reach the final stage, changes supported character's orb into a [TND] orb and recovers 1,000 HP",
+          "Level 3: Once per adventure, when you reach the final stage, changes supported character's orb into a [TND] orb and recovers 2,000 HP",
+          "Level 4: Once per adventure, when you reach the final stage, changes supported character's orb into a [TND] orb, reduces Special Cooldown of supported character by 1 turn and recovers 3,000 HP",
           "Level 5: Once per adventure, when you reach the final stage, changes supported character's orb, including [BLOCK] orbs, into a [TND] orb, reduces Special Cooldown of supported character by 1 turn and recovers 3,000 HP"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "ソラ 温かい笑顔",
     "",
     "Vinsmoke Sora",
-    "Roxas"
+    "Roxas",
+    "Best Mom"
   ],
   "unit": {
     "type": "PSY",
@@ -31,14 +32,14 @@
     "combo": 5,
     "slots": 4,
     "level": 99,
-    "exp": 2000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "exp": 4000000,
+    "minHP": 558,
+    "minATK": 566,
+    "minRCV": 180,
     "maxHP": 1677,
     "maxATK": 828,
     "maxRCV": 542,
-    "ability": null
+    "ability": 1
   },
   "cooldown": null,
   "evolve": [],

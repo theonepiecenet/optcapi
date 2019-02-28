@@ -16,7 +16,7 @@
     }
   },
   "aliases": [
-    "",
+    "サンジ＆ジャッジ 父子の因縁",
     "",
     "Yellow Ranger",
     "Black Ranger",
@@ -50,17 +50,17 @@
     ],
     "stars": 5,
     "cost": 30,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 70,
     "exp": 1066998,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 434,
+    "minATK": 289,
+    "minRCV": 55,
+    "maxHP": 2022,
+    "maxATK": 831,
+    "maxRCV": 161,
+    "ability": 1
   },
   "cooldown": [
     20,
@@ -68,7 +68,13 @@
   ],
   "evolution": {
     "evolution": 2446,
-    "evolvers": []
+    "evolvers": [
+      118,
+      103,
+      98,
+      303,
+      267
+    ]
   },
   "evolve": [],
   "image": {

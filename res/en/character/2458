@@ -1,0 +1,53 @@
+{
+  "name": "Chiffon, Baking a Cake to Show her Gratitude",
+  "detail": {
+    "captain": "Boosts ATK of [QCK] characters by 2x and their HP by 1.2x.",
+    "special": "Reduces Silence duration by 3 turns and reduces enemy Threshold Damage Reduction duration by 2 turns.",
+    "specialName": "Enforcing her Duty",
+    "support": [
+      {
+        "Characters": "Sanji and Pudding",
+        "description": [
+          "Level 1: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Free Spirit",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 1946,
+    "maxATK": 1100,
+    "maxRCV": 259,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2458.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2458.png"
+  },
+  "drop": [],
+  "manual": []
+}
