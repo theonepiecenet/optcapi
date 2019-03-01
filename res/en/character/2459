@@ -6,19 +6,19 @@
     "specialName": "The Ultimate Fresh Cream",
     "support": [
       {
-        "Characters": "Chiffon and Pudding",
+        "Characters": "Pudding",
         "description": [
-          "Level 1: Adds ?% of this character's base ATK to the supported character's base ATK",
-          "Level 2: Adds ?% of this character's base ATK to the supported character's base ATK",
-          "Level 3: Adds ?% of this character's base ATK to the supported character's base ATK",
-          "Level 4: Adds ?% of this character's base ATK to the supported character's base ATK",
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 2% of this character's base ATK to the supported character's base ATK",
           "Level 5: Adds 3% of this character's base ATK to the supported character's base ATK"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "サンジ 甘みの真骨頂",
     "",
     "Fortnight Sanji"
   ],
@@ -34,13 +34,13 @@
     "slots": 4,
     "level": 99,
     "exp": 1000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 891,
+    "minATK": 512,
+    "minRCV": 60,
     "maxHP": 2228,
     "maxATK": 1280,
     "maxRCV": 152,
-    "ability": null
+    "ability": 1
   },
   "cooldown": null,
   "evolve": [],

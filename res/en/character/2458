@@ -2,23 +2,23 @@
   "name": "Chiffon, Baking a Cake to Show her Gratitude",
   "detail": {
     "captain": "Boosts ATK of [QCK] characters by 2x and their HP by 1.2x.",
-    "special": "Reduces Silence duration by 3 turns and reduces enemy Threshold Damage Reduction duration by 2 turns.",
+    "special": "Reduces Bind duration by 3 turns and reduces enemy Threshold Damage Reduction duration by 2 turns.",
     "specialName": "Enforcing her Duty",
     "support": [
       {
         "Characters": "Sanji and Pudding",
         "description": [
-          "Level 1: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
-          "Level 2: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
-          "Level 3: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
-          "Level 4: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
           "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "シフォン 恩義に報いるケーキ作り",
     "",
     "Fortnight Chiffon"
   ],
@@ -34,16 +34,16 @@
     "slots": 4,
     "level": 99,
     "exp": 1000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 778,
+    "minATK": 440,
+    "minRCV": 103,
     "maxHP": 1946,
     "maxATK": 1100,
     "maxRCV": 259,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
-    null,
+    19,
     13
   ],
   "evolve": [],

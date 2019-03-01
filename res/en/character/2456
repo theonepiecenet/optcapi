@@ -1,12 +1,12 @@
 {
-  "name": "Pudding",
+  "name": "Pudding, Chocolatier of the World",
   "detail": {
-    "captain": "Boosts ATK of all characters by ?x and their RCV by ?x.",
+    "captain": "Boosts ATK of Cerebral characters by 2x.",
     "special": "Binds self for 3 turns, reduces crew's ATK DOWN duration by 2 turns and adds .3x to Chain multiplier for 1 turn. If your Captain is a Fighter character, changes own orb and the Captain's orb into Matching orbs.",
     "specialName": "Chocolatier's Love"
   },
   "aliases": [
-    "",
+    "プリン 万国のショコラティエ",
     "",
     "Fortnight Pudding"
   ],
@@ -18,25 +18,31 @@
     ],
     "stars": 3,
     "cost": 1,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 130703,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 357,
+    "minATK": 196,
+    "minRCV": 54,
+    "maxHP": 894,
+    "maxATK": 492,
+    "maxRCV": 137,
+    "ability": 1
   },
   "cooldown": [
-    null,
+    19,
     13
   ],
   "evolution": {
     "evolution": 2457,
-    "evolvers": []
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      104
+    ]
   },
   "evolve": [],
   "image": {
