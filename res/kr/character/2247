@@ -1,83 +1,83 @@
 {
-  "name": "네펠타리 비비, The Princess’ Resolve",
-  "detail": {
-    "specialName": "The Mark of Friendship",
-    "special": "Reduces Special Cooldown of all characters by 1 turn and changes [BLOCK] and adjacent orbs into [RCV] orbs. If during that turn, you hit 2 PERFECTS, locks the chain multiplier at 3x for 3 turns.",
-    "captain": "Boosts ATK of Free Spirit characters proportionally to the crew's current HP, by 3.25x at max and recovers 1.5x character's RCV in HP at the end of each turn",
-    "sailor": {
-      "base": "Reduces Silence duration by 1 turn",
-      "level1": "Makes [RCV] orbs “beneficial” for all characters"
-    },
-    "potential": [
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turn",
-          "Level 3: Reduces No Healing duration by 3 turn",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
-        ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Acquire Potential 1: Reduce No Healing duration"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base RCV by 30"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base HP by 60"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [RCV] orbs “beneficial” for all characters"
-      },
-      {
-        "description": "Boosts base ATK by 50"
-      },
-      {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
-      }
-    ],
-    "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : 3.25 : ?}",
-    "sailorNotes": "#{beneficial}"
-  }
+    "name": "네펠타리 비비, 입지식을 진행하는 왕녀",
+    "detail": {
+        "specialName": "동료의 증표",
+        "special": "일당의 필살기 턴을 1턴 줄이고, 인접한 슬롯과 [BLOCK] 슬롯을 [RCV] 슬롯으로 바꾸며, 해당 턴 내에 PERFECT 공격을 2회 이상 성공하면 다음 턴부터 3턴 동안 체인 계수가 3배로 고정된다",
+        "captain": "공격 시작 전 남은 체력이 많을수록 자유형 캐릭터의 공격력이 상승하고(최대 3.25배), 턴 종료 시 캐릭터의 회복력x1.5배의 체력을 회복한다",
+        "sailor": {
+            "base": "일당의 필살기 봉쇄 상태를 1턴 회복한다",
+            "level1": "Makes [RCV] orbs “beneficial” for all characters"
+        },
+        "potential": [
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turn",
+                    "Level 3: Reduces No Healing duration by 3 turn",
+                    "Level 4: Reduces No Healing duration by 4 turns",
+                    "Level 5: Reduces No Healing duration by 5 turns"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+                    "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+                    "Level 3: Reduces Slot Bind duration by 5 turns on this character",
+                    "Level 4: Reduces Slot Bind duration by 7 turns on this character",
+                    "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Acquire Potential 1: Reduce No Healing duration"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base RCV by 30"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [RCV] orbs “beneficial” for all characters"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Acquire Potential 2: Slot Bind Self-reduction"
+            }
+        ],
+        "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : 3.25 : ?}",
+        "sailorNotes": "#{beneficial}"
+    }
 }
