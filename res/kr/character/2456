@@ -1,0 +1,63 @@
+{
+    "name": "푸딩, Chocolatier of the World",
+    "detail": {
+        "captain": "Boosts ATK of Cerebral characters by 2x.",
+        "special": "Binds self for 3 turns, reduces crew's ATK DOWN duration by 2 turns and adds .3x to Chain multiplier for 1 turn. If your Captain is a Fighter character, changes own orb and the Captain's orb into Matching orbs.",
+        "specialName": "Chocolatier's Love"
+    },
+    "aliases": [
+        "プリン 万国のショコラティエ",
+        "",
+        "Fortnight Pudding"
+    ],
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Cerebral",
+            "Fighter"
+        ],
+        "stars": 3,
+        "cost": 1,
+        "combo": 5,
+        "slots": 3,
+        "level": 50,
+        "exp": 130703,
+        "minHP": 357,
+        "minATK": 196,
+        "minRCV": 54,
+        "maxHP": 894,
+        "maxATK": 492,
+        "maxRCV": 137,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        13
+    ],
+    "evolution": {
+        "evolution": 2457,
+        "evolvers": [
+            117,
+            82,
+            88,
+            99,
+            104
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2456.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2456.png"
+    },
+    "drop": [
+        {
+            "type": "Fortnight",
+            "name": "Pudding's Sweet Cooking Fortnight",
+            "thumb": 2457,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}

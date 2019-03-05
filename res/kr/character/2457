@@ -1,0 +1,66 @@
+{
+    "name": "푸딩, The Chocolatier Madly in Love",
+    "detail": {
+        "captain": "Boosts ATK of Cerebral characters by 2x and their RCV by 1.2x.",
+        "special": "Binds self for 3 turns, reduces crew's ATK DOWN duration by 2 turns and adds .3x to Chain multiplier for 1 turn. If your Captain is a Fighter character, changes own orb and the Captain's orb into Matching orbs.",
+        "specialName": "Chocolatier's Love",
+        "support": [
+            {
+                "Characters": "Sanji",
+                "description": [
+                    "Level 1: Adds 1% of this character's base HP to the supported character's base HP. Boosts the supported character's ATK by 1.05x against Big Mom.",
+                    "Level 2: Adds 1% of this character's base HP to the supported character's base HP. Boosts the supported character's ATK by 1.1x against Big Mom.",
+                    "Level 3: Adds 2% of this character's base HP to the supported character's base HP. Boosts the supported character's ATK by 1.15x against Big Mom.",
+                    "Level 4: Adds 2% of this character's base HP to the supported character's base HP. Boosts the supported character's ATK by 1.15x against Big Mom.",
+                    "Level 5: Adds 3% of this character's base HP to the supported character's base HP. Boosts the supported character's ATK by 1.2x against Big Mom."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "プリン メロメロのショコラティエ",
+        "",
+        "Fortnight Pudding"
+    ],
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Cerebral",
+            "Fighter"
+        ],
+        "stars": 4,
+        "cost": 1,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 1000000,
+        "minHP": 798,
+        "minATK": 403,
+        "minRCV": 112,
+        "maxHP": 1996,
+        "maxATK": 1009,
+        "maxRCV": 281,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        13
+    ],
+    "evolve": {
+        "evolution": 2457,
+        "evolvers": [
+            117,
+            82,
+            88,
+            99,
+            104
+        ],
+        "from": 2456
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2457.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2457.png"
+    },
+    "drop": [],
+    "manual": []
+}

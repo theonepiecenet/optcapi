@@ -1,0 +1,152 @@
+{
+    "name": "빈스모크 욘디, Germa 66 Green Strong Arm",
+    "detail": {
+        "captain": "Boosts ATK of Powerhouse characters and [DEX] characters by 2.5x and their HP by 1.2x. Boosts RCV of Powerhouse characters by 1.2x.",
+        "special": "If there are 6 Powerhouse characters in your crew, reduces ATK DOWN, Bind and Despair duration by 5 turns. If your Captain's orb or Friend Captain's orb is [TND], boosts the Color Affinity of all characters by 2x for 1 turn.",
+        "specialName": "Winch Guillotine: Winch Danton",
+        "sailor": {
+            "base": "Reduces Silence duration on this character by 3 turns",
+            "level1": "If there are 6 Powerhouse characters in your crew, makes [DEX] orbs beneficial for Powerhouse characters"
+        },
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Acquire Potential 1: Reduce No Healing duration"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base RCV by 25"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: If there are 6 Powerhouse characters in your crew, makes [DEX] orbs beneficial for Powerhouse characters"
+            },
+            {
+                "description": "Acquire Potential 2: Slot Bind Self-reduction"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turn",
+                    "Level 3: Reduces No Healing duration by 3 turn",
+                    "Level 4: Reduces No Healing duration by 4 turns",
+                    "Level 5: Reduces No Healing duration by 5 turns"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+                    "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+                    "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+                    "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+                    "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Judge, Ichiji, Niji and Reiju",
+                "description": [
+                    "Level 1: Adds 6% of this character's base HP to the supported character's base HP",
+                    "Level 2: Adds 7% of this character's base HP to the supported character's base HP",
+                    "Level 3: Adds 9% of this character's base HP to the supported character's base HP",
+                    "Level 4: Adds 12% of this character's base HP to the supported character's base HP",
+                    "Level 5: Adds 15% of this character's base HP to the supported character's base HP"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ヴィンスモーク・ヨンジ ジェルマ６６　翠の剛腕",
+        "",
+        "Green Ranger"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Powerhouse",
+            "Striker"
+        ],
+        "stars": "5+",
+        "cost": 40,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1135,
+        "minATK": 433,
+        "minRCV": 175,
+        "maxHP": 2583,
+        "maxATK": 1387,
+        "maxRCV": 378,
+        "ability": 1
+    },
+    "cooldown": [
+        20,
+        14
+    ],
+    "evolve": {
+        "evolution": 2452,
+        "evolvers": [
+            "skullYonji2",
+            "skullYonji2",
+            "skullYonji2",
+            "skullYonji2",
+            "skullYonji2"
+        ],
+        "from": 2451
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2452.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2452.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": [
+        {
+            "type": "Special",
+            "name": "Germa 66 Counterattack",
+            "thumb": 2446,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ]
+}

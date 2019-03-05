@@ -1,0 +1,62 @@
+{
+    "name": "상디, True Sweetness",
+    "detail": {
+        "captain": "Boosts ATK of Fighter characters by 2.25x and their HP by 1.2x. Boosts ATK of Fighter characters by 2.475x following a chain of [PSY] > [INT] > [QCK] attacks no lower than Good.",
+        "special": "Deals 15x character's ATK in [PSY] damage to all enemies and reduces enemies Percent Damage Reduction duration by 2 turns. If your crew has 6 Fighter characters, delays all enemies for 1 turn.",
+        "specialName": "The Ultimate Fresh Cream",
+        "support": [
+            {
+                "Characters": "Pudding",
+                "description": [
+                    "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
+                    "Level 2: Adds 1% of this character's base ATK to the supported character's base ATK",
+                    "Level 3: Adds 2% of this character's base ATK to the supported character's base ATK",
+                    "Level 4: Adds 2% of this character's base ATK to the supported character's base ATK",
+                    "Level 5: Adds 3% of this character's base ATK to the supported character's base ATK"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "サンジ 甘みの真骨頂",
+        "",
+        "Fortnight Sanji"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Fighter",
+            "Cerebral"
+        ],
+        "stars": 4,
+        "cost": 1,
+        "combo": 5,
+        "slots": 4,
+        "level": 99,
+        "exp": 1000000,
+        "minHP": 891,
+        "minATK": 512,
+        "minRCV": 60,
+        "maxHP": 2228,
+        "maxATK": 1280,
+        "maxRCV": 152,
+        "ability": 1
+    },
+    "cooldown": null,
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2459.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2459.png"
+    },
+    "drop": [
+        {
+            "type": "Fortnight",
+            "name": "Pudding's Sweet Cooking Fortnight",
+            "thumb": 2457,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}

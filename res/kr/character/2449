@@ -1,0 +1,152 @@
+{
+    "name": "빈스모크 니디, Germa Royal Family Second Son",
+    "detail": {
+        "captain": "Boosts ATK of Powerhouse characters and [QCK] characters by 2.25x and their HP by 1.2x. Boosts RCV of Powerhouse characters by 1.2x.",
+        "special": "If there are 6 Powerhouse characters in your crew, boosts ATK against enemies with reduced defense by 1.75x for 1 turn. If your Captain's orb or Friend Captain's orb is [TND], changes all orbs, including [BLOCK] orbs, into [TND] orbs and makes [TND] orbs beneficial for all characters for 1 turn.",
+        "specialName": "Lightspeed Blade: Henry Blazer",
+        "sailor": {
+            "base": "Reduces Silence duration on this character by 3 turns",
+            "level1": "If there are 6 Powerhouse characters in your crew, makes [QCK] orbs beneficial for Powerhouse characters"
+        },
+        "limit": [
+            {
+                "description": "Boosts base HP by 35"
+            },
+            {
+                "description": "Boosts base HP by 45"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Acquire Potential 1: Critical Hit"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base RCV by 25"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base HP by 90"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: If there are 6 Powerhouse characters in your crew, makes [QCK] orbs beneficial for Powerhouse characters"
+            },
+            {
+                "description": "Acquire Potential 2: Slot Bind Self-reduction"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 30% chance to deal 2% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 40% chance to deal 3% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 50% chance to deal 4% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 60% chance to deal 5% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+                    "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+                    "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+                    "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+                    "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Judge, Ichiji, Yonji and Reiju",
+                "description": [
+                    "Level 1: Adds 4% of this character's base ATK to the supported character's base ATK",
+                    "Level 2: Adds 5% of this character's base ATK to the supported character's base ATK",
+                    "Level 3: Adds 7% of this character's base ATK to the supported character's base ATK",
+                    "Level 4: Adds 9% of this character's base ATK to the supported character's base ATK",
+                    "Level 5: Adds 11% of this character's base ATK to the supported character's base ATK"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ヴィンスモーク・ニジ ジェルマ王家　次男",
+        "",
+        "Blue Ranger"
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Powerhouse",
+            "Fighter"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1131,
+        "minATK": 509,
+        "minRCV": 100,
+        "maxHP": 2882,
+        "maxATK": 1405,
+        "maxRCV": 272,
+        "ability": 1
+    },
+    "cooldown": [
+        20,
+        14
+    ],
+    "evolution": {
+        "evolution": 2450,
+        "evolvers": [
+            "skullNiji2",
+            "skullNiji2",
+            "skullNiji2",
+            "skullNiji2",
+            "skullNiji2"
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2449.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2449.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": [
+        {
+            "type": "Special",
+            "name": "Germa 66 Counterattack",
+            "thumb": 2446,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ]
+}

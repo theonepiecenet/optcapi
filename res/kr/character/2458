@@ -1,0 +1,65 @@
+{
+    "name": "시폰, Baking a Cake to Show her Gratitude",
+    "detail": {
+        "captain": "Boosts ATK of [QCK] characters by 2x and their HP by 1.2x.",
+        "special": "Reduces Bind duration by 3 turns and reduces enemy Threshold Damage Reduction duration by 2 turns.",
+        "specialName": "Enforcing her Duty",
+        "support": [
+            {
+                "Characters": "Sanji and Pudding",
+                "description": [
+                    "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 4: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "シフォン 恩義に報いるケーキ作り",
+        "",
+        "Fortnight Chiffon"
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Free Spirit",
+            "Cerebral"
+        ],
+        "stars": 4,
+        "cost": 1,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 1000000,
+        "minHP": 778,
+        "minATK": 440,
+        "minRCV": 103,
+        "maxHP": 1946,
+        "maxATK": 1100,
+        "maxRCV": 259,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        13
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2458.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2458.png"
+    },
+    "drop": [
+        {
+            "type": "Fortnight",
+            "name": "Pudding's Sweet Cooking Fortnight",
+            "thumb": 2457,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}
