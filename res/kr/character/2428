@@ -1,0 +1,67 @@
+{
+    "name": "캐번디시, The Beautiful Captain who Responds to Popularity",
+    "detail": {
+        "captain": "Boosts ATK of Slasher characters by 2x, but boosts his OWN attack by 2.75x",
+        "special": "Deals 15x character's ATK in [PSY] damage to one enemy and amplifies the effect of orbs for Slasher characters by 1.5x and boosts ATK of Slasher characters by 1.5x for 1 turn",
+        "specialName": "Swan Lake Sword",
+        "support": [
+            {
+                "Characters": "Suleiman, Bartolomeo",
+                "description": [
+                    "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+                    "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+                    "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+                    "Level 4: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+                    "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "キャベンディッシュ 人気に応える美しき船長",
+        "",
+        "Fortnight Cavendish",
+        "Fortnight Cabbage"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Slasher",
+            "Driven"
+        ],
+        "stars": 4,
+        "cost": 1,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 1000000,
+        "minHP": 748,
+        "minATK": 484,
+        "minRCV": 94,
+        "maxHP": 1870,
+        "maxATK": 1210,
+        "maxRCV": 235,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        13
+    ],
+    "evolve": {
+        "evolution": 2428,
+        "evolvers": [
+            117,
+            81,
+            87,
+            98,
+            103
+        ],
+        "from": 2427
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2428.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2428.png"
+    },
+    "drop": [],
+    "manual": []
+}

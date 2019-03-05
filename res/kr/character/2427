@@ -1,0 +1,64 @@
+{
+    "name": "캐번디시, The Beautiful Captain who Gains Popularity",
+    "detail": {
+        "captain": "Boosts ATK of Slasher characters by 1.75x, but boosts his OWN attack by 2.5x",
+        "special": "Deals 15x character's ATK in [PSY] damage to one enemy and amplifies the effect of orbs for Slasher characters by 1.5x and boosts ATK of Slasher characters by 1.5x for 1 turn",
+        "specialName": "Swan Lake Sword"
+    },
+    "aliases": [
+        "キャベンディッシュ 人気を集める美しき船長",
+        "",
+        "Fortnight Cavendish",
+        "Fortnight Cabbage"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Slasher",
+            "Driven"
+        ],
+        "stars": 3,
+        "cost": 1,
+        "combo": 5,
+        "slots": 3,
+        "level": 50,
+        "exp": 130703,
+        "minHP": 440,
+        "minATK": 200,
+        "minRCV": 40,
+        "maxHP": 1100,
+        "maxATK": 500,
+        "maxRCV": 100,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        13
+    ],
+    "evolution": {
+        "evolution": 2428,
+        "evolvers": [
+            117,
+            81,
+            87,
+            98,
+            103
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2427.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2427.png"
+    },
+    "drop": [
+        {
+            "type": "Fortnight",
+            "name": "Cavendish's Rose Colored Melancholy Fortnight",
+            "thumb": 2428,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}

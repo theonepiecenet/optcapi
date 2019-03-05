@@ -1,0 +1,86 @@
+{
+    "name": "우소랜드, Tontatta Tribe's Savior",
+    "detail": {
+        "captain": "Boosts ATK of Free Spirit characters by 2.75x if HP is below ?% at the start of the turn, by 1.5x otherwise",
+        "special": "Reduces crew's current HP by 50%, delays all enemies for 1 turn, removes all positive buffs on your team and reduces Bind, Despair, Paralysis and Silence duration by 1 turn.",
+        "specialName": "Usoland's Great Scream",
+        "sailor": "Reduces Silence duration on this character by 2 turns",
+        "limit": [
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base RCV by 25"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Acquire Potential 1: Barrier Penetration"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above 60% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ウソランド トンタッタ族の救世主",
+        "",
+        "Usopp"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": "Free Spirit",
+        "stars": 5,
+        "cost": 20,
+        "combo": 4,
+        "slots": 3,
+        "level": 99,
+        "exp": 2000000,
+        "minHP": 1409,
+        "minATK": 621,
+        "minRCV": 30,
+        "maxHP": 2201,
+        "maxATK": 1189,
+        "maxRCV": 45,
+        "ability": 1
+    },
+    "cooldown": [
+        7,
+        7
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2439.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2439.png"
+    },
+    "drop": [],
+    "manual": []
+}

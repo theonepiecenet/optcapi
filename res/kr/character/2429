@@ -1,0 +1,65 @@
+{
+    "name": "슐레이만, Passenger of the Beautiful Pirates",
+    "detail": {
+        "captain": "Boosts ATK of Slasher characters by 2x",
+        "special": "Deals 15x character's ATK in [INT] damage to all enemies. If your Captain is a Slasher character, changes Slasher character's [RCV], [TND], [EMPTY], [BLOCK] and [BOMB] orbs into Matching orbs and reduces the defense of all enemies by 50% for 1 turn.",
+        "specialName": "Ghost Execution",
+        "support": [
+            {
+                "Characters": "Cavendish",
+                "description": [
+                    "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK.",
+                    "Level 2: Adds 1% of this character's base ATK to the supported character's base ATK.",
+                    "Level 3: Adds 2% of this character's base ATK to the supported character's base ATK.",
+                    "Level 4: Adds 2% of this character's base ATK to the supported character's base ATK.",
+                    "Level 5: Adds 3% of this character's base ATK to the supported character's base ATK."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "スレイマン 美しき海賊団の同乗者",
+        "",
+        "Fortnight Suleiman"
+    ],
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Slasher",
+            "Cerebral"
+        ],
+        "stars": 4,
+        "cost": 1,
+        "combo": 5,
+        "slots": 4,
+        "level": 99,
+        "exp": 1000000,
+        "minHP": 808,
+        "minATK": 460,
+        "minRCV": 92,
+        "maxHP": 2020,
+        "maxATK": 1150,
+        "maxRCV": 230,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        13
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2429.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2429.png"
+    },
+    "drop": [
+        {
+            "type": "Fortnight",
+            "name": "Cavendish's Rose Colored Melancholy Fortnight",
+            "thumb": 2428,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}
