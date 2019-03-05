@@ -1,0 +1,66 @@
+{
+    "name": "몽키 D. 가프 「개」",
+    "detail": {
+        "special": "Randomizes all orbs into either [STR] or [RCV] orbs, reduces Bind and Despair duration by 1 turn and boosts ATK of Fighter characters by 1.75x for 1 turn.",
+        "specialName": "Meteor Fist Shower [Neo]",
+        "captain": "Boosts ATK and HP Fighter characters by 1.5x"
+    },
+    "aliases": [
+        "",
+        "",
+        "Neo Garp"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Fighter",
+            "Powerhouse"
+        ],
+        "stars": 4,
+        "cost": 30,
+        "combo": 4,
+        "slots": 3,
+        "level": 70,
+        "exp": 1066998,
+        "minHP": 280,
+        "minATK": 235,
+        "minRCV": 50,
+        "maxHP": 1442,
+        "maxATK": 822,
+        "maxRCV": 131,
+        "ability": null
+    },
+    "cooldown": [
+        28,
+        14
+    ],
+    "evolution": {
+        "evolution": 2511,
+        "evolvers": [
+            118,
+            84,
+            300,
+            100,
+            266
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2510.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2510.png"
+    },
+    "flags": {
+        "global": 1
+    },
+    "drop": [
+        {
+            "type": "Raid",
+            "name": "Clash Neo!! Vice-Admiral Garp Raid",
+            "thumb": 2511,
+            "data": [
+                "Master"
+            ]
+        }
+    ],
+    "manual": []
+}
