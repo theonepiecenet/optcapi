@@ -1,96 +1,141 @@
 {
-  "name": "샬롯 스무디, Evolved",
-  "detail": {
-    "specialName": "Natural Born Destroyer",
-    "special": "Reduces ATK DOWN, Bind and Despair duration by 6 turns, changes own orb and adjacent orbs into [RCV] orbs boosts ATK of Driven and Powerhouse characters by 1.75x after 12th hit in the chain for 3 turns.",
-    "captain": "Boosts ATK of Driven and Powerhouse characters by 2.75x and makes [RCV] orbs \"beneficial\" for Driven and Powerhouse characters.",
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts own base ATK by 300 if this character is the last in the chain to attack",
-      "level2": "Boosts amount healed from [RCV] orbs by 250 each"
+    "name": "Sweet Commander 스무디, Charlotte Family 14th Daughter",
+    "detail": {
+        "captain": "Boosts ATK of Slasher and Powerhouse characters by 2.75x if they have a matching orb, by 2.25x otherwise, and boosts their HP by 1.25x.",
+        "special": "Deals 100x character's ATK in [INT] damage to one enemy, makes [DEX], [QCK] and [INT] orbs beneficial for Slasher and Powerhouse characters for 1 turn. If your captain is a Slasher or Powerhouse character, boosts the Color Affinity of Slasher and Powerhouse characters by 1.75x for 3 turns",
+        "specialNotes": "#{beneficial}",
+        "specialName": "Juice Slash",
+        "sailor": {
+            "base": "Boosts base ATK, HP and RCV of Slasher and Powerhouse characters by 50",
+            "level1": "Makes [PSY] orbs beneficial for this character"
+        },
+        "sailorNotes": "#{beneficial}",
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Acquire Potential 1: [PSY] Damage Reduction"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base RCV by 25"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [PSY] orbs beneficial for this character"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base ATK by 60"
+            },
+            {
+                "description": "Acquire Potential 2: Critical Hit"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[PSY] Damage Reduction",
+                "description": [
+                    "Level 1: Reduces Damage received from [PSY] enemies by 1%",
+                    "Level 2: Reduces Damage received from [PSY] enemies by 2%",
+                    "Level 3: Reduces Damage received from [PSY] enemies by 3%",
+                    "Level 4: Reduces Damage received from [PSY] enemies by 4%",
+                    "Level 5: Reduces Damage received from [PSY] enemies by 5%"
+                ]
+            },
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 50% chance to deal 4% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 60% chance to deal 6% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 70% chance to deal 7% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Charlotte Linlin, Katakuri, Daifuku and Cracker",
+                "description": [
+                    "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 2: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 3: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 4: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 5: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP"
+                ]
+            }
+        ]
     },
-    "potential": [
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      }
+    "aliases": [
+        "将星スムージー シャーロット家１４女",
+        "",
+        "Coliseum Smoothie"
     ],
-    "specialNotes": "#{beneficial}",
-    "sailorNotes": "#{beneficial}",
-    "limit": [
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Acquire Potential 1: [PSY] Damage Reduction"
-      },
-      {
-        "description": "Boosts base RCV by 15"
-      },
-      {
-        "description": "Boosts base RCV by 25"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs beneficial for this character"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base HP by 60"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base ATK by 40"
-      },
-      {
-        "description": "Boosts base ATK by 60"
-      },
-      {
-        "description": "Acquire Potential 2: Critical Hit"
-      }
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Slasher",
+            "Powerhouse"
+        ],
+        "stars": 5,
+        "cost": 40,
+        "combo": 5,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1409,
+        "minATK": 691,
+        "minRCV": 178,
+        "maxHP": 2578,
+        "maxATK": 1341,
+        "maxRCV": 320,
+        "ability": 1
+    },
+    "cooldown": [
+        28,
+        14
     ],
-    "support": [
-      {
-        "Characters": "Charlotte Linlin, Katakuri, Daifuku and Cracker",
-        "description": [
-          "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 2: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 3: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 4: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 5: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP"
-        ]
-      }
-    ]
-  }
+    "evolve": {
+        "evolution": 2375,
+        "evolvers": [
+            118,
+            99,
+            1180,
+            304,
+            104
+        ],
+        "from": 2374
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2375.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2375.png"
+    },
+    "drop": [],
+    "manual": []
 }
