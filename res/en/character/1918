@@ -5,7 +5,19 @@
     "special": "Reduces Bind duration by 2 turns, boosts ATK of [STR] characters by 1.75x for 1 turn",
     "specialName": "Brute Force Rescue",
     "sailor": "Makes [PSY] orbs beneficial for this character",
-    "sailorNotes": "#{beneficial}"
+    "sailorNotes": "#{beneficial}",
+    "support": [
+      {
+        "Characters": "Ichiji, Niji, Yonji, Judge and Sanji",
+        "description": [
+          "Level 1: Once per adventure, when your orbs are shuffled by the enemy, reduces Chain Multiplier Limit duration by 1 turn and makes [RCV] orbs beneficial for all characters for 1 turn",
+          "Level 2: Once per adventure, when your orbs are shuffled by the enemy, reduces Chain Multiplier Limit duration by 1 turn and makes [RCV] orbs beneficial for all characters for 1 turn",
+          "Level 3: Once per adventure, when your orbs are shuffled by the enemy, reduces Chain Multiplier Limit duration by 2 turns and makes [RCV] orbs beneficial for all characters for 1 turn",
+          "Level 4: Once per adventure, when your orbs are shuffled by the enemy, reduces Chain Multiplier Limit duration by 2 turns and makes [RCV] orbs beneficial for all characters for 1 turn",
+          "Level 5: Once per adventure, when your orbs are shuffled by the enemy, reduces Chain Multiplier Limit duration by 3 turns and makes [RCV] orbs beneficial for all characters for 1 turn"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ヴィンスモーク・レイジュ ジェルマの復活計画　最高傑作",

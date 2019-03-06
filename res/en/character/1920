@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Recovers 3x character's RCV in HP at the end of each turn",
     "special": "Reduces enemies Percent Damage Reduction and Increased Defense duration by 2 turns and switches orbs between slots twice",
-    "specialName": "Iron Mask of Dreams"
+    "specialName": "Iron Mask of Dreams",
+    "support": [
+      {
+        "Characters": "Cerebral Characters",
+        "description": [
+          "Level 1: Boosts the supported character's ATK by 1.05x against Judge",
+          "Level 2: Boosts the supported character's ATK by 1.05x against Judge",
+          "Level 3: Boosts the supported character's ATK by 1.1x against Judge",
+          "Level 4: Boosts the supported character's ATK by 1.15x against Judge",
+          "Level 5: Boosts the supported character's ATK by 1.2x against Judge"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ヴィンスモーク・サンジ ジェルマの復活計画　失敗作",
