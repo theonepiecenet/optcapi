@@ -1,5 +1,22 @@
 {
   "name": "Mystoms, The Mysterious Masked Savior Guiding the Escape",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 2.25x and reduces damage received by 5%.",
+    "special": "Reduces enemy Threshold Damage Reduction duration by 2 turns and adds .5x to Chain multiplier for 1 turn.",
+    "specialName": "Disguised Determination",
+    "support": [
+      {
+        "Characters": "Luffy, Sanji, Carrot and Pedro",
+        "description": [
+          "Level 1: Once per adventure, when you are inflicted with Paralysis or Special Rewind, reduces Paralysis duration on the supported character by 1 turn, reduces Special Cooldown of the supported character's special by 1 turn and reduces damage received by 25% for 1 turn.",
+          "Level 2: Once per adventure, when you are inflicted with Paralysis or Special Rewind, reduces Paralysis duration on the supported character by 2 turns, reduces Special Cooldown of the supported character's special by 2 turns and reduces damage received by 50% for 1 turn.",
+          "Level 3: Once per adventure, when you are inflicted with Paralysis or Special Rewind, reduces Paralysis duration on the supported character by 2 turns, reduces Special Cooldown of the supported character's special by 2 turns and reduces damage received by 75% for 1 turn.",
+          "Level 4: Once per adventure, when you are inflicted with Paralysis or Special Rewind, reduces Paralysis duration on the supported character by 2 turns, reduces Special Cooldown of the supported character's special by 2 turns and reduces damage received by 75% for 1 turn.",
+          "Level 5: Once per adventure, when you are inflicted with Paralysis or Special Rewind, reduces Paralysis duration on the supported character by 3 turns, reduces Special Cooldown of the supported character's special by 3 turns and reduces damage received by 75% for 1 turn."
+        ]
+      }
+    ]
+  },
   "aliases": [
     "",
     "",
@@ -26,7 +43,10 @@
     "maxRCV": 208,
     "ability": null
   },
-  "cooldown": null,
+  "cooldown": [
+    17,
+    null
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2461.png",
