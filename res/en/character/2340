@@ -2,7 +2,7 @@
   "name": "Stussy, CP-AIGIS 0",
   "detail": {
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Shooter and Cerebral characters by 2.5x",
-    "special": "Deals 50x character's ATK in [QCK] damage to one enemy, randomizes all non-matching orbs and boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.5x for 1 turn. If \"Flying Finger Gun\" is used again in the same turn the special is activated in, boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 2.25x for 1 turn.",
+    "special": "Deals 50x character's ATK in [QCK] damage to one enemy, randomizes all non-Matching orbs and boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.5x for 1 turn. If \"Flying Finger Gun\" is used again in the same turn the special is activated in, boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 2.25x for 1 turn.",
     "specialName": "Flying Finger Gun",
     "sailor": {
       "base": "When any other character uses a special, reduces own cooldown by 1 turn",
@@ -84,9 +84,9 @@
         "description": [
           "Level 1: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, randomizes all orbs and boosts ATK of supported character by 1.2x for 1 turn.",
           "Level 2: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, randomizes all orbs and boosts ATK of supported character by 1.2x for 1 turn.",
-          "Level 3: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, randomizes all non-matching orbs and boosts ATK of supported character by 1.2x for 1 turn.",
-          "Level 4: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, randomizes all non-matching orbs and boosts ATK of supported character by 1.3x for 1 turn.",
-          "Level 5: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, randomizes all non-matching orbs and boosts ATK of supported character by 1.5x for 1 turn."
+          "Level 3: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, randomizes all non-Matching orbs and boosts ATK of supported character by 1.2x for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, randomizes all non-Matching orbs and boosts ATK of supported character by 1.3x for 1 turn.",
+          "Level 5: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, randomizes all non-Matching orbs and boosts ATK of supported character by 1.5x for 1 turn."
         ]
       }
     ]
