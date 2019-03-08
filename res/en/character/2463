@@ -46,7 +46,8 @@
   "aliases": [
     "",
     "",
-    ""
+    "Limited Franky",
+    "Secret Franky"
   ],
   "unit": {
     "type": "STR",
@@ -68,7 +69,10 @@
     "maxRCV": null,
     "ability": null
   },
-  "cooldown": null,
+  "cooldown": [
+    23,
+    null
+  ],
   "evolve": {
     "evolution": 2463,
     "evolvers": [],
@@ -77,6 +81,11 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2463.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2463.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
   },
   "drop": [],
   "manual": []
