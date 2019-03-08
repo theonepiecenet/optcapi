@@ -1,83 +1,83 @@
 {
-  "name": "엠포리오 이반코프, 뉴하프만 왕국 여왕 [영구결번]",
-  "detail": {
-    "specialName": "헬 윙크",
-    "special": "자기 슬롯이 [QCK]이 되고, 다른 슬롯은 [RCV][STR][DEX][QCK] 중에서 랜덤으로 바꾼다.",
-    "captain": "속성이 [DEX]→[INT]→[QCK] 캐릭터 순으로 GOOD 이상의 공격을 하면 공격력이 2.75배로 증가한다.",
-    "sailor": [
-      "None",
-      "Makes [STR], [DEX] and [RCV] orbs “beneficial” for this character",
-      "When any other character uses a special, reduces own cooldown by 1 turn"
-    ],
-    "potential": [
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 5: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "잠재능력 습득 1: 긴급 회복"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "선원 효과 추가 1: Makes [STR], [DEX] and [RCV] orbs “beneficial” for this character"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "선원 효과 추가 2: When any other character uses a special, reduces own cooldown by 1 turn"
-      },
-      {
-        "description": "잠재능력 습득 2: Cooldown Reduction"
-      }
-    ],
-    "sailorNotes": "#{beneficial}"
-  }
+    "name": "엠포리오 이반코프, 뉴하프만 왕국 여왕 [영구결번]",
+    "detail": {
+        "specialName": "헬 윙크",
+        "special": "자기 슬롯이 [QCK]이 되고, 다른 슬롯은 [RCV][STR][DEX][QCK] 중에서 랜덤으로 바뀐다. 히-하-!!!",
+        "captain": "속성이 [DEX]→[INT]→[QCK]인 캐릭터 순으로 GOOD 이상의 공격을 하면, 다음 캐릭터의 공격력이 2.75배가 된다블.",
+        "sailor": [
+            "None",
+            "Makes [STR], [DEX] and [RCV] orbs “beneficial” for this character",
+            "When any other character uses a special, reduces own cooldown by 1 turn"
+        ],
+        "potential": [
+            {
+                "Name": "긴급 회복",
+                "description": [
+                    "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+                    "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+                    "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+                    "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+                    "Level 5: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
+                ]
+            },
+            {
+                "Name": "Cooldown Reduction",
+                "description": [
+                    "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+                    "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+                    "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+                    "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+                    "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "잠재능력 습득 1: 긴급 회복"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "선원 효과 추가 1: Makes [STR], [DEX] and [RCV] orbs “beneficial” for this character"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "선원 효과 추가 2: When any other character uses a special, reduces own cooldown by 1 turn"
+            },
+            {
+                "description": "잠재능력 습득 2: Cooldown Reduction"
+            }
+        ],
+        "sailorNotes": "#{beneficial}"
+    }
 }
