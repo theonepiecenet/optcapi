@@ -1,8 +1,8 @@
 {
-  "name": "잭, Kaido's Trusted Ally",
-  "detail": {
-    "specialName": "The Start of Destruction",
-    "special": "If the HP of the enemy with the highest current HP is above 50%, cuts the current HP of one enemy by 25%, otherwise, deals 120x character's ATK in typeless damage to one enemy.",
-    "captain": "Boosts ATK of Powerhouse characters by 2.5x and their HP by 1.2x and recovers ?x character's RCV in HP at the end of each turn"
-  }
+    "name": "잭, 사황 카이도의 심복",
+    "detail": {
+        "specialName": "파괴의 개막",
+        "special": "최대 HP가 가장 높은 적의 HP가 50% 이상이라면 적 1명의 HP를 25% 줄이고, HP가 50% 미만이라면 적 1명에게 캐릭터의 공격력x120배의 무 속성 데미지를 준다",
+        "captain": "강인형 캐릭터의 공격력을 2.5배, 체력을 1.2배로 만들고, 턴 종료 시 체력을 약간 회복한다"
+    }
 }
