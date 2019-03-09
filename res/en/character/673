@@ -6,8 +6,8 @@
     "captain": "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Fighter characters by 2x",
     "sailor": {
       "base": "None",
-      "level1": "Boosts this character's attack against [DEX] characters by 1.1x",
-      "level2": "Boosts this character's attack against [QCK] characters by 2x"
+      "level1": "Boosts this character's damage against [DEX] characters by 1.1x",
+      "level2": "Boosts this character's damage against [QCK] characters by 2x"
     },
     "limit": [
       {
@@ -38,7 +38,7 @@
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts this character's attack against [DEX] characters by 1.1x"
+        "description": "Acquire Sailor Ability 1: Boosts this character's damage against [DEX] characters by 1.1x"
       },
       {
         "description": "Boosts base HP by 70"
@@ -50,7 +50,7 @@
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts this character's attack against [QCK] characters by 2x"
+        "description": "Acquire Sailor Ability 2: Boosts this character's damage against [QCK] characters by 2x"
       },
       {
         "description": "Acquire Potential 2: Cooldown Reduction"

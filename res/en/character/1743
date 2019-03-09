@@ -5,7 +5,7 @@
     "special": "Changes [QCK] and [DEX] orbs into Matching orbs, boosts ATK against enemies with reduced defense by 1.75x for 2 turns and reduces damage received by 60% for 1 turn",
     "sailor": {
       "base": "Makes [DEX] orbs beneficial for this character",
-      "level1": "Boosts this character's attack against [QCK] characters by 2x"
+      "level1": "Boosts this character's damage against [QCK] characters by 2x"
     },
     "sailorNotes": "#{beneficial}",
     "specialName": "Snake Hair Possession: Salamander",
@@ -41,7 +41,7 @@
         "description": "Boosts base ATK by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts this character's attack against [QCK] characters by 2x"
+        "description": "Acquire Sailor Ability 1: Boosts this character's damage against [QCK] characters by 2x"
       },
       {
         "description": "Boosts base ATK by 40"

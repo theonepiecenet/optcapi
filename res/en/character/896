@@ -7,7 +7,7 @@
     "sailor": {
       "base": "None",
       "level1": "Boosts base RCV of all characters by 20",
-      "level2": "Boosts this character's attack against [STR] characters by 2x"
+      "level2": "Boosts this character's damage against [STR] characters by 2x"
     },
     "limit": [
       {
@@ -50,7 +50,7 @@
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts this character's attack against [STR] characters by 2x"
+        "description": "Acquire Sailor Ability 2: Boosts this character's damage against [STR] characters by 2x"
       },
       {
         "description": "Acquire Potential 2: Pinch Healing"
