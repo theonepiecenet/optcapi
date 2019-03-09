@@ -7,7 +7,7 @@
     "specialName": "Chef's Long Kick",
     "sailor": {
       "base": "When any other character uses a special, reduces own cooldown by 3 turns",
-      "level1": "Boosts this character's attack against [DEX] characters by 1.2x"
+      "level1": "Boosts this character's damage against [DEX] characters by 1.2x"
     },
     "limit": [
       {
@@ -47,7 +47,7 @@
         "description": "Boosts base ATK by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Boosts this character's attack against [DEX] characters by 1.2x"
+        "description": "Acquire Sailor Ability 1: Boosts this character's damage against [DEX] characters by 1.2x"
       },
       {
         "description": "Boosts base ATK by 30"
