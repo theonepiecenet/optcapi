@@ -1,0 +1,60 @@
+{
+    "name": "샬롯 오븐, The Scorching Siege Stopping the Retreat",
+    "detail": {
+        "captain": "Boosts ATK of [STR] characters by 2.25x and boost HP of Powerhouse characters by 1.25x.",
+        "special": "Boosts ATK of STR characters by 1.75x for 1 turn and deals 50x character's ATK as [STR] damage to all enemies at the end of the turn for 2 turns.",
+        "specialName": "Overheated Anger",
+        "support": [
+            {
+                "Characters": "Charlotte Linlin, Katakuri, Cracker, Daifuku and Smoothie",
+                "description": [
+                    "Level 1: Once per an adventure, when the supported character uses their special, changes [TND] orbs on Powerhouse characters into [STR] orbs and boosts the Color Affinity of Powerhouse characters by 1.1x for 1 turn.",
+                    "Level 2: Once per an adventure, when the supported character uses their special, changes [RCV] and [TND] orbs on Powerhouse characters into [STR] orbs and boosts the Color Affinity of Powerhouse characters by 1.1x for 1 turn.",
+                    "Level 3: Once per an adventure, when the supported character uses their special, changes [RCV], [TND] and [BOMB] orbs on Powerhouse characters into [STR] orbs and boosts the Color Affinity of Powerhouse characters by 1.15x for 1 turn.",
+                    "Level 4: Once per an adventure, when the supported character uses their special, changes [EMPTY], [RCV], [TND] and [BOMB] orbs on Powerhouse characters into [STR] orbs and boosts the Color Affinity of Powerhouse characters by 1.2x for 1 turn.",
+                    "Level 5: Once per an adventure, when the supported character uses their special, changes all orbs on Powerhouse characters into [STR] orbs and boosts the Color Affinity of Powerhouse characters by 1.3x for 1 turn."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "シャーロット・オーブン 退路絶つ灼熱の包囲",
+        "",
+        "Support Oven"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Powerhouse",
+            "Fighter"
+        ],
+        "stars": 5,
+        "cost": 1,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 896,
+        "minATK": 841,
+        "minRCV": 47,
+        "maxHP": 2892,
+        "maxATK": 1392,
+        "maxRCV": 144,
+        "ability": 1
+    },
+    "cooldown": [
+        10,
+        10
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2460.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2460.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}
