@@ -3,12 +3,12 @@
     "detail": {
         "captain": "<b>Always Active: </b>Boosts HP of [STR], [DEX] and [QCK] characters by 1.3x, makes [SEMLA] orbs beneficial for all characters.<br><b>Standard Captain: </b>Boosts ATK of [STR], [DEX] and [QCK] characters by 3.5x<br><b>Powered Up Captain: </b>Boosts own ATK by 4.25x, boosts ATK of [STR], [DEX] and [QCK] characters by 4x and reduce damage received by 15%<br><b>Rampage Captain: </b>Boosts own ATK by 12x and own attacks will ignore defensive barriers and buffs, boosts ATK of [STR], [DEX] and [QCK] characters by 3.75x and boosts chances of getting [SEMLA] orbs",
         "captainNotes": "[SEMLA] orbs replace [RCV] orbs and heal at the end of the enemy turn and can not be swapped by special abilities.<br>In order to Power Up Big Mom, you must eat a [SEMLA] orb and will be powered up the following turn.<br>While in Rampage, Big Mom will always attack a random enemy on her own, even while Binded or Paralyzed and hit a HUNGRY, which deals the same damage as a PERFECT. This attack occurs after your chain, so Big Mom's attack will not be affected by Chain Limiters, Chain Boosters, or Chain Lockers. You can not activate Big Mom's special while in Rampage. To exit Rampage, you must consume a [SEMLA] orb.",
-        "special": "Deals 300x character's ATK in Typeless damage to one enemy and changes own orb, including [BLOCK] orbs, into a [STR] orb. If Big Mom is your Captain or Friend/Guest Captain, boosts ATK of characters in the top row by 2x, amplifies the effects of orbs for characters in the top row by 2x for 3 turns and locks top row orbs for 2 turns. If she is a Sailor, boosts own ATK by 2x and amplifies the effects of own orb by 2x for 1 turn instead",
+        "special": "적 1명에게 캐릭터의 공격력x250배의 무 속성 데미지를 주고, 자신의 슬롯을 [STR]으로 바꾼다([BLOCK] 슬롯도 변환 가능). 자신이 선장, 친구 선장, 조력자 선장일 때는 2턴 동안 상단 캐릭터의 슬롯을 고정시키고, 3턴 동안 상단 캐릭터의 공격력과 슬롯의 영향을 2배로 만들며, 자신이 선원일 때는 1턴 동안 자신의 공격력과 슬롯의 영향을 2배로 만든다",
         "specialName": "위국",
         "sailor": {
             "base": "None",
-            "level1": "Boosts own base ATK by 350 if this character is the last in the chain to attack",
-            "level2": "Makes [DEX] and [QCK] orbs beneficial for this character"
+            "level1": "공격 가능한 모든 캐릭터가 공격하고 자신의 공격이 마지막일 경우, 자신의 기본 공격력이 350 증가한다",
+            "level2": "자신은 [DEX][QCK] 슬롯도 [유리] 슬롯으로 취급한다"
         },
         "sailorNotes": "#{beneficial}",
         "limit": [
