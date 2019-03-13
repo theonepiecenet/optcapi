@@ -7,31 +7,31 @@
     "sailor": "Reduces Silence duration on this character by 2 turns",
     "limit": [
       {
-        "description": ""
+        "description": "Boosts base HP by 40"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 10"
       },
       {
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": ""
+        "description": "Boosts base RCV by 50"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 15"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 80"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 35"
       },
       {
         "description": "Acquire Potential 1: Pinch Healing"
@@ -41,17 +41,17 @@
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: If HP is below 40% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 40% at the start of the turn, recovers .75x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1.25x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "パウンド 娘への祝福",
     "",
     "Limited Pound",
     "Secret Pound"
@@ -71,12 +71,15 @@
     "minHP": 1331,
     "minATK": 701,
     "minRCV": 150,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "maxHP": 2341,
+    "maxATK": 1121,
+    "maxRCV": 300,
+    "ability": 1
   },
-  "cooldown": null,
+  "cooldown": [
+    12,
+    12
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2467.png",
