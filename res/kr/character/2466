@@ -1,0 +1,102 @@
+{
+    "name": "징베, Tea Party Intruders",
+    "detail": {
+        "captain": "Boosts ATK of Powerhouse characters by 1.5x",
+        "special": "Reduces Bind and Chain Multiplier Limit duration by 3 turns, deals 50x character's ATK as [QCK] damage to all enemies at the end of the turn for 3 turns. If you are on a Treasure Map, amplifies the effects of orbs for Powerhouse characters depending on your Treasure Map Level for 1 turn",
+        "specialName": "Black Tea Ocean Current Shoulder Throw",
+        "specialNotes": "Level 1-10: 1.75x orb boost<br>Level 11-20: 2x orb boost<br>Level 21+: 2.25x orb boost",
+        "limit": [
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base ATK by 35"
+            },
+            {
+                "description": "Acquire Potential 1: Critical Hit"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 50% chance to deal 4% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 60% chance to deal 5% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 7% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 8% of this character's attack in extra damage"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ジンベエ 茶会の乱入者",
+        "",
+        "Limited Jinbe",
+        "Secret Jinbe",
+        "Limited Jimbe",
+        "Secret Jimbe",
+        "Limited Jinbei",
+        "Secret Jinbei",
+        "Limited Jimbei",
+        "Secret Jimbei"
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Powerhouse",
+            "Fighter"
+        ],
+        "stars": 5,
+        "cost": 20,
+        "combo": 6,
+        "slots": 4,
+        "level": 99,
+        "exp": 2000000,
+        "minHP": 1350,
+        "minATK": 753,
+        "minRCV": 131,
+        "maxHP": 2130,
+        "maxATK": 1400,
+        "maxRCV": 277,
+        "ability": 1
+    },
+    "cooldown": [
+        12,
+        12
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2466.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2466.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1,
+        "tmlrr": 1
+    },
+    "drop": [],
+    "manual": []
+}
