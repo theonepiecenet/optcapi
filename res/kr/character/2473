@@ -1,0 +1,85 @@
+{
+    "name": "빅 맘, Hungry Onslaught",
+    "detail": {
+        "captain": "Boosts ATK of all characters by 3x if HP is below 50% at the start of the turn, 2.5x otherwise and reduces HP of all characters by 20%",
+        "special": "Reduces crew's current HP by 50%, deals 100x the amount of HP subtracted in typeless damage to one enemy and randomizes all non-[RCV] orbs.",
+        "specialName": "Mama-Mash",
+        "sailor": {
+            "base": "None",
+            "level1": "Reduces HP of all characters by 30% and boosts RCV of all characters by 1.2x",
+            "level2": "Boosts amount healed from [RCV] orbs by 300 each"
+        },
+        "potential": [
+            {
+                "Name": "Double Special Activation",
+                "description": [
+                    "Level 1: Once per an adventure, reduce own Special Cooldown by ? turn after the first time this special is used",
+                    "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 5: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
+                ]
+            },
+            {
+                "Name": "Cooldown Reduction",
+                "description": [
+                    "Level 1: Reduce own Special Cooldown by ? turn at the start of the fight",
+                    "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+                    "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+                    "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+                    "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Perospero, Daifuku and Bavarois",
+                "description": [
+                    "Level 1: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 2: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 3: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 4: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ビッグ・マム 空腹の猛攻撃",
+        "",
+        "Raid Big Mom",
+        "Thin Mom"
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Slasher",
+            "Powerhouse"
+        ],
+        "stars": 5,
+        "cost": 50,
+        "combo": 5,
+        "slots": null,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": null,
+        "minATK": null,
+        "minRCV": null,
+        "maxHP": null,
+        "maxATK": null,
+        "maxRCV": null,
+        "ability": null
+    },
+    "cooldown": null,
+    "evolve": {
+        "evolution": 2473,
+        "evolvers": [],
+        "from": 2472
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2473.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2473.png"
+    },
+    "drop": [],
+    "manual": []
+}
