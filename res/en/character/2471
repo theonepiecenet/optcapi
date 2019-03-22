@@ -1,14 +1,61 @@
 {
-  "name": "Coliseum Katakuri, Evolved",
+  "name": "Charlotte Katakuri, Mochi-Mochi Fruit User",
   "detail": {
     "captain": "Boosts ATK of Powerhouse and Striker characters by 2.75x and makes [INT] orbs beneficial for Powerhouse and Striker characters",
     "captainNotes": "#{beneficial}",
     "special": "Makes [STR], [DEX], [QCK], [PSY] and [INT] orbs beneficial for Powerhouse and Striker characters for 2 turns. If there are 4 enemies or more on the stage at the time the special is activated, ignores Delay Debuff Protection and delays all enemies for 2 turns.",
-    "specialName": "Katakuri Special",
+    "specialName": "Sharpened Bullets",
     "sailor": {
       "base": "Boosts this character's damage against [PSY] characters by 1.1x",
       "level1": "Reduces Silence duration on this character by 3 turns"
     },
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 3 turns"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
     "potential": [
       {
         "Name": "[PSY] Damage Reduction",
@@ -45,7 +92,7 @@
     ]
   },
   "aliases": [
-    "",
+    "シャーロット・カタクリ “モチモチの実”の能力者",
     "",
     "Coliseum Katakuri",
     "Potato Starch"
@@ -68,15 +115,21 @@
     "maxHP": 2871,
     "maxATK": 1403,
     "maxRCV": 258,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
-    null,
+    29,
     14
   ],
   "evolve": {
     "evolution": 2471,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      99,
+      1180,
+      304,
+      104
+    ],
     "from": 2470
   },
   "image": {
