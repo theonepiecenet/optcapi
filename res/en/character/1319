@@ -1,7 +1,7 @@
 {
   "name": "Tsuru, Navy HQ Vice Admiral",
   "detail": {
-    "captain": "Recovers 1x her RCV at the end of the turn each time you hit a Good. Recovers .1x her RCV at the end of the turn each time you hit a PERFECT",
+    "captain": "Recovers 1x her RCV at the end of the turn each time you hit a Good. Recovers 0.1x her RCV at the end of the turn each time you hit a PERFECT",
     "special": "Deals 10 hits of random [QCK] damage to random enemies. Boosts ATK of all characters by 1.5x for 1 turn",
     "specialNotes": "#{randomHits : 10}<br>#{random : 1,000 : 32,000 : for each hit}",
     "sailor": "Reduces Paralysis duration by 1 turn",

@@ -2,7 +2,7 @@
   "name": "Elizabeth, Straw Hat Pirates Accomplice",
   "detail": {
     "captain": "Boosts RCV and HP by 1.2x, boosts ATK of all characters by 2.5x following a chain of [STR] > [DEX] > [QCK] attacks no lower than Good",
-    "special": "Recovers 13x character's RCV in HP, adds .5x to Chain multiplier and reduces the defense of all enemies by 100% for 1 turn",
+    "special": "Recovers 13x character's RCV in HP, adds 0.5x to Chain multiplier and reduces the defense of all enemies by 100% for 1 turn",
     "sailorNotes": "#{rewind : 2}",
     "specialName": "Soft and Gentle Fluffy Kisses",
     "sailor": {
@@ -70,7 +70,7 @@
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below 20% at the start of the turn, recovers .5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 1: If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
           "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
           "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
           "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
