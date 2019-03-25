@@ -4,14 +4,14 @@
     "captain": "Boosts ATK of Fighter characters by 2.25x and their RCV by 1.2x. Recovers 2x character's RCV in HP at the end of each turn.",
     "special": [
       {
-        "description": "Reduces Bind and Chain Coefficient Reduction and ATK DOWN duration by 3 turns, reduces damage received by 50% for 1 turn. If your crew has 3 or more [STR] characters, adds .5x to Chain multiplier for 1 turn",
+        "description": "Reduces Bind and Chain Coefficient Reduction and ATK DOWN duration by 3 turns, reduces damage received by 50% for 1 turn. If your crew has 3 or more [STR] characters, adds 0.5x to Chain multiplier for 1 turn",
         "cooldown": [
           16,
           10
         ]
       },
       {
-        "description": "Reduces Bind and Chain Coefficient Reduction and ATK DOWN duration by 5 turns, reduces damage received by 90% for 1 turn. If your crew has 3 or more [STR] characters, adds .75x to Chain multiplier for 1 turn",
+        "description": "Reduces Bind and Chain Coefficient Reduction and ATK DOWN duration by 5 turns, reduces damage received by 90% for 1 turn. If your crew has 3 or more [STR] characters, adds 0.75x to Chain multiplier for 1 turn",
         "cooldown": [
           20,
           14

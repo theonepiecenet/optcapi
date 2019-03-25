@@ -5,14 +5,14 @@
     "captainNotes": "#{captainProportional : higher : 1.5 + 1.25 * ((remaining HP) / (total HP)) : 2.75 : 1.5}",
     "special": [
       {
-        "description": "Changes own orb into [STR], reduces crew's ATK DOWN, Chain Multiplier Limit and Paralysis duration by 2 turns. If your Captain is a Driven character, adds .3x to Chain multiplier for 1 turn",
+        "description": "Changes own orb into [STR], reduces crew's ATK DOWN, Chain Multiplier Limit and Paralysis duration by 2 turns. If your Captain is a Driven character, adds 0.3x to Chain multiplier for 1 turn",
         "cooldown": [
           23,
           9
         ]
       },
       {
-        "description": "Changes own orb into [STR], reduces crew's ATK DOWN, Chain Multiplier Limit and Paralysis duration by 5 turns. If your Captain is a Driven character, adds .7x to Chain multiplier for 1 turn",
+        "description": "Changes own orb into [STR], reduces crew's ATK DOWN, Chain Multiplier Limit and Paralysis duration by 5 turns. If your Captain is a Driven character, adds 0.7x to Chain multiplier for 1 turn",
         "cooldown": [
           28,
           14

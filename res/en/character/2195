@@ -1,7 +1,7 @@
 {
   "name": "Corazon, Sympathy for Law",
   "detail": {
-    "captain": "Boosts ATK of all characters proportionally to the crew's current HP, by 3x at max. Recovers 1.5x his RCV at the end of the turn each time you hit a Good. Recovers .5x his RCV at the end of the turn each time you hit a Great",
+    "captain": "Boosts ATK of all characters proportionally to the crew's current HP, by 3x at max. Recovers 1.5x his RCV at the end of the turn each time you hit a Good. Recovers 0.5x his RCV at the end of the turn each time you hit a Great",
     "captainNotes": "#{captainProportional : higher : ? + ? * (remaining HP) / (total HP) : 3 : ? }",
     "special": "Recovers 50x character's RCV in HP and reduces Bind, Despair, Paralysis, ATK DOWN, Chain Multiplier Limit and Chain Coefficient Reduction duration by 3 turns. If Corazon is your Captain or Friend/Guest Captain, reduces Despair duration by 20 turns.",
     "specialName": "Grateful Love",
