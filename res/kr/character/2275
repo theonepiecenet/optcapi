@@ -1,81 +1,81 @@
 {
-  "name": "케이미, Strawhat Pirates' Supporter",
-  "detail": {
-    "specialName": "Heartwarming Soup",
-    "special": "Reduces Paralysis, Silence, Increase Damage Taken and Burn duration by 2 turns. If the enemy is delayed, boosts ATK against delayed enemies by 1.75x for 1 turn, delays all enemies for 1 turn otherwise.",
-    "captain": "Recovers 5x character's RCV in HP at the end of each turn",
-    "sailor": [
-      "Reduces Paralysis duration on this character by 2 turns",
-      "Reduces Silence duration on this character by 2 turns"
-    ],
-    "potential": [
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 4: 남은 체력이 25% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 5: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
+    "name": "케이미, 밀짚모자 일당의 이해자",
+    "detail": {
+        "specialName": "Heartwarming Soup",
+        "special": "Reduces Paralysis, Silence, Increase Damage Taken and Burn duration by 2 turns. If the enemy is delayed, boosts ATK against delayed enemies by 1.75x for 1 turn, delays all enemies for 1 turn otherwise.",
+        "captain": "Recovers 5x character's RCV in HP at the end of each turn",
+        "sailor": [
+            "Reduces Paralysis duration on this character by 2 turns",
+            "Reduces Silence duration on this character by 2 turns"
+        ],
+        "potential": [
+            {
+                "Name": "긴급 회복",
+                "description": [
+                    "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+                    "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+                    "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+                    "Level 4: 남은 체력이 25% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
+                    "Level 5: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다"
+                ]
+            },
+            {
+                "Name": "Double Special Activation",
+                "description": [
+                    "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+                    "Level 2: Once per an adventure, reduce own Special Cooldown by 3 turns after the first time this special is used",
+                    "Level 3: Once per an adventure, reduce own Special Cooldown by 5 turns after the first time this special is used",
+                    "Level 4: Once per an adventure, reduce own Special Cooldown by 7 turns after the first time this special is used",
+                    "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Acquire Potential 1: Pinch Healing"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 2 turns"
+            },
+            {
+                "description": "Boosts base HP by 45"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Acquire Potential 2: Double Special Activation"
+            }
         ]
-      },
-      {
-        "Name": "Double Special Activation",
-        "description": [
-          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
-          "Level 2: Once per an adventure, reduce own Special Cooldown by 3 turns after the first time this special is used",
-          "Level 3: Once per an adventure, reduce own Special Cooldown by 5 turns after the first time this special is used",
-          "Level 4: Once per an adventure, reduce own Special Cooldown by 7 turns after the first time this special is used",
-          "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Acquire Potential 1: Pinch Healing"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base RCV by 15"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 2 turns"
-      },
-      {
-        "description": "Boosts base HP by 45"
-      },
-      {
-        "description": "Boosts base RCV by 15"
-      },
-      {
-        "description": "Boosts base ATK by 40"
-      },
-      {
-        "description": "Boosts base HP by 60"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Acquire Potential 2: Double Special Activation"
-      }
-    ]
-  }
+    }
 }
