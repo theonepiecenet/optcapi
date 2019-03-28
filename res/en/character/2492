@@ -1,0 +1,53 @@
+{
+  "name": "Tony Tony Chopper",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 1.5x.",
+    "special": "Reduces crew's current HP by 10%, removes Blindness duration completely and adds 0.3x to Chain multiplier for 1 turn.",
+    "specialName": "Chopper Special"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Striker"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": 4,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 1730,
+    "maxATK": 410,
+    "maxRCV": 215,
+    "ability": null
+  },
+  "cooldown": [
+    null,
+    10
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2492.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2492.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Dr. Hiriluk Fortnight Fortnight",
+      "thumb": 2491,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

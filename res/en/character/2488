@@ -1,0 +1,63 @@
+{
+  "name": "Brook",
+  "detail": {
+    "captain": "Boosts ATK of Slasher and Free Spirit characters by ?x and their HP by ?x.",
+    "special": "Deals 90x character's ATK in typeless damage to all enemies that will ignore damage negating abilities and barriers. If your crew has 5 or more Slasher characters at the time the special is activated, reduces damage received from [INT] enemies by 100% for 1 turn and cuts the current HP of each enemy by 15% at the end of the turn for 2 turns.",
+    "specialName": "Brook Special",
+    "sailor": "Boosts base HP of [PSY] characters by 40"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": null,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": 30,
+  "evolution": {
+    "evolution": 2489,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2488.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2488.png"
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Chaos"
+      ]
+    },
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "Underground"
+      ]
+    }
+  ],
+  "manual": []
+}

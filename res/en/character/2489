@@ -1,0 +1,83 @@
+{
+  "name": "Brook, Evolved",
+  "detail": {
+    "captain": "Boosts ATK of Slasher and Free Spirit characters by 2.5x and their HP by 1.25x.",
+    "special": "Deals 90x character's ATK in typeless damage to all enemies that will ignore damage negating abilities and barriers. If your crew has 5 or more Slasher characters at the time the special is activated, reduces damage received from [INT] enemies by 100% for 1 turn and cuts the current HP of each enemy by 15% at the end of the turn for 2 turns.",
+    "specialName": "Brook Special",
+    "sailor": {
+      "base": "Boosts base HP of [PSY] characters by 40",
+      "level1": "Boosts base ATK of Slasher and Free Spirit characters by 50"
+    },
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by ?%",
+          "Level 2: Reduce damage taken from [INT] characters by ?%",
+          "Level 3: Reduce damage taken from [INT] characters by ?%",
+          "Level 4: Reduce damage taken from [INT] characters by ?%",
+          "Level 5: Reduce damage taken from [INT] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Slasher characters",
+        "description": [
+          "Level 1: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 2: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 3: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 4: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 5: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 40,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 2514,
+    "maxATK": 1380,
+    "maxRCV": 321,
+    "ability": null
+  },
+  "cooldown": 30,
+  "evolve": {
+    "evolution": 2489,
+    "evolvers": [],
+    "from": 2488
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2489.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2489.png"
+  },
+  "drop": [],
+  "manual": []
+}
