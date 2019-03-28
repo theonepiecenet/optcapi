@@ -1,0 +1,42 @@
+{
+  "name": "Ryuma",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by ?x and boosts HP of Slasher characters by ?x.",
+    "special": "If your Captain is a Slasher character, boosts ATK of Driven characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for Driven characters for 1 turn.",
+    "specialName": "Polka Remise",
+    "sailor": "Boosts base ATK of Slasher characters by 50"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2484.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2484.png"
+  },
+  "drop": [],
+  "manual": []
+}

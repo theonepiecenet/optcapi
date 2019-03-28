@@ -1,0 +1,42 @@
+{
+  "name": "Mr. 1",
+  "detail": {
+    "captain": "Boosts ATK of Slaher and Cerebral characters by ?x and their HP by ?x.",
+    "special": "Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers, randomizes all non-Matching orbs, including [BLOCK] orbs, makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns and reduces enemies Threshold Damage Reduction, Percent Damage Reduction and Increased Defense duration by 3 turns.",
+    "specialName": "Spiral Hollow",
+    "sailor": "If your Captain is a Slasher character, boosts own base ATK by 150"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2478.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2478.png"
+  },
+  "drop": [],
+  "manual": []
+}

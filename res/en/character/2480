@@ -1,0 +1,43 @@
+{
+  "name": "Hyouzou",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by ?x at the start of the chain, boosts ATK by ?x following a chain of [INT] > [DEX] > [DEX] attacks no lower than Good and boosts HP of Slasher characters by ?x.",
+    "special": "Strongly Poisons one enemy. Removes Blindness duration completely, reduces Despair and Silence duration by 5 turns, changes adjacent orbs into Matching Orbs and switches orbs between slots three times.",
+    "specialName": "Octopus Eight Sword Style - Poisonous Blade",
+    "sailor": "Reduces Silence duration on this character by 3 turns",
+    "sailorNotes": "#{silence}"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Powerhouse",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2480.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2480.png"
+  },
+  "drop": [],
+  "manual": []
+}

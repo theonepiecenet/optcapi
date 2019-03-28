@@ -1,0 +1,57 @@
+{
+  "name": "Kaku",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by ?x and their HP and RCV by ?x.",
+    "special": [
+      {
+        "description": "Deals 50,000 fixed damage to one enemy, changes all orbs on all characters into Kaku's orb and reduces ATK DOWN, Bind and Paralysis duration by 3 turns.",
+        "cooldown": [
+          null,
+          null
+        ]
+      },
+      {
+        "description": "Deals 200,000 fixed damage to one enemy, changes all orbs on all characters into Kaku's orb and reduces ATK DOWN, Bind and Paralysis duration by 5 turns.",
+        "cooldown": [
+          null,
+          null
+        ]
+      }
+    ],
+    "specialName": "Extreme Nose Gun - \"Kirimanjaro\"",
+    "sailor": "Boosts this character's damage against [DEX] characters by 2x"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2482.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2482.png"
+  },
+  "drop": [],
+  "manual": []
+}

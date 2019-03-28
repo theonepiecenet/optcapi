@@ -1,0 +1,41 @@
+{
+  "name": "Dracule Mihawk, World's Strongest Teacher",
+  "detail": {
+    "captain": "If there are 6 Slasher characters in your crew, boosts chain multiplier by 4x and boosts ATK of Slasher characters by 1.75x. Boosts chances of getting [DEX] and [INT] orbs.",
+    "special": "Cuts the current HP of one enemy by 25%, If your crew has 4 or more characters with [DEX] or [INT] orbs, amplifies the effects of orbs for Slasher characters by 2.25x for 1 turn and locks all orbs for 1 turn, amplifies the effects of orbs for Slasher characters by 2x for 1 turn otherwise.",
+    "specialName": "Haki Sword"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": null,
+    "slots": null,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2474.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2474.png"
+  },
+  "drop": [],
+  "manual": []
+}

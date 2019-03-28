@@ -1,0 +1,41 @@
+{
+  "name": "Roronoa Zoro, Strongest Swordsman's Disciple",
+  "detail": {
+    "captain": "Boosts ATK of Slaher characters by 3.25x and their HP by 1.5x. If a character has a [DEX] or [INT] orb, boosts their ATK by 4.0625x instead.",
+    "special": "Deals 120x character's ATK as typeless damage to all enemies and makes [RCV] and [TND] orbs beneficial for Slasher characters for 3 turns. Boosts ATK of Slasher characters by 2x for 1 turn. If during that turn you score 4 PERFECT hits, boosts ATK of Slasher characters by 2.25x in the following turn.",
+    "specialName": "Three Sword Style - 1080 Pound Phoenix"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": null,
+    "slots": null,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2476.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2476.png"
+  },
+  "drop": [],
+  "manual": []
+}

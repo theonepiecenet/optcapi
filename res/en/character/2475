@@ -1,0 +1,91 @@
+{
+  "name": "Dracule Mihawk, Teaching the Secret Techniques of a Great Swordsman",
+  "detail": {
+    "captain": "If there are 6 Slasher characters in your crew, boosts chain multiplier by 4x and boosts ATK of Slasher characters by 1.75x. Boosts chances of getting [DEX] and [INT] orbs.",
+    "special": "Cuts the current HP of one enemy by 25%, If your crew has 4 or more characters with [DEX] or [INT] orbs, amplifies the effects of orbs for Slasher characters by 2.25x for 1 turn and locks all orbs for 1 turn, amplifies the effects of orbs for Slasher characters by 2x for 1 turn otherwise.",
+    "specialName": "Haki Sword",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK of Slasher characters by 75",
+      "level2": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs beneficial for this character if your Captain is a Slasher character"
+    },
+    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by ? turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Zoro",
+        "description": [
+          "Level 1: Adds 8% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 10% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 12% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 15% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 18% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": null,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2475.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2475.png"
+  },
+  "drop": [],
+  "manual": []
+}

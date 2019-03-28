@@ -1,0 +1,80 @@
+{
+  "name": "Mr. 1, Baroque Works Assassin",
+  "detail": {
+    "captain": "Boosts ATK of Slaher and Cerebral characters by 2.5x and their HP by 1.2x.",
+    "special": "Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers, randomizes all non-Matching orbs, including [BLOCK] orbs, makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns and reduces enemies Threshold Damage Reduction, Percent Damage Reduction and Increased Defense duration by 3 turns.",
+    "specialName": "Spiral Hollow",
+    "sailor": {
+      "base": "If your Captain is a Slasher character, boosts own base ATK by 150",
+      "level1": "Makes [PSY] orbs beneficial for Slasher characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by ?%",
+          "Level 2: Reduce damage taken from [INT] characters by ?%",
+          "Level 3: Reduce damage taken from [INT] characters by ?%",
+          "Level 4: Reduce damage taken from [INT] characters by ?%",
+          "Level 5: Reduce damage taken from [INT] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Crocodile and Miss Doublefinger",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": null,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2479.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2479.png"
+  },
+  "drop": [],
+  "manual": []
+}
