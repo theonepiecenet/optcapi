@@ -31,11 +31,19 @@
     "maxRCV": null,
     "ability": null
   },
-  "cooldown": null,
+  "cooldown": 23,
+  "evolution": {
+    "evolution": 2485,
+    "evolvers": []
+  },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2484.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2484.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
   },
   "drop": [],
   "manual": []

@@ -58,7 +58,7 @@
   "aliases": [
     "",
     "",
-    ""
+    "V2 Zoro"
   ],
   "unit": {
     "type": "INT",
@@ -68,23 +68,31 @@
     ],
     "stars": 6,
     "cost": 55,
-    "combo": null,
+    "combo": 4,
     "slots": 5,
     "level": 99,
     "exp": 5000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
+    "minHP": 1,
+    "minATK": 1,
+    "minRCV": 1,
+    "maxHP": 3362,
+    "maxATK": 1561,
+    "maxRCV": 347,
     "ability": null
   },
-  "cooldown": null,
-  "evolve": [],
+  "cooldown": 23,
+  "evolve": {
+    "evolution": 2477,
+    "evolvers": [],
+    "from": 2476
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2477.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2477.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
   },
   "drop": [],
   "manual": []

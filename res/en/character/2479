@@ -47,7 +47,7 @@
   "aliases": [
     "",
     "",
-    ""
+    "Daz Bones"
   ],
   "unit": {
     "type": "PSY",
@@ -57,23 +57,31 @@
     ],
     "stars": 5,
     "cost": 30,
-    "combo": null,
+    "combo": 4,
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
+    "minHP": 1,
+    "minATK": 1,
+    "minRCV": 1,
+    "maxHP": 2712,
+    "maxATK": 1324,
+    "maxRCV": 294,
     "ability": null
   },
-  "cooldown": null,
-  "evolve": [],
+  "cooldown": 18,
+  "evolve": {
+    "evolution": 2479,
+    "evolvers": [],
+    "from": 2478
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2479.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2479.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
   },
   "drop": [],
   "manual": []

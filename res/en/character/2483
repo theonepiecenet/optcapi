@@ -6,14 +6,14 @@
       {
         "description": "Deals 50,000 fixed damage to one enemy, changes all orbs on all characters into Kaku's orb and reduces ATK DOWN, Bind and Paralysis duration by 3 turns.",
         "cooldown": [
-          null,
+          17,
           null
         ]
       },
       {
         "description": "Deals 200,000 fixed damage to one enemy, changes all orbs on all characters into Kaku's orb and reduces ATK DOWN, Bind and Paralysis duration by 5 turns.",
         "cooldown": [
-          null,
+          20,
           null
         ]
       }
@@ -72,23 +72,31 @@
     ],
     "stars": 5,
     "cost": 30,
-    "combo": null,
+    "combo": 4,
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
+    "minHP": 1,
+    "minATK": 1,
+    "minRCV": 1,
+    "maxHP": 2700,
+    "maxATK": 1290,
+    "maxRCV": 320,
     "ability": null
   },
-  "cooldown": null,
-  "evolve": [],
+  "cooldown": 20,
+  "evolve": {
+    "evolution": 2483,
+    "evolvers": [],
+    "from": 2482
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2483.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2483.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
   },
   "drop": [],
   "manual": []

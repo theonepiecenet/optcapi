@@ -9,7 +9,7 @@
   "aliases": [
     "",
     "",
-    ""
+    "Daz Bones"
   ],
   "unit": {
     "type": "PSY",
@@ -31,11 +31,19 @@
     "maxRCV": null,
     "ability": null
   },
-  "cooldown": null,
+  "cooldown": 18,
+  "evolution": {
+    "evolution": 2479,
+    "evolvers": []
+  },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2478.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2478.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
   },
   "drop": [],
   "manual": []
