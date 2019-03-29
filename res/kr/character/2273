@@ -1,11 +1,11 @@
 {
     "name": "하찌, 연회의 시작",
     "detail": {
-        "specialName": "The Octopus' Strange Sword",
-        "special": "Deals 6 hits of of 30x character's ATK in typeless damage to random enemies, reduces the defense of all enemies by 100% for 1 turn, changes [BLOCK], [TND], [G] and [BOMB] orbs into [RCV] orbs. If your Captain is a Powerhouse character, boosts ATK against enemies with reduced defense by 1.75x for 1 turn.",
-        "captain": "Boosts ATK of Slasher and Powerhouse characters by 1.75x and boosts chain multiplier by 2x",
+        "specialName": "문어다리 검술",
+        "special": "무작위의 적에게 캐릭터의 공격력x30배의 무 속성 데미지를 6회 주고, 1턴 동안 적 전체의 방어력을 0으로 만들며, 일당의 [BLOCK][TND][G][BOMB] 슬롯을 [RCV] 슬롯으로 바꾸고, 선장이 강인형 캐릭터라면 1턴 동안 방어력 감소 중인 적에게 주는 데미지가 1.75배가 된다",
+        "captain": "참격형과 강인형 캐릭터의 공격력을 1.75배로 만들고, 체인 계수 증가량이 2배가 된다",
         "sailor": [
-            "Boosts base ATK of Slasher and Powerhouse characters by 50",
+            "참격형과 강인형 캐릭터의 기본 공격력이 50 상승한다",
             "If this character has a [PSY] orb and you hit a PERFECT with him, keep his [PSY] orb for the next turn"
         ],
         "potential": [
