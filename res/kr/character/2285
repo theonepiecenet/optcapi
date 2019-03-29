@@ -1,83 +1,83 @@
 {
-  "name": "호디 존스, Natural Born Monster",
-  "detail": {
-    "specialName": "Hody Jones Special",
-    "special": "Deals 50x character's ATK in [STR] damage to all enemies, changes the orbs in the left column into [DEX], [STR] and [PSY], the orbs in the right column into [TND], [QCK] and [INT]. If your friend Captain's orb is [STR] or [DEX], amplifies the effect of orbs for Powerhouse characters by 2.25x for 1 turn.",
-    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Powerhouse characters by 3.25x and increases damage received by ?x.",
-    "sailor": [
-      "None",
-      "Boosts base ATK of all characters by 50",
-      "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs “beneficial” for this character"
-    ],
-    "potential": [
-      {
-        "Name": "Enrage",
-        "description": [
-          "Level 1: Boosts base ATK by ?",
-          "Level 2: Boosts base ATK by ?",
-          "Level 3: Boosts base ATK by ?",
-          "Level 4: Boosts base ATK by ?",
-          "Level 5: Boosts base ATK by ?"
+    "name": "호디 존스, 환경이 낳은 괴물",
+    "detail": {
+        "specialName": "절교",
+        "special": "적 전체에 캐릭터의 공격력x50배의 [STR] 데미지를 주고, 좌측 슬롯을 위에서부터 [DEX][STR][PSY] 슬롯으로, 우측 슬롯을 위에서부터 [TND][QCK][INT] 슬롯으로 바꾼다. 필살기 발동 시 친구 선장의 슬롯이 [STR][DEX][RCV] 슬롯일 때, 1턴 동안 강인형 캐릭터의 슬롯의 영향을 2.25배로 만든다",
+        "captain": "데미지를 조금 더 받는 대신, 모험 시작 시 필살기 턴을 1턴 단축하고, 강인형 캐릭터의 공격력을 3.25배로 만든다",
+        "sailor": [
+            "일당의 기본 공격력이 50 상승한다",
+            "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs beneficial for this character",
+            "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs “beneficial” for this character"
+        ],
+        "potential": [
+            {
+                "Name": "Enrage",
+                "description": [
+                    "Level 1: Boosts base ATK by ?",
+                    "Level 2: Boosts base ATK by ?",
+                    "Level 3: Boosts base ATK by ?",
+                    "Level 4: Boosts base ATK by ?",
+                    "Level 5: Boosts base ATK by ?"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by ? turn on this character",
+                    "Level 2: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 3: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 4: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 5: Reduces Slot Bind duration by ? turns on this character"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}",
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Acquire Potential 1: Enrage"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base RCV by 30"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs beneficial for this character"
+            },
+            {
+                "description": "Boosts base ATK by 60"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Acquire Potential 2: Slot Bind Self-reduction"
+            }
         ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      }
-    ],
-    "potentialNotes": "#{enrage}",
-    "limit": [
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Acquire Potential 1: Enrage"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base RCV by 30"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base ATK by 40"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs beneficial for this character"
-      },
-      {
-        "description": "Boosts base ATK by 60"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
-      }
-    ]
-  }
+    }
 }
