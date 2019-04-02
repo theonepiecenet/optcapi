@@ -1,5 +1,5 @@
 {
-    "name": "나미, Outlaw on the Prairie",
+    "name": "나미, 황야의 현상 수배자",
     "detail": {
         "captain": "Reduces damage received by 20% and boosts ATK of Shooter and Striker characters proportionally to the crew's current HP, by 2.75x at max",
         "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : ? : 2.75}",
