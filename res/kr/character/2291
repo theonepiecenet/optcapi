@@ -1,10 +1,10 @@
 {
-  "name": "비비",
-  "detail": {
-    "specialName": "Vivi Special",
-    "special": "Removes Blindness duration completely and reduces Paralysis duration by 2 turns. If your Captain is a Free Spirit or Cerebral character, reduces Special Cooldown of all characters by 1 turn and reduces enemy Barrier duration by 1 turn.",
-    "captain": "Boosts ATK and RCV of all characters by ?x and recovers ?x character's RCV in HP at the end of each turn",
-    "sailor": "Restores her own special cooldown by 2 turns when it is rewinded",
-    "sailorNotes": "#{rewind : 2}"
-  }
+    "name": "비비, 리틀 윗치 Halloween Midnight Parade",
+    "detail": {
+        "specialName": "마녀의 다과회",
+        "special": "의성어 은폐 상태를 완전히 회복하고, 마비 상태를 2턴 회복한다. 선장이 자유형 혹은 박식형 캐릭터일 경우 일당의 필살기 턴을 1턴 단축시키고, 적 전체의 HP 바에 걸려 있는 모든 배리어를 1턴 줄인다",
+        "captain": "일당의 공격력을 1.5배로 만들고, 턴 종료 시에 캐릭터의 회복력x3배의 체력을 회복한다",
+        "sailor": "자신의 필살기 턴 리버스를 2턴 회복한다",
+        "sailorNotes": "#{rewind : 2}"
+    }
 }
