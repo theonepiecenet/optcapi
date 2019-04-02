@@ -2,11 +2,11 @@
     "name": "닭 백작, 빅 맘 해적단 ‘기사’",
     "detail": {
         "specialName": "치킨 윙 엣지",
-        "special": "Deals 120x character's ATK in typeless damage to one enemy that will ignore damage negating abilities and barriers and changes [EMPTY] orbs into Matching orbs. If your friend Captain's orb is [RCV] or [TND], adds 45x character's ATK as Additional Typeless Damage for 2 turns and changes [RCV] and [TND] orbs into Matching orbs. If your friend Captain's orb is [STR], [DEX], [QCK], [PSY] or [INT], changes orbs in the top row to [RCV], boosts RCV of all characters by 1.5x for 2 turns and reduces damage received by 60% for 2 turns.",
-        "captain": "Boosts ATK of Slasher and Striker characters by 2.75x if they have a matching orb, by 2.25x otherwise and reduces damage received by 7%",
+        "special": "적 1명에게 모든 방어 효과와 방어력을 무시하고 캐릭터의 공격력x120배의 무 속성 데미지를 주고, [EMPTY] 슬롯을 속성 일치 슬롯으로 바꾼다. 필살기 발동 시 선장의 슬롯이 [RCV][TND]일 경우, 2턴 동안 GOOD, GREAT, PERFECT 공격 시 추가로 필살기를 사용한 캐릭터의 공격력x45배의 무 속성 데미지가 가산되고, [RCV][TND] 슬롯을 속성 일치 슬롯으로 바꾸며, 필살기 발동 시 선장의 슬롯이 속성 슬롯일 경우, 상단 슬롯을 [RCV]로 바꾸고, 2턴 동안 일당의 회복력을 1.5배로 만들며, 받는 데미지를 60% 감소시킨다",
+        "captain": "타격형과 참격형 캐릭터의 공격력을 평상시 2.25배, 슬롯 일치 시 약 2.75배로 만들고, 받는 데미지를 7% 감소시킨다",
         "sailor": [
-            "Boosts base ATK of Slasher and Striker characters by 50",
-            "Makes [INT] orbs “beneficial” for this character"
+            "타격형과 참격형 캐릭터의 기본 공격력이 50 상승한다",
+            "Makes [INT] orbs beneficial for this character"
         ],
         "potential": [
             {
