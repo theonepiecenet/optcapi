@@ -7,7 +7,7 @@
     "specialNotes": "#{beneficial}"
   },
   "aliases": [
-    "",
+    "ドクトリーヌ",
     "",
     "Kureha"
   ],
@@ -23,13 +23,13 @@
     "slots": 2,
     "level": 70,
     "exp": 355666,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 572,
+    "minATK": 290,
+    "minRCV": 64,
     "maxHP": 1430,
     "maxATK": 725,
     "maxRCV": 160,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     null,
@@ -43,7 +43,7 @@
   "drop": [
     {
       "type": "Fortnight",
-      "name": "Dr. Hiriluk Fortnight Fortnight",
+      "name": "Miracle Cherry Blossoms Return Fortnight",
       "thumb": 2491,
       "data": [
         "All Difficulties"

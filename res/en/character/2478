@@ -1,13 +1,13 @@
 {
   "name": "Mr. 1, Bladed Human Assassin",
   "detail": {
-    "captain": "Boosts ATK of Slaher and Cerebral characters by ?x and their HP by ?x.",
+    "captain": "Boosts ATK of Slaher and Cerebral characters by 2.25x.",
     "special": "Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers, randomizes all non-Matching orbs, including [BLOCK] orbs, makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns and reduces enemies Threshold Damage Reduction, Percent Damage Reduction and Increased Defense duration by 3 turns.",
     "specialName": "Spiral Hollow",
     "sailor": "If your Captain is a Slasher character, boosts own base ATK by 150"
   },
   "aliases": [
-    "",
+    "Mr.1 刃物人間の暗殺者",
     "",
     "Daz Bones"
   ],
@@ -19,22 +19,31 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 631,
+    "minATK": 195,
+    "minRCV": 57,
+    "maxHP": 1511,
+    "maxATK": 502,
+    "maxRCV": 141,
+    "ability": 1
   },
-  "cooldown": 18,
+  "cooldown": [
+    18,
+    11
+  ],
   "evolution": {
     "evolution": 2479,
-    "evolvers": []
+    "evolvers": [
+      94,
+      1180,
+      303,
+      303,
+      103
+    ]
   },
   "evolve": [],
   "image": {

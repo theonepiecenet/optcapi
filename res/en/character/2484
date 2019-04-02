@@ -1,13 +1,13 @@
 {
   "name": "Ryuma, General Zombie's Master Swordsman",
   "detail": {
-    "captain": "Boosts ATK of [STR] characters by ?x and boosts HP of Slasher characters by ?x.",
+    "captain": "Boosts ATK of [STR] characters by 2x and boosts HP of Slasher characters by 1.2x.",
     "special": "If your Captain is a Slasher character, boosts ATK of Slasher characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for Slasher characters for 1 turn.",
     "specialName": "Polka Remise",
     "sailor": "Boosts base ATK of Slasher characters by 50"
   },
   "aliases": [
-    "",
+    "リューマ 豪剣の将軍ゾンビ",
     "",
     ""
   ],
@@ -19,22 +19,31 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 598,
+    "minATK": 199,
+    "minRCV": 61,
+    "maxHP": 1432,
+    "maxATK": 512,
+    "maxRCV": 150,
+    "ability": 1
   },
-  "cooldown": 23,
+  "cooldown": [
+    23,
+    16
+  ],
   "evolution": {
     "evolution": 2485,
-    "evolvers": []
+    "evolvers": [
+      94,
+      1180,
+      300,
+      300,
+      100
+    ]
   },
   "evolve": [],
   "image": {

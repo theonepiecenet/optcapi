@@ -8,17 +8,17 @@
       {
         "Characters": "Dr. Kureha and Chopper",
         "description": [
-          "Level 1: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
-          "Level 2: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
-          "Level 3: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
-          "Level 4: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
           "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "Dr.ヒルルク ヤブ医者の叶えたい夢",
     "",
     ""
   ],
@@ -34,13 +34,13 @@
     "slots": 4,
     "level": 99,
     "exp": 1000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 796,
+    "minATK": 334,
+    "minRCV": 136,
     "maxHP": 1990,
     "maxATK": 835,
     "maxRCV": 340,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     null,
@@ -48,7 +48,13 @@
   ],
   "evolve": {
     "evolution": 2491,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      104
+    ],
     "from": 2490
   },
   "image": {
