@@ -1,11 +1,11 @@
 {
     "name": "샬롯 프랄리네, 샬롯 가 21녀",
     "detail": {
-        "specialName": "A Hug for All Her Loved Ones",
-        "special": "Reduces enemy's Increased Defense, Percent Damage Reduction and Threshold Damage Reduction Buffs duration by 5 turns, changes left column orbs, from top to bottom, into [DEX], [STR] and [PSY] orbs. If your Captain's orb is [RCV], recovers 13x character's RCV in HP at the end of each turn for 3 turns.",
-        "captain": "Boosts ATK of [STR] and [DEX] characters by 2.25x. Recovers 1.5x character's RCV in HP at the end of each turn",
+        "specialName": "사랑하는 사람과의 허그",
+        "special": "적 전체에 걸려 있는 방어력 상승, 데미지 감소, [THRESHOLD DAMAGE] 상태를 5턴 줄이고, 좌측 슬롯을 위에서부터 [DEX][STR][PSY] 슬롯으로 바꾸며, 선장의 슬롯이 [RCV] 슬롯이라면 3턴 동안 턴 종료 시 캐릭터의 회복력x13배의 체력을 회복한다",
+        "captain": "[STR]과 [DEX]의 공격력을 2.25배로 만들고, 턴 종료 시 캐릭터의 회복력x1.5배의 체력을 회복한다",
         "sailor": {
-            "base": "Boosts base RCV of [STR], [DEX] and [PSY] characters by 50",
+            "base": "[DEX], [PSY], [STR]의 기본 회복력이 50 상승한다",
             "level1": "Makes [QCK] and [STR] orbs beneficial for this character"
         },
         "potential": [
