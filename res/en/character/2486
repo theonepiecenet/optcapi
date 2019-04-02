@@ -1,0 +1,55 @@
+{
+  "name": "Kinemon, Retainer of the Kozuki Family",
+  "detail": {
+    "captain": "Boosts ATK of Slasher characters by 2.5x and their HP by 1.2?x.",
+    "special": "Deals 50x character's ATK in [QCK] damage to all enemies and reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by 7 turns. If your Captain is a Slasher character, boosts the Color Affinity of Slasher characters by 2x for 1 turn.",
+    "specialName": "Foxfire Style - Continuous Flame Split",
+    "sailor": "Boosts base ATK of Slasher characters by 50"
+  },
+  "aliases": [
+    "",
+    "",
+    "Secret Kinemon",
+    "Limited Kinemon"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 4,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 1864,
+    "maxATK": 772,
+    "maxRCV": 102,
+    "ability": null
+  },
+  "cooldown": [
+    19,
+    14
+  ],
+  "evolution": {
+    "evolution": 2487,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2486.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2486.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}
