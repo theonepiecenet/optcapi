@@ -1,77 +1,96 @@
 {
-  "name": "Lucci, Beastman - Absolute Prevention of Evil",
+  "name": "Fujitora, The Dogeza that Shook the World",
   "detail": {
-    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Shooter characters by 3.25x at the start of the chain and reduces crew's RCV to 0.<br>Boosts ATK of Shooter characters by 3.4125x after the 1st PERFECT in a row, by 3.583125x after the 2nd PERFECT in a row, by 3.76228125x after the 3rd PERFECT in a row, by 3.9503953125x after the 4th PERFECT in a row and by 4.147915078125x after the 5th PERFECT in a row.",
-    "special": "Reduces the defense of all enemies by 80% for 1 turn, deals 100x character's ATK in [QCK] damage to one enemy, reduces Paralysis duration by 4 turns and boosts the Color Affinity of Shooter characters by 2x for 1 turn",
-    "specialName": "Tempest Kick: Victory Bird",
+    "captain": "Boosts ATK of Slasher characters by 3.25x at the start of the chain and their HP by 1.2x and boosts ATK of Slasher characters by 4.225x following a chain of Good > Great > PERFECT hits",
+    "special": "Deals 10 hits of 30x character's ATK in typeless damage to random enemies and delays all enemies for 1 turn. If this character is your Captain or Friend/Guest Captain, changes all orbs on Slasher characters into Matching orbs and locks the chain multiplier at 2.75x for 2 turns.",
+    "specialName": "Rain of Debris with No Escape",
     "sailor": {
       "base": "None",
-      "level1": "Boosts base ATK of Powerhouse characters by 50",
-      "level2": "Completely resists Paralysis on this character"
+      "level1": "Boosts base ATK, HP and RCV of Slasher characters by 40",
+      "level2": "Makes [STR], [QCK], [DEX] and [PSY] orbs beneficial for this character if your Captain is a Slasher character"
     },
+    "sailorNotes": "#{beneficial}",
     "limit": [
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 15"
+      },
+      {
+        "description": "Boosts base HP by 25"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
       {
         "description": "Boosts base ATK by 10"
       },
       {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Slasher characters by 40"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
         "description": "Boosts base ATK by 20"
       },
       {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Acquire Potential 1: Pinch Healing"
-      },
-      {
         "description": "Boosts base HP by 30"
       },
       {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK of Powerhouse characters by 50"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base ATK by 30"
+        "description": "Boosts base HP by 35"
       },
       {
         "description": "Boosts base HP by 40"
       },
       {
-        "description": "Boosts base HP by 40"
+        "description": "Acquire Potential 2: Pinch Healing"
       },
       {
-        "description": "Acquire Potential 2: Enrage"
+        "description": "Boosts base RCV by 20"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "Boosts base ATK by 25"
       },
       {
-        "description": "Boosts base RCV by 10"
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Boosts base HP by 45"
       },
       {
         "description": "Boosts base HP by 50"
       },
       {
-        "description": "Boosts base HP by 50"
+        "description": "Boosts base HP by 60"
       },
       {
-        "description": "Reduce base Special Cooldown by 1 turn"
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [STR], [QCK], [DEX] and [PSY] orbs beneficial for this character if your Captain is a Slasher character"
       },
       {
         "description": "Boosts base ATK by 40"
@@ -80,38 +99,10 @@
         "description": "Boosts base ATK by 50"
       },
       {
-        "description": "Boosts base HP by 70"
-      },
-      {
-        "description": "Boosts base HP by 70"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base RCV by 30"
-      },
-      {
-        "description": "Acquire Sailor Ability 2: Completely resists Paralysis on this character"
-      },
-      {
-        "description": "Boosts base HP by 90"
-      },
-      {
-        "description": "Acquire Potential 3: Slot Bind Self-reduction"
+        "description": "Acquire Potential 3: Critical Hit"
       }
     ],
     "potential": [
-      {
-        "Name": "Pinch Healing",
-        "description": [
-          "Level 1: If HP is below 10% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 15% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 20% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 30% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 50% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
-        ]
-      },
       {
         "Name": "Enrage",
         "description": [
@@ -123,30 +114,44 @@
         ]
       },
       {
-        "Name": "Slot Bind Self-reduction",
+        "Name": "Pinch Healing",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 2: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 7 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 10 turns on this character",
-          "Level 5: Reduces Slot Bind completely on this character"
+          "Level 1: If HP is below 10% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Slasher Characters",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, randomizes suppoted character's orb.",
+          "Level 2: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, randomizes suppoted character's orb.",
+          "Level 3: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, changes Badly Matching orb on the supported character into Matching orb.",
+          "Level 4: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, changes Badly Matching orb on the supported character into Matching orb.",
+          "Level 5: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, changes Badly Matching orbs on Slasher characters into Matching orbs."
+        ]
+      }
+    ]
   },
-  "aliases": [
-    "",
-    "",
-    "Mega Lucci",
-    "Super Lucci",
-    "Mega Rob Lucci",
-    "Super Rob Lucci"
-  ],
   "unit": {
-    "type": "QCK",
+    "type": "INT",
     "class": [
-      "Shooter",
+      "Slasher",
       "Powerhouse"
     ],
     "stars": "6+",
@@ -155,28 +160,28 @@
     "slots": 5,
     "level": 99,
     "exp": 5000000,
-    "minHP": 1587,
-    "minATK": 772,
-    "minRCV": 181,
-    "maxHP": 3505,
-    "maxATK": 1590,
-    "maxRCV": 363,
-    "ability": 1
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 3540,
+    "maxATK": 1610,
+    "maxRCV": 374,
+    "ability": null
   },
   "cooldown": [
-    17,
-    12
+    18,
+    13
   ],
   "evolve": {
     "evolution": 2505,
     "evolvers": [
-      "skullQCK",
-      "skullQCK",
-      "skullQCK",
-      1180,
-      301
+      "skullINT",
+      118,
+      88,
+      304,
+      267
     ],
-    "from": 1763
+    "from": 1869
   },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2505.png",
@@ -184,8 +189,7 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1,
-    "global": 1
+    "rro": 1
   },
   "drop": [],
   "manual": []

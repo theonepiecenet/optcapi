@@ -1,78 +1,77 @@
 {
-  "name": "Crocodile & Daz, Revived Duo",
+  "name": "Capone \"Gang\" Bege, Castle Castle Fruit Castle Man",
   "detail": {
-    "captain": {
-      "character1": "Boosts ATK of [STR] and [DEX] characters by 2.75x if they have a Matching orb, by 2x otherwise and makes [TND] and [DEX] orbs beneficial for [STR] and [DEX] characters",
-      "character2": "Boosts ATK of [STR] and [DEX] characters by 2.5x and reduce damage received by 10%",
-      "combined": "Boosts ATK of [STR] and [DEX] characters by 2.75x if they have a Matching orb, by 2.5x otherwise, reduce damage received by 20% and makes [TND], [RCV], [STR] and [DEX] orbs beneficial for [STR] and [DEX] characters"
-    },
-    "captainNotes": "#{beneficial}",
-    "special": "Cuts the current HP of one enemy by 10%, reduces damage received by 50% for 1 turn, changes own orb into a Matching orb, boosts ATK of [STR] and [DEX] characters by 1.5x for 1 turn and becomes Crocodile & Daz for 2 turns",
-    "swap": "When Change is activated, randomizes all non-Matching orbs, including [BLOCK] orbs, reduces Bind duration by 1 turn",
-    "specialName": "Neverending Sand and Blades",
+    "captain": "Boosts ATK of Shooter characters by 3x if HP is above 50% at the start of the turn, 2.5x otherwise and if you don't attack with him, reduces damage received by 20% for that turn.",
+    "special": "If there are 6 Shooter characters in your crew, boosts ATK of all characters by 1.75x for 1 turn. If HP is below 50% at the time the special is activated, Recovers missing HP to 51% MAX HP.",
+    "specialName": "Manipulating the Castle's Interior",
     "sailor": {
-      "character1": "Boosts base ATK, HP and RCV of [DEX] characters by 30",
-      "character2": "Boosts base ATK, HP and RCV of [STR] characters by 30",
-      "combined": "Boosts base ATK, HP and RCV of [STR] and [DEX] characters by 50"
-    }
+      "base": "Boosts base ATK, HP and RCV of Shooter characters by 30",
+      "level1": "When HP is above 50% at the start of the turn, boosts base ATK of Shooter characters by 100"
+    },
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by ?%",
+          "Level 2: Reduce damage taken from [DEX] characters by ?%",
+          "Level 3: Reduce damage taken from [DEX] characters by ?%",
+          "Level 4: Reduce damage taken from [DEX] characters by ?%",
+          "Level 5: Reduce damage taken from [DEX] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Chiffon, Vito and Goti",
+        "description": [
+          "Level 1: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
-  "aliases": [
-    "",
-    "",
-    "Crocodile&Daz",
-    "Crocodile and Daz",
-    "Crocodile Daz",
-    "CrocodileDaz",
-    "Daz&Crocodile",
-    "Daz and Crocodile",
-    "Daz Crocodile",
-    "DazCrocodile",
-    "Crocobones"
-  ],
   "unit": {
-    "type": [
-      "DEX",
-      "STR"
-    ],
+    "type": "STR",
     "class": [
-      [
-        "Striker",
-        "Driven"
-      ],
-      [
-        "Slasher",
-        "Cerebral"
-      ],
-      [
-        "Striker",
-        "Slasher"
-      ]
+      "Shooter",
+      "Driven"
     ],
-    "stars": 4,
-    "cost": 15,
+    "stars": 5,
+    "cost": 50,
     "combo": 4,
-    "slots": 4,
+    "slots": null,
     "level": 99,
-    "exp": 2000000,
-    "minHP": 250,
-    "minATK": 140,
-    "minRCV": 22,
-    "maxHP": 1895,
-    "maxATK": 1489,
-    "maxRCV": 216,
-    "ability": 1
+    "exp": 5000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
   },
-  "cooldown": [
-    12,
-    12
-  ],
-  "evolve": [],
+  "cooldown": null,
+  "evolve": {
+    "evolution": 2504,
+    "evolvers": [],
+    "from": 2503
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2504.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2504.png"
-  },
-  "flags": {
-    "global": 1
   },
   "drop": [],
   "manual": []
