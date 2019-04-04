@@ -7,8 +7,9 @@
     "specialName": "Sharpened Bullets",
     "sailor": {
       "base": "Boosts this character's damage against [PSY] characters by 1.1x",
-      "level1": "Reduces Silence duration on this character by 3 turns"
+      "level1": "Restores his own special cooldown by 3 turns when it is rewinded"
     },
+    "sailorNotes": "#{rewind : 3}",
     "limit": [
       {
         "description": "Boosts base HP by 20"
