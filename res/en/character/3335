@@ -1,0 +1,79 @@
+{
+  "name": "Crocodile & Daz, Revived Duo",
+  "detail": {
+    "captain": {
+      "character1": "Boosts ATK of [STR] and [DEX] characters by 2.75x if they have a Matching orb, by 2x otherwise and makes [TND] and [DEX] orbs beneficial for [STR] and [DEX] characters",
+      "character2": "Boosts ATK of [STR] and [DEX] characters by 2.5x and reduce damage received by 10%",
+      "combined": "Boosts ATK of [STR] and [DEX] characters by 2.75x if they have a Matching orb, by 2.5x otherwise, reduce damage received by 20% and makes [TND], [RCV], [STR] and [DEX] orbs beneficial for [STR] and [DEX] characters"
+    },
+    "captainNotes": "#{beneficial}",
+    "special": "Cuts the current HP of one enemy by 10%, reduces damage received by 50% for 1 turn, changes own orb into a Matching orb, boosts ATK of [STR] and [DEX] characters by 1.5x for 1 turn and becomes Crocodile & Daz for 2 turns",
+    "swap": "When Change is activated, randomizes all non-Matching orbs, including [BLOCK] orbs, reduces Bind duration by 1 turn",
+    "specialName": "Neverending Sand and Blades",
+    "sailor": {
+      "character1": "Boosts base ATK, HP and RCV of [DEX] characters by 30",
+      "character2": "Boosts base ATK, HP and RCV of [STR] characters by 30",
+      "combined": "Boosts base ATK, HP and RCV of [STR] and [DEX] characters by 50"
+    }
+  },
+  "aliases": [
+    "",
+    "",
+    "Crocodile&Daz",
+    "Crocodile and Daz",
+    "Crocodile Daz",
+    "CrocodileDaz",
+    "Daz&Crocodile",
+    "Daz and Crocodile",
+    "Daz Crocodile",
+    "DazCrocodile",
+    "Crocobones"
+  ],
+  "unit": {
+    "type": [
+      "DEX",
+      "STR"
+    ],
+    "class": [
+      [
+        "Striker",
+        "Driven"
+      ],
+      [
+        "Slasher",
+        "Cerebral"
+      ],
+      [
+        "Striker",
+        "Slasher"
+      ]
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 250,
+    "minATK": 140,
+    "minRCV": 22,
+    "maxHP": 1895,
+    "maxATK": 1489,
+    "maxRCV": 216,
+    "ability": 1
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3335.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3335.png"
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}

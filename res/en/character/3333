@@ -1,0 +1,64 @@
+{
+  "name": "Monkey D. Luffy, Kung Fu Training",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 3.5x after the 2nd PERFECTs in a row, by 4x after the 5th PERFECTs in a row and boosts HP of all characters by 1.5x",
+    "special": "Deals 120x character's ATK in Typeless damage to all enemies, changes adjacent orbs into Matching Orbs, boosts ATK of all characters by 1.75x, reduces any damage received above 5,656 HP by 97% and makes PERFECTs easier to hit for 2 turns",
+    "sailor": "Adds 3x character's ATK as Additional Damage",
+    "specialName": "Gum-Gum Giant Rifle: Kung Fu"
+  },
+  "aliases": [
+    "",
+    "",
+    "Kung Fu Luffy",
+    "KFL",
+    "LINE Luffy",
+    "The Hero Global Needed",
+    "Another Legend Luffy"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 520,
+    "minATK": 256,
+    "minRCV": 66,
+    "maxHP": 1603,
+    "maxATK": 675,
+    "maxRCV": 146,
+    "ability": 1
+  },
+  "cooldown": [
+    20,
+    14
+  ],
+  "evolution": {
+    "evolution": 3334,
+    "evolvers": [
+      118,
+      86,
+      266,
+      302,
+      267
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3333.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3333.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}
