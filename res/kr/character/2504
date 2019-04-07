@@ -1,19 +1,83 @@
 {
-  "name": "크로커다일&다즈, 다시 일어난 두 사람",
-  "detail": {
-    "specialName": "초연격의 모래와 칼",
-    "special": "적 1명의 HP를 10% 줄이며, 1턴 동안 받는 데미지를 50% 감소시키고, 자신의 슬롯을 속성 일치 슬롯으로 바꾸며, 1턴 동안 [STR]과 [DEX]의 공격력을 1.5배로 만들고, 2턴 동안 ‘크로커다일&다즈’가 된다",
-    "captain": {
-      "character1": "[STR]과 [DEX]의 공격력을 평상시 2배, 슬롯 일치 시엔 2.75배로 만들고, [STR]과 [DEX]은 [DEX][TND] 슬롯도 [유리] 슬롯으로 취급한다",
-      "character2": "[STR]과 [DEX]의 공격력을 평상시 2.5배로 만들고, 받는 데미지를 10% 줄인다",
-      "combined": "[STR]과 [DEX]의 공격력을 평상시 2.5배, 슬롯 일치 시엔 2.75배로 만들고, [STR]과 [DEX]은 [STR][DEX][RCV][TND] 슬롯도 [유리] 슬롯으로 취급하며 받는 데미지를 20% 줄인다"
+    "name": "Capone “Gang” Bege, Castle Castle Fruit Castle Man",
+    "detail": {
+        "captain": "Boosts ATK of Shooter characters by 3x if HP is above 50% at the start of the turn, 2.5x otherwise and if you don't attack with him, reduces damage received by 20% for that turn.",
+        "special": "If there are 6 Shooter characters in your crew, boosts ATK of Shooter characters by 2x for 1 turn. If HP is below 50% at the time the special is activated, Recovers missing HP to 51% MAX HP.",
+        "specialName": "Manipulating the Castle’s Interior",
+        "sailor": {
+            "base": "Boosts base ATK, HP and RCV of Shooter characters by 30",
+            "level1": "When HP is above 50% at the start of the turn, boosts base ATK of Shooter characters by 100"
+        },
+        "potential": [
+            {
+                "Name": "[DEX] Damage Reduction",
+                "description": [
+                    "Level 1: Reduce damage taken from [DEX] characters by ?%",
+                    "Level 2: Reduce damage taken from [DEX] characters by ?%",
+                    "Level 3: Reduce damage taken from [DEX] characters by ?%",
+                    "Level 4: Reduce damage taken from [DEX] characters by ?%",
+                    "Level 5: Reduce damage taken from [DEX] characters by ?%"
+                ]
+            },
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Chiffon, Vito and Goti",
+                "description": [
+                    "Level 1: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 2: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 3: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 4: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 5: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+                ]
+            }
+        ]
     },
-    "sailor": {
-      "character1": "[DEX]의 기본 능력치가 30 상승한다",
-      "character2": "[STR]의 기본 능력치가 30 상승한다",
-      "combined": "[STR]과 [DEX]의 기본 능력치가 50 상승한다"
+    "aliases": [
+        "",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "stars": 5,
+        "cost": 50,
+        "combo": 4,
+        "slots": null,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": 1,
+        "minATK": 1,
+        "minRCV": 1,
+        "maxHP": 3205,
+        "maxATK": 1360,
+        "maxRCV": 219,
+        "ability": null
     },
-    "specialNotes": "Change Action: When Change is activated, randomizes all non-matching orbs, including [BLOCK] orbs, reduces Bind duration by 1 turn",
-    "captainNotes": "#{beneficial}"
-  }
+    "cooldown": null,
+    "evolve": {
+        "evolution": 2504,
+        "evolvers": [],
+        "from": 2503
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2504.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2504.png"
+    },
+    "drop": [],
+    "manual": []
 }
