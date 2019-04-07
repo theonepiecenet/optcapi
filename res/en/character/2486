@@ -1,13 +1,13 @@
 {
   "name": "Kinemon, Retainer of the Kozuki Family",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters by 2.5x and their HP by 1.2?x.",
+    "captain": "Boosts ATK of Slasher characters by 2.5x and their HP by 1.2x.",
     "special": "Deals 50x character's ATK in [QCK] damage to all enemies and reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by 7 turns. If your Captain is a Slasher character, boosts the Color Affinity of Slasher characters by 2x for 1 turn.",
     "specialName": "Foxfire Style - Continuous Flame Split",
     "sailor": "Boosts base ATK of Slasher characters by 50"
   },
   "aliases": [
-    "",
+    "錦えもん 光月家の家臣",
     "",
     "Secret Kinemon",
     "Limited Kinemon"
@@ -24,13 +24,13 @@
     "slots": 4,
     "level": 70,
     "exp": 1066998,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 745,
+    "minATK": 309,
+    "minRCV": 41,
     "maxHP": 1864,
     "maxATK": 772,
     "maxRCV": 102,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     19,
@@ -38,7 +38,13 @@
   ],
   "evolution": {
     "evolution": 2487,
-    "evolvers": []
+    "evolvers": [
+      118,
+      85,
+      96,
+      301,
+      101
+    ]
   },
   "evolve": [],
   "image": {
