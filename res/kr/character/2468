@@ -7,7 +7,7 @@
             "combined": "Boosts ATK of [QCK], [PSY] and [INT] characters by ?x and recovers ?x character's RCV in HP at the end of each turn."
         },
         "special": "Boosts chances of getting [QCK] and [PSY] orbs for 2 turns, amplifies the effect of orbs on [QCK] and [PSY] characters by 2x for 2 turns and becomes Smoothie & Oven for 2 turns",
-        "swap": "When Change is activated, makes [QCK] and [PSY] orbs beneficial for [QCK], [PSY] and [INT] characters for 1 turn, deals 20x character's ATK in character's Type damage to all enemies at the end of the turn for 1 turn and randomizes all orbs.",
+        "swap": "When Change is activated, makes [QCK] and [PSY] orbs beneficial for [QCK], [PSY] and [INT] characters for 1 turn and deals 20x character's ATK in character's Type damage to all enemies at the end of the turn for 1 turn.",
         "specialName": "Smoothie&Oven Special",
         "sailor": {
             "character1": "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 25",
@@ -16,7 +16,7 @@
         }
     },
     "aliases": [
-        "",
+        "スムージー＆オーブン お茶会を守りし者達",
         "",
         "Smoothie&Oven",
         "Smoothie and Oven",
@@ -50,22 +50,31 @@
         ],
         "stars": 4,
         "cost": 30,
-        "combo": null,
+        "combo": 6,
         "slots": 1,
         "level": 50,
         "exp": 130703,
-        "minHP": null,
-        "minATK": null,
-        "minRCV": null,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null,
-        "ability": null
+        "minHP": 882,
+        "minATK": 452,
+        "minRCV": 120,
+        "maxHP": 1512,
+        "maxATK": 244,
+        "maxRCV": 933,
+        "ability": 1
     },
-    "cooldown": null,
+    "cooldown": [
+        41,
+        34
+    ],
     "evolution": {
         "evolution": 2469,
-        "evolvers": []
+        "evolvers": [
+            116,
+            117,
+            118,
+            101,
+            103
+        ]
     },
     "evolve": [],
     "image": {

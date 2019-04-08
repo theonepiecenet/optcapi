@@ -1,0 +1,72 @@
+{
+    "name": "브룩, Underworld Sword Technique",
+    "detail": {
+        "captain": "Boosts ATK of Slasher and Free Spirit characters by 2.25x and their HP by 1.15x.",
+        "special": "Deals 90x character's ATK in Typeless Fixed damage to all enemies that will ignore damage negating abilities and barriers. If your crew has 5 or more Slasher characters at the time the special is activated, reduces damage received from [INT] enemies by 100% for 1 turn and cuts the current HP of each enemy by 15% at the end of the turn for 2 turns.",
+        "specialName": "Soul Solid - Song of Scratches: Blizzard Slice",
+        "sailor": "Boosts base HP of [PSY] characters by 40"
+    },
+    "aliases": [
+        "ブルック 黄泉の剣技",
+        "",
+        "Coliseum Brook"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Slasher",
+            "Free Spirit"
+        ],
+        "stars": 4,
+        "cost": 25,
+        "combo": 5,
+        "slots": 3,
+        "level": 70,
+        "exp": 1066998,
+        "minHP": 678,
+        "minATK": 145,
+        "minRCV": 100,
+        "maxHP": 1382,
+        "maxATK": 739,
+        "maxRCV": 181,
+        "ability": 1
+    },
+    "cooldown": [
+        30,
+        15
+    ],
+    "evolution": {
+        "evolution": 2489,
+        "evolvers": [
+            118,
+            98,
+            1180,
+            303,
+            103
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2488.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2488.png"
+    },
+    "drop": [
+        {
+            "type": "Coliseum",
+            "name": "Coliseum",
+            "thumb": 779,
+            "data": [
+                "Chaos"
+            ]
+        },
+        {
+            "type": "Coliseum",
+            "name": "Coliseum",
+            "thumb": 779,
+            "data": [
+                "Underground"
+            ]
+        }
+    ],
+    "manual": []
+}

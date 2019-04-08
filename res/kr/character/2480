@@ -1,0 +1,60 @@
+{
+    "name": "효조, Eating Evil Drugs with Alcohol",
+    "detail": {
+        "captain": "Boosts ATK of Slasher characters by 2x at the start of the chain and boosts ATK by 2.5x following a chain of [INT] > [DEX] > [DEX] attacks no lower than Good.",
+        "special": "Strongly Poisons one enemy. Removes Blindness duration completely, reduces Despair and Silence duration by 5 turns, changes adjacent orbs into Matching Orbs and switches orbs between slots three times.",
+        "specialName": "Octopus Eight Sword Style - Poisonous Blade",
+        "sailor": "Reduces Silence duration on this character by 3 turns",
+        "sailorNotes": "#{silence}"
+    },
+    "aliases": [
+        "ヒョウゾウ 酒のつまみの凶薬",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Powerhouse",
+            "Slasher"
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 6,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "minHP": 212,
+        "minATK": 161,
+        "minRCV": -333,
+        "maxHP": 1412,
+        "maxATK": 712,
+        "maxRCV": -333,
+        "ability": 1
+    },
+    "cooldown": [
+        20,
+        13
+    ],
+    "evolution": {
+        "evolution": 2481,
+        "evolvers": [
+            94,
+            1180,
+            302,
+            302,
+            102
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2480.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2480.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

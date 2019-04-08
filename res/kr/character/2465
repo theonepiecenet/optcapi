@@ -8,35 +8,127 @@
             "base": "When any other Powerhouse or Slasher character uses a special, reduces own cooldown by 1 turn",
             "level1": "Boosts base ATK, HP and RCV of Slasher and Powerhouse characters by 100"
         },
+        "limit": [
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Acquire Potential 1: [STR] Damage Reduction"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Acquire Potential 2: Slot Bind Self-reduction"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base HP by 90"
+            },
+            {
+                "description": "Boosts base HP by 100"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Slasher and Powerhouse characters by 100"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Acquire Potential 3: Critical Hit"
+            }
+        ],
         "potential": [
             {
                 "Name": "[STR] Damage Reduction",
                 "description": [
-                    "Level 1: Reduce damage taken from [STR] characters by ?%",
-                    "Level 2: Reduce damage taken from [STR] characters by ?%",
-                    "Level 3: Reduce damage taken from [STR] characters by ?%",
-                    "Level 4: Reduce damage taken from [STR] characters by ?%",
-                    "Level 5: Reduce damage taken from [STR] characters by ?%"
+                    "Level 1: Reduce damage taken from [STR] characters by 2%",
+                    "Level 2: Reduce damage taken from [STR] characters by 3%",
+                    "Level 3: Reduce damage taken from [STR] characters by 4%",
+                    "Level 4: Reduce damage taken from [STR] characters by 5%",
+                    "Level 5: Reduce damage taken from [STR] characters by 7%"
                 ]
             },
             {
                 "Name": "Reduce No Healing duration",
                 "description": [
-                    "Level 1: Reduces No Healing duration by ? turn",
-                    "Level 2: Reduces No Healing duration by ? turns",
-                    "Level 3: Reduces No Healing duration by ? turns",
-                    "Level 4: Reduces No Healing duration by ? turns",
-                    "Level 5: Reduces No Healing duration by ? turns"
+                    "Level 1: Reduces No Healing duration by 3 turn",
+                    "Level 2: Reduces No Healing duration by 4 turns",
+                    "Level 3: Reduces No Healing duration by 5 turns",
+                    "Level 4: Reduces No Healing duration by 7 turns",
+                    "Level 5: Reduces No Healing duration by 10 turns"
                 ]
             },
             {
                 "Name": "Critical Hit",
                 "description": [
-                    "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-                    "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-                    "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-                    "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-                    "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+                    "Level 1: If you hit a PERFECT with this character, there is a 50% chance to deal 4% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 60% chance to deal 5% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 7% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 8% of this character's attack in extra damage"
                 ]
             }
         ],
@@ -44,17 +136,17 @@
             {
                 "Characters": "Katakuri and Smoothie",
                 "description": [
-                    "Level 1: Once per adventure, when you are inflicted with Chain Coefficient Reduction or Chain Multiplier Limit, reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by ? turns and adds ?x to Chain multiplier for 1 turn.",
-                    "Level 2: Once per adventure, when you are inflicted with Chain Coefficient Reduction or Chain Multiplier Limit, reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by ? turns and adds ?x to Chain multiplier for 1 turn.",
-                    "Level 3: Once per adventure, when you are inflicted with Chain Coefficient Reduction or Chain Multiplier Limit, reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by ? turns and adds ?x to Chain multiplier for 1 turn.",
-                    "Level 4: Once per adventure, when you are inflicted with Chain Coefficient Reduction or Chain Multiplier Limit, reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by ? turns and adds ?x to Chain multiplier for 1 turn.",
-                    "Level 5: Once per adventure, when you are inflicted with Chain Coefficient Reduction or Chain Multiplier Limit, reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by 3 turns and adds .7x to Chain multiplier for 1 turn."
+                    "Level 1: Once per adventure, when you are inflicted with Chain Coefficient Reduction or Chain Multiplier Limit, reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by 1 turn and adds 0.3x to Chain multiplier for 1 turn.",
+                    "Level 2: Once per adventure, when you are inflicted with Chain Coefficient Reduction or Chain Multiplier Limit, reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by 1 turn and adds 0.4x to Chain multiplier for 1 turn.",
+                    "Level 3: Once per adventure, when you are inflicted with Chain Coefficient Reduction or Chain Multiplier Limit, reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by 2 turns and adds 0.4x to Chain multiplier for 1 turn.",
+                    "Level 4: Once per adventure, when you are inflicted with Chain Coefficient Reduction or Chain Multiplier Limit, reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by 2 turns and adds 0.5x to Chain multiplier for 1 turn.",
+                    "Level 5: Once per adventure, when you are inflicted with Chain Coefficient Reduction or Chain Multiplier Limit, reduces crew's Chain Multiplier Limit and Chain Coefficient Reduction duration by 3 turns and adds 0.7x to Chain multiplier for 1 turn."
                 ]
             }
         ]
     },
     "aliases": [
-        "",
+        "シャーロット・クラッカー 千手の如き猛攻",
         "",
         "Legend Cracker"
     ],
@@ -70,21 +162,27 @@
         "slots": 5,
         "level": 99,
         "exp": 5000000,
-        "minHP": 1,
-        "minATK": 1,
-        "minRCV": 1,
-        "maxHP": 3411,
+        "minHP": 1300,
+        "minATK": 784,
+        "minRCV": 180,
+        "maxHP": 3412,
         "maxATK": 1574,
         "maxRCV": 350,
-        "ability": null
+        "ability": 1
     },
     "cooldown": [
-        12,
-        12
+        23,
+        18
     ],
     "evolve": {
         "evolution": 2465,
-        "evolvers": [],
+        "evolvers": [
+            118,
+            266,
+            94,
+            1180,
+            267
+        ],
         "from": 2464
     },
     "image": {

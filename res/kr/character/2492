@@ -1,0 +1,53 @@
+{
+    "name": "토니토니 쵸파, Snow Story",
+    "detail": {
+        "captain": "Boosts ATK of Fighter characters by 1.5x.",
+        "special": "Reduces crew's current HP by 10%, removes Blindness duration completely and adds 0.3x to Chain multiplier for 1 turn.",
+        "specialName": "Skull Mark of the Amiudake"
+    },
+    "aliases": [
+        "トニートニー・チョッパー 雪物語",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Fighter",
+            "Striker"
+        ],
+        "stars": 3,
+        "cost": 1,
+        "combo": 4,
+        "slots": 2,
+        "level": 70,
+        "exp": 355666,
+        "minHP": 692,
+        "minATK": 164,
+        "minRCV": 86,
+        "maxHP": 1730,
+        "maxATK": 410,
+        "maxRCV": 215,
+        "ability": 1
+    },
+    "cooldown": [
+        12,
+        10
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2492.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2492.png"
+    },
+    "drop": [
+        {
+            "type": "Fortnight",
+            "name": "Miracle Cherry Blossoms Return Fortnight",
+            "thumb": 2491,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}

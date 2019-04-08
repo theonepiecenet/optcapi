@@ -3,10 +3,11 @@
     "detail": {
         "captain": "Boosts ATK of all characters by ?x if HP is below 50% at the start of the turn, ?x otherwise and reduces HP of all characters by ?%",
         "special": "Reduces crew's current HP by 50%, deals 100x the amount of HP subtracted in typeless damage to one enemy and randomizes all non-[RCV] orbs.",
-        "specialName": "Mama-Mash"
+        "specialName": "Mama-Mash",
+        "sailor": "Reduces HP of all characters by 30% and boosts base RCV of all characters by 1.2x"
     },
     "aliases": [
-        "",
+        "ビッグ・マム 空腹の追跡",
         "",
         "Raid Big Mom",
         "Thin Mom"
@@ -19,22 +20,31 @@
         ],
         "stars": 4,
         "cost": 30,
-        "combo": null,
-        "slots": null,
+        "combo": 2,
+        "slots": 5,
         "level": 70,
         "exp": 1066998,
-        "minHP": null,
-        "minATK": null,
-        "minRCV": null,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null,
-        "ability": null
+        "minHP": 458,
+        "minATK": 245,
+        "minRCV": 35,
+        "maxHP": 1944,
+        "maxATK": 731,
+        "maxRCV": 110,
+        "ability": 1
     },
-    "cooldown": null,
+    "cooldown": [
+        21,
+        7
+    ],
     "evolution": {
         "evolution": 2473,
-        "evolvers": []
+        "evolvers": [
+            118,
+            85,
+            266,
+            301,
+            101
+        ]
     },
     "evolve": [],
     "image": {

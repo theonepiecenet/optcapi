@@ -1,0 +1,144 @@
+{
+    "name": "류마, The Legendary Samurai",
+    "detail": {
+        "captain": "Boosts ATK of [STR] characters by 2.5x and boosts HP of Slasher characters by 1.2x.",
+        "special": "If your Captain is a Slasher character, boosts ATK of Slasher characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for Slasher characters for 1 turn.",
+        "specialName": "Polka Remise",
+        "sailor": {
+            "base": "Boosts base ATK of Slasher characters by 50",
+            "level1": "Makes [QCK] orbs beneficial for this character"
+        },
+        "sailorNotes": "#{beneficial}",
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Potential 1: Critical Hit"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base HP by 120"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [QCK] orbs beneficial for this character"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Potential 2: Double Special Activation"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 10% chance to deal 1% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 30% chance to deal 3% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage"
+                ]
+            },
+            {
+                "Name": "Double Special Activation",
+                "description": [
+                    "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+                    "Level 2: Once per an adventure, reduce own Special Cooldown by 3 turns after the first time this special is used",
+                    "Level 3: Once per an adventure, reduce own Special Cooldown by 5 turns after the first time this special is used",
+                    "Level 4: Once per an adventure, reduce own Special Cooldown by 7 turns after the first time this special is used",
+                    "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Slasher characters",
+                "description": [
+                    "Level 1: Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+                    "Level 2: Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+                    "Level 3: Adds 5% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+                    "Level 4: Adds 7% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+                    "Level 5: Adds 9% of this character's base ATK and RCV to the supported character's base ATK and RCV."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "リューマ 伝説の侍",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Slasher",
+            "Driven"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1168,
+        "minATK": 482,
+        "minRCV": 138,
+        "maxHP": 2601,
+        "maxATK": 1355,
+        "maxRCV": 312,
+        "ability": 1
+    },
+    "cooldown": [
+        23,
+        16
+    ],
+    "evolve": {
+        "evolution": 2485,
+        "evolvers": [
+            94,
+            1180,
+            300,
+            300,
+            100
+        ],
+        "from": 2484
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2485.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2485.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

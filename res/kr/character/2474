@@ -1,0 +1,58 @@
+{
+    "name": "쥬라큘 미호크, World's Strongest Teacher",
+    "detail": {
+        "captain": "If there are 6 Slasher characters in your crew, boosts chain multiplier by 4x and boosts ATK of Slasher characters by 1.75x. Boosts chances of getting [DEX] and [INT] orbs.",
+        "special": "Cuts the current HP of one enemy by 25%, If your crew has 4 or more characters with [DEX] or [INT] orbs, amplifies the effects of orbs for Slasher characters by 2.25x for 1 turn and locks all orbs for 1 turn, amplifies the effects of orbs for Slasher characters by 2x for 1 turn otherwise.",
+        "specialName": "Haki Sword"
+    },
+    "aliases": [
+        "ジュラキュール・ミホーク 世界最強の師",
+        "",
+        "V2 Mihawk"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Slasher",
+            "Free Spirit"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 3,
+        "level": 70,
+        "exp": 1066998,
+        "minHP": 840,
+        "minATK": 234,
+        "minRCV": 44,
+        "maxHP": 2011,
+        "maxATK": 601,
+        "maxRCV": 109,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        13
+    ],
+    "evolution": {
+        "evolution": 2475,
+        "evolvers": [
+            118,
+            102,
+            1180,
+            302,
+            267
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2474.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2474.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

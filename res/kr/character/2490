@@ -1,0 +1,58 @@
+{
+    "name": "Dr. 히루루크, Quack Doctor of Drum Kingdom",
+    "detail": {
+        "captain": "Boosts ATK of [DEX] and [INT] characters by 2x and their RCV by 1.2x.",
+        "special": "Reduces crew's current HP by 50%, reduces Despair, Paralysis and Chain Coefficient Reduction duration by 3 turns and changes [TND] and [RCV] orbs on all characters into Matching Orbs.",
+        "specialName": "Entrusting his Dream with this Final Cup"
+    },
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Free Spirit",
+            "Driven"
+        ],
+        "stars": 3,
+        "cost": 1,
+        "combo": 4,
+        "slots": 3,
+        "level": 50,
+        "exp": 130703,
+        "minHP": 464,
+        "minATK": 134,
+        "minRCV": 58,
+        "maxHP": 1160,
+        "maxATK": 335,
+        "maxRCV": 145,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        13
+    ],
+    "evolution": {
+        "evolution": 2491,
+        "evolvers": [
+            117,
+            82,
+            88,
+            99,
+            104
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2490.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2490.png"
+    },
+    "drop": [
+        {
+            "type": "Fortnight",
+            "name": "Miracle Cherry Blossoms Return Fortnight",
+            "thumb": 2491,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}

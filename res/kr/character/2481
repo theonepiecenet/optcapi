@@ -1,0 +1,144 @@
+{
+    "name": "효조, Evil Drug Awakening",
+    "detail": {
+        "captain": "Boosts ATK of Slasher characters by 2.25x at the start of the chain, boosts ATK by 2.81x following a chain of [INT] > [DEX] > [DEX] attacks no lower than Good and boosts HP of Slasher characters by 1.2x.",
+        "special": "Strongly Poisons one enemy. Removes Blindness duration completely, reduces Despair and Silence duration by 5 turns, changes adjacent orbs into Matching Orbs and switches orbs between slots three times.",
+        "specialName": "Octopus Eight Sword Style - Poisonous Blade",
+        "sailor": {
+            "base": "Reduces Silence duration on this character by 3 turns",
+            "level1": "Completely resists Paralysis on this character"
+        },
+        "sailorNotes": "#{silence}",
+        "limit": [
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Acquire Potential 1: Reduce No Healing duration"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Completely resists Paralysis on this character"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Boosts base ATK by 60"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Potential 2: Critical Hit"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turn",
+                    "Level 3: Reduces No Healing duration by 3 turn",
+                    "Level 4: Reduces No Healing duration by 4 turns",
+                    "Level 5: Reduces No Healing duration by 5 turns"
+                ]
+            },
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 30% chance to deal 3% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 80% chance to deal 7% of this character's attack in extra damage"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Hody, Ikaros, Daruma and Dosun",
+                "description": [
+                    "Level 1: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, reduces Despair and Silence duration by 1 turn.",
+                    "Level 2: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, reduces Despair and Silence duration by 1 turn.",
+                    "Level 3: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, reduces Despair and Silence duration by 2 turns.",
+                    "Level 4: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, reduces Despair and Silence duration by 2 turns.",
+                    "Level 5: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, reduces Despair and Silence duration by 3 turns."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ヒョウゾウ 凶薬の“覚醒”",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Powerhouse",
+            "Slasher"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1321,
+        "minATK": 657,
+        "minRCV": -333,
+        "maxHP": 2982,
+        "maxATK": 1478,
+        "maxRCV": -333,
+        "ability": 1
+    },
+    "cooldown": [
+        20,
+        13
+    ],
+    "evolve": {
+        "evolution": 2481,
+        "evolvers": [
+            94,
+            1180,
+            302,
+            302,
+            102
+        ],
+        "from": 2480
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2481.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2481.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

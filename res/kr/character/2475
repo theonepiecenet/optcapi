@@ -10,35 +10,127 @@
             "level2": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs beneficial for this character if your Captain is a Slasher character"
         },
         "sailorNotes": "#{beneficial}",
+        "limit": [
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Acquire Potential 1: Reduce No Healing duration"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Boosts base ATK of Slasher characters by 75"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Acquire Potential 2: Pinch Healing"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Acquire Sailor Ability 2: Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs beneficial for this character if your Captain is a Slasher character"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 130"
+            },
+            {
+                "description": "Boosts base ATK by 70"
+            },
+            {
+                "description": "Acquire Potential 3: Critical Hit"
+            }
+        ],
         "potential": [
             {
                 "Name": "Reduce No Healing duration",
                 "description": [
-                    "Level 1: Reduces No Healing duration by ? turn",
-                    "Level 2: Reduces No Healing duration by ? turn",
-                    "Level 3: Reduces No Healing duration by ? turn",
-                    "Level 4: Reduces No Healing duration by ? turns",
-                    "Level 5: Reduces No Healing duration by ? turns"
+                    "Level 1: Reduces No Healing duration by 2 turn",
+                    "Level 2: Reduces No Healing duration by 3 turn",
+                    "Level 3: Reduces No Healing duration by 4 turn",
+                    "Level 4: Reduces No Healing duration by 5 turns",
+                    "Level 5: Reduces No Healing duration by 7 turns"
                 ]
             },
             {
                 "Name": "Pinch Healing",
                 "description": [
-                    "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                    "Level 1: If HP is below 10% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 15% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
                 ]
             },
             {
                 "Name": "Critical Hit",
                 "description": [
-                    "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-                    "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-                    "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-                    "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-                    "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+                    "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 6% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 8% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 10% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 12% of this character's attack in extra damage"
                 ]
             }
         ],
@@ -56,7 +148,7 @@
         ]
     },
     "aliases": [
-        "",
+        "ジュラキュール・ミホーク 導く“大剣豪”の極意",
         "",
         "V2 Mihawk"
     ],
@@ -72,18 +164,27 @@
         "slots": 5,
         "level": 99,
         "exp": 5000000,
-        "minHP": 1,
-        "minATK": 1,
-        "minRCV": 1,
+        "minHP": 1731,
+        "minATK": 576,
+        "minRCV": 98,
         "maxHP": 3854,
         "maxATK": 1621,
         "maxRCV": 221,
-        "ability": null
+        "ability": 1
     },
-    "cooldown": 19,
+    "cooldown": [
+        19,
+        13
+    ],
     "evolve": {
         "evolution": 2475,
-        "evolvers": [],
+        "evolvers": [
+            118,
+            102,
+            1180,
+            302,
+            267
+        ],
         "from": 2474
     },
     "image": {

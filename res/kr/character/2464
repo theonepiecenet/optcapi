@@ -7,7 +7,7 @@
         "sailor": "When any other Powerhouse or Slasher character uses a special, reduces own cooldown by 1 turn"
     },
     "aliases": [
-        "",
+        "シャーロット・クラッカー ビスケット兵を従えし将星",
         "",
         "Legend Cracker"
     ],
@@ -26,18 +26,24 @@
         "minHP": 500,
         "minATK": 400,
         "minRCV": 50,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null,
-        "ability": null
+        "maxHP": 1521,
+        "maxATK": 840,
+        "maxRCV": 200,
+        "ability": 1
     },
     "cooldown": [
         23,
-        null
+        18
     ],
     "evolution": {
         "evolution": 2465,
-        "evolvers": []
+        "evolvers": [
+            118,
+            266,
+            94,
+            1180,
+            267
+        ]
     },
     "evolve": [],
     "image": {

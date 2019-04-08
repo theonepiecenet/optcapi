@@ -1,0 +1,144 @@
+{
+    "name": "Mr. 1, Baroque Works Assassin",
+    "detail": {
+        "captain": "Boosts ATK of Slaher and Cerebral characters by 2.5x and their HP by 1.2x.",
+        "special": "Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers, randomizes all non-Matching orbs, including [BLOCK] orbs, makes Badly Matching and [BLOCK] orbs not reduce damage for 3 turns and reduces enemies Threshold Damage Reduction, Percent Damage Reduction and Increased Defense duration by 3 turns.",
+        "specialName": "Spiral Hollow",
+        "sailor": {
+            "base": "If your Captain is a Slasher character, boosts own base ATK by 150",
+            "level1": "Makes [PSY] orbs beneficial for Slasher characters"
+        },
+        "sailorNotes": "#{beneficial}",
+        "limit": [
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Acquire Potential 1: [INT] Damage Reduction"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [PSY] orbs beneficial for Slasher characters"
+            },
+            {
+                "description": "Boosts base RCV by 25"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base ATK by 65"
+            },
+            {
+                "description": "Acquire Potential 2: Critical Hit"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[INT] Damage Reduction",
+                "description": [
+                    "Level 1: Reduce damage taken from [INT] characters by 1%",
+                    "Level 2: Reduce damage taken from [INT] characters by 2%",
+                    "Level 3: Reduce damage taken from [INT] characters by 3%",
+                    "Level 4: Reduce damage taken from [INT] characters by 4%",
+                    "Level 5: Reduce damage taken from [INT] characters by 5%"
+                ]
+            },
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 30% chance to deal 3% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 80% chance to deal 7% of this character's attack in extra damage"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Crocodile and Miss Doublefinger",
+                "description": [
+                    "Level 1: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 2: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 3: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 4: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 5: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "Mr.1 Ｂ・Ｗの暗殺者",
+        "",
+        "Daz Bones"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Slasher",
+            "Cerebral"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1218,
+        "minATK": 471,
+        "minRCV": 130,
+        "maxHP": 2712,
+        "maxATK": 1324,
+        "maxRCV": 294,
+        "ability": 1
+    },
+    "cooldown": [
+        18,
+        11
+    ],
+    "evolve": {
+        "evolution": 2479,
+        "evolvers": [
+            94,
+            1180,
+            303,
+            303,
+            103
+        ],
+        "from": 2478
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2479.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2479.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

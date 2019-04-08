@@ -1,0 +1,74 @@
+{
+    "name": "카쿠, CP9's Best Swordsman",
+    "detail": {
+        "captain": "Boosts ATK of Slasher characters by 2x and their HP by 1.2x.",
+        "special": [
+            {
+                "description": "Deals 50,000 Fixed damage to one enemy, changes all orbs on all characters into Kaku's orb and reduces ATK DOWN, Bind and Paralysis duration by 3 turns.",
+                "cooldown": [
+                    17,
+                    10
+                ]
+            },
+            {
+                "description": "Deals 200,000 Fixed damage to one enemy, changes all orbs on all characters into Kaku's orb and reduces ATK DOWN, Bind and Paralysis duration by 5 turns.",
+                "cooldown": [
+                    20,
+                    13
+                ]
+            }
+        ],
+        "specialName": "Extreme Nose Gun - \"Kirimanjaro\"",
+        "sailor": "Boosts this character's damage against [DEX] characters by 2x"
+    },
+    "aliases": [
+        "カク ＣＰ９随一の剣術使い",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Powerhouse",
+            "Slasher"
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 4,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "minHP": 556,
+        "minATK": 208,
+        "minRCV": 58,
+        "maxHP": 1390,
+        "maxATK": 520,
+        "maxRCV": 145,
+        "ability": 1
+    },
+    "cooldown": [
+        20,
+        13
+    ],
+    "evolution": {
+        "evolution": 2483,
+        "evolvers": [
+            94,
+            1180,
+            301,
+            301,
+            101
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2482.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2482.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}
