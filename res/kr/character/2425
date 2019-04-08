@@ -7,7 +7,7 @@
         "sailor": "Makes [RCV] and [TND] orbs beneficial for this character"
     },
     "aliases": [
-        "",
+        "サイ ベビー５を射止めし首領",
         "",
         "Don Sai"
     ],
@@ -19,22 +19,31 @@
         ],
         "stars": 4,
         "cost": 15,
-        "combo": null,
+        "combo": 6,
         "slots": 3,
         "level": 50,
         "exp": 392109,
-        "minHP": null,
-        "minATK": null,
-        "minRCV": null,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null,
-        "ability": null
+        "minHP": 251,
+        "minATK": 201,
+        "minRCV": 25,
+        "maxHP": 1012,
+        "maxATK": 744,
+        "maxRCV": 160,
+        "ability": 1
     },
-    "cooldown": 21,
+    "cooldown": [
+        21,
+        15
+    ],
     "evolution": {
         "evolution": 2426,
-        "evolvers": []
+        "evolvers": [
+            83,
+            266,
+            98,
+            303,
+            103
+        ]
     },
     "evolve": [],
     "image": {

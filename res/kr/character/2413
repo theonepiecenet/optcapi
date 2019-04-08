@@ -1,9 +1,62 @@
 {
     "name": "롤로노아 조로, 황야의 현상 수배자",
     "detail": {
-        "specialName": "삼총류의 무법자",
-        "special": "배리어를 친 적이 있을 때, [BLOCK] 슬롯을 포함한 모든 슬롯을 속성 일치 슬롯으로 바꾸고, 적 전체의 HP 바에 걸려 있는 모든 배리어를 1턴 줄인다. 배리어를 친 적이 없을 때는 인접한 슬롯을 속성 일치 슬롯으로 바꾼다",
         "captain": "Boosts ATK of Shooter and Driven characters by 2.75x if they have a matching orb, by 2.25x otherwise.",
+        "special": "배리어를 친 적이 있을 때, [BLOCK] 슬롯을 포함한 모든 슬롯을 속성 일치 슬롯으로 바꾸고, 적 전체의 HP 바에 걸려 있는 모든 배리어를 1턴 줄인다. 배리어를 친 적이 없을 때는 인접한 슬롯을 속성 일치 슬롯으로 바꾼다",
+        "specialName": "삼총류의 무법자",
         "sailor": "Boosts base ATK, HP and RCV of Shooter and Driven characters by 50"
-    }
+    },
+    "aliases": [
+        "ロロノア・ゾロ 荒野のお尋ね者",
+        "",
+        "World Journey Zoro",
+        "Cowboy Zoro"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 5,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "minHP": 1000,
+        "minATK": 481,
+        "minRCV": 36,
+        "maxHP": 1805,
+        "maxATK": 854,
+        "maxRCV": 70,
+        "ability": 1
+    },
+    "cooldown": [
+        8,
+        8
+    ],
+    "evolution": {
+        "evolution": 2414,
+        "evolvers": [
+            118,
+            86,
+            97,
+            302,
+            102
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2413.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2413.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
 }

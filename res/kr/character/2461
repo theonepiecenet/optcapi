@@ -1,0 +1,63 @@
+{
+    "name": "Mystoms, The Mysterious Masked Savior Guiding the Escape",
+    "detail": {
+        "captain": "Boosts ATK of Fighter characters by 2.25x and reduces damage received by 5%.",
+        "special": "Reduces enemy Threshold Damage Reduction duration by 2 turns and adds 0.5x to Chain multiplier for 1 turn.",
+        "specialName": "Disguised Determination",
+        "support": [
+            {
+                "Characters": "Luffy, Sanji, Carrot and Pedro",
+                "description": [
+                    "Level 1: Once per adventure, when you are inflicted with Paralysis or Special Rewind, reduces Paralysis duration on the supported character by 1 turn, reduces Special Cooldown of the supported character's special by 1 turn and reduces damage received by 25% for 1 turn.",
+                    "Level 2: Once per adventure, when you are inflicted with Paralysis or Special Rewind, reduces Paralysis duration on the supported character by 2 turns, reduces Special Cooldown of the supported character's special by 2 turns and reduces damage received by 50% for 1 turn.",
+                    "Level 3: Once per adventure, when you are inflicted with Paralysis or Special Rewind, reduces Paralysis duration on the supported character by 2 turns, reduces Special Cooldown of the supported character's special by 2 turns and reduces damage received by 75% for 1 turn.",
+                    "Level 4: Once per adventure, when you are inflicted with Paralysis or Special Rewind, reduces Paralysis duration on the supported character by 2 turns, reduces Special Cooldown of the supported character's special by 2 turns and reduces damage received by 75% for 1 turn.",
+                    "Level 5: Once per adventure, when you are inflicted with Paralysis or Special Rewind, reduces Paralysis duration on the supported character by 3 turns, reduces Special Cooldown of the supported character's special by 3 turns and reduces damage received by 75% for 1 turn."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ナゾムズ 脱出を手引きするナゾの覆面",
+        "",
+        "Pekoms",
+        "Nazoms",
+        "Support Pekoms"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Fighter",
+            "Powerhouse"
+        ],
+        "stars": 5,
+        "cost": 1,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 834,
+        "minATK": 815,
+        "minRCV": 62,
+        "maxHP": 2574,
+        "maxATK": 1359,
+        "maxRCV": 208,
+        "ability": 1
+    },
+    "cooldown": [
+        10,
+        10
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2461.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2461.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1
+    },
+    "drop": [],
+    "manual": []
+}

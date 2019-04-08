@@ -2,13 +2,13 @@
     "name": "하이루딘",
     "detail": {
         "captain": "Boosts ATK of Driven and Powerhouse characters by ?x, reduces crew's current HP by ?% at the end of each turn, reduces his own ATK multiplier by ?x at the end of each turn",
-        "captainNotes": "His ATK multiplier will be ?x on the first turn, ?x on the second, ?x on the third and so on. The reduction stops once the multiplier is ?x. The multiplier affects all Driven and Powerhouse characters. You will not die to the HP reduction",
+        "captainNotes": "His ATK multiplier will be 2.75x on the first turn, 2.69x on the second, 2.63x on the third and so on. The reduction stops once the multiplier is 1x. The multiplier affects all Driven and Powerhouse characters. You will not die to the HP reduction",
         "special": "Reduces Bind, Paralysis and Chain Coefficient Reduction duration by 4 turns, reduces Special Cooldown of Driven and Powerhouse characters by 1 turn. If your Captain is a Driven and Powerhouse character, boosts ATK against delayed enemies by 1.75x for 2 turns",
         "specialName": "“Gungnir” - The Decree of the Giant",
         "sailor": "Boosts base ATK, HP and RCV of Driven characters by 30"
     },
     "aliases": [
-        "",
+        "ハイルディン エルバフの槍",
         "",
         ""
     ],
@@ -20,22 +20,31 @@
         ],
         "stars": 4,
         "cost": 15,
-        "combo": null,
+        "combo": 5,
         "slots": 3,
         "level": 50,
         "exp": 392109,
-        "minHP": null,
-        "minATK": null,
-        "minRCV": null,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null,
-        "ability": null
+        "minHP": 301,
+        "minATK": 205,
+        "minRCV": 12,
+        "maxHP": 1292,
+        "maxATK": 768,
+        "maxRCV": 92,
+        "ability": 1
     },
-    "cooldown": 19,
+    "cooldown": [
+        19,
+        13
+    ],
     "evolution": {
         "evolution": 2422,
-        "evolvers": []
+        "evolvers": [
+            85,
+            96,
+            1180,
+            301,
+            101
+        ]
     },
     "evolve": [],
     "image": {

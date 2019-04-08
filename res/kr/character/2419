@@ -8,7 +8,7 @@
         "sailorNotes": "#{beneficial}"
     },
     "aliases": [
-        "",
+        "イデオ 新世界セントラル格闘会 Ｖ２覇者",
         "",
         ""
     ],
@@ -20,22 +20,31 @@
         ],
         "stars": 4,
         "cost": 15,
-        "combo": null,
+        "combo": 5,
         "slots": 3,
         "level": 50,
         "exp": 392109,
-        "minHP": null,
-        "minATK": null,
-        "minRCV": null,
-        "maxHP": null,
-        "maxATK": null,
-        "maxRCV": null,
-        "ability": null
+        "minHP": 254,
+        "minATK": 188,
+        "minRCV": 25,
+        "maxHP": 1056,
+        "maxATK": 745,
+        "maxRCV": 155,
+        "ability": 1
     },
-    "cooldown": 20,
+    "cooldown": [
+        20,
+        14
+    ],
     "evolution": {
         "evolution": 2420,
-        "evolvers": []
+        "evolvers": [
+            84,
+            266,
+            95,
+            300,
+            100
+        ]
     },
     "evolve": [],
     "image": {

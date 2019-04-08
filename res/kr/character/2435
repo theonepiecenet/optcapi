@@ -8,17 +8,17 @@
             {
                 "Characters": "Elizabello, Chinjao, Sai, Ideo and Hajrudin",
                 "description": [
-                    "Level 1: Adds 5% of this character's base ATK to the supported character's base ATK, boosts the supported character's ATK by 1.5x against Crocodile and when the supported character hits a PERFECT, reduces enemy's End of Turn Damage/Percent Cut duration by 5 turns.",
-                    "Level 2: Adds 7% of this character's base ATK to the supported character's base ATK, boosts the supported character's ATK by 1.5x against Crocodile and when the supported character hits a PERFECT, reduces enemy's End of Turn Damage/Percent Cut duration by 5 turns.",
-                    "Level 3: Adds 10% of this character's base ATK to the supported character's base ATK, boosts the supported character's ATK by 1.5x against Crocodile and when the supported character hits a PERFECT, reduces enemy's End of Turn Damage/Percent Cut duration by 5 turns.",
-                    "Level 4: Adds 15% of this character's base ATK to the supported character's base ATK, boosts the supported character's ATK by 1.5x against Crocodile and when the supported character hits a PERFECT, reduces enemy's End of Turn Damage/Percent Cut duration by 5 turns.",
-                    "Level 5: Adds 20% of this character's base ATK to the supported character's base ATK, boosts the supported character's ATK by 1.5x against Crocodile and when the supported character hits a PERFECT, reduces enemy's End of Turn Damage/Percent Cut duration by 5 turns."
+                    "Level 1: Adds 5% of this character's base ATK to the supported character's base ATK, boosts the supported character's ATK by 1.5x against Bartolomeo and when the supported character hits a PERFECT, reduces enemy's End of Turn Damage/Percent Cut duration by 5 turns.",
+                    "Level 2: Adds 7% of this character's base ATK to the supported character's base ATK, boosts the supported character's ATK by 1.5x against Bartolomeo and when the supported character hits a PERFECT, reduces enemy's End of Turn Damage/Percent Cut duration by 5 turns.",
+                    "Level 3: Adds 10% of this character's base ATK to the supported character's base ATK, boosts the supported character's ATK by 1.5x against Bartolomeo and when the supported character hits a PERFECT, reduces enemy's End of Turn Damage/Percent Cut duration by 5 turns.",
+                    "Level 4: Adds 15% of this character's base ATK to the supported character's base ATK, boosts the supported character's ATK by 1.5x against Bartolomeo and when the supported character hits a PERFECT, reduces enemy's End of Turn Damage/Percent Cut duration by 5 turns.",
+                    "Level 5: Adds 20% of this character's base ATK to the supported character's base ATK, boosts the supported character's ATK by 1.5x against Bartolomeo and when the supported character hits a PERFECT, reduces enemy's End of Turn Damage/Percent Cut duration by 5 turns."
                 ]
             }
         ]
     },
     "aliases": [
-        "",
+        "ダガマ 軍師の采配",
         "",
         "Support Dagama"
     ],
@@ -34,13 +34,13 @@
         "slots": 4,
         "level": 99,
         "exp": 4000000,
-        "minHP": null,
-        "minATK": null,
-        "minRCV": null,
+        "minHP": 798,
+        "minATK": 734,
+        "minRCV": 110,
         "maxHP": 2358,
         "maxATK": 1244,
         "maxRCV": 331,
-        "ability": null
+        "ability": 1
     },
     "cooldown": [
         10,
@@ -53,7 +53,8 @@
     },
     "flags": {
         "rr": 1,
-        "rro": 1
+        "rro": 1,
+        "lrr": 1
     },
     "drop": [],
     "manual": []

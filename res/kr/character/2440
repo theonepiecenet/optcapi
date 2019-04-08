@@ -1,8 +1,61 @@
 {
     "name": "사보, ‘밀짚모자 루피’의 형",
     "detail": {
-        "specialName": "계승된 사자의 의지 「불주먹」",
+        "captain": "격투형, 사격형, 자유형 캐릭터의 속성 일치 슬롯 출현율을 상승시키고, 체력을 1.25배, 공격력을 3배로 만들며, 이전 턴에 적을 1명이라도 격파했다면 공격력 배율이 상승한다(최대 5턴으로 공격력 약 4.25배)",
         "special": "1턴 동안 일당의 체인 계수가 3배로 고정되고, 격투형, 사격형, 자유형 캐릭터의 슬롯의 영향을 2.25배로 증폭시킨다",
-        "captain": "격투형, 사격형, 자유형 캐릭터의 속성 일치 슬롯 출현율을 상승시키고, 체력을 1.25배, 공격력을 3배로 만들며, 이전 턴에 적을 1명이라도 격파했다면 공격력 배율이 상승한다(최대 5턴으로 공격력 약 4.25배)"
-    }
+        "specialName": "계승된 사자의 의지 「불주먹」"
+    },
+    "aliases": [
+        "サボ “麦わらのルフィ”の兄",
+        "",
+        "Korea Sabo",
+        "V2 Sabo",
+        "V3 Sabo"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Fighter",
+            "Shooter"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 3,
+        "level": 70,
+        "exp": 1066998,
+        "minHP": 394,
+        "minATK": 337,
+        "minRCV": 71,
+        "maxHP": 1394,
+        "maxATK": 981,
+        "maxRCV": 232,
+        "ability": 1
+    },
+    "cooldown": [
+        21,
+        15
+    ],
+    "evolution": {
+        "evolution": 2441,
+        "evolvers": [
+            118,
+            86,
+            266,
+            302,
+            1180
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2440.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2440.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
 }
