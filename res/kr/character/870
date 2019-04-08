@@ -1,138 +1,243 @@
 {
-  "name": "천야차 도플라밍고",
-  "detail": {
-    "specialName": "블랙 나이트",
-    "special": "인접한 캐릭터의 슬롯을 속성이 일치하는 슬롯으로 바꾸고, 1턴 동안 슬롯의 영향이 두 배가 된다",
-    "captain": "PERFECT 이외의 공격을 할 때까지 야심형 캐릭터의 공격력이 3배가 된다.",
-    "specialNotes": "#{orb : 2x}",
-    "sailor": {
-      "base": "None",
-      "level1": "If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn",
-      "level2": "Makes [QCK] orbs beneficial for Driven characters"
+    "name": "천야차 도플라밍고",
+    "detail": {
+        "captain": "PERFECT 이외의 공격을 할 때까지 야심형 캐릭터의 공격력이 3배가 된다.",
+        "specialName": "블랙 나이트",
+        "special": "인접한 캐릭터의 슬롯을 속성이 일치하는 슬롯으로 바꾸고, 1턴 동안 슬롯의 영향이 두 배가 된다",
+        "specialNotes": "#{orb : 2x}",
+        "sailor": {
+            "base": "None",
+            "level1": "If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn",
+            "level2": "Makes [QCK] orbs beneficial for Driven characters"
+        },
+        "limit": [
+            {
+                "description": "Boosts base ATK by 5"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Acquire Potential 1: Critical Hit"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base HP by 10"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Acquire Potential 2: Pinch Healing"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base RCV by 35"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base ATK by 60"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Sailor Ability 2: Makes [QCK] orbs beneficial for Driven characters"
+            },
+            {
+                "description": "Boosts base HP by 100"
+            },
+            {
+                "description": "Boosts base HP by 130"
+            },
+            {
+                "description": "Acquire Potential 3: Slot Bind Self-reduction"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 20% chance to deal 3% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 50% chance to deal 7% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 70% chance to deal 10% of this character's attack in extra damage"
+                ]
+            },
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+                    "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+                    "Level 3: Reduces Slot Bind duration by 5 turns on this character",
+                    "Level 4: Reduces Slot Bind duration by 7 turns on this character",
+                    "Level 5: Reduces Slot Bind completely on this character"
+                ]
+            }
+        ]
     },
-    "limit": [
-      {
-        "description": "Boosts base ATK by 5"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Boosts base RCV by 5"
-      },
-      {
-        "description": "Acquire Potential 1: Critical Hit"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Boosts base HP by 10"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base ATK by 15"
-      },
-      {
-        "description": "Boosts base RCV by 15"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Acquire Potential 2: Pinch Healing"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: If this character has an [QCK] orb and you hit a PERFECT with him, keep his [QCK] orb for the next turn"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base RCV by 35"
-      },
-      {
-        "description": "Boosts base ATK by 50"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base ATK by 60"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base HP by 70"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Acquire Sailor Ability 2: Makes [QCK] orbs beneficial for Driven characters"
-      },
-      {
-        "description": "Boosts base HP by 100"
-      },
-      {
-        "description": "Boosts base HP by 130"
-      },
-      {
-        "description": "Acquire Potential 3: Slot Bind Self-reduction"
-      }
+    "aliases": [
+        "天夜叉ドフラミンゴ",
+        "",
+        "Doffy",
+        "Legend Doflamingo",
+        "Legend Doffy",
+        "Shichibukai"
     ],
-    "potential": [
-      {
-        "Name": "Critical Hit",
-        "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a 20% chance to deal 3% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Driven",
+            "Cerebral"
+        ],
+        "stars": 6,
+        "cost": 55,
+        "combo": 4,
+        "slots": 5,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": 1446,
+        "minATK": 780,
+        "minRCV": 230,
+        "maxHP": 2800,
+        "maxATK": 1530,
+        "maxRCV": 405,
+        "ability": 1
+    },
+    "cooldown": [
+        20,
+        15
+    ],
+    "evolution": {
+        "evolution": 2444,
+        "evolvers": [
+            "skullDoflamingo",
+            "skullDoflamingo",
+            "skullDoflamingo",
+            "skullDoflamingo",
+            "skullDoflamingo"
         ]
-      },
-      {
-        "Name": "Pinch Healing",
-        "description": [
-          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
-        ]
-      },
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      }
+    },
+    "evolve": {
+        "evolution": 870,
+        "evolvers": [
+            118,
+            85,
+            266,
+            301,
+            267
+        ],
+        "from": 869
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/0870.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/0870.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": [
+        {
+            "type": "Fortnight",
+            "name": "Archaeologist Nico Olvia Fortnight",
+            "thumb": 1049,
+            "data": [
+                "All Difficulties"
+            ]
+        },
+        {
+            "type": "Fortnight",
+            "name": "Full Defense! Buddha Sengoku! Fortnight",
+            "thumb": 1416,
+            "data": [
+                "All Difficulties"
+            ]
+        },
+        {
+            "type": "Special",
+            "name": "Rescue Ace Event - Kizaru",
+            "thumb": 1228,
+            "data": [
+                "Japan"
+            ]
+        },
+        {
+            "type": "Special",
+            "name": "Champion Challenge! 3rd Anniversary",
+            "thumb": 1588,
+            "data": [
+                "Donquixote Doflamingo"
+            ]
+        },
+        {
+            "type": "Special",
+            "name": "Champion Challenge! 4th Anniversary",
+            "thumb": 2076,
+            "data": [
+                "Fujitora"
+            ]
+        }
     ]
-  }
 }
