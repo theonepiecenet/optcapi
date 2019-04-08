@@ -1,134 +1,189 @@
 {
-  "name": "몽키 D. 루피, 쿵후왕으로의 길",
-  "detail": {
-    "specialName": "고무고무 거인의 라이플 「쿵후」",
-    "special": "적 전체에게 캐릭터의 공격력x120배의 무 속성 데미지를 주고, 인접한 슬롯을 속성 일치 슬롯으로 바꾸며, 2턴 동안 일당의 공격력을 1.75배로 만들고, 적 각각에 대하여 5656을 넘는 부분의 데미지를 초대폭 줄이며, PERFECT 타이밍이 상당히 쉬워진다",
-    "captain": "일당의 체력을 약간 상승시키고, PERFECT를 2연속, 5연속 달성 시 이후 캐릭터의 공격력이 3.5배, 약 4배로 상승한다",
-    "sailor": "GOOD, GREAT, PERFECT 타이밍 보너스에 캐릭터의 공격력x3배의 데미지가 가산된다",
-    "potential": [
-      {
-        "Name": "크리티컬 공격",
-        "description": [
-          "Level 1: 자신의 공격이 PERFECT일 경우 10% 확률로 자신의 최종 히트 데미지에 3%의 추가 데미지가 가산된다",
-          "Level 2: 자신의 공격이 PERFECT일 경우 20% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 3: 자신의 공격이 PERFECT일 경우 30% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 4: 자신의 공격이 PERFECT일 경우 40% 확률로 자신의 최종 히트 데미지에 5%의 추가 데미지가 가산된다",
-          "Level 5: 자신의 공격이 PERFECT일 경우 50% 확률로 자신의 최종 히트 데미지에 7%의 추가 데미지가 가산된다"
+    "name": "몽키 D. 루피, 쿵후왕으로의 길",
+    "detail": {
+        "captain": "일당의 체력을 약간 상승시키고, PERFECT를 2연속, 5연속 달성 시 이후 캐릭터의 공격력이 3.5배, 약 4배로 상승한다",
+        "special": "적 전체에게 캐릭터의 공격력x120배의 무 속성 데미지를 주고, 인접한 슬롯을 속성 일치 슬롯으로 바꾸며, 2턴 동안 일당의 공격력을 1.75배로 만들고, 적 각각에 대하여 5656을 넘는 부분의 데미지를 초대폭 줄이며, PERFECT 타이밍이 상당히 쉬워진다",
+        "sailor": "GOOD, GREAT, PERFECT 타이밍 보너스에 캐릭터의 공격력x3배의 데미지가 가산된다",
+        "sailorNotes": "#{beneficial}",
+        "specialName": "고무고무 거인의 라이플 「쿵후」",
+        "limit": [
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Acquire Potential 1: Critical Hit"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base HP by 35"
+            },
+            {
+                "description": "Boosts base HP by 35"
+            },
+            {
+                "description": "Acquire Potential 2: Slot Bind Self-reduction"
+            },
+            {
+                "description": "Boosts base HP by 45"
+            },
+            {
+                "description": "Boosts base HP by 45"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Boosts base HP by 55"
+            },
+            {
+                "description": "Boosts base HP by 55"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base RCV by 25"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [DEX] orbs “beneficial” for all characters"
+            },
+            {
+                "description": "Boosts base HP by 100"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Acquire Potential 3: Pinch Healing"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 50% chance to deal 7% of this character's attack in extra damage"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+                    "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+                    "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+                    "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+                    "Level 5: Reduces Slot Bind duration by 7 turns on this character"
+                ]
+            },
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 40% at the start of the turn, recovers 0.75x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 40% at the start of the turn, recovers 1.25x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 50% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 40% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.75배의 체력을 회복한다",
-          "Level 2: 남은 체력이 40% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다",
-          "Level 3: 남은 체력이 40% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.25배의 체력을 회복한다",
-          "Level 4: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1.5배의 체력을 회복한다",
-          "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x2배의 체력을 회복한다"
-        ]
-      }
+    },
+    "aliases": [
+        "",
+        "",
+        "Kung Fu Luffy",
+        "KFL",
+        "LINE Luffy",
+        "The Hero Global Needed",
+        "Another Legend Luffy"
     ],
-    "limit": [
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Acquire Potential 1: Critical Hit"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Boosts base ATK by 15"
-      },
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base ATK by 15"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base HP by 35"
-      },
-      {
-        "description": "Boosts base HP by 35"
-      },
-      {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
-      },
-      {
-        "description": "Boosts base HP by 45"
-      },
-      {
-        "description": "Boosts base HP by 45"
-      },
-      {
-        "description": "Boosts base ATK by 25"
-      },
-      {
-        "description": "Boosts base ATK by 25"
-      },
-      {
-        "description": "Boosts base HP by 55"
-      },
-      {
-        "description": "Boosts base HP by 55"
-      },
-      {
-        "description": "Boosts base RCV by 15"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base HP by 70"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base RCV by 25"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs “beneficial” for all characters"
-      },
-      {
-        "description": "Boosts base HP by 100"
-      },
-      {
-        "description": "Boosts base ATK by 40"
-      },
-      {
-        "description": "Acquire Potential 3: Pinch Healing"
-      }
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Fighter",
+            "Free Spirit"
+        ],
+        "stars": 6,
+        "cost": 55,
+        "combo": 4,
+        "slots": 5,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": 1510,
+        "minATK": 652,
+        "minRCV": 132,
+        "maxHP": 3000,
+        "maxATK": 1505,
+        "maxRCV": 265,
+        "ability": 1
+    },
+    "cooldown": [
+        20,
+        14
     ],
-    "sailorNotes": "#{beneficial}"
-  }
+    "evolve": {
+        "evolution": 3334,
+        "evolvers": [
+            118,
+            86,
+            266,
+            302,
+            267
+        ],
+        "from": 3333
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3334.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3334.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
 }

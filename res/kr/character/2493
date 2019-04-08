@@ -1,0 +1,54 @@
+{
+  "name": "Doctorine",
+  "detail": {
+    "captain": "Boosts ATK and RCV of Free Spirit characters by 1.25x.",
+    "special": "Reduces Bind duration by 3 turns and makes [RCV] orbs beneficial for Free Spirit characters for 1 turn.",
+    "specialName": "Life Expectancy Declaration",
+    "specialNotes": "#{beneficial}"
+  },
+  "aliases": [
+    "ドクトリーヌ",
+    "",
+    "Kureha"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Crebral"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": 5,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "minHP": 572,
+    "minATK": 290,
+    "minRCV": 64,
+    "maxHP": 1430,
+    "maxATK": 725,
+    "maxRCV": 160,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    11
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2493.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2493.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Miracle Cherry Blossoms Return Fortnight",
+      "thumb": 2491,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

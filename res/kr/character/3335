@@ -1,19 +1,79 @@
 {
-  "name": "크로커다일&다즈, 다시 일어난 두 사람",
-  "detail": {
-    "specialName": "초연격의 모래와 칼",
-    "special": "적 1명의 HP를 10% 줄이며, 1턴 동안 받는 데미지를 50% 감소시키고, 자신의 슬롯을 속성 일치 슬롯으로 바꾸며, 1턴 동안 [STR]과 [DEX]의 공격력을 1.5배로 만들고, 2턴 동안 ‘크로커다일&다즈’가 된다",
-    "captain": {
-      "character1": "[STR]과 [DEX]의 공격력을 평상시 2배, 슬롯 일치 시엔 2.75배로 만들고, [STR]과 [DEX]은 [DEX][TND] 슬롯도 [유리] 슬롯으로 취급한다",
-      "character2": "[STR]과 [DEX]의 공격력을 평상시 2.5배로 만들고, 받는 데미지를 10% 줄인다",
-      "combined": "[STR]과 [DEX]의 공격력을 평상시 2.5배, 슬롯 일치 시엔 2.75배로 만들고, [STR]과 [DEX]은 [STR][DEX][RCV][TND] 슬롯도 [유리] 슬롯으로 취급하며 받는 데미지를 20% 줄인다"
+    "name": "크로커다일&다즈, 다시 일어난 두 사람",
+    "detail": {
+        "captain": {
+            "character1": "[STR]과 [DEX]의 공격력을 평상시 2배, 슬롯 일치 시엔 2.75배로 만들고, [STR]과 [DEX]은 [DEX][TND] 슬롯도 [유리] 슬롯으로 취급한다",
+            "character2": "[STR]과 [DEX]의 공격력을 평상시 2.5배로 만들고, 받는 데미지를 10% 줄인다",
+            "combined": "[STR]과 [DEX]의 공격력을 평상시 2.5배, 슬롯 일치 시엔 2.75배로 만들고, [STR]과 [DEX]은 [STR][DEX][RCV][TND] 슬롯도 [유리] 슬롯으로 취급하며 받는 데미지를 20% 줄인다"
+        },
+        "captainNotes": "#{beneficial}",
+        "special": "적 1명의 HP를 10% 줄이며, 1턴 동안 받는 데미지를 50% 감소시키고, 자신의 슬롯을 속성 일치 슬롯으로 바꾸며, 1턴 동안 [STR]과 [DEX]의 공격력을 1.5배로 만들고, 2턴 동안 ‘크로커다일&다즈’가 된다",
+        "swap": "When Change is activated, randomizes all non-Matching orbs, including [BLOCK] orbs, reduces Bind duration by 1 turn",
+        "specialName": "초연격의 모래와 칼",
+        "sailor": {
+            "character1": "[DEX]의 기본 능력치가 30 상승한다",
+            "character2": "[STR]의 기본 능력치가 30 상승한다",
+            "combined": "[STR]과 [DEX]의 기본 능력치가 50 상승한다"
+        }
     },
-    "sailor": {
-      "character1": "[DEX]의 기본 능력치가 30 상승한다",
-      "character2": "[STR]의 기본 능력치가 30 상승한다",
-      "combined": "[STR]과 [DEX]의 기본 능력치가 50 상승한다"
+    "aliases": [
+        "",
+        "",
+        "Crocodile&Daz",
+        "Crocodile and Daz",
+        "Crocodile Daz",
+        "CrocodileDaz",
+        "Daz&Crocodile",
+        "Daz and Crocodile",
+        "Daz Crocodile",
+        "DazCrocodile",
+        "Crocobones"
+    ],
+    "unit": {
+        "type": [
+            "DEX",
+            "STR"
+        ],
+        "class": [
+            [
+                "Striker",
+                "Driven"
+            ],
+            [
+                "Slasher",
+                "Cerebral"
+            ],
+            [
+                "Striker",
+                "Slasher"
+            ]
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 2000000,
+        "minHP": 250,
+        "minATK": 140,
+        "minRCV": 22,
+        "maxHP": 1895,
+        "maxATK": 1489,
+        "maxRCV": 216,
+        "ability": 1
     },
-    "specialNotes": "Change Action: When Change is activated, randomizes all non-matching orbs, including [BLOCK] orbs, reduces Bind duration by 1 turn",
-    "captainNotes": "#{beneficial}"
-  }
+    "cooldown": [
+        12,
+        12
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3335.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3335.png"
+    },
+    "flags": {
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
 }

@@ -138,7 +138,7 @@
         "potentialNotes": "#{enrage}"
     },
     "aliases": [
-        "",
+        "ビッグ・マム 食いわずらいの四皇",
         "",
         "Super Big Mom",
         "Mega Big Mom"
@@ -163,7 +163,10 @@
         "maxRCV": 0,
         "ability": 1
     },
-    "cooldown": null,
+    "cooldown": [
+        15,
+        10
+    ],
     "evolve": {
         "evolution": 2500,
         "evolvers": [

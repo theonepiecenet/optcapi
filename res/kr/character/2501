@@ -1,12 +1,15 @@
 {
-  "name": "상디, First Class Cook in Shining Armor",
+  "name": "Sanji, First Class Cook in Shining Armor",
   "detail": {
-    "specialName": "Chivalrous Kick",
-    "special": "Reduces any damage received above 6,000 HP by ?% for 1 turn and changes all orbs, including [BLOCK] orbs, to [QCK] orbs. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, amplifies the effects of orbs for [STR] and [QCK] characters by 2x for 2 turns, by 1.75x for 2 turns otherwise",
-    "captain": "Boosts ATK of [STR] and [QCK] characters by 2.75x, their HP by 1.3x, lowers chances of getting [PSY] orbs, makes [STR] and [QCK] orbs \"beneficial\" for [STR] and [QCK] characters. If there is a [STR], [QCK] and [PSY] character in your crew, boosts chain multiplier by 1.5x.",
-    "sailor": "Not Translated",
+    "captain": "Boosts ATK of [STR] and [QCK] characters by 2.75x, their HP by 1.3x, lowers chances of getting [PSY] orbs, makes [STR] and [QCK] orbs beneficial for [STR] and [QCK] characters. If there is a [STR], [QCK] and [PSY] character in your crew, boosts chain multiplier by 1.5x.",
     "captainNotes": "#{beneficial}",
+    "special": "Reduces any damage received above 6,000 HP by ?% for 1 turn and changes all orbs, including [BLOCK] orbs, to [QCK] orbs. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, amplifies the effects of orbs for [STR] and [QCK] characters by 2x for 2 turns, by 1.75x for 2 turns otherwise.",
+    "sailor": {
+      "base": "Changes all orbs into [RCV] orbs at the start of the fight",
+      "level1": "Makes [TND] orbs beneficial for all characters"
+    },
     "sailorNotes": "#{beneficial}",
+    "specialName": "Chivalrous Kick",
     "limit": [
       {
         "description": "Boosts base ATK by 25"
@@ -76,5 +79,38 @@
         ]
       }
     ]
-  }
+  },
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 1241,
+    "minATK": 594,
+    "minRCV": 134,
+    "maxHP": 3025,
+    "maxATK": 1389,
+    "maxRCV": 252,
+    "ability": 1
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2501.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2501.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

@@ -8,7 +8,7 @@
         },
         "captainNotes": "#{beneficial}",
         "special": "봉쇄, 필살기 봉쇄, 공격력 감소 상태를 2턴 회복하고, 2턴 동안 ‘샹크스&미호크’가 된다. 필살기 발동 시 체력이 50% 이하일 경우 적 전체의 공격을 2턴 지연시키고, 2턴 동안 지연 중인 적에게 주는 데미지가 1.75배가 된다",
-        "specialNotes": "Change Action: When Change is activated, boosts chances of getting [QCK], [INT] and [RCV] orbs for 1 turn and randomizes all non-matching orbs",
+        "swap": "When Change is activated, boosts chances of getting [QCK], [INT] and [RCV] orbs for 1 turn and randomizes all non-Matching orbs",
         "specialName": "새로운 시대를 향한 환희의 연회",
         "sailor": {
             "character1": "[QCK]의 기본 공격력이 50 상승한다",
@@ -67,7 +67,7 @@
         15
     ],
     "evolution": {
-        "evolution": 2513,
+        "evolution": 3342,
         "evolvers": [
             118,
             96,
@@ -88,7 +88,7 @@
         {
             "type": "Raid",
             "name": "Showdown!! Shanks & Mihawk Raid",
-            "thumb": 2513,
+            "thumb": 3342,
             "data": [
                 "Expert",
                 "Master",

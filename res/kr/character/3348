@@ -1,0 +1,60 @@
+{
+    "name": "네펠타리 비비, Wake of an Endless Dream - Pirate Queen",
+    "detail": {
+        "captain": "Boosts ATK of Slasher and Striker characters by 1.75x and their RCV by 1.5x. Boosts EXP gained by 1.5x",
+        "special": "Reduces crew's current HP by 90%, cuts the current HP of one enemy by 10% that will ignore damage negating abilities and barriers, changes top and bottom row [STR], [DEX], [QCK], [PSY] and [INT] orbs into Matching orbs and amplifies the effect of orbs of all characters by 1.75x for 2 turns. If your Captain is a Slasher or Striker character, removes enemies' End of Turn Damage/Percent Cut Buffs duration completely",
+        "specialName": "Peacock String Slasher",
+        "sailor": "Boosts base ATK of top row characters by 60"
+    },
+    "aliases": [
+        "",
+        "",
+        "Log Vivi"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Slasher",
+            "Striker"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 5,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 813,
+        "minATK": 520,
+        "minRCV": 213,
+        "maxHP": 2119,
+        "maxATK": 1321,
+        "maxRCV": 388,
+        "ability": 1
+    },
+    "cooldown": [
+        14,
+        14
+    ],
+    "evolve": {
+        "evolution": 3348,
+        "evolvers": [
+            117,
+            83,
+            86,
+            302,
+            102
+        ],
+        "from": 3347
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3348.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3348.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
+}
