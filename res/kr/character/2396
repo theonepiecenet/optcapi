@@ -1,7 +1,7 @@
 {
     "name": "상디&조로, Warriors Possessing the Emperor's Soul",
     "aliases": [
-        "",
+        "サンジ＆ゾロ 皇帝（エンペラー）の魂持つ戦士たち",
         "",
         "Sanji",
         "Roronoa Zoro"
@@ -21,15 +21,18 @@
         "minHP": 332,
         "minATK": 220,
         "minRCV": 15,
-        "maxHP": null,
+        "maxHP": 1310,
         "maxATK": 710,
         "maxRCV": 40,
-        "ability": null
+        "ability": 1
     },
     "cooldown": null,
     "evolution": {
         "evolution": 2398,
-        "evolvers": []
+        "evolvers": [
+            2395,
+            2397
+        ]
     },
     "evolve": [],
     "image": {

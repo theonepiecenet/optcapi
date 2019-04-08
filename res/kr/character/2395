@@ -1,7 +1,7 @@
 {
     "name": "쵸파&프랑키, Warriors Possessing the Emperor's Soul",
     "aliases": [
-        "",
+        "チョッパー＆フランキー 皇帝（エンペラー）の魂持つ戦士たち",
         "",
         "Tony Tony Chopper",
         "Franky"
@@ -18,15 +18,18 @@
         "minHP": 351,
         "minATK": 199,
         "minRCV": 20,
-        "maxHP": null,
+        "maxHP": 1410,
         "maxATK": 682,
         "maxRCV": 55,
-        "ability": null
+        "ability": 1
     },
     "cooldown": null,
     "evolution": {
         "evolution": 2398,
-        "evolvers": []
+        "evolvers": [
+            2396,
+            2397
+        ]
     },
     "evolve": [],
     "image": {

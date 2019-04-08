@@ -1,136 +1,136 @@
 {
-    "name": "나미, 황야의 도둑 고양이",
-    "detail": {
-        "captain": "받는 데미지를 10% 감소시키고, 공격 시작 전 남은 체력이 많을수록 사격형과 타격형 캐릭터의 공격력이 상승한다(최대 2.75배)",
-        "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : ? : 2.75}",
-        "special": "일당의 마비, 필살기 봉쇄 상태를 3턴 회복하고, 필살기 발동 시 일당의 체력이 80% 이상일 경우, 일당의 속성 슬롯을 속성 일치 슬롯으로 바꾼다",
-        "specialName": "유혹의 건 플레이",
-        "sailor": {
-            "base": "Reduces Paralysis duration on this character by 3 turns",
-            "level1": "Reduces Silence duration on this character by 3 turns"
-        },
-        "sailorNotes": "#{silence}",
-        "limit": [
-            {
-                "description": "Boosts base HP by 20"
-            },
-            {
-                "description": "Boosts base HP by 20"
-            },
-            {
-                "description": "Boosts base ATK by 20"
-            },
-            {
-                "description": "Acquire Potential 1: Pinch Healing"
-            },
-            {
-                "description": "Boosts base ATK by 20"
-            },
-            {
-                "description": "Boosts base ATK by 30"
-            },
-            {
-                "description": "Boosts base RCV by 20"
-            },
-            {
-                "description": "Boosts base HP by 40"
-            },
-            {
-                "description": "Boosts base RCV by 30"
-            },
-            {
-                "description": "Boosts base HP by 50"
-            },
-            {
-                "description": "Boosts base ATK by 30"
-            },
-            {
-                "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 3 turns"
-            },
-            {
-                "description": "Acquire 1 additional Socket slot"
-            },
-            {
-                "description": "Boosts base HP by 70"
-            },
-            {
-                "description": "Acquire Potential 2: Slot Bind Self-reduction"
-            }
-        ],
-        "potential": [
-            {
-                "Name": "Pinch Healing",
-                "description": [
-                    "Level 1: If HP is below 30% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 2: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 3: If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 4: If HP is below 40% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
-                ]
-            },
-            {
-                "Name": "Slot Bind Self-reduction",
-                "description": [
-                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-                    "Level 2: Reduces Slot Bind duration by 3 turns on this character",
-                    "Level 3: Reduces Slot Bind duration by 5 turns on this character",
-                    "Level 4: Reduces Slot Bind duration by 7 turns on this character",
-                    "Level 5: Reduces Slot Bind duration by 10 turns on this character"
-                ]
-            }
+  "name": "Nami, Cat Burgular on the Prairie",
+  "detail": {
+    "captain": "Reduces damage received by 20% and boosts ATK of Shooter and Striker characters proportionally to the crew's current HP, by 2.75x at max",
+    "captainNotes": "#{captainProportional : higher : ? + ? * ((remaining HP) / (total HP)) : ? : 2.75}",
+    "special": "Reduces Paralysis and Silence duration by 3 turns. if HP is above 80% at the time the special is activated, changes [STR], [QCK], [DEX], [PSY] and [INT] orbs into Matching orbs",
+    "specialName": "Seductive Gun Play",
+    "sailor": {
+      "base": "Reduces Paralysis duration on this character by 3 turns",
+      "level1": "Reduces Silence duration on this character by 3 turns"
+    },
+    "sailorNotes": "#{silence}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 3 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 30% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 40% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
-    },
-    "aliases": [
-        "ナミ 荒野の泥棒猫",
-        "",
-        "World Journey Nami",
-        "Cowboy Nami"
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "ナミ 荒野の泥棒猫",
+    "",
+    "World Journey Nami",
+    "Cowboy Nami"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Striker"
     ],
-    "unit": {
-        "type": "INT",
-        "class": [
-            "Shooter",
-            "Striker"
-        ],
-        "stars": 5,
-        "cost": 30,
-        "combo": 4,
-        "slots": 4,
-        "level": 99,
-        "exp": 4000000,
-        "minHP": 1191,
-        "minATK": 711,
-        "minRCV": 200,
-        "maxHP": 2098,
-        "maxATK": 1289,
-        "maxRCV": 373,
-        "ability": 1
-    },
-    "cooldown": [
-        12,
-        12
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 1191,
+    "minATK": 711,
+    "minRCV": 200,
+    "maxHP": 2098,
+    "maxATK": 1289,
+    "maxRCV": 373,
+    "ability": 1
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": {
+    "evolution": 2412,
+    "evolvers": [
+      118,
+      88,
+      99,
+      304,
+      104
     ],
-    "evolve": {
-        "evolution": 2412,
-        "evolvers": [
-            118,
-            88,
-            99,
-            304,
-            104
-        ],
-        "from": 2411
-    },
-    "image": {
-        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2412.png",
-        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2412.png"
-    },
-    "flags": {
-        "rr": 1,
-        "rro": 1,
-        "lrr": 1,
-        "global": 1
-    },
-    "drop": [],
-    "manual": []
+    "from": 2411
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2412.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2412.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
 }

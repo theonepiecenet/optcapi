@@ -1,8 +1,53 @@
 {
-  "name": "Homies",
-  "detail": {
-    "specialName": "Deceiving Mimicry",
-    "special": "Boosts chances of getting [RCV] orbs for 2 turns",
-    "captain": "Boosts ATK of [PSY] characters by 1.5x"
-  }
+    "name": "Homies",
+    "detail": {
+        "captain": "Boosts ATK of [PSY] characters by 1.5x",
+        "special": "Boosts chances of getting [RCV] orbs for 2 turns",
+        "specialName": "Deceiving Mimicry"
+    },
+    "aliases": [
+        "ホーミーズ",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": "Free Spirit",
+        "stars": 3,
+        "cost": 15,
+        "combo": 4,
+        "slots": 2,
+        "level": 70,
+        "exp": 355666,
+        "minHP": 366,
+        "minATK": 281,
+        "minRCV": 91,
+        "maxHP": 566,
+        "maxATK": 400,
+        "maxRCV": 412,
+        "ability": 1
+    },
+    "cooldown": [
+        12,
+        9
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2255.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2255.png"
+    },
+    "flags": {
+        "global": 1
+    },
+    "drop": [
+        {
+            "type": "Fortnight",
+            "name": "Lets Play in The Seducing Woods Fortnight",
+            "thumb": 2253,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
 }
