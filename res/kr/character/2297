@@ -1,10 +1,10 @@
 {
-    "name": "페로나 고스트 너스, Halloween Midnight Parade",
+    "name": "페로나, 고스트 너스 Halloween Midnight Parade",
     "detail": {
-        "specialName": "Inject Hollow",
-        "special": "Reduces Special Cooldown of your right column by 1 turn, reduces enemy Damage Nullification duration by 1 turn and recovers 15x character's RCV in HP.",
-        "captain": "Boosts ATK of Driven characters by 1.5x and their RCV by 1.2x",
-        "sailor": "Restores her own special cooldown by 2 turns when it is rewinded",
+        "specialName": "인젝트 홀로우",
+        "special": "우측 캐릭터의 필살기 턴을 1턴 단축하고, 적 전체에게 걸려 있는 데미지 무효 상태를 1턴 줄이며, 캐릭터의 회복력x15배의 체력을 회복한다",
+        "captain": "야심형 캐릭터의 공격력을 1.5배, 회복력을 1.2배로 만든다",
+        "sailor": "자신의 필살기 턴 리버스를 2턴 회복한다",
         "sailorNotes": "#{rewind : 2}"
     }
 }
