@@ -1,0 +1,56 @@
+{
+  "name": "Charlotte Linlin, Big Spring Tea Party",
+  "detail": {
+    "captain": "Boosts ATK of characters with cost 40 or less by 3x and their HP by 1.2x. If you use \"Life or Sakura Mochi!?\" on this Charlotte Linlin boosts ATK of characters with cost 40 or less by 3.5x instead and reduce damage received by 15% for 3 turns.",
+    "special": "Recovers 3,450 HP and boosts ATK of Striker and Driven characters by 1.75x for 2 turns. If there are 3 enemies or less on the stage when the special is activated, reduces crew's ATK DOWN duration by 7 turns, otherwise if there are 4 enemies or more on the stage when the special is activated, reduces Increase Damage Taken duration by 7 turns.",
+    "specialName": "Life or Sakura Mochi!?"
+  },
+  "aliases": [
+    "",
+    "",
+    "Sakura Linlin",
+    "Sakura Big Mom",
+    "Secret Big Mom",
+    "Limited Big Mom"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": null,
+    "minHP": 1501,
+    "minATK": 888,
+    "minRCV": 102,
+    "maxHP": 2901,
+    "maxATK": 1491,
+    "maxRCV": 190,
+    "ability": null
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": {
+    "evolution": 2498,
+    "evolvers": [],
+    "from": 2497
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2498.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2498.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

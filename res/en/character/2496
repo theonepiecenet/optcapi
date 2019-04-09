@@ -1,0 +1,55 @@
+{
+  "name": "Charlotte Pudding, Melty Cherry Blossom",
+  "detail": {
+    "captain": "Boosts ATK Striker and Cerebral characters by 2.75x and recovers 1.5x character's RCV in HP at the end of each turn.",
+    "special": "Reduces Special Cooldown of all characters by 1 turn, changes adjacent orbs into Matching Orbs, reduces enemies Percent Damage Reduction duration by 5 turns and reduces Burn duration by 5 turns.",
+    "specialName": "Cherry Blossoms Falling onto the Tea Party"
+  },
+  "aliases": [
+    "",
+    "",
+    "Sakura Pudding",
+    "Secret Pudding",
+    "Limited Pudding"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": null,
+    "minHP": 1002,
+    "minATK": 781,
+    "minRCV": 260,
+    "maxHP": 1992,
+    "maxATK": 1198,
+    "maxRCV": 472,
+    "ability": null
+  },
+  "cooldown": [
+    11,
+    11
+  ],
+  "evolve": {
+    "evolution": 2496,
+    "evolvers": [],
+    "from": 2495
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2496.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2496.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}
