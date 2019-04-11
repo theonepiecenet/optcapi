@@ -1,12 +1,12 @@
 {
   "name": "Charlotte Linlin, Spring Tea Party",
   "detail": {
-    "captain": "Boosts ATK of characters with cost 40 or less by 2.5x and their HP by 1.2x. If you use \"Life or Sakura Mochi!?\" on this Charlotte Linlin boosts ATK of characters with cost 40 or less by 3x instead and reduce damage received by ?% for 3 turns.",
+    "captain": "Boosts ATK of characters with cost 40 or less by 2.5x and their HP by 1.2x. If you use \"Life or Sakura Mochi!?\" on this Charlotte Linlin boosts ATK of characters with cost 40 or less by 3x instead for 3 turns.",
     "special": "Recovers 3,450 HP and boosts ATK of Striker and Driven characters by 1.75x for 2 turns. If there are 3 enemies or less on the stage when the special is activated, reduces crew's ATK DOWN duration by 7 turns, otherwise if there are 4 enemies or more on the stage when the special is activated, reduces Increase Damage Taken duration by 7 turns.",
     "specialName": "Life or Sakura Mochi!?"
   },
   "aliases": [
-    "",
+    "シャーロット・リンリン スプリング・ティーパーティー",
     "",
     "Sakura Linlin",
     "Sakura Big Mom",
@@ -21,17 +21,17 @@
     ],
     "stars": 4,
     "cost": 20,
-    "combo": null,
-    "slots": 5,
-    "level": null,
-    "exp": null,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": 1704,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 802,
+    "minATK": 564,
+    "minRCV": 70,
+    "maxHP": 1701,
     "maxATK": 921,
     "maxRCV": 130,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     12,
@@ -39,7 +39,13 @@
   ],
   "evolution": {
     "evolution": 2498,
-    "evolvers": []
+    "evolvers": [
+      118,
+      85,
+      96,
+      301,
+      101
+    ]
   },
   "evolve": [],
   "image": {

@@ -6,7 +6,7 @@
     "specialName": "Cherry Blossoms Falling onto the Tea Party"
   },
   "aliases": [
-    "",
+    "シャーロット・プリン メルティ・チェリーブロッサム",
     "",
     "Sakura Pudding",
     "Secret Pudding",
@@ -23,14 +23,14 @@
     "combo": 4,
     "slots": 5,
     "level": 99,
-    "exp": null,
+    "exp": 4000000,
     "minHP": 1002,
     "minATK": 781,
     "minRCV": 260,
     "maxHP": 1992,
     "maxATK": 1198,
     "maxRCV": 472,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     11,
@@ -38,7 +38,13 @@
   ],
   "evolve": {
     "evolution": 2496,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      87,
+      98,
+      303,
+      103
+    ],
     "from": 2495
   },
   "image": {
