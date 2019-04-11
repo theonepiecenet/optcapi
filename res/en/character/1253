@@ -42,20 +42,23 @@
   "drop": [
     {
       "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
+      "name": "Flying Spearman",
+      "thumb": 1253,
       "data": [
+        "Exebition",
         "Underground"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
-        "Exhibition"
       ]
     }
   ],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Flying Spearman",
+      "thumb": 1253,
+      "data": [
+        "Exebition",
+        "Underground"
+      ]
+    }
+  ]
 }
