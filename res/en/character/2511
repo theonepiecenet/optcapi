@@ -1,57 +1,59 @@
 {
-  "name": "Garp the Fist [Neo]",
+  "name": "Gecko Moria [EX], Lord of Florian Triangle",
   "detail": {
-    "special": "Randomizes all orbs into either [STR] or [RCV] orbs, reduces Bind and Despair duration by 1 turn and boosts ATK of Fighter characters by 1.75x for 1 turn.",
-    "specialName": "Meteor Fist Shower [Neo]",
-    "captain": "Boosts ATK Fighter characters by 2.25x and their HP by 1.5x"
+    "captain": "Boosts ATK of Slasher characters by 2x",
+    "special": "Changes own orb, including [BLOCK] orbs, into [STR], recovers 5% of crew's MAX HP and deals 300,000 Fixed damage to one enemy",
+    "specialName": "Horn Blade Shadow [EX]"
   },
   "aliases": [
     "",
     "",
-    "Neo Garp"
+    "EX Moria",
+    "Kai Moria",
+    "Neo Moria"
   ],
   "unit": {
     "type": "STR",
     "class": [
-      "Fighter",
-      "Powerhouse"
+      "Slasher",
+      "Driven"
     ],
-    "stars": 5,
-    "cost": 50,
+    "stars": 4,
+    "cost": 25,
     "combo": 4,
-    "slots": 4,
-    "level": 99,
-    "exp": 5000000,
-    "minHP": 1437,
-    "minATK": 785,
-    "minRCV": 105,
-    "maxHP": 2852,
-    "maxATK": 1491,
-    "maxRCV": 225,
+    "slots": null,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
     "ability": null
   },
   "cooldown": [
-    28,
-    14
+    null,
+    9
   ],
-  "evolve": {
-    "evolution": 2511,
-    "evolvers": [
-      118,
-      84,
-      300,
-      100,
-      266
-    ],
-    "from": 2510
+  "evolution": {
+    "evolution": 2512,
+    "evolvers": []
   },
+  "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2511.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2511.png"
   },
-  "flags": {
-    "global": 1
-  },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum",
+      "thumb": 779,
+      "data": [
+        "EX"
+      ]
+    }
+  ],
   "manual": []
 }

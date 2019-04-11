@@ -1,100 +1,90 @@
 {
-  "name": "Shanks and Mihawk, Strong Swordsman's Reunion",
+  "name": "Gecko Moria [EX], Ruler of Florian Triangle",
   "detail": {
-    "captain": {
-      "character1": "Boosts ATK of Slasher characters by 2x and reduces damage received by 10%",
-      "character2": "Boosts ATK of Slasher Characters by 2.25x and makes [TND] and [RCV] orbs beneficial for Slasher characters",
-      "combined": "Boosts ATK of Slasher Characters by 3x, reduces damage received by 20% and makes [TND] and [RCV] orbs beneficial for Slasher characters"
-    },
-    "captainNotes": "#{beneficial}",
-    "special": "Reduces Bind, Silence and ATK DOWN duration by 2 turns. If HP is below 50% at the time the special is activated, delays all enemies for 2 turns and boosts ATK against delayed enemies by 1.75x for 2 turns and becomes Shanks & Mihawk for 2 turns",
-    "swap": "When Change is activated, boosts chances of getting [QCK], [INT] and [RCV] orbs for 1 turn and randomizes all non-Matching orbs",
-    "specialName": "A Feast for the New Age",
+    "captain": "Boosts ATK of Slasher characters by 2.25x, recovers 3x character's RCV in HP at the end of each turn",
+    "special": "Changes own orb, including [BLOCK] orbs, into [STR], recovers 5% of crew's MAX HP and deals 300,000 Fixed damage to one enemy",
+    "specialName": "Horn Blade Shadow [EX]",
     "sailor": {
-      "character1": "Boosts base ATK of [QCK] characters by 50",
-      "character2": "Boosts base ATK of [INT] characters by 50",
-      "combined": "Boosts base ATK of [QCK] and [INT] characters by 50"
-    }
+      "base": "None",
+      "level1": "If your Captain is a Slasher character, boosts own base ATK by 100",
+      "level2": "Makes [DEX] and [QCK] orbs beneficial for this character"
+    },
+    "specialNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turn",
+          "Level 5: Reduces No Healing duration by ? turn"
+        ]
+      },
+      {
+        "Name": "Double Special Activation",
+        "description": [
+          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+          "Level 5: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Perona, Oars and Ryuma",
+        "description": [
+          "Level 1: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "",
     "",
-    "Shanks&Mihawk",
-    "Shanks and Mihawk",
-    "Shanks Mihawk",
-    "ShanksMihawk",
-    "Mihawk&Shanks",
-    "Mihawk and Shanks",
-    "Mihawk Shanks",
-    "MihawkShanks",
-    "Mishanks"
+    "EX Moria",
+    "Kai Moria",
+    "Neo Moria"
   ],
   "unit": {
-    "type": [
-      "QCK",
-      "INT"
-    ],
+    "type": "STR",
     "class": [
-      [
-        "Slasher",
-        "Free Spirit"
-      ],
-      [
-        "Slasher",
-        "Cerebral"
-      ],
-      [
-        "Slasher",
-        "Free Spirit"
-      ]
+      "Slasher",
+      "Driven"
     ],
-    "stars": 4,
-    "cost": 30,
+    "stars": 5,
+    "cost": 40,
     "combo": 4,
-    "slots": 2,
-    "level": 70,
-    "exp": 1066998,
-    "minHP": 882,
-    "minATK": 452,
-    "minRCV": 120,
-    "maxHP": 1512,
-    "maxATK": 933,
-    "maxRCV": 244,
-    "ability": 1
+    "slots": null,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
   },
   "cooldown": [
-    30,
-    15
+    null,
+    9
   ],
-  "evolution": {
-    "evolution": 2513,
-    "evolvers": [
-      118,
-      96,
-      1180,
-      83,
-      104
-    ]
+  "evolve": {
+    "evolution": 2512,
+    "evolvers": [],
+    "from": 2511
   },
-  "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2512.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2512.png"
   },
-  "flags": {
-    "global": 1
-  },
-  "drop": [
-    {
-      "type": "Raid",
-      "name": "Showdown!! Shanks & Mihawk Raid",
-      "thumb": 2513,
-      "data": [
-        "Expert",
-        "Master",
-        "Ultimate"
-      ]
-    }
-  ],
+  "drop": [],
   "manual": []
 }
