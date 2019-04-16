@@ -1,106 +1,51 @@
 {
-  "name": "Sanji, First Class Cook in Shining Armor",
+  "name": "Koshiro, Young Swordsman's Teacher",
   "detail": {
-    "captain": "Boosts ATK of [STR] and [QCK] characters by 2.75x, their HP by 1.3x, lowers chances of getting [PSY] orbs, makes [STR] and [QCK] orbs beneficial for [STR] and [QCK] characters. If there is a [STR], [QCK] and [PSY] character in your crew, boosts chain multiplier by 1.5x.",
-    "captainNotes": "#{beneficial}",
-    "special": "Reduces any damage received above 6,000 HP by ?% for 1 turn and changes all orbs, including [BLOCK] orbs, to [QCK] orbs. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, amplifies the effects of orbs for [STR] and [QCK] characters by 2x for 2 turns, by 1.75x for 2 turns otherwise.",
-    "sailor": {
-      "base": "Changes all orbs into [RCV] orbs at the start of the fight",
-      "level1": "Makes [TND] orbs beneficial for all characters"
-    },
-    "sailorNotes": "#{beneficial}",
-    "specialName": "Chivalrous Kick",
-    "limit": [
+    "captain": "Boosts ATK and RCV of Slasher characters by 1.75x",
+    "special": "Reduces Special Cooldown of characters in the top row by 1 turn and reduces Bind and Despair duration by 3 turns.",
+    "specialName": "Slicing Straw Paper in the Air",
+    "support": [
       {
-        "description": "Boosts base ATK by 25"
-      },
-      {
-        "description": "Boosts base ATK by 25"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Acquire Potential 1: Slot Bind Self-reduction"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base RCV by 25"
-      },
-      {
-        "description": "Boosts base RCV by 25"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base HP by 60"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Boosts base ATK by 40"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [TND] orbs beneficial for all characters"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Acquire Potential 2: Pinch Healing"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "Slot Bind Self-reduction",
+        "Characters": "Zoro",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      },
-      {
-        "Name": "Pinch Healing",
-        "description": [
-          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "Level 1: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, reduces enemies' Increased Defense and Resilience Buffs duration by 1 turn and adds 0.1x to Chain multiplier for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, reduces enemies' Increased Defense and Resilience Buffs duration by 1 turn and adds 0.2x to Chain multiplier for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, reduces enemies' Increased Defense and Resilience Buffs duration by 2 turns and adds 0.3x to Chain multiplier for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, reduces enemies' Increased Defense and Resilience Buffs duration by 3 turns and adds 0.5x to Chain multiplier for 1 turn.",
+          "Level 5: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, reduces enemies' Increased Defense and Resilience Buffs duration by 4 turns and adds 0.7x to Chain multiplier for 1 turn."
         ]
       }
     ]
   },
+  "aliases": [
+    "",
+    "",
+    "Support Koshiro"
+  ],
   "unit": {
-    "type": "QCK",
+    "type": "INT",
     "class": [
-      "Fighter",
-      "Powerhouse"
+      "Slasher",
+      "Cerebral"
     ],
     "stars": 5,
-    "cost": 30,
+    "cost": 1,
     "combo": 4,
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": 1241,
-    "minATK": 594,
-    "minRCV": 134,
-    "maxHP": 3025,
-    "maxATK": 1389,
-    "maxRCV": 252,
-    "ability": 1
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 2028,
+    "maxATK": 1164,
+    "maxRCV": 364,
+    "ability": null
   },
-  "cooldown": null,
+  "cooldown": [
+    11,
+    11
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2501.png",
@@ -109,7 +54,7 @@
   "flags": {
     "rr": 1,
     "rro": 1,
-    "global": 1
+    "lrr": 1
   },
   "drop": [],
   "manual": []

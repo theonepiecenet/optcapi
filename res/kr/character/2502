@@ -1,54 +1,51 @@
 {
-  "name": "Monkey D. Luffy, Kung Fu Training",
+  "name": "Streusen, Musical Cooking",
   "detail": {
-    "captain": "Boosts ATK of all characters by 3.5x after the 2nd PERFECTs in a row, by 4x after the 5th PERFECTs in a row and boosts HP of all characters by 1.5x",
-    "special": "Deals 120x character's ATK in Typeless damage to all enemies, changes adjacent orbs into Matching Orbs, boosts ATK of all characters by 1.75x, reduces any damage received above 5,656 HP by 97% and makes PERFECTs easier to hit for 2 turns",
-    "sailor": "Adds 3x character's ATK as Additional Damage",
-    "specialName": "Gum-Gum Giant Rifle: Kung Fu"
+    "captain": "Boosts ATK of Slasher and Driven characters by 2x and their HP by 1.2x",
+    "special": "Randomizes all non-Matching orbs and recovers 20% of crew's MAX HP.",
+    "specialName": "Blessed Wedding Cake",
+    "support": [
+      {
+        "Characters": "Charlotte Linlin",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character their special, reduces crew's Increase Damage Taken duration by 1 turn and recovers 500 HP at the end of the turn for 2 turns.",
+          "Level 2: Once per an adventure, when the supported character their special, reduces crew's Increase Damage Taken duration by 2 turns and recovers 1,000 HP at the end of the turn for 2 turns.",
+          "Level 3: Once per an adventure, when the supported character their special, reduces crew's Increase Damage Taken duration by 3 turns and recovers 2,000 HP at the end of the turn for 2 turns.",
+          "Level 4: Once per an adventure, when the supported character their special, reduces crew's Increase Damage Taken duration by 4 turns and recovers 3,000 HP at the end of the turn for 3 turns.",
+          "Level 5: Once per an adventure, when the supported character their special, reduces crew's Increase Damage Taken duration by 5 turns and recovers 4,500 HP at the end of the turn for 3 turns."
+        ]
+      }
+    ]
   },
   "aliases": [
     "",
     "",
-    "Kung Fu Luffy",
-    "KFL",
-    "LINE Luffy",
-    "The Hero Global Needed",
-    "Another Legend Luffy"
+    "Support Streusen"
   ],
   "unit": {
-    "type": "DEX",
+    "type": "PSY",
     "class": [
-      "Fighter",
-      "Free Spirit"
+      "Slasher",
+      "Driven"
     ],
     "stars": 5,
-    "cost": 30,
+    "cost": 1,
     "combo": 4,
     "slots": 4,
-    "level": 70,
-    "exp": 1066998,
-    "minHP": 520,
-    "minATK": 256,
-    "minRCV": 66,
-    "maxHP": 1603,
-    "maxATK": 675,
-    "maxRCV": 146,
-    "ability": 1
+    "level": 99,
+    "exp": 4000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 2460,
+    "maxATK": 1287,
+    "maxRCV": 251,
+    "ability": null
   },
   "cooldown": [
-    20,
-    14
+    10,
+    10
   ],
-  "evolution": {
-    "evolution": 2503,
-    "evolvers": [
-      118,
-      86,
-      266,
-      302,
-      267
-    ]
-  },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2502.png",
@@ -57,7 +54,7 @@
   "flags": {
     "rr": 1,
     "rro": 1,
-    "global": 1
+    "lrr": 1
   },
   "drop": [],
   "manual": []

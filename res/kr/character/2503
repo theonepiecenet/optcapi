@@ -1,57 +1,66 @@
 {
-  "name": "Capone Bege",
-  "detail": {
-    "captain": "Boosts ATK of Shooter characters by ?x if HP is above 50% at the start of the turn, ?x otherwise and if you don't attack with him, reduces damage received by ?% for that turn.",
-    "special": "If there are 6 Shooter characters in your crew, boosts ATK of Shooter characters by 2x for 1 turn. If HP is below 50% at the time the special is activated, Recovers missing HP to 51% MAX HP.",
-    "specialName": "Manipulating the Castle's Interior",
-    "sailor": "Boosts base ATK, HP and RCV of Shooter characters by 30"
-  },
-  "aliases": [
-    "",
-    "",
-    ""
-  ],
-  "unit": {
-    "type": "STR",
-    "class": [
-      "Shooter",
-      "Driven"
+    "name": "Capone “Gang” Bege, Castle Man",
+    "detail": {
+        "captain": "Boosts ATK of Shooter characters by 2.5x if HP is above 50% at the start of the turn, 2x otherwise and if you don't attack with him, reduces damage received by 20% for that turn.",
+        "special": "If there are 6 Shooter characters in your crew, boosts ATK of Shooter characters by 2x for 1 turn. If HP is below 50% at the time the special is activated, Recovers missing HP to 51% MAX HP.",
+        "specialName": "Manipulating the Castle's Interior",
+        "sailor": "Boosts base ATK, HP and RCV of Shooter characters by 30"
+    },
+    "aliases": [
+        "カポネ・“ギャング”ベッジ 城人間",
+        "",
+        "Raid Capone"
     ],
-    "stars": 4,
-    "cost": 30,
-    "combo": null,
-    "slots": null,
-    "level": 70,
-    "exp": 1066998,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
-  },
-  "cooldown": null,
-  "evolution": {
-    "evolution": 2504,
-    "evolvers": []
-  },
-  "evolve": [],
-  "image": {
-    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2503.png",
-    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2503.png"
-  },
-  "drop": [
-    {
-      "type": "Raid",
-      "name": "Clash!! Capone Bege Raid",
-      "thumb": 2504,
-      "data": [
-        "Expert",
-        "Master",
-        "Ultimate"
-      ]
-    }
-  ],
-  "manual": []
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "stars": 4,
+        "cost": 30,
+        "combo": 6,
+        "slots": 2,
+        "level": 70,
+        "exp": 1066998,
+        "minHP": 567,
+        "minATK": 225,
+        "minRCV": 40,
+        "maxHP": 2100,
+        "maxATK": 678,
+        "maxRCV": 119,
+        "ability": 1
+    },
+    "cooldown": [
+        29,
+        15
+    ],
+    "evolution": {
+        "evolution": 2504,
+        "evolvers": [
+            118,
+            84,
+            266,
+            300,
+            100
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2503.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2503.png"
+    },
+    "drop": [
+        {
+            "type": "Raid",
+            "name": "Clash!! Capone Bege Raid",
+            "thumb": 2504,
+            "data": [
+                "Expert",
+                "Master",
+                "Ultimate"
+            ]
+        }
+    ],
+    "manual": []
 }
