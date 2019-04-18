@@ -1,98 +1,63 @@
 {
-  "name": "Admiral Sengoku and Vice Admiral Garp",
+  "name": "A O",
   "detail": {
-    "captain": {
-      "character1": "Boosts ATK of Fighter Characters by 2.25x and their HP by 1.2x and makes [INT] orbs beneficial for Fighter characters",
-      "character2": "Boosts ATK of Fighter Characters by 2x and their HP by 1.2x, but boosts his OWN attack by 2.5x and makes [DEX] orbs beneficial for Fighter characters",
-      "combined": "Boosts ATK of Fighter Characters by 3x and their HP by 1.2x, but boosts his OWN attack by 4x and makes [DEX], [INT], [RCV] and [TND] orbs beneficial for Fighter characters"
-    },
-    "captainNotes": "#{beneficial}",
-    "special": "Removes all positive buffs on your team and reduces Despair duration by 2 turns. Boosts ATK of Fighter characters by 1.75x for 1 turn and amplifies the effect of orbs by 1.75x for Fighter characters for 1 turn and becomes Sengoku & Garp for 3 turns",
-    "swap": "When Change is activated, boosts ATK of Fighter characters by 1.2x for 1 turn and changes their own orb into a Matching orb",
-    "specialName": "Twin Fists of Justice",
-    "sailor": {
-      "character1": "Boosts base ATK of all characters by 40 if your Captain is a Fighter character",
-      "character2": "Boosts base ATK of all characters by 40 if your Captain is a Fighter character",
-      "combined": "Boosts base ATK of all characters by 40 if your Captain is a Fighter character"
-    }
+    "captain": "Boosts ATK of [PSY] characters by 1.5x",
+    "special": "Changes [G], [BOMB] and [TND] orbs into [STR], [DEX], [QCK], [PSY] and [INT] orbs, reduces enemy Barrier duration by 1 turn and adds 0.5x to Chain multiplier for 1 turn.",
+    "specialName": "A.O. Slash",
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      }
+    ]
   },
   "aliases": [
     "",
     "",
-    "Sengoku&Garp",
-    "Sengoku and Garp",
-    "Sengoku Garp",
-    "SengokuGarp",
-    "Garp&Sengoku",
-    "Garp and Sengoku",
-    "Garp Sengoku",
-    "GarpSengoku"
+    "Limited A.O.",
+    "Secret A.O."
   ],
   "unit": {
-    "type": [
-      "INT",
-      "DEX"
-    ],
+    "type": "PSY",
     "class": [
-      [
-        "Fighter",
-        "Cerebral"
-      ],
-      [
-        "Fighter",
-        "Free Spirit"
-      ],
-      [
-        "Fighter",
-        "Cerebral"
-      ]
+      "Slasher",
+      "Powerhouse"
     ],
-    "stars": 4,
-    "cost": 30,
-    "combo": 4,
-    "slots": 2,
-    "level": 70,
-    "exp": 1066998,
-    "minHP": 312,
-    "minATK": 326,
-    "minRCV": 123,
-    "maxHP": 1546,
-    "maxATK": 906,
-    "maxRCV": 257,
-    "ability": 1
+    "stars": 5,
+    "cost": 20,
+    "combo": 6,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
   },
   "cooldown": [
-    31,
-    16
+    12,
+    12
   ],
-  "evolution": {
-    "evolution": 2507,
-    "evolvers": [
-      104,
-      102,
-      267,
-      1180,
-      118
-    ]
-  },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2506.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2506.png"
   },
   "flags": {
-    "global": 1
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
   },
-  "drop": [
-    {
-      "type": "Raid",
-      "name": "Clash!! Sengoku & Garp Raid",
-      "thumb": 2507,
-      "data": [
-        "Expert",
-        "Master"
-      ]
-    }
-  ],
+  "drop": [],
   "manual": []
 }

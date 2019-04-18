@@ -53,6 +53,16 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2513.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2513.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum EX Vs. Gecko Moria",
+      "thumb": 2512,
+      "data": [
+        "Chaos",
+        "Underground"
+      ]
+    }
+  ],
   "manual": []
 }
