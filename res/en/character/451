@@ -76,6 +76,18 @@
           "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Fighter Characters",
+        "description": [
+          "Level 1: Adds 6% of this character's base HP to the supported character's base HP.",
+          "Level 2: Adds 8% of this character's base HP to the supported character's base HP.",
+          "Level 3: Adds 10% of this character's base HP to the supported character's base HP.",
+          "Level 4: Adds 12% of this character's base HP to the supported character's base HP.",
+          "Level 5: Adds 15% of this character's base HP to the supported character's base HP."
+        ]
+      }
     ]
   },
   "aliases": [
