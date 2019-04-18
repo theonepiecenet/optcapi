@@ -78,6 +78,18 @@
           "Level 5: If HP is below 40% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Doflamingo Sugar and Vergo",
+        "description": [
+          "Level 1: Reduces damage received from [INT] characters by 1%. Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Reduces damage received from [INT] characters by 2%. Adds 8% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Reduces damage received from [INT] characters by 3%. Adds 12% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Reduces damage received from [INT] characters by 4%. Adds 15% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Reduces damage received from [INT] characters by 5%. Adds 20% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
     ]
   },
   "aliases": [
