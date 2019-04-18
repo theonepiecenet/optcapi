@@ -1,83 +1,83 @@
 {
-  "name": "빈스모크 저지, Germa 66 Commander",
-  "detail": {
-    "specialName": "Judge Special",
-    "special": "Reduces any damage received above 5,000 HP by ?% for 1 turn. If your Captain is a Powerhouse or Striker character, changes [G], [BLOCK] and [EMPTY] orbs into Matching orbs and boosts ATK of [STR] characters by 1.75x for 1 turn. If \"Judge Special\" is used again in the same turn the special is activated in, boosts ATK of [STR] characters by 2.25x for 1 turn.",
-    "captain": "Boosts ATK of [STR] characters by 3.5x and their HP by 1.2x and makes [QCK] orbs “beneficial” to all characters",
-    "sailor": [
-      "None",
-      "Boosts base ATK of [STR] characters by 50",
-      "If this character has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next turn"
-    ],
-    "potential": [
-      {
-        "Name": "Double Special Activation",
-        "description": [
-          "Level 1: Once per an adventure, reduce own Special Cooldown by ? turn after the first time this special is used",
-          "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
-          "Level 5: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
+    "name": "빈스모크 저지, 제르마 66의 총수",
+    "detail": {
+        "specialName": "복제 병사 방패",
+        "special": "1턴 동안 적 각각에 대해 5000을 넘는 부분의 데미지를 대폭 감소시킨다. 선장이 강인형 또는 타격형 캐릭터일 경우, 일당의 [BLOCK][G][EMPTY] 슬롯을 속성 일치 슬롯으로 바꾸며, 1턴 동안 [STR]의 공격력을 1.75배로 만들고, 같은 턴 내에 이미 ‘복제 병사 방패’를 사용했다면 2.25배로 만든다",
+        "captain": "[STR]의 공격력을 3.5배, 체력을 1.2배로 만들고, 일당은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다",
+        "sailor": [
+            "None",
+            "[STR]의 기본 능력치가 50 상승한다",
+            "If this character has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next turn"
+        ],
+        "potential": [
+            {
+                "Name": "Double Special Activation",
+                "description": [
+                    "Level 1: Once per an adventure, reduce own Special Cooldown by ? turn after the first time this special is used",
+                    "Level 2: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 3: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 4: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used",
+                    "Level 5: Once per an adventure, reduce own Special Cooldown by ? turns after the first time this special is used"
+                ]
+            },
+            {
+                "Name": "피격 시 공격력 상승",
+                "description": [
+                    "Level 1: 공격력 상승 : ?",
+                    "Level 2: 공격력 상승 : ?",
+                    "Level 3: 공격력 상승 : ?",
+                    "Level 4: 공격력 상승 : ?",
+                    "Level 5: 공격력 상승 : ?"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}",
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base RCV by 25"
+            },
+            {
+                "description": "Acquire Potential 1: Double Special Activation"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Boosts base HP by 90"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: If this character has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next turn"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Acquire Potential 2: Enrage"
+            }
         ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : ?",
-          "Level 2: 공격력 상승 : ?",
-          "Level 3: 공격력 상승 : ?",
-          "Level 4: 공격력 상승 : ?",
-          "Level 5: 공격력 상승 : ?"
-        ]
-      }
-    ],
-    "potentialNotes": "#{enrage}",
-    "limit": [
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base RCV by 15"
-      },
-      {
-        "description": "Boosts base RCV by 25"
-      },
-      {
-        "description": "Acquire Potential 1: Double Special Activation"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base HP by 60"
-      },
-      {
-        "description": "Boosts base HP by 90"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: If this character has a [STR] orb and you hit a PERFECT with him, keep his [STR] orb for the next turn"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Boosts base ATK by 15"
-      },
-      {
-        "description": "Boosts base ATK by 25"
-      },
-      {
-        "description": "Boosts base ATK by 50"
-      },
-      {
-        "description": "Acquire Potential 2: Enrage"
-      }
-    ]
-  }
+    }
 }
