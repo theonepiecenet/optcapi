@@ -39,7 +39,24 @@
     "global": 1,
     "rr": 1
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Impel Down",
+      "thumb": 1159,
+      "data": [
+        "dropID"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Chief Jailer Sadie Fortnight",
+      "thumb": 550,
+      "data": [
+        "dropID"
+      ]
+    }
+  ],
   "manual": [
     {
       "type": "Fortnight",

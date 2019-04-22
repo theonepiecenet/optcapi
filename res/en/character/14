@@ -73,7 +73,24 @@
     "global": 1,
     "rr": 1
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Alubarna",
+      "thumb": 384,
+      "data": [
+        "dropID"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Deep Sea Kraken Fortnight",
+      "thumb": 341,
+      "data": [
+        "dropID"
+      ]
+    }
+  ],
   "manual": [
     {
       "type": "Fortnight",

@@ -65,7 +65,24 @@
     "global": 1,
     "rr": 1
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Jaya",
+      "thumb": 430,
+      "data": [
+        "dropID"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Dr. Hogback's Lab of the Dead Fortnight",
+      "thumb": 386,
+      "data": [
+        "dropID"
+      ]
+    }
+  ],
   "manual": [
     {
       "type": "Fortnight",

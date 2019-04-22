@@ -50,7 +50,24 @@
     "global": 1,
     "rr": 1
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Little Garden",
+      "thumb": 292,
+      "data": [
+        "dropID"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Kalifa's Secret Assignment Fortnight",
+      "thumb": 318,
+      "data": [
+        "dropID"
+      ]
+    }
+  ],
   "manual": [
     {
       "type": "Fortnight",

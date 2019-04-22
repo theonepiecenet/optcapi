@@ -42,7 +42,24 @@
     "global": 1,
     "rr": 1
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Sabaody Archipelago",
+      "thumb": 974,
+      "data": [
+        "dropID"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Crocodile: Life on the Inside Fortnight",
+      "thumb": 510,
+      "data": [
+        "dropID"
+      ]
+    }
+  ],
   "manual": [
     {
       "type": "Fortnight",

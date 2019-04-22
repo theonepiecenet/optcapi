@@ -51,7 +51,16 @@
   "flags": {
     "global": 1
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Fight for your Happiness! Fortnight",
+      "thumb": 1384,
+      "data": [
+        "dropID"
+      ]
+    }
+  ],
   "manual": [
     {
       "type": "Fortnight",
