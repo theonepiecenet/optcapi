@@ -1,8 +1,8 @@
 {
-  "name": "히그마, Mountain Bandits Leader",
-  "detail": {
-    "specialName": "Baptism of Evil",
-    "special": "Deals 500 fixed damage to all enemies that will ignore damage negating abilities and barriers, reduces Despair duration by 5 turns and reduces enemies' Resilience and Enrage Buffs duration by 5 turns.",
-    "captain": "Boosts ATK of [STR], [DEX] and [QCK] characters by 2x and recovers 800 HP at end of each turn"
-  }
+    "name": "히그마, 산적 두목",
+    "detail": {
+        "specialName": "악의 세례",
+        "special": "모든 방어 효과를 무시하고 적 전체에게 고정 데미지 800을 주고, 선장효과 무효 상태를 5턴 회복하며, 적에게 걸려 있는 남은 체력 1로 버티는 효과 및 [ENRAGE]을(를) 5턴 줄인다",
+        "captain": "[STR], [DEX], [QCK]의 공격력을 2배로 만들고, 턴 종료 시 체력을 800 회복한다"
+    }
 }
