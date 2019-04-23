@@ -1,0 +1,80 @@
+{
+  "name": "Edward Newgate, Rival of the Pirate King",
+  "detail": {
+    "captain": "Boosts ATK of all characters by ?x if HP is below 50% at the start of the turn",
+    "special": [
+      {
+        "description": "Cuts the current HP of each enemy by 10% and reduces any damage received above 10,000 HP by 70% for 1 turn.",
+        "cooldown": [
+          23,
+          11
+        ]
+      },
+      {
+        "description": "Cuts the current HP of each enemy by 20% and reduces any damage received above 10,000 HP by 70% for 1 turn.",
+        "cooldown": [
+          28,
+          16
+        ]
+      },
+      {
+        "description": "Cuts the current HP of each enemy by 40% and reduces any damage received above 10,000 HP by 70% for 1 turn.",
+        "cooldown": [
+          36,
+          24
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}",
+    "specialName": "Earth Shattering Fist"
+  },
+  "aliases": [
+    "",
+    "",
+    "Neo Whitebeard"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 4,
+    "slots": 2,
+    "level": 70,
+    "exp": 1778330,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    36,
+    24
+  ],
+  "evolution": {
+    "evolution": 3354,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3353.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3353.png"
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Invasion Neo! Young Whitebeard",
+      "thumb": 3354,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

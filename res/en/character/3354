@@ -1,0 +1,99 @@
+{
+  "name": "Edward Newgate [Neo], Grand Pirate Whitebeard",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.75x if HP is below 50% at the start of the turn",
+    "special": [
+      {
+        "description": "Cuts the current HP of each enemy by 10% and reduces any damage received above 10,000 HP by 70% for 1 turn.",
+        "cooldown": [
+          23,
+          11
+        ]
+      },
+      {
+        "description": "Cuts the current HP of each enemy by 20% and reduces any damage received above 10,000 HP by 70% for 1 turn.",
+        "cooldown": [
+          28,
+          16
+        ]
+      },
+      {
+        "description": "Cuts the current HP of each enemy by 40% and reduces any damage received above 10,000 HP by 70% for 1 turn.",
+        "cooldown": [
+          36,
+          24
+        ]
+      }
+    ],
+    "specialNotes": "#{stages}",
+    "specialName": "Earth Shattering Fist",
+    "sailor": {
+      "base": "None",
+      "level1": "When HP is below 50% at the start of the turn, boosts own base ATK by 150",
+      "level2": "If your Captain is a Fighter character, makes [DEX] orbs beneficial for Powerhouse characters"
+    },
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by ?",
+          "Level 2: Boosts base ATK by ?",
+          "Level 3: Boosts base ATK by ?",
+          "Level 4: Boosts base ATK by ?",
+          "Level 5: Boosts base ATK by ?"
+        ]
+      },
+      {
+        "Name": "No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turn",
+          "Level 5: Reduces No Healing duration by ? turn"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  },
+  "aliases": [
+    "",
+    "",
+    "Neo Whitebeard"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    36,
+    24
+  ],
+  "evolve": {
+    "evolution": 3354,
+    "evolvers": [],
+    "from": 3353
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3354.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3354.png"
+  },
+  "drop": [],
+  "manual": []
+}
