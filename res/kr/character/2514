@@ -1,0 +1,56 @@
+{
+    "name": "우루지",
+    "detail": {
+        "captain": "Boosts ATK of Fighter characters by ?x and reduces damage received by ?%",
+        "special": "Deals 150x character's ATK in [PSY] damage to one enemy, reduces Paralysis and Burn duration by 3 turns and reduces damage received by 80% for 1 turn. If during that turn you score 4 PERFECT hits, amplifies the effect of orbs of Fighter characters by 2.25x for 1 turn in the following turn.",
+        "specialName": "Karmic Punishment and Prayers",
+        "sailor": "If your Captain is a Fighter character, reduces Blindness duration by 3 turns",
+        "sailorNotes": "#{beneficial}"
+    },
+    "aliases": [
+        "",
+        "",
+        "Limited Urouge Again",
+        "Secret Urouge Again"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Fighter",
+            "Free Spirit"
+        ],
+        "stars": 4,
+        "cost": 20,
+        "combo": null,
+        "slots": 4,
+        "level": 70,
+        "exp": 1066998,
+        "minHP": null,
+        "minATK": null,
+        "minRCV": null,
+        "maxHP": null,
+        "maxATK": null,
+        "maxRCV": null,
+        "ability": null
+    },
+    "cooldown": [
+        19,
+        null
+    ],
+    "evolution": {
+        "evolution": 2515,
+        "evolvers": []
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2514.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2514.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1
+    },
+    "drop": [],
+    "manual": []
+}

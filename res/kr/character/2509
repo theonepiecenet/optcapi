@@ -1,0 +1,58 @@
+{
+    "name": "에드워드 위블",
+    "detail": {
+        "captain": "Boosts ATK of Slasher characters proportionally to the crew's current HP, by ?x at max and their HP by ?x.",
+        "captainNotes": "#{captainProportional : higher : ? + 1 * (remaining HP) / (total HP)) : ? : 1}",
+        "special": "Reduces ATK DOWN duration by 20 turns and adds 300x character's ATK as Additional Typeless Damage to own's attacks for 2 turns. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, boosts ATK of all characters by 2x.",
+        "specialName": "I Absolutely Won't Forgive Him"
+    },
+    "aliases": [
+        "",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Slasher",
+            "Striker"
+        ],
+        "stars": 4,
+        "cost": 30,
+        "combo": null,
+        "slots": 1,
+        "level": 50,
+        "exp": 130703,
+        "minHP": null,
+        "minATK": null,
+        "minRCV": null,
+        "maxHP": null,
+        "maxATK": null,
+        "maxRCV": null,
+        "ability": null
+    },
+    "cooldown": [
+        36,
+        29
+    ],
+    "evolution": {
+        "evolution": 2510,
+        "evolvers": []
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2509.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2509.png"
+    },
+    "drop": [
+        {
+            "type": "Treasure Map",
+            "name": "Edward Weevil",
+            "thumb": 2510,
+            "data": [
+                "Sweet Sea"
+            ]
+        }
+    ],
+    "manual": []
+}
