@@ -4,21 +4,53 @@
     "captain": "Boosts ATK of [PSY] characters by 1.5x",
     "special": "Changes [G], [BOMB] and [TND] orbs into [STR], [DEX], [QCK], [PSY] and [INT] orbs, reduces enemy Barrier duration by 1 turn and adds 0.5x to Chain multiplier for 1 turn.",
     "specialName": "A.O. Slash",
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "Ａ・Ｏ（アーオー）",
     "",
     "Limited A.O.",
     "Secret A.O."
@@ -35,13 +67,13 @@
     "slots": 4,
     "level": 99,
     "exp": 2000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 1350,
+    "minATK": 698,
+    "minRCV": 142,
+    "maxHP": 2230,
+    "maxATK": 1289,
+    "maxRCV": 227,
+    "ability": 1
   },
   "cooldown": [
     12,

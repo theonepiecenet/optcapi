@@ -1,60 +1,65 @@
 {
-  "name": "Nefertari Vivi, Wake of an Endless Dream - Pirate Queen",
+  "name": "Monkey D. Luffy, Dress up for Pirate Festival",
   "detail": {
-    "captain": "Boosts ATK and RCV of Slasher and Striker characters by 1.5x. Boosts EXP gained by 1.5x",
-    "special": "Reduces crew's current HP by 90%, cuts the current HP of one enemy by 10% that will ignore damage negating abilities and barriers, changes top and bottom row [STR], [DEX], [QCK], [PSY] and [INT] orbs into Matching orbs and amplifies the effect of orbs of all characters by 1.75x for 2 turns. If your Captain is a Slasher or Striker character, removes enemies' End of Turn Damage/Percent Cut Buffs duration completely",
-    "specialName": "Peacock String Slasher",
-    "sailor": "Boosts base ATK of top row characters by 60"
+    "captain": "Boosts ATK of [STR], [DEX] and [QCK] characters by 2.5x, boosts ATK of all others by 2x and boosts HP and RCV of all characters by 1.2x",
+    "special": "Deals 25x character's ATK in [DEX] damage to one enemy, changes [DEX] and [TND] orbs into Matching Orbs and boosts ATK of [STR], [DEX] and [QCK] characters by 1.5x for 1 turn.",
+    "specialName": "Right-Foot Armament Gum-Gum Battle Axe • Dress",
+    "support": [
+      {
+        "Characters": "Zoro, Nami, Usopp, Sanji, Chopper, Robin, Franky and Brook",
+        "description": [
+          "Level 1: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "",
     "",
-    "Log Vivi"
+    "Dress Up Luffy"
   ],
   "unit": {
     "type": "DEX",
     "class": [
-      "Slasher",
-      "Striker"
+      "Free Spirit",
+      "Fighter"
     ],
-    "stars": 5,
-    "cost": 30,
+    "stars": 4,
+    "cost": 1,
     "combo": 4,
-    "slots": 5,
+    "slots": 4,
     "level": 99,
-    "exp": 4000000,
-    "minHP": 813,
-    "minATK": 520,
-    "minRCV": 213,
-    "maxHP": 2119,
-    "maxATK": 1321,
-    "maxRCV": 388,
-    "ability": 1
+    "exp": 1000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 2310,
+    "maxATK": 1377,
+    "maxRCV": 106,
+    "ability": null
   },
   "cooldown": [
-    14,
-    14
+    16,
+    12
   ],
-  "evolve": {
-    "evolution": 2519,
-    "evolvers": [
-      117,
-      83,
-      86,
-      302,
-      102
-    ],
-    "from": 2518
-  },
+  "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2519.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2519.png"
   },
-  "flags": {
-    "rr": 1,
-    "rro": 1,
-    "global": 1
-  },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Dress Up for the Pirate Festival! Fortnight",
+      "thumb": 2519,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
   "manual": []
 }

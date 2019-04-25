@@ -8,17 +8,17 @@
       {
         "Characters": "Moria",
         "description": [
-          "Level 1: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction and Barrier duration by ? turns.",
-          "Level 2: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction and Barrier duration by ? turns.",
-          "Level 3: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction and Barrier duration by ? turns.",
-          "Level 4: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction and Barrier duration by ? turns.",
+          "Level 1: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction duration by 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction duration by 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction and Barrier duration by 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction and Barrier duration by 1 turn.",
           "Level 5: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction and Barrier duration by 2 turns."
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "オーズ「ＥＸ」 特別ゾンビ",
     "",
     "EX Oars",
     "Kai Oars",
@@ -42,7 +42,7 @@
     "maxHP": 2700,
     "maxATK": 1440,
     "maxRCV": -500,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     22,

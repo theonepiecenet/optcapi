@@ -1,61 +1,91 @@
 {
-  "name": "Whitebeard, Great Pirate Who Created an Age",
+  "name": "Magellan & Hannyabal, Impel Down Guardians",
   "detail": {
-    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Powerhouse and Striker characters proportionally to the crew's current HP, by 4.5x at max and reduce damage received by 20%",
-    "captainNotes": "#{captainProportional : lower : 2.5 + 2 * (1 - (remaining HP) / (total HP)) : 2.5 : 4.5}",
-    "special": "Deals 400,000 fixed damage to one enemy that will ignore damage negating abilities and barriers, adds 0.7x to Chain multiplier for 1 turn, boosts ATK of Striker and Powerhouse characters by 2x for 1 turn. If HP is below 30% at the time the special is activated, reduces damage received by 95% for 1 turn and reduces Despair duration by 20 turns.",
-    "specialName": "Seismic Strike"
+    "captain": {
+      "character1": "Boosts ATK of [INT] Characters by ?x, boosts ATK of [QCK] Characters by 2x and makes [QCK] orbs beneficial for all characters",
+      "character2": "Boosts ATK of [QCK] Characters by ?x, boosts ATK of [INT] Characters by 2x and makes [INT] orbs beneficial for all characters",
+      "combined": "Boosts ATK of [QCK] and [INT] Characters by ?x and makes [QCK] and [INT] orbs beneficial for all characters"
+    },
+    "captainNotes": "#{beneficial}",
+    "special": "Poisons all enemies, randomizes all orbs into either [QCK] or [INT] orbs and becomes Magellan & Hannyabal for 2 turns. If your captain is a [QCK] or [INT] character, boosts the Color Affinity of [QCK] and [INT] characters by 2x for 1 turn.",
+    "swap": "When Change is activated, reduces Poison duration by 5 turns and changes their own orb into a Matching orb",
+    "specialName": "Posion Rush",
+    "sailor": {
+      "character1": "Boosts base ATK, HP and RCV of [INT] characters by 25",
+      "character2": "Boosts base ATK, HP and RCV of [QCK] characters by 25",
+      "combined": "Boosts base ATK, HP and RCV of [QCK] and [INT] characters by 50"
+    }
   },
   "aliases": [
     "",
     "",
-    "V2 Whitebeard",
-    "WB"
+    "Magellan&Hannyabal",
+    "Magellan and Hannyabal",
+    "Magellan Hannyabal",
+    "MagellanHannyabal",
+    "Hannyabal&Magellan",
+    "Hannyabal and Magellan",
+    "Hannyabal Magellan",
+    "HannyabalMagellan",
+    "Raid Magellan",
+    "Raid Hannyabal"
   ],
   "unit": {
-    "type": "QCK",
-    "class": [
-      "Powerhouse",
-      "Striker"
+    "type": [
+      "INT",
+      "QCK"
     ],
-    "stars": 5,
+    "class": [
+      [
+        "Striker",
+        "Shooter"
+      ],
+      [
+        "Striker",
+        "Driven"
+      ],
+      [
+        "Striker",
+        "Shooter"
+      ]
+    ],
+    "stars": 4,
     "cost": 30,
     "combo": 4,
-    "slots": 3,
+    "slots": 2,
     "level": 70,
     "exp": 1066998,
-    "minHP": 1194,
-    "minATK": 426,
-    "minRCV": 14,
-    "maxHP": 2091,
-    "maxATK": 933,
-    "maxRCV": 60,
-    "ability": 1
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 1510,
+    "maxATK": 890,
+    "maxRCV": 194,
+    "ability": null
   },
   "cooldown": [
-    20,
-    14
+    30,
+    16
   ],
   "evolution": {
     "evolution": 2517,
-    "evolvers": [
-      118,
-      79,
-      1180,
-      301,
-      267
-    ]
+    "evolvers": []
   },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2516.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2516.png"
   },
-  "flags": {
-    "rr": 1,
-    "rro": 1,
-    "global": 1
-  },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Magellan & Hannyabal Raid",
+      "thumb": 2517,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
   "manual": []
 }
