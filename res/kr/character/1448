@@ -1,96 +1,96 @@
 {
-  "name": "토니토니 쵸파, 헤비 공",
-  "detail": {
-    "specialName": "Weight Gain: Heavy Gong",
-    "special": "Deals [PSY] damage according to HP. For Fighter characters, Changes [BLOCK] orbs into matching orbs.",
-    "captain": "Boosts ATK of Fighter characters by 2.5x.",
-    "sailor": {
-      "base": "None",
-      "level1": "자신은 [TND] 슬롯도 [유리] 슬롯으로 취급한다",
-      "level2": "일당의 기본 능력치가 30 상승한다"
-    },
-    "potential": [
-      {
-        "Name": "[INT] 데미지 피해 감소",
-        "description": [
-          "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+    "name": "토니토니 쵸파, 헤비 공",
+    "detail": {
+        "specialName": "중량 강화 헤비 공",
+        "special": "적 1명에게 남은 체력이 많을수록 [PSY] 큰 데미지를 주고, 격투형 캐릭터의 [BLOCK] 슬롯을 속성 일치 슬롯으로 바꾼다",
+        "captain": "격투형 캐릭터의 공격력을 2.5배로 만든다",
+        "sailor": {
+            "base": "None",
+            "level1": "자신은 [TND] 슬롯도 [유리] 슬롯으로 취급한다",
+            "level2": "일당의 기본 능력치가 30 상승한다"
+        },
+        "potential": [
+            {
+                "Name": "[INT] 데미지 피해 감소",
+                "description": [
+                    "Level 1: [INT] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [INT] 속성에게 받는 데미지를 2% 감소시킨다",
+                    "Level 3: [INT] 속성에게 받는 데미지를 3% 감소시킨다",
+                    "Level 4: [INT] 속성에게 받는 데미지를 4% 감소시킨다",
+                    "Level 5: [INT] 속성에게 받는 데미지를 5% 감소시킨다"
+                ]
+            },
+            {
+                "Name": "긴급 회복",
+                "description": [
+                    "Level 1: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+                    "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+                    "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+                    "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
+                    "Level 5: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "선원 효과 추가 1: 자신은 [TND] 슬롯도 [유리] 슬롯으로 취급한다"
+            },
+            {
+                "description": "체력 상승 : 100"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "필살기 턴 수 단축: 2"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "선원 효과 추가 2: 일당의 기본 능력치가 30 상승한다"
+            },
+            {
+                "description": "잠재능력 습득 2: 긴급 회복"
+            }
+        ],
+        "specialNotes": "The exact damage is proportional to the crew's remaining HP and is higher the higher the HP is. The formula used is ???? * (current HP) / (total HP)",
+        "sailorNotes": "#{beneficial}",
+        "support": [
+            {
+                "Characters": "Fighter Characters",
+                "description": [
+                    "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 2: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 3: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 4: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+                    "Level 5: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 2: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 3: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 4: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다",
-          "Level 5: 남은 체력이 ??% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x?배의 체력을 회복한다"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "잠재능력 습득 1: [INT] 데미지 피해 감소"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "선원 효과 추가 1: 자신은 [TND] 슬롯도 [유리] 슬롯으로 취급한다"
-      },
-      {
-        "description": "체력 상승 : 100"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "필살기 턴 수 단축: 2"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "선원 효과 추가 2: 일당의 기본 능력치가 30 상승한다"
-      },
-      {
-        "description": "잠재능력 습득 2: 긴급 회복"
-      }
-    ],
-    "specialNotes": "The exact damage is proportional to the crew's remaining HP and is higher the higher the HP is. The formula used is ???? * (current HP) / (total HP)",
-    "sailorNotes": "#{beneficial}",
-    "support": [
-      {
-        "Characters": "Fighter Characters",
-        "description": [
-          "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 2: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 3: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 4: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
-          "Level 5: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP"
-        ]
-      }
-    ]
-  }
+    }
 }

@@ -1,96 +1,96 @@
 {
-  "name": "나미, 썬더 브리드 템포",
-  "detail": {
-    "specialName": "썬더 브리드 템포",
-    "special": "적 전체에게 공격력x20배의 [INT] 데미지를 주고, 1턴 동안 [INT] 캐릭터의 슬롯의 영향을 상당히 증폭시킨다",
-    "captain": "모험 시작 시 필살기 턴을 1턴 단축하고 [INT] 캐릭터의 공격력을 2배, 회복력을 1.5배로 만든다",
-    "sailor": {
-      "base": "None",
-      "level1": "Makes [RCV] orbs “beneficial” for [INT] characters",
-      "level2": "Boosts base ATK, HP and RCV of [INT] characters by 50"
-    },
-    "potential": [
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 4: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
-          "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다"
+    "name": "나미, 썬더 브리드 템포",
+    "detail": {
+        "specialName": "썬더 브리드 템포",
+        "special": "적 전체에게 공격력x20배의 [INT] 데미지를 주고, 1턴 동안 [INT] 캐릭터의 슬롯의 영향을 상당히 증폭시킨다",
+        "captain": "모험 시작 시 필살기 턴을 1턴 단축하고 [INT] 캐릭터의 공격력을 2배, 회복력을 1.5배로 만든다",
+        "sailor": {
+            "base": "None",
+            "level1": "[INT]은 [RCV] 슬롯도 [유리] 슬롯으로 취급한다",
+            "level2": "[INT]의 기본 능력치가 50 상승한다"
+        },
+        "potential": [
+            {
+                "Name": "긴급 회복",
+                "description": [
+                    "Level 1: 남은 체력이 10% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+                    "Level 2: 남은 체력이 15% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+                    "Level 3: 남은 체력이 20% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+                    "Level 4: 남은 체력이 30% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x.5배의 체력을 회복한다",
+                    "Level 5: 남은 체력이 50% 이하일 때 자신의 공격이 PERFECT일 경우 캐릭터의 회복력x1배의 체력을 회복한다"
+                ]
+            },
+            {
+                "Name": "슬롯 봉쇄 내성",
+                "description": [
+                    "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+                    "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+                    "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+                    "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+                    "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "잠재능력 습득 1: 긴급 회복"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "선원 효과 추가 1: Makes [RCV] orbs “beneficial” for [INT] characters"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "선원 효과 추가 2: Boosts base ATK, HP and RCV of [INT] characters by 50"
+            },
+            {
+                "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
+            }
+        ],
+        "specialNotes": "#{orb : 1.75x}",
+        "sailorNotes": "#{beneficial}",
+        "support": [
+            {
+                "Characters": "[INT] Characters",
+                "description": [
+                    "Level 1: Adds 1% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+                    "Level 2: Adds 1% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+                    "Level 3: Adds 2% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+                    "Level 4: Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+                    "Level 5: Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "잠재능력 습득 1: 긴급 회복"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "선원 효과 추가 1: Makes [RCV] orbs “beneficial” for [INT] characters"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "선원 효과 추가 2: Boosts base ATK, HP and RCV of [INT] characters by 50"
-      },
-      {
-        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
-      }
-    ],
-    "specialNotes": "#{orb : 1.75x}",
-    "sailorNotes": "#{beneficial}",
-    "support": [
-      {
-        "Characters": "[INT] Characters",
-        "description": [
-          "Level 1: Adds 1% of this character's base ATK and RCV to the supported character's base ATK and RCV",
-          "Level 2: Adds 1% of this character's base ATK and RCV to the supported character's base ATK and RCV",
-          "Level 3: Adds 2% of this character's base ATK and RCV to the supported character's base ATK and RCV",
-          "Level 4: Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV",
-          "Level 5: Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV"
-        ]
-      }
-    ]
-  }
+    }
 }
