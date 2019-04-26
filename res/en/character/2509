@@ -1,8 +1,8 @@
 {
   "name": "Edward Weevil",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters proportionally to the crew's current HP, by ?x at max and their HP by ?x.",
-    "captainNotes": "#{captainProportional : higher : ? + 1 * (remaining HP) / (total HP)) : ? : 1}",
+    "captain": "Boosts ATK of Slasher characters proportionally to the crew's current HP, by 1.5x at max.",
+    "captainNotes": "#{captainProportional : higher : .5 + 1 * (remaining HP) / (total HP)) : 1.5 : 1}",
     "special": "Reduces ATK DOWN duration by 20 turns and adds 300x character's ATK as Additional Typeless Damage to own's attacks for 2 turns. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, boosts ATK of all characters by 2x.",
     "specialName": "I Absolutely Won't Forgive Him"
   },
@@ -19,17 +19,17 @@
     ],
     "stars": 4,
     "cost": 30,
-    "combo": null,
+    "combo": 6,
     "slots": 1,
     "level": 50,
     "exp": 130703,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 1020,
+    "minATK": 551,
+    "minRCV": 30,
+    "maxHP": 1900,
+    "maxATK": 1029,
+    "maxRCV": 61,
+    "ability": 1
   },
   "cooldown": [
     36,
@@ -37,7 +37,13 @@
   ],
   "evolution": {
     "evolution": 2510,
-    "evolvers": []
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      103
+    ]
   },
   "evolve": [],
   "image": {
