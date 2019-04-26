@@ -1,173 +1,173 @@
 {
-  "name": "사보, 달콤한 품격",
-  "detail": {
-    "specialName": "행복의 선별",
-    "special": "선장이 박식형 캐릭터일 경우 박식형 캐릭터의 속성 슬롯을 속성 일치 슬롯으로 바꾸고, 1턴 동안 적 전체의 방어력을 대폭 감소시키며, 1턴 동안 방어력 감소 중인 적에게 주는 데미지가 1.75배가 된다",
-    "captain": {
-      "base": "박식형 캐릭터의 공격력을 1.3배, 체력과 회복력을 1.05배로 만들며, 공격 시작 전 체력이 70% 이상일 때와 30% 이하일 때는 체인 계수 증가량이 1.1배가 된다",
-      "level1": "Boosts ATK of Cerebral characters by 1.5x and their HP and RCV by 1.1x and boosts chain by 1.2x if HP is above 70% or below 30% at the start of the turn",
-      "level2": "Boosts ATK of Cerebral characters by 1.75x and their HP and RCV by 1.1x and boosts chain by 1.2x if HP is above 70% or below 30% at the start of the turn",
-      "level3": "Boosts ATK of Cerebral characters by 1.75x and their HP and RCV by 1.1x and boosts chain by 1.3x if HP is above 70% or below 30% at the start of the turn",
-      "level4": "Boosts ATK of Cerebral characters by 2x and their HP and RCV by 1.1x and boosts chain by 1.3x if HP is above 70% or below 30% at the start of the turn",
-      "level5": "Boosts ATK of Cerebral characters by 2x and their HP and RCV by 1.2x and boosts chain by 1.4x if HP is above 70% or below 30% at the start of the turn",
-      "level6": "Boosts ATK of Cerebral characters by 2.25x and their HP and RCV by 1.2x and boosts chain by 1.5x if HP is above 70% or below 30% at the start of the turn"
-    },
-    "sailor": [
-      "None",
-      "박식형 캐릭터의 기본 능력치가 30 상승한다",
-      "박식형 캐릭터는 [DEX] 슬롯도 [유리] 슬롯으로 취급한다"
-    ],
-    "potential": [
-      {
-        "Name": "회복 무효 내성",
-        "description": [
-          "Level 1: 회복 무효 상태 회복 : 1 턴",
-          "Level 2: 회복 무효 상태 회복 : 2 턴",
-          "Level 3: 회복 무효 상태 회복 : 3 턴",
-          "Level 4: 회복 무효 상태 회복 : 4 턴",
-          "Level 5: 회복 무효 상태 회복 : 5 턴"
-        ]
-      },
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 100",
-          "Level 2: 공격력 상승 : 150",
-          "Level 3: 공격력 상승 : 200",
-          "Level 4: 공격력 상승 : 250",
-          "Level 5: 공격력 상승 : 300"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "소켓 슬롯 1개 추가"
-      },
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "회복력 상승 : 5"
-      },
-      {
-        "description": "잠재능력 습득 1: 회복 무효 내성"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of Cerebral characters by 30"
-      },
-      {
-        "description": "공격력 상승 : 15"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "소켓 슬롯 1개 추가"
-      },
-      {
-        "description": "필살기 턴 단축 : 1턴"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "필살기 턴 단축 : 2턴"
-      },
-      {
-        "description": "공격력 상승 : 25"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "필살기 턴 단축 : 3턴"
-      },
-      {
-        "description": "소켓 슬롯 1개 추가"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "필살기 턴 단축 : 4턴"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "선원 효과 추가 2: Makes [DEX] orbs “beneficial” for Cerebral characters"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "회복력 상승 : 50"
-      },
-      {
-        "description": "필살기 턴 단축 : 5턴"
-      },
-      {
-        "description": "소켓 슬롯 1개 추가"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "새로운 선장 효과 습득: "
-      },
-      {
-        "description": "잠재능력 습득 2: 피격 시 공격력 상승"
-      }
-    ],
-    "sailorNotes": "#{beneficial}",
-    "potentialNotes": "#{enrage}"
-  }
+    "name": "사보, 달콤한 품격",
+    "detail": {
+        "specialName": "행복의 선별",
+        "special": "선장이 박식형 캐릭터일 경우 박식형 캐릭터의 속성 슬롯을 속성 일치 슬롯으로 바꾸고, 1턴 동안 적 전체의 방어력을 대폭 감소시키며, 1턴 동안 방어력 감소 중인 적에게 주는 데미지가 1.75배가 된다",
+        "captain": {
+            "base": "박식형 캐릭터의 공격력을 1.3배, 체력과 회복력을 1.05배로 만들며, 공격 시작 전 체력이 70% 이상일 때와 30% 이하일 때는 체인 계수 증가량이 1.1배가 된다",
+            "level1": "Boosts ATK of Cerebral characters by 1.5x and their HP and RCV by 1.1x and boosts chain by 1.2x if HP is above 70% or below 30% at the start of the turn",
+            "level2": "Boosts ATK of Cerebral characters by 1.75x and their HP and RCV by 1.1x and boosts chain by 1.2x if HP is above 70% or below 30% at the start of the turn",
+            "level3": "Boosts ATK of Cerebral characters by 1.75x and their HP and RCV by 1.1x and boosts chain by 1.3x if HP is above 70% or below 30% at the start of the turn",
+            "level4": "Boosts ATK of Cerebral characters by 2x and their HP and RCV by 1.1x and boosts chain by 1.3x if HP is above 70% or below 30% at the start of the turn",
+            "level5": "Boosts ATK of Cerebral characters by 2x and their HP and RCV by 1.2x and boosts chain by 1.4x if HP is above 70% or below 30% at the start of the turn",
+            "level6": "박식형 캐릭터의 공격력을 2.25배, 체력과 회복력을 1.2배로 만들며, 공격 시작 전 체력이 70% 이상일 때와 30% 이하일 때는 체인 계수 증가량이 1.5배가 된다"
+        },
+        "sailor": [
+            "None",
+            "박식형 캐릭터의 기본 능력치가 30 상승한다",
+            "박식형 캐릭터는 [DEX] 슬롯도 [유리] 슬롯으로 취급한다"
+        ],
+        "potential": [
+            {
+                "Name": "회복 무효 내성",
+                "description": [
+                    "Level 1: 회복 무효 상태 회복 : 1 턴",
+                    "Level 2: 회복 무효 상태 회복 : 2 턴",
+                    "Level 3: 회복 무효 상태 회복 : 3 턴",
+                    "Level 4: 회복 무효 상태 회복 : 4 턴",
+                    "Level 5: 회복 무효 상태 회복 : 5 턴"
+                ]
+            },
+            {
+                "Name": "피격 시 공격력 상승",
+                "description": [
+                    "Level 1: 공격력 상승 : 100",
+                    "Level 2: 공격력 상승 : 150",
+                    "Level 3: 공격력 상승 : 200",
+                    "Level 4: 공격력 상승 : 250",
+                    "Level 5: 공격력 상승 : 300"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "소켓 슬롯 1개 추가"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "회복력 상승 : 5"
+            },
+            {
+                "description": "잠재능력 습득 1: 회복 무효 내성"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "선원 효과 추가 1: Boosts base ATK, HP and RCV of Cerebral characters by 30"
+            },
+            {
+                "description": "공격력 상승 : 15"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "소켓 슬롯 1개 추가"
+            },
+            {
+                "description": "필살기 턴 단축 : 1턴"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "필살기 턴 단축 : 2턴"
+            },
+            {
+                "description": "공격력 상승 : 25"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "필살기 턴 단축 : 3턴"
+            },
+            {
+                "description": "소켓 슬롯 1개 추가"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "필살기 턴 단축 : 4턴"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "선원 효과 추가 2: Makes [DEX] orbs “beneficial” for Cerebral characters"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "회복력 상승 : 50"
+            },
+            {
+                "description": "필살기 턴 단축 : 5턴"
+            },
+            {
+                "description": "소켓 슬롯 1개 추가"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "새로운 선장 효과 습득: "
+            },
+            {
+                "description": "잠재능력 습득 2: 피격 시 공격력 상승"
+            }
+        ],
+        "sailorNotes": "#{beneficial}",
+        "potentialNotes": "#{enrage}"
+    }
 }
