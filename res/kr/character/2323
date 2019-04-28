@@ -1,95 +1,95 @@
 {
-  "name": "샬롯 오븐, Heat Heat Fruit High Heat Human",
-  "detail": {
-    "specialName": "Assassin's Angry Roar",
-    "special": "Removes any Orb Rate Up and Orb Rate Down Buffs, empties all [STR], [DEX], [QCK], [PSY] or [INT] slots, deals [STR] damage based on number of [STR], [DEX], [QCK], [PSY] or [INT] slots emptied to one enemy. Changes consumed [EMPTY] orbs into Matching orbs. If enemies have All Debuff Protection, Delay Debuff Protection or Poison Debuff Protection at the time the special was activated, amplifies the effect of orbs of [STR], [DEX] and [QCK] characters by 1.75x for 1 turn. If during that turn you score 4 PERFECT hits, amplifies the effect of orbs of [STR], [DEX] and [QCK] characters by 1.75x for 2 turns in the following turn.",
-    "captain": "Boosts ATK of Fighter and Powerhouse characters by 2.5x and their HP by 1.2x. Deals 3 times the damage received in the previous turn in ? damage to all enemies at the end of each turn.",
-    "sailor": [
-      "None",
-      "Boosts base ATK of [STR], [DEX] and [QCK] characters by 40",
-      "Boosts base HP of [STR], [DEX] and [QCK] characters by 40"
-    ],
-    "potential": [
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+    "name": "샬롯 오븐, Minister of Baking",
+    "detail": {
+        "specialName": "작열하는 주먹",
+        "special": "일당에게 걸려 있는 슬롯 출현율 상승 및 감소 상태를 해제하고, 일당 전원의 속성 슬롯을 소비하여 적 1명에게 소비한 속성 슬롯(0개~6개)의 수에 따라 커지는 [STR] 데미지를 주며, 데미지를 준 후 모든 슬롯을 속성 일치 슬롯으로 바꾼다. 적이 상태이상 무효, 지연 무효, 독 상태 무효(종류 무관) 상태일 경우 1턴 동안 [STR], [DEX], [QCK] 속성의 슬롯 영향을 상당히 증폭시키고, 필살기를 쓴 턴 내에 PERFECT 공격을 4번 이상 성공하면 2턴 동안 같은 속성의 슬롯 영향을 상당히 증폭시킨다",
+        "captain": "격투형과 강인형 캐릭터의 공격력을 2.5배, 체력을 1.2배로 만들고, 적에게 받은 데미지의 3배를 턴 종료 시 적 전체에게 준다",
+        "sailor": [
+            "None",
+            "[STR], [DEX],[QCK] 속성의 기본 공격력이 40 상승한다",
+            "Boosts base HP of [STR], [DEX] and [QCK] characters by 40"
+        ],
+        "potential": [
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by ? turn on this character",
+                    "Level 2: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 3: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 4: Reduces Slot Bind duration by ? turns on this character",
+                    "Level 5: Reduces Slot Bind duration by ? turns on this character"
+                ]
+            },
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+                ]
+            }
+        ],
+        "specialNotes": "The exact multiplier used is chosen based on the number of [STR], [DEX], [QCK], [PSY] or [INT] orbs consumed: 0 orbs - ?x ATK; 1 orb - ?x ATK; 2 orbs - ?x ATK; 3 orbs - ?x ATK; 4 orbs - ?x ATK; 5 orbs - ?x ATK; 6 orbs - ?x ATK.",
+        "limit": [
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base HP by 15"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Acquire Potential 1: Slot Bind Self-reduction"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 25"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Boosts base HP of [STR], [DEX] and [QCK] characters by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Acquire Potential 2: Barrier Penetration"
+            }
+        ],
+        "support": [
+            {
+                "Characters": "[STR] Characters",
+                "description": [
+                    "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
+                    "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK",
+                    "Level 3: Adds 3% of this character's base ATK to the supported character's base ATK",
+                    "Level 4: Adds 4% of this character's base ATK to the supported character's base ATK",
+                    "Level 5: Adds 5% of this character's base ATK to the supported character's base ATK"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "Barrier Penetration",
-        "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
-        ]
-      }
-    ],
-    "specialNotes": "The exact multiplier used is chosen based on the number of [STR], [DEX], [QCK], [PSY] or [INT] orbs consumed: 0 orbs - ?x ATK; 1 orb - ?x ATK; 2 orbs - ?x ATK; 3 orbs - ?x ATK; 4 orbs - ?x ATK; 5 orbs - ?x ATK; 6 orbs - ?x ATK.",
-    "limit": [
-      {
-        "description": "Boosts base ATK by 15"
-      },
-      {
-        "description": "Boosts base HP by 15"
-      },
-      {
-        "description": "Boosts base ATK by 25"
-      },
-      {
-        "description": "Acquire Potential 1: Slot Bind Self-reduction"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base HP by 25"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base ATK by 40"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base ATK by 50"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Boosts base HP of [STR], [DEX] and [QCK] characters by 40"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Acquire Potential 2: Barrier Penetration"
-      }
-    ],
-    "support": [
-      {
-        "Characters": "[STR] Characters",
-        "description": [
-          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
-          "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK",
-          "Level 3: Adds 3% of this character's base ATK to the supported character's base ATK",
-          "Level 4: Adds 4% of this character's base ATK to the supported character's base ATK",
-          "Level 5: Adds 5% of this character's base ATK to the supported character's base ATK"
-        ]
-      }
-    ]
-  }
+    }
 }
