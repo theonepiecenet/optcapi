@@ -1,8 +1,8 @@
 {
-  "name": "샬롯 아망드",
-  "detail": {
-    "specialName": "Slow Waltz",
-    "special": "Cuts the current HP of all enemies by 10%, reduces enemy's Percent Damage Reduction and Resilience Buffs duration by 2 turns. If your Captain is a Slasher character, reduces damage received by 30% for 2 turns",
-    "captain": "Boosts ATK of Slasher characters by ?x and their HP by ?x, deals ?x character's ATK in [QCK] damage to all enemies at the end of each turn"
-  }
+    "name": "샬롯 아망드",
+    "detail": {
+        "specialName": "슬로 왈츠",
+        "special": "적 1명의 HP를 10% 줄이고, 적 전체에게 걸려 있는 데미지 감소, 남은 체력 1로 버티는 효과를 2턴 줄이며, 선장이 참격형 캐릭터일 경우 2턴 동안 받는 데미지를 30% 감소시킨다",
+        "captain": "참격형 캐릭터의 공격력을 2배로 만들고, 턴 종료 시 적 전체에 캐릭터의 공격력x2배의 [QCK] 데미지를 준다"
+    }
 }
