@@ -1,11 +1,11 @@
 {
-    "name": "‘괴총’ 비토, ‘Yonko Assassination Plan’ Allied Forces",
+    "name": "‘괴총’ 비토, ‘사황 암살 작전’ 연합군",
     "detail": {
-        "specialName": "Phantom Gun Shot",
-        "special": "Cuts the current HP of one enemy by 20%, changes orbs in the top row into Matching orbs, reduces enemy's Threshold Damage Reduction and Increased Defense duration by 3 turns. If there are 6 Shooter characters in your crew when the special is activated, reduces damage received by 90% for 1 turn.",
-        "captain": "Boosts ATK of Shooter characters by 2.5x and makes [DEX] orbs beneficial for Shooter characters",
+        "specialName": "「괴총」의 총격",
+        "special": "적 1명의 HP를 20% 줄이고, 상단 슬롯을 속성 일치 슬롯으로 바꾸며, 적에게 걸려 있는 방어력 상승, 데미지 감소 상태([THRESHOLD DAMAGE] 제외)를 3턴 줄이고, 일당에 사격형 캐릭터가 6명 있을 때 1턴 동안 받는 데미지를 90% 감소시킨다",
+        "captain": "사격형 캐릭터의 공격력을 2.5배로 만들고, 사격형 캐릭터는 [DEX] 슬롯도 [유리] 슬롯으로 취급한다",
         "sailor": {
-            "base": "If your Captain is a Shooter character, completely resists Blindness",
+            "base": "선장이 사격형이라면 일당의 의성어 은폐를 완전히 회피한다",
             "level1": "Makes [DEX] orbs beneficial for Shooter characters"
         },
         "potential": [
