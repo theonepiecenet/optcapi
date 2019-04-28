@@ -1,149 +1,149 @@
 {
-  "name": "Charlotte Chiffon, \"Yonko Assassination Plan\" Allied Forces",
-  "detail": {
-    "captain": "Boosts ATK of all characters by 1.5x and reduces damage received by ?% if HP is above 99% at the start of the turn",
-    "special": [
-      {
-        "description": "Reduces Paralysis, Despair and Silence and ATK DOWN duration by 1 turn and recovers 3x character's RCV in HP at the end of each turn for 3 turns",
-        "cooldown": [
-          16,
-          10
+    "name": "샬롯 시폰, ‘사황 암살 작전’ 연합군",
+    "detail": {
+        "captain": "일당의 공격력을 1.5배로 만들고, 체력이 가득 찼을 때 받는 데미지가 대폭 감소한다",
+        "special": [
+            {
+                "description": "필살기 봉쇄, 선장효과 무효, 마비, 공격력 감소 상태를 1턴 회복하고, 3턴 동안 턴 종료 시에 캐릭터의 회복력x3배의 체력을 회복한다",
+                "cooldown": [
+                    16,
+                    10
+                ]
+            },
+            {
+                "description": "필살기 봉쇄, 선장효과 무효, 마비, 공격력 감소 상태를 3턴 회복하고, 3턴 동안 턴 종료 시에 캐릭터의 회복력x10배의 체력을 회복하며, 일당이 [THRESHOLD DAMAGE], 데미지 감소, 공격을 받아도 쓰러지지 않는 상태일 때 체력을 모두 회복한다",
+                "cooldown": [
+                    23,
+                    17
+                ]
+            }
+        ],
+        "specialNotes": "#{silence}",
+        "specialName": "멍청이를 향한 꾸지람",
+        "sailor": {
+            "base": "자신은 필살기 봉쇄 상태를 3턴 회복한다",
+            "level1": "When HP is above 99% at the start of the turn, boosts base ATK of Shooter characters by 75"
+        },
+        "sailorNotes": "#{silence}",
+        "limit": [
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Acquire Potential 1: [INT] Damage Reduction"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: When HP is above 99% at the start of the turn, boosts base ATK of Shooter characters by 75"
+            },
+            {
+                "description": "Boosts base RCV by 30"
+            },
+            {
+                "description": "Boosts base HP by 100"
+            },
+            {
+                "description": "Acquire Potential 2: Barrier Penetration"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[INT] Damage Reduction",
+                "description": [
+                    "Level 1: Reduce damage taken from [INT] characters by 1%",
+                    "Level 2: Reduce damage taken from [INT] characters by 2%",
+                    "Level 3: Reduce damage taken from [INT] characters by 3%",
+                    "Level 4: Reduce damage taken from [INT] characters by 4%",
+                    "Level 5: Reduce damage taken from [INT] characters by 5%"
+                ]
+            },
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+                ]
+            }
         ]
-      },
-      {
-        "description": "Reduces Paralysis, Despair and Silence and ATK DOWN duration by 3 turns, recovers 10x character's RCV in HP at the end of each turn for 3 turns and if your crew has Threshold Damage Reduction, Percent Damage Reduction or Resilience, recovers all missing HP",
-        "cooldown": [
-          23,
-          17
-        ]
-      }
-    ],
-    "specialNotes": "#{silence}",
-    "specialName": "A Speech from a Fool",
-    "sailor": {
-      "base": "Reduces Silence duration on this character by 3 turns",
-      "level1": "When HP is above 99% at the start of the turn, boosts base ATK of Shooter characters by 75"
     },
-    "sailorNotes": "#{silence}",
-    "limit": [
-      {
-        "description": "Boosts base RCV by 5"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base RCV by 15"
-      },
-      {
-        "description": "Acquire Potential 1: [INT] Damage Reduction"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base ATK by 50"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: When HP is above 99% at the start of the turn, boosts base ATK of Shooter characters by 75"
-      },
-      {
-        "description": "Boosts base RCV by 30"
-      },
-      {
-        "description": "Boosts base HP by 100"
-      },
-      {
-        "description": "Acquire Potential 2: Barrier Penetration"
-      }
+    "aliases": [
+        "シャーロット・シフォン 「四皇暗殺作戦」連合軍",
+        "",
+        ""
     ],
-    "potential": [
-      {
-        "Name": "[INT] Damage Reduction",
-        "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by 2%",
-          "Level 3: Reduce damage taken from [INT] characters by 3%",
-          "Level 4: Reduce damage taken from [INT] characters by 4%",
-          "Level 5: Reduce damage taken from [INT] characters by 5%"
-        ]
-      },
-      {
-        "Name": "Barrier Penetration",
-        "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
-      }
-    ]
-  },
-  "aliases": [
-    "シャーロット・シフォン 「四皇暗殺作戦」連合軍",
-    "",
-    ""
-  ],
-  "unit": {
-    "type": "PSY",
-    "class": [
-      "Shooter",
-      "Fighter"
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Shooter",
+            "Fighter"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 6,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 967,
+        "minATK": 847,
+        "minRCV": 98,
+        "maxHP": 2120,
+        "maxATK": 1211,
+        "maxRCV": 443,
+        "ability": 1
+    },
+    "cooldown": [
+        23,
+        17
     ],
-    "stars": 5,
-    "cost": 30,
-    "combo": 6,
-    "slots": 4,
-    "level": 99,
-    "exp": 4000000,
-    "minHP": 967,
-    "minATK": 847,
-    "minRCV": 98,
-    "maxHP": 2120,
-    "maxATK": 1211,
-    "maxRCV": 443,
-    "ability": 1
-  },
-  "cooldown": [
-    23,
-    17
-  ],
-  "evolve": {
-    "evolution": 2304,
-    "evolvers": [
-      117,
-      87,
-      1180,
-      303,
-      103
-    ],
-    "from": 2303
-  },
-  "image": {
-    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2304.png",
-    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2304.png"
-  },
-  "flags": {
-    "rr": 1,
-    "rro": 1,
-    "global": 1
-  },
-  "drop": [],
-  "manual": []
+    "evolve": {
+        "evolution": 2304,
+        "evolvers": [
+            117,
+            87,
+            1180,
+            303,
+            103
+        ],
+        "from": 2303
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2304.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2304.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
 }

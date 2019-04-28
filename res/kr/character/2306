@@ -1,81 +1,81 @@
 {
-  "name": "가스티노, ‘Yonko Assassination Plan’ Allied Forces",
-  "detail": {
-    "specialName": "Blue Sword",
-    "special": "Poisons all enemies. If your Captain is a Slasher or Cerebral character, boosts ATK against Poisoned and Strongly Poisoned enemies by 1.75x for 3 turns",
-    "captain": "Boosts ATK of Slasher and Cerebral characters by 2.75x until the first hit other than PERFECT and makes [STR] and [DEX] orbs \"beneficial\" for Slasher and Cerebral characters",
-    "sailor": [
-      "Boosts base ATK of Slasher and Cerebral characters by 75",
-      "Adds 2x character's ATK as Additional Typeless Damage"
-    ],
-    "potential": [
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by ? turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turns",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
+    "name": "가스티노, ‘사황 암살 작전’ 연합군",
+    "detail": {
+        "specialName": "블루 소드",
+        "special": "적 전체를 독 상태로 만들고, 선장이 참격형 혹은 박식형 캐릭터일 경우 3턴 동안 독, 맹독 상태의 적에게 주는 데미지가 1.75배가 된다",
+        "captain": "참격형과 박식형 캐릭터의 [STR][DEX] 슬롯을 [유리] 슬롯으로 취급하고, PERFECT 이외의 공격을 할 때까지 같은 타입 캐릭터의 공격력을 2.75배로 만든다",
+        "sailor": [
+            "참격형과 박식형 캐릭터의 기본 공격력이 75 상승한다",
+            "Adds 2x character's ATK as Additional Typeless Damage"
+        ],
+        "potential": [
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by ? turn",
+                    "Level 2: Reduces No Healing duration by ? turn",
+                    "Level 3: Reduces No Healing duration by ? turns",
+                    "Level 4: Reduces No Healing duration by ? turns",
+                    "Level 5: Reduces No Healing duration by ? turns"
+                ]
+            },
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "Boosts base HP by 10"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Acquire Potential 1: Reduce No Healing duration"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Adds 2x character's ATK as Additional Damage"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Acquire Potential 2: Critical Hit"
+            }
         ]
-      },
-      {
-        "Name": "Critical Hit",
-        "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "Boosts base HP by 10"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Acquire Potential 1: Reduce No Healing duration"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base RCV by 50"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base HP by 60"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Adds 2x character's ATK as Additional Damage"
-      },
-      {
-        "description": "Boosts base ATK by 40"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Acquire Potential 2: Critical Hit"
-      }
-    ]
-  }
+    }
 }
