@@ -34,7 +34,7 @@
     "Neo Whitebeard"
   ],
   "unit": {
-    "type": "PSY",
+    "type": "DEX",
     "class": [
       "Powerhouse",
       "Striker"
@@ -45,13 +45,13 @@
     "slots": 2,
     "level": 70,
     "exp": 1778330,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 1246,
+    "minATK": 587,
+    "minRCV": 0,
+    "maxHP": 2044,
+    "maxATK": 894,
+    "maxRCV": 15,
+    "ability": 1
   },
   "cooldown": [
     36,
@@ -59,7 +59,13 @@
   ],
   "evolution": {
     "evolution": 3354,
-    "evolvers": []
+    "evolvers": [
+      118,
+      86,
+      266,
+      97,
+      267
+    ]
   },
   "evolve": [],
   "image": {

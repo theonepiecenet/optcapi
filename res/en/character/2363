@@ -23,7 +23,7 @@
     "sailor": {
       "base": "None",
       "level1": "Completely resists Paralysis on this character",
-      "level2": "Boosts base ATK, HP and RCV for this character by 50"
+      "level2": "Boosts base ATK, HP and RCV for all characters by 50"
     },
     "limit": [
       {
@@ -105,7 +105,7 @@
         "description": "Reduce base Special Cooldown by 1 turn"
       },
       {
-        "description": "Acquire Sailor Ability 2: Boosts base ATK, HP and RCV for this character by 50"
+        "description": "Acquire Sailor Ability 2: Boosts base ATK, HP and RCV for all characters by 50"
       },
       {
         "description": "Boosts base HP by 80"

@@ -1,7 +1,7 @@
 {
   "name": "Emporio Ivankov [Neo]",
   "detail": {
-    "special": "Randomizes all orbs into either [RCV], [STR], [DEX] or [QCK] orbs, changes own orb, including [BLOCK] orbs, into [QCK], makes [RCV] orbs beneficial for all characters for 1 turn and boosts ATK of Free Spirit characters by 1.75x for 1 turn.",
+    "special": "Randomizes all orbs into either [RCV], [STR], [DEX] or [QCK] orbs, changes own orb, including [BLOCK] orbs, into [DEX], makes [RCV] orbs beneficial for all characters for 1 turn and boosts ATK of Free Spirit characters by 1.75x for 1 turn.",
     "specialName": "Hell Wink [Neo]",
     "captain": "Boosts ATK of all characters by ?x following a chain of [STR] > [QCK] > [DEX] attacks no lower than Good"
   },
@@ -36,7 +36,13 @@
   ],
   "evolution": {
     "evolution": 3352,
-    "evolvers": []
+    "evolvers": [
+      118,
+      86,
+      266,
+      302,
+      102
+    ]
   },
   "evolve": [],
   "image": {
