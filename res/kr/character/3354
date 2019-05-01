@@ -1,24 +1,24 @@
 {
-    "name": "에드워드 뉴게이트 「개」, Grand Pirate Whitebeard",
+    "name": "에드워드 뉴게이트 「개」, 대해적 ‘흰 수염’",
     "detail": {
-        "captain": "Boosts ATK of all characters by 2.75x if HP is below 50% at the start of the turn",
+        "captain": "남은 체력이 일정 비율 이하일 때 일당의 공격력이 2.75배가 된다",
         "special": [
             {
-                "description": "Cuts the current HP of each enemy by 10% and reduces any damage received above 10,000 HP by 70% for 1 turn.",
+                "description": "적 전체의 HP를 10% 줄이고, 1턴 동안 적 각각에 대해 10000이 넘는 부분의 데미지를 70% 감소시킨다",
                 "cooldown": [
                     23,
                     11
                 ]
             },
             {
-                "description": "Cuts the current HP of each enemy by 20% and reduces any damage received above 10,000 HP by 70% for 1 turn.",
+                "description": "적 전체의 HP를 20% 줄이고, 1턴 동안 적 각각에 대해 10000이 넘는 부분의 데미지를 70% 감소시킨다",
                 "cooldown": [
                     28,
                     16
                 ]
             },
             {
-                "description": "Cuts the current HP of each enemy by 40% and reduces any damage received above 10,000 HP by 70% for 1 turn.",
+                "description": "적 전체의 HP를 40% 줄이고, 1턴 동안 적 각각에 대해 10000이 넘는 부분의 데미지를 70% 감소시킨다",
                 "cooldown": [
                     36,
                     24
@@ -26,11 +26,11 @@
             }
         ],
         "specialNotes": "#{stages}",
-        "specialName": "Earth Shattering Fist",
+        "specialName": "고동치는 대지의 주먹 「개」",
         "sailor": {
             "base": "None",
-            "level1": "When HP is below 50% at the start of the turn, boosts own base ATK by 150",
-            "level2": "If your Captain is a Fighter character, makes [DEX] orbs beneficial for Powerhouse characters"
+            "level1": "남은 체력이 일정 비율 이하일 때 자신의 기본 공격력이 150 상승한다",
+            "level2": "선장이 강인형이라면, 강인형 캐릭터는 [DEX] 슬롯도 [유리] 슬롯으로 취급한다"
         },
         "potential": [
             {
