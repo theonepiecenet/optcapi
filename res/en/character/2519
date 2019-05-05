@@ -1,0 +1,65 @@
+{
+  "name": "Monkey D. Luffy, Dress up for Pirate Festival",
+  "detail": {
+    "captain": "Boosts ATK of [STR], [DEX] and [QCK] characters by 2.5x, boosts ATK of all others by 2x and boosts HP and RCV of all characters by 1.2x",
+    "special": "Deals 25x character's ATK in [DEX] damage to one enemy, changes [DEX] and [TND] orbs into Matching Orbs and boosts ATK of [STR], [DEX] and [QCK] characters by 1.5x for 1 turn.",
+    "specialName": "Right-Foot Armament Gum-Gum Battle Axe • Dress",
+    "support": [
+      {
+        "Characters": "Zoro, Nami, Usopp, Sanji, Chopper, Robin, Franky and Brook",
+        "description": [
+          "Level 1: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Dress Up Luffy"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 2310,
+    "maxATK": 1377,
+    "maxRCV": 106,
+    "ability": null
+  },
+  "cooldown": [
+    16,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2519.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2519.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Dress Up for the Pirate Festival! Fortnight",
+      "thumb": 2519,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}
