@@ -1,8 +1,54 @@
 {
-  "name": "샬롯 크래커, Three Sweet Commander",
-  "detail": {
-    "specialName": "Baptism of the “New World”",
-    "special": "Cuts the current HP of one enemy by 15%, reduces damage by 50% and deals 75x character's ATK as [INT] damage to all enemies at the end of the turn for 3 turns",
-    "captain": "Boosts ATK of Slasher characters by 2.5x and their HP by 1.2x and boosts chain by 1.4x if HP below 30% at the start of the turn"
-  }
+    "name": "샬롯 크래커, Three Sweet Commander",
+    "detail": {
+        "captain": "Boosts ATK of Slasher characters by 2.5x and their HP by 1.2x and boosts chain by 1.4x if HP below 30% at the start of the turn",
+        "special": "Cuts the current HP of one enemy by 15%, reduces damage by 50% and deals 75x character's ATK as [INT] damage to all enemies at the end of the turn for 3 turns",
+        "specialName": "Baptism of the \"New World\""
+    },
+    "aliases": [
+        "シャーロット・クラッカー スイート３将星",
+        "",
+        "Story Cracker"
+    ],
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Slasher",
+            "Powerhouse"
+        ],
+        "stars": 4,
+        "cost": 20,
+        "combo": 4,
+        "slots": 3,
+        "level": 99,
+        "exp": 3000000,
+        "minHP": 1186,
+        "minATK": 579,
+        "minRCV": 57,
+        "maxHP": 2286,
+        "maxATK": 1345,
+        "maxRCV": 121,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        14
+    ],
+    "evolve": {
+        "evolution": 2321,
+        "evolvers": [
+            118,
+            266,
+            93,
+            304,
+            104
+        ],
+        "from": 2320
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2321.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2321.png"
+    },
+    "drop": [],
+    "manual": []
 }
