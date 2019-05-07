@@ -1,24 +1,75 @@
 {
-  "name": "마르코, ‘의지’의 수호자",
-  "detail": {
-    "specialName": "「불사」를 이룬 서약",
-    "special": [
-      {
-        "description": "봉쇄, 공격력 감소, 체인 계수 증가량 감소 상태를 3턴 회복하고, 1턴 동안 받는 데미지를 50% 줄이며, 일당에 [STR]이 3명 이상 있을 경우 1턴 동안 체인 계수가 +0.5 된다",
-        "cooldown": [
-          16,
-          10
-        ]
-      },
-      {
-        "description": "봉쇄, 공격력 감소, 체인 계수 증가량 감소 상태를 5턴 회복하고, 1턴 동안 받는 데미지를 90% 줄이며, 일당에 [STR]이 3명 이상 있을 경우 1턴 동안 체인 계수가 +0.75 된다",
-        "cooldown": [
-          20,
-          14
-        ]
-      }
+    "name": "마르코, ‘의지’의 수호자",
+    "detail": {
+        "captain": "격투형 캐릭터의 공격력을 2.25배, 회복력을 1.2배로 만들고, 턴 종료 시에 캐릭터의 회복력x2배의 체력을 회복한다",
+        "special": [
+            {
+                "description": "봉쇄, 공격력 감소, 체인 계수 증가량 감소 상태를 3턴 회복하고, 1턴 동안 받는 데미지를 50% 줄이며, 일당에 [STR]이 3명 이상 있을 경우 1턴 동안 체인 계수가 +0.5 된다",
+                "cooldown": [
+                    16,
+                    10
+                ]
+            },
+            {
+                "description": "봉쇄, 공격력 감소, 체인 계수 증가량 감소 상태를 5턴 회복하고, 1턴 동안 받는 데미지를 90% 줄이며, 일당에 [STR]이 3명 이상 있을 경우 1턴 동안 체인 계수가 +0.75 된다",
+                "cooldown": [
+                    20,
+                    14
+                ]
+            }
+        ],
+        "specialName": "「불사」를 이룬 서약",
+        "sailor": "[RCV] 획득 시 추가로 체력을 150 회복한다"
+    },
+    "aliases": [
+        "マルコ “意志”の守り手",
+        "",
+        ""
     ],
-    "captain": "격투형 캐릭터의 공격력을 2.25배, 회복력을 1.2배로 만들고, 턴 종료 시에 캐릭터의 회복력x2배의 체력을 회복한다",
-    "sailor": "[RCV] 획득 시 추가로 체력을 150 회복한다"
-  }
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Free Spirit",
+            "Fighter"
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 6,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "minHP": 293,
+        "minATK": 201,
+        "minRCV": 99,
+        "maxHP": 950,
+        "maxATK": 575,
+        "maxRCV": 200,
+        "ability": 1
+    },
+    "cooldown": [
+        20,
+        14
+    ],
+    "evolution": {
+        "evolution": 1987,
+        "evolvers": [
+            83,
+            94,
+            95,
+            300,
+            100
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1986.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1986.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
 }
