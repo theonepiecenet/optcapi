@@ -1,98 +1,98 @@
 {
-  "name": "Kizaru, Unclear about the Corresponding Damage",
-  "detail": {
-    "captain": "Boosts ATK of Shooter characters by 1.75x",
-    "special": "Reduces Bind duration by 3 turns, reduces crew's ATK DOWN duration by 4 turns. If you are on a Treasure Map, amplifies the effects of orbs for [PSY] and [INT] characters depending on your Treasure Map Level for 1 turn.",
-    "specialName": "Radiant Light Arrow",
-    "specialNotes": "Level 1-10: 1.5x orb boost<br>Level 11-20: 1.75x orb boost<br>Level 21+: 2x orb boost",
-    "limit": [
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base RCV by 50"
-      },
-      {
-        "description": "Boosts base ATK by 15"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Boosts base ATK by 35"
-      },
-      {
-        "description": "Acquire Potential 1: Pinch Healing"
-      }
-    ],
-    "potential": [
-      {
-        "Name": "Pinch Healing",
-        "description": [
-          "Level 1: If HP is below 40% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 40% at the start of the turn, recovers 0.75x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 50% at the start of the turn, recovers 1.25x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+    "name": "키자루, Unclear about the Corresponding Damage",
+    "detail": {
+        "captain": "Boosts ATK of Shooter characters by 1.75x",
+        "special": "Reduces Bind duration by 3 turns, reduces crew's ATK DOWN duration by 4 turns. If you are on a Treasure Map, amplifies the effects of orbs for [PSY] and [INT] characters depending on your Treasure Map Level for 1 turn.",
+        "specialName": "Radiant Light Arrow",
+        "specialNotes": "Level 1-10: 1.5x orb boost<br>Level 11-20: 1.75x orb boost<br>Level 21+: 2x orb boost",
+        "limit": [
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base ATK by 35"
+            },
+            {
+                "description": "Acquire Potential 1: Pinch Healing"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 40% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 40% at the start of the turn, recovers 0.75x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 50% at the start of the turn, recovers 1.25x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            }
         ]
-      }
-    ]
-  },
-  "aliases": [
-    "黄猿 “どっちつかず”の被害対応",
-    "",
-    "Limited Kizaru",
-    "Secret Kizaru",
-    "Limited Borsalino",
-    "Secret Borsalino"
-  ],
-  "unit": {
-    "type": "PSY",
-    "class": [
-      "Shooter",
-      "Free Spirit"
+    },
+    "aliases": [
+        "黄猿 “どっちつかず”の被害対応",
+        "",
+        "Limited Kizaru",
+        "Secret Kizaru",
+        "Limited Borsalino",
+        "Secret Borsalino"
     ],
-    "stars": 5,
-    "cost": 20,
-    "combo": 5,
-    "slots": 4,
-    "level": 99,
-    "exp": 2000000,
-    "minHP": 1331,
-    "minATK": 701,
-    "minRCV": 159,
-    "maxHP": 2191,
-    "maxATK": 1307,
-    "maxRCV": 309,
-    "ability": 1
-  },
-  "cooldown": [
-    12,
-    12
-  ],
-  "evolve": [],
-  "image": {
-    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2507.png",
-    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2507.png"
-  },
-  "flags": {
-    "rr": 1,
-    "rro": 1,
-    "lrr": 1,
-    "tmlrr": 1
-  },
-  "drop": [],
-  "manual": []
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Shooter",
+            "Free Spirit"
+        ],
+        "stars": 5,
+        "cost": 20,
+        "combo": 5,
+        "slots": 4,
+        "level": 99,
+        "exp": 2000000,
+        "minHP": 1331,
+        "minATK": 701,
+        "minRCV": 159,
+        "maxHP": 2191,
+        "maxATK": 1307,
+        "maxRCV": 309,
+        "ability": 1
+    },
+    "cooldown": [
+        12,
+        12
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2507.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2507.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1,
+        "tmlrr": 1
+    },
+    "drop": [],
+    "manual": []
 }
