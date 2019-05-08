@@ -1,0 +1,67 @@
+{
+    "name": "오즈 [EX], Special Zombie",
+    "detail": {
+        "captain": "Boosts ATK of Powerhouse characters by 3x after scoring 3 PERFECTs in a row",
+        "specialName": "Oars Ball [EX]",
+        "special": "Reduces damage received by 50% for 1 turn, deals 30x character's ATK in [DEX] damage to all enemies",
+        "support": [
+            {
+                "Characters": "Moria",
+                "description": [
+                    "Level 1: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction duration by 1 turn.",
+                    "Level 2: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction duration by 1 turn.",
+                    "Level 3: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction and Barrier duration by 1 turn.",
+                    "Level 4: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction and Barrier duration by 1 turn.",
+                    "Level 5: Once per an adventure, when the supported character uses a Healing special, reduces enemies' Threshold Damage Reduction and Barrier duration by 2 turns."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "オーズ「ＥＸ」 特別ゾンビ",
+        "",
+        "EX Oars",
+        "Kai Oars",
+        "Neo Oars"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Fighter",
+            "Powerhouse"
+        ],
+        "stars": 4,
+        "cost": 1,
+        "combo": 4,
+        "slots": 2,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1500,
+        "minATK": 700,
+        "minRCV": 0,
+        "maxHP": 2700,
+        "maxATK": 1440,
+        "maxRCV": -500,
+        "ability": 1
+    },
+    "cooldown": [
+        22,
+        22
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2513.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2513.png"
+    },
+    "drop": [
+        {
+            "type": "Coliseum",
+            "name": "Coliseum EX Vs. Gecko Moria",
+            "thumb": 2512,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}
