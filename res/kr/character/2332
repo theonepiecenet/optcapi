@@ -1,82 +1,82 @@
 {
-  "name": "아인, Following Z-Sensei’s Ideals",
-  "detail": {
-    "specialName": "Double Shot",
-    "special": "Reduces enemies Percent Damage Reduction and Increased Defense duration by 2 turns, reduces Bind and Despair duration by 2 turns and if your crew has Percent Damage Reduction, recovers 20% of crew's MAX HP, reduces damage received by 70% for 1 turn otherwise.",
-    "captain": "Boosts ATK and RCV of Shooter and Slasher characters by 1.75x",
-    "sailor": {
-      "base": "Completely resists Silence on this character",
-      "level1": "Makes [PSY] orbs \"beneficial\" for Shooter characters"
-    },
-    "potential": [
-      {
-        "Name": "Barrier Penetration",
-        "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
-      },
-      {
-        "Name": "Double Special Activation",
-        "description": [
-          "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
-          "Level 2: Once per an adventure, reduce own Special Cooldown by 3 turns after the first time this special is used",
-          "Level 3: Once per an adventure, reduce own Special Cooldown by 5 turns after the first time this special is used",
-          "Level 4: Once per an adventure, reduce own Special Cooldown by 7 turns after the first time this special is used",
-          "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "Boosts base HP by 25"
-      },
-      {
-        "description": "Boosts base HP by 35"
-      },
-      {
-        "description": "Boosts base HP by 45"
-      },
-      {
-        "description": "Acquire Potential 1: Barrier Penetration"
-      },
-      {
-        "description": "Boosts base ATK by 15"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base ATK by 25"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for Shooter characters"
-      },
-      {
-        "description": "Boosts base RCV by 15"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base HP by 65"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base ATK by 40"
-      },
-      {
-        "description": "Boosts base RCV by 30"
-      },
-      {
-        "description": "Acquire Potential 2: Double Special Activation"
-      }
-    ],
-    "sailorNotes": "#{beneficial}"
-  }
+    "name": "아인, 제트 선생님의 이상을 위해",
+    "detail": {
+        "specialName": "Double Shot",
+        "special": "Reduces enemies Percent Damage Reduction and Increased Defense duration by 2 turns, reduces Bind and Despair duration by 2 turns and if your crew has Percent Damage Reduction, recovers 20% of crew's MAX HP, reduces damage received by 70% for 1 turn otherwise.",
+        "captain": "Boosts ATK and RCV of Shooter and Slasher characters by 1.75x",
+        "sailor": {
+            "base": "Completely resists Silence on this character",
+            "level1": "Makes [PSY] orbs \"beneficial\" for Shooter characters"
+        },
+        "potential": [
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+                ]
+            },
+            {
+                "Name": "Double Special Activation",
+                "description": [
+                    "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+                    "Level 2: Once per an adventure, reduce own Special Cooldown by 3 turns after the first time this special is used",
+                    "Level 3: Once per an adventure, reduce own Special Cooldown by 5 turns after the first time this special is used",
+                    "Level 4: Once per an adventure, reduce own Special Cooldown by 7 turns after the first time this special is used",
+                    "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "Boosts base HP by 25"
+            },
+            {
+                "description": "Boosts base HP by 35"
+            },
+            {
+                "description": "Boosts base HP by 45"
+            },
+            {
+                "description": "Acquire Potential 1: Barrier Penetration"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [PSY] orbs \"beneficial\" for Shooter characters"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 65"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base RCV by 30"
+            },
+            {
+                "description": "Acquire Potential 2: Double Special Activation"
+            }
+        ],
+        "sailorNotes": "#{beneficial}"
+    }
 }
