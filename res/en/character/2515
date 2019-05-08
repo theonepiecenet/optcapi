@@ -9,6 +9,75 @@
       "level1": "Makes [PSY] orbs beneficial for Fighter characters"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs beneficial for Fighter characters"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 45"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 8 turns on this character"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 7% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 8% of this character's attack in extra damage"
+        ]
+      }
+    ],
     "support": [
       {
         "Characters": "Fighter Characters",
@@ -20,32 +89,10 @@
           "Level 5: Adds 15% of this character's base HP to the supported character's base HP."
         ]
       }
-    ],
-    "potential": [
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
-        ]
-      },
-      {
-        "Name": "Critical Hit",
-        "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
-        ]
-      }
     ]
   },
   "aliases": [
-    "",
+    "ウルージ 傷癒やす怪僧",
     "",
     "Limited Urouge Again",
     "Secret Urouge Again"
@@ -62,21 +109,27 @@
     "slots": 5,
     "level": 99,
     "exp": 4000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 1339,
+    "minATK": 557,
+    "minRCV": 71,
     "maxHP": 3348,
     "maxATK": 1392,
     "maxRCV": 178,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     19,
-    null
+    14
   ],
   "evolve": {
     "evolution": 2515,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      87,
+      98,
+      303,
+      103
+    ],
     "from": 2514
   },
   "image": {
