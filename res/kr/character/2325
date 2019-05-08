@@ -1,11 +1,11 @@
 {
     "name": "우소랜드, ‘SOP 작전’ 지휘관",
     "detail": {
-        "specialName": "Green Star: Skull Bombgrass",
-        "special": "Cuts the current HP of one enemy by 20%, reduces enemies' Threshold Damage Reduction, ATK Up and End of Turn Damage/Percent Cut Buffs duration by 7 turns. If enemies have Delay Debuff Protection or All Debuff Protection at the time the special was activated, adds .75x to Chain multiplier for 1 turn and makes [STR], [DEX] and [QCK] orbs \"beneficial\" for Shooter characters for 3 turns",
-        "captain": "Boosts ATK of Shooter characters by 3.75x following a chain of Good > Great > PERFECT hits and reduces damage received by 7%.",
+        "specialName": "초록성 「해골 폭발초」",
+        "special": "적 1명의 HP를 15% 줄이고, 적 전체에게 걸려 있는 [THRESHOLD DAMAGE], [END OF TURN DAMAGE], [ENRAGE] 상태를 7턴 줄인다. 적이 지연 무효 또는 상태이상 무효 상태일 경우, 3턴 동안 체인 계수가 +0.75 되고, 사격형 캐릭터는 [STR][DEX][QCK] 슬롯도 [유리] 슬롯으로 취급한다",
+        "captain": "받는 데미지를 7% 감소시키고, GOOD→GREAT→PERFECT 순으로 공격하면 이후 사격형 캐릭터의 공격력이 3.75배가 된다",
         "sailor": [
-            "Reduces Silence duration on this character by 3 turns",
+            "자신은 필살기 봉쇄 상태를 3턴 회복한다",
             "Boosts base ATK and HP of Shooter characters by 75"
         ],
         "potential": [
