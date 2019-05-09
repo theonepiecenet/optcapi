@@ -1,82 +1,82 @@
 {
-  "name": "Binz, Faithfully Serving under Z-Sensei",
-  "detail": {
-    "specialName": "Continuous Shuriken Throwing",
-    "special": "Deals 40x character's ATK in typeless damage to all enemies, delays all enemies for 1 turn and if the HP of the enemy with the highest Maximum HP is equal to or less than 80%, amplifies the effect of orbs for Shooter characters by 1.75x for 3 turns",
-    "captain": "Boosts ATK of Shooter characters by 2.5x and their HP by 1.25x",
-    "sailor": {
-      "base": "Boosts base HP of Shooter characters by 50",
-      "level1": "Makes [INT] orbs \"beneficial\" for Shooter characters"
-    },
-    "potential": [
-      {
-        "Name": "[INT] Damage Reduction",
-        "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by 2%",
-          "Level 3: Reduce damage taken from [INT] characters by 3%",
-          "Level 4: Reduce damage taken from [INT] characters by 4?%",
-          "Level 5: Reduce damage taken from [INT] characters by 5%"
-        ]
-      },
-      {
-        "Name": "Barrier Penetration",
-        "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Acquire Potential 1: [INT] Damage Reduction"
-      },
-      {
-        "description": "Boosts base RCV by 15"
-      },
-      {
-        "description": "Boosts base HP by 70"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base RCV by 25"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Boosts base ATK by 25"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [INT] orbs \"beneficial\" for Shooter characters"
-      },
-      {
-        "description": "Boosts base ATK by 35"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Acquire Potential 2: Barrier Penetration"
-      }
-    ],
-    "sailorNotes": "#{beneficial}"
-  }
+    "name": "빈즈, Faithfully Serving under Z-Sensei",
+    "detail": {
+        "specialName": "Continuous Shuriken Throwing",
+        "special": "Deals 40x character's ATK in typeless damage to all enemies, delays all enemies for 1 turn and if the HP of the enemy with the highest Maximum HP is equal to or less than 80%, amplifies the effect of orbs for Shooter characters by 1.75x for 3 turns",
+        "captain": "Boosts ATK of Shooter characters by 2.5x and their HP by 1.25x",
+        "sailor": {
+            "base": "Boosts base HP of Shooter characters by 50",
+            "level1": "Makes [INT] orbs \"beneficial\" for Shooter characters"
+        },
+        "potential": [
+            {
+                "Name": "[INT] Damage Reduction",
+                "description": [
+                    "Level 1: Reduce damage taken from [INT] characters by 1%",
+                    "Level 2: Reduce damage taken from [INT] characters by 2%",
+                    "Level 3: Reduce damage taken from [INT] characters by 3%",
+                    "Level 4: Reduce damage taken from [INT] characters by 4?%",
+                    "Level 5: Reduce damage taken from [INT] characters by 5%"
+                ]
+            },
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Acquire Potential 1: [INT] Damage Reduction"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base RCV by 25"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [INT] orbs \"beneficial\" for Shooter characters"
+            },
+            {
+                "description": "Boosts base ATK by 35"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Potential 2: Barrier Penetration"
+            }
+        ],
+        "sailorNotes": "#{beneficial}"
+    }
 }
