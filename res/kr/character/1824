@@ -1,112 +1,170 @@
 {
-  "name": "반디 월드, 세계의 파괴자",
-  "detail": {
-    "specialName": "모아모아 100배 포",
-    "special": [
-      {
-        "description": "적 1명에게 고정 데미지 100000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제한다",
-        "cooldown": [
-          14,
-          10
-        ]
-      },
-      {
-        "description": "적 1명에게 고정 데미지 300000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제한다",
-        "cooldown": [
-          18,
-          14
-        ]
-      },
-      {
-        "description": "적 1명에게 고정 데미지 500000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제하며, 적 전체의 HP 바에 걸려 있는 모든 배리어를 1턴 줄인다",
-        "cooldown": [
-          22,
-          18
-        ]
-      },
-      {
-        "description": ""
-      },
-      {
-        "description": ""
-      }
+    "name": "반디 월드, 세계의 파괴자",
+    "detail": {
+        "captain": "사격형 캐릭터 의 공격력을 2.2배로 만들고, PERFECT를 연속으로 달성할수록 사격형의 캐릭터의 공격력이 1.1배씩 상승한다(최대 약 3.543배)",
+        "special": [
+            {
+                "description": "적 1명에게 고정 데미지 100000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제한다",
+                "cooldown": [
+                    14,
+                    10
+                ]
+            },
+            {
+                "description": "적 1명에게 고정 데미지 300000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제한다",
+                "cooldown": [
+                    18,
+                    14
+                ]
+            },
+            {
+                "description": "적 1명에게 고정 데미지 500000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제하며, 적 전체의 HP 바에 걸려 있는 모든 배리어를 1턴 줄인다",
+                "cooldown": [
+                    22,
+                    18
+                ]
+            }
+        ],
+        "specialNotes": "#{stages}",
+        "specialName": "모아모아 100배 포",
+        "sailor": {
+            "base": "None",
+            "level1": "사격형 캐릭터의 기본 체력이 150 상승한다",
+            "level2": "사격형 캐릭터의 기본 공격력이 75 상승한다"
+        },
+        "limit": [
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "잠재능력 습득 1: 피격 시 공격력 상승"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "회복력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 70"
+            },
+            {
+                "description": "선원 효과 추가 1: 사격형 캐릭터의 기본 체력이 150 상승한다"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "잠재능력 소켓슬롯 추가 : 1"
+            },
+            {
+                "description": "필살기 턴 수 단축: 1"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "선원 효과 추가 2: 사격형 캐릭터의 기본 공격력이 75 상승한다"
+            },
+            {
+                "description": "잠재능력 습득 2: 배리어 관통"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Enrage",
+                "description": [
+                    "Level 1: Boosts base ATK by 20",
+                    "Level 2: Boosts base ATK by 40",
+                    "Level 3: Boosts base ATK by 60",
+                    "Level 4: Boosts base ATK by 80",
+                    "Level 5: Boosts base ATK by 120"
+                ]
+            },
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}"
+    },
+    "aliases": [
+        "バーンディ・ワールド 世界の破壊者",
+        "",
+        "Secret World",
+        "Secret Byrnndi World",
+        "Limited World",
+        "Limited Byrnndi World"
     ],
-    "captain": "사격형 캐릭터 의 공격력을 2.2배로 만들고, PERFECT를 연속으로 달성할수록 사격형의 캐릭터의 공격력이 1.1배씩 상승한다(최대 약 3.543배)",
-    "sailor": [
-      "None",
-      "사격형 캐릭터의 기본 체력이 150 상승한다",
-      "사격형 캐릭터의 기본 공격력이 75 상승한다"
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1185,
+        "minATK": 688,
+        "minRCV": 122,
+        "maxHP": 2462,
+        "maxATK": 1408,
+        "maxRCV": 319,
+        "ability": 1
+    },
+    "cooldown": [
+        22,
+        18
     ],
-    "potential": [
-      {
-        "Name": "피격 시 공격력 상승",
-        "description": [
-          "Level 1: 공격력 상승 : 20",
-          "Level 2: 공격력 상승 : 40",
-          "Level 3: 공격력 상승 : 60",
-          "Level 4: 공격력 상승 : 80",
-          "Level 5: 공격력 상승 : 120"
-        ]
-      },
-      {
-        "Name": "배리어 관통",
-        "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above ??% at the start of the turn"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "잠재능력 습득 1: 피격 시 공격력 상승"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "회복력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 70"
-      },
-      {
-        "description": "선원 효과 추가 1: 사격형 캐릭터의 기본 체력이 150 상승한다"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "잠재능력 소켓슬롯 추가 : 1"
-      },
-      {
-        "description": "필살기 턴 수 단축: 1"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "선원 효과 추가 2: 사격형 캐릭터의 기본 공격력이 75 상승한다"
-      },
-      {
-        "description": "잠재능력 습득 2: 배리어 관통"
-      }
-    ],
-    "specialNotes": "#{stages}",
-    "potentialNotes": "#{enrage}"
-  }
+    "evolve": {
+        "evolution": 1824,
+        "evolvers": [
+            118,
+            84,
+            95,
+            300,
+            100
+        ],
+        "from": 1823
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1824.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1824.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": [
+        {
+            "type": "Fortnight",
+            "name": "Red Hair Pirates at the Harbor! Fortnight",
+            "thumb": 2044,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ]
 }

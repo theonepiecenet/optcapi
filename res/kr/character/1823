@@ -1,37 +1,86 @@
 {
-  "name": "반디 월드, 모아모아 열매의 능력자",
-  "detail": {
-    "specialName": "모아모아 100배 포",
-    "special": [
-      {
-        "description": "적 1명에게 고정 데미지 100000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제한다",
-        "cooldown": [
-          14,
-          10
-        ]
-      },
-      {
-        "description": "적 1명에게 고정 데미지 300000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제한다",
-        "cooldown": [
-          18,
-          14
-        ]
-      },
-      {
-        "description": "적 1명에게 고정 데미지 500000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제하며, 적 전체의 HP 바에 걸려 있는 모든 배리어를 1턴 줄인다",
-        "cooldown": [
-          22,
-          18
-        ]
-      },
-      {
-        "description": ""
-      },
-      {
-        "description": ""
-      }
+    "name": "반디 월드, 모아모아 열매의 능력자",
+    "detail": {
+        "captain": "사격형 캐릭터 의 공격력을 1.5배로 만들고, PERFECT를 연속으로 달성할수록 사격형의 캐릭터의 공격력이 1.1배씩 상승한다(최대 약 2.415배)",
+        "special": [
+            {
+                "description": "적 1명에게 고정 데미지 100000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제한다",
+                "cooldown": [
+                    14,
+                    10
+                ]
+            },
+            {
+                "description": "적 1명에게 고정 데미지 300000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제한다",
+                "cooldown": [
+                    18,
+                    14
+                ]
+            },
+            {
+                "description": "적 1명에게 고정 데미지 500000을 주고, 일당에게 걸려 있는 공격력 감소 상태를 해제하며, 적 전체의 HP 바에 걸려 있는 모든 배리어를 1턴 줄인다",
+                "cooldown": [
+                    22,
+                    18
+                ]
+            }
+        ],
+        "specialNotes": "#{stages}",
+        "specialName": "모아모아 100배 포"
+    },
+    "aliases": [
+        "バーンディ・ワールド モアモアの実の能力者",
+        "",
+        "Secret World",
+        "Secret Byrnndi World",
+        "Limited World",
+        "Limited Byrnndi World"
     ],
-    "captain": "사격형 캐릭터 의 공격력을 1.5배로 만들고, PERFECT를 연속으로 달성할수록 사격형의 캐릭터의 공격력이 1.1배씩 상승한다(최대 약 2.415배)",
-    "specialNotes": "#{stages}"
-  }
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "stars": 4,
+        "cost": 20,
+        "combo": 4,
+        "slots": 3,
+        "level": 70,
+        "exp": 1066998,
+        "minHP": 162,
+        "minATK": 135,
+        "minRCV": 33,
+        "maxHP": 1332,
+        "maxATK": 742,
+        "maxRCV": 157,
+        "ability": 1
+    },
+    "cooldown": [
+        22,
+        18
+    ],
+    "evolution": {
+        "evolution": 1824,
+        "evolvers": [
+            118,
+            84,
+            95,
+            300,
+            100
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1823.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1823.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
 }
