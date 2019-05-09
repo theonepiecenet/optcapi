@@ -1,83 +1,83 @@
 {
-  "name": "코비, 해군본부 대령",
-  "detail": {
-    "specialName": "정의에 부끄럽지 않은 주먹",
-    "special": "1명의 봉쇄 상태를 완전히 해제하고, 일당의 슬롯을 1턴 고정하며 3턴 동안 야심형 캐릭터의 공격력을 1.75배로 만든다",
-    "captain": "야심형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시에 캐릭터의 회복력x2배의 체력을 회복하고 받는 데미지를 7% 감소시킨다",
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts base HP of Driven characters by 75",
-      "level2": "Makes [PSY] orbs “beneficial” for Driven characters"
-    },
-    "potential": [
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 .5배 만큼 체력을 회복한다.",
-          "Level 2: 전투 시작 시 체력이 15% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 .5배 만큼 체력을 회복한다.",
-          "Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 .5배 만큼 체력을 회복한다.",
-          "Level 4: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 .5배 만큼 체력을 회복한다.",
-          "Level 5: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다."
-        ]
-      },
-      {
-        "Name": "슬롯 봉쇄 내성",
-        "description": [
-          "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
-          "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
-          "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
-          "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
-          "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 10"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "잠재능력 습득 1: 긴급 회복"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "선원 효과 추가 1: Boosts base HP of Driven characters by 75"
-      },
-      {
-        "description": "체력 상승 : 60"
-      },
-      {
-        "description": "필살기 턴 단축 : 1턴"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "소켓 슬롯 1개 추가"
-      },
-      {
-        "description": "체력 상승 : 80"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for Driven characters"
-      },
-      {
-        "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
-      }
-    ],
-    "sailorNotes": "#{beneficial}"
-  }
+    "name": "코비, 해군본부 대령",
+    "detail": {
+        "specialName": "정의에 부끄럽지 않은 주먹",
+        "special": "1명의 봉쇄 상태를 완전히 해제하고, 일당의 슬롯을 1턴 고정하며 3턴 동안 야심형 캐릭터의 공격력을 1.75배로 만든다",
+        "captain": "야심형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시에 캐릭터의 회복력x2배의 체력을 회복하고 받는 데미지를 7% 감소시킨다",
+        "sailor": {
+            "base": "None",
+            "level1": "야심형 캐릭터의 기본 체력이 75 상승한다",
+            "level2": "야심형 캐릭터는 [PSY] 슬롯도 [유리] 슬롯으로 취급한다"
+        },
+        "potential": [
+            {
+                "Name": "긴급 회복",
+                "description": [
+                    "Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 .5배 만큼 체력을 회복한다.",
+                    "Level 2: 전투 시작 시 체력이 15% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 .5배 만큼 체력을 회복한다.",
+                    "Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 .5배 만큼 체력을 회복한다.",
+                    "Level 4: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 .5배 만큼 체력을 회복한다.",
+                    "Level 5: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다."
+                ]
+            },
+            {
+                "Name": "슬롯 봉쇄 내성",
+                "description": [
+                    "Level 1: 자신의 슬롯 봉쇄 상태를 1턴 회복한다",
+                    "Level 2: 자신의 슬롯 봉쇄 상태를 2턴 회복한다",
+                    "Level 3: 자신의 슬롯 봉쇄 상태를 3턴 회복한다",
+                    "Level 4: 자신의 슬롯 봉쇄 상태를 5턴 회복한다",
+                    "Level 5: 자신의 슬롯 봉쇄 상태를 7턴 회복한다"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 10"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "잠재능력 습득 1: 긴급 회복"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "선원 효과 추가 1: Boosts base HP of Driven characters by 75"
+            },
+            {
+                "description": "체력 상승 : 60"
+            },
+            {
+                "description": "필살기 턴 단축 : 1턴"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "소켓 슬롯 1개 추가"
+            },
+            {
+                "description": "체력 상승 : 80"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "선원 효과 추가 2: Makes [PSY] orbs “beneficial” for Driven characters"
+            },
+            {
+                "description": "잠재능력 습득 2: 슬롯 봉쇄 내성"
+            }
+        ],
+        "sailorNotes": "#{beneficial}"
+    }
 }
