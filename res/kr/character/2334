@@ -1,12 +1,12 @@
 {
-    "name": "빈즈, Faithfully Serving under Z-Sensei",
+    "name": "빈즈, 제트 선생님께 다하는 충의",
     "detail": {
-        "specialName": "Continuous Shuriken Throwing",
-        "special": "Deals 40x character's ATK in typeless damage to all enemies, delays all enemies for 1 turn and if the HP of the enemy with the highest Maximum HP is equal to or less than 80%, amplifies the effect of orbs for Shooter characters by 1.75x for 3 turns",
-        "captain": "Boosts ATK of Shooter characters by 2.5x and their HP by 1.25x",
+        "specialName": "수리검 연속 던지기",
+        "special": "적 전체에 캐릭터의 공격력x40배의 무 속성 데미지를 주고, 적 전체의 공격을 1턴 지연시키며, 필살기 발동 시 최대 HP가 가장 높은 적의 HP가 80% 이하일 경우, 3턴 동안 사격형 캐릭터의 슬롯 영향을 상당히 증폭시킨다",
+        "captain": "사격형 캐릭터의 공격력을 2.5배, 체력을 1.25배로 만든다",
         "sailor": {
-            "base": "Boosts base HP of Shooter characters by 50",
-            "level1": "Makes [INT] orbs \"beneficial\" for Shooter characters"
+            "base": "사격형 캐릭터의 기본 체력이 50 상승한다",
+            "level1": "Makes [INT] orbs beneficial for Shooter characters"
         },
         "potential": [
             {

@@ -1,12 +1,12 @@
 {
     "name": "아인, 제트 선생님의 이상을 위해",
     "detail": {
-        "specialName": "Double Shot",
-        "special": "Reduces enemies Percent Damage Reduction and Increased Defense duration by 2 turns, reduces Bind and Despair duration by 2 turns and if your crew has Percent Damage Reduction, recovers 20% of crew's MAX HP, reduces damage received by 70% for 1 turn otherwise.",
-        "captain": "Boosts ATK and RCV of Shooter and Slasher characters by 1.75x",
+        "specialName": "더블 샷",
+        "special": "적 전체에게 걸려 있는 방어력 상승, 데미지 감소 상태([THRESHOLD DAMAGE] 제외)를 2턴 줄이고, 일당의 봉쇄, 선장효과 무효 상태를 2턴 회복한다. 일당이 데미지 감소 상태일 때 체력을 최대 체력의 20%만큼 회복하고, 그 외의 상태라면 1턴 동안 받는 데미지를 70% 감소시킨다",
+        "captain": "사격형과 참격형 캐릭터의 공격력과 회복력을 1.75배로 만든다",
         "sailor": {
-            "base": "Completely resists Silence on this character",
-            "level1": "Makes [PSY] orbs \"beneficial\" for Shooter characters"
+            "base": "자신은 필살기 봉쇄 상태를 완전히 회피한다",
+            "level1": "Makes [PSY] orbs beneficial for Shooter characters"
         },
         "potential": [
             {
