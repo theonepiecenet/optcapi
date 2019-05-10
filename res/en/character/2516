@@ -2,9 +2,9 @@
   "name": "Magellan & Hannyabal, Impel Down Guardians",
   "detail": {
     "captain": {
-      "character1": "Boosts ATK of [INT] Characters by ?x, boosts ATK of [QCK] Characters by 2x and makes [QCK] orbs beneficial for all characters",
-      "character2": "Boosts ATK of [QCK] Characters by ?x, boosts ATK of [INT] Characters by 2x and makes [INT] orbs beneficial for all characters",
-      "combined": "Boosts ATK of [QCK] and [INT] Characters by ?x and makes [QCK] and [INT] orbs beneficial for all characters"
+      "character1": "Boosts ATK of [INT] Characters by 2x",
+      "character2": "Boosts ATK of [QCK] Characters by 2x",
+      "combined": "Boosts ATK of [QCK] and [INT] Characters by 2x and makes [QCK] and [INT] orbs beneficial for all characters"
     },
     "captainNotes": "#{beneficial}",
     "special": "Poisons all enemies, randomizes all orbs into either [QCK] or [INT] orbs and becomes Magellan & Hannyabal for 2 turns. If your captain is a [QCK] or [INT] character, boosts the Color Affinity of [QCK] and [INT] characters by 2x for 1 turn.",
@@ -55,13 +55,13 @@
     "slots": 2,
     "level": 70,
     "exp": 1066998,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 861,
+    "minATK": 445,
+    "minRCV": 70,
     "maxHP": 1510,
     "maxATK": 890,
     "maxRCV": 194,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     30,
@@ -69,7 +69,13 @@
   ],
   "evolution": {
     "evolution": 2517,
-    "evolvers": []
+    "evolvers": [
+      116,
+      117,
+      118,
+      101,
+      104
+    ]
   },
   "evolve": [],
   "image": {

@@ -8,17 +8,17 @@
       {
         "Characters": "Zoro, Nami, Usopp, Sanji, Chopper, Robin, Franky and Brook",
         "description": [
-          "Level 1: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
-          "Level 2: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
-          "Level 3: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
-          "Level 4: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
           "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "モンキー・D・ルフィ Dress up for PIRATE FESTIVAL",
     "",
     "Dress Up Luffy"
   ],
@@ -34,13 +34,13 @@
     "slots": 4,
     "level": 99,
     "exp": 1000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 924,
+    "minATK": 551,
+    "minRCV": 42,
     "maxHP": 2310,
     "maxATK": 1377,
     "maxRCV": 106,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     16,
@@ -56,6 +56,22 @@
       "type": "Fortnight",
       "name": "Dress Up for the Pirate Festival! Fortnight",
       "thumb": 2519,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Bond Battle",
+      "thumb": 2531,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Beginner Adventure: Whole Cake Island Special Edition",
+      "thumb": 2532,
       "data": [
         "All Difficulties"
       ]
