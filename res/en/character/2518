@@ -51,6 +51,23 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2518.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2518.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Bond Battle",
+      "thumb": 2531,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Beginner Adventure: Whole Cake Island Special Edition",
+      "thumb": 2532,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
   "manual": []
 }
