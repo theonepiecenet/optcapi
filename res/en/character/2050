@@ -7,7 +7,7 @@
     "sailorNotes": "#{beneficial}",
     "sailor": {
       "base": "Makes [INT] orbs beneficial for Powerhouse characters",
-      "level1": "If your Captain is a Powerhouse character, completely resists Blindness"
+      "level1": "If your Captain is a Powerhouse character, completely removes Blindness duration completely"
     },
     "limit": [
       {
@@ -47,7 +47,7 @@
         "description": "Boosts base HP by 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: If your Captain is a Powerhouse character, completely resists Blindness"
+        "description": "Acquire Sailor Ability 1: If your Captain is a Powerhouse character, completely removes Blindness duration completely"
       },
       {
         "description": "Boosts base ATK by 50"
