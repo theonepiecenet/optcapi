@@ -7,7 +7,7 @@
     "specialName": "Sword of Silence",
     "sailor": {
       "base": "Reduces Blindness duration for 3 turns",
-      "level1": "Completely resists Blindness"
+      "level1": "Completely removes Blindness duration completely"
     },
     "limit": [
       {
@@ -44,7 +44,7 @@
         "description": "Boosts base HP by 40"
       },
       {
-        "description": "Acquire Sailor Ability 1: Completely resists Blindness"
+        "description": "Acquire Sailor Ability 1: Completely removes Blindness duration completely"
       },
       {
         "description": "Reduce base Special Cooldown by 5 turns"

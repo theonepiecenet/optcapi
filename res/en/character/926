@@ -7,7 +7,7 @@
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV for all characters by 50",
-      "level2": "If your Captain is a Free Spirit or Striker character, completely resists Blindness"
+      "level2": "If your Captain is a Free Spirit or Striker character, completely removes Blindness duration completely"
     },
     "limit": [
       {
@@ -44,7 +44,7 @@
         "description": "Boosts base HP by 110"
       },
       {
-        "description": "Acquire Sailor Ability 2: If your Captain is a Free Spirit or Striker character, completely resists Blindness"
+        "description": "Acquire Sailor Ability 2: If your Captain is a Free Spirit or Striker character, completely removes Blindness duration completely"
       },
       {
         "description": "Acquire 1 additional Socket slot"
