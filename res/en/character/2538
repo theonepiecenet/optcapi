@@ -1,8 +1,8 @@
 {
-  "name": "Lucci & Kaku, Evolved",
+  "name": "Lucci & Kaku, CP9's Enforcers of Dark Justice",
   "detail": {
     "captain": {
-      "character1": "Boosts ATK of Powerhouse characters by 2.75x if they have a Matching orb, by 2.25x otherwise. Reduces RCV of all characters by ?%.",
+      "character1": "Boosts ATK of Powerhouse characters by 2.75x if they have a Matching orb, by 2.25x otherwise. Reduces RCV of all characters by 50%.",
       "character2": "Boosts ATK of Powerhouse characters by 2.25x and boosts damage of Powerhouse Typed specials by 1.2x.",
       "combined": "Boosts ATK of Powerhouse characters by 3x if they have a Matching orb, by 2.5x otherwise and boosts damage of Powerhouse Typed specials by 1.5x."
     },
@@ -86,7 +86,7 @@
     ]
   },
   "aliases": [
-    "",
+    "ルッチ＆カク ＣＰ９　闇の正義の執行者達",
     "",
     "Lucci&Kaku",
     "Lucci & Kaku",
@@ -123,13 +123,13 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 1154,
+    "minATK": 604,
+    "minRCV": 121,
+    "maxHP": 2885,
+    "maxATK": 1511,
+    "maxRCV": 302,
+    "ability": 1
   },
   "cooldown": [
     18,

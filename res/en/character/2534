@@ -1,5 +1,5 @@
 {
-  "name": "Luffy & Law, Evolved",
+  "name": "Luffy & Law, The Worst Generation Creating a Miracle",
   "detail": {
     "captain": {
       "character1": "Boosts ATK of all characters by 3.5x and their HP by 1.25x.",
@@ -18,6 +18,98 @@
     },
     "swap": "When Change is activated, this character removes all Slot Bind on themselves and changes their own orb, including [BLOCK] orbs, into a Matching orb, boosts own ATK by 2x for 1 turn and makes own normal attacks ignore defensive barriers and buffs.",
     "specialName": "The Ultimate Stratagem to Defeat God",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Completely resists Paralysis and Silence on this character"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 3: Critical Hit"
+      }
+    ],
     "potential": [
       {
         "Name": "Pinch Healing",
@@ -52,7 +144,7 @@
     ]
   },
   "aliases": [
-    "",
+    "ルフィ＆ロー “奇跡”を起こす世代",
     "",
     "Luffy&Law",
     "Luffy and Law",
@@ -62,7 +154,7 @@
     "Law and Luffy",
     "Law Luffy",
     "LawLuffy",
-    "L/A",
+    "LL",
     "Legend Luffy & Law",
     "Legend Luffy and Law"
   ],
@@ -97,7 +189,7 @@
     "maxHP": 3677,
     "maxATK": 1644,
     "maxRCV": 425,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     17,

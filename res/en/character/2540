@@ -1,5 +1,5 @@
 {
-  "name": "Ivankov & Bon Clay, Evolved",
+  "name": "Ivankov & Bon Clay, The New Mankind Beckoning a Miracle",
   "detail": {
     "captain": {
       "character1": "Boosts ATK of Free Spirit characters by 2x and recovers 2x character's RCV in HP at the end of each turn.",
@@ -15,6 +15,53 @@
     "special": "Removes Poison, RCV DOWN and Blindness duration completely, reduces Bind and Despair duration by 5 turns, recovers 13x character's RCV in HP at the end of each turn for 5 turns and becomes Ivankov & Bon Clay for 2 turns.",
     "swap": "When Change is activated, reduces Paralysis duration by 1 turn and reduces damage received by 20% for 1 turn.",
     "specialName": "The Cheer that will Summon a Miracle",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 5 turns"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
     "potential": [
       {
         "Name": "Pinch Healing",
@@ -39,7 +86,7 @@
     ]
   },
   "aliases": [
-    "",
+    "イワンコフ＆ボン・クレー 奇跡を招く新人類",
     "",
     "Ivankov&Bon Clay",
     "Ivankov & Bon Clay",
@@ -76,13 +123,13 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 1021,
+    "minATK": 555,
+    "minRCV": 160,
+    "maxHP": 2552,
+    "maxATK": 1387,
+    "maxRCV": 401,
+    "ability": 1
   },
   "cooldown": [
     22,

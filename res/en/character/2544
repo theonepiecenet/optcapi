@@ -1,5 +1,5 @@
 {
-  "name": "Mr. 0 & Miss All Sunday, Evolved",
+  "name": "Mr. 0 & Miss All Sunday, Desert Rulers",
   "detail": {
     "captain": {
       "character1": "Boosts ATK of Cerebral characters by 2.5x and makes [DEX] orbs beneficial for Cerebral characters.",
@@ -35,7 +35,7 @@
         "description": "Boosts base HP by 60"
       },
       {
-        "description": "Boosts base HP by 1000"
+        "description": "Boosts base HP by 100"
       },
       {
         "description": "Acquire Sailor Ability 1: Makes [DEX] orbs beneficial for Cerebral characters"
@@ -86,7 +86,7 @@
     ]
   },
   "aliases": [
-    "",
+    "Mr.0＆ミス・オールサンデー 砂漠の支配者達",
     "",
     "Mr. 0&Miss All Sunday",
     "Mr. 0 & Miss All Sunday",
@@ -132,13 +132,13 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 1089,
+    "minATK": 572,
+    "minRCV": 138,
+    "maxHP": 2723,
+    "maxATK": 1431,
+    "maxRCV": 345,
+    "ability": 1
   },
   "cooldown": [
     19,

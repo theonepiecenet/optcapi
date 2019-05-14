@@ -8,19 +8,19 @@
       {
         "Characters": "Luffy",
         "description": [
-          "Level 1: Once per an adventure, when the supported character uses their special, Reduces damage received by ?% for 1 turn.",
-          "Level 2: Once per an adventure, when the supported character uses their special, Reduces damage received by ?% for 1 turn.",
-          "Level 3: Once per an adventure, when the supported character uses their special, Reduces damage received by ?% for 1 turn.",
-          "Level 4: Once per an adventure, when the supported character uses their special, Reduces damage received by ?% for 1 turn.",
+          "Level 1: Once per an adventure, when the supported character uses their special, Reduces damage received by 10% for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses their special, Reduces damage received by 20% for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses their special, Reduces damage received by 30% for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses their special, Reduces damage received by 40% for 1 turn.",
           "Level 5: Once per an adventure, when the supported character uses their special, Reduces damage received by 50% for 1 turn."
         ]
       }
     ]
   },
   "aliases": [
+    "バルトロメオ 麦わらの一味を慕う者",
     "",
-    "",
-    ""
+    "Support Bartolomeo"
   ],
   "unit": {
     "type": "PSY",
@@ -33,14 +33,14 @@
     "combo": 4,
     "slots": 4,
     "level": 99,
-    "exp": null,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "exp": 4000000,
+    "minHP": 598,
+    "minATK": 575,
+    "minRCV": 115,
     "maxHP": 2122,
     "maxATK": 1185,
     "maxRCV": 355,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     13,

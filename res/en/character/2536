@@ -1,5 +1,5 @@
 {
-  "name": "Zeus & Prometheus & Big Mom, Evolved",
+  "name": "Zeus & Prometheus & Big Mom, Ruler of the Soul Kingdom",
   "detail": {
     "captain": {
       "character1": "If there is a [STR], [DEX], [QCK], [PSY] and [INT] characters in your crew, Increases damage received by 1.75x boosts ATK of all characters by 3.25x and their HP by 2x. Recovers HP proportional to the number of enemies you defeated in that turn ✕ crew's RCV at the end of the enemy turn.",
@@ -17,6 +17,98 @@
     "specialNotes": "Base ATK boost is equal to current HP/100, the maximum effect at 100,000 HP will give a 1,000 base ATK boost.",
     "swap": "When Change is activated, this character removes all Paralysis on themselves and changes their own orb into a Matching orb, boosts own ATK by 1.5x for 1 turn and amplifies the effect of own orb by 1.5x for 1 turn.",
     "specialName": "Heavenly Fire and Lightning Ring & Mama Mash",
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 35"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 45"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base HP of all characters by 150"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 3: Reduce No Healing duration"
+      }
+    ],
     "potential": [
       {
         "Name": "[PSY] Damage Reduction",
@@ -52,7 +144,7 @@
     "potentialNotes": "#{enrage}"
   },
   "aliases": [
-    "",
+    "ゼウス＆プロメテウス＆ビッグ・マム “魂の国”の主達",
     "",
     "Zeus Big Mom",
     "Prometheus Big Mom",
@@ -83,13 +175,13 @@
     "slots": 5,
     "level": 99,
     "exp": 5000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 1713,
+    "minATK": 667,
+    "minRCV": 47,
+    "maxHP": 4282,
+    "maxATK": 1668,
+    "maxRCV": 118,
+    "ability": 1
   },
   "cooldown": [
     16,
