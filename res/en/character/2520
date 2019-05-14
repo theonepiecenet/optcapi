@@ -1,0 +1,65 @@
+{
+  "name": "Nico Robin, Dress up for Pirate Festival",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 1.5x their HP by 1.2x",
+    "special": "Reduces Despair duration by 3 turns and boosts ATK against delayed enemies by 1.5x for 1 turn.",
+    "specialName": "Seductive Lipstick",
+    "support": [
+      {
+        "Characters": "Luffy, Zoro, Nami, Usopp, Sanji, Chopper, Franky and Brook",
+        "description": [
+          "Level 1: Adds 1% of this character's base RCV to the supported character's base RCV.",
+          "Level 2: Adds 1% of this character's base RCV to the supported character's base RCV.",
+          "Level 3: Adds 2% of this character's base RCV to the supported character's base RCV.",
+          "Level 4: Adds 2% of this character's base RCV to the supported character's base RCV.",
+          "Level 5: Adds 3% of this character's base RCV to the supported character's base RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "ニコ・ロビン Dress up for PIRATE FESTIVAL",
+    "",
+    "Dress Up Robin"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Cerebral",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 6,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": 783,
+    "minATK": 400,
+    "minRCV": 116,
+    "maxHP": 1958,
+    "maxATK": 1001,
+    "maxRCV": 290,
+    "ability": 1
+  },
+  "cooldown": [
+    15,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2520.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2520.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Dress Up for the Pirate Festival! Fortnight",
+      "thumb": 2519,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Portgas D. Ace",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by ?x and makes [RCV] orbs beneficial for Cerebral characters.",
+    "special": "Binds self for 5 turns, reduces Special Cooldown of all characters by 2 turns and locks the chain multiplier at 3x for 2 turns.",
+    "specialName": "My Paced Feast"
+  },
+  "aliases": [
+    "",
+    "",
+    "Anniversary Ace"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Free Spirit",
+      "Shooter"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": null,
+    "level": 50,
+    "exp": 392109,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    15,
+    15
+  ],
+  "evolution": {
+    "evolution": 2546,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2545.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2545.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

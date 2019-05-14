@@ -1,0 +1,127 @@
+{
+  "name": "Luffy & Law, Evolved",
+  "detail": {
+    "captain": {
+      "character1": "Boosts ATK of all characters by 3.5x and their HP by 1.25x.",
+      "character2": "Boosts ATK of all characters by 3x, their HP by 1.25x and recovers 0.5x his RCV at the end of the turn each time you hit a PERFECT.",
+      "combined": "Boosts ATK of all characters by 4.5x, their HP by 1.25x and recovers 1x their RCV at the end of the turn each time you hit a PERFECT."
+    },
+    "sailor": {
+      "character1": "Boosts base ATK of all characters by 50",
+      "character2": "Boosts base HP of all characters by 50",
+      "combined": "Boosts base ATK, HP and RCV of all characters by 100",
+      "level1": "Completely resists Paralysis and Silence on this character"
+    },
+    "special": {
+      "character1": "Deals 400x character's ATK in Typeless damage to one enemy, makes [DEX] and [QCK] orbs beneficial for all characters for 1 turn, amplifies the effect of orbs by 2.5x for 1 turn and becomes Luffy & Law for 3 turns.",
+      "character2": "Deals 75x character's ATK in Typeless damage to all enemies that will ignore damage negating abilities and barriers, makes [DEX] and [QCK] orbs beneficial for all characters for 1 turn, amplifies the effect of orbs by 2.5x for 1 turn and becomes Luffy & Law for 3 turns."
+    },
+    "swap": "When Change is activated, this character removes all Slot Bind on themselves and changes their own orb, including [BLOCK] orbs, into a Matching orb, boosts own ATK by 2x for 1 turn and makes own normal attacks ignore defensive barriers and buffs.",
+    "specialName": "The Ultimate Stratagem to Defeat God",
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 2 turn",
+          "Level 2: Reduces No Healing duration by 3 turn",
+          "Level 3: Reduces No Healing duration by 4 turn",
+          "Level 4: Reduces No Healing duration by 5 turns",
+          "Level 5: Reduces No Healing duration by 7 turns"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 60% chance to deal 6% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 70% chance to deal 7% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 90% chance to deal 9% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 100% chance to deal 10% of this character's attack in extra damage"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Luffy&Law",
+    "Luffy and Law",
+    "Luffy Law",
+    "LuffyLaw",
+    "Law&Luffy",
+    "Law and Luffy",
+    "Law Luffy",
+    "LawLuffy",
+    "L/A",
+    "Legend Luffy & Law",
+    "Legend Luffy and Law"
+  ],
+  "unit": {
+    "type": [
+      "DEX",
+      "QCK"
+    ],
+    "class": [
+      [
+        "Fighter",
+        "Free Spirit"
+      ],
+      [
+        "Slasher",
+        "Cerebral"
+      ],
+      [
+        "Fighter",
+        "Slasher"
+      ]
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 1471,
+    "minATK": 658,
+    "minRCV": 170,
+    "maxHP": 3677,
+    "maxATK": 1644,
+    "maxRCV": 425,
+    "ability": null
+  },
+  "cooldown": [
+    17,
+    12
+  ],
+  "evolve": {
+    "evolution": 2534,
+    "evolvers": [
+      118,
+      118,
+      102,
+      101,
+      267
+    ],
+    "from": 2533
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2534.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2534.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

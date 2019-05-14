@@ -1,0 +1,62 @@
+{
+  "name": "Usopp, Dress up for Pirate Festival",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 1.75x their HP by 1.25x",
+    "special": "Recovers 4,000 HP. If your captain is a [DEX] character, boosts the Color Affinity of all characters by 1.5x for 1 turn.",
+    "specialName": "Obsession for Fashion",
+    "support": [
+      {
+        "Characters": "Luffy, Zoro, Nami, Sanji, Chopper, Robin, Franky and Brook",
+        "description": [
+          "Level 1: Adds 1% of this character's base HP to the supported character's base HP.",
+          "Level 2: Adds 1% of this character's base HP to the supported character's base HP.",
+          "Level 3: Adds 2% of this character's base HP to the supported character's base HP.",
+          "Level 4: Adds 2% of this character's base HP to the supported character's base HP.",
+          "Level 5: Adds 3% of this character's base HP to the supported character's base HP."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "ウソップ Dress up for PIRATE FESTIVAL",
+    "",
+    "Dress Up Usopp"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": "Shooter",
+    "stars": 4,
+    "cost": 1,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": 884,
+    "minATK": 407,
+    "minRCV": 96,
+    "maxHP": 2210,
+    "maxATK": 1019,
+    "maxRCV": 242,
+    "ability": 1
+  },
+  "cooldown": [
+    16,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2521.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2521.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Dress Up for the Pirate Festival! Fortnight",
+      "thumb": 2519,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Luffy & Law",
+  "detail": {
+    "captain": {
+      "character1": "Boosts ATK of all characters by 3.5x and their HP by 1.25x.",
+      "character2": "Boosts ATK of all characters by 3x, their HP by 1.25x and recovers 0.5x his RCV at the end of the turn each time you hit a PERFECT.",
+      "combined": "Boosts ATK of all characters by 4.5x, their HP by 1.25x and recovers 1x their RCV at the end of the turn each time you hit a PERFECT."
+    },
+    "sailor": {
+      "character1": "Boosts base ATK of all characters by 50",
+      "character2": "Boosts base HP of all characters by 50",
+      "combined": "Boosts base ATK, HP and RCV of all characters by 100"
+    },
+    "special": {
+      "character1": "Deals 400x character's ATK in Typeless damage to one enemy, makes [DEX] and [QCK] orbs beneficial for all characters for 1 turn, amplifies the effect of orbs by 2.5x for 1 turn and becomes Luffy & Law for 3 turns.",
+      "character2": "Deals 75x character's ATK in Typeless damage to all enemies that will ignore damage negating abilities and barriers, makes [DEX] and [QCK] orbs beneficial for all characters for 1 turn, amplifies the effect of orbs by 2.5x for 1 turn and becomes Luffy & Law for 3 turns."
+    },
+    "swap": "When Change is activated, this character removes all Slot Bind on themselves and changes their own orb, including [BLOCK] orbs, into a Matching orb, boosts own ATK by 2x for 1 turn and makes own normal attacks ignore defensive barriers and buffs.",
+    "specialName": "The Ultimate Stratagem to Defeat God"
+  },
+  "aliases": [
+    "",
+    "",
+    "Luffy&Law",
+    "Luffy and Law",
+    "Luffy Law",
+    "LuffyLaw",
+    "Law&Luffy",
+    "Law and Luffy",
+    "Law Luffy",
+    "LawLuffy",
+    "L/A",
+    "Legend Luffy & Law",
+    "Legend Luffy and Law"
+  ],
+  "unit": {
+    "type": [
+      "DEX",
+      "QCK"
+    ],
+    "class": [
+      [
+        "Fighter",
+        "Free Spirit"
+      ],
+      [
+        "Slasher",
+        "Cerebral"
+      ],
+      [
+        "Fighter",
+        "Slasher"
+      ]
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": null,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 662,
+    "minATK": 296,
+    "minRCV": 77,
+    "maxHP": 1655,
+    "maxATK": 740,
+    "maxRCV": 191,
+    "ability": null
+  },
+  "cooldown": [
+    17,
+    12
+  ],
+  "evolution": {
+    "evolution": 2534,
+    "evolvers": [
+      118,
+      118,
+      102,
+      101,
+      267
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2533.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2533.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

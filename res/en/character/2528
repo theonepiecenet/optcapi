@@ -1,0 +1,65 @@
+{
+  "name": "Neptune [EX], The Great Knight of the Sea",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 1.5x and boosts EXP gained by 1.25x",
+    "captainNotes": "EXP boost does not take effect if he becomes your captain in the middle of the adventure.",
+    "special": "Changes own orb into [DEX], reduces Despair and ATK DOWN duration by 5 turns and reduces enemies' Resilience Buffs duration by 5 turns. Reduces the defense of all enemies by 80% and amplifies the effect of orbs by 1.75x for Striker and Powerhouse characters for 3 turns",
+    "sailor": "Boosts base ATK, HP and RCV of Powerhouse characters by 50",
+    "specialName": "Great Ocean Current of Resuscitation [EX]"
+  },
+  "aliases": [
+    "ネプチューン「ＥＸ」 海の大騎士",
+    "",
+    "Coliseum Neptune EX"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Striker",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 6,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 359,
+    "minATK": 165,
+    "minRCV": 46,
+    "maxHP": 1631,
+    "maxATK": 947,
+    "maxRCV": 138,
+    "ability": 1
+  },
+  "cooldown": [
+    24,
+    15
+  ],
+  "evolution": {
+    "evolution": 2529,
+    "evolvers": [
+      118,
+      97,
+      1180,
+      302,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2528.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2528.png"
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum EX Vs. King Neptune",
+      "thumb": 2529,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

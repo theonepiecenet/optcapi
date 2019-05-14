@@ -1,0 +1,52 @@
+{
+  "name": "Perona",
+  "detail": {
+    "captain": "Boosts ATK and RCV of Driven characters by 1.75x.",
+    "special": "Recovers 50% of crew's MAX HP and reduces damage received by 70% for 3 turns.",
+    "specialName": "Party Ghost Greeting"
+  },
+  "aliases": [
+    "",
+    "",
+    "Anniversary Perona"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": null,
+    "cost": null,
+    "combo": null,
+    "slots": null,
+    "level": null,
+    "exp": null,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    15,
+    15
+  ],
+  "evolution": {
+    "evolution": 2548,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2547.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2547.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

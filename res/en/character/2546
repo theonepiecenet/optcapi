@@ -1,0 +1,78 @@
+{
+  "name": "Portgas D. Ace, Celebrate the Wonderful Cruise",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 2.5x and makes [RCV] orbs beneficial for Cerebral characters.",
+    "sailor": {
+      "base": "None",
+      "Level1": "Restores his own special cooldown by 2 turns when it is rewinded"
+    },
+    "special": "Binds self for 5 turns, reduces Special Cooldown of all characters by 2 turns and locks the chain multiplier at 3x for 2 turns.",
+    "specialName": "My Paced Feast",
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 2 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 7 turns on this character"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Anniversary Ace"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Free Spirit",
+      "Shooter"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": null,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    15,
+    15
+  ],
+  "evolve": {
+    "evolution": 2546,
+    "evolvers": [],
+    "from": 2545
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2546.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2546.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

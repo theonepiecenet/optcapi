@@ -1,0 +1,159 @@
+{
+  "name": "Lucci & Kaku, Evolved",
+  "detail": {
+    "captain": {
+      "character1": "Boosts ATK of Powerhouse characters by 2.75x if they have a Matching orb, by 2.25x otherwise. Reduces RCV of all characters by ?%.",
+      "character2": "Boosts ATK of Powerhouse characters by 2.25x and boosts damage of Powerhouse Typed specials by 1.2x.",
+      "combined": "Boosts ATK of Powerhouse characters by 3x if they have a Matching orb, by 2.5x otherwise and boosts damage of Powerhouse Typed specials by 1.5x."
+    },
+    "sailor": {
+      "character1": "Boosts base ATK and HP of Powerhouse and Fighter characters by 30",
+      "character2": "Boosts base ATK and HP of Powerhouse and Slasher characters by 30",
+      "combined": "Boosts base ATK and HP of Powerhouse, Fighter and Slasher characters by 50",
+      "level1": "If your Captain is a Powerhouse, Fighter or Slasher character, completely removes Blindness duration"
+    },
+    "special": "Deals 50x character's ATK in character's Type damage to all enemies and becomes Lucci & Kaku for 2 turns. If your Captain is a Powerhouse, Fighter or Slasher character, boosts ATK of Powerhouse, Fighter and Slasher characters by 2x for 1 turn.",
+    "swap": "When Change is activated, makes [TND] orbs beneficial for Powerhouse, Fighter or Slasher characters for 1 turn and adds 0.3x to Chain multiplier for 1 turn.",
+    "specialName": "Tempest Kick - Twin Beasts",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If your Captain is a Powerhouse, Fighter or Slasher character, completely removes Blindness duration"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 4% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 60% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 80% chance to deal 7% of this character's attack in extra damage"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Lucci&Kaku",
+    "Lucci & Kaku",
+    "Lucci and Kaku",
+    "Lucci Kaku",
+    "LucciKaku",
+    "Kaku&Lucci",
+    "Kaku and Lucci",
+    "Kaku Lucci",
+    "KakuLucci"
+  ],
+  "unit": {
+    "type": [
+      "STR",
+      "DEX"
+    ],
+    "class": [
+      [
+        "Powerhouse",
+        "Fighter"
+      ],
+      [
+        "Powerhouse",
+        "Slasher"
+      ],
+      [
+        "Powerhouse",
+        "Slasher"
+      ]
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    18,
+    12
+  ],
+  "evolve": {
+    "evolution": 2538,
+    "evolvers": [
+      84,
+      86,
+      266,
+      300,
+      302
+    ],
+    "from": 2537
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2538.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2538.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}
