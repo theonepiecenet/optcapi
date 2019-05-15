@@ -2,20 +2,20 @@
     "name": "트라팔가 로, ‘하트’를 등에 진 남자",
     "detail": {
         "specialName": "카운터 쇼크",
-        "special": "Deals 30x character's ATK in [STR] damage to one enemy, reduces Bind and Despair duration by 2 turns, changes own orb and adjacent orb into Matching orbs, adds .7x to Chain multiplier for 1 turn and reduces Special Cooldown of Fighter, Slasher, Cerebral and Free Spirit specials by 1 turn",
+        "special": "적 1명에게 캐릭터의 공격력x30배의 [STR] 데미지를 주고, 봉쇄, 선장효과 무효 상태를 2턴 회복한다. 자신과 인접한 슬롯을 속성 일치 슬롯으로 변환하고, 1턴 동안 체인 계수가 +0.7 되며, 격투형, 참격형, 박식형, 자유형 캐릭터의 필살기 턴을 1턴 단축한다",
         "captain": {
-            "base": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.2x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
+            "base": "격투형, 참격형, 박식형, 자유형 캐릭터의 공격력을 각각 1.2배(타입이 중복될 경우 1.44배)로 만들고, 격투형, 참격형, 박식형, 자유형 캐릭터의 [TND][RCV] 슬롯도 [유리] 슬롯으로 취급한다",
             "level1": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.3x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
             "level2": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.4x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
             "level3": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.5x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
             "level4": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.6x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
             "level5": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.7x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters.",
-            "level6": "Boosts ATK of Fighter, Slasher, Cerebral and Free Spirit characters by 1.8x and makes [RCV] and [TND] orbs beneficial for Fighter, Slasher, Cerebral and Free Spirit characters."
+            "level6": "격투형, 참격형, 박식형, 자유형 캐릭터의 공격력을 각각 1.8배(타입이 중복될 경우 3.24배)로 만들고, 격투형, 참격형, 박식형, 자유형 캐릭터의 [TND][RCV] 슬롯도 [유리] 슬롯으로 취급한다"
         },
         "sailor": {
             "base": "None",
-            "level1": "Makes [TND] and [RCV] orbs beneficial for this character",
-            "level2": "Restores his own special cooldown by 2 turns when it is rewinded"
+            "level1": "자신은 [TND][RCV] 슬롯도 [유리] 슬롯으로 취급한다",
+            "level2": "자신의 필살기 턴 되돌리기를 2턴 회복한다"
         },
         "potential": [
             {
