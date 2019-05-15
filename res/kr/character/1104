@@ -1,7 +1,7 @@
 {
     "name": "아인, 제파의 마지막 제자",
     "detail": {
-        "specialName": "뒤로뒤로 열매",
+        "captain": "박식형 캐릭터의 공격력과 회복력이 1.75배가 된다",
         "special": [
             {
                 "description": "[BLOCK] 슬롯을 포함하여 모든 슬롯을 랜덤으로 바꾸고, 체력을 최대 체력의 12%만큼 회복시킨다",
@@ -23,13 +23,10 @@
                     27,
                     17
                 ]
-            },
-            {
-                "description": ""
             }
         ],
-        "captain": "박식형 캐릭터의 공격력과 회복력이 1.75배가 된다",
         "specialNotes": "#{stages}",
+        "specialName": "뒤로뒤로 열매",
         "sailor": {
             "base": "None",
             "level1": "Boosts base ATK, HP and RCV of all characters by 30",
@@ -105,5 +102,65 @@
                 ]
             }
         ]
-    }
+    },
+    "aliases": [
+        "アイン ゼファー最後の教え子",
+        "",
+        "Coliseum Ain"
+    ],
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Slasher",
+            "Cerebral"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 3,
+        "level": 99,
+        "exp": 3000000,
+        "minHP": 1019,
+        "minATK": 447,
+        "minRCV": 169,
+        "maxHP": 1986,
+        "maxATK": 870,
+        "maxRCV": 357,
+        "ability": 1
+    },
+    "cooldown": [
+        27,
+        17
+    ],
+    "evolve": {
+        "evolution": 1104,
+        "evolvers": [
+            117,
+            82,
+            88,
+            304,
+            104
+        ],
+        "from": 1103
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1104.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1104.png"
+    },
+    "flags": {
+        "global": 1
+    },
+    "drop": [],
+    "manual": [
+        {
+            "type": "Coliseum",
+            "name": "Time-Bending Neo Navy Vice-Admiral",
+            "thumb": 1104,
+            "data": [
+                "Chaos",
+                "Exebition",
+                "Underground"
+            ]
+        }
+    ]
 }
