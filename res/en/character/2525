@@ -1,0 +1,65 @@
+{
+  "name": "Roronoa Zoro, Dress up for Pirate Festival",
+  "detail": {
+    "captain": "Boosts ATK of Slaher characters by 1.75x. If a character has a DEX or INT orb, boosts their ATK by 2.1x instead",
+    "special": "Boosts ATK of [QCK], [PSY] and [INT] characters by 1.5x for 1 turn, adds 0.3x to Chain multiplier for 1 turn and changes adjacent orbs into [INT] orbs.",
+    "specialName": "Zoro Special",
+    "support": [
+      {
+        "Characters": "Luffy, Nami, Sanji, Usopp, Chopper, Robin, Franky and Brook",
+        "description": [
+          "Level 1: Adds ?% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Adds ?% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Adds ?% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Adds ?% of this character's base ATK to the supported character's base ATK.",
+          "Level 5: Adds 3% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Dress Up Zoro"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 2310,
+    "maxATK": 1311,
+    "maxRCV": 128,
+    "ability": null
+  },
+  "cooldown": [
+    null,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2525.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2525.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Dress Up for the Pirate Festival! Fortnight",
+      "thumb": 2524,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

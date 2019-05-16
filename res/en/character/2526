@@ -1,0 +1,65 @@
+{
+  "name": "Tony Tony Chopper, Dress up for Pirate Festival",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 1.75x and their HP by 1.2x",
+    "special": "Reduces the defense of all enemies by 50% for 1 turn, changes orbs in the middle row into [RCV] orbs and boosts RCV of all characters by 1.5x for 1 turn.",
+    "specialName": "Chopper Special",
+    "support": [
+      {
+        "Characters": "Luffy, Zoro, Nami, Sanji, Usopp, Robin, Franky and Brook",
+        "description": [
+          "Level 1: Adds ?% of this character's base RCV to the supported character's base RCV.",
+          "Level 2: Adds ?% of this character's base RCV to the supported character's base RCV.",
+          "Level 3: Adds ?% of this character's base RCV to the supported character's base RCV.",
+          "Level 4: Adds ?% of this character's base RCV to the supported character's base RCV.",
+          "Level 5: Adds 3% of this character's base RCV to the supported character's base RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Dress Up Chopper"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 6,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 1888,
+    "maxATK": 1012,
+    "maxRCV": 298,
+    "ability": null
+  },
+  "cooldown": [
+    null,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2526.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2526.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Dress Up for the Pirate Festival! Fortnight",
+      "thumb": 2524,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

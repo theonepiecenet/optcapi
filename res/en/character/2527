@@ -1,0 +1,65 @@
+{
+  "name": "Franky, Dress up for Pirate Festival",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 2x",
+    "special": "Makes [INT] orbs beneficial for all characters for 1 turn, locks all orbs for 1 turn and boosts ATK against enemies with reduced defense by 1.5x for 1 turn.",
+    "specialName": "Franky Special",
+    "support": [
+      {
+        "Characters": "Luffy, Zoro, Nami, Sanji, Usopp, Robin, Chopper and Brook",
+        "description": [
+          "Level 1: Adds ?% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Adds ?% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Adds ?% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Adds ?% of this character's base ATK to the supported character's base ATK.",
+          "Level 5: Adds 3% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Dress Up Franky"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Striker",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 2502,
+    "maxATK": 1305,
+    "maxRCV": 98,
+    "ability": null
+  },
+  "cooldown": [
+    null,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2527.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2527.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Dress Up for the Pirate Festival! Fortnight",
+      "thumb": 2524,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}
