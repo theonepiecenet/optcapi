@@ -1,12 +1,12 @@
 {
-  "name": "Portgas D. Ace",
+  "name": "Portgas D. Ace, Celebrate the Long Cruise",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit characters by ?x and makes [RCV] orbs beneficial for Cerebral characters.",
+    "captain": "Boosts ATK of Free Spirit characters by 2x and makes [RCV] orbs beneficial for Free Spirit characters.",
     "special": "Binds self for 5 turns, reduces Special Cooldown of all characters by 2 turns and locks the chain multiplier at 3x for 2 turns.",
     "specialName": "My Paced Feast"
   },
   "aliases": [
-    "",
+    "ポートガス・D・エース Celebrate the long cruise",
     "",
     "Anniversary Ace"
   ],
@@ -18,17 +18,17 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
-    "slots": null,
+    "combo": 4,
+    "slots": 3,
     "level": 50,
     "exp": 392109,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 220,
+    "minATK": 112,
+    "minRCV": 26,
+    "maxHP": 1366,
+    "maxATK": 700,
+    "maxRCV": 159,
+    "ability": 1
   },
   "cooldown": [
     15,
