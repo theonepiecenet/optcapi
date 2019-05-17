@@ -1,5 +1,5 @@
 {
-  "name": "Red Hair Shanks & Ben Beckman, The Ones to End the War",
+  "name": "Red Hair Shanks & Ben Beckman, The Ones Who Will End the War",
   "detail": {
     "captain": {
       "character1": "Boosts ATK of [INT] Characters by 3x and boosts ATK of all other characters by 2x.",
@@ -9,7 +9,7 @@
     "special": "Changes all orbs, including [BLOCK] orbs, into [EMPTY] orbs, boosts the Color Affinity of all characters by 3x for 1 turn, locks the chain multiplier at 3x for 1 turn and becomes Shanks & Ben Beckman for 2 turns.",
     "specialNotes": "This special can only be activated if no other special has been activated this turn and removes the ability to activate any other specials this turn.",
     "swap": "When Change is activated, reduces Bind, Despair and Paralysis duration by 1 turn",
-    "specialName": "Shanks & Ben Beckman Special",
+    "specialName": "Controlling the Battlefield",
     "sailor": {
       "base": "None",
       "level1": "Reduces Blindness duration by 5 turns",
@@ -66,12 +66,15 @@
     "minHP": null,
     "minATK": null,
     "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
+    "maxHP": 2895,
+    "maxATK": 1474,
+    "maxRCV": 302,
     "ability": null
   },
-  "cooldown": null,
+  "cooldown": [
+    32,
+    null
+  ],
   "evolve": {
     "evolution": 2557,
     "evolvers": [],
