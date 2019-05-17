@@ -1,0 +1,68 @@
+{
+  "name": "Red Hair Shanks & Ben Beckman",
+  "detail": {
+    "captain": {
+      "character1": "Boosts ATK of [INT] Characters by ?x and boosts ATK of all other characters by ?x.",
+      "character2": "Boosts ATK of [DEX] Characters by ?x and boosts ATK of all other characters by ?x.",
+      "combined": "Boosts ATK of [DEX] and [INT] Characters by ?x and boosts ATK of all other characters by ?x."
+    },
+    "special": "Changes all orbs, including [BLOCK] orbs, into [EMPTY] orbs, boosts the Color Affinity of all characters by 3x for 1 turn, locks the chain multiplier at 3x for 1 turn and becomes Shanks & Ben Beckman for 2 turns.",
+    "specialNotes": "This special can only be activated if no other special has been activated this turn and removes the ability to activate any other specials this turn.",
+    "swap": "When Change is activated, reduces Bind, Despair and Paralysis duration by 1 turn",
+    "specialName": "Shanks & Ben Beckman Special"
+  },
+  "unit": {
+    "type": [
+      "STR",
+      "DEX"
+    ],
+    "class": [
+      [
+        "Cerebral",
+        "Slasher"
+      ],
+      [
+        "Cerebral",
+        "Striker"
+      ],
+      [
+        "Cerebral",
+        "Slasher"
+      ]
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": null,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2557,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2556.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2556.png"
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Shanks & Ben Beckman",
+      "thumb": 2557,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
+}

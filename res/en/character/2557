@@ -1,0 +1,86 @@
+{
+  "name": "Red Hair Shanks & Ben Beckman, The Ones to End the War",
+  "detail": {
+    "captain": {
+      "character1": "Boosts ATK of [INT] Characters by 3x and boosts ATK of all other characters by 2x.",
+      "character2": "Boosts ATK of [DEX] Characters by 3x and boosts ATK of all other characters by 2x.",
+      "combined": "Boosts ATK of [DEX] and [INT] Characters by 3.75x and boosts ATK of all other characters by 2.5x."
+    },
+    "special": "Changes all orbs, including [BLOCK] orbs, into [EMPTY] orbs, boosts the Color Affinity of all characters by 3x for 1 turn, locks the chain multiplier at 3x for 1 turn and becomes Shanks & Ben Beckman for 2 turns.",
+    "specialNotes": "This special can only be activated if no other special has been activated this turn and removes the ability to activate any other specials this turn.",
+    "swap": "When Change is activated, reduces Bind, Despair and Paralysis duration by 1 turn",
+    "specialName": "Shanks & Ben Beckman Special",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Blindness duration by 5 turns",
+      "level2": "Reduces Silence duration on this character by 5 turns"
+    },
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by ? turn",
+          "Level 2: Reduces No Healing duration by ? turn",
+          "Level 3: Reduces No Healing duration by ? turn",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": [
+      "STR",
+      "DEX"
+    ],
+    "class": [
+      [
+        "Cerebral",
+        "Slasher"
+      ],
+      [
+        "Cerebral",
+        "Striker"
+      ],
+      [
+        "Cerebral",
+        "Slasher"
+      ]
+    ],
+    "stars": 5,
+    "cost": 60,
+    "combo": 5,
+    "slots": 1,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": {
+    "evolution": 2557,
+    "evolvers": [],
+    "from": 2556
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2557.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2557.png"
+  },
+  "drop": [],
+  "manual": []
+}

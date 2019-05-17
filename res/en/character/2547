@@ -6,7 +6,7 @@
     "specialName": "Party Ghost Greeting"
   },
   "aliases": [
-    "",
+    "ペローナ Celebrate the long cruise",
     "",
     "Anniversary Perona"
   ],
@@ -16,19 +16,19 @@
       "Shooter",
       "Driven"
     ],
-    "stars": null,
-    "cost": null,
-    "combo": null,
-    "slots": null,
-    "level": null,
-    "exp": null,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 184,
+    "minATK": 94,
+    "minRCV": 38,
+    "maxHP": 1144,
+    "maxATK": 583,
+    "maxRCV": 235,
+    "ability": 1
   },
   "cooldown": [
     15,
@@ -36,7 +36,13 @@
   ],
   "evolution": {
     "evolution": 2548,
-    "evolvers": []
+    "evolvers": [
+      83,
+      86,
+      1180,
+      302,
+      102
+    ]
   },
   "evolve": [],
   "image": {

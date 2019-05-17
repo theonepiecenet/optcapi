@@ -1,0 +1,110 @@
+{
+  "name": "Lucky Roux, Red Hair Pirates Executive",
+  "detail": {
+    "captain": "Boosts ATK of [QCK] characters by 1.25x and their HP by 1.2x",
+    "special": "Reduces Bind duration by 5 turns, changes orbs on Free Spirit, Shooter and Slasher characters into [QCK] orbs. If you are on a Treasure Map, boosts ATK of Free Spirit, Shooter and Slasher characters depending on your Treasure Map Level for 1 turn.",
+    "specialName": "Lucky Roux Special",
+    "specialNotes": "Level 1-10: 1.75x ATK boost<br>Level 11-20: 2x ATK boost<br>Level 21+: 2.25x ATK boost",
+    "limit": [
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": ""
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turn on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by 7 turns on this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Shanks and Ben Beckman",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by ?x for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by ?x for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by ?x for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by ?x for 1 turn.",
+          "Level 5: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by 1.5x for 1 turn."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Limited Lucky Roux",
+    "Secret Lucky Roux",
+    "Limited Lucky Roo",
+    "Secret Lucky Roo"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 1,
+    "minATK": 1,
+    "minRCV": 1,
+    "maxHP": 2000,
+    "maxATK": 1200,
+    "maxRCV": 200,
+    "ability": null
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2555.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2555.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

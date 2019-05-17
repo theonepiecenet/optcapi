@@ -8,6 +8,53 @@
     },
     "special": "Recovers 50% of crew's MAX HP and reduces damage received by 70% for 3 turns.",
     "specialName": "Party Ghost Greeting",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
     "potential": [
       {
         "Name": "Pinch Healing",
@@ -32,7 +79,7 @@
     ]
   },
   "aliases": [
-    "",
+    "ペローナ Celebrate the wonderful cruise",
     "",
     "Anniversary Perona"
   ],
@@ -42,19 +89,19 @@
       "Shooter",
       "Driven"
     ],
-    "stars": null,
-    "cost": null,
-    "combo": null,
-    "slots": null,
-    "level": null,
-    "exp": null,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 1016,
+    "minATK": 518,
+    "minRCV": 208,
+    "maxHP": 2214,
+    "maxATK": 1128,
+    "maxRCV": 455,
+    "ability": 1
   },
   "cooldown": [
     15,
@@ -62,7 +109,13 @@
   ],
   "evolve": {
     "evolution": 2548,
-    "evolvers": [],
+    "evolvers": [
+      83,
+      86,
+      1180,
+      302,
+      102
+    ],
     "from": 2547
   },
   "image": {
