@@ -1,11 +1,11 @@
 {
-  "name": "‘낮의 왕’ 이누아라시, 모코모 공국 제일의 전사",
-  "detail": {
-    "specialName": "Lightning Counterattack",
-    "special": "Reduces Silence duration by 4 turns and reduces enemy Threshold Damage Reduction duration by 3 turns. If you are on a Treasure Map, amplifies the effects of orbs for all characters depending on your Treasure Map Level for 1 turn",
-    "captain": "If there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, boosts ATK of all characters by 2.25x and their HP by 1.2x. If you use \"Lightning Counterattack\" in this turn and there's a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew boosts ATK of all characters by 3.5x instead, by 1.55x otherwise.",
-    "sailor": "Reduces Silence duration on this character by 3 turns",
-    "specialNotes": "Level 1-10: 1.75x orb boost Level 11-20: 2x orb boost Level 21+: 2.25x orb boost",
-    "sailorNotes": "#{silence}"
-  }
+    "name": "‘낮의 왕’ 이누아라시, 모코모 공국 제일의 전사",
+    "detail": {
+        "specialName": "일렉트릭 카운터",
+        "special": "일당의 필살기 봉쇄 상태를 4턴 회복하고, 적 전체에 걸려 있는 [THRESHOLD DAMAGE] 상태를 3턴 줄이며, 1턴 동안 일당의 슬롯 영향이 트레저 맵 Lv 1~10일 때 1.75배, Lv 11~20일 때 2배, Lv 21 이상일 때 2.25배가 된다",
+        "captain": "일당에 모든 속성이 편성되어 있으면 일당의 공격력을 2.25배, 체력을 1.2배로 만들고, 추가로 「일렉트릭 카운터」를 사용한 턴은 일당의 공격력이 약 3.5배가 된다(일당에 모든 속성이 편성되어 있지 않으면 「일렉트릭 카운터」를 사용한 턴은 일당의 공격력이 약 1.55배가 된다)",
+        "sailor": "자신의 필살기 봉쇄 상태를 3턴 회복한다",
+        "specialNotes": "Level 1-10: 1.75x orb boost Level 11-20: 2x orb boost Level 21+: 2.25x orb boost",
+        "sailorNotes": "#{silence}"
+    }
 }
