@@ -1,0 +1,46 @@
+{
+  "name": "Monkey D. Luffy, Delicious Kitchen",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.25x and boosts EXP and amount of Beli received by 1.2x",
+    "special": "Deals 50x character's ATK in Typeless damage to one enemy and amplifies the effect of orbs by 1.75x for 1 turn.",
+    "sailor": "Boosts base ATK, HP and RCV of all characters by 25.",
+    "specialName": "Gomu Gomu no Grizzly Magnum"
+  },
+  "aliases": [
+    "",
+    "",
+    "Kitchen Luffy",
+    "EXP Luffy"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": null,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 2080,
+    "maxATK": 1222,
+    "maxRCV": 286,
+    "ability": null
+  },
+  "cooldown": [
+    11,
+    11
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2494.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2494.png"
+  },
+  "drop": [],
+  "manual": []
+}

@@ -11,9 +11,8 @@
     "swap": "When Change is activated, reduces Bind, Despair and Paralysis duration by 1 turn",
     "specialName": "Controlling the Battlefield",
     "sailor": {
-      "base": "None",
-      "level1": "Reduces Blindness duration by 5 turns",
-      "level2": "Reduces Silence duration on this character by 5 turns"
+      "base": "Reduces Blindness duration by 5 turns",
+      "level1": "Reduces Silence duration on this character by 5 turns"
     },
     "potential": [
       {
@@ -86,7 +85,7 @@
   },
   "cooldown": [
     32,
-    null
+    24
   ],
   "evolve": {
     "evolution": 2557,
