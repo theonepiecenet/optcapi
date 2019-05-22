@@ -1,0 +1,7668 @@
+[
+    {
+        "id": 1, 
+        "aliases": [
+            "Monkey D. Luffy", 
+            "\ubabd\ud0a4 D. \ub8e8\ud53c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubabd\ud0a4 D. \ub8e8\ud53c", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 2, 
+        "aliases": [
+            "Monkey D. Luffy Gum-Gum Pistol", 
+            "\ubabd\ud0a4 D. \ub8e8\ud53c", 
+            "\uace0\ubb34\uace0\ubb34 \ucd1d"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubabd\ud0a4 D. \ub8e8\ud53c, \uace0\ubb34\uace0\ubb34 \ucd1d", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 3, 
+        "aliases": [
+            "Monkey D. Luffy Gum-Gum Bazooka", 
+            "\ubabd\ud0a4 D. \ub8e8\ud53c", 
+            "\uace0\ubb34 \uace0\ubb34 \ubc14\uc8fc\uce74"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubabd\ud0a4 D. \ub8e8\ud53c, \uace0\ubb34 \uace0\ubb34 \ubc14\uc8fc\uce74", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 4, 
+        "aliases": [
+            "Monkey D. Luffy Gear 2", 
+            "\ubabd\ud0a4 D. \ub8e8\ud53c", 
+            "\uae30\uc5b4 2"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubabd\ud0a4 D. \ub8e8\ud53c, \uae30\uc5b4 2", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 5, 
+        "aliases": [
+            "Roronoa Zoro", 
+            "\ub864\ub85c\ub178\uc544 \uc870\ub85c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub864\ub85c\ub178\uc544 \uc870\ub85c", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 6, 
+        "aliases": [
+            "Roronoa Zoro Three Thousand Worlds", 
+            "\ub864\ub85c\ub178\uc544 \uc870\ub85c", 
+            "\uc0bc\ucc9c\uc138\uacc4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub864\ub85c\ub178\uc544 \uc870\ub85c, \uc0bc\ucc9c\uc138\uacc4", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 7, 
+        "aliases": [
+            "Roronoa Zoro Pound Phoenix", 
+            "\ub864\ub85c\ub178\uc544 \uc870\ub85c", 
+            "\ubc88\ub1cc\ubd09"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub864\ub85c\ub178\uc544 \uc870\ub85c, \ubc88\ub1cc\ubd09", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 8, 
+        "aliases": [
+            "Roronoa Zoro Ashura Ichibugin", 
+            "\ub864\ub85c\ub178\uc544 \uc870\ub85c", 
+            "\uc544\uc218\ub77c \uc77c\ubb34\uc740"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub864\ub85c\ub178\uc544 \uc870\ub85c, \uc544\uc218\ub77c \uc77c\ubb34\uc740", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 9, 
+        "aliases": [
+            "Nami", 
+            "\ub098\ubbf8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub098\ubbf8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 10, 
+        "aliases": [
+            "Nami Tornado Tempo", 
+            "\ub098\ubbf8", 
+            "\ud1a0\ub124\uc774\ub3c4 \ud15c\ud3ec"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub098\ubbf8, \ud1a0\ub124\uc774\ub3c4 \ud15c\ud3ec", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 11, 
+        "aliases": [
+            "Nami Mirage Tempo", 
+            "\ub098\ubbf8", 
+            "\ubbf8\ub77c\uc96c \ud15c\ud3ec"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub098\ubbf8, \ubbf8\ub77c\uc96c \ud15c\ud3ec", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 12, 
+        "aliases": [
+            "Nami Thunderbolt Tempo", 
+            "\ub098\ubbf8", 
+            "\uc36c\ub354\ubcfc\ud2b8 \ud15c\ud3ec"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub098\ubbf8, \uc36c\ub354\ubcfc\ud2b8 \ud15c\ud3ec", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 13, 
+        "aliases": [
+            "Usopp", 
+            "\uc6b0\uc19d"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc6b0\uc19d", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 14, 
+        "aliases": [
+            "Usopp Tabasco Star", 
+            "\uc6b0\uc19d", 
+            "\ud0c0\ubc14\uc2a4\ucf54 \ud0c4"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc6b0\uc19d, \ud0c0\ubc14\uc2a4\ucf54 \ud0c4", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 15, 
+        "aliases": [
+            "Usopp Golden Pound", 
+            "\uc6b0\uc19d", 
+            "\uace8\ub4e0 \ud30c\uc6b4\ub4dc"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc6b0\uc19d, \uace8\ub4e0 \ud30c\uc6b4\ub4dc", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 16, 
+        "aliases": [
+            "Sogeking", 
+            "\uc800\uaca9\uc655"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc800\uaca9\uc655", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 17, 
+        "aliases": [
+            "Sanji", 
+            "\uc0c1\ub514"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc0c1\ub514", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 18, 
+        "aliases": [
+            "Sanji Plastic Surgery Shot", 
+            "\uc0c1\ub514", 
+            "\uc815\ud615 \uc1fc\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc0c1\ub514, \uc815\ud615 \uc1fc\ud2b8", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 19, 
+        "aliases": [
+            "Chef Sanji Hot Rock Stew", 
+            "\uc694\ub9ac\uc0ac \uc0c1\ub514", 
+            "\uad6c\uc6b4 \ub3cc \uc2a4\ud29c"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc694\ub9ac\uc0ac \uc0c1\ub514, \uad6c\uc6b4 \ub3cc \uc2a4\ud29c", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 20, 
+        "aliases": [
+            "Sanji Diable Jambe Flambe", 
+            "\uc0c1\ub514", 
+            "\ub514\uc544\ube14 \uc7a0\ube0c"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc0c1\ub514, \ub514\uc544\ube14 \uc7a0\ube0c", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 21, 
+        "aliases": [
+            "Tony Tony Chopper", 
+            "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 22, 
+        "aliases": [
+            "Tony Tony Chopper Heavy Point", 
+            "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c", 
+            "\uc911\ub7c9 \uac15\ud654"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c, \uc911\ub7c9 \uac15\ud654", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 23, 
+        "aliases": [
+            "Tony Tony Chopper Brain Point", 
+            "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c", 
+            "\ub450\ub1cc \uac15\ud654"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c, \ub450\ub1cc \uac15\ud654", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 24, 
+        "aliases": [
+            "Tony Tony Chopper Arm Point", 
+            "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c", 
+            "\uc644\ub825 \uac15\ud654"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c, \uc644\ub825 \uac15\ud654", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 25, 
+        "aliases": [
+            "Tony Tony Chopper Horn Point", 
+            "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c", 
+            "\ubfd4 \uac15\ud654"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c, \ubfd4 \uac15\ud654", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 26, 
+        "aliases": [
+            "Tony Tony Chopper Guard Point", 
+            "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c", 
+            "\ubaa8\ud53c \uac15\ud654"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c, \ubaa8\ud53c \uac15\ud654", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 27, 
+        "aliases": [
+            "Higuma", 
+            "\ud788\uadf8\ub9c8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud788\uadf8\ub9c8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 28, 
+        "aliases": [
+            "Master of the Near Sea", 
+            "\uc55e\ubc14\ub2e4\uc758 \uad34\ubb3c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc55e\ubc14\ub2e4\uc758 \uad34\ubb3c", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 29, 
+        "aliases": [
+            "Iron-Mace Alvida", 
+            "\uc1e0\ubabd\ub465\uc774 \uc54c\ube44\ub2e4"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc1e0\ubabd\ub465\uc774 \uc54c\ube44\ub2e4", 
+        "class": [
+            "Striker", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 30, 
+        "aliases": [
+            "Iron-Mace Alvida Smooth-Smooth Fruit", 
+            "\uc1e0\ubabd\ub465\uc774 \uc54c\ube44\ub2e4", 
+            "\ub9e4\ub048\ub9e4\ub048 \uc5f4\ub9e4"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc1e0\ubabd\ub465\uc774 \uc54c\ube44\ub2e4, \ub9e4\ub048\ub9e4\ub048 \uc5f4\ub9e4", 
+        "class": [
+            "Striker", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 31, 
+        "aliases": [
+            "Coby", 
+            "\ucf54\ube44"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ucf54\ube44", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 32, 
+        "aliases": [
+            "Cabin Boy Coby", 
+            "\uc7a1\uc77c\uafbc \ucf54\ube44"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc7a1\uc77c\uafbc \ucf54\ube44", 
+        "class": [
+            "Fighter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 33, 
+        "aliases": [
+            "Helmeppo", 
+            "\ud5e4\ub974\uba54\ud3ec"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ud5e4\ub974\uba54\ud3ec", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 34, 
+        "aliases": [
+            "Cabin Boy Helmeppo", 
+            "\uc7a1\uc77c\uafbc \ud5e4\ub974\uba54\ud3ec"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc7a1\uc77c\uafbc \ud5e4\ub974\uba54\ud3ec", 
+        "class": [
+            "Fighter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 35, 
+        "aliases": [
+            "Axe-Hand Morgan", 
+            "\ub3c4\ub07c\uc190 \ubaa8\uac74"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub3c4\ub07c\uc190 \ubaa8\uac74", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 36, 
+        "aliases": [
+            "Mohji & Richie", 
+            "\ubaa8\ub514 & \ub9ac\uce58"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubaa8\ub514 & \ub9ac\uce58", 
+        "class": [
+            "Fighter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 37, 
+        "aliases": [
+            "Cabaji the Acrobat", 
+            "\uace1\uc608\uc0ac \uce90\ubc84\ub514"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uace1\uc608\uc0ac \uce90\ubc84\ub514", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 38, 
+        "aliases": [
+            "Buggy", 
+            "\ubc84\uae30"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubc84\uae30", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 39, 
+        "aliases": [
+            "Buggy the Clown", 
+            "\uad11\ub300 \ubc84\uae30"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uad11\ub300 \ubc84\uae30", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 40, 
+        "aliases": [
+            "Gaimon", 
+            "\uac00\uc774\ubaac"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uac00\uc774\ubaac", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 41, 
+        "aliases": [
+            "Siam", 
+            "\uc0f4"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc0f4", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 42, 
+        "aliases": [
+            "Butchie", 
+            "\ubfcc\uce58"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubfcc\uce58", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 43, 
+        "aliases": [
+            "One-Two Django", 
+            "\uc6d0 \ud22c \uc7dd\uace0"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc6d0 \ud22c \uc7dd\uace0", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 44, 
+        "aliases": [
+            "Dancing Django", 
+            "\ub304\uc2f1 \uc7dd\uace0"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub304\uc2f1 \uc7dd\uace0", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 45, 
+        "aliases": [
+            "Captain Kuro", 
+            "\ucea1\ud2f4 \ud06c\ub85c"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ucea1\ud2f4 \ud06c\ub85c", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 46, 
+        "aliases": [
+            "Kuro of a Hundred Plans", 
+            "\ubc31\uacc4\uc758 \ud06c\ub85c"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ubc31\uacc4\uc758 \ud06c\ub85c", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 47, 
+        "aliases": [
+            "Yosaku", 
+            "\uc694\uc0ad"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc694\uc0ad", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 48, 
+        "aliases": [
+            "Johnny", 
+            "\uc870\ub2c8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc870\ub2c8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 49, 
+        "aliases": [
+            "Iron Fist Fullbody", 
+            "\ucca0\uad8c \ud480\ubcf4\ub514"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucca0\uad8c \ud480\ubcf4\ub514", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 50, 
+        "aliases": [
+            "Patty", 
+            "\ud30c\ud2f0"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud30c\ud2f0", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 51, 
+        "aliases": [
+            "Carne", 
+            "\uce74\ub974\ub124"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uce74\ub974\ub124", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 52, 
+        "aliases": [
+            "Chef Zeff", 
+            "\uc694\ub9ac\uc7a5 \uc81c\ud504"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc694\ub9ac\uc7a5 \uc81c\ud504", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 53, 
+        "aliases": [
+            "Gin", 
+            "\uae45"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uae45", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 54, 
+        "aliases": [
+            "Gin the Man-Demon", 
+            "\uadc0\uc2e0 \uae45"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uadc0\uc2e0 \uae45", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 55, 
+        "aliases": [
+            "Pearl", 
+            "\ud30c\uc54c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud30c\uc54c", 
+        "class": [
+            "Striker", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 56, 
+        "aliases": [
+            "Fire Pearl", 
+            "\ud30c\uc774\uc5b4 \ud30c\uc54c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud30c\uc774\uc5b4 \ud30c\uc54c", 
+        "class": [
+            "Striker", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 57, 
+        "aliases": [
+            "Don Krieg", 
+            "\uc218\ub839 \ud074\ub9ac\ud06c"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc218\ub839 \ud074\ub9ac\ud06c", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 58, 
+        "aliases": [
+            "Don Krieg Poison Gas Bomb MH5", 
+            "\uc218\ub839 \ud074\ub9ac\ud06c", 
+            "\ub9f9\ub3c5 \uac00\uc2a4\ud0c4 \u2018MH5\u2019"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc218\ub839 \ud074\ub9ac\ud06c, \ub9f9\ub3c5 \uac00\uc2a4\ud0c4 \u2018MH5\u2019", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 59, 
+        "aliases": [
+            "Nezumi", 
+            "\ub124\uc988\ubbf8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub124\uc988\ubbf8", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 60, 
+        "aliases": [
+            "Momoo", 
+            "\ubaa8\uc634"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubaa8\uc634", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 61, 
+        "aliases": [
+            "Choo", 
+            "\uce04"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uce04", 
+        "class": [
+            "Shooter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 62, 
+        "aliases": [
+            "Kuroobi", 
+            "\ucfe0\ub85c\uc624\ube44"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucfe0\ub85c\uc624\ube44", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 63, 
+        "aliases": [
+            "Hatchan", 
+            "\ud558\ucc0c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud558\ucc0c", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 64, 
+        "aliases": [
+            "Six-Sword Hachi", 
+            "\uc721\ub3c4\ub958 \ud558\ucc0c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc721\ub3c4\ub958 \ud558\ucc0c", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 65, 
+        "aliases": [
+            "Arlong", 
+            "\uc544\ub860"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc544\ub860", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 66, 
+        "aliases": [
+            "Enraged Arlong Shark On Tooth", 
+            "\uaca9\ubd84\ud55c \uc544\ub860", 
+            "\uc0e4\ud06c \uc628 \ud68c\uc804\ud1b1\ub0a0"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uaca9\ubd84\ud55c \uc544\ub860, \uc0e4\ud06c \uc628 \ud68c\uc804\ud1b1\ub0a0", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 67, 
+        "aliases": [
+            "Tashigi", 
+            "\ud0c0\uc2dc\uae30"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud0c0\uc2dc\uae30", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 68, 
+        "aliases": [
+            "Tashigi Navy HQ Ensign", 
+            "\ud0c0\uc2dc\uae30 \ud574\uad70\ubcf8\ubd80 \uc18c\uc704"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud0c0\uc2dc\uae30 \ud574\uad70\ubcf8\ubd80 \uc18c\uc704", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 69, 
+        "aliases": [
+            "Smoker", 
+            "\uc2a4\ubaa8\ucee4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc2a4\ubaa8\ucee4", 
+        "class": [
+            "Striker", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 70, 
+        "aliases": [
+            "Smoker the White Hunter", 
+            "\ud558\uc580\uc0ac\ub0e5\uafbc \uc2a4\ubaa8\ucee4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud558\uc580\uc0ac\ub0e5\uafbc \uc2a4\ubaa8\ucee4", 
+        "class": [
+            "Striker", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 71, 
+        "aliases": [
+            "Miss Wednesday", 
+            "\ubbf8\uc2a4 \uc6ec\uc988\ub370\uc774"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubbf8\uc2a4 \uc6ec\uc988\ub370\uc774", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 72, 
+        "aliases": [
+            "Nefertari Vivi", 
+            "\ub124\ud3a0\ud0c0\ub9ac \ube44\ube44"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub124\ud3a0\ud0c0\ub9ac \ube44\ube44", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 73, 
+        "aliases": [
+            "Princess Vivi", 
+            "\uc655\ub140 \ube44\ube44"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc655\ub140 \ube44\ube44", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 74, 
+        "aliases": [
+            "Portgas D. Ace", 
+            "\ud3ec\ud2b8\uac70\uc2a4 D. \uc5d0\uc774\uc2a4"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud3ec\ud2b8\uac70\uc2a4 D. \uc5d0\uc774\uc2a4", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 75, 
+        "aliases": [
+            "Portgas D. Ace Flame Mirror", 
+            "\ud3ec\ud2b8\uac70\uc2a4 D. \uc5d0\uc774\uc2a4", 
+            "\uacbd\ud654\uc5fc"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud3ec\ud2b8\uac70\uc2a4 D. \uc5d0\uc774\uc2a4, \uacbd\ud654\uc5fc", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 76, 
+        "aliases": [
+            "Shanks", 
+            "\uc0f9\ud06c\uc2a4"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc0f9\ud06c\uc2a4", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 77, 
+        "aliases": [
+            "Red-Haired Shanks", 
+            "\ube68\uac04 \uba38\ub9ac \uc0f9\ud06c\uc2a4"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ube68\uac04 \uba38\ub9ac \uc0f9\ud06c\uc2a4", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 78, 
+        "aliases": [
+            "Red Robber Penguin", 
+            "\ube68\uac04 \ub3c4\ub451 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ube68\uac04 \ub3c4\ub451 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 79, 
+        "aliases": [
+            "Blue Robber Penguin", 
+            "\ud30c\ub780 \ub3c4\ub451 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud30c\ub780 \ub3c4\ub451 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 80, 
+        "aliases": [
+            "Green Robber Penguin", 
+            "\ucd08\ub85d \ub3c4\ub451 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd08\ub85d \ub3c4\ub451 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 81, 
+        "aliases": [
+            "Yellow Robber Penguin", 
+            "\ub178\ub780 \ub3c4\ub451 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \ub3c4\ub451 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 82, 
+        "aliases": [
+            "Black Robber Penguin", 
+            "\uac80\uc740 \ub3c4\ub451 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac80\uc740 \ub3c4\ub451 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 83, 
+        "aliases": [
+            "Rainbow Robber Penguin", 
+            "\ubb34\uc9c0\uac1c \ub3c4\ub451 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubb34\uc9c0\uac1c \ub3c4\ub451 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 84, 
+        "aliases": [
+            "Red Pirate Penguin", 
+            "\ube68\uac04 \ud574\uc801 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ube68\uac04 \ud574\uc801 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 85, 
+        "aliases": [
+            "Blue Pirate Penguin", 
+            "\ud30c\ub780 \ud574\uc801 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud30c\ub780 \ud574\uc801 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 86, 
+        "aliases": [
+            "Green Pirate Penguin", 
+            "\ucd08\ub85d \ud574\uc801 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd08\ub85d \ud574\uc801 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 87, 
+        "aliases": [
+            "Yellow Pirate Penguin", 
+            "\ub178\ub780 \ud574\uc801 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \ud574\uc801 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 88, 
+        "aliases": [
+            "Black Pirate Penguin", 
+            "\uac80\uc740 \ud574\uc801 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac80\uc740 \ud574\uc801 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 89, 
+        "aliases": [
+            "Red Hermit Crab", 
+            "\ube68\uac04 \ud22c\uad6c\uc18c\ub77c\uac8c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ube68\uac04 \ud22c\uad6c\uc18c\ub77c\uac8c", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 90, 
+        "aliases": [
+            "Blue Hermit Crab", 
+            "\ud30c\ub780 \ud22c\uad6c\uc18c\ub77c\uac8c"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud30c\ub780 \ud22c\uad6c\uc18c\ub77c\uac8c", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 91, 
+        "aliases": [
+            "Green Hermit Crab", 
+            "\ucd08\ub85d \ud22c\uad6c\uc18c\ub77c\uac8c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd08\ub85d \ud22c\uad6c\uc18c\ub77c\uac8c", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 92, 
+        "aliases": [
+            "Yellow Hermit Crab", 
+            "\ub178\ub780 \ud22c\uad6c\uc18c\ub77c\uac8c"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \ud22c\uad6c\uc18c\ub77c\uac8c", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 93, 
+        "aliases": [
+            "Black Hermit Crab", 
+            "\uac80\uc740 \ud22c\uad6c\uc18c\ub77c\uac8c"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac80\uc740 \ud22c\uad6c\uc18c\ub77c\uac8c", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 94, 
+        "aliases": [
+            "Rainbow Hermit Crab", 
+            "\ubb34\uc9c0\uac1c \ud22c\uad6c\uc18c\ub77c\uac8c"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubb34\uc9c0\uac1c \ud22c\uad6c\uc18c\ub77c\uac8c", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 95, 
+        "aliases": [
+            "Red Armored Crab", 
+            "\ube68\uac04 \uac11\uc637 \uac8c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ube68\uac04 \uac11\uc637 \uac8c", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 96, 
+        "aliases": [
+            "Blue Armored Crab", 
+            "\ud30c\ub780 \uac11\uc637 \uac8c"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud30c\ub780 \uac11\uc637 \uac8c", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 97, 
+        "aliases": [
+            "Green Armored Crab", 
+            "\ucd08\ub85d \uac11\uc637 \uac8c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd08\ub85d \uac11\uc637 \uac8c", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 98, 
+        "aliases": [
+            "Yellow Armored Crab", 
+            "\ub178\ub780 \uac11\uc637 \uac8c"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \uac11\uc637 \uac8c", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 99, 
+        "aliases": [
+            "Black Armored Crab", 
+            "\uac80\uc740 \uac11\uc637 \uac8c"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac80\uc740 \uac11\uc637 \uac8c", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 100, 
+        "aliases": [
+            "Red Striped Dragon", 
+            "\ube68\uac04 \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ube68\uac04 \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 101, 
+        "aliases": [
+            "Blue Striped Dragon", 
+            "\ud30c\ub780 \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud30c\ub780 \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 102, 
+        "aliases": [
+            "Green Striped Dragon", 
+            "\ucd08\ub85d \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd08\ub85d \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 103, 
+        "aliases": [
+            "Yellow Striped Dragon", 
+            "\ub178\ub780 \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 104, 
+        "aliases": [
+            "Black Striped Dragon", 
+            "\uac80\uc740 \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac80\uc740 \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 105, 
+        "aliases": [
+            "Red Treasure Turtle", 
+            "\ube68\uac04 \ubcf4\ubb3c \uac70\ubd81"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ube68\uac04 \ubcf4\ubb3c \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 106, 
+        "aliases": [
+            "Blue Treasure Turtle", 
+            "\ud30c\ub780 \ubcf4\ubb3c \uac70\ubd81"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud30c\ub780 \ubcf4\ubb3c \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 107, 
+        "aliases": [
+            "Green Treasure Turtle", 
+            "\ucd08\ub85d \ubcf4\ubb3c \uac70\ubd81"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd08\ub85d \ubcf4\ubb3c \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 108, 
+        "aliases": [
+            "Yellow Treasure Turtle", 
+            "\ub178\ub780 \ubcf4\ubb3c \uac70\ubd81"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \ubcf4\ubb3c \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 109, 
+        "aliases": [
+            "Black Treasure Turtle", 
+            "\uac80\uc740 \ubcf4\ubb3c \uac70\ubd81"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac80\uc740 \ubcf4\ubb3c \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 110, 
+        "aliases": [
+            "Red Daimyo Turtle", 
+            "\ube68\uac04 \uc601\uc8fc \uac70\ubd81"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ube68\uac04 \uc601\uc8fc \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 111, 
+        "aliases": [
+            "Blue Daimyo Turtle", 
+            "\ud30c\ub780 \uc601\uc8fc \uac70\ubd81"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud30c\ub780 \uc601\uc8fc \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 112, 
+        "aliases": [
+            "Green Daimyo Turtle", 
+            "\ucd08\ub85d \uc601\uc8fc \uac70\ubd81"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd08\ub85d \uc601\uc8fc \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 113, 
+        "aliases": [
+            "Yellow Daimyo Turtle", 
+            "\ub178\ub780 \uc601\uc8fc \uac70\ubd81"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \uc601\uc8fc \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 114, 
+        "aliases": [
+            "Black Daimyo Turtle", 
+            "\uac80\uc740 \uc601\uc8fc \uac70\ubd81"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac80\uc740 \uc601\uc8fc \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 115, 
+        "aliases": [
+            "Sea Pony", 
+            "\uc544\uae30 \ud574\ub9c8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc544\uae30 \ud574\ub9c8", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 116, 
+        "aliases": [
+            "Sea Colt", 
+            "\ud574\ub9c8 \uc655\uc790"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud574\ub9c8 \uc655\uc790", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 117, 
+        "aliases": [
+            "Sea Horse", 
+            "\ud574\ub9c8\uc655"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud574\ub9c8\uc655", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 118, 
+        "aliases": [
+            "Sea Stallion", 
+            "\ud574\ub9c8\uc2e0"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud574\ub9c8\uc2e0", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 119, 
+        "aliases": [
+            "Sword Bandit", 
+            "\uce7c\uc7a1\uc774 \uc0b0\uc801"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uce7c\uc7a1\uc774 \uc0b0\uc801", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 120, 
+        "aliases": [
+            "Pistol Bandit", 
+            "\ud53c\uc2a4\ud1a8 \uc0b0\uc801"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud53c\uc2a4\ud1a8 \uc0b0\uc801", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 121, 
+        "aliases": [
+            "Fighter Group Cabin Boy Red Pirates", 
+            "\uaca9\ud22c\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uaca9\ud22c\ubd80\ub300 \uc7a1\uc77c\uafbc, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 122, 
+        "aliases": [
+            "Fighter Group Cabin Boy Blue Pirates", 
+            "\uaca9\ud22c\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uaca9\ud22c\ubd80\ub300 \uc7a1\uc77c\uafbc, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 123, 
+        "aliases": [
+            "Fighter Group Cabin Boy Green Pirates", 
+            "\uaca9\ud22c\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uaca9\ud22c\ubd80\ub300 \uc7a1\uc77c\uafbc, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 124, 
+        "aliases": [
+            "Fighter Group Cabin Boy Yellow Pirates", 
+            "\uaca9\ud22c\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uaca9\ud22c\ubd80\ub300 \uc7a1\uc77c\uafbc, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 125, 
+        "aliases": [
+            "Fighter Group Cabin Boy Black Pirates", 
+            "\uaca9\ud22c\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uaca9\ud22c\ubd80\ub300 \uc7a1\uc77c\uafbc, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 126, 
+        "aliases": [
+            "Slasher Group Cabin Boy Red Pirates", 
+            "\ucc38\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucc38\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 127, 
+        "aliases": [
+            "Slasher Group Cabin Boy Blue Pirates", 
+            "\ucc38\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ucc38\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 128, 
+        "aliases": [
+            "Slasher Group Cabin Boy Green Pirates", 
+            "\ucc38\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucc38\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 129, 
+        "aliases": [
+            "Slasher Group Cabin Boy Yellow Pirates", 
+            "\ucc38\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ucc38\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 130, 
+        "aliases": [
+            "Slasher Group Cabin Boy Black Pirates", 
+            "\ucc38\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ucc38\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 131, 
+        "aliases": [
+            "Striker Group Cabin Boy Red Pirates", 
+            "\ub3cc\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub3cc\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 132, 
+        "aliases": [
+            "Striker Group Cabin Boy Blue Pirates", 
+            "\ub3cc\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub3cc\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 133, 
+        "aliases": [
+            "Striker Group Cabin Boy Green Pirates", 
+            "\ub3cc\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub3cc\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 134, 
+        "aliases": [
+            "Striker Group Cabin Boy Yellow Pirates", 
+            "\ub3cc\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub3cc\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 135, 
+        "aliases": [
+            "Striker Group Cabin Boy Black Pirates", 
+            "\ub3cc\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub3cc\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 136, 
+        "aliases": [
+            "Shooter Group Cabin Boy Red Pirates", 
+            "\uc800\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc800\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 137, 
+        "aliases": [
+            "Shooter Group Cabin Boy Blue Pirates", 
+            "\uc800\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc800\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 138, 
+        "aliases": [
+            "Shooter Group Cabin Boy Green Pirates", 
+            "\uc800\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc800\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 139, 
+        "aliases": [
+            "Shooter Group Cabin Boy Yellow Pirates", 
+            "\uc800\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc800\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 140, 
+        "aliases": [
+            "Shooter Group Cabin Boy Black Pirates", 
+            "\uc800\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc800\uaca9\ubd80\ub300 \uc7a1\uc77c\uafbc, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 141, 
+        "aliases": [
+            "Cannoneer Cabin Boy", 
+            "\ud3ec\uaca9\uc218 \uc7a1\uc77c\uafbc"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ud3ec\uaca9\uc218 \uc7a1\uc77c\uafbc", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 142, 
+        "aliases": [
+            "Fighter Group Crew Red Pirates", 
+            "\uaca9\ud22c\ubd80\ub300 \ub300\uc6d0", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uaca9\ud22c\ubd80\ub300 \ub300\uc6d0, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 143, 
+        "aliases": [
+            "Fighter Group Crew Blue Pirates", 
+            "\uaca9\ud22c\ubd80\ub300 \ub300\uc6d0", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uaca9\ud22c\ubd80\ub300 \ub300\uc6d0, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 144, 
+        "aliases": [
+            "Fighter Group Crew Green Pirates", 
+            "\uaca9\ud22c\ubd80\ub300 \ub300\uc6d0", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uaca9\ud22c\ubd80\ub300 \ub300\uc6d0, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 145, 
+        "aliases": [
+            "Fighter Group Crew Yellow Pirates", 
+            "\uaca9\ud22c\ubd80\ub300 \ub300\uc6d0", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uaca9\ud22c\ubd80\ub300 \ub300\uc6d0, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 146, 
+        "aliases": [
+            "Fighter Group Crew Black Pirates", 
+            "\uaca9\ud22c\ubd80\ub300 \ub300\uc6d0", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uaca9\ud22c\ubd80\ub300 \ub300\uc6d0, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 147, 
+        "aliases": [
+            "Slasher Group Crew Red Pirates", 
+            "\ucc38\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucc38\uaca9\ubd80\ub300 \ub300\uc6d0, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 148, 
+        "aliases": [
+            "Slasher Group Crew Blue Pirates", 
+            "\ucc38\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ucc38\uaca9\ubd80\ub300 \ub300\uc6d0, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 149, 
+        "aliases": [
+            "Slasher Group Crew Green Pirates", 
+            "\ucc38\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucc38\uaca9\ubd80\ub300 \ub300\uc6d0, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 150, 
+        "aliases": [
+            "Slasher Group Crew Yellow Pirates", 
+            "\ucc38\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ucc38\uaca9\ubd80\ub300 \ub300\uc6d0, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 151, 
+        "aliases": [
+            "Slasher Group Crew Black Pirates", 
+            "\ucc38\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ucc38\uaca9\ubd80\ub300 \ub300\uc6d0, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 152, 
+        "aliases": [
+            "Striker Group Crew Red Pirates", 
+            "\ub3cc\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub3cc\uaca9\ubd80\ub300 \ub300\uc6d0, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 153, 
+        "aliases": [
+            "Striker Group Crew Blue Pirates", 
+            "\ub3cc\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub3cc\uaca9\ubd80\ub300 \ub300\uc6d0, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 154, 
+        "aliases": [
+            "Striker Group Crew Green Pirates", 
+            "\ub3cc\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub3cc\uaca9\ubd80\ub300 \ub300\uc6d0, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 155, 
+        "aliases": [
+            "Striker Group Crew Yellow Pirates", 
+            "\ub3cc\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub3cc\uaca9\ubd80\ub300 \ub300\uc6d0, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 156, 
+        "aliases": [
+            "Striker Group Crew Black Pirates", 
+            "\ub3cc\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub3cc\uaca9\ubd80\ub300 \ub300\uc6d0, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 157, 
+        "aliases": [
+            "Shooter Group Crew Red Pirates", 
+            "\uc800\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc800\uaca9\ubd80\ub300 \ub300\uc6d0, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 158, 
+        "aliases": [
+            "Shooter Group Crew Blue Pirates", 
+            "\uc800\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc800\uaca9\ubd80\ub300 \ub300\uc6d0, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 159, 
+        "aliases": [
+            "Shooter Group Crew Green Pirates", 
+            "\uc800\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc800\uaca9\ubd80\ub300 \ub300\uc6d0, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 160, 
+        "aliases": [
+            "Shooter Group Crew Yellow Pirates", 
+            "\uc800\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc800\uaca9\ubd80\ub300 \ub300\uc6d0, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 161, 
+        "aliases": [
+            "Shooter Group Crew Black Pirates", 
+            "\uc800\uaca9\ubd80\ub300 \ub300\uc6d0", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc800\uaca9\ubd80\ub300 \ub300\uc6d0, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 162, 
+        "aliases": [
+            "Cannoneer Skilled", 
+            "\uba85\ud3ec\uaca9\uc218"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uba85\ud3ec\uaca9\uc218", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 163, 
+        "aliases": [
+            "Bodyguard", 
+            "\"Sunglasses\"", 
+            "\ubcf4\ub514\uac00\ub4dc \uc120\uae00\ub77c\uc2a4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubcf4\ub514\uac00\ub4dc \uc120\uae00\ub77c\uc2a4", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 164, 
+        "aliases": [
+            "Bearded Bodyguard", 
+            "\ubcf4\ub514\uac00\ub4dc \uc218\uc5fc"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ubcf4\ub514\uac00\ub4dc \uc218\uc5fc", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 165, 
+        "aliases": [
+            "Knuckle Punk Black Cat Pirates", 
+            "\ub108\ud074 \uac74\ub2ec", 
+            "\ud06c\ub85c\ub124\ucf54 \ud574\uc801\ub2e8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub108\ud074 \uac74\ub2ec, \ud06c\ub85c\ub124\ucf54 \ud574\uc801\ub2e8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 166, 
+        "aliases": [
+            "Saber Punk Black Cat Pirates", 
+            "\uc0ac\ube0c\ub974 \uac74\ub2ec", 
+            "\ud06c\ub85c\ub124\ucf54 \ud574\uc801\ub2e8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc0ac\ube0c\ub974 \uac74\ub2ec, \ud06c\ub85c\ub124\ucf54 \ud574\uc801\ub2e8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 167, 
+        "aliases": [
+            "Halberd Punk Black Cat Pirates", 
+            "\uc5b8\uc6d4\ub3c4 \uac74\ub2ec", 
+            "\ud06c\ub85c\ub124\ucf54 \ud574\uc801\ub2e8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc5b8\uc6d4\ub3c4 \uac74\ub2ec, \ud06c\ub85c\ub124\ucf54 \ud574\uc801\ub2e8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 168, 
+        "aliases": [
+            "Pistol Punk Black Cat Pirates", 
+            "\ud53c\uc2a4\ud1a8 \uac74\ub2ec", 
+            "\ud06c\ub85c\ub124\ucf54 \ud574\uc801\ub2e8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud53c\uc2a4\ud1a8 \uac74\ub2ec, \ud06c\ub85c\ub124\ucf54 \ud574\uc801\ub2e8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 169, 
+        "aliases": [
+            "Cannoneer Punk Black Cat Pirates", 
+            "\ubc14\uc8fc\uce74 \uac74\ub2ec", 
+            "\ud06c\ub85c\ub124\ucf54 \ud574\uc801\ub2e8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubc14\uc8fc\uce74 \uac74\ub2ec, \ud06c\ub85c\ub124\ucf54 \ud574\uc801\ub2e8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 170, 
+        "aliases": [
+            "Fighter Group Leader", 
+            "\uaca9\ud22c\ubd80\ub300 \ub300\uc7a5"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uaca9\ud22c\ubd80\ub300 \ub300\uc7a5", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 171, 
+        "aliases": [
+            "Slasher Group Leader", 
+            "\ucc38\uaca9\ubd80\ub300 \ub300\uc7a5"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucc38\uaca9\ubd80\ub300 \ub300\uc7a5", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 172, 
+        "aliases": [
+            "Striker Group Leader", 
+            "\ub3cc\uaca9\ubd80\ub300 \ub300\uc7a5"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub3cc\uaca9\ubd80\ub300 \ub300\uc7a5", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 173, 
+        "aliases": [
+            "Shooter Group Leader", 
+            "\uc800\uaca9\ubd80\ub300 \ub300\uc7a5"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc800\uaca9\ubd80\ub300 \ub300\uc7a5", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 174, 
+        "aliases": [
+            "Assassin Master", 
+            "\uba85\uc720\uaca9\uc218"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uba85\uc720\uaca9\uc218", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 175, 
+        "aliases": [
+            "Karate Fishman Arlong crewmember", 
+            "\uacf5\uc218\ub3c4 \uc5b4\uc778 \uc544\ub860 \uc77c\ub2f9"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uacf5\uc218\ub3c4 \uc5b4\uc778 \uc544\ub860 \uc77c\ub2f9", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 176, 
+        "aliases": [
+            "Sword Fishman Arlong crewmember", 
+            "\uac80\uc220 \uc5b4\uc778", 
+            "\uc544\ub860 \uc77c\ub2f9"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uac80\uc220 \uc5b4\uc778, \uc544\ub860 \uc77c\ub2f9", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 177, 
+        "aliases": [
+            "Spear Fishman Arlong crewmember", 
+            "\ucc3d\uc220 \uc5b4\uc778", 
+            "\uc544\ub860 \uc77c\ub2f9"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ucc3d\uc220 \uc5b4\uc778, \uc544\ub860 \uc77c\ub2f9", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 178, 
+        "aliases": [
+            "Pistol Fishman Arlong crewmember", 
+            "\uc0ac\uaca9\uc220 \uc5b4\uc778", 
+            "\uc544\ub860 \uc77c\ub2f9"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc0ac\uaca9\uc220 \uc5b4\uc778, \uc544\ub860 \uc77c\ub2f9", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 179, 
+        "aliases": [
+            "Knuckle Apprentice Navy", 
+            "\ub108\ud074 \uc0bc\ub4f1\ubcd1", 
+            "\ud574\uad70"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub108\ud074 \uc0bc\ub4f1\ubcd1, \ud574\uad70", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 180, 
+        "aliases": [
+            "Saber Apprentice Navy", 
+            "\uc0ac\ube0c\ub974 \uc0bc\ub4f1\ubcd1", 
+            "\ud574\uad70"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc0ac\ube0c\ub974 \uc0bc\ub4f1\ubcd1, \ud574\uad70", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 181, 
+        "aliases": [
+            "Halberd Apprentice Navy", 
+            "\uc5b8\uc6d4\ub3c4 \uc0bc\ub4f1\ubcd1", 
+            "\ud574\uad70"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc5b8\uc6d4\ub3c4 \uc0bc\ub4f1\ubcd1, \ud574\uad70", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 182, 
+        "aliases": [
+            "Pistol Apprentice Navy", 
+            "\ud53c\uc2a4\ud1a8 \uc0bc\ub4f1\ubcd1", 
+            "\ud574\uad70"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud53c\uc2a4\ud1a8 \uc0bc\ub4f1\ubcd1, \ud574\uad70", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 183, 
+        "aliases": [
+            "Cannoneer Apprentice Navy", 
+            "\ubc14\uc8fc\uce74 \uc0bc\ub4f1\ubcd1", 
+            "\ud574\uad70"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubc14\uc8fc\uce74 \uc0bc\ub4f1\ubcd1, \ud574\uad70", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 184, 
+        "aliases": [
+            "Knuckle Seaman Navy", 
+            "\ub108\ud074 \uc77c\ub4f1\ubcd1", 
+            "\ud574\uad70"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub108\ud074 \uc77c\ub4f1\ubcd1, \ud574\uad70", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 185, 
+        "aliases": [
+            "Saber Seaman Navy", 
+            "\uc0ac\ube0c\ub974 \uc77c\ub4f1\ubcd1", 
+            "\ud574\uad70"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc0ac\ube0c\ub974 \uc77c\ub4f1\ubcd1, \ud574\uad70", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 186, 
+        "aliases": [
+            "Halberd Seaman Navy", 
+            "\uc5b8\uc6d4\ub3c4 \uc77c\ub4f1\ubcd1", 
+            "\ud574\uad70"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc5b8\uc6d4\ub3c4 \uc77c\ub4f1\ubcd1, \ud574\uad70", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 187, 
+        "aliases": [
+            "Pistol Seaman Navy", 
+            "\ud53c\uc2a4\ud1a8 \uc77c\ub4f1\ubcd1", 
+            "\ud574\uad70"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud53c\uc2a4\ud1a8 \uc77c\ub4f1\ubcd1, \ud574\uad70", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 188, 
+        "aliases": [
+            "Cannoneer Seaman Navy", 
+            "\ubc14\uc8fc\uce74 \uc77c\ub4f1\ubcd1", 
+            "\ud574\uad70"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubc14\uc8fc\uce74 \uc77c\ub4f1\ubcd1, \ud574\uad70", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 189, 
+        "aliases": [
+            "Red Elder Turtle", 
+            "\ube68\uac04 \uc6d0\ub85c \uac70\ubd81"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ube68\uac04 \uc6d0\ub85c \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 190, 
+        "aliases": [
+            "Blue Elder Turtle", 
+            "\ud30c\ub780 \uc6d0\ub85c \uac70\ubd81"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud30c\ub780 \uc6d0\ub85c \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 191, 
+        "aliases": [
+            "Green Elder Turtle", 
+            "\ucd08\ub85d \uc6d0\ub85c \uac70\ubd81"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd08\ub85d \uc6d0\ub85c \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 192, 
+        "aliases": [
+            "Yellow Elder Turtle", 
+            "\ub178\ub780 \uc6d0\ub85c \uac70\ubd81"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \uc6d0\ub85c \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 193, 
+        "aliases": [
+            "Black Elder Turtle", 
+            "\uac80\uc740 \uc6d0\ub85c \uac70\ubd81"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac80\uc740 \uc6d0\ub85c \uac70\ubd81", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 194, 
+        "aliases": [
+            "Knuckle Ensign Navy HQ", 
+            "\ub108\ud074 \uc18c\uc704", 
+            "\ud574\uad70 \ubcf8\ubd80"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub108\ud074 \uc18c\uc704, \ud574\uad70 \ubcf8\ubd80", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 195, 
+        "aliases": [
+            "Saber Ensign Navy HQ", 
+            "\uc0ac\ube0c\ub974 \uc18c\uc704", 
+            "\ud574\uad70 \ubcf8\ubd80"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc0ac\ube0c\ub974 \uc18c\uc704, \ud574\uad70 \ubcf8\ubd80", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 196, 
+        "aliases": [
+            "Halberd Ensign Navy HQ", 
+            "\uc5b8\uc6d4\ub3c4 \uc18c\uc704", 
+            "\ud574\uad70 \ubcf8\ubd80"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc5b8\uc6d4\ub3c4 \uc18c\uc704, \ud574\uad70 \ubcf8\ubd80", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 197, 
+        "aliases": [
+            "Pistol Ensign Navy HQ", 
+            "\ud53c\uc2a4\ud1a8 \uc18c\uc704", 
+            "\ud574\uad70 \ubcf8\ubd80"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud53c\uc2a4\ud1a8 \uc18c\uc704, \ud574\uad70 \ubcf8\ubd80", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 198, 
+        "aliases": [
+            "Bazooka Ensign Navy HQ", 
+            "\ubc14\uc8fc\uce74 \uc18c\uc704", 
+            "\ud574\uad70 \ubcf8\ubd80"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubc14\uc8fc\uce74 \uc18c\uc704, \ud574\uad70 \ubcf8\ubd80", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 199, 
+        "aliases": [
+            "Mr. 5 Nez-Palm Cannon", 
+            "Mr. 5", 
+            "\ub178\uc988 \ud32c\uc2dc \uce90\ub17c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "Mr. 5, \ub178\uc988 \ud32c\uc2dc \uce90\ub17c", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 200, 
+        "aliases": [
+            "Mr. 5 Breeze Breath Bomb", 
+            "Mr. 5", 
+            "\ube0c\ub9ac\uc988 \ube0c\ub808\uc2a4 \ubd90"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "Mr. 5, \ube0c\ub9ac\uc988 \ube0c\ub808\uc2a4 \ubd90", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 201, 
+        "aliases": [
+            "Miss Valentine", 
+            "\ubbf8\uc2a4 \ubc1c\ub80c\ud0c0\uc778"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ubbf8\uc2a4 \ubc1c\ub80c\ud0c0\uc778", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 202, 
+        "aliases": [
+            "Miss Valentine 10", 
+            "000 Kilo Guillotine", 
+            "\ubbf8\uc2a4 \ubc1c\ub80c\ud0c0\uc778", 
+            "1\ub9cc \ud0ac\ub85c \uae38\ub85c\ud2f4"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ubbf8\uc2a4 \ubc1c\ub80c\ud0c0\uc778, 1\ub9cc \ud0ac\ub85c \uae38\ub85c\ud2f4", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 203, 
+        "aliases": [
+            "Mr. 3", 
+            "Mr. 3"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "Mr. 3", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 204, 
+        "aliases": [
+            "Mr. 3 Extra Special Candelabra", 
+            "Mr. 3 \ud2b9\ub300 \uce94\ub4e4 \uc11c\ube44\uc2a4 \uc138\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "Mr. 3 \ud2b9\ub300 \uce94\ub4e4 \uc11c\ube44\uc2a4 \uc138\ud2b8", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 205, 
+        "aliases": [
+            "Miss Goldenweek", 
+            "\ubbf8\uc2a4 \uace8\ub4e0\uc704\ud06c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubbf8\uc2a4 \uace8\ub4e0\uc704\ud06c", 
+        "class": [
+            "Striker", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 206, 
+        "aliases": [
+            "Miss Goldenweek Colors Trap: Calming Green", 
+            "\ubbf8\uc2a4 \uace8\ub4e0\uc704\ud06c \uceec\ub7ec\uc988 \ud2b8\ub7a9 \uc628\ud654\ud568\uc758 \ucd08\ub85d"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubbf8\uc2a4 \uace8\ub4e0\uc704\ud06c \uceec\ub7ec\uc988 \ud2b8\ub7a9 \uc628\ud654\ud568\uc758 \ucd08\ub85d", 
+        "class": [
+            "Striker", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 207, 
+        "aliases": [
+            "Mr. 2 Bon Clay", 
+            "Mr.2 \ubd09\ucfe0\ub808"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "Mr.2 \ubd09\ucfe0\ub808", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 208, 
+        "aliases": [
+            "Mr. 2 Bon Clay Bombardier Arabesque", 
+            "Mr.2 \ubd09\ucfe0\ub808", 
+            "\ud3ed\uaca9 \ubc31\uc870 \uc544\ub77c\ubca0\uc2a4\ud06c"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "Mr.2 \ubd09\ucfe0\ub808, \ud3ed\uaca9 \ubc31\uc870 \uc544\ub77c\ubca0\uc2a4\ud06c", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 209, 
+        "aliases": [
+            "Miss All Sunday Baroque Works VP", 
+            "\ubbf8\uc2a4 \uc62c \uc120\ub370\uc774", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4 \ubd80\uc0ac\uc7a5"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubbf8\uc2a4 \uc62c \uc120\ub370\uc774, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4 \ubd80\uc0ac\uc7a5", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 210, 
+        "aliases": [
+            "Nico Robin", 
+            "\ub2c8\ucf54 \ub85c\ube48"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub2c8\ucf54 \ub85c\ube48", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 211, 
+        "aliases": [
+            "Mr. 9", 
+            "Mr. 9"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "Mr. 9", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 212, 
+        "aliases": [
+            "Mr. 9 Hot Blooded Bat", 
+            "Mr. 9", 
+            "\uc5f4\ud608 \ub098\uc778 \uadfc\uc131 \ubc30\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "Mr. 9, \uc5f4\ud608 \ub098\uc778 \uadfc\uc131 \ubc30\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 213, 
+        "aliases": [
+            "Laboon", 
+            "\ub77c\ubd84"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub77c\ubd84", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 214, 
+        "aliases": [
+            "Laboon (Luffy's drawing)", 
+            "\ub77c\ubd84", 
+            "(\ub8e8\ud53c \ub099\uc11c)"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub77c\ubd84, (\ub8e8\ud53c \ub099\uc11c)", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 215, 
+        "aliases": [
+            "Neptunian Squid", 
+            "\ub300\uc655 \uc624\uc9d5\uc5b4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub300\uc655 \uc624\uc9d5\uc5b4", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 216, 
+        "aliases": [
+            "Monkey D. Luffy", 
+            "Gum-Gum Balloon", 
+            "\ubabd\ud0a4 D. \ub8e8\ud53c", 
+            "\uace0\ubb34\uace0\ubb34 \ud48d\uc120"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubabd\ud0a4 D. \ub8e8\ud53c, \uace0\ubb34\uace0\ubb34 \ud48d\uc120", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 217, 
+        "aliases": [
+            "Monkey D. Luffy", 
+            "Gear Third", 
+            "\ubabd\ud0a4 D. \ub8e8\ud53c", 
+            "\uae30\uc5b4 3"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubabd\ud0a4 D. \ub8e8\ud53c, \uae30\uc5b4 3", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 218, 
+        "aliases": [
+            "Roronoa Zoro", 
+            "Streaming Wolf Swords", 
+            "\ub864\ub85c\ub178\uc544 \uc870\ub85c", 
+            "\ub291\ub300 \uce7c\ubd80\ub9bc"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub864\ub85c\ub178\uc544 \uc870\ub85c, \ub291\ub300 \uce7c\ubd80\ub9bc", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 219, 
+        "aliases": [
+            "Roronoa Zoro", 
+            "Lion's Song", 
+            "\ub864\ub85c\ub178\uc544 \uc870\ub85c", 
+            "\uc0ac\uc790\uc758 \ub178\ub798"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub864\ub85c\ub178\uc544 \uc870\ub85c, \uc0ac\uc790\uc758 \ub178\ub798", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 220, 
+        "aliases": [
+            "Nami", 
+            "Fine Tempo", 
+            "\ub098\ubbf8", 
+            "\ud30c\uc778 \ud15c\ud3ec"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub098\ubbf8, \ud30c\uc778 \ud15c\ud3ec", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 221, 
+        "aliases": [
+            "Nami", 
+            "Happiness Punch", 
+            "\ub098\ubbf8", 
+            "\ud589\ubcf5\ud380\uce58"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub098\ubbf8, \ud589\ubcf5\ud380\uce58", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 222, 
+        "aliases": [
+            "Usopp", 
+            "Usopp Hammer", 
+            "\uc6b0\uc19d", 
+            "\uc6b0\uc19d \ud574\uba38"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc6b0\uc19d, \uc6b0\uc19d \ud574\uba38", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 223, 
+        "aliases": [
+            "Usopp", 
+            "Impact", 
+            "\uc6b0\uc19d", 
+            "\uc784\ud329\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc6b0\uc19d, \uc784\ud329\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 224, 
+        "aliases": [
+            "Mr. Prince", 
+            "Mutton Shot", 
+            "Mr. \ud504\ub9b0\uc2a4", 
+            "\uc591\uace0\uae30 \uc0f7"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "Mr. \ud504\ub9b0\uc2a4, \uc591\uace0\uae30 \uc0f7", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 225, 
+        "aliases": [
+            "Mr. Prince", 
+            "Veau Shot", 
+            "Mr. \ud504\ub9b0\uc2a4", 
+            "\uc1a1\uc544\uc9c0 \uc0f7"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "Mr. \ud504\ub9b0\uc2a4, \uc1a1\uc544\uc9c0 \uc0f7", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 226, 
+        "aliases": [
+            "Dracule Mihawk", 
+            "\uc96c\ub77c\ud058 \ubbf8\ud638\ud06c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc96c\ub77c\ud058 \ubbf8\ud638\ud06c", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 227, 
+        "aliases": [
+            "Hawk Eyes Mihawk", 
+            "\ub9e4\uc758 \ub208 \ubbf8\ud638\ud06c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub9e4\uc758 \ub208 \ubbf8\ud638\ud06c", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 228, 
+        "aliases": [
+            "Escapee Morgan", 
+            "\ud0c8\uc625\ubc94 \ubaa8\uac74"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud0c8\uc625\ubc94 \ubaa8\uac74", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 229, 
+        "aliases": [
+            "Double Crosser Django", 
+            "\ubc30\uc2e0\uc758 \uc7dd\uace0"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubc30\uc2e0\uc758 \uc7dd\uace0", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 230, 
+        "aliases": [
+            "Double Ironfist Fullbody", 
+            "\uc591\ucca0\uad8c \ud480\ubcf4\ub514"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc591\ucca0\uad8c \ud480\ubcf4\ub514", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 231, 
+        "aliases": [
+            "Hina", 
+            "\ud788\ub098"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud788\ub098", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 232, 
+        "aliases": [
+            "Black Cage Hina", 
+            "\uac80\uc740 \uac10\uc625\uc758 \ud788\ub098"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uac80\uc740 \uac10\uc625\uc758 \ud788\ub098", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 233, 
+        "aliases": [
+            "Mr. 8", 
+            "Mr. 8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "Mr. 8", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 234, 
+        "aliases": [
+            "Mr. 8 Igarappapa", 
+            "Mr. 8", 
+            "\uc774\uac00\ub098\ud30c\uc54c"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "Mr. 8, \uc774\uac00\ub098\ud30c\uc54c", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 235, 
+        "aliases": [
+            "Miss Monday", 
+            "\ubbf8\uc2a4 \uba3c\ub370\uc774"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubbf8\uc2a4 \uba3c\ub370\uc774", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 236, 
+        "aliases": [
+            "Miss Monday Superhuman Brass Knuckles", 
+            "\ubbf8\uc2a4 \uba3c\ub370\uc774 \uad34\ub825 \uc8fc\uba39"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubbf8\uc2a4 \uba3c\ub370\uc774 \uad34\ub825 \uc8fc\uba39", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 237, 
+        "aliases": [
+            "Knuckle Millions Baroque Works", 
+            "\ub108\ud074 \ubc00\ub9ac\uc5b8\uc988", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub108\ud074 \ubc00\ub9ac\uc5b8\uc988, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 238, 
+        "aliases": [
+            "Saber Millions Baroque Works", 
+            "\uc0ac\ube0c\ub974 \ubc00\ub9ac\uc5b8\uc988", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc0ac\ube0c\ub974 \ubc00\ub9ac\uc5b8\uc988, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 239, 
+        "aliases": [
+            "Polearm Millions Baroque Works", 
+            "\uc5b8\uc6d4\ub3c4 \ubc00\ub9ac\uc5b8\uc988", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc5b8\uc6d4\ub3c4 \ubc00\ub9ac\uc5b8\uc988, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 240, 
+        "aliases": [
+            "Pistol Millions Baroque Works", 
+            "\ud53c\uc2a4\ud1a8 \ubc00\ub9ac\uc5b8\uc988", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud53c\uc2a4\ud1a8 \ubc00\ub9ac\uc5b8\uc988, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 241, 
+        "aliases": [
+            "Bazooka Millions Baroque Works", 
+            "\ubc14\uc8fc\uce74 \ubc00\ub9ac\uc5b8\uc988", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubc14\uc8fc\uce74 \ubc00\ub9ac\uc5b8\uc988, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 242, 
+        "aliases": [
+            "Knuckle Billions Baroque Works", 
+            "\ub108\ud074 \ube4c\ub9ac\uc5b8\uc988", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub108\ud074 \ube4c\ub9ac\uc5b8\uc988, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 243, 
+        "aliases": [
+            "Saber Billions Baroque Works", 
+            "\uc0ac\ube0c\ub974 \ube4c\ub9ac\uc5b8\uc988", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc0ac\ube0c\ub974 \ube4c\ub9ac\uc5b8\uc988, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 244, 
+        "aliases": [
+            "Halberd Billions Baroque Works", 
+            "\uc5b8\uc6d4\ub3c4 \ube4c\ub9ac\uc5b8\uc988", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc5b8\uc6d4\ub3c4 \ube4c\ub9ac\uc5b8\uc988, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 245, 
+        "aliases": [
+            "Pistol Billions Baroque Works", 
+            "\ud53c\uc2a4\ud1a8 \ube4c\ub9ac\uc5b8\uc988", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud53c\uc2a4\ud1a8 \ube4c\ub9ac\uc5b8\uc988, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 246, 
+        "aliases": [
+            "Bazooka Billions Baroque Works", 
+            "\ubc14\uc8fc\uce74 \ube4c\ub9ac\uc5b8\uc988", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubc14\uc8fc\uce74 \ube4c\ub9ac\uc5b8\uc988, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 247, 
+        "aliases": [
+            "Chopper Man", 
+            "\ucd78\ud30c\ub9e8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ucd78\ud30c\ub9e8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 248, 
+        "aliases": [
+            "Tony Tony Chopper Pre-Rampage", 
+            "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c", 
+            "\ud3ed\uc8fc \uc804"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c, \ud3ed\uc8fc \uc804", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 249, 
+        "aliases": [
+            "Tony Tony Chopper Post-Rampage", 
+            "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c", 
+            "\ud3ed\uc8fc \ud6c4"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud1a0\ub2c8\ud1a0\ub2c8 \ucd78\ud30c, \ud3ed\uc8fc \ud6c4", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 250, 
+        "aliases": [
+            "Marco", 
+            "\ub9c8\ub974\ucf54"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub9c8\ub974\ucf54", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 251, 
+        "aliases": [
+            "Marco the Phoenix", 
+            "\ubd88\uc0ac\uc870 \ub9c8\ub974\ucf54"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubd88\uc0ac\uc870 \ub9c8\ub974\ucf54", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 252, 
+        "aliases": [
+            "Jozu", 
+            "\uc870\uc988"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc870\uc988", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 253, 
+        "aliases": [
+            "Diamond Jozu", 
+            "\ub2e4\uc774\uc544\ubaac\ub4dc \uc870\uc988"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub2e4\uc774\uc544\ubaac\ub4dc \uc870\uc988", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 254, 
+        "aliases": [
+            "Vista", 
+            "\ube44\uc2a4\ud0c0"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ube44\uc2a4\ud0c0", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 255, 
+        "aliases": [
+            "Flower Sword Vista", 
+            "\ud654\uac80 \ube44\uc2a4\ud0c0"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ud654\uac80 \ube44\uc2a4\ud0c0", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 256, 
+        "aliases": [
+            "Izo", 
+            "\uc774\uc870"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc774\uc870", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 257, 
+        "aliases": [
+            "Flintlock Pistols Izo", 
+            "\uad8c\ucd1d\uc0ac \uc774\uc870"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uad8c\ucd1d\uc0ac \uc774\uc870", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 258, 
+        "aliases": [
+            "Blamenco", 
+            "\ube14\ub77c\uba69\ucf54"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ube14\ub77c\uba69\ucf54", 
+        "class": [
+            "Striker", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 259, 
+        "aliases": [
+            "Blamenco the Mallet", 
+            "\ub300\ub9dd\uce58 \ube14\ub77c\uba69\ucf54"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub300\ub9dd\uce58 \ube14\ub77c\uba69\ucf54", 
+        "class": [
+            "Striker", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 260, 
+        "aliases": [
+            "Edward Newgate", 
+            "\uc5d0\ub4dc\uc6cc\ub4dc \ub274\uac8c\uc774\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc5d0\ub4dc\uc6cc\ub4dc \ub274\uac8c\uc774\ud2b8", 
+        "class": [
+            "Striker", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 261, 
+        "aliases": [
+            "Whitebeard", 
+            "\ud770 \uc218\uc5fc"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud770 \uc218\uc5fc", 
+        "class": [
+            "Striker", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 262, 
+        "aliases": [
+            "Training Coby", 
+            "\ud2b9\ud6c8 \ucf54\ube44"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud2b9\ud6c8 \ucf54\ube44", 
+        "class": [
+            "Striker", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 263, 
+        "aliases": [
+            "Petty Officer Coby", 
+            "\uc0c1\uc0ac \ucf54\ube44"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc0c1\uc0ac \ucf54\ube44", 
+        "class": [
+            "Fighter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 264, 
+        "aliases": [
+            "Training Helmeppo", 
+            "\ud2b9\ud6c8 \ud5e4\ub974\uba54\ud3ec"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ud2b9\ud6c8 \ud5e4\ub974\uba54\ud3ec", 
+        "class": [
+            "Striker", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 265, 
+        "aliases": [
+            "Sergeant Helmeppo", 
+            "\uc911\uc0ac \ud5e4\ub974\uba54\ud3ec"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc911\uc0ac \ud5e4\ub974\uba54\ud3ec", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 266, 
+        "aliases": [
+            "Rainbow Pirate Penguin", 
+            "\ubb34\uc9c0\uac1c \ud574\uc801 \ud3ad\uadc4"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubb34\uc9c0\uac1c \ud574\uc801 \ud3ad\uadc4", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 267, 
+        "aliases": [
+            "Rainbow Striped Dragon", 
+            "\ubb34\uc9c0\uac1c \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubb34\uc9c0\uac1c \uc904\ubb34\ub2ac \ud30c\uc218\ub8e1", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 268, 
+        "aliases": [
+            "White Chase Smoker", 
+            "\ud558\uc580 \uc0ac\ub0e5\uafbc \uc2a4\ubaa8\ucee4", 
+            "\ube4c\ub85c\uc5b4 \ubc14\uc774\ud06c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud558\uc580 \uc0ac\ub0e5\uafbc \uc2a4\ubaa8\ucee4, \ube4c\ub85c\uc5b4 \ubc14\uc774\ud06c", 
+        "class": [
+            "Striker", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 269, 
+        "aliases": [
+            "Armed Fighter Unit Red Pirates", 
+            "\uaca9\ud22c\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uaca9\ud22c\ub300 \ubb34\uc7a5\ub300\uc6d0, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 270, 
+        "aliases": [
+            "Armed Fighter Unit Blue Pirates", 
+            "\uaca9\ud22c\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uaca9\ud22c\ub300 \ubb34\uc7a5\ub300\uc6d0, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 271, 
+        "aliases": [
+            "Armed Fighter Unit Green Pirates", 
+            "\uaca9\ud22c\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uaca9\ud22c\ub300 \ubb34\uc7a5\ub300\uc6d0, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 272, 
+        "aliases": [
+            "Armed Fighter Unit Yellow Pirates", 
+            "\uaca9\ud22c\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uaca9\ud22c\ub300 \ubb34\uc7a5\ub300\uc6d0, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 273, 
+        "aliases": [
+            "Armed Fighter Unit Black Pirates", 
+            "\uaca9\ud22c\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uaca9\ud22c\ub300 \ubb34\uc7a5\ub300\uc6d0, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 274, 
+        "aliases": [
+            "Armed Slasher Unit Red Pirates", 
+            "\ucc38\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucc38\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 275, 
+        "aliases": [
+            "Armed Slasher Unit Blue Pirates", 
+            "\ucc38\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ucc38\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 276, 
+        "aliases": [
+            "Armed Slasher Unit Green Pirates", 
+            "\ucc38\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucc38\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 277, 
+        "aliases": [
+            "Armed Slasher Unit Yellow Pirates", 
+            "\ucc38\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ucc38\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 278, 
+        "aliases": [
+            "Armed Slasher Unit Black Pirates", 
+            "\ucc38\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ucc38\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 279, 
+        "aliases": [
+            "Armed Striker Unit Red Pirates", 
+            "\ub3cc\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub3cc\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 280, 
+        "aliases": [
+            "Armed Striker Unit Blue Pirates", 
+            "\ub3cc\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub3cc\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 281, 
+        "aliases": [
+            "Armed Striker Unit Green Pirates", 
+            "\ub3cc\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub3cc\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 282, 
+        "aliases": [
+            "Armed Striker Unit Yellow Pirates", 
+            "\ub3cc\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub3cc\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 283, 
+        "aliases": [
+            "Armed Striker Unit Black Pirates", 
+            "\ub3cc\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub3cc\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 284, 
+        "aliases": [
+            "Armed Shooter Unit Red Pirates", 
+            "\uc800\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc800\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 285, 
+        "aliases": [
+            "Armed Shooter Unit Blue Pirates", 
+            "\uc800\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc800\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 286, 
+        "aliases": [
+            "Armed Shooter Unit Green Pirates", 
+            "\uc800\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc800\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 287, 
+        "aliases": [
+            "Armed Shooter Unit Yellow Pirates", 
+            "\uc800\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\uc610\ub85c \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc800\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \uc610\ub85c \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 288, 
+        "aliases": [
+            "Armed Shooter Unit Black Pirates", 
+            "\uc800\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0", 
+            "\ube14\ub799 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc800\uaca9\ub300 \ubb34\uc7a5\ub300\uc6d0, \ube14\ub799 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 289, 
+        "aliases": [
+            "Skilled Gunner", 
+            "\ud3ec\uaca9\uc218 \uc219\ub828\uc790"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ud3ec\uaca9\uc218 \uc219\ub828\uc790", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 290, 
+        "aliases": [
+            "Mr. 13 & Ms. Friday The Unluckies", 
+            "Mr.13&\ubbf8\uc2a4 \ud504\ub77c\uc774\ub370\uc77413\uc77c\uc758 \uae08\uc694\uc77c\uff08\uc5b8\ub7ed\ud0a4\uc988\uff09"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "Mr.13&\ubbf8\uc2a4 \ud504\ub77c\uc774\ub370\uc77413\uc77c\uc758 \uae08\uc694\uc77c\uff08\uc5b8\ub7ed\ud0a4\uc988\uff09", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 291, 
+        "aliases": [
+            "Dorry", 
+            "\ub3c4\ub9ac"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub3c4\ub9ac", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 292, 
+        "aliases": [
+            "Broggy", 
+            "\ube0c\ub85c\uae30"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ube0c\ub85c\uae30", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 293, 
+        "aliases": [
+            "Triceratops", 
+            "\ud2b8\ub9ac\ucf00\ub77c\ud1b1\uc2a4"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud2b8\ub9ac\ucf00\ub77c\ud1b1\uc2a4", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 294, 
+        "aliases": [
+            "Rex", 
+            "\ub809\uc2a4"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub809\uc2a4", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 295, 
+        "aliases": [
+            "Brontosaurus", 
+            "\ube0c\ub860\ud1a0\uc790\uc6b0\ub974\uc2a4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ube0c\ub860\ud1a0\uc790\uc6b0\ub974\uc2a4", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 296, 
+        "aliases": [
+            "Tsuru", 
+            "\uce20\ub8e8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uce20\ub8e8", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 297, 
+        "aliases": [
+            "Great Advisor Tsuru", 
+            "\ub300\ucc38\ubaa8 \uce20\ub8e8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub300\ucc38\ubaa8 \uce20\ub8e8", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 298, 
+        "aliases": [
+            "Momonga", 
+            "\ubaa8\ubaac\uac00"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubaa8\ubaac\uac00", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 299, 
+        "aliases": [
+            "Onigumo", 
+            "\uc624\ub2c8\uad6c\ubaa8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc624\ub2c8\uad6c\ubaa8", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 300, 
+        "aliases": [
+            "Red Plated Lobster", 
+            "\ube68\uac04 \uc7a5\uac11 \ubc14\ub2f7\uac00\uc7ac"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ube68\uac04 \uc7a5\uac11 \ubc14\ub2f7\uac00\uc7ac", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 301, 
+        "aliases": [
+            "Blue Plated Lobster", 
+            "\ud30c\ub780 \uc7a5\uac11 \ubc14\ub2f7\uac00\uc7ac"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud30c\ub780 \uc7a5\uac11 \ubc14\ub2f7\uac00\uc7ac", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 302, 
+        "aliases": [
+            "Green Plated Lobster", 
+            "\ucd08\ub85d \uc7a5\uac11 \ubc14\ub2f7\uac00\uc7ac"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd08\ub85d \uc7a5\uac11 \ubc14\ub2f7\uac00\uc7ac", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 303, 
+        "aliases": [
+            "Yellow Plated Lobster", 
+            "\ub178\ub780 \uc790\uac11 \ubc14\ub2f7\uac00\uc7ac"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \uc790\uac11 \ubc14\ub2f7\uac00\uc7ac", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 304, 
+        "aliases": [
+            "Black Plated Lobster", 
+            "\uac80\uc740 \uc7a5\uac11 \ubc14\ub2f7\uac00\uc7ac"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac80\uc740 \uc7a5\uac11 \ubc14\ub2f7\uac00\uc7ac", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 305, 
+        "aliases": [
+            "Monkey D. Garp", 
+            "\ubabd\ud0a4 D. \uac00\ud504"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubabd\ud0a4 D. \uac00\ud504", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 306, 
+        "aliases": [
+            "Garp the Fist", 
+            "\uc8fc\uba39 \uac00\ud504"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc8fc\uba39 \uac00\ud504", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 307, 
+        "aliases": [
+            "Trafalgar Law", 
+            "\ud2b8\ub77c\ud314\uac00 \ub85c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud2b8\ub77c\ud314\uac00 \ub85c", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 308, 
+        "aliases": [
+            "Trafalgar Law", 
+            "ROOM", 
+            "\ud2b8\ub77c\ud314\uac00 \ub85c", 
+            "ROOM"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud2b8\ub77c\ud314\uac00 \ub85c, ROOM", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 309, 
+        "aliases": [
+            "Basil Hawkins", 
+            "\ubc14\uc9c8 \ud638\ud0a8\uc2a4"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubc14\uc9c8 \ud638\ud0a8\uc2a4", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 310, 
+        "aliases": [
+            "Basil Hawkins the Magician", 
+            "\ub9c8\uc220\uc0ac \ubc14\uc9c8 \ud638\ud0a8\uc2a4"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub9c8\uc220\uc0ac \ubc14\uc9c8 \ud638\ud0a8\uc2a4", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 311, 
+        "aliases": [
+            "Killer", 
+            "\ud0ac\ub7ec"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud0ac\ub7ec", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 312, 
+        "aliases": [
+            "Massacre Soldier Killer", 
+            "\uc0b4\uc721\ubb34\uc778 \ud0ac\ub7ec"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc0b4\uc721\ubb34\uc778 \ud0ac\ub7ec", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 313, 
+        "aliases": [
+            "Urouge", 
+            "\uc6b0\ub8e8\uc9c0"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc6b0\ub8e8\uc9c0", 
+        "class": [
+            "Striker", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 314, 
+        "aliases": [
+            "Mad Monk Urouge", 
+            "\uad34\uc2b9 \uc6b0\ub8e8\uc9c0"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uad34\uc2b9 \uc6b0\ub8e8\uc9c0", 
+        "class": [
+            "Striker", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 315, 
+        "aliases": [
+            "Bepo", 
+            "\ubca0\ud3ec"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubca0\ud3ec", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 316, 
+        "aliases": [
+            "Bepo the Martial Artist", 
+            "\ubb34\ud22c\uac00 \ubca0\ud3ec"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubb34\ud22c\uac00 \ubca0\ud3ec", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 317, 
+        "aliases": [
+            "Kalifa", 
+            "\uce7c\ub9ac\ud30c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uce7c\ub9ac\ud30c", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 318, 
+        "aliases": [
+            "Beautiful Secretary Kalifa", 
+            "\ubbf8\uc778\ube44\uc11c \uce7c\ub9ac\ud30c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubbf8\uc778\ube44\uc11c \uce7c\ub9ac\ud30c", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 319, 
+        "aliases": [
+            "Paulie", 
+            "\ud30c\uc6b8\ub9ac"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud30c\uc6b8\ub9ac", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 320, 
+        "aliases": [
+            "Paulie Dock One Foreman/Mast Specialist", 
+            "\ud30c\uc6b8\ub9ac 1\ubc88\ub3c4\ud06c \uc758\uc7a5 \ub9c8\uc2a4\ud2b8 \uc9c1\uc7a5"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud30c\uc6b8\ub9ac 1\ubc88\ub3c4\ud06c \uc758\uc7a5 \ub9c8\uc2a4\ud2b8 \uc9c1\uc7a5", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 321, 
+        "aliases": [
+            "Rob Lucci", 
+            "\ub85c\ube0c \ub8e8\uce58"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub85c\ube0c \ub8e8\uce58", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 322, 
+        "aliases": [
+            "Rob Lucci Dock One Sawyer", 
+            "Treenail Specialist", 
+            "\ub85c\ube0c \ub8e8\uce58", 
+            "1\ubc88 \ubd80\ub450 \ud1b1\uc9c8", 
+            "\ub098\ubb34\ubabb \uc7a5\uc778 \uc9c1\uacf5\uc7a5."
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub85c\ube0c \ub8e8\uce58, 1\ubc88 \ubd80\ub450 \ud1b1\uc9c8, \ub098\ubb34\ubabb \uc7a5\uc778 \uc9c1\uacf5\uc7a5.", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 323, 
+        "aliases": [
+            "Kaku", 
+            "\uce74\ucfe0"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uce74\ucfe0", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 324, 
+        "aliases": [
+            "Kaku Dock One Carpentry Specialist", 
+            "\uce74\ucfe0", 
+            "1\ubc88 \ubd80\ub450 \ubaa9\uc218 \uc9c1\uacf5\uc7a5."
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uce74\ucfe0, 1\ubc88 \ubd80\ub450 \ubaa9\uc218 \uc9c1\uacf5\uc7a5.", 
+        "class": [
+            "Striker", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 325, 
+        "aliases": [
+            "Lulu", 
+            "\ub8e8\ub8e8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub8e8\ub8e8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 326, 
+        "aliases": [
+            "Wapol", 
+            "\uc640\ud3ec\ub8e8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc640\ud3ec\ub8e8", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 327, 
+        "aliases": [
+            "Wapol House", 
+            "\uc640\ud3ec\ub8e8 \ud558\uc6b0\uc2a4"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc640\ud3ec\ub8e8 \ud558\uc6b0\uc2a4", 
+        "class": [
+            "Shooter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 328, 
+        "aliases": [
+            "Dalton", 
+            "\ub3c4\ub974\ub3c8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub3c4\ub974\ub3c8", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 329, 
+        "aliases": [
+            "Dalton Bison", 
+            "\ub3c4\ub974\ub3c8", 
+            "\ub4e4\uc18c"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub3c4\ub974\ub3c8, \ub4e4\uc18c", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 330, 
+        "aliases": [
+            "Chess", 
+            "\uccb4\uc2a4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uccb4\uc2a4", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 331, 
+        "aliases": [
+            "Kuromarimo", 
+            "\ucfe0\ub85c\ub9c8\ub9ac\ubaa8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucfe0\ub85c\ub9c8\ub9ac\ubaa8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 332, 
+        "aliases": [
+            "Chessmarimo", 
+            "\uccb4\uc2a4\ub9c8\ub9ac\ubaa8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uccb4\uc2a4\ub9c8\ub9ac\ubaa8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 333, 
+        "aliases": [
+            "Dr. Kureha", 
+            "Dr. \ucfe0\ub808\ud558"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "Dr. \ucfe0\ub808\ud558", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 334, 
+        "aliases": [
+            "Lapin", 
+            "\ub77c\ud310"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub77c\ud310", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 335, 
+        "aliases": [
+            "Lapin Adult", 
+            "\ub77c\ud310 \uc131\uccb4"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub77c\ud310 \uc131\uccb4", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 336, 
+        "aliases": [
+            "Franky", 
+            "\ud504\ub791\ud0a4"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud504\ub791\ud0a4", 
+        "class": [
+            "Shooter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 337, 
+        "aliases": [
+            "Dismantler Franky", 
+            "\ud574\uccb4\uc5c5\uc790 \ud504\ub791\ud0a4"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud574\uccb4\uc5c5\uc790 \ud504\ub791\ud0a4", 
+        "class": [
+            "Shooter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 338, 
+        "aliases": [
+            "Kiwi", 
+            "\ud0a4\uc704"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud0a4\uc704", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 339, 
+        "aliases": [
+            "Mozu", 
+            "\ubaa8\uc988"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubaa8\uc988", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 340, 
+        "aliases": [
+            "Kraken Surume", 
+            "\ud06c\ub77c\ucf04", 
+            "\uc2a4\ub8e8\uba54"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud06c\ub77c\ucf04, \uc2a4\ub8e8\uba54", 
+        "class": [
+            "Striker", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 341, 
+        "aliases": [
+            "Kraken Monster of the North", 
+            "\ud06c\ub77c\ucf04", 
+            "\ubd81\uadf9\uc758 \uad34\ubb3c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud06c\ub77c\ucf04, \ubd81\uadf9\uc758 \uad34\ubb3c", 
+        "class": [
+            "Striker", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 342, 
+        "aliases": [
+            "Red Jeweled Porc", 
+            "\ube68\uac04 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ube68\uac04 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 343, 
+        "aliases": [
+            "Blue Jeweled Porc", 
+            "\ud30c\ub780 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud30c\ub780 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 344, 
+        "aliases": [
+            "Green Jeweled Porc", 
+            "\ucd08\ub85d \ud30c\uc6cc\uc2a4\ub3fc\uc9c0"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd08\ub85d \ud30c\uc6cc\uc2a4\ub3fc\uc9c0", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 345, 
+        "aliases": [
+            "Yellow Jeweled Porc", 
+            "\ub178\ub780 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 346, 
+        "aliases": [
+            "Black Jeweled Porc", 
+            "\uac80\uc740 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac80\uc740 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 347, 
+        "aliases": [
+            "Ruby Jeweled Porc", 
+            "\ub8e8\ube44 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub8e8\ube44 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 348, 
+        "aliases": [
+            "Sapphire Jeweled Porc", 
+            "\uc0ac\ud30c\uc774\uc5b4 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc0ac\ud30c\uc774\uc5b4 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 349, 
+        "aliases": [
+            "Emerald Jeweled Porc", 
+            "\uc5d0\uba54\ub784\ub4dc \ud30c\uc6cc\uc2a4\ub3fc\uc9c0"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc5d0\uba54\ub784\ub4dc \ud30c\uc6cc\uc2a4\ub3fc\uc9c0", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 350, 
+        "aliases": [
+            "Topaz Jeweled Porc", 
+            "\ud1a0\ud30c\uc988 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud1a0\ud30c\uc988 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 351, 
+        "aliases": [
+            "Amethyst Jeweled Porc", 
+            "\uc790\uc218\uc815 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc790\uc218\uc815 \ud30c\uc6cc\uc2a4\ub3fc\uc9c0", 
+        "class": "Booster"
+    }, 
+    {
+        "id": 352, 
+        "aliases": [
+            "Zephyr", 
+            "\uc81c\ud30c"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc81c\ud30c", 
+        "class": [
+            "Shooter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 353, 
+        "aliases": [
+            "Zephyr", 
+            "NEO Marines Leader", 
+            "\uc81c\ud30c", 
+            "NEO \ud574\uad70 \ucd1d\uc218"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc81c\ud30c, NEO \ud574\uad70 \ucd1d\uc218", 
+        "class": [
+            "Shooter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 354, 
+        "aliases": [
+            "Ain", 
+            "\uc544\uc778"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc544\uc778", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 355, 
+        "aliases": [
+            "Ain NEO Marines", 
+            "\uc544\uc778", 
+            "NEO \ud574\uad70 \ubd80\uc81c\ub3c5"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc544\uc778, NEO \ud574\uad70 \ubd80\uc81c\ub3c5", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 356, 
+        "aliases": [
+            "Eustass Kid", 
+            "\uc720\uc2a4\ud0c0\uc2a4 \ud0a4\ub4dc"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc720\uc2a4\ud0c0\uc2a4 \ud0a4\ub4dc", 
+        "class": [
+            "Striker", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 357, 
+        "aliases": [
+            "Captain Kid", 
+            "\ucea1\ud2f4 \ud0a4\ub4dc"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucea1\ud2f4 \ud0a4\ub4dc", 
+        "class": [
+            "Striker", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 358, 
+        "aliases": [
+            "Scratchmen Apoo", 
+            "\uc2a4\ud06c\ub798\uce58\uba58 \uc544\ud478"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc2a4\ud06c\ub798\uce58\uba58 \uc544\ud478", 
+        "class": [
+            "Shooter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 359, 
+        "aliases": [
+            "Roar of the Sea Scratchmen Apoo", 
+            "\ubc14\ub2e4\ucc9c\ub465 \uc2a4\ud06c\ub798\uce58\uba58 \uc544\ud478"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubc14\ub2e4\ucc9c\ub465 \uc2a4\ud06c\ub798\uce58\uba58 \uc544\ud478", 
+        "class": [
+            "Shooter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 360, 
+        "aliases": [
+            "X Drake", 
+            "X \ub4dc\ub808\uc774\ud06c"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "X \ub4dc\ub808\uc774\ud06c", 
+        "class": [
+            "Striker", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 361, 
+        "aliases": [
+            "Red Flag X Drake", 
+            "\ubd89\uc740 \uae43\ubc1c X \ub4dc\ub808\uc774\ud06c"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubd89\uc740 \uae43\ubc1c X \ub4dc\ub808\uc774\ud06c", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 362, 
+        "aliases": [
+            "Jewelry Bonney", 
+            "\uc96c\uc5bc\ub9ac \ubcf4\ub2c8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc96c\uc5bc\ub9ac \ubcf4\ub2c8", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 363, 
+        "aliases": [
+            "Big Eater Jewelry Bonney", 
+            "\ub300\uc2dd\uac00 \uc96c\uc5bc\ub9ac \ubcf4\ub2c8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub300\uc2dd\uac00 \uc96c\uc5bc\ub9ac \ubcf4\ub2c8", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 364, 
+        "aliases": [
+            "Capone Bege", 
+            "\uce74\ud3ec\ub124 \ubcb3\uc9c0"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uce74\ud3ec\ub124 \ubcb3\uc9c0", 
+        "class": [
+            "Shooter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 365, 
+        "aliases": [
+            "Capone Gang Bege", 
+            "\uce74\ud3ec\ub124 \uac31 \ubcb3\uc9c0"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uce74\ud3ec\ub124 \uac31 \ubcb3\uc9c0", 
+        "class": [
+            "Shooter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 366, 
+        "aliases": [
+            "Silvers Rayleigh", 
+            "\uc2e4\ubc84\uc988 \ub808\uc77c\ub9ac"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc2e4\ubc84\uc988 \ub808\uc77c\ub9ac", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 367, 
+        "aliases": [
+            "Dark King Rayleigh", 
+            "\uba85\uc655 \ub808\uc77c\ub9ac"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uba85\uc655 \ub808\uc77c\ub9ac", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 368, 
+        "aliases": [
+            "Giant Slasher Red Pirates", 
+            "\uac70\uc778 \ucc38\uaca9\ub300"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uac70\uc778 \ucc38\uaca9\ub300", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 369, 
+        "aliases": [
+            "Giant Shooter Blue Pirates", 
+            "\uac70\uc778 \uc0ac\uaca9\ub300"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uac70\uc778 \uc0ac\uaca9\ub300", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 370, 
+        "aliases": [
+            "Giant Warrior Green Pirates", 
+            "\uac70\uc778 \uc5ec\uc804\uc0ac\ub300"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uac70\uc778 \uc5ec\uc804\uc0ac\ub300", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 371, 
+        "aliases": [
+            "Giant Fighter Yellow Pirates", 
+            "\uac70\uc778 \uaca9\ud22c\ub300"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uac70\uc778 \uaca9\ud22c\ub300", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 372, 
+        "aliases": [
+            "Giant Striker Black Pirates", 
+            "\uac70\uc778 \ub3cc\uaca9\ub300"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac70\uc778 \ub3cc\uaca9\ub300", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 373, 
+        "aliases": [
+            "Giant Imperial Slasher Red Pirates", 
+            "\uac70\uc778 \ucc38\uaca9\uadfc\uc704\ub300 \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uac70\uc778 \ucc38\uaca9\uadfc\uc704\ub300 \ub808\ub4dc \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 374, 
+        "aliases": [
+            "Giant Imperial Shooter Blue Pirates", 
+            "\uac70\uc778 \uc0ac\uaca9\uadfc\uc704\ub300 \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uac70\uc778 \uc0ac\uaca9\uadfc\uc704\ub300 \ube14\ub8e8 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 375, 
+        "aliases": [
+            "Female Giant Imperial Warrior Green Pirates", 
+            "\uac70\uc778 \uc5ec\uc804\uc0ac\uadfc\uc704\ub300 \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uac70\uc778 \uc5ec\uc804\uc0ac\uadfc\uc704\ub300 \uadf8\ub9b0 \ud30c\uc774\ub7ec\ud2b8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 376, 
+        "aliases": [
+            "Giant Imperial Fighter Yellow Pirates", 
+            "\uac70\uc778 \uaca9\ud22c\uadfc\uc704\ub300"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uac70\uc778 \uaca9\ud22c\uadfc\uc704\ub300", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 377, 
+        "aliases": [
+            "Giant Imperial Striker Black Pirates", 
+            "\uac70\uc778 \ub3cc\uaca9\uadfc\uc704\ub300"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac70\uc778 \ub3cc\uaca9\uadfc\uc704\ub300", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 378, 
+        "aliases": [
+            "Sea Cat", 
+            "\ubc14\ub2e4 \uace0\uc591\uc774"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubc14\ub2e4 \uace0\uc591\uc774", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 379, 
+        "aliases": [
+            "Kung Fu Dugong", 
+            "\ucff5\ud6c4 \ub4c0\uacf5"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucff5\ud6c4 \ub4c0\uacf5", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 380, 
+        "aliases": [
+            "Kung Fu Dugong Faithful Apprentice", 
+            "\ucff5\ud6c4 \ub4c0\uacf5", 
+            "\ud615\uc81c \uc81c\uc790"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucff5\ud6c4 \ub4c0\uacf5, \ud615\uc81c \uc81c\uc790", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 381, 
+        "aliases": [
+            "Banana Gator", 
+            "\ubc14\ub098\ub098 \uc545\uc5b4"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ubc14\ub098\ub098 \uc545\uc5b4", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 382, 
+        "aliases": [
+            "Sandora Dragon", 
+            "\uc0b0\ub3c4\ub77c \ud070\ub3c4\ub9c8\ubc40"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc0b0\ub3c4\ub77c \ud070\ub3c4\ub9c8\ubc40", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 383, 
+        "aliases": [
+            "Mr. 0 Baroque Works CEO", 
+            "Mr.0", 
+            "\ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4 \uc0ac\uc7a5"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "Mr.0, \ubc14\ub85c\ud06c \uc6cc\ud06c\uc2a4 \uc0ac\uc7a5", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 384, 
+        "aliases": [
+            "Sir Crocodile", 
+            "Sir \ud06c\ub85c\ucee4\ub2e4\uc77c"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "Sir \ud06c\ub85c\ucee4\ub2e4\uc77c", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 385, 
+        "aliases": [
+            "Hogback", 
+            "\ud638\uadf8\ubc31"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ud638\uadf8\ubc31", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 386, 
+        "aliases": [
+            "Doctor Hogback", 
+            "\ub2e5\ud130 \ud638\uadf8\ubc31"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub2e5\ud130 \ud638\uadf8\ubc31", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 387, 
+        "aliases": [
+            "Cindry", 
+            "\uc2e0\ub4dc\ub9ac"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc2e0\ub4dc\ub9ac", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 388, 
+        "aliases": [
+            "Victoria Cindry", 
+            "\ube45\ud1a0\ub9ac\uc544 \uc2e0\ub4dc\ub9ac"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ube45\ud1a0\ub9ac\uc544 \uc2e0\ub4dc\ub9ac", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 389, 
+        "aliases": [
+            "Emporio Ivankov", 
+            "\uc5e0\ud3ec\ub9ac\uc624 \uc774\ubc18\ucf54\ud504"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc5e0\ud3ec\ub9ac\uc624 \uc774\ubc18\ucf54\ud504", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 390, 
+        "aliases": [
+            "Emporio Ivankov Queen of Kamabakka Queendom", 
+            "\uc5e0\ud3ec\ub9ac\uc624 \uc774\ubc18\ucf54\ud504", 
+            "\ub274\ud558\ud504\ub9cc \uc655\uad6d \uc5ec\uc655 [\uc601\uad6c\uacb0\ubc88]"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc5e0\ud3ec\ub9ac\uc624 \uc774\ubc18\ucf54\ud504, \ub274\ud558\ud504\ub9cc \uc655\uad6d \uc5ec\uc655 [\uc601\uad6c\uacb0\ubc88]", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 391, 
+        "aliases": [
+            "Perona", 
+            "\ud398\ub85c\ub098"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud398\ub85c\ub098", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 392, 
+        "aliases": [
+            "Ghost Princess Perona", 
+            "\ud398\ub85c\ub098", 
+            "\uace0\uc2a4\ud2b8 \ud504\ub9b0\uc138\uc2a4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud398\ub85c\ub098, \uace0\uc2a4\ud2b8 \ud504\ub9b0\uc138\uc2a4", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 393, 
+        "aliases": [
+            "Kumacy", 
+            "\ucfe0\ub9c8\uc2dc"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucfe0\ub9c8\uc2dc", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 394, 
+        "aliases": [
+            "Dog Penguin", 
+            "\uac1c \ud3ad\uadc4"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uac1c \ud3ad\uadc4", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 395, 
+        "aliases": [
+            "Miss Merry Christmas", 
+            "\ubbf8\uc2a4 \uba54\ub9ac\ud06c\ub9ac\uc2a4\ub9c8\uc2a4"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ubbf8\uc2a4 \uba54\ub9ac\ud06c\ub9ac\uc2a4\ub9c8\uc2a4", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 396, 
+        "aliases": [
+            "Miss Merry Christmas Human Mole", 
+            "\ubbf8\uc2a4 \uba54\ub9ac\ud06c\ub9ac\uc2a4\ub9c8\uc2a4", 
+            "\ub450\ub354\uc9c0\uc778\uac04"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ubbf8\uc2a4 \uba54\ub9ac\ud06c\ub9ac\uc2a4\ub9c8\uc2a4, \ub450\ub354\uc9c0\uc778\uac04", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 397, 
+        "aliases": [
+            "Mr. 4", 
+            "Mr.4"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "Mr.4", 
+        "class": [
+            "Shooter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 398, 
+        "aliases": [
+            "Mr. 4 and Lassoo the Dog-Gun", 
+            "Mr.4\uc640 \uac1c\ucd1d \ub798\uc288"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "Mr.4\uc640 \uac1c\ucd1d \ub798\uc288", 
+        "class": [
+            "Shooter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 399, 
+        "aliases": [
+            "Miss Doublefinger", 
+            "\ubbf8\uc2a4 \ub354\ube14\ud551\uac70"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubbf8\uc2a4 \ub354\ube14\ud551\uac70", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 400, 
+        "aliases": [
+            "Miss Doublefinger Human Spike", 
+            "\ubbf8\uc2a4 \ub354\ube14 \ud551\uac70", 
+            "\uac00\uc2dc \uc778\uac04"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubbf8\uc2a4 \ub354\ube14 \ud551\uac70, \uac00\uc2dc \uc778\uac04", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 401, 
+        "aliases": [
+            "Mr. 1", 
+            "Mr.1"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "Mr.1", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 402, 
+        "aliases": [
+            "Mr. 1 Human Sword", 
+            "Mr.1", 
+            "\uc804\uc2e0 \uce7c\ub0a0 \uc778\uac04"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "Mr.1, \uc804\uc2e0 \uce7c\ub0a0 \uc778\uac04", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 403, 
+        "aliases": [
+            "Rebecca", 
+            "\ub808\ubca0\uce74"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub808\ubca0\uce74", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 404, 
+        "aliases": [
+            "Absalom", 
+            "\uc555\uc0b4\ub86c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc555\uc0b4\ub86c", 
+        "class": [
+            "Shooter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 405, 
+        "aliases": [
+            "Absalom of the Graveyard", 
+            "\ubb18\uc9c0\uc758 \uc555\uc0b4\ub86c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubb18\uc9c0\uc758 \uc555\uc0b4\ub86c", 
+        "class": [
+            "Shooter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 406, 
+        "aliases": [
+            "General Zombie", 
+            "\uc7a5\uad70 \uc880\ube44"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc7a5\uad70 \uc880\ube44", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 407, 
+        "aliases": [
+            "Jigoro of the Wind", 
+            "\ubc14\ub78c\uc758 \uc9c0\uace0\ub85c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubc14\ub78c\uc758 \uc9c0\uace0\ub85c", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 408, 
+        "aliases": [
+            "Sir Crocodile Warlord of the Sea", 
+            "Sir \ud06c\ub85c\ucee4\ub2e4\uc77c", 
+            "\uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "Sir \ud06c\ub85c\ucee4\ub2e4\uc77c, \uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 409, 
+        "aliases": [
+            "Jinbe", 
+            "\uc9d5\ubca0"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc9d5\ubca0", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 410, 
+        "aliases": [
+            "Jinbe", 
+            "Warlord of the Sea", 
+            "\uc9d5\ubca0", 
+            "\uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc9d5\ubca0, \uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 411, 
+        "aliases": [
+            "Bartholomew Kuma", 
+            "\ubc14\uc194\ub85c\ubba4 \ucfe0\ub9c8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubc14\uc194\ub85c\ubba4 \ucfe0\ub9c8", 
+        "class": [
+            "Shooter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 412, 
+        "aliases": [
+            "Bartholomew Kuma Warlord of the Sea", 
+            "\ubc14\uc194\ub85c\ubba4 \ucfe0\ub9c8", 
+            "\uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubc14\uc194\ub85c\ubba4 \ucfe0\ub9c8, \uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574", 
+        "class": [
+            "Shooter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 413, 
+        "aliases": [
+            "Gecko Moria", 
+            "\uac9f\ucf54 \ubaa8\ub9ac\uc544"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac9f\ucf54 \ubaa8\ub9ac\uc544", 
+        "class": [
+            "Striker", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 414, 
+        "aliases": [
+            "Gecko Moria Warlord of the Sea", 
+            "\uac9f\ucf54 \ubaa8\ub9ac\uc544", 
+            "\uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac9f\ucf54 \ubaa8\ub9ac\uc544, \uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574", 
+        "class": [
+            "Striker", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 415, 
+        "aliases": [
+            "Boa Hancock", 
+            "\ubcf4\uc544 \ud589\ucf55"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ubcf4\uc544 \ud589\ucf55", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 416, 
+        "aliases": [
+            "Boa Hancock Warlord of the Sea", 
+            "\ubcf4\uc544 \ud589\ucf55", 
+            "\uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ubcf4\uc544 \ud589\ucf55, \uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 417, 
+        "aliases": [
+            "Donquixote Doflamingo", 
+            "\ub3c8\ud0a4\ud638\ud14c \ub3c4\ud50c\ub77c\ubc0d\uace0"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub3c8\ud0a4\ud638\ud14c \ub3c4\ud50c\ub77c\ubc0d\uace0", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 418, 
+        "aliases": [
+            "Donquixote Doflamingo", 
+            "Warlord of the Sea", 
+            "\ub3c8\ud0a4\ud638\ud14c \ub3c4\ud50c\ub77c\ubc0d\uace0", 
+            "\uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub3c8\ud0a4\ud638\ud14c \ub3c4\ud50c\ub77c\ubc0d\uace0, \uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 419, 
+        "aliases": [
+            "Sanji Parage Shot: The Storm", 
+            "\uc0c1\ub514 \uc815\ud615 \uc1fc\ud2b8 \u2018\ud3ed\ud48d\u2019"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc0c1\ub514 \uc815\ud615 \uc1fc\ud2b8 \u2018\ud3ed\ud48d\u2019", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 420, 
+        "aliases": [
+            "Monkey D. Luffy Gum-Gum Bazooka: Supremacy", 
+            "\ubabd\ud0a4 D. \ub8e8\ud53c", 
+            "\uace0\ubb34\uace0\ubb34 \ubc14\uc8fc\uce74 \u2018\ud328\u2019"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubabd\ud0a4 D. \ub8e8\ud53c, \uace0\ubb34\uace0\ubb34 \ubc14\uc8fc\uce74 \u2018\ud328\u2019", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 421, 
+        "aliases": [
+            "Roronoa Zoro Three Thousand Worlds: The Final Stroke", 
+            "\ub864\ub85c\ub178\uc544 \uc870\ub85c", 
+            "\uc0bc\ucc9c\uc138\uacc4 \u2018\ucc38\u2019"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub864\ub85c\ub178\uc544 \uc870\ub85c, \uc0bc\ucc9c\uc138\uacc4 \u2018\ucc38\u2019", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 422, 
+        "aliases": [
+            "Nami Mirage Tempo: The Heavens", 
+            "\ub098\ubbf8", 
+            "\ubbf8\ub77c\uc96c \ud15c\ud3ec \u2018\ucc9c\u2019"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub098\ubbf8, \ubbf8\ub77c\uc96c \ud15c\ud3ec \u2018\ucc9c\u2019", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 423, 
+        "aliases": [
+            "Brook", 
+            "\ube0c\ub8e9"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ube0c\ub8e9", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 424, 
+        "aliases": [
+            "Humming Swordsman Brook", 
+            "\ucf67\ub178\ub798 \ube0c\ub8e9"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ucf67\ub178\ub798 \ube0c\ub8e9", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 425, 
+        "aliases": [
+            "Ryuma", 
+            "\ub958\ub9c8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub958\ub9c8", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 426, 
+        "aliases": [
+            "Masira", 
+            "\ub9c8\uc2dc\ub77c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub9c8\uc2dc\ub77c", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 427, 
+        "aliases": [
+            "Shoujou", 
+            "\uc1fc\uc8e0"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc1fc\uc8e0", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 428, 
+        "aliases": [
+            "Montblanc Cricket", 
+            "\ubabd\ube14\ub791 \ud06c\ub9ac\ucf13"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubabd\ube14\ub791 \ud06c\ub9ac\ucf13", 
+        "class": [
+            "Shooter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 429, 
+        "aliases": [
+            "South Bird and Forest Residents", 
+            "\uc0ac\uc6b0\uc2a4\ubc84\ub4dc\uc640 \uc232\uc758\uc8fc\ubbfc"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc0ac\uc6b0\uc2a4\ubc84\ub4dc\uc640 \uc232\uc758\uc8fc\ubbfc", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 430, 
+        "aliases": [
+            "Bellamy", 
+            "\ubca0\ub77c\ubbf8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubca0\ub77c\ubbf8", 
+        "class": [
+            "Fighter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 431, 
+        "aliases": [
+            "Bellamy the Hyena", 
+            "\ud558\uc774\uc5d0\ub098 \ubca0\ub77c\ubbf8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud558\uc774\uc5d0\ub098 \ubca0\ub77c\ubbf8", 
+        "class": [
+            "Fighter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 432, 
+        "aliases": [
+            "Sarquiss", 
+            "\uc0ac\ud0a4\uc2a4"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc0ac\ud0a4\uc2a4", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 433, 
+        "aliases": [
+            "Elizabeth", 
+            "\uc5d8\ub9ac\uc790\ubca0\uc2a4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc5d8\ub9ac\uc790\ubca0\uc2a4", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 434, 
+        "aliases": [
+            "Caroline", 
+            "\uce90\ub864\ub77c\uc778"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uce90\ub864\ub77c\uc778", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 435, 
+        "aliases": [
+            "Sanji Kamabakka Queendom Traditional Fighting Style", 
+            "\uc0c1\ub514", 
+            "\uce74\ub9c8\ubc14\uce74\uc655\uad6d \uc804\ud1b5 \uacb0\ud22c\uc2a4\ud0c0\uc77c"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc0c1\ub514, \uce74\ub9c8\ubc14\uce74\uc655\uad6d \uc804\ud1b5 \uacb0\ud22c\uc2a4\ud0c0\uc77c", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 436, 
+        "aliases": [
+            "Sanji Candy", 
+            "\uc0c1\ub514", 
+            "\uce94\ub514"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc0c1\ub514, \uce94\ub514", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 437, 
+        "aliases": [
+            "Perona - Sweets", 
+            "\ud398\ub85c\ub098 \uc2a4\uc717\ud2b8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud398\ub85c\ub098 \uc2a4\uc717\ud2b8", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 438, 
+        "aliases": [
+            "Ghost Princess Perona - Sweets", 
+            "\ud398\ub85c\ub098 \uc2a4\uc717\ud2b8", 
+            "\uace0\uc2a4\ud2b8 \ud504\ub9b0\uc138\uc2a4"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud398\ub85c\ub098 \uc2a4\uc717\ud2b8, \uace0\uc2a4\ud2b8 \ud504\ub9b0\uc138\uc2a4", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 439, 
+        "aliases": [
+            "Nefertari Vivi - Love", 
+            "\ub124\ud3a0\ud0c0\ub9ac \ube44\ube44 \ub7ec\ube0c"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub124\ud3a0\ud0c0\ub9ac \ube44\ube44 \ub7ec\ube0c", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 440, 
+        "aliases": [
+            "Princess Vivi - Love", 
+            "\uc655\ub140 \ube44\ube44 \ub7ec\ube0c"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc655\ub140 \ube44\ube44 \ub7ec\ube0c", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 441, 
+        "aliases": [
+            "Cowboy and Bourbon Jr. Supersonic Duck Squadron", 
+            "\uce74\uc6b0\ubcf4\uc774&\ubc84\ubcf8Jr"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uce74\uc6b0\ubcf4\uc774&\ubc84\ubcf8Jr", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 442, 
+        "aliases": [
+            "Stomp and Ivan X Supersonic Duck Squadron", 
+            "\uc2a4\ud1b0\ud504&\uc774\uc644x"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc2a4\ud1b0\ud504&\uc774\uc644x", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 443, 
+        "aliases": [
+            "Centaur and Hikoichi Supersonic Duck Squadron", 
+            "\ucf04\ud0c0\ub85c\uc2a4&\ud788\ucf54\uc774\uce58"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucf04\ud0c0\ub85c\uc2a4&\ud788\ucf54\uc774\uce58", 
+        "class": "Evolver"
+    }, 
+    {
+        "id": 444, 
+        "aliases": [
+            "Karoo", 
+            "\uce74\ub8e8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uce74\ub8e8", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 445, 
+        "aliases": [
+            "Captain Karoo and the Supersonic Duck Squadron", 
+            "\uce74\ub8e8 \ub300\uc7a5\uacfc \ucd08\uce74\ub8e8\ubd80\ub300"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uce74\ub8e8 \ub300\uc7a5\uacfc \ucd08\uce74\ub8e8\ubd80\ub300", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 446, 
+        "aliases": [
+            "Marshall D. Teach", 
+            "\ub9c8\uc0ec \uff24 \ud2f0\uce58"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub9c8\uc0ec \uff24 \ud2f0\uce58", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 447, 
+        "aliases": [
+            "Blackbeard", 
+            "\uac80\uc740 \uc218\uc5fc"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uac80\uc740 \uc218\uc5fc", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 448, 
+        "aliases": [
+            "Thatch", 
+            "\uc0bf\uce58"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc0bf\uce58", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 449, 
+        "aliases": [
+            "Twin-Blade Thatch", 
+            "\uc30d\uac80\uc758 \uc0bf\uce58"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uc30d\uac80\uc758 \uc0bf\uce58", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 450, 
+        "aliases": [
+            "Namule", 
+            "\ub098\ubb34\ub974"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub098\ubb34\ub974", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 451, 
+        "aliases": [
+            "One-Hit Namule", 
+            "\uc77c\uaca9\uc758 \ub098\ubb34\ub974"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc77c\uaca9\uc758 \ub098\ubb34\ub974", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 452, 
+        "aliases": [
+            "Rakuyo", 
+            "\ub77c\ucfe0\uc694"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub77c\ucfe0\uc694", 
+        "class": [
+            "Striker", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 453, 
+        "aliases": [
+            "Morning Star Rakuyo", 
+            "\ubaa8\ub2dd\uc2a4\ud0c0 \ub77c\ucfe0\uc694"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubaa8\ub2dd\uc2a4\ud0c0 \ub77c\ucfe0\uc694", 
+        "class": [
+            "Striker", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 454, 
+        "aliases": [
+            "Fossa", 
+            "\ud3ec\uc0ac"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud3ec\uc0ac", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 455, 
+        "aliases": [
+            "Fossa the Blazing Katana", 
+            "\ud654\uc5fc\ub3c4\uc758 \ud3ec\uc0ac"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ud654\uc5fc\ub3c4\uc758 \ud3ec\uc0ac", 
+        "class": [
+            "Slasher", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 456, 
+        "aliases": [
+            "Curiel", 
+            "\ud06c\ub9ac\uc5d8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ud06c\ub9ac\uc5d8", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 457, 
+        "aliases": [
+            "Heavy Artillery Curiel", 
+            "\uc911\ud654\uae30\ub97c \uc4f0\ub294 \ud06c\ub9ac\uc5d8"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc911\ud654\uae30\ub97c \uc4f0\ub294 \ud06c\ub9ac\uc5d8", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 458, 
+        "aliases": [
+            "Sengoku", 
+            "\uc13c\uace0\ucfe0"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc13c\uace0\ucfe0", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 459, 
+        "aliases": [
+            "Sengoku the Buddha", 
+            "\ubd80\ucc98\ub2d8 \uc13c\uace0\ucfe0"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubd80\ucc98\ub2d8 \uc13c\uace0\ucfe0", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 460, 
+        "aliases": [
+            "Galdino the Criminal", 
+            "Mr. 3", 
+            "\ubc94\uc8c4\uc790 \uac24\ub514\ub178 Mr.3"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ubc94\uc8c4\uc790 \uac24\ub514\ub178 Mr.3", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 461, 
+        "aliases": [
+            "Escapee Bentham", 
+            "Mr. 2 Bon Clay", 
+            "\ud0c8\uc8fc\uc790 \ubca4\ub2f4", 
+            "Mr.2 \ubd09\ucfe0\ub808"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud0c8\uc8fc\uc790 \ubca4\ub2f4, Mr.2 \ubd09\ucfe0\ub808", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 462, 
+        "aliases": [
+            "Master Escape Artist Bentham", 
+            "Mr. 2 Bon Clay", 
+            "\ud0c8\uc625\uc758 \uba85\uc218 \ubca4\ub2f4", 
+            "Mr.2 \ubd09\ucfe0\ub808"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ud0c8\uc625\uc758 \uba85\uc218 \ubca4\ub2f4, Mr.2 \ubd09\ucfe0\ub808", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 463, 
+        "aliases": [
+            "Satori", 
+            "\uc0ac\ud1a0\ub9ac"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc0ac\ud1a0\ub9ac", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 464, 
+        "aliases": [
+            "Shura", 
+            "\uc288\ub77c"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc288\ub77c", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 465, 
+        "aliases": [
+            "Gedatsu", 
+            "\uac8c\ub2e4\uce20"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\uac8c\ub2e4\uce20", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 466, 
+        "aliases": [
+            "Braham", 
+            "\ube0c\ub77c\ud568"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ube0c\ub77c\ud568", 
+        "class": [
+            "Shooter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 467, 
+        "aliases": [
+            "Yama", 
+            "\uc57c\ub9c8"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc57c\ub9c8", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 468, 
+        "aliases": [
+            "Yellow White Beret", 
+            "Skypiea Guard", 
+            "\ub178\ub780 \ud654\uc774\ud2b8 \ubca0\ub808 \ubd80\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\uad70"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \ud654\uc774\ud2b8 \ubca0\ub808 \ubd80\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\uad70", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 469, 
+        "aliases": [
+            "Black White Beret", 
+            "Skypiea Guard", 
+            "\ube14\ub799 \ud654\uc774\ud2b8 \ubca0\ub808 \ubd80\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\uad70"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ube14\ub799 \ud654\uc774\ud2b8 \ubca0\ub808 \ubd80\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\uad70", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 470, 
+        "aliases": [
+            "Yellow White Beret Captain", 
+            "Skypiea Guard", 
+            "\ub178\ub780 \ud654\uc774\ud2b8 \ubca0\ub808 \ubd80\ub300 \ub300\uc7a5", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\uad70"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub780 \ud654\uc774\ud2b8 \ubca0\ub808 \ubd80\ub300 \ub300\uc7a5, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\uad70", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 471, 
+        "aliases": [
+            "Black White Beret Captain", 
+            "Skypiea Guard", 
+            "\ube14\ub799 \ud654\uc774\ud2b8 \ubca0\ub808 \ubd80\ub300 \ub300\uc7a5", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\uad70"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ube14\ub799 \ud654\uc774\ud2b8 \ubca0\ub808 \ubd80\ub300 \ub300\uc7a5, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\uad70", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 472, 
+        "aliases": [
+            "Eneru's Elect: Red Guard", 
+            "Skypiea Enforcer", 
+            "\ub808\ub4dc \uc2e0\uadfc\uc704\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub808\ub4dc \uc2e0\uadfc\uc704\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 473, 
+        "aliases": [
+            "Eneru's Elect: Blue Guard", 
+            "Skypiea Enforcer", 
+            "\ube14\ub8e8 \uc2e0\uadfc\uc704\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ube14\ub8e8 \uc2e0\uadfc\uc704\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 474, 
+        "aliases": [
+            "Eneru's Elect: Green Guard", 
+            "Skypiea Enforcer", 
+            "\uadf8\ub9b0 \uc2e0\uadfc\uc704\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uadf8\ub9b0 \uc2e0\uadfc\uc704\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 475, 
+        "aliases": [
+            "Eneru's Elect: Yellow Guard", 
+            "Skypiea Enforcer", 
+            "\uc610\ub85c \uc2e0\uadfc\uc704\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc610\ub85c \uc2e0\uadfc\uc704\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 476, 
+        "aliases": [
+            "Eneru's Elect: Black Guard", 
+            "Skypiea Enforcer", 
+            "\ube14\ub799 \uc2e0\uadfc\uc704\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ube14\ub799 \uc2e0\uadfc\uc704\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Slasher"
+    }, 
+    {
+        "id": 477, 
+        "aliases": [
+            "Red Striker", 
+            "Skypiea Enforcer", 
+            "\ub808\ub4dc \ub3cc\uaca9\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub808\ub4dc \ub3cc\uaca9\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 478, 
+        "aliases": [
+            "Blue Striker", 
+            "Skypiea Enforcer", 
+            "\ube14\ub8e9 \ub3cc\uaca9\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ube14\ub8e9 \ub3cc\uaca9\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 479, 
+        "aliases": [
+            "Green Striker", 
+            "Skypiea Enforcer", 
+            "\uadf8\ub9b0 \ub3cc\uaca9\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uadf8\ub9b0 \ub3cc\uaca9\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 480, 
+        "aliases": [
+            "Yellow Striker", 
+            "Skypiea Enforcer", 
+            "\uc610\ub85c \ub3cc\uaca9\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc610\ub85c \ub3cc\uaca9\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 481, 
+        "aliases": [
+            "Black Striker", 
+            "Skypiea Enforcer", 
+            "\ube14\ub799 \ub3cc\uaca9\ub300 \ub300\uc6d0", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ube14\ub799 \ub3cc\uaca9\ub300 \ub300\uc6d0, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 482, 
+        "aliases": [
+            "Red Striker Elite", 
+            "Skypiea Enforcer", 
+            "\ub808\ub4dc \ub3cc\uaca9\ub300 \uc5d8\ub9ac\ud2b8", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub808\ub4dc \ub3cc\uaca9\ub300 \uc5d8\ub9ac\ud2b8, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 483, 
+        "aliases": [
+            "Blue Striker Elite", 
+            "Skypiea Enforcer", 
+            "\ud30c\ub780 \ub3cc\uaca9\ub300 \uc5d8\ub9ac\ud2b8", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud30c\ub780 \ub3cc\uaca9\ub300 \uc5d8\ub9ac\ud2b8, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 484, 
+        "aliases": [
+            "Green Striker Elite", 
+            "Skypiea Enforcer", 
+            "\uadf8\ub9b0 \ub3cc\uaca9\ub300 \uc5d8\ub9ac\ud2b8", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uadf8\ub9b0 \ub3cc\uaca9\ub300 \uc5d8\ub9ac\ud2b8, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 485, 
+        "aliases": [
+            "Yellow Striker Elite", 
+            "Skypiea Enforcer", 
+            "\uc610\ub85c \ub3cc\uaca9\ub300 \uc5d8\ub9ac\ud2b8", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc610\ub85c \ub3cc\uaca9\ub300 \uc5d8\ub9ac\ud2b8, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 486, 
+        "aliases": [
+            "Black Striker Elite", 
+            "Skypiea Enforcer", 
+            "\ube14\ub799 \ub3cc\uaca9\ub300 \uc5d8\ub9ac\ud2b8", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ube14\ub799 \ub3cc\uaca9\ub300 \uc5d8\ub9ac\ud2b8, \uc2a4\uce74\uc774\ud53c\uc544 \uc2e0\ubcd1", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 487, 
+        "aliases": [
+            "Red Nomad", 
+            "Shandian Warrior", 
+            "\ub808\ub4dc \uc720\ubaa9\ub300 \ub300\uc6d0", 
+            "\uc0e8\ub514\uc544\uc758 \uc804\uc0ac"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub808\ub4dc \uc720\ubaa9\ub300 \ub300\uc6d0, \uc0e8\ub514\uc544\uc758 \uc804\uc0ac", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 488, 
+        "aliases": [
+            "Blue Nomad", 
+            "Shandian Warrior", 
+            "\ube14\ub8e8 \uc720\ubaa9\ub300 \ub300\uc6d0", 
+            "\uc0e8\ub514\uc544\uc758 \uc804\uc0ac"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ube14\ub8e8 \uc720\ubaa9\ub300 \ub300\uc6d0, \uc0e8\ub514\uc544\uc758 \uc804\uc0ac", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 489, 
+        "aliases": [
+            "Green Nomad", 
+            "Shandian Warrior", 
+            "\uadf8\ub9b0 \uc720\ubaa9\ub300 \ub300\uc6d0", 
+            "\uc0e8\ub514\uc544\uc758 \uc804\uc0ac"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uadf8\ub9b0 \uc720\ubaa9\ub300 \ub300\uc6d0, \uc0e8\ub514\uc544\uc758 \uc804\uc0ac", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 490, 
+        "aliases": [
+            "Red Nomad Adept", 
+            "Shandian Warrior", 
+            "\ub808\ub4dc \uc720\ubaa9\ub300 \ub2ec\uc778", 
+            "\uc0e8\ub514\uc544\uc758 \uc804\uc0ac"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ub808\ub4dc \uc720\ubaa9\ub300 \ub2ec\uc778, \uc0e8\ub514\uc544\uc758 \uc804\uc0ac", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 491, 
+        "aliases": [
+            "Blue Nomad Adept", 
+            "Shandian Warrior", 
+            "\ube14\ub8e8 \uc720\ubaa9\ub300 \ub2ec\uc778", 
+            "\uc0e8\ub514\uc544\uc758 \uc804\uc0ac"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ube14\ub8e8 \uc720\ubaa9\ub300 \ub2ec\uc778, \uc0e8\ub514\uc544\uc758 \uc804\uc0ac", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 492, 
+        "aliases": [
+            "Green Nomad Adept", 
+            "Shandian Warrior", 
+            "\ub179\uc0c9 \uc720\ubaa9\ub300 \ub2ec\uc778", 
+            "\uc0e8\ub514\uc544\uc758 \uc804\uc0ac"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub179\uc0c9 \uc720\ubaa9\ub300 \ub2ec\uc778, \uc0e8\ub514\uc544\uc758 \uc804\uc0ac", 
+        "class": "Striker"
+    }, 
+    {
+        "id": 493, 
+        "aliases": [
+            "Yellow Hunter", 
+            "Shandian Warrior", 
+            "\uc610\ub85c \uc218\ub835\ub300 \ub300\uc6d0", 
+            "\uc0e8\ub514\uc544\uc758 \uc804\uc0ac"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc610\ub85c \uc218\ub835\ub300 \ub300\uc6d0, \uc0e8\ub514\uc544\uc758 \uc804\uc0ac", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 494, 
+        "aliases": [
+            "Black Hunter", 
+            "Shandian Warrior", 
+            "\uac80\uc740 \uc218\ub835\ub300 \ub300\uc6d0", 
+            "\uc0e8\ub514\uc544\uc758 \uc804\uc0ac"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uac80\uc740 \uc218\ub835\ub300 \ub300\uc6d0, \uc0e8\ub514\uc544\uc758 \uc804\uc0ac", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 495, 
+        "aliases": [
+            "Yellow Hunter Adept", 
+            "Shandian Warrior", 
+            "\uc610\ub85c \uc218\ub835\ub300 \ub2ec\uc778", 
+            "\uc0e8\ub514\uc544\uc758 \uc804\uc0ac"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc610\ub85c \uc218\ub835\ub300 \ub2ec\uc778, \uc0e8\ub514\uc544\uc758 \uc804\uc0ac", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 496, 
+        "aliases": [
+            "Black Hunter Adept", 
+            "Shandian Warrior", 
+            "\ube14\ub799 \uc218\ub835\ub300 \ub2ec\uc778", 
+            "\uc0e8\ub514\uc544\uc758 \uc804\uc0ac"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ube14\ub799 \uc218\ub835\ub300 \ub2ec\uc778, \uc0e8\ub514\uc544\uc758 \uc804\uc0ac", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 497, 
+        "aliases": [
+            "Portgas D. Ace", 
+            "Mt. Corvo's Brothers 3", 
+            "\ud3ec\ud2b8\uac70\uc2a4 \uff24. \uc5d0\uc774\uc2a4", 
+            "\ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud3ec\ud2b8\uac70\uc2a4 \uff24. \uc5d0\uc774\uc2a4, \ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 498, 
+        "aliases": [
+            "Portgas D. Ace", 
+            "Mt. Corvo's Brothers 3", 
+            "Cup of Sworn Brotherhood", 
+            "\ud3ec\ud2b8\uac70\uc2a4 \uff24. \uc5d0\uc774\uc2a4", 
+            "\ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c \u2018\ud615\uc81c\uc220\uc794\u2019"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud3ec\ud2b8\uac70\uc2a4 \uff24. \uc5d0\uc774\uc2a4, \ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c \u2018\ud615\uc81c\uc220\uc794\u2019", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 499, 
+        "aliases": [
+            "Bellmere", 
+            "\ubca8\uba54\uc77c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubca8\uba54\uc77c", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 500, 
+        "aliases": [
+            "Bellmere", 
+            "Nami and Nojiko's Mother", 
+            "\ubca8\uba54\uc77c", 
+            "\ub098\ubbf8\uc640 \ub178\uc9c0\ucf54\uc758 \uc591\uc5b4\uba38\ub2c8"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubca8\uba54\uc77c, \ub098\ubbf8\uc640 \ub178\uc9c0\ucf54\uc758 \uc591\uc5b4\uba38\ub2c8", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 501, 
+        "aliases": [
+            "Kaya", 
+            "\uce74\uc57c"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uce74\uc57c", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 502, 
+        "aliases": [
+            "Kaya", 
+            "A rich young girl from Syrup Village", 
+            "\uce74\uc57c", 
+            "\uc2dc\ub86d\ub9c8\uc744\uc758 \uc544\uac00\uc528"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uce74\uc57c, \uc2dc\ub86d\ub9c8\uc744\uc758 \uc544\uac00\uc528", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 503, 
+        "aliases": [
+            "Hotori and Kotori", 
+            "\ud638\ud1a0\ub9ac\u00b7\ucf54\ud1a0\ub9ac"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ud638\ud1a0\ub9ac\u00b7\ucf54\ud1a0\ub9ac", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 504, 
+        "aliases": [
+            "Hotori and Kotori", 
+            "Skypiea Vice Head Enforcers", 
+            "\ud638\ud1a0\ub9ac\u00b7\ucf54\ud1a0\ub9ac", 
+            "\uc2a4\uce74\uc774\ud53c\uc544 \ubd80 \uc2e0\ubcd1\uc7a5"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ud638\ud1a0\ub9ac\u00b7\ucf54\ud1a0\ub9ac, \uc2a4\uce74\uc774\ud53c\uc544 \ubd80 \uc2e0\ubcd1\uc7a5", 
+        "class": "Fighter"
+    }, 
+    {
+        "id": 505, 
+        "aliases": [
+            "Pell", 
+            "\ud398\ub8e8"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud398\ub8e8", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 506, 
+        "aliases": [
+            "Pell", 
+            "The guardian falcon of Alabasta", 
+            "\ud398\ub8e8", 
+            "\uc54c\ub77c\ubc14\uc2a4\ud0c0\uc758 \uc218\ud638\uc2e0 \ud314\ucf58"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ud398\ub8e8, \uc54c\ub77c\ubc14\uc2a4\ud0c0\uc758 \uc218\ud638\uc2e0 \ud314\ucf58", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 507, 
+        "aliases": [
+            "Chaka", 
+            "\ucc60\uce74"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucc60\uce74", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 508, 
+        "aliases": [
+            "Chaka", 
+            "The guardian jackal of Alabasta", 
+            "\ucc28\uce74", 
+            "\uc54c\ub77c\ubc14\uc2a4\ud0c0\uc758 \uc218\ud638\uc2e0 \uc790\uce7c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ucc28\uce74, \uc54c\ub77c\ubc14\uc2a4\ud0c0\uc758 \uc218\ud638\uc2e0 \uc790\uce7c", 
+        "class": [
+            "Slasher", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 509, 
+        "aliases": [
+            "Sir Crocodile", 
+            "the Strongest Prisoner", 
+            "Mr. 0", 
+            "Ex-Baroque Works Leader", 
+            "\ucd5c\uac15 \uc8c4\uc218 \ud06c\ub85c\ucee4\ub2e4\uc77c Mr.0 \ubc14\ub85c\ud06c\uc6cc\ud06c\uc2a4 \uc804 \uc0ac\uc7a5"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ucd5c\uac15 \uc8c4\uc218 \ud06c\ub85c\ucee4\ub2e4\uc77c Mr.0 \ubc14\ub85c\ud06c\uc6cc\ud06c\uc2a4 \uc804 \uc0ac\uc7a5", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 510, 
+        "aliases": [
+            "Sir Crocodile", 
+            "the Strongest Prisoner", 
+            "Ex-Seven Warlords Member", 
+            "\ucd5c\uac15 \uc8c4\uc218 \ud06c\ub85c\ucee4\ub2e4\uc77c \uc804 \uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ucd5c\uac15\uc758 \uc8c4\uc218 Sir \ud06c\ub85c\ucee4\ub2e4\uc77c, \uc804 \uc655\uc758 \ubd80\ud558 \uce60\ubb34\ud574", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 511, 
+        "aliases": [
+            "Daz Bones", 
+            "Convict", 
+            "Mr. 1", 
+            "\ubcf5\uc5ed\uc218 \ub2e4\uc988 \ubcf4\ub124\uc2a4 Mr.1"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ubcf5\uc5ed\uc218 \ub2e4\uc988 \ubcf4\ub124\uc2a4 Mr.1", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 512, 
+        "aliases": [
+            "Sabo Mt. Corvo's Brothers 3", 
+            "\uc0ac\ubcf4 \ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc0ac\ubcf4 \ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c", 
+        "class": [
+            "Striker", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 513, 
+        "aliases": [
+            "Sabo Mt. Corvo's Brothers 3", 
+            "Cup of Sworn Brotherhood", 
+            "\uc0ac\ubcf4 \ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c \u2018\ud615\uc81c\uc220\uc794\u2019"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc0ac\ubcf4 \ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c \u2018\ud615\uc81c\uc220\uc794\u2019", 
+        "class": [
+            "Striker", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 514, 
+        "aliases": [
+            "Nico Robin Tropical", 
+            "\ub2c8\ucf54 \ub85c\ube48 \ud2b8\ub85c\ud53c\uceec"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\ub2c8\ucf54 \ub85c\ube48, \ud2b8\ub85c\ud53c\uceec", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 515, 
+        "aliases": [
+            "Heracles-un", 
+            "\ud5e4\ub77c\ud074\ub808\uc2a8"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud5e4\ub77c\ud074\ub808\uc2a8", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 516, 
+        "aliases": [
+            "Heracles-un", 
+            "Hero of the Forest", 
+            "\ud5e4\ub77c\ud074\ub808\uc2a8", 
+            "\uc232\uc758 \uc6a9\uc0ac"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ud5e4\ub77c\ud074\ub808\uc2a8, \uc232\uc758 \uc6a9\uc0ac", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 517, 
+        "aliases": [
+            "Usopp-un", 
+            "\uc6b0\uc18c\ud508"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc6b0\uc18c\ud508", 
+        "class": "Shooter"
+    }, 
+    {
+        "id": 518, 
+        "aliases": [
+            "Usopp-un", 
+            "Hercules' Student", 
+            "\uc6b0\uc18c\ud508", 
+            "\ud5e4\ub77c\ud074\ub808\uc2a8\uc758 \uc81c\uc790"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc6b0\uc18c\ud508, \ud5e4\ub77c\ud074\ub808\uc2a8\uc758 \uc81c\uc790", 
+        "class": [
+            "Shooter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 519, 
+        "aliases": [
+            "Monkey D. Luffy", 
+            "Merveille's Adventurer", 
+            "\ubabd\ud0a4 D. \ub8e8\ud53c", 
+            "\uba54\ub974\ube44\uc720\uc758 \ubaa8\ud5d8\uc790"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubabd\ud0a4 D. \ub8e8\ud53c, \uba54\ub974\ube44\uc720\uc758 \ubaa8\ud5d8\uc790", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 520, 
+        "aliases": [
+            "Monkey D. Luffy", 
+            "Straw Hat Pirates' Attack", 
+            "\ubabd\ud0a4 D. \ub8e8\ud53c", 
+            "\ud2b9\uacf5\uc758 \ubc00\uc9da\ubaa8\uc790 \uc77c\ub2f9"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubabd\ud0a4 D. \ub8e8\ud53c, \ud2b9\uacf5\uc758 \ubc00\uc9da\ubaa8\uc790 \uc77c\ub2f9", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 521, 
+        "aliases": [
+            "Sanji", 
+            "Merveille's Adventurer", 
+            "\uc0c1\ub514", 
+            "\uba54\ub974\ube44\uc720\uc758 \ubaa8\ud5d8\uc790"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc0c1\ub514, \uba54\ub974\ube44\uc720\uc758 \ubaa8\ud5d8\uc790", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 522, 
+        "aliases": [
+            "Sanji", 
+            "Straw Hat Pirates' Attack", 
+            "\uc0c1\ub514", 
+            "\ud2b9\uacf5\uc758 \ubc00\uc9da\ubaa8\uc790 \uc77c\ub2f9"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc0c1\ub514, \ud2b9\uacf5\uc758 \ubc00\uc9da\ubaa8\uc790 \uc77c\ub2f9", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 523, 
+        "aliases": [
+            "Nami", 
+            "Merveille's Adventurer", 
+            "\ub098\ubbf8", 
+            "\uba54\ub974\ube44\uc720\uc758 \ubaa8\ud5d8\uc790"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub098\ubbf8, \uba54\ub974\ube44\uc720\uc758 \ubaa8\ud5d8\uc790", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 524, 
+        "aliases": [
+            "Nami and Billy the Thunder Bird", 
+            "\ub098\ubbf8\uc640 \ub1cc\uc870\ube44\ub9ac"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ub098\ubbf8\uc640 \ub1cc\uc870\ube44\ub9ac", 
+        "class": [
+            "Striker", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 525, 
+        "aliases": [
+            "Brook", 
+            "Merveille's Adventurer", 
+            "\ube0c\ub8e9", 
+            "\uba54\ub974\ube44\uc720\uc758 \ubaa8\ud5d8\uc790"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ube0c\ub8e9, \uba54\ub974\ube44\uc720\uc758 \ubaa8\ud5d8\uc790", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 526, 
+        "aliases": [
+            "Brook", 
+            "Straw Hat Pirates' Attack", 
+            "\ube0c\ub8e9", 
+            "\ud2b9\uacf5\uc758 \ubc00\uc9da\ubaa8\uc790 \uc77c\ub2f9"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ube0c\ub8e9, \ud2b9\uacf5\uc758 \ubc00\uc9da\ubaa8\uc790 \uc77c\ub2f9", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 527, 
+        "aliases": [
+            "Chopper", 
+            "Merveille's Adventurer", 
+            "\ucd78\ud30c", 
+            "\uba54\ub974\ube44\uc720\uc758 \ubaa8\ud5d8\uc790"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd78\ud30c, \uba54\ub974\ube44\uc720\uc758 \ubaa8\ud5d8\uc790", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 528, 
+        "aliases": [
+            "Chopper", 
+            "Straw Hat Pirates' Attack", 
+            "\ucd78\ud30c", 
+            "\ud2b9\uacf5\uc758 \ubc00\uc9da\ubaa8\uc790 \uc77c\ub2f9"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ucd78\ud30c, \ud2b9\uacf5\uc758 \ubc00\uc9da\ubaa8\uc790 \uc77c\ub2f9", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 529, 
+        "aliases": [
+            "Shanks", 
+            "Black Clad Redhead", 
+            "\uc0f9\ud06c\uc2a4", 
+            "\uac80\uc740 \uc637\uc758 \ube68\uac04 \uba38\ub9ac"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc0f9\ud06c\uc2a4, \uac80\uc740 \uc637\uc758 \ube68\uac04 \uba38\ub9ac", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 530, 
+        "aliases": [
+            "Shanks", 
+            "Black Clad Emperor", 
+            "\uc0f9\ud06c\uc2a4", 
+            "\uac80\uc740 \uc637\uc758 \uc0ac\ud669"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc0f9\ud06c\uc2a4, \uac80\uc740 \uc637\uc758 \uc0ac\ud669", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 531, 
+        "aliases": [
+            "Nico Robin Cherry Blossoms Falling", 
+            "\ub2c8\ucf54 \ub85c\ube48", 
+            "\ubc9a\uaf43 \ub208\ubcf4\ub77c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub2c8\ucf54 \ub85c\ube48, \ubc9a\uaf43 \ub208\ubcf4\ub77c", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 532, 
+        "aliases": [
+            "Nico Robin Cherry Blossoms in Full Bloom", 
+            "\ub2c8\ucf54 \ub85c\ube48", 
+            "\ubc9a\uaf43 \ub9cc\uac1c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub2c8\ucf54 \ub85c\ube48, \ubc9a\uaf43 \ub9cc\uac1c", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 533, 
+        "aliases": [
+            "Brook Cherry Blossom Hair", 
+            "\ube0c\ub8e9", 
+            "\uccb4\ub9ac \ud5e4\ub4dc"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ube0c\ub8e9, \uccb4\ub9ac \ud5e4\ub4dc", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 534, 
+        "aliases": [
+            "Brook Cherry Blossom Melody", 
+            "\ube0c\ub8e9", 
+            "\ubc9a\uaf43 \uc74c\uc0c9"
+        ], 
+        "type": [
+            "QCK"
+        ], 
+        "name": "\ube0c\ub8e9, \ubc9a\uaf43 \uc74c\uc0c9", 
+        "class": [
+            "Slasher", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 535, 
+        "aliases": [
+            "Nami Blossom Cloud", 
+            "\ub098\ubbf8", 
+            "\ubc9a\uaf43 \uad6c\ub984"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub098\ubbf8, \ubc9a\uaf43 \uad6c\ub984", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 536, 
+        "aliases": [
+            "Nami Blossom Climate", 
+            "\ub098\ubbf8", 
+            "\ubc9a\uaf43 \ub0a0\uc528"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ub098\ubbf8, \ubc9a\uaf43 \ub0a0\uc528", 
+        "class": [
+            "Shooter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 537, 
+        "aliases": [
+            "Domino", 
+            "\ub3c4\ubbf8\ub178"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub3c4\ubbf8\ub178", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 538, 
+        "aliases": [
+            "Domino", 
+            "Impel Down Vice Head Jailer", 
+            "\ub3c4\ubbf8\ub178", 
+            "\uc784\ud3a0 \ub2e4\uc6b4 \ubd80\uac04\uc218\uc7a5"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub3c4\ubbf8\ub178, \uc784\ud3a0 \ub2e4\uc6b4 \ubd80\uac04\uc218\uc7a5", 
+        "class": [
+            "Fighter", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 539, 
+        "aliases": [
+            "Minorhinoceros", 
+            "\ubbf8\ub178\ub9ac\ub178\ucf00\ub85c\uc2a4"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubbf8\ub178\ub9ac\ub178\ucf00\ub85c\uc2a4", 
+        "class": [
+            "Striker", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 540, 
+        "aliases": [
+            "Basilisk", 
+            "\ubc14\uc2e4\ub9ac\uc2a4\ud06c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\ubc14\uc2e4\ub9ac\uc2a4\ud06c", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 541, 
+        "aliases": [
+            "Ohm", 
+            "\uc624\uc6c0"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\uc624\uc6c0", 
+        "class": [
+            "Slasher", 
+            "Cerebral"
+        ]
+    }, 
+    {
+        "id": 542, 
+        "aliases": [
+            "Nola", 
+            "Giant Snake", 
+            "\ub178\ub77c", 
+            "\uc774\ubb34\uae30"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\ub178\ub77c, \uc774\ubb34\uae30", 
+        "class": [
+            "Fighter", 
+            "Powerhouse"
+        ]
+    }, 
+    {
+        "id": 543, 
+        "aliases": [
+            "Wyper", 
+            "\uc640\uc774\ud37c"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc640\uc774\ud37c", 
+        "class": [
+            "Shooter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 544, 
+        "aliases": [
+            "Wyper", 
+            "Descendant of Great Warrior Calgara", 
+            "\uc640\uc774\ud37c \ub300\uc804\uc0ac \uce74\ub8e8\uac00\ub8e8\uc758 \uc790\uc190"
+        ], 
+        "type": [
+            "DEX"
+        ], 
+        "name": "\uc640\uc774\ud37c \ub300\uc804\uc0ac \uce74\ub8e8\uac00\ub8e8\uc758 \uc790\uc190", 
+        "class": [
+            "Shooter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 545, 
+        "aliases": [
+            "Eneru", 
+            "\uc5d0\ub12c"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uc5d0\ub12c", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 546, 
+        "aliases": [
+            "Kami Eneru", 
+            "\uac13 \uc5d0\ub12c"
+        ], 
+        "type": [
+            "PSY"
+        ], 
+        "name": "\uac13 \uc5d0\ub12c", 
+        "class": [
+            "Shooter", 
+            "Driven"
+        ]
+    }, 
+    {
+        "id": 547, 
+        "aliases": [
+            "Monkey D. Luffy", 
+            "Mt. Corvo's Brothers 3", 
+            "\ubabd\ud0a4 D. \ub8e8\ud53c \ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubabd\ud0a4 D. \ub8e8\ud53c \ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 548, 
+        "aliases": [
+            "Monkey D. Luffy", 
+            "Mt. Corvo's Brothers 3", 
+            "Cup of Sworn Brotherhood", 
+            "\ubabd\ud0a4 D. \ub8e8\ud53c \ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c \u2018\ud615\uc81c\uc220\uc794\u2019"
+        ], 
+        "type": [
+            "STR"
+        ], 
+        "name": "\ubabd\ud0a4 D. \ub8e8\ud53c \ucf54\ub974\ubcf4\uc0b0 \uc545\ub3d9 3\ud615\uc81c \u2018\ud615\uc81c\uc220\uc794\u2019", 
+        "class": [
+            "Fighter", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 549, 
+        "aliases": [
+            "Sadie", 
+            "\uc0ac\ub514 \uc591"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc0ac\ub514 \uc591", 
+        "class": [
+            "Striker", 
+            "Free Spirit"
+        ]
+    }, 
+    {
+        "id": 550, 
+        "aliases": [
+            "Sadie", 
+            "Impel Down Chief Jailer", 
+            "\uc0ac\ub514 \uc591", 
+            "\uc784\ud3a0 \ub2e4\uc6b4\uc758 \uc625\uc878\uc7a5"
+        ], 
+        "type": [
+            "INT"
+        ], 
+        "name": "\uc0ac\ub514 \uc591, \uc784\ud3a0 \ub2e4\uc6b4\uc758 \uc625\uc878\uc7a5", 
+        "class": [
+            "Striker", 
+            "Free Spirit"
+        ]
+    }
+]
