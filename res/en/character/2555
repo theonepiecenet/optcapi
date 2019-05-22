@@ -7,31 +7,31 @@
     "specialNotes": "Level 1-10: 1.75x ATK boost<br>Level 11-20: 2x ATK boost<br>Level 21+: 2.25x ATK boost",
     "limit": [
       {
-        "description": ""
+        "description": "Boosts base RCV by 30"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 20"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 40"
       },
       {
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": ""
+        "description": "Boosts base RCV by 40"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 40"
       },
       {
-        "description": ""
+        "description": "Boosts base RCV by 50"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 50"
       },
       {
         "description": "Acquire Potential 1: Slot Bind Self-reduction"
@@ -41,10 +41,10 @@
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 1: Reduces Slot Bind duration by 2 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
           "Level 5: Reduces Slot Bind duration by 7 turns on this character"
         ]
       }
@@ -53,17 +53,17 @@
       {
         "Characters": "Shanks and Ben Beckman",
         "description": [
-          "Level 1: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by ?x for 1 turn.",
-          "Level 2: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by ?x for 1 turn.",
-          "Level 3: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by ?x for 1 turn.",
-          "Level 4: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by ?x for 1 turn.",
+          "Level 1: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by 1.1x for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by 1.2x for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by 1.3x for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by 1.4x for 1 turn.",
           "Level 5: Once per an adventure, when the supported character uses a Orb Converting or Orb Randomizing special, randomizes [Empty] orbs and boosts ATK of supported characcter by 1.5x for 1 turn."
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "ラッキー・ルウ 赤髪海賊団幹部",
     "",
     "Limited Lucky Roux",
     "Secret Lucky Roux",
@@ -82,13 +82,13 @@
     "slots": 4,
     "level": 99,
     "exp": 2000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
+    "minHP": 1086,
+    "minATK": 489,
+    "minRCV": 133,
     "maxHP": 2713,
     "maxATK": 1222,
     "maxRCV": 332,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     12,

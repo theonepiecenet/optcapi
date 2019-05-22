@@ -6,31 +6,31 @@
     "specialName": "You've Heard of the Name Rockstar ... Right?",
     "limit": [
       {
-        "description": ""
+        "description": "Boosts base HP by 50"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 10"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 20"
       },
       {
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": ""
+        "description": "Boosts base RCV by 40"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 25"
       },
       {
-        "description": ""
+        "description": "Boosts base ATK by 30"
       },
       {
-        "description": ""
+        "description": "Boosts base RCV by 60"
       },
       {
-        "description": ""
+        "description": "Boosts base HP by 65"
       },
       {
         "description": "Acquire Potential 1: Enrage"
@@ -40,10 +40,10 @@
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by ?",
-          "Level 2: Boosts base ATK by ?",
-          "Level 3: Boosts base ATK by ?",
-          "Level 4: Boosts base ATK by ?",
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 125",
           "Level 5: Boosts base ATK by 250"
         ]
       }
@@ -51,7 +51,7 @@
     "potentialNotes": "#{enrage}"
   },
   "aliases": [
-    "",
+    "ロックスター",
     "",
     "Limited Rockstar",
     "Secret Rockstar"
@@ -68,13 +68,13 @@
     "slots": 4,
     "level": 99,
     "exp": 2000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
+    "minHP": 875,
+    "minATK": 477,
+    "minRCV": 98,
     "maxHP": 2188,
     "maxATK": 1192,
     "maxRCV": 245,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     12,
