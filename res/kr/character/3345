@@ -1,5 +1,5 @@
 {
-    "name": "흰 수염, Great Pirate Who Created an Age",
+    "name": "흰 수염, 시대를 만든 대해적",
     "detail": {
         "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Powerhouse and Striker characters proportionally to the crew's current HP, by 4.5x at max and reduce damage received by 20%",
         "captainNotes": "#{captainProportional : lower : 2.5 + 2 * (1 - (remaining HP) / (total HP)) : 2.5 : 4.5}",

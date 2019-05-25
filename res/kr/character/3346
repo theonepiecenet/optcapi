@@ -1,14 +1,14 @@
 {
-    "name": "흰 수염, Voiceless Rage",
+    "name": "흰 수염, 말로 형용할 수 없는 분노",
     "detail": {
-        "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Powerhouse and Striker characters proportionally to the crew's current HP, by 4.5x at max and reduce damage received by 20%",
+        "captain": "모험 시작 시 필살기 턴을 1턴 단축하고, 공격 시작 전 체력이 적을수록 강인형과 타격형 캐릭터의 공격력이 상승하며(최소2.5배, 최대 4.5배), 받는 데미지를 20% 감소시킨다",
         "captainNotes": "#{captainProportional : lower : 2.5 + 2 * (1 - (remaining HP) / (total HP)) : 2.5 : 4.5}",
-        "special": "Deals 400,000 fixed damage to one enemy that will ignore damage negating abilities and barriers, adds .7x to Chain multiplier for 1 turn, boosts ATK of Striker and Powerhouse characters by 2x for 1 turn. If HP is below 30% at the time the special is activated, reduces damage received by 95% for 1 turn and reduces Despair duration by 20 turns.",
-        "specialName": "Seismic Strike",
+        "special": "적 1명에게 모든 방어 효과를 무시하고 고정 데미지 400000을 주고, 1턴 동안 체인 계수가 +0.7 되며, 1턴 동안 강인형과 타격형 캐릭터의 공격력을 2배로 만든다. 필살기 발동 시 남은 체력이 적을 때, 1턴 동안 받는 데미지를 95% 감소시키고 선장효과 무효 상태를 20턴 회복한다",
+        "specialName": "진원의 일격",
         "sailor": {
             "base": "None",
-            "level1": "Cannot be blown away",
-            "level2": "Boosts base ATK of all characters by 70"
+            "level1": "자신은 날아가지 않는다",
+            "level2": "일당의 기본 공격력이 70 상승한다"
         },
         "limit": [
             {
