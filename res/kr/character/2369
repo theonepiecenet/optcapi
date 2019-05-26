@@ -1,96 +1,96 @@
 {
-  "name": "샬롯 몽도르, Minister of Cheese and Charlotte Family’s 19th Son",
-  "detail": {
-    "specialName": "Sealed Books",
-    "special": "Reduces enemies Percent Damage Reduction and Increased Defense duration by 4 turns, reduces Silence, Increase Damage Taken and Burn duration by 4 turns. If your captain is a [STR] or [PSY], boosts the Color Affinity of [STR] and [PSY] characters by 1.75x for 1 turn",
-    "captain": "Boosts ATK of [STR] and [PSY] characters by a variable factor between 2x and 2.75x based on the timing of the attack of the previous unit in the chain and recovers 700 HP at end of each turn",
-    "sailor": {
-      "base": "Reduces Silence duration on this character by 3 turns",
-      "level1": "If your captain is a [STR] or [PSY], makes [QCK] orbs \"beneficial\" for [STR] and [PSY] characters"
-    },
-    "potential": [
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
+    "name": "샬롯 몽도르, 치즈 대신 샬롯 가 19남",
+    "detail": {
+        "specialName": "봉인의 책",
+        "special": "적 전체에게 걸려 있는 방어력 상승과 데미지 감소([THRESHOLD DAMAGE] 제외) 상태를 4턴 줄이고, 일당에게 걸려 있는 화상, [INCREASE DAMAGE], 필살기 봉쇄 상태를 4턴 회복한다. 선장이 [STR] 또는 [PSY]이면, 2턴 동안 [STR]과 [PSY]의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
+        "captain": "앞 캐릭터의 공격 타이밍에 따라 이후 [STR]과 [PSY]의 공격력이 최소2배, 최대 2.75배가 되고, 턴 종료 시 체력을 700 회복한다",
+        "sailor": {
+            "base": "자신은 필살기 봉쇄 상태를 3턴 회복한다",
+            "level1": "선장이 [STR] 또는 [PSY]이라면 [STR]과 [PSY]은 [QCK] 슬롯도 [유리] 슬롯으로 취급한다"
+        },
+        "potential": [
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turns",
+                    "Level 3: Reduces No Healing duration by 3 turns",
+                    "Level 4: Reduces No Healing duration by 4 turns",
+                    "Level 5: Reduces No Healing duration by 5 turns"
+                ]
+            },
+            {
+                "Name": "Enrage",
+                "description": [
+                    "Level 1: Boosts base ATK by 50",
+                    "Level 2: Boosts base ATK by 75",
+                    "Level 3: Boosts base ATK by 100",
+                    "Level 4: Boosts base ATK by 150",
+                    "Level 5: Boosts base ATK by 200"
+                ]
+            }
+        ],
+        "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a PERFECT hit by 2.75x.",
+        "sailorNotes": "#{silence} #{beneficial}",
+        "potentialNotes": "#{enrage}",
+        "limit": [
+            {
+                "description": "Boosts base HP by 10"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Acquire Potential 1: Reduce No Healing duration"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: If your captain is a [STR] or [PSY] character, makes [QCK] orbs beneficial for [STR] and [PSY] characters"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Acquire Potential 2: Enrage"
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Katakuri, Charlotte Linlin, Galette and Opera",
+                "description": [
+                    "Level 1: Reduces damage received from [DEX] characters by 1%. Adds 2% of this character's base ATK to the supported character's base ATK",
+                    "Level 2: Reduces damage received from [DEX] characters by 2%. Adds 3% of this character's base ATK to the supported character's base ATK",
+                    "Level 3: Reduces damage received from [DEX] characters by 3%. Adds 5% of this character's base ATK to the supported character's base ATK",
+                    "Level 4: Reduces damage received from [DEX] characters by 4%. Adds 7% of this character's base ATK to the supported character's base ATK",
+                    "Level 5: Reduces damage received from [DEX] characters by 5%. Adds 9% of this character's base ATK to the supported character's base ATK"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "Enrage",
-        "description": [
-          "Level 1: Boosts base ATK by 50",
-          "Level 2: Boosts base ATK by 75",
-          "Level 3: Boosts base ATK by 100",
-          "Level 4: Boosts base ATK by 150",
-          "Level 5: Boosts base ATK by 200"
-        ]
-      }
-    ],
-    "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a PERFECT hit by 2.75x.",
-    "sailorNotes": "#{silence} #{beneficial}",
-    "potentialNotes": "#{enrage}",
-    "limit": [
-      {
-        "description": "Boosts base HP by 10"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Acquire Potential 1: Reduce No Healing duration"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base RCV by 50"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base HP by 60"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: If your captain is a [STR] or [PSY] character, makes [QCK] orbs beneficial for [STR] and [PSY] characters"
-      },
-      {
-        "description": "Boosts base ATK by 40"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Acquire Potential 2: Enrage"
-      }
-    ],
-    "support": [
-      {
-        "Characters": "Katakuri, Charlotte Linlin, Galette and Opera",
-        "description": [
-          "Level 1: Reduces damage received from [DEX] characters by 1%. Adds 2% of this character's base ATK to the supported character's base ATK",
-          "Level 2: Reduces damage received from [DEX] characters by 2%. Adds 3% of this character's base ATK to the supported character's base ATK",
-          "Level 3: Reduces damage received from [DEX] characters by 3%. Adds 5% of this character's base ATK to the supported character's base ATK",
-          "Level 4: Reduces damage received from [DEX] characters by 4%. Adds 7% of this character's base ATK to the supported character's base ATK",
-          "Level 5: Reduces damage received from [DEX] characters by 5%. Adds 9% of this character's base ATK to the supported character's base ATK"
-        ]
-      }
-    ]
-  }
+    }
 }
