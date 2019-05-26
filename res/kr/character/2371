@@ -1,95 +1,95 @@
 {
-  "name": "“Gourmet Knight” 슈트로이젠, Big Mom Pirates Executive Chef",
-  "detail": {
-    "specialName": "Gourmetamorphosis",
-    "special": "Removes Poison duration completely, reduces Bind and Despair duration by 5 turns, changes [TND], [BLOCK], [BOMB] and Badly Matching orbs into [RCV] orbs and makes [STR], [PSY] and [RCV] orbs \"beneficial\" for 3 turns",
-    "captain": "Boosts ATK of [STR] characters by 2.75x and their RCV by 1.3x",
-    "sailor": {
-      "base": "Makes [RCV] orbs \"beneficial\" for this character",
-      "level1": "Changes all orbs into [RCV] orbs at the start of the fight"
-    },
-    "potential": [
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
+    "name": "미식기사 슈트로이젠, 빅 맘 해적단 총요리장",
+    "detail": {
+        "specialName": "페어엔데룽 구르메",
+        "special": "일당의 모든 독 상태를 회복하고, 봉쇄, 선장효과 무효 상태를 5턴 회복한다. [BLOCK][TND][BOMB][불리] 슬롯을 [RCV] 슬롯으로 바꾸고, 3턴 동안 [RCV][STR][PSY] 슬롯을 [유리] 슬롯으로 취급한다",
+        "captain": "[STR]의 공격력을 2.75배, 회복력을 1.3배로 만든다",
+        "sailor": {
+            "base": "자신은 [PSY] 슬롯도 [유리] 슬롯으로 취급한다",
+            "level1": "모험 시작 시 모든 슬롯을 [RCV] 슬롯으로 바꾼다(같은 효과 중복 시엔 하나만 효과 발동)"
+        },
+        "potential": [
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turns",
+                    "Level 3: Reduces No Healing duration by 3 turns",
+                    "Level 4: Reduces No Healing duration by 4 turns",
+                    "Level 5: Reduces No Healing duration by 5 turns"
+                ]
+            },
+            {
+                "Name": "Enrage",
+                "description": [
+                    "Level 1: Boosts base ATK by 50",
+                    "Level 2: Boosts base ATK by 75",
+                    "Level 3: Boosts base ATK by 100",
+                    "Level 4: Boosts base ATK by 150",
+                    "Level 5: Boosts base ATK by 200"
+                ]
+            }
+        ],
+        "sailorNotes": "#{beneficial}",
+        "potentialNotes": "#{enrage}",
+        "limit": [
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Acquire Potential 1: Reduce No Healing duration"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base RCV by 30"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Changes all orbs into [RCV] orbs at the start of the fight"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Acquire Potential 2: Enrage"
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Charlotte Linlin, Pudding and Sanji",
+                "description": [
+                    "Level 1: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 2: Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 3: Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 4: Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 5: Adds 12% of this character's base HP and RCV to the supported character's base HP and RCV"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "Enrage",
-        "description": [
-          "Level 1: Boosts base ATK by 50",
-          "Level 2: Boosts base ATK by 75",
-          "Level 3: Boosts base ATK by 100",
-          "Level 4: Boosts base ATK by 150",
-          "Level 5: Boosts base ATK by 200"
-        ]
-      }
-    ],
-    "sailorNotes": "#{beneficial}",
-    "potentialNotes": "#{enrage}",
-    "limit": [
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Acquire Potential 1: Reduce No Healing duration"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base ATK by 50"
-      },
-      {
-        "description": "Boosts base RCV by 30"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Changes all orbs into [RCV] orbs at the start of the fight"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base HP by 60"
-      },
-      {
-        "description": "Acquire Potential 2: Enrage"
-      }
-    ],
-    "support": [
-      {
-        "Characters": "Charlotte Linlin, Pudding and Sanji",
-        "description": [
-          "Level 1: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 2: Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 3: Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 4: Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 5: Adds 12% of this character's base HP and RCV to the supported character's base HP and RCV"
-        ]
-      }
-    ]
-  }
+    }
 }
