@@ -1,152 +1,152 @@
 {
-  "name": "샬롯 카타쿠리, A Real Man's Fight",
-  "detail": {
-    "specialName": "Burning Mochi",
-    "special": "Deals typeless damage to all enemies equal to 30x the damage taken before the special is activated and adds Additional Typeless Damage equal to 15x the damage taken before the special is activated for 1 turn.",
-    "captain": "Boosts ATK of Fighter, Slasher, Shooter, Driven and Powerhouse characters by 1.825x, boosts the Color Affinity of all characters by 1.4x and makes [STR], [PSY], [RCV] and [TND] orbs \"beneficial\" for all characters. Recovers 50% of damage taken in the previous stage when entering a new stage.",
-    "sailor": {
-      "base": "None",
-      "level1": "Boosts base ATK, HP and RCV of all characters by 75",
-      "level2": "Boosts this character's attack against [INT] characters by 1.1x"
-    },
-    "potential": [
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 7 turns on this character"
+    "name": "샬롯 카타쿠리, 사내의 승부",
+    "detail": {
+        "specialName": "「구운 떡」",
+        "special": "필살기 발동시까지 적에게 받은 데미지를 축적하여 적 전체에게 축적치x30배의 무 속성 데미지를 주고(최대 6,000,000 데미지), 1턴 동안 GOOD, GREAT, PERFECT 공격 시 추가로 축적치x15배의 무 속성 데미지를 가산한다(6명이서 최대 18,000,000 데미지 가산)",
+        "captain": "격투형, 참격형, 사격형, 야심형, 강인형 캐릭터의 공격력을 각각 1.825배(타입이 중복될 경우 약 3.33배)로 만들고, 일반 공격에 의한 속성 상성의 영향이 1.4배가 되며, [STR][PSY][RCV][TND] 슬롯을 [유리] 슬롯으로 취급하고, 다음 배틀로 이동할 때, 해당 배틀에서 받은 데미지의 50%를 회복한다",
+        "sailor": {
+            "base": "None",
+            "level1": "일당의 기본 능력치가 75 상승한다",
+            "level2": "일당이 [INT]에게 주는 일반 공격에 의한 데미지가 1.1배가 된다"
+        },
+        "potential": [
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+                    "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+                    "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+                    "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+                    "Level 4: Reduces Slot Bind duration by 7 turns on this character"
+                ]
+            },
+            {
+                "Name": "Enrage",
+                "description": [
+                    "Level 1: Boosts base ATK by 150",
+                    "Level 2: Boosts base ATK by 200",
+                    "Level 3: Boosts base ATK by 250",
+                    "Level 4: Boosts base ATK by 300",
+                    "Level 5: Boosts base ATK by 350"
+                ]
+            },
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 3 turns",
+                    "Level 3: Reduces No Healing duration by 5 turns",
+                    "Level 4: Reduces No Healing duration by 7 turns",
+                    "Level 5: Reduces No Healing duration by 10 turns"
+                ]
+            }
+        ],
+        "specialNotes": "The amount of damage possible caps at 200,000 damage taken, so 6,000,000 AOE Typeless damage and 3,000,000 Additional Damage.",
+        "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 3.330625x bonus #{beneficial}",
+        "potentialNotes": "#{enrage}",
+        "limit": [
+            {
+                "description": "Boosts base ATK by 5"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Acquire Potential 1: Slot Bind Self-reduction"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base HP by 10"
+            },
+            {
+                "description": "Boosts base HP by 10"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 75"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Acquire Potential 2: Enrage"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base RCV by 25"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base RCV by 30"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Acquire Sailor Ability 2: Boosts this character's attack against [INT] characters by 1.1x"
+            },
+            {
+                "description": "Boosts base ATK by 75"
+            },
+            {
+                "description": "Boosts base HP by 100"
+            },
+            {
+                "description": "Acquire Potential 3: Reduce No Healing duration"
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Charlotte Linlin, Cracker, Brulee and Smoothie",
+                "description": [
+                    "Level 1: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 2: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 3: Adds 8% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 4: Adds 10% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+                    "Level 5: Adds 12% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+                ]
+            }
         ]
-      },
-      {
-        "Name": "Enrage",
-        "description": [
-          "Level 1: Boosts base ATK by 150",
-          "Level 2: Boosts base ATK by 200",
-          "Level 3: Boosts base ATK by 250",
-          "Level 4: Boosts base ATK by 300",
-          "Level 5: Boosts base ATK by 350"
-        ]
-      },
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 3 turns",
-          "Level 3: Reduces No Healing duration by 5 turns",
-          "Level 4: Reduces No Healing duration by 7 turns",
-          "Level 5: Reduces No Healing duration by 10 turns"
-        ]
-      }
-    ],
-    "specialNotes": "The amount of damage possible caps at 200,000 damage taken, so 6,000,000 AOE Typeless damage and 3,000,000 Additional Damage.",
-    "captainNotes": "The bonus is cumulative. Characters with 2 of the boosted classes get a 3.330625x bonus #{beneficial}",
-    "potentialNotes": "#{enrage}",
-    "limit": [
-      {
-        "description": "Boosts base ATK by 5"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Boosts base RCV by 5"
-      },
-      {
-        "description": "Acquire Potential 1: Slot Bind Self-reduction"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Boosts base HP by 10"
-      },
-      {
-        "description": "Boosts base HP by 10"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Boosts base RCV by 15"
-      },
-      {
-        "description": "Boosts base HP by 20"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 75"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Acquire Potential 2: Enrage"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base RCV by 25"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base RCV by 30"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Acquire Sailor Ability 2: Boosts this character's attack against [INT] characters by 1.1x"
-      },
-      {
-        "description": "Boosts base ATK by 75"
-      },
-      {
-        "description": "Boosts base HP by 100"
-      },
-      {
-        "description": "Acquire Potential 3: Reduce No Healing duration"
-      }
-    ],
-    "support": [
-      {
-        "Characters": "Charlotte Linlin, Cracker, Brulee and Smoothie",
-        "description": [
-          "Level 1: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
-          "Level 2: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
-          "Level 3: Adds 8% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
-          "Level 4: Adds 10% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
-          "Level 5: Adds 12% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
-        ]
-      }
-    ]
-  }
+    }
 }
