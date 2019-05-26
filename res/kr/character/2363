@@ -1,7 +1,7 @@
 {
     "name": "몽키 D. 루피, ‘기어 4’ ‘스네이크 맨’",
     "detail": {
-        "specialName": "고무고무 킹 코브라",
+        "captain": "모험 시작 시 필살기 턴을 1턴 단축하고, 일당의 공격력을 3.25배, 체력을 1.35배로 만들며, 일당의 [DEX][INT] 슬롯을 [유리] 슬롯으로 취급한다. 「고무고무 킹 코브라」를 사용하면 필살기를 발동한 자신의 선장효과가 3턴동안 ‘일당의 공격력을 약 4배, 체력을 1.35배로 만들고, 일당의 [DEX][INT] 슬롯을 [유리] 슬롯으로 취급하며 PERFECT 3연속 달성 시 이후 일당의 공격력이 약 4.25배’로 변경된다",
         "special": [
             {
                 "description": "적 1명에게 무 속성 데미지를 주고, 1턴 동안 일당의 체인 계수가 +0.3 되며, 1턴 동안 일당의 슬롯 영향을 증폭시킨다. 자신이 선장, 친구 선장, 조력자 선장이면 3턴 동안 일당의 모든 속성 슬롯을 [유리] 슬롯으로 취급한다",
@@ -16,49 +16,15 @@
                     19,
                     14
                 ]
-            },
-            {
-                "description": ""
             }
         ],
-        "captain": "모험 시작 시 필살기 턴을 1턴 단축하고, 일당의 공격력을 3.25배, 체력을 1.35배로 만들며, 일당의 [DEX][INT] 슬롯을 [유리] 슬롯으로 취급한다. 「고무고무 킹 코브라」를 사용하면 필살기를 발동한 자신의 선장효과가 3턴동안 ‘일당의 공격력을 약 4배, 체력을 1.35배로 만들고, 일당의 [DEX][INT] 슬롯을 [유리] 슬롯으로 취급하며 PERFECT 3연속 달성 시 이후 일당의 공격력이 약 4.25배’로 변경된다",
+        "specialName": "고무고무 킹 코브라",
+        "specialNotes": "#{beneficial}",
         "sailor": {
             "base": "None",
             "level1": "자신은 마비 상태가 되지 않는다",
             "level2": "일당의 기본 능력치가 50 상승한다"
         },
-        "potential": [
-            {
-                "Name": "Slot Bind Self-reduction",
-                "description": [
-                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-                    "Level 2: Reduces Slot Bind duration by 2 turns on this character",
-                    "Level 3: Reduces Slot Bind duration by 3 turns on this character",
-                    "Level 4: Reduces Slot Bind duration by 5 turns on this character",
-                    "Level 5: Reduces Slot Bind duration by 7 turns on this character"
-                ]
-            },
-            {
-                "Name": "Pinch Healing",
-                "description": [
-                    "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-                    "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
-                ]
-            },
-            {
-                "Name": "Critical Hit",
-                "description": [
-                    "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
-                    "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
-                    "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
-                    "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
-                    "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
-                ]
-            }
-        ],
         "limit": [
             {
                 "description": "Boosts base RCV by 5"
@@ -151,7 +117,38 @@
                 "description": "Acquire Potential 3: Critical Hit"
             }
         ],
-        "specialNotes": "#{beneficial}",
+        "potential": [
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+                    "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+                    "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+                    "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+                    "Level 5: Reduces Slot Bind duration by 7 turns on this character"
+                ]
+            },
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            },
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
+                ]
+            }
+        ],
         "support": [
             {
                 "Characters": "All Characters",
@@ -164,5 +161,84 @@
                 ]
             }
         ]
-    }
+    },
+    "aliases": [
+        "モンキー・D・ルフィ “ギア４”　「蛇男（スネイクマン）」",
+        "",
+        "Mega Luffy",
+        "Super Luffy",
+        "V2G4 Luffy",
+        "Gear Change G4"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Fighter",
+            "Powerhouse"
+        ],
+        "stars": "6+",
+        "cost": 65,
+        "combo": 4,
+        "slots": 5,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": 1812,
+        "minATK": 820,
+        "minRCV": 130,
+        "maxHP": 3820,
+        "maxATK": 1645,
+        "maxRCV": 282,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        14
+    ],
+    "evolve": {
+        "evolution": 2363,
+        "evolvers": [
+            "skullQCK",
+            "skullSTR",
+            95,
+            300,
+            267
+        ],
+        "from": 2074
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2363.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2363.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": [
+        {
+            "type": "Fortnight",
+            "name": "The Genius Jester! Buggy's Festival! Fortnight",
+            "thumb": 2277,
+            "data": [
+                "All Difficulties"
+            ]
+        },
+        {
+            "type": "Fortnight",
+            "name": "Dress Up for the Pirate Festival! Chic Fortnight",
+            "thumb": 2524,
+            "data": [
+                "All Difficulties"
+            ]
+        },
+        {
+            "type": "Special",
+            "name": "Special Festival! 5th Anniversary",
+            "thumb": 2534,
+            "data": [
+                "Vinsmoke Sanji"
+            ]
+        }
+    ]
 }
