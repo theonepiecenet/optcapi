@@ -82,7 +82,7 @@
     "potentialNotes": "#{enrage}",
     "support": [
       {
-        "Characters": "All Characters",
+        "Characters": "All characters",
         "description": [
           "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
           "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK",
@@ -433,6 +433,14 @@
       "type": "Treasure Map",
       "name": "Boa Hancock",
       "thumb": 2299,
+      "data": [
+        "dropID"
+      ]
+    },
+    {
+      "type": "Ambush",
+      "name": "Ambush! Garp",
+      "thumb": 1846,
       "data": [
         "dropID"
       ]
