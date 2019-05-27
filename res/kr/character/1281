@@ -1,9 +1,9 @@
 {
-  "name": "가프, 해군본부 중장",
-  "detail": {
-    "specialName": "Fist of Love - Falling Fortress",
-    "special": "Deals 25x character's ATK in [STR] damage to one enemy that will ignore damage negating abilities and barriers.",
-    "captain": "Boosts ATK of Fighter characters by 2.25x and reduces damage received by 10%",
-    "specialNotes": "#{ignoreBarrier}"
-  }
+    "name": "가프, 해군본부 중장",
+    "detail": {
+        "specialName": "가로막아선 사랑의 주먹",
+        "special": "방어 효과를 무시하고 적 1명에게 공격력x25배의 [STR] 데미지를 준다",
+        "captain": "격투형 캐릭터의 공격력을 2.25배로 만들고, 받는 데미지를 10% 감소시킨다",
+        "specialNotes": "#{ignoreBarrier}"
+    }
 }
