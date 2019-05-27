@@ -1,0 +1,57 @@
+{
+  "name": "Warrior Leo",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Free Spirit characters by ?x and their RCV by ?x.",
+    "special": "Reduces Bind and Increase Damage Taken duration by 4 turns and reduces enemies' Increased Defense duration by 4 turns.",
+    "specialName": "Tontatta Technique: <needs translation>"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Free Spirit",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": null,
+    "combo": null,
+    "slots": null,
+    "level": null,
+    "exp": null,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolution": {
+    "evolution": 2559,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2558.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2558.png"
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Game! Leo",
+      "thumb": 2559,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

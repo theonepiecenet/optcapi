@@ -13795,7 +13795,7 @@
     },
     {
         "id": 985,
-        "name": "데마로 블랙 & 쇼콜라, 짝퉁 밀짚모자 해적단",
+        "name": "데마로 블랙 & 쇼콜라, 가짜 밀짚모자 일당",
         "type": "STR",
         "class": "Driven",
         "aliases": [
@@ -13805,12 +13805,12 @@
             "Imposter",
             "Fake",
             "데마로 블랙 & 쇼콜라",
-            " 짝퉁 밀짚모자 해적단"
+            " 가짜 밀짚모자 일당"
         ]
     },
     {
         "id": 986,
-        "name": "코코아 & 야생여우, 짝퉁 밀짚모자 해적단",
+        "name": "코코아 & 야생 여우, 가짜 밀짚모자 일당",
         "type": "INT",
         "class": "Driven",
         "aliases": [
@@ -13819,13 +13819,13 @@
             "Raid",
             "Imposter",
             "Fake",
-            "코코아 & 야생여우",
-            " 짝퉁 밀짚모자 해적단"
+            "코코아 & 야생 여우",
+            " 가짜 밀짚모자 일당"
         ]
     },
     {
         "id": 987,
-        "name": "만자로 & 드립,짝퉁 밀짚모자 해적단",
+        "name": "만자로 & 드립, 가짜 밀짚모자 일당",
         "type": "DEX",
         "class": "Driven",
         "aliases": [
@@ -13835,12 +13835,12 @@
             "Imposter",
             "Fake",
             "만자로 & 드립",
-            "짝퉁 밀짚모자 해적단"
+            " 가짜 밀짚모자 일당"
         ]
     },
     {
         "id": 988,
-        "name": "마운블루틴 & 투르코 , 짝퉁 밀짚모자 해적단",
+        "name": "마운블루틴 & 투르코 , 가짜 밀짚모자 일당",
         "type": "PSY",
         "class": "Driven",
         "aliases": [
@@ -13850,7 +13850,7 @@
             "Imposter",
             "Fake",
             "마운블루틴 & 투르코 ",
-            " 짝퉁 밀짚모자 해적단"
+            " 가짜 밀짚모자 일당"
         ]
     },
     {
@@ -36468,7 +36468,7 @@
     },
     {
         "id": 2374,
-        "name": "샬롯 스무디, Charlotte Family 14th Daughter",
+        "name": "샬롯 스무디, 샬롯 가 14녀",
         "type": "INT",
         "class": [
             "Slasher",
@@ -36479,12 +36479,12 @@
             "",
             "Coliseum Smoothie",
             "샬롯 스무디",
-            " Charlotte Family 14th Daughter"
+            " 샬롯 가 14녀"
         ]
     },
     {
         "id": 2375,
-        "name": "Sweet Commander 스무디, Charlotte Family 14th Daughter",
+        "name": "장성 스무디, 샬롯 가 14녀",
         "type": "INT",
         "class": [
             "Slasher",
@@ -36494,8 +36494,8 @@
             "将星スムージー シャーロット家１４女",
             "",
             "Coliseum Smoothie",
-            "Sweet Commander 스무디",
-            " Charlotte Family 14th Daughter"
+            "장성 스무디",
+            " 샬롯 가 14녀"
         ]
     },
     {
@@ -39952,10 +39952,32 @@
         ]
     },
     {
-        "id": 2558
+        "id": 2558,
+        "name": "Warrior Leo",
+        "type": "STR",
+        "class": [
+            "Free Spirit",
+            "Striker"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2559
+        "id": 2559,
+        "name": "Warrior Leo, Brave Escort",
+        "type": "STR",
+        "class": [
+            "Free Spirit",
+            "Striker"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": 2560
