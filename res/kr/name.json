@@ -38525,7 +38525,7 @@
             "Fighter"
         ],
         "aliases": [
-            "",
+            "モンキー・D・ルフィ 厨房の美味",
             "",
             "Kitchen Luffy",
             "EXP Luffy"
@@ -39959,14 +39959,14 @@
     },
     {
         "id": 2558,
-        "name": "Warrior Leo",
+        "name": "Leo, Brave Escort",
         "type": "STR",
         "class": [
             "Free Spirit",
             "Striker"
         ],
         "aliases": [
-            "",
+            "レオ 勇敢なる護衛",
             "",
             ""
         ]
@@ -39980,39 +39980,153 @@
             "Striker"
         ],
         "aliases": [
+            "戦士レオ 勇敢なる護衛",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 2560,
+        "name": "Sabo & Koala, Revolutionary Army's Youthful Power",
+        "type": [
+            "STR",
+            "INT"
+        ],
+        "class": [
+            [
+                "Free Spirit",
+                "Cerebral"
+            ],
+            [
+                "Free Spirit",
+                "Cerebral"
+            ],
+            [
+                "Free Spirit",
+                "Cerebral"
+            ]
+        ],
+        "aliases": [
             "",
             "",
             ""
         ]
     },
     {
-        "id": 2560
+        "id": 2561,
+        "name": "Sabo & Koala, The Young Aces of the Revolutionary Army",
+        "type": [
+            "STR",
+            "INT"
+        ],
+        "class": [
+            [
+                "Free Spirit",
+                "Cerebral"
+            ],
+            [
+                "Free Spirit",
+                "Cerebral"
+            ],
+            [
+                "Free Spirit",
+                "Cerebral"
+            ]
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2561
+        "id": 2562,
+        "name": "Lindbergh",
+        "type": "DEX",
+        "class": [
+            "Free Spirit",
+            "Shooter"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2562
+        "id": 2563,
+        "name": "Lindbergh, Revolutionary Army \"South Army\" Commander",
+        "type": "DEX",
+        "class": [
+            "Free Spirit",
+            "Shooter"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2563
+        "id": 2564,
+        "name": "Belo Betty",
+        "type": "PSY",
+        "class": [
+            "Free Spirit",
+            "Cerebral"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2564
+        "id": 2565,
+        "name": "Belo Betty, Revolutionary Army \"East Army\" Commander",
+        "type": "PSY",
+        "class": [
+            "Free Spirit",
+            "Cerebral"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2565
+        "id": 2566,
+        "name": "Karasu",
+        "type": "QCK",
+        "class": [
+            "Free Spirit",
+            "Cerebral"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2566
-    },
-    {
-        "id": 2567
+        "id": 2567,
+        "name": "Karasu, Revolutionary Army \"North Army\" Commander",
+        "type": "QCK",
+        "class": [
+            "Free Spirit",
+            "Cerebral"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": 2568,
         "name": "Morley",
-        "type": "PSY",
+        "type": "STR",
         "class": [
             "Free Spirit",
             "Striker"
@@ -40025,8 +40139,8 @@
     },
     {
         "id": 2569,
-        "name": "Morley, Evolved",
-        "type": "PSY",
+        "name": "Morley, Revolutionary Army \"West Army\" Commander",
+        "type": "STR",
         "class": [
             "Free Spirit",
             "Striker"

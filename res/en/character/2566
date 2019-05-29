@@ -1,0 +1,68 @@
+{
+  "name": "Karasu",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit and Cerebral characters by 2.5x and their HP by 1.2x.",
+    "special": [
+      {
+        "description": "Reduces Special Cooldown of Free Spirit and Cerebral specials by 1 turn and reduces Silence duration by 2 turns.",
+        "cooldown": [
+          11,
+          5
+        ]
+      },
+      {
+        "description": "Reduces Special Cooldown of Free Spirit and Cerebral specials by 2 turns and reduces Silence, Increase Damage Taken and Burn duration by 5 turns.",
+        "cooldown": [
+          19,
+          13
+        ]
+      }
+    ],
+    "specialName": "Liberating Crows",
+    "sailor": "Restores his own special cooldown by 2 turns when it is rewinded"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Free Spirit",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": null,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    19,
+    13
+  ],
+  "evolution": {
+    "evolution": 2567,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2566.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2566.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

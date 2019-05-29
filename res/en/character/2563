@@ -1,0 +1,87 @@
+{
+  "name": "Lindbergh, Revolutionary Army \"South Army\" Commander",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 2.75x.",
+    "special": "If your Captain is a Free Spirit character, amplifies the effects of orbs for Free Spirit characters by 2x for 1 turn.",
+    "specialName": "Cool Shooter",
+    "sailor": {
+      "base": "Boosts base HP and RCV of Free Spirit characters by 50",
+      "level1": "When any other Free Spirit character uses a special, reduces own cooldown by 2 turns"
+    },
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turns on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Free Spirit characters",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Adds 3% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Adds 4% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Adds 5% of this character's base ATK to the supported character's base ATK.",
+          "Level 5: Adds 7% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Shooter"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 1056,
+    "minATK": 535,
+    "minRCV": 142,
+    "maxHP": 2590,
+    "maxATK": 1377,
+    "maxRCV": 324,
+    "ability": null
+  },
+  "cooldown": 17,
+  "evolve": {
+    "evolution": 2563,
+    "evolvers": [],
+    "from": 2562
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2563.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2563.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

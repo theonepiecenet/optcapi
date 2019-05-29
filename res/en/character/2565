@@ -1,0 +1,102 @@
+{
+  "name": "Belo Betty, Revolutionary Army \"East Army\" Commander",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 3x but boosts own ATK by 1.5x instead and reduces damage received by 7%.",
+    "special": [
+      {
+        "description": "Boosts chances of getting [PSY] and [RCV] orbs for 1 turn, adds 0.3x to Chain multiplier for 1 turn, randomizes all orbs.",
+        "cooldown": [
+          15,
+          null
+        ]
+      },
+      {
+        "description": "Greatly boosts chances of getting [PSY] and [RCV] orbs for 3 turns, boosts RCV of all characters by 1.5x for 3 turns, adds 0.7x to Chain multiplier for 3 turns, randomizes non [PSY] and [RCV] orbs.",
+        "cooldown": [
+          20,
+          null
+        ]
+      }
+    ],
+    "specialName": "The Beautiful Flag of Freedom",
+    "sailor": {
+      "base": "Makes [PSY], [RCV] and [TND] orbs beneficial for Free Spirit and Cerebral characters",
+      "level1": "Boosts base ATK, HP and RCV of Free Spirit and Cerebral characters by 75"
+    },
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Free Spirit characters",
+        "description": [
+          "Level 1: Reduces damage received from [INT] characters by 1%. Adds 1% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+          "Level 2: Reduces damage received from [INT] characters by 2%. Adds 2% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+          "Level 3: Reduces damage received from [INT] characters by 3%. Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+          "Level 4: Reduces damage received from [INT] characters by 4%. Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+          "Level 5: Reduces damage received from [INT] characters by 5%. Adds 5% of this character's base ATK and RCV to the supported character's base ATK and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Free Spirit",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 888,
+    "minATK": 502,
+    "minRCV": 195,
+    "maxHP": 2219,
+    "maxATK": 1254,
+    "maxRCV": 488,
+    "ability": null
+  },
+  "cooldown": 20,
+  "evolve": {
+    "evolution": 2565,
+    "evolvers": [],
+    "from": 2564
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2565.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2565.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

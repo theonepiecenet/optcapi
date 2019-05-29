@@ -3,29 +3,73 @@
   "detail": {
     "captain": "Boosts ATK of Striker and Free Spirit characters by 2x and their RCV by 1.75x.",
     "special": "Reduces Bind and Increase Damage Taken duration by 4 turns and reduces enemies' Increased Defense duration by 4 turns.",
-    "specialName": "Tontatta Technique: <needs translation>",
-    "sailor": {
-      "base": "None",
-      "level1": "Adds 2x character's ATK as Additional Damage"
-    },
+    "specialName": "Tontatta Technique: Swift Pierce",
+    "sailor": "Adds 2x character's ATK as Additional Damage",
+    "limit": [
+      {
+        "description": "Boosts base HP by 300"
+      },
+      {
+        "description": "Boosts base ATK by 200"
+      },
+      {
+        "description": "Boosts base RCV by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 350"
+      },
+      {
+        "description": "Boosts base ATK by 200"
+      },
+      {
+        "description": "Boosts base RCV by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base HP by 500"
+      },
+      {
+        "description": "Boosts base ATK by 200"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
     "potential": [
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
           "Level 5: Reduces Slot Bind duration by 5 turns on this character"
         ]
       },
       {
         "Name": "Reduce No Healing duration",
         "description": [
-          "Level 1: Reduces No Healing duration by ? turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turns",
           "Level 5: Reduces No Healing duration by 5 turns"
         ]
       }
@@ -34,17 +78,17 @@
       {
         "Characters": "Mansherry and Rebecca",
         "description": [
-          "Level 1: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
-          "Level 2: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
-          "Level 3: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
-          "Level 4: Adds ?% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
           "Level 5: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "戦士レオ 勇敢なる護衛",
     "",
     ""
   ],
@@ -57,16 +101,16 @@
     "stars": 5,
     "cost": 25,
     "combo": 4,
-    "slots": null,
+    "slots": 1,
     "level": 99,
-    "exp": null,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "exp": 2000000,
+    "minHP": 1105,
+    "minATK": 480,
+    "minRCV": 55,
     "maxHP": 1500,
     "maxATK": 780,
     "maxRCV": 100,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     13,
@@ -74,7 +118,11 @@
   ],
   "evolve": {
     "evolution": 2559,
-    "evolvers": [],
+    "evolvers": [
+      117,
+      117,
+      117
+    ],
     "from": 2558
   },
   "image": {

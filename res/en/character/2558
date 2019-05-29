@@ -1,12 +1,13 @@
 {
-  "name": "Warrior Leo",
+  "name": "Leo, Brave Escort",
   "detail": {
     "captain": "Boosts ATK of Striker and Free Spirit characters by ?x and their RCV by ?x.",
     "special": "Reduces Bind and Increase Damage Taken duration by 4 turns and reduces enemies' Increased Defense duration by 4 turns.",
-    "specialName": "Tontatta Technique: <needs translation>"
+    "specialName": "Tontatta Technique: Swift Pierce",
+    "sailor": "Adds 2x character's ATK as Additional Damage"
   },
   "aliases": [
-    "",
+    "レオ 勇敢なる護衛",
     "",
     ""
   ],
@@ -17,18 +18,18 @@
       "Striker"
     ],
     "stars": 4,
-    "cost": null,
-    "combo": null,
-    "slots": null,
-    "level": null,
-    "exp": null,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "cost": 15,
+    "combo": 5,
+    "slots": 1,
+    "level": 70,
+    "exp": 711332,
+    "minHP": 470,
+    "minATK": 205,
+    "minRCV": 30,
+    "maxHP": 1220,
+    "maxATK": 550,
+    "maxRCV": 70,
+    "ability": 1
   },
   "cooldown": [
     13,
@@ -36,7 +37,11 @@
   ],
   "evolution": {
     "evolution": 2559,
-    "evolvers": []
+    "evolvers": [
+      117,
+      117,
+      117
+    ]
   },
   "evolve": [],
   "image": {
