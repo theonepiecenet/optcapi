@@ -1,0 +1,58 @@
+{
+  "name": "Morley",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by ?x and their HP by ?x",
+    "special": "Reduces enemies' Threshold Damage Reduction and Resilience Buffs duration by 5 turns and reduces the defense of all enemies by 50% for 1 turn. If your Captain is a Free Spirit character, boosts ATK against enemies with reduced defense by 1.75x for 3 turns and if during that turn, you hit 2 PERFECTS, reduces the defense of all enemies by 100% for 2 turns.",
+    "specialName": "Morley Special",
+    "sailor": "Boosts base ATK, HP and RCV of Free Spirit characters by 50"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Free Spirit",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": null,
+    "slots": null,
+    "level": null,
+    "exp": null,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    30,
+    null
+  ],
+  "evolution": {
+    "evolution": 2569,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2568.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2568.png"
+  },
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Morley",
+      "thumb": 2569,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
+  "manual": []
+}

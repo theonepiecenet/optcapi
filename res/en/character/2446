@@ -3,7 +3,7 @@
   "detail": {
     "captain": {
       "character1": "If there are 6 Powerhouse characters in your crew, boosts ATK of Powerhouse characters by 3.5x, their HP by 1.25x and makes [RCV] and [TND] orbs beneficial for Powerhouse characters.",
-      "character2": "If there is a [STR], [DEX], [QCK], [PSY] and [INT] characters in your crew, boosts ATK of Powerhouse characters by 3.5x, their HP by 1.25x and makes [PSY] orbs beneficial for all characters.",
+      "character2": "If there is a [STR], [DEX], [QCK], [PSY] and [INT] characters in your crew, boosts ATK of all characters by 3.5x, their HP by 1.25x and makes [PSY] orbs beneficial for all characters.",
       "combined": "If there are 6 Powerhouse characters in your crew, boosts ATK of Powerhouse characters by 4.25x. If there is a [STR], [DEX], [QCK], [PSY] and [INT] characters in your crew, boosts HP of Powerhouse characters by 1.25x and makes [PSY], [RCV] and [TND] orbs beneficial for all characters."
     },
     "special": "Boosts ATK of Powerhouse characters by 2x for 1 turn, amplifies the effect of orbs for Powerhouse characters by 2x for 1 turn, reduces Paralysis duration by 5 turns and becomes Sanji & Judge for 3 turns",
@@ -152,7 +152,9 @@
     "Judge&Sanji",
     "Judge and Sanji",
     "Judge Sanji",
-    "JudgeSanji"
+    "JudgeSanji",
+    "SanJudge",
+    "Judgji"
   ],
   "unit": {
     "type": [
