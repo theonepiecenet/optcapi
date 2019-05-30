@@ -1,105 +1,105 @@
 {
-  "name": "도끼의 센토마루, 해군본부 장교",
-  "detail": {
-    "specialName": "족공동행",
-    "special": [
-      {
-        "description": "적 1명에게 고정 데미지 500을 주고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
-        "cooldown": [
-          11,
-          4
-        ]
-      },
-      {
-        "description": "적 1명에게 고정 데미지 5,000을 주고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
-        "cooldown": [
-          15,
-          8
-        ]
-      },
-      {
-        "description": "적 1명에게 고정 데미지 100,000을 주고, 상단 캐릭터의 필살기 턴을 2턴 단축한다",
-        "cooldown": [
-          22,
-          15
-        ]
-      }
-    ],
-    "captain": "Boosts ATK of Powerhouse characters by 2.5x, but boost his OWN ATK by 2.75x. Reduces damage received by 10%",
-    "sailor": {
-      "base": "자신은 날아가지 않는다",
-      "level1": "Restores his own special by 2 turns when it is rewinded"
-    },
-    "potential": [
-      {
-        "Name": "[PSY] 데미지 피해 감소",
-        "description": [
-          "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
-          "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "Cooldown Reduction",
-        "description": [
-          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by 3 turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by 5 turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by 7 turn at the start of the fight",
-          "Level 5: Reduce own Special Cooldown by 9 turn at the start of the fight"
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "소켓 슬롯 1개 추가"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "공격력 상승 : 50"
-      },
-      {
-        "description": "공격력 상승 : 60"
-      },
-      {
-        "description": "공격력 상승 : 100"
-      },
-      {
-        "description": "선원 효과 추가 1: Restores his own special by 2 turns when it is rewinded"
-      },
-      {
-        "description": "잠재능력 습득 2: Cooldown Reduction"
-      }
-    ],
-    "specialNotes": "#{stages}",
-    "sailorNotes": "#{rewind : 2}"
-  }
+    "name": "도끼의 센토마루, 해군본부 장교",
+    "detail": {
+        "specialName": "족공동행",
+        "special": [
+            {
+                "description": "적 1명에게 고정 데미지 500을 주고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
+                "cooldown": [
+                    11,
+                    4
+                ]
+            },
+            {
+                "description": "적 1명에게 고정 데미지 5,000을 주고, 상단 캐릭터의 필살기 턴을 1턴 단축한다",
+                "cooldown": [
+                    15,
+                    8
+                ]
+            },
+            {
+                "description": "적 1명에게 고정 데미지 100,000을 주고, 상단 캐릭터의 필살기 턴을 2턴 단축한다",
+                "cooldown": [
+                    22,
+                    15
+                ]
+            }
+        ],
+        "captain": "자신의 공격력이 2.75배, 강인형 캐릭터의 공격력이 2.5배가 되고, 받는 데미지가 10% 감소한다",
+        "sailor": {
+            "base": "자신은 날아가지 않는다",
+            "level1": "자신의 필살기 턴 되돌리기를 2턴 회복한다"
+        },
+        "potential": [
+            {
+                "Name": "[PSY] 데미지 피해 감소",
+                "description": [
+                    "Level 1: [PSY] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [PSY] 속성에게 받는 데미지를 2% 감소시킨다",
+                    "Level 3: [PSY] 속성에게 받는 데미지를 3% 감소시킨다",
+                    "Level 4: [PSY] 속성에게 받는 데미지를 4% 감소시킨다",
+                    "Level 5: [PSY] 속성에게 받는 데미지를 5% 감소시킨다"
+                ]
+            },
+            {
+                "Name": "Cooldown Reduction",
+                "description": [
+                    "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+                    "Level 2: Reduce own Special Cooldown by 3 turn at the start of the fight",
+                    "Level 3: Reduce own Special Cooldown by 5 turn at the start of the fight",
+                    "Level 4: Reduce own Special Cooldown by 7 turn at the start of the fight",
+                    "Level 5: Reduce own Special Cooldown by 9 turn at the start of the fight"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "잠재능력 습득 1: [PSY] 데미지 피해 감소"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "소켓 슬롯 1개 추가"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 50"
+            },
+            {
+                "description": "공격력 상승 : 60"
+            },
+            {
+                "description": "공격력 상승 : 100"
+            },
+            {
+                "description": "선원 효과 추가 1: Restores his own special by 2 turns when it is rewinded"
+            },
+            {
+                "description": "잠재능력 습득 2: Cooldown Reduction"
+            }
+        ],
+        "specialNotes": "#{stages}",
+        "sailorNotes": "#{rewind : 2}"
+    }
 }
