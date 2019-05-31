@@ -1,0 +1,105 @@
+{
+    "name": "Karasu, Revolutionary Army “North Army” Commander",
+    "detail": {
+        "captain": "Boosts ATK of Free Spirit and Cerebral characters by 2.5x and their HP by 1.2x.",
+        "special": [
+            {
+                "description": "Reduces Special Cooldown of Free Spirit and Cerebral specials by 1 turn and reduces Silence duration by 2 turns.",
+                "cooldown": [
+                    11,
+                    5
+                ]
+            },
+            {
+                "description": "Reduces Special Cooldown of Free Spirit and Cerebral specials by 2 turns and reduces Silence, Increase Damage Taken and Burn duration by 5 turns.",
+                "cooldown": [
+                    19,
+                    13
+                ]
+            }
+        ],
+        "specialName": "Liberating Crows",
+        "sailor": {
+            "base": "Restores his own special cooldown by 2 turns when it is rewinded",
+            "level1": "Reduces Silence duration on this character by 5 turns"
+        },
+        "potential": [
+            {
+                "Name": "No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turn",
+                    "Level 3: Reduces No Healing duration by 3 turn",
+                    "Level 4: Reduces No Healing duration by 4 turn",
+                    "Level 5: Reduces No Healing duration by 5 turn"
+                ]
+            },
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Free Spirit characters",
+                "description": [
+                    "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+                    "Level 2: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+                    "Level 3: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+                    "Level 4: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+                    "Level 5: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Free Spirit",
+            "Cerebral"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1084,
+        "minATK": 560,
+        "minRCV": 115,
+        "maxHP": 2708,
+        "maxATK": 1401,
+        "maxRCV": 288,
+        "ability": null
+    },
+    "cooldown": [
+        19,
+        13
+    ],
+    "evolve": {
+        "evolution": 2567,
+        "evolvers": [],
+        "from": 2566
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2567.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2567.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Morley, Revolutionary Army “West Army” Commander",
+    "detail": {
+        "captain": "Boosts ATK of Free Spirit characters by 2.75x and their HP by 1.2x",
+        "special": "Reduces enemies' Threshold Damage Reduction and Resilience Buffs duration by 5 turns and reduces the defense of all enemies by 50% for 1 turn. If your Captain is a Free Spirit character, boosts ATK against enemies with reduced defense by 1.75x for 3 turns and if during that turn, you hit 2 PERFECTS, reduces the defense of all enemies by 100% for 2 turns.",
+        "specialName": "Morley Special",
+        "sailor": {
+            "base": "Boosts base ATK, HP and RCV of Free Spirit characters by 50",
+            "level1": "Cannot be Blown Away"
+        },
+        "potential": [
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 40% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            },
+            {
+                "Name": "Enrage",
+                "description": [
+                    "Level 1: Boosts base ATK by ?",
+                    "Level 2: Boosts base ATK by ?",
+                    "Level 3: Boosts base ATK by ?",
+                    "Level 4: Boosts base ATK by ?",
+                    "Level 5: Boosts base ATK by 200"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}",
+        "support": [
+            {
+                "Characters": "Free Spirit characters",
+                "description": [
+                    "Level 1: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 2: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 3: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 4: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 5: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Free Spirit",
+            "Striker"
+        ],
+        "stars": 5,
+        "cost": 40,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1,
+        "minATK": 1,
+        "minRCV": 1,
+        "maxHP": 2952,
+        "maxATK": 1419,
+        "maxRCV": 235,
+        "ability": null
+    },
+    "cooldown": [
+        30,
+        null
+    ],
+    "evolve": {
+        "evolution": 2569,
+        "evolvers": [],
+        "from": 2568
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2569.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2569.png"
+    },
+    "drop": [],
+    "manual": [
+        {
+            "type": "Coliseum",
+            "name": "Morley",
+            "thumb": 2569,
+            "data": [
+                "Chaos"
+            ]
+        }
+    ]
+}
