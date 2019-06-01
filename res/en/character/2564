@@ -1,20 +1,20 @@
 {
   "name": "Belo Betty",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit characters by ?x but boosts own ATK by ?x instead and reduces damage received by ?%.",
+    "captain": "Boosts ATK of Free Spirit characters by 2.5x but boosts own ATK by 1.25x instead and reduces damage received by 5%.",
     "special": [
       {
         "description": "Boosts chances of getting [PSY] and [RCV] orbs for 1 turn, adds 0.3x to Chain multiplier for 1 turn, randomizes all orbs.",
         "cooldown": [
           15,
-          null
+          9
         ]
       },
       {
         "description": "Greatly boosts chances of getting [PSY] and [RCV] orbs for 3 turns, boosts RCV of all characters by 1.5x for 3 turns, adds 0.7x to Chain multiplier for 3 turns, randomizes non [PSY] and [RCV] orbs.",
         "cooldown": [
           20,
-          null
+          14
         ]
       }
     ],
@@ -22,7 +22,7 @@
     "sailor": "Makes [PSY], [RCV] and [TND] orbs beneficial for Free Spirit and Cerebral characters"
   },
   "aliases": [
-    "",
+    "ベロ・ベティ",
     "",
     ""
   ],
@@ -34,22 +34,31 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 4,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 391,
+    "minATK": 221,
+    "minRCV": 86,
+    "maxHP": 977,
+    "maxATK": 552,
+    "maxRCV": 215,
+    "ability": 1
   },
-  "cooldown": 20,
+  "cooldown": [
+    20,
+    14
+  ],
   "evolution": {
     "evolution": 2565,
-    "evolvers": []
+    "evolvers": [
+      83,
+      266,
+      98,
+      303,
+      103
+    ]
   },
   "evolve": [],
   "image": {

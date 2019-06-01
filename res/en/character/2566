@@ -1,7 +1,7 @@
 {
   "name": "Karasu",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit and Cerebral characters by 2.5x and their HP by 1.2x.",
+    "captain": "Boosts ATK of Free Spirit and Cerebral characters by 2x and their HP by 1.2x.",
     "special": [
       {
         "description": "Reduces Special Cooldown of Free Spirit and Cerebral specials by 1 turn and reduces Silence duration by 2 turns.",
@@ -22,7 +22,7 @@
     "sailor": "Restores his own special cooldown by 2 turns when it is rewinded"
   },
   "aliases": [
-    "",
+    "カラス",
     "",
     ""
   ],
@@ -34,17 +34,17 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 5,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 477,
+    "minATK": 246,
+    "minRCV": 50,
+    "maxHP": 1192,
+    "maxATK": 616,
+    "maxRCV": 126,
+    "ability": 1
   },
   "cooldown": [
     19,
@@ -52,7 +52,13 @@
   ],
   "evolution": {
     "evolution": 2567,
-    "evolvers": []
+    "evolvers": [
+      83,
+      266,
+      96,
+      301,
+      101
+    ]
   },
   "evolve": [],
   "image": {

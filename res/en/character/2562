@@ -1,13 +1,13 @@
 {
   "name": "Lindbergh",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit characters by ?x.",
+    "captain": "Boosts ATK of Free Spirit characters by 2.25x.",
     "special": "If your Captain is a Free Spirit character, amplifies the effects of orbs for Free Spirit characters by 2x for 1 turn.",
     "specialName": "Cool Shooter",
     "sailor": "Boosts base HP and RCV of Free Spirit characters by 50"
   },
   "aliases": [
-    "",
+    "リンドバーグ",
     "",
     ""
   ],
@@ -19,22 +19,31 @@
     ],
     "stars": 4,
     "cost": 15,
-    "combo": null,
+    "combo": 6,
     "slots": 3,
     "level": 50,
     "exp": 392109,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 464,
+    "minATK": 235,
+    "minRCV": 62,
+    "maxHP": 1162,
+    "maxATK": 589,
+    "maxRCV": 156,
+    "ability": 1
   },
-  "cooldown": 17,
+  "cooldown": [
+    17,
+    11
+  ],
   "evolution": {
     "evolution": 2563,
-    "evolvers": []
+    "evolvers": [
+      83,
+      266,
+      97,
+      302,
+      102
+    ]
   },
   "evolve": [],
   "image": {

@@ -8,24 +8,71 @@
       "base": "Boosts base ATK, HP and RCV of Free Spirit characters by 50",
       "level1": "Cannot be Blown Away"
     },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Cannot be Blown Away"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
     "potential": [
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 1: If HP is below 10% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
           "Level 5: If HP is below 40% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by ?",
-          "Level 2: Boosts base ATK by ?",
-          "Level 3: Boosts base ATK by ?",
-          "Level 4: Boosts base ATK by ?",
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
           "Level 5: Boosts base ATK by 200"
         ]
       }
@@ -35,17 +82,17 @@
       {
         "Characters": "Free Spirit characters",
         "description": [
-          "Level 1: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
-          "Level 2: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
-          "Level 3: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
-          "Level 4: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 2: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 3: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 4: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP.",
           "Level 5: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP."
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "モーリー 革命軍“西軍”軍隊長",
     "",
     ""
   ],
@@ -61,13 +108,13 @@
     "slots": 4,
     "level": 99,
     "exp": 4000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
+    "minHP": 1577,
+    "minATK": 701,
+    "minRCV": 126,
     "maxHP": 2952,
     "maxATK": 1419,
     "maxRCV": 235,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     30,
@@ -75,7 +122,13 @@
   ],
   "evolve": {
     "evolution": 2569,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      95,
+      1180,
+      300,
+      100
+    ],
     "from": 2568
   },
   "image": {

@@ -34818,7 +34818,8 @@
         "aliases": [
             "はっちゃん 魚人街の曲者",
             "",
-            "",
+            "Hachi",
+            "Hatchi",
             "하찌",
             " 어인가의 수상한 자"
         ]
@@ -34834,7 +34835,8 @@
         "aliases": [
             "はっちゃん 宴の始まり",
             "",
-            "",
+            "Hachi",
+            "Hatchi",
             "하찌",
             " 연회의 시작"
         ]
@@ -40007,9 +40009,17 @@
             ]
         ],
         "aliases": [
+            "サボ＆コアラ 革命軍の若き力",
             "",
-            "",
-            ""
+            "Sabo&Koala",
+            "Sabo & Koala",
+            "Sabo and Koala",
+            "Sabo Koala",
+            "SaboKoala",
+            "Koala&Sabo",
+            "Koala and Sabo",
+            "Koala Sabo",
+            "KoalaSabo"
         ]
     },
     {
@@ -40034,9 +40044,17 @@
             ]
         ],
         "aliases": [
+            "サボ＆コアラ 革命軍の若きエース達",
             "",
-            "",
-            ""
+            "Sabo&Koala",
+            "Sabo & Koala",
+            "Sabo and Koala",
+            "Sabo Koala",
+            "SaboKoala",
+            "Koala&Sabo",
+            "Koala and Sabo",
+            "Koala Sabo",
+            "KoalaSabo"
         ]
     },
     {
@@ -40048,23 +40066,25 @@
             "Shooter"
         ],
         "aliases": [
-            "",
+            "リンドバーグ",
             "",
             ""
         ]
     },
     {
         "id": 2563,
-        "name": "Lindbergh, Revolutionary Army \"South Army\" Commander",
+        "name": "Lindbergh, Revolutionary Army “South Army” Commander",
         "type": "DEX",
         "class": [
             "Free Spirit",
             "Shooter"
         ],
         "aliases": [
+            "リンドバーグ 革命軍“南軍”軍隊長",
             "",
             "",
-            ""
+            "Lindbergh",
+            " Revolutionary Army “South Army” Commander"
         ]
     },
     {
@@ -40076,23 +40096,25 @@
             "Cerebral"
         ],
         "aliases": [
-            "",
+            "ベロ・ベティ",
             "",
             ""
         ]
     },
     {
         "id": 2565,
-        "name": "Belo Betty, Revolutionary Army \"East Army\" Commander",
+        "name": "Belo Betty, Revolutionary Army “East Army” Commander",
         "type": "PSY",
         "class": [
             "Free Spirit",
             "Cerebral"
         ],
         "aliases": [
+            "ベロ・ベティ 革命軍“東軍”軍隊長",
             "",
             "",
-            ""
+            "Belo Betty",
+            " Revolutionary Army “East Army” Commander"
         ]
     },
     {
@@ -40104,23 +40126,25 @@
             "Cerebral"
         ],
         "aliases": [
-            "",
+            "カラス",
             "",
             ""
         ]
     },
     {
         "id": 2567,
-        "name": "Karasu, Revolutionary Army \"North Army\" Commander",
+        "name": "Karasu, Revolutionary Army “North Army” Commander",
         "type": "QCK",
         "class": [
             "Free Spirit",
             "Cerebral"
         ],
         "aliases": [
+            "カラス 革命軍“北軍”軍隊長",
             "",
             "",
-            ""
+            "Karasu",
+            " Revolutionary Army “North Army” Commander"
         ]
     },
     {
@@ -40132,23 +40156,25 @@
             "Striker"
         ],
         "aliases": [
-            "",
+            "モーリー",
             "",
             ""
         ]
     },
     {
         "id": 2569,
-        "name": "Morley, Revolutionary Army \"West Army\" Commander",
+        "name": "Morley, Revolutionary Army “West Army” Commander",
         "type": "STR",
         "class": [
             "Free Spirit",
             "Striker"
         ],
         "aliases": [
+            "モーリー 革命軍“西軍”軍隊長",
             "",
             "",
-            ""
+            "Morley",
+            " Revolutionary Army “West Army” Commander"
         ]
     },
     {
@@ -40170,10 +40196,78 @@
         "id": 2575
     },
     {
-        "id": 2576
+        "id": 2576,
+        "name": "Inuarashi & Nekomamushi",
+        "type": [
+            "STR",
+            "PSY"
+        ],
+        "class": [
+            [
+                "Slasher",
+                "Cerebral"
+            ],
+            [
+                "Striker",
+                "Powerhouse"
+            ],
+            [
+                "Striker",
+                "Cerebral"
+            ]
+        ],
+        "aliases": [
+            "",
+            "",
+            "Inuarashi&Nekomamushi",
+            "Inuarashi & Nekomamushi",
+            "Inuarashi and Nekomamushi",
+            "Inuarashi Nekomamushi",
+            "InuarashiNekomamushi",
+            "Nekomamushi&Inuarashi",
+            "Nekomamushi and Inuarashi",
+            "Nekomamushi Inuarashi",
+            "NekomamushiInuarashi",
+            "Dogstorm",
+            "Cat Viper"
+        ]
     },
     {
-        "id": 2577
+        "id": 2577,
+        "name": "Inuarashi & Nekomamushi, Antagonistic Kings of Day and Night",
+        "type": [
+            "STR",
+            "PSY"
+        ],
+        "class": [
+            [
+                "Slasher",
+                "Cerebral"
+            ],
+            [
+                "Striker",
+                "Powerhouse"
+            ],
+            [
+                "Striker",
+                "Cerebral"
+            ]
+        ],
+        "aliases": [
+            "",
+            "",
+            "Inuarashi&Nekomamushi",
+            "Inuarashi & Nekomamushi",
+            "Inuarashi and Nekomamushi",
+            "Inuarashi Nekomamushi",
+            "InuarashiNekomamushi",
+            "Nekomamushi&Inuarashi",
+            "Nekomamushi and Inuarashi",
+            "Nekomamushi Inuarashi",
+            "NekomamushiInuarashi",
+            "Dogstorm",
+            "Cat Viper"
+        ]
     },
     {
         "id": 2578

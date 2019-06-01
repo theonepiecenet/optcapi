@@ -8,6 +8,53 @@
       "base": "Boosts base HP and RCV of Free Spirit characters by 50",
       "level1": "When any other Free Spirit character uses a special, reduces own cooldown by 2 turns"
     },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: When any other Free Spirit character uses a special, reduces own cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 45"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
     "potential": [
       {
         "Name": "Slot Bind Self-reduction",
@@ -44,7 +91,7 @@
     ]
   },
   "aliases": [
-    "",
+    "リンドバーグ 革命軍“南軍”軍隊長",
     "",
     ""
   ],
@@ -66,12 +113,21 @@
     "maxHP": 2590,
     "maxATK": 1377,
     "maxRCV": 324,
-    "ability": null
+    "ability": 1
   },
-  "cooldown": 17,
+  "cooldown": [
+    17,
+    11
+  ],
   "evolve": {
     "evolution": 2563,
-    "evolvers": [],
+    "evolvers": [
+      83,
+      266,
+      97,
+      302,
+      102
+    ],
     "from": 2562
   },
   "image": {

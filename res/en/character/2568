@@ -1,13 +1,13 @@
 {
   "name": "Morley",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit characters by ?x and their HP by ?x",
+    "captain": "Boosts ATK of Free Spirit characters by 2.25x and their HP by 1.1x",
     "special": "Reduces enemies' Threshold Damage Reduction and Resilience Buffs duration by 5 turns and reduces the defense of all enemies by 50% for 1 turn. If your Captain is a Free Spirit character, boosts ATK against enemies with reduced defense by 1.75x for 3 turns and if during that turn, you hit 2 PERFECTS, reduces the defense of all enemies by 100% for 2 turns.",
     "specialName": "Morley Special",
     "sailor": "Boosts base ATK, HP and RCV of Free Spirit characters by 50"
   },
   "aliases": [
-    "",
+    "モーリー",
     "",
     ""
   ],
@@ -19,17 +19,17 @@
     ],
     "stars": 4,
     "cost": 25,
-    "combo": null,
-    "slots": null,
-    "level": null,
-    "exp": null,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "combo": 5,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 824,
+    "minATK": 152,
+    "minRCV": 79,
+    "maxHP": 1680,
+    "maxATK": 755,
+    "maxRCV": 133,
+    "ability": 1
   },
   "cooldown": [
     30,
@@ -37,7 +37,13 @@
   ],
   "evolution": {
     "evolution": 2569,
-    "evolvers": []
+    "evolvers": [
+      118,
+      95,
+      1180,
+      300,
+      100
+    ]
   },
   "evolve": [],
   "image": {

@@ -23,6 +23,53 @@
       "base": "Restores his own special cooldown by 2 turns when it is rewinded",
       "level1": "Reduces Silence duration on this character by 5 turns"
     },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Potential 1: No Healing duration"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 15"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 25"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 5 turns"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
     "potential": [
       {
         "Name": "No Healing duration",
@@ -59,7 +106,7 @@
     ]
   },
   "aliases": [
-    "",
+    "カラス 革命軍“北軍”軍隊長",
     "",
     ""
   ],
@@ -78,10 +125,10 @@
     "minHP": 1084,
     "minATK": 560,
     "minRCV": 115,
-    "maxHP": 2708,
+    "maxHP": 2709,
     "maxATK": 1401,
     "maxRCV": 288,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     19,
@@ -89,7 +136,13 @@
   ],
   "evolve": {
     "evolution": 2567,
-    "evolvers": [],
+    "evolvers": [
+      83,
+      266,
+      96,
+      301,
+      101
+    ],
     "from": 2566
   },
   "image": {

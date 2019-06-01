@@ -15,6 +15,98 @@
     "special": "Changes [BLOCK] and Badly Matching orbs into Matching orbs, boosts ATK of Free Spirit and Cerebral characters by 2.25x for 1 turn, removes Beneficial and non-Beneficial orb Buff and Debuff duration completely and becomes Sabo & Koala for 3 turns.",
     "swap": "When Change is activated, this character removes all Despair and Paralysis on themselves and changes their own orb into a Matching orb, boosts the Color Affinity of Free Spirit and Cerebral characters by 1.5x for 1 turn.",
     "specialName": "Dragon Claw Fist and Fishman Karate: Revolutionary Strike",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Potential 1: No Healing duration"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base HP by 120"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Free Spirit and Cerebral characters by 100"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 3: Pinch Healing"
+      }
+    ],
     "potential": [
       {
         "Name": "No Healing duration",
@@ -49,9 +141,17 @@
     ]
   },
   "aliases": [
+    "サボ＆コアラ 革命軍の若きエース達",
     "",
-    "",
-    ""
+    "Sabo&Koala",
+    "Sabo & Koala",
+    "Sabo and Koala",
+    "Sabo Koala",
+    "SaboKoala",
+    "Koala&Sabo",
+    "Koala and Sabo",
+    "Koala Sabo",
+    "KoalaSabo"
   ],
   "unit": {
     "type": [
@@ -84,15 +184,21 @@
     "maxHP": 3242,
     "maxATK": 1611,
     "maxRCV": 506,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     19,
-    null
+    14
   ],
   "evolve": {
     "evolution": 2561,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      118,
+      300,
+      304,
+      267
+    ],
     "from": 2560
   },
   "image": {

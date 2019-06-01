@@ -7,14 +7,14 @@
         "description": "Boosts chances of getting [PSY] and [RCV] orbs for 1 turn, adds 0.3x to Chain multiplier for 1 turn, randomizes all orbs.",
         "cooldown": [
           15,
-          null
+          9
         ]
       },
       {
         "description": "Greatly boosts chances of getting [PSY] and [RCV] orbs for 3 turns, boosts RCV of all characters by 1.5x for 3 turns, adds 0.7x to Chain multiplier for 3 turns, randomizes non [PSY] and [RCV] orbs.",
         "cooldown": [
           20,
-          null
+          14
         ]
       }
     ],
@@ -23,6 +23,53 @@
       "base": "Makes [PSY], [RCV] and [TND] orbs beneficial for Free Spirit and Cerebral characters",
       "level1": "Boosts base ATK, HP and RCV of Free Spirit and Cerebral characters by 75"
     },
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Free Spirit and Cerebral characters by 75"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
     "potential": [
       {
         "Name": "[INT] Damage Reduction",
@@ -59,7 +106,7 @@
     ]
   },
   "aliases": [
-    "",
+    "ベロ・ベティ 革命軍“東軍”軍隊長",
     "",
     ""
   ],
@@ -81,12 +128,21 @@
     "maxHP": 2219,
     "maxATK": 1254,
     "maxRCV": 488,
-    "ability": null
+    "ability": 1
   },
-  "cooldown": 20,
+  "cooldown": [
+    20,
+    14
+  ],
   "evolve": {
     "evolution": 2565,
-    "evolvers": [],
+    "evolvers": [
+      83,
+      266,
+      98,
+      303,
+      103
+    ],
     "from": 2564
   },
   "image": {

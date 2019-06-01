@@ -1,0 +1,117 @@
+{
+  "name": "Inuarashi & Nekomamushi, Antagonistic Kings of Day and Night",
+  "detail": {
+    "captain": {
+      "character1": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain and makes [STR] orbs beneficial for Cerebral and Striker characters.",
+      "character2": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain and makes [PSY] orbs beneficial for Cerebral and Striker characters.",
+      "combined": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3.5x and 4x based on the timing of the attack of the previous unit in the chain, makes [STR] and [PSY] orbs beneficial for Cerebral and Striker characters and recovers 1.5x their RCV at the end of the turn each time you hit a PERFECT."
+    },
+    "sailor": {
+      "character1": "Boosts own base ATK by 150 if this character is the last in the chain to attack",
+      "character2": "Boosts own base ATK by 150 if this character is the last in the chain to attack",
+      "combined": "Boosts own base ATK by 250 if this character is the last in the chain to attack",
+      "level1": "Boosts base ATK of Cerebral and Striker characters by 75"
+    },
+    "special": "Boosts ATK of Cerebral and Striker characters by 1.75x for 1 turn and boosts the Color Affinity of Cerebral and Striker characters by 1.75x for 1 turn, and becomes Inuarashi & Nekomamushi for 3 turns. If during that turn, you hit 2 PERFECTS, amplifies the effect of orbs for Cerebral and Striker characters by 2.25x for 1 turn.",
+    "swap": "When Change is activated, this character removes all Despair and Slot Bind on themselves and reduces Paralysis duration by 1 turn.",
+    "specialName": "Two-King Onslaught",
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by ?",
+          "Level 2: Boosts base ATK by ?",
+          "Level 3: Boosts base ATK by ?",
+          "Level 4: Boosts base ATK by ?",
+          "Level 5: Boosts base ATK by ?"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by ? turn",
+          "Level 2: Reduces No Healing duration by ? turns",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  },
+  "aliases": [
+    "",
+    "",
+    "Inuarashi&Nekomamushi",
+    "Inuarashi & Nekomamushi",
+    "Inuarashi and Nekomamushi",
+    "Inuarashi Nekomamushi",
+    "InuarashiNekomamushi",
+    "Nekomamushi&Inuarashi",
+    "Nekomamushi and Inuarashi",
+    "Nekomamushi Inuarashi",
+    "NekomamushiInuarashi",
+    "Dogstorm",
+    "Cat Viper"
+  ],
+  "unit": {
+    "type": [
+      "STR",
+      "PSY"
+    ],
+    "class": [
+      [
+        "Slasher",
+        "Cerebral"
+      ],
+      [
+        "Striker",
+        "Powerhouse"
+      ],
+      [
+        "Striker",
+        "Cerebral"
+      ]
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": null,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 4683,
+    "maxATK": 1611,
+    "maxRCV": 392,
+    "ability": null
+  },
+  "cooldown": 22,
+  "evolve": {
+    "evolution": 2577,
+    "evolvers": [],
+    "from": 2576
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2577.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2577.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}
