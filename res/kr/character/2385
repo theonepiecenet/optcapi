@@ -1,52 +1,52 @@
 {
-  "name": "스크래치맨 아푸, The Problem Children's Pirate Alliance",
-  "detail": {
-    "specialName": "Allied \"Roar of the Sea\" Aggravation",
-    "special": "Reduces enemy Percent Damage Reduction duration by 3 turns reduces Chain Multiplier Limit duration by 3 turns and makes [RCV] and [TND] orbs \"beneficial\" for [STR], [QCK] and [PSY] characters for 3 turns",
-    "captain": "Boosts ATK of Shooter characters by 1.5x",
-    "potential": [
-      {
-        "Name": "Barrier Penetration",
-        "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 60% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers"
+    "name": "스크래치멘 아푸, 문제아들의 해적동맹",
+    "detail": {
+        "specialName": "동맹자 「바다천둥」의 도발",
+        "special": "적 전체에게 걸려 있는 데미지 감소 상태([THRESHOLD DAMAGE] 제외)를 3턴 줄이고, 일당에게 걸려 있는 체인 계수 상한 고정 상태를 3턴 회복하며, 3턴 동안 [STR], [QCK], [PSY] 속성은 [RCV][TND] 슬롯도 [유리] 슬롯으로 취급한다",
+        "captain": "사격형 캐릭터의 공격력을 1.5배로 만든다",
+        "potential": [
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above 60% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base ATK by 35"
+            },
+            {
+                "description": "Acquire Potential 1: Barrier Penetration"
+            }
         ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base RCV by 50"
-      },
-      {
-        "description": "Boosts base ATK by 15"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Boosts base ATK by 35"
-      },
-      {
-        "description": "Acquire Potential 1: Barrier Penetration"
-      }
-    ]
-  }
+    }
 }

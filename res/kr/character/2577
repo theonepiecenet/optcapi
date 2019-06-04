@@ -1,0 +1,117 @@
+{
+    "name": "이누아라시&네코마무시, 분투하는 낮과 밤의 왕",
+    "detail": {
+        "captain": {
+            "character1": "박식형과 타격형 캐릭터의 공격력을 3배로 만들고, 앞 캐릭터의 공격 타이밍에 따라 이후 박식형 캐릭터의 공격력이 최대 3.3배가 되며, 박식형과 타격형 캐릭터는 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
+            "character2": "타격형과 박식형 캐릭터의 공격력을 3배로 만들고, 앞 캐릭터의 공격 타이밍에 따라 이후 타격형 캐릭터의 공격력이 최대 3.3배가 되며, 박식형과 타격형 캐릭터는 [PSY] 슬롯도 [유리] 슬롯으로 취급한다",
+            "combined": "앞 캐릭터의 공격 타이밍에 따라 이후 박식형과 타격형 캐릭터의 공격력이 최소 3.5배, 최대 4배가 되며, 턴 종료 시 PERFECT 1회당 캐릭터의 회복력x1.5배의 체력을 회복하고, 박식형과 타격형 캐릭터는 [STR][PSY] 슬롯도 [유리] 슬롯으로 취급한다"
+        },
+        "sailor": {
+            "character1": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 150 상승한다",
+            "character2": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 150 상승한다",
+            "combined": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 250 상승한다",
+            "level1": "박식형과 타격형 캐릭터의 기본 공격력이 75 상승한다"
+        },
+        "special": "1턴 동안 타격형과 박식형 캐릭터의 공격력과 일반 공격에 의한 속성 상성의 영향을 1.75배로 만들고, 3턴 동안 ‘이누아라시&네코마무시’가 된다. 필살기를 쓴 턴 내에 PERFECT 공격을 2번 이상 성공하면 다음 턴에 타격형과 박식형 캐릭터의 슬롯의 영향을 2.25배로 증폭시킨다",
+        "swap": "일당의 마비 상태를 1턴 회복하고, 자신에게 걸려 있는 슬롯 봉쇄, 선장효과 무효 상태를 완전히 해제한다",
+        "specialName": "두 왕의 연속 공격",
+        "potential": [
+            {
+                "Name": "Enrage",
+                "description": [
+                    "Level 1: Boosts base ATK by ?",
+                    "Level 2: Boosts base ATK by ?",
+                    "Level 3: Boosts base ATK by ?",
+                    "Level 4: Boosts base ATK by ?",
+                    "Level 5: Boosts base ATK by ?"
+                ]
+            },
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by ? turn",
+                    "Level 2: Reduces No Healing duration by ? turns",
+                    "Level 3: Reduces No Healing duration by ? turns",
+                    "Level 4: Reduces No Healing duration by ? turns",
+                    "Level 5: Reduces No Healing duration by ? turns"
+                ]
+            },
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}"
+    },
+    "aliases": [
+        "",
+        "",
+        "Inuarashi&Nekomamushi",
+        "Inuarashi & Nekomamushi",
+        "Inuarashi and Nekomamushi",
+        "Inuarashi Nekomamushi",
+        "InuarashiNekomamushi",
+        "Nekomamushi&Inuarashi",
+        "Nekomamushi and Inuarashi",
+        "Nekomamushi Inuarashi",
+        "NekomamushiInuarashi",
+        "Dogstorm",
+        "Cat Viper"
+    ],
+    "unit": {
+        "type": [
+            "STR",
+            "PSY"
+        ],
+        "class": [
+            [
+                "Slasher",
+                "Cerebral"
+            ],
+            [
+                "Striker",
+                "Powerhouse"
+            ],
+            [
+                "Striker",
+                "Cerebral"
+            ]
+        ],
+        "stars": 6,
+        "cost": 55,
+        "combo": null,
+        "slots": 5,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": null,
+        "minATK": null,
+        "minRCV": null,
+        "maxHP": 4683,
+        "maxATK": 1611,
+        "maxRCV": 392,
+        "ability": null
+    },
+    "cooldown": 22,
+    "evolve": {
+        "evolution": 2577,
+        "evolvers": [],
+        "from": 2576
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2577.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2577.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
+}
