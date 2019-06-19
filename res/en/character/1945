@@ -98,6 +98,7 @@
   "aliases": [
     "木の上のペドロ モコモ公国",
     "",
+    "Colo Pedro",
     "Coliseum Pedro"
   ],
   "unit": {
@@ -143,5 +144,14 @@
     "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Awaiting the World's Dawn",
+      "thumb": 1945,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ]
 }

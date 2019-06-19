@@ -1,0 +1,50 @@
+{
+  "name": "[Dual Unit] Tashigi, G-5's Commanders",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 2.5x, boosts ATK of all other characters by 2x, and boosts HP of all characters by 1.2x.",
+    "sailor": "Boosts base RCV of [QCK] and [PSY] characters by 50",
+    "special": "Deals 100,000 Fixed damage to all enemies, changes [STR], [DEX], [QCK], [PSY], [INT] and [BLOCK] orbs into Matching orbs, locks all orbs for 1 turn and becomes Smoker & Tashigi for 2 turns.",
+    "swap": "When Change is activated, randomizes [RCV], [EMPTY], [G], [BOMB] orbs and recovers 1,000 HP.",
+    "specialName": "White Hunting Autumn Rain"
+  },
+  "aliases": [
+    "たしぎ Ｇ‐５の指揮官達",
+    "",
+    "Smoker&Tashigi",
+    "Smoker & Tashigi",
+    "Smoker and Tashigi",
+    "Smoker Tashigi",
+    "SmokerTashigi",
+    "Tashigi&Smoker",
+    "Tashigi and Smoker",
+    "Tashigi Smoker",
+    "TashigiSmoker"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 358,
+    "minATK": 236,
+    "minRCV": 64,
+    "maxHP": 895,
+    "maxATK": 590,
+    "maxRCV": 159,
+    "ability": 1
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5113.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5113.png"
+  },
+  "drop": [],
+  "manual": []
+}

@@ -1,0 +1,49 @@
+{
+  "name": "[Dual Unit] Carrot, The Duo in the Mirror World",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.5x at the start of the chain, by 2.75x after 3 PERFECTs in a row",
+    "special": "Reduces damage received by 50% for 1 turn, boosts ATK of all characters by 1.75x for 1 turn and becomes Chobro & Carrot for 2 turns",
+    "swap": "When Change is activated, makes PERFECTs easier to hit for 1 turn and recovers 2x character's RCV",
+    "specialName": "A Call from the Mirror"
+  },
+  "aliases": [
+    "キャロット 鏡の国の二人",
+    "",
+    "Chopper&Carrot",
+    "Chopper & Carrot",
+    "Chopper and Carrot",
+    "Chopper Carrot",
+    "ChopperCarrot",
+    "Carrot&Chopper",
+    "Carrot and Chopper",
+    "Carrot Chopper",
+    "CarrotChopper"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 1208,
+    "minATK": 609,
+    "minRCV": 123,
+    "maxHP": 2031,
+    "maxATK": 1203,
+    "maxRCV": 180,
+    "ability": 1
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5079.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5079.png"
+  },
+  "drop": [],
+  "manual": []
+}

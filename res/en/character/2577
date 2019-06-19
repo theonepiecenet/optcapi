@@ -2,8 +2,8 @@
   "name": "Inuarashi & Nekomamushi, Antagonistic Kings of Day and Night",
   "detail": {
     "captain": {
-      "character1": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain and makes [STR] orbs beneficial for Cerebral and Striker characters.",
-      "character2": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain and makes [PSY] orbs beneficial for Cerebral and Striker characters.",
+      "character1": "Boosts ATK of Cerebral characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain, Boosts ATK of Striker characters by 3x and makes [STR] orbs beneficial for Cerebral and Striker characters.",
+      "character2": "Boosts ATK of Striker characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain, Boosts ATK of Cerebral characters by 3x and makes [PSY] orbs beneficial for Cerebral and Striker characters.",
       "combined": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3.5x and 4x based on the timing of the attack of the previous unit in the chain, makes [STR] and [PSY] orbs beneficial for Cerebral and Striker characters and recovers 1.5x their RCV at the end of the turn each time you hit a PERFECT."
     },
     "sailor": {
@@ -15,42 +15,134 @@
     "special": "Boosts ATK of Cerebral and Striker characters by 1.75x for 1 turn and boosts the Color Affinity of Cerebral and Striker characters by 1.75x for 1 turn, and becomes Inuarashi & Nekomamushi for 3 turns. If during that turn, you hit 2 PERFECTS, amplifies the effect of orbs for Cerebral and Striker characters by 2.25x for 1 turn.",
     "swap": "When Change is activated, this character removes all Despair and Slot Bind on themselves and reduces Paralysis duration by 1 turn.",
     "specialName": "Two-King Onslaught",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of Cerebral and Striker characters by 75"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Boosts base HP by 120"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      }
+    ],
     "potential": [
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by ?",
-          "Level 2: Boosts base ATK by ?",
-          "Level 3: Boosts base ATK by ?",
-          "Level 4: Boosts base ATK by ?",
-          "Level 5: Boosts base ATK by ?"
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 80",
+          "Level 3: Boosts base ATK by 120",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
         ]
       },
       {
         "Name": "Reduce No Healing duration",
         "description": [
-          "Level 1: Reduces No Healing duration by ? turn",
-          "Level 2: Reduces No Healing duration by ? turns",
-          "Level 3: Reduces No Healing duration by ? turns",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
+          "Level 1: Reduces No Healing duration by 2 turn",
+          "Level 2: Reduces No Healing duration by 3 turns",
+          "Level 3: Reduces No Healing duration by 4 turns",
+          "Level 4: Reduces No Healing duration by 5 turns",
+          "Level 5: Reduces No Healing duration by 7 turns"
         ]
       },
       {
         "Name": "Critical Hit",
         "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+          "Level 1: If you hit a PERFECT with this character, there is a 50% chance to deal 6% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 60% chance to deal % of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 8% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 9% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
         ]
       }
     ],
     "potentialNotes": "#{enrage}"
   },
   "aliases": [
-    "",
+    "イヌアラシ＆ネコマムシ 奮戦する昼夜の王",
     "",
     "Inuarashi&Nekomamushi",
     "Inuarashi & Nekomamushi",
@@ -85,22 +177,31 @@
     ],
     "stars": 6,
     "cost": 55,
-    "combo": null,
+    "combo": 6,
     "slots": 5,
     "level": 99,
     "exp": 5000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": 4683,
+    "minHP": 1408,
+    "minATK": 644,
+    "minRCV": 157,
+    "maxHP": 3521,
     "maxATK": 1611,
     "maxRCV": 392,
-    "ability": null
+    "ability": 1
   },
-  "cooldown": 22,
+  "cooldown": [
+    22,
+    17
+  ],
   "evolve": {
     "evolution": 2577,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      300,
+      303,
+      1180,
+      267
+    ],
     "from": 2576
   },
   "image": {

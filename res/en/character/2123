@@ -82,6 +82,7 @@
   "aliases": [
     "海神ネプチューン 海の大騎士",
     "",
+    "Colo Neptune",
     "Coliseum Neptune"
   ],
   "unit": {
@@ -127,5 +128,15 @@
     "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Sea God of the Ryugu Kingdom",
+      "thumb": 2123,
+      "data": [
+        "Chaos",
+        "Underground"
+      ]
+    }
+  ]
 }

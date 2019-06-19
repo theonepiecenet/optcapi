@@ -1,0 +1,51 @@
+{
+    "name": "[Dual Unit] 빨간 머리 샹크스&벤 베크맨",
+    "detail": {
+        "captain": "Boosts ATK of [DEX] and [INT] characters by 3x and boosts ATK of all other characters by 2x.",
+        "special": "Changes all orbs, including [BLOCK] orbs, into [EMPTY] orbs, boosts the Color Affinity of all characters by 3x for 1 turn, locks the chain multiplier at 3x for 1 turn and becomes Shanks & Ben Beckman for 2 turns.",
+        "specialNotes": "This special can only be activated if no other special has been activated this turn and removes the ability to activate any other specials this turn.",
+        "swap": "When Change is activated, reduces Bind, Despair and Paralysis duration by 1 turn",
+        "specialName": "Controlling the Battlefield",
+        "sailor": "Reduces Blindness duration by 5 turns"
+    },
+    "aliases": [
+        "シャンクス＆ベックマン 戦争を止めようとする者達",
+        "",
+        "Shanks&Ben Beckman",
+        "Shanks & Ben Beckman",
+        "Shanks and Ben Beckman",
+        "Shanks Ben Beckman",
+        "ShanksBen Beckman",
+        "Ben Beckman&Shanks",
+        "Ben Beckman and Shanks",
+        "Ben Beckman Shanks",
+        "Ben BeckmanShanks"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Cerebral",
+            "Slasher"
+        ],
+        "stars": 4,
+        "cost": 30,
+        "combo": 5,
+        "slots": 1,
+        "level": 50,
+        "exp": 130703,
+        "minHP": 882,
+        "minATK": 452,
+        "minRCV": 120,
+        "maxHP": 1512,
+        "maxATK": 933,
+        "maxRCV": 244,
+        "ability": 1
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5139.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5139.png"
+    },
+    "drop": [],
+    "manual": []
+}

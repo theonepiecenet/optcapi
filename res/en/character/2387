@@ -3,11 +3,11 @@
   "detail": {
     "captain": {
       "base": "Boosts own ATK by 1.75x and boosts ATK of Driven and Powerhouse characters by 1.5x and their HP by 1.2x",
-      "level1": "Not Translated",
-      "level2": "Not Translated",
-      "level3": "Not Translated",
-      "level4": "Not Translated",
-      "level5": "Not Translated",
+      "level1": "Boosts own ATK by 2.5x and boosts ATK of Driven and Powerhouse characters by 1.5x and their HP by 1.2x",
+      "level2": "Boosts own ATK by 3x and boosts ATK of Driven and Powerhouse characters by 1.5x and their HP by 1.2x",
+      "level3": "Boosts own ATK by 3x and boosts ATK of Driven and Powerhouse characters by 2x and their HP by 1.2x",
+      "level4": "Boosts own ATK by 3x and boosts ATK of Driven and Powerhouse characters by 2.25x and their HP by 1.2x",
+      "level5": "Boosts own ATK by 3x and boosts ATK of Driven and Powerhouse characters by 2.5x and their HP by 1.2x",
       "level6": "Boosts own ATK by 3.25x and boosts ATK of Driven and Powerhouse characters by 2.75x and their HP by 1.2x"
     },
     "special": "Removes all positive buffs on your team, cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers, amplifies the effect of orbs for all characters by 1.5x and boosts own ATK by 3.25x for a variable amount of turns",
@@ -35,7 +35,7 @@
         "description": "Acquire Potential 1: Slot Bind Self-reduction"
       },
       {
-        "description": "Acquire new Captain Ability: "
+        "description": "Acquire new Captain Ability: Boosts own ATK by 2.5x and boosts ATK of Driven and Powerhouse characters by 1.5x and their HP by 1.2x"
       },
       {
         "description": "Acquire Sailor Ability 1: Boosts base ATK of Powerhouse and Driven characters by 50"
@@ -50,7 +50,7 @@
         "description": "Boosts base HP by 20"
       },
       {
-        "description": "Acquire new Captain Ability: "
+        "description": "Acquire new Captain Ability: Boosts own ATK by 3x and boosts ATK of Driven and Powerhouse characters by 1.5x and their HP by 1.2x"
       },
       {
         "description": "Acquire 1 additional Socket slot"
@@ -68,7 +68,7 @@
         "description": "Boosts base ATK by 20"
       },
       {
-        "description": "Acquire new Captain Ability: "
+        "description": "Acquire new Captain Ability: Boosts own ATK by 3x and boosts ATK of Driven and Powerhouse characters by 2x and their HP by 1.2x"
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
@@ -98,7 +98,7 @@
         "description": "Reduce base Special Cooldown by 4 turns"
       },
       {
-        "description": "Acquire new Captain Ability: "
+        "description": "Acquire new Captain Ability: Boosts own ATK by 3x and boosts ATK of Driven and Powerhouse characters by 2.25x and their HP by 1.2x"
       },
       {
         "description": "Boosts base HP by 60"
@@ -125,7 +125,7 @@
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "Acquire new Captain Ability: "
+        "description": "Acquire new Captain Ability: Boosts own ATK by 3x and boosts ATK of Driven and Powerhouse characters by 2.5x and their HP by 1.2x"
       },
       {
         "description": "Boosts base HP by 70"

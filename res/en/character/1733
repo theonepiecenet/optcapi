@@ -84,6 +84,7 @@
     "“夜の王”ネコマムシ くじらの森の守護神",
     "",
     "Nekopara",
+    "Colo Nekomamushi",
     "Coliseum Nekomamushi",
     "Cat Viper"
   ],
@@ -130,5 +131,14 @@
     "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Whale Forest Guardian",
+      "thumb": 1733,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ]
 }

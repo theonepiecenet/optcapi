@@ -1,0 +1,179 @@
+{
+    "name": "[Dual Unit] 루피&로, The Worst Generation Creating a Miracle",
+    "detail": {
+        "captain": "Boosts ATK of all characters by 4.5x, their HP by 1.25x and recovers 1x their RCV at the end of the turn each time you hit a PERFECT.",
+        "sailor": {
+            "base": "Boosts base ATK, HP and RCV of all characters by 100",
+            "level1": "Completely resists Paralysis and Silence on this character"
+        },
+        "special": "Deals 75x character's ATK in Typeless damage to all enemies that will ignore damage negating abilities and barriers, makes [DEX] and [QCK] orbs beneficial for all characters for 1 turn, amplifies the effect of orbs by 2.5x for 1 turn and becomes Luffy & Law for 3 turns.",
+        "swap": "When Change is activated, this character removes all Slot Bind on themselves and changes their own orb, including [BLOCK] orbs, into a Matching orb, boosts own ATK by 2x for 1 turn and makes own normal attacks ignore defensive barriers and buffs.",
+        "specialName": "The Ultimate Stratagem to Defeat God",
+        "limit": [
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Acquire Potential 1: Pinch Healing"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base HP by 20"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Acquire Potential 2: Reduce No Healing duration"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Completely resists Paralysis and Silence on this character"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base HP by 100"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Acquire Potential 3: Critical Hit"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 10% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 15% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            },
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 2 turn",
+                    "Level 2: Reduces No Healing duration by 3 turn",
+                    "Level 3: Reduces No Healing duration by 4 turn",
+                    "Level 4: Reduces No Healing duration by 5 turns",
+                    "Level 5: Reduces No Healing duration by 7 turns"
+                ]
+            },
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 60% chance to deal 6% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 70% chance to deal 7% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 90% chance to deal 9% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 100% chance to deal 10% of this character's attack in extra damage"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ルフィ＆ロー “奇跡”を起こす世代",
+        "",
+        "Luffy&Law",
+        "Luffy and Law",
+        "Luffy Law",
+        "LuffyLaw",
+        "Law&Luffy",
+        "Law and Luffy",
+        "Law Luffy",
+        "LawLuffy",
+        "LL",
+        "Legend Luffy & Law",
+        "Legend Luffy and Law"
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Fighter",
+            "Slasher"
+        ],
+        "stars": 6,
+        "cost": 55,
+        "combo": 4,
+        "slots": 5,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": 1471,
+        "minATK": 658,
+        "minRCV": 170,
+        "maxHP": 3677,
+        "maxATK": 1644,
+        "maxRCV": 425,
+        "ability": 1
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5089.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5089.png"
+    },
+    "drop": [],
+    "manual": []
+}

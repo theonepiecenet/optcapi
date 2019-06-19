@@ -8,6 +8,7 @@
   "aliases": [
     "イカロス・ムッヒ 反逆の魚人海賊",
     "",
+    "Colo Ikaros Much",
     "Coliseum Ikaros Much"
   ],
   "unit": {
@@ -53,5 +54,16 @@
     "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Of Course I've Got a Backbone!!!",
+      "thumb": 1630,
+      "data": [
+        "Chaos",
+        "Exebition",
+        "Underground"
+      ]
+    }
+  ]
 }

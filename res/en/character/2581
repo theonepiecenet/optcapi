@@ -1,0 +1,96 @@
+{
+  "name": "Neptune, \"Levely\" Ryugu Kingdom King",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 1.5x",
+    "special": "If your Captain is a Striker or Cerebral character, randomizes all orbs for Striker and Cerebral characters into either [STR] or [PSY] orbs and locks all orbs for 1 turn.",
+    "specialName": "Sea God's Anger",
+    "sailor": "Reduces Silence duration on this character by 2 turns",
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Acquire Potential 1: No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 5 turn",
+          "Level 5: Reduces No Healing duration by 7 turn"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "ネプチューン “世界会議”リュウグウ王国国王",
+    "",
+    "Secret Neptune",
+    "Limited Neptune"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Cerebral",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 1086,
+    "minATK": 489,
+    "minRCV": 133,
+    "maxHP": 2714,
+    "maxATK": 1222,
+    "maxRCV": 332,
+    "ability": 1
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2581.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2581.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

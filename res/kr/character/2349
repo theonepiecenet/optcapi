@@ -1,82 +1,82 @@
 {
-  "name": "페드로 of the Treetops, Former Nox Pirates Captain",
-  "detail": {
-    "specialName": "Royal Dawnbreak Sword",
-    "special": "Cuts the current HP of one enemy by 10%, reduces the defense of all enemies by 100% for 1 turn if your crew has 5 or more Slasher characters at the time the special is activated, boosts ATK against enemies with reduced defense by 2x for 1 turn and changes adjacent orbs into Matching Orbs.",
-    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Slasher characters by 2.75x and if you have 5 or more Slashers characters in your crew, boosts chain by 1.3x",
-    "sailor": {
-      "base": "If this character has a [DEX] orb and you hit a PERFECT with him, keep his [DEX] orb for the next turn",
-      "level1": "Makes [DEX] orbs \"beneficial\" for Slasher characters"
-    },
-    "potential": [
-      {
-        "Name": "[QCK] Damage Reduction",
-        "description": [
-          "Level 1: Reduce damage taken from [QCK] characters by ?%",
-          "Level 2: Reduce damage taken from [QCK] characters by ?%",
-          "Level 3: Reduce damage taken from [QCK] characters by ?%",
-          "Level 4: Reduce damage taken from [QCK] characters by ?%",
-          "Level 5: Reduce damage taken from [QCK] characters by ?%"
+    "name": "나무 위의 페드로, 전 녹스 해적단 ‘선장’",
+    "detail": {
+        "specialName": "여명의 일격",
+        "special": "적 1명의 HP를 10% 줄이고, 1턴 동안 적 전체의 방어력을 0으로 만든다. 일당에 참격형 캐릭터가 5명 이상일 때 인접한 슬롯을 속성 일치 슬롯으로 바꾸고, 1턴 동안 방어력 감소 중인 적에게 주는 데미지가 2배가 된다",
+        "captain": "모험 시작 시 필살기 턴을 1턴 단축하고, 참격형 캐릭터의 공격력을 2.75배로 만든다. 일당에 참격형 캐릭터가 5명 이상일 때 체인 계수 증가량이 1.3배가 된다",
+        "sailor": {
+            "base": "자신의 PERFECT 공격 성공 시 자신의 [DEX] 슬롯이 다음 턴에도 유지된다",
+            "level1": "참격형 캐릭터는 [DEX] 슬롯도 [유리] 슬롯으로 취급한다"
+        },
+        "potential": [
+            {
+                "Name": "[QCK] Damage Reduction",
+                "description": [
+                    "Level 1: Reduce damage taken from [QCK] characters by ?%",
+                    "Level 2: Reduce damage taken from [QCK] characters by ?%",
+                    "Level 3: Reduce damage taken from [QCK] characters by ?%",
+                    "Level 4: Reduce damage taken from [QCK] characters by ?%",
+                    "Level 5: Reduce damage taken from [QCK] characters by ?%"
+                ]
+            },
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+                ]
+            }
+        ],
+        "sailorNotes": "#{beneficial}",
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Acquire Potential 1: [QCK] Damage Reduction"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [DEX] orbs beneficial for Slasher characters"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Acquire Potential 2: Critical Hit"
+            }
         ]
-      },
-      {
-        "Name": "Critical Hit",
-        "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
-        ]
-      }
-    ],
-    "sailorNotes": "#{beneficial}",
-    "limit": [
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Boosts base RCV by 10"
-      },
-      {
-        "description": "Acquire Potential 1: [QCK] Damage Reduction"
-      },
-      {
-        "description": "Boosts base HP by 30"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base RCV by 20"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Makes [DEX] orbs beneficial for Slasher characters"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base ATK by 50"
-      },
-      {
-        "description": "Acquire Potential 2: Critical Hit"
-      }
-    ]
-  }
+    }
 }

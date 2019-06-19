@@ -85,7 +85,9 @@
     "魔術師バジル・ホーキンス ホーキンス海賊団船長",
     "",
     "Supernova Hawkins",
+    "Colo Hawkins",
     "Coliseum Hawkins",
+    "Colo Basil Hawkins",
     "Coliseum Basil Hawkins"
   ],
   "unit": {
@@ -131,5 +133,14 @@
     "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Sorcerer's Spell",
+      "thumb": 831,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ]
 }

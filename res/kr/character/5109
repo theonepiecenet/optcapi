@@ -1,0 +1,122 @@
+{
+    "name": "[Dual Unit] 봉쿠레, The New Mankind Beckoning a Miracle",
+    "detail": {
+        "captain": "Boosts ATK of Free Spirit characters by 2.25x at the start of the chain, by 2.7x after 4 PERFECTs in a row.",
+        "sailor": {
+            "base": "Boosts base ATK of Free Spirit characters by 50",
+            "level1": "Reduces Silence duration on this character by 5 turns"
+        },
+        "special": "Removes Poison, RCV DOWN and Blindness duration completely, reduces Bind and Despair duration by 5 turns, recovers 13x character's RCV in HP at the end of each turn for 5 turns and becomes Ivankov & Bon Clay for 2 turns.",
+        "swap": "When Change is activated, reduces Paralysis duration by 1 turn and reduces damage received by 20% for 1 turn.",
+        "specialName": "The Cheer that will Summon a Miracle",
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Acquire Potential 1: Pinch Healing"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 45"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 35"
+            },
+            {
+                "description": "Boosts base RCV by 25"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Boosts base ATK by 60"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 5 turns"
+            },
+            {
+                "description": "Acquire Potential 2: Reduce No Healing duration"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            },
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 2 turn",
+                    "Level 2: Reduces No Healing duration by 3 turn",
+                    "Level 3: Reduces No Healing duration by 4 turn",
+                    "Level 4: Reduces No Healing duration by 5 turns",
+                    "Level 5: Reduces No Healing duration by 7 turns"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ボン・クレー 奇跡を招く新人類",
+        "",
+        "Ivankov&Bon Clay",
+        "Ivankov & Bon Clay",
+        "Ivankov and Bon Clay",
+        "Ivankov Bon Clay",
+        "IvankovBon Clay",
+        "Bon Clay&Ivankov",
+        "Bon Clay and Ivankov",
+        "Bon Clay Ivankov",
+        "Bon ClayIvankov"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Free Spirit",
+            "Fighter"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 6,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 996,
+        "minATK": 549,
+        "minRCV": 125,
+        "maxHP": 2490,
+        "maxATK": 1372,
+        "maxRCV": 355,
+        "ability": 1
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5109.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5109.png"
+    },
+    "drop": [],
+    "manual": []
+}

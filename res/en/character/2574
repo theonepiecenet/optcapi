@@ -1,0 +1,59 @@
+{
+  "name": "Carrot, Adventures in the Mirror",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight and boosts ATK of Free Spirit characters by 2.5x.",
+    "special": "Reduces enemies' Threshold Damage Reduction and Percent Damage Reduction duration by 3 turns, reduces Bind duration by 5 turns and changes [BOMB], [G], [EMPTY] and Badly Matching orbs into Matching orbs. If your Captain is a Free Spirit Character, boosts ATK against delayed enemies by 2x for 1 turn.",
+    "specialName": "Air Step Mink Kick",
+    "sailor": "Completely resists Paralysis on this character"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 4,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 235,
+    "minATK": 230,
+    "minRCV": 31,
+    "maxHP": 875,
+    "maxATK": 840,
+    "maxRCV": 124,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    14
+  ],
+  "evolution": {
+    "evolution": 2575,
+    "evolvers": [
+      118,
+      87,
+      98,
+      303,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2574.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2574.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

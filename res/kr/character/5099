@@ -1,0 +1,50 @@
+{
+    "name": "[Dual Unit] 루치&카쿠, Masters of Techniques that Exceeds Humanity",
+    "detail": {
+        "captain": "Boosts ATK of Powerhouse characters by 3x if they have a Matching orb, by 2.5x otherwise and boosts damage of Powerhouse Typed specials by 1.5x.",
+        "sailor": "Boosts base ATK and HP of Powerhouse, Fighter and Slasher characters by 50",
+        "special": "Deals 50x character's ATK in character's Type damage to all enemies and becomes Lucci & Kaku for 2 turns. If your Captain is a Powerhouse, Fighter or Slasher character, boosts ATK of Powerhouse, Fighter and Slasher characters by 2x for 1 turn.",
+        "swap": "When Change is activated, makes [TND] orbs beneficial for Powerhouse, Fighter or Slasher characters for 1 turn and adds 0.3x to Chain multiplier for 1 turn.",
+        "specialName": "Tempest Kick - Twin Beasts"
+    },
+    "aliases": [
+        "ルッチ＆カク 人界を超える技の使い手達",
+        "",
+        "Lucci&Kaku",
+        "Lucci & Kaku",
+        "Lucci and Kaku",
+        "Lucci Kaku",
+        "LucciKaku",
+        "Kaku&Lucci",
+        "Kaku and Lucci",
+        "Kaku Lucci",
+        "KakuLucci"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Powerhouse",
+            "Slasher"
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 4,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "minHP": 519,
+        "minATK": 272,
+        "minRCV": 54,
+        "maxHP": 1298,
+        "maxATK": 608,
+        "maxRCV": 136,
+        "ability": 1
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5099.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5099.png"
+    },
+    "drop": [],
+    "manual": []
+}

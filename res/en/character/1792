@@ -84,7 +84,9 @@
     "ルーシー コリーダコロシアムＣブロックの風雲児",
     "",
     "Luffy",
+    "Colo Luffy",
     "Coliseum Luffy",
+    "Colo Lucy",
     "Coliseum Lucy"
   ],
   "unit": {
@@ -130,5 +132,15 @@
     "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Coliseum Up-and-Comer",
+      "thumb": 1792,
+      "data": [
+        "Chaos",
+        "Underground"
+      ]
+    }
+  ]
 }

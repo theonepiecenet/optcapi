@@ -1,0 +1,53 @@
+{
+    "name": "[Dual Unit] 상디&저지, The Fate of the Father and Son",
+    "detail": {
+        "captain": "If there are 6 Powerhouse characters in your crew, boosts ATK of Powerhouse characters by 4.25x. If there is a [STR], [DEX], [QCK], [PSY] and [INT] characters in your crew, boosts HP of Powerhouse characters by 1.25x and makes [PSY], [RCV] and [TND] orbs beneficial for all characters.",
+        "special": "Boosts ATK of Powerhouse characters by 2x for 1 turn, amplifies the effect of orbs for Powerhouse characters by 2x for 1 turn, reduces Paralysis duration by 5 turns and becomes Sanji & Judge for 3 turns",
+        "swap": "When Change is activated, this character removes all Silence on themselves, changes their own orb, including [BLOCK] orbs, into a [TND] orb and boosts Chain multiplier by 1.25x for 1 turn.",
+        "specialName": "Crack & Strike",
+        "sailor": "Boosts base ATK, HP and RCV of Powerhouse characters by 75"
+    },
+    "aliases": [
+        "サンジ＆ジャッジ 父子の因縁",
+        "",
+        "Yellow Ranger",
+        "Black Ranger",
+        "Sanji&Judge",
+        "Sanji and Judge",
+        "Sanji Judge",
+        "SanjiJudge",
+        "Judge&Sanji",
+        "Judge and Sanji",
+        "Judge Sanji",
+        "JudgeSanji",
+        "SanJudge",
+        "Judgji"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Powerhouse",
+            "Fighter"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 5,
+        "slots": 3,
+        "level": 70,
+        "exp": 1066998,
+        "minHP": 434,
+        "minATK": 289,
+        "minRCV": 55,
+        "maxHP": 2022,
+        "maxATK": 831,
+        "maxRCV": 161,
+        "ability": 1
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5054.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5054.png"
+    },
+    "drop": [],
+    "manual": []
+}

@@ -1,0 +1,54 @@
+{
+  "name": "[Dual Unit] Marco, The Foundation of the Paramount War",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by 3.5x, boosts ATK of all other characters by 2.75x, boosts RCV of all characters by 1.25x and makes [INT] orbs beneficial for all characters",
+    "special": "Cuts the current HP of each enemy by 30%, recovers 20,000 HP, randomizes all orbs into either [PSY], [INT] or [RCV] orbs and becomes Whitebeard & Marco for 3 turns",
+    "swap": "When Change is activated, reduces Paralysis and Silence duration by 1 turn, makes [RCV] orbs beneficial for all characters for 1 turn and changes their own orb into a [RCV] orb",
+    "swapNotes": "#{beneficial}",
+    "specialName": "Immortal Blue Flame Shockwave",
+    "sailor": "Boosts base HP and RCV of [PSY] and [INT] characters by 75"
+  },
+  "aliases": [
+    "マルコ 頂上戦争への布陣",
+    "",
+    "Whitebeard&Marco",
+    "Whitebeard and Marco",
+    "Whitebeard Marco",
+    "WhitebeardMarco",
+    "Marco&Whitebeard",
+    "Marco and Whitebeard",
+    "Marco Whitebeard",
+    "MarcoWhitebeard",
+    "WBM",
+    "Legend Whitebeard & Marco",
+    "Legend Whitebeard and Marco",
+    "Warco"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 262,
+    "minATK": 277,
+    "minRCV": 78,
+    "maxHP": 1460,
+    "maxATK": 811,
+    "maxRCV": 241,
+    "ability": 1
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5017.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5017.png"
+  },
+  "drop": [],
+  "manual": []
+}

@@ -1,0 +1,55 @@
+{
+  "name": "[Dual Unit] Judge, The Fate of the Father and Son",
+  "detail": {
+    "captain": "If there is a [STR], [DEX], [QCK], [PSY] and [INT] characters in your crew, boosts ATK of all characters by 3.5x, their HP by 1.25x and makes [PSY] orbs beneficial for all characters.",
+    "special": "Boosts ATK of Powerhouse characters by 2x for 1 turn, amplifies the effect of orbs for Powerhouse characters by 2x for 1 turn, reduces Paralysis duration by 5 turns and becomes Sanji & Judge for 3 turns",
+    "swap": "When Change is activated, this character removes all Silence on themselves, changes their own orb, including [BLOCK] orbs, into a [TND] orb and boosts Chain multiplier by 1.25x for 1 turn.",
+    "specialName": "Crack & Strike",
+    "sailor": "Boosts base ATK, HP and RCV of Powerhouse characters by 50"
+  },
+  "aliases": [
+    "ジャッジ 父子の因縁",
+    "",
+    "Yellow Ranger",
+    "Black Ranger",
+    "Sanji&Judge",
+    "Sanji and Judge",
+    "Sanji Judge",
+    "SanjiJudge",
+    "Judge&Sanji",
+    "Judge and Sanji",
+    "Judge Sanji",
+    "JudgeSanji",
+    "SanJudge",
+    "Judgji",
+    "Judji",
+    "S/J"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 5,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 342,
+    "minATK": 268,
+    "minRCV": 34,
+    "maxHP": 1754,
+    "maxATK": 798,
+    "maxRCV": 108,
+    "ability": 1
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5053.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5053.png"
+  },
+  "drop": [],
+  "manual": []
+}

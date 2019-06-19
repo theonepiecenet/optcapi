@@ -1,0 +1,59 @@
+{
+    "name": "포트거스 D. 에이스, Celebrate the Long Cruise",
+    "detail": {
+        "captain": "Boosts ATK of Free Spirit characters by 2x and makes [RCV] orbs beneficial for Free Spirit characters.",
+        "special": "Binds self for 5 turns, reduces Special Cooldown of all characters by 2 turns and locks the chain multiplier at 3x for 2 turns.",
+        "specialName": "My Paced Feast"
+    },
+    "aliases": [
+        "ポートガス・D・エース Celebrate the long cruise",
+        "",
+        "Anniversary Ace"
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Free Spirit",
+            "Shooter"
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 4,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "minHP": 220,
+        "minATK": 112,
+        "minRCV": 26,
+        "maxHP": 1366,
+        "maxATK": 700,
+        "maxRCV": 159,
+        "ability": 1
+    },
+    "cooldown": [
+        15,
+        15
+    ],
+    "evolution": {
+        "evolution": 2546,
+        "evolvers": [
+            83,
+            85,
+            1180,
+            301,
+            101
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2545.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2545.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1
+    },
+    "drop": [],
+    "manual": []
+}

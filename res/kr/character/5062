@@ -1,0 +1,198 @@
+{
+    "name": "[Dual Unit] 스무디, The Duo that will Eliminate the Intruders",
+    "detail": {
+        "captain": "Boosts ATK of [PSY] characters by 3x and boosts ATK of [QCK] and [INT] characters by 2.5x.",
+        "special": "Boosts chances of getting [QCK] and [PSY] orbs for 2 turns, randomizes all orbs, amplifies the effect of orbs on [QCK], [PSY] and [INT] characters by 2x for 2 turns and becomes Smoothie & Oven for 2 turns",
+        "swap": "When Change is activated, makes [QCK] and [PSY] orbs beneficial for [QCK], [PSY] and [INT] characters for 1 turn and deals 20x character's ATK in character's Type damage to all enemies at the end of the turn for 1 turn.",
+        "specialName": "Brother and Sister Chasing Intruders",
+        "sailor": {
+            "base": "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 25",
+            "level1": "Cannot be blown away"
+        },
+        "limit": [
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Acquire Potential 1: Critical Hit"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 2 turns"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base RCV by 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 2 turns"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 2 turns"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 2 turns"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Cannot be blown away"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 2 turns"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 2 turns"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 3 turns"
+            },
+            {
+                "description": "Acquire Potential 2: Reduce No Healing duration"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 50% chance to deal 3% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 4% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 60% chance to deal 5% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 80% chance to deal 7% of this character's attack in extra damage"
+                ]
+            },
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 1 turn",
+                    "Level 2: Reduces No Healing duration by 2 turns",
+                    "Level 3: Reduces No Healing duration by 3 turns",
+                    "Level 4: Reduces No Healing duration by 4 turns",
+                    "Level 5: Reduces No Healing duration by 5 turns"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "スムージー 乱入者を排除する者達",
+        "",
+        "Smoothie&Oven",
+        "Smoothie and Oven",
+        "Smoothie Oven",
+        "SmoothieOven",
+        "Oven&Smoothie",
+        "Oven and Smoothie",
+        "Oven Smoothie",
+        "OvenSmoothie",
+        "TM Smoothie",
+        "TM Oven"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Powerhouse",
+            "Slasher"
+        ],
+        "stars": 5,
+        "cost": 60,
+        "combo": 4,
+        "slots": 1,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": 920,
+        "minATK": 551,
+        "minRCV": 142,
+        "maxHP": 2406,
+        "maxATK": 1206,
+        "maxRCV": 291,
+        "ability": 1
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5062.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5062.png"
+    },
+    "drop": [],
+    "manual": []
+}

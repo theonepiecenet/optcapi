@@ -1,34 +1,96 @@
 {
-  "name": "토니토니 쵸파, 점프력 강화",
-  "detail": {
-    "specialName": "점프력 강화",
-    "special": [
-      {
-        "description": "Reduces Paralysis duration by 1 턴. Adds .2x to Chain multiplier for 1 turn",
-        "cooldown": [
-          18,
-          8
-        ]
-      },
-      {
-        "description": "Reduces Paralysis duration by 2 턴. Adds .3x to Chain multiplier for 1 turn",
-        "cooldown": [
-          23,
-          13
-        ]
-      },
-      {
-        "description": "Reduces Paralysis duration by 2 턴. Adds .5x to Chain multiplier for 1 turn",
-        "cooldown": [
-          25,
-          15
-        ]
-      },
-      {
-        "description": ""
-      }
+    "name": "토니토니 쵸파, 점프력 강화",
+    "detail": {
+        "captain": "Boosts ATK of [DEX] characters by 2.25x",
+        "special": [
+            {
+                "description": "Reduces Paralysis duration by 1 턴. Adds .2x to Chain multiplier for 1 turn",
+                "cooldown": [
+                    18,
+                    8
+                ]
+            },
+            {
+                "description": "Reduces Paralysis duration by 2 턴. Adds .3x to Chain multiplier for 1 turn",
+                "cooldown": [
+                    23,
+                    13
+                ]
+            },
+            {
+                "description": "Reduces Paralysis duration by 2 턴. Adds .5x to Chain multiplier for 1 turn",
+                "cooldown": [
+                    25,
+                    15
+                ]
+            }
+        ],
+        "specialNotes": "#{stages}",
+        "specialName": "점프력 강화"
+    },
+    "aliases": [
+        "トニートニー・チョッパー 飛力強化（ジャンピングポイント）",
+        "",
+        "Coliseum Chopper",
+        "Coliseum Tony Tony Chopper"
     ],
-    "captain": "Boosts ATK of [DEX] characters by 2.25x",
-    "specialNotes": "#{stages}"
-  }
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Fighter",
+            "Powerhouse"
+        ],
+        "stars": 4,
+        "cost": 20,
+        "combo": 5,
+        "slots": 2,
+        "level": 99,
+        "exp": 3000000,
+        "minHP": 162,
+        "minATK": 91,
+        "minRCV": 29,
+        "maxHP": 2334,
+        "maxATK": 892,
+        "maxRCV": 296,
+        "ability": 1
+    },
+    "cooldown": [
+        25,
+        15
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1339.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/1339.png"
+    },
+    "flags": {
+        "global": 1
+    },
+    "drop": [
+        {
+            "type": "Coliseum",
+            "name": "Coliseum",
+            "thumb": 779,
+            "data": [
+                "Chaos"
+            ]
+        },
+        {
+            "type": "Coliseum",
+            "name": "Coliseum",
+            "thumb": 779,
+            "data": [
+                "Underground"
+            ]
+        },
+        {
+            "type": "Coliseum",
+            "name": "Coliseum",
+            "thumb": 779,
+            "data": [
+                "Exhibition"
+            ]
+        }
+    ],
+    "manual": []
 }

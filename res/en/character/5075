@@ -1,0 +1,181 @@
+{
+  "name": "[Dual Unit] Sanji, The Rebirth of the Strawhat Pirates Peerless Duo",
+  "detail": {
+    "captain": "Boosts ATK of Slasher and Fighter characters by 2.75x, recovers 2x character's RCV in HP at the end of each turn and makes [QCK] orbs beneficial for Slasher and Fighter characters.",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK of Slasher and Fighter characters by 100",
+      "level2": "Makes [RCV] and [TND] orbs beneficial for Slasher and Fighter characters"
+    },
+    "special": "Deals 100x character's ATK in Typeless damage to all enemies, and becomes Zoro & Sanji for 3 turns. If HP is above 99% at the time the special is activated, boosts ATK of Slasher and Fighter characters by 2.75x for 1 turn, by 2x for 2 turns otherwise.",
+    "swap": "When Change is activated, this character removes all Slot Bind on themselves and changes their own orb into a Matching orb",
+    "specialName": "Three Sword and Twin Black Leg Style - Pound Shoot",
+    "limit": [
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK of Slasher and Fighter characters by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 250"
+      },
+      {
+        "description": "Boosts base HP by 350"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [RCV] and [TND] orbs beneficial for Slasher and Fighter characters"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base HP by 400"
+      },
+      {
+        "description": "Boosts base RCV by 100"
+      },
+      {
+        "description": "Boosts base ATK by 150"
+      },
+      {
+        "description": "Boosts base ATK by 200"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base HP by 420"
+      },
+      {
+        "description": "Boosts base HP by 500"
+      },
+      {
+        "description": "Boosts base ATK by 250"
+      },
+      {
+        "description": "Acquire Potential 3: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 60% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 70% chance to deal 7% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 3 turn",
+          "Level 3: Reduces No Healing duration by 5 turn",
+          "Level 4: Reduces No Healing duration by 7 turns",
+          "Level 5: Reduces No Healing duration by 10 turns"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "サンジ 新生・麦わらの一味の双璧",
+    "",
+    "Sanji&Zoro",
+    "Sanji & Zoro",
+    "Sanji and Zoro",
+    "Sanji Zoro",
+    "SanjiZoro",
+    "Zoro&Sanji",
+    "Zoro and Sanji",
+    "Zoro Sanji",
+    "ZoroSanji",
+    "Bond Sanji",
+    "Bond Zoro",
+    "Zanji"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 60,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 980,
+    "minATK": 197,
+    "minRCV": 23,
+    "maxHP": 1980,
+    "maxATK": 801,
+    "maxRCV": 40,
+    "ability": 1
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5075.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5075.png"
+  },
+  "drop": [],
+  "manual": []
+}

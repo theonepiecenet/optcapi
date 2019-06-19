@@ -1,0 +1,89 @@
+{
+    "name": "루치&카쿠, Masters of Techniques that Exceeds Humanity",
+    "detail": {
+        "captain": {
+            "character1": "Boosts ATK of Powerhouse characters by 2.75x if they have a Matching orb, by 2.25x otherwise. Reduces RCV of all characters by 50%.",
+            "character2": "Boosts ATK of Powerhouse characters by 2.25x and boosts damage of Powerhouse Typed specials by 1.2x.",
+            "combined": "Boosts ATK of Powerhouse characters by 3x if they have a Matching orb, by 2.5x otherwise and boosts damage of Powerhouse Typed specials by 1.5x."
+        },
+        "sailor": {
+            "character1": "Boosts base ATK and HP of Powerhouse and Fighter characters by 30",
+            "character2": "Boosts base ATK and HP of Powerhouse and Slasher characters by 30",
+            "combined": "Boosts base ATK and HP of Powerhouse, Fighter and Slasher characters by 50"
+        },
+        "special": "Deals 50x character's ATK in character's Type damage to all enemies and becomes Lucci & Kaku for 2 turns. If your Captain is a Powerhouse, Fighter or Slasher character, boosts ATK of Powerhouse, Fighter and Slasher characters by 2x for 1 turn.",
+        "swap": "When Change is activated, makes [TND] orbs beneficial for Powerhouse, Fighter or Slasher characters for 1 turn and adds 0.3x to Chain multiplier for 1 turn.",
+        "specialName": "Tempest Kick - Twin Beasts"
+    },
+    "aliases": [
+        "ルッチ＆カク 人界を超える技の使い手達",
+        "",
+        "Lucci&Kaku",
+        "Lucci & Kaku",
+        "Lucci and Kaku",
+        "Lucci Kaku",
+        "LucciKaku",
+        "Kaku&Lucci",
+        "Kaku and Lucci",
+        "Kaku Lucci",
+        "KakuLucci"
+    ],
+    "unit": {
+        "type": [
+            "STR",
+            "DEX"
+        ],
+        "class": [
+            [
+                "Powerhouse",
+                "Fighter"
+            ],
+            [
+                "Powerhouse",
+                "Slasher"
+            ],
+            [
+                "Powerhouse",
+                "Slasher"
+            ]
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 4,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "minHP": 519,
+        "minATK": 272,
+        "minRCV": 54,
+        "maxHP": 1298,
+        "maxATK": 680,
+        "maxRCV": 136,
+        "ability": 1
+    },
+    "cooldown": [
+        18,
+        12
+    ],
+    "evolution": {
+        "evolution": 2538,
+        "evolvers": [
+            84,
+            86,
+            266,
+            300,
+            302
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2537.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2537.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

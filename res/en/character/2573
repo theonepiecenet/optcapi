@@ -1,0 +1,53 @@
+{
+  "name": "Donquixote Homing, Former Celestial Dragon",
+  "detail": {
+    "captain": "Boosts chain multiplier by 1.5x.",
+    "special": "Recovers 3,000 HP and reduces damage received by 50% for 1 turn.",
+    "specialName": "Human Declaration"
+  },
+  "aliases": [
+    "ドンキホーテ・ホーミング聖 元天竜人",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": 6,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "minHP": 429,
+    "minATK": 316,
+    "minRCV": 79,
+    "maxHP": 1072,
+    "maxATK": 790,
+    "maxRCV": 198,
+    "ability": 1
+  },
+  "cooldown": [
+    18,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2573.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2573.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Hell's Past! Young Doflamingo Fortnight",
+      "thumb": 2571,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

@@ -1,0 +1,83 @@
+{
+    "name": "이누아라시&네코마무시",
+    "detail": {
+        "captain": {
+            "character1": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain and makes [STR] orbs beneficial for Cerebral and Striker characters.",
+            "character2": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain and makes [PSY] orbs beneficial for Cerebral and Striker characters.",
+            "combined": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3.5x and 4x based on the timing of the attack of the previous unit in the chain, makes [STR] and [PSY] orbs beneficial for Cerebral and Striker characters and recovers 1.5x their RCV at the end of the turn each time you hit a PERFECT."
+        },
+        "sailor": {
+            "character1": "Boosts own base ATK by 150 if this character is the last in the chain to attack",
+            "character2": "Boosts own base ATK by 150 if this character is the last in the chain to attack",
+            "combined": "Boosts own base ATK by 250 if this character is the last in the chain to attack"
+        },
+        "special": "Boosts ATK of Cerebral and Striker characters by 1.75x for 1 turn and boosts the Color Affinity of Cerebral and Striker characters by 1.75x for 1 turn, and becomes Inuarashi & Nekomamushi for 3 turns. If during that turn, you hit 2 PERFECTS, amplifies the effect of orbs for Cerebral and Striker characters by 2.25x for 1 turn.",
+        "swap": "When Change is activated, this character removes all Despair and Slot Bind on themselves and reduces Paralysis duration by 1 turn.",
+        "specialName": "Two-King Onslaught"
+    },
+    "aliases": [
+        "",
+        "",
+        "Inuarashi&Nekomamushi",
+        "Inuarashi & Nekomamushi",
+        "Inuarashi and Nekomamushi",
+        "Inuarashi Nekomamushi",
+        "InuarashiNekomamushi",
+        "Nekomamushi&Inuarashi",
+        "Nekomamushi and Inuarashi",
+        "Nekomamushi Inuarashi",
+        "NekomamushiInuarashi",
+        "Dogstorm",
+        "Cat Viper"
+    ],
+    "unit": {
+        "type": [
+            "STR",
+            "PSY"
+        ],
+        "class": [
+            [
+                "Slasher",
+                "Cerebral"
+            ],
+            [
+                "Striker",
+                "Powerhouse"
+            ],
+            [
+                "Striker",
+                "Cerebral"
+            ]
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": null,
+        "slots": 3,
+        "level": 70,
+        "exp": 1066998,
+        "minHP": null,
+        "minATK": null,
+        "minRCV": null,
+        "maxHP": null,
+        "maxATK": null,
+        "maxRCV": null,
+        "ability": null
+    },
+    "cooldown": 22,
+    "evolution": {
+        "evolution": 2577,
+        "evolvers": []
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2576.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2576.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
+}

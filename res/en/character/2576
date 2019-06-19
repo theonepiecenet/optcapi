@@ -1,11 +1,12 @@
 {
-  "name": "Inuarashi & Nekomamushi",
+  "name": "Inuarashi & Nekomamushi, Clashing Kings",
   "detail": {
     "captain": {
-      "character1": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain and makes [STR] orbs beneficial for Cerebral and Striker characters.",
-      "character2": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain and makes [PSY] orbs beneficial for Cerebral and Striker characters.",
+      "character1": "Boosts ATK of Cerebral characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain, Boosts ATK of Striker characters by 3x and makes [STR] orbs beneficial for Cerebral and Striker characters.",
+      "character2": "Boosts ATK of Striker characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain, Boosts ATK of Cerebral characters by 3x and makes [PSY] orbs beneficial for Cerebral and Striker characters.",
       "combined": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3.5x and 4x based on the timing of the attack of the previous unit in the chain, makes [STR] and [PSY] orbs beneficial for Cerebral and Striker characters and recovers 1.5x their RCV at the end of the turn each time you hit a PERFECT."
     },
+    "captainNotes": "#{beneficial}",
     "sailor": {
       "character1": "Boosts own base ATK by 150 if this character is the last in the chain to attack",
       "character2": "Boosts own base ATK by 150 if this character is the last in the chain to attack",
@@ -16,7 +17,7 @@
     "specialName": "Two-King Onslaught"
   },
   "aliases": [
-    "",
+    "イヌアラシ＆ネコマムシ 克ち合う二人の王",
     "",
     "Inuarashi&Nekomamushi",
     "Inuarashi & Nekomamushi",
@@ -51,22 +52,31 @@
     ],
     "stars": 5,
     "cost": 30,
-    "combo": null,
+    "combo": 6,
     "slots": 3,
     "level": 70,
     "exp": 1066998,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 798,
+    "minATK": 365,
+    "minRCV": 89,
+    "maxHP": 1995,
+    "maxATK": 913,
+    "maxRCV": 222,
+    "ability": 1
   },
-  "cooldown": 22,
+  "cooldown": [
+    22,
+    17
+  ],
   "evolution": {
     "evolution": 2577,
-    "evolvers": []
+    "evolvers": [
+      118,
+      300,
+      303,
+      1180,
+      267
+    ]
   },
   "evolve": [],
   "image": {

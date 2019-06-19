@@ -1,0 +1,134 @@
+{
+  "name": "Sanji, Diable Jambe Knight",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Powerhouse characters by 2.75x if HP is below 50% at the start of the turn, 2.5x otherwise",
+    "special": "Changes adjacent orbs into [RCV] orbs. If HP is below 30% at the time the special is activated, amplifies the effects of orbs for all characters by 2x for 2 turns, amplifies the effects of orbs for Fighter, Slasher and Powerhouse characters by 1.75x for 2 turns otherwise.",
+    "specialName": "Free-Legged Sword Stance",
+    "sailor": {
+      "base": "Makes [RCV] orbs beneficial for Fighter, Slasher and Powerhouse characters",
+      "level1": "Restores his own special cooldown by 2 turns when it is rewinded"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Restores his own special cooldown by 2 turns when it is rewinded"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Potential 2: No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 125",
+          "Level 5: Boosts base ATK by 150"
+        ]
+      },
+      {
+        "Name": "No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turn",
+          "Level 5: Reduces No Healing duration by 5 turn"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  },
+  "aliases": [
+    "サンジ 悪魔風脚の騎士（ディアブルジャンブ）",
+    "",
+    "World Journey Sanji",
+    "Musketeer Sanji"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 1300,
+    "minATK": 749,
+    "minRCV": 175,
+    "maxHP": 2431,
+    "maxATK": 1376,
+    "maxRCV": 324,
+    "ability": 1
+  },
+  "cooldown": [
+    14,
+    14
+  ],
+  "evolve": {
+    "evolution": 2585,
+    "evolvers": [
+      118,
+      84,
+      95,
+      300,
+      100
+    ],
+    "from": 2584
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2585.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2585.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

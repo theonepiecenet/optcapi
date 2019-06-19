@@ -1,0 +1,51 @@
+{
+    "name": "[Dual Unit] 도플라밍고&트레볼, Creators of the Feigned Peace",
+    "detail": {
+        "captain": "Boosts ATK of Driven and Cerebral characters by 2.75x and their HP and RCV by 1.2x and makes [RCV] and [TND] orbs beneficial for Driven and Cerebral characters.",
+        "sailor": "Boosts base ATK, HP and RCV of Driven and Cerebral characters by 50",
+        "special": "Switches orbs between slots twice, locks all orbs for 1 turn, locks the chain multiplier at 2.75x for 1 turn and becomes Doflamingo & Trebol for 2 turns. If during that turn, you hit 4 PERFECTS, locks the chain multiplier at 3.25x for 1 turn.",
+        "swap": "When Change is activated, makes [STR] and [DEX] orbs beneficial for all characters for 1 turn and changes their own orb into a Matching orb.",
+        "specialName": "Punishment by Means of \"Evil\""
+    },
+    "aliases": [
+        "ドフラミンゴ＆トレーボル 見せかけの平和を築く者達",
+        "",
+        "Doflamingo&Trebol",
+        "Doflamingo & Trebol",
+        "Doflamingo and Trebol",
+        "Doflamingo Trebol",
+        "DoflamingoTrebol",
+        "Trebol&Doflamingo",
+        "Trebol and Doflamingo",
+        "Trebol Doflamingo",
+        "TrebolDoflamingo",
+        "Doffy"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Driven",
+            "Cerebral"
+        ],
+        "stars": 4,
+        "cost": 25,
+        "combo": 4,
+        "slots": 3,
+        "level": 70,
+        "exp": 1066998,
+        "minHP": 961,
+        "minATK": 565,
+        "minRCV": 52,
+        "maxHP": 1566,
+        "maxATK": 990,
+        "maxRCV": 136,
+        "ability": 1
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5130.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5130.png"
+    },
+    "drop": [],
+    "manual": []
+}

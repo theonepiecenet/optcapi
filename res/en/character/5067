@@ -1,0 +1,52 @@
+{
+  "name": "[Dual Unit] Hannyabal, Impel Down Guardians",
+  "detail": {
+    "captain": "Boosts ATK of [QCK] characters by ?x, boosts ATK of [INT] characters by 2x and makes [INT] orbs beneficial for all characters",
+    "captainNotes": "#{beneficial}",
+    "special": "Poisons all enemies, randomizes all orbs into either [QCK] or [INT] orbs and becomes Magellan & Hannyabal for 2 turns. If your captain is a [QCK] or [INT] character, boosts the Color Affinity of [QCK] and [INT] characters by 2x for 1 turn.",
+    "swap": "When Change is activated, reduces Poison duration by 5 turns and changes their own orb into a Matching orb",
+    "specialName": "Posion Rush",
+    "sailor": "Boosts base ATK, HP and RCV of [INT] characters by 25"
+  },
+  "aliases": [
+    "ハンニャバル インペルダウンの守護者達",
+    "",
+    "Magellan&Hannyabal",
+    "Magellan and Hannyabal",
+    "Magellan Hannyabal",
+    "MagellanHannyabal",
+    "Hannyabal&Magellan",
+    "Hannyabal and Magellan",
+    "Hannyabal Magellan",
+    "HannyabalMagellan",
+    "Raid Magellan",
+    "Raid Hannyabal"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 5,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 290,
+    "minATK": 238,
+    "minRCV": 35,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5067.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5067.png"
+  },
+  "drop": [],
+  "manual": []
+}

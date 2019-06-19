@@ -1,0 +1,123 @@
+{
+    "name": "[Dual Unit] 빨간 머리 샹크스, 세계를 견인하는 양대 검사",
+    "detail": {
+        "captain": "Boosts ATK of Slasher characters by 2.25x and reduces damage received by 10%",
+        "captainNotes": "#{beneficial}",
+        "special": "Reduces Bind, Silence and ATK DOWN duration by 2 turns. If HP is below 50% at the time the special is activated, delays all enemies for 2 turns and boosts ATK against delayed enemies by 1.75x for 2 turns and becomes Shanks & Mihawk for 2 turns",
+        "swap": "When Change is activated, boosts chances of getting [QCK], [INT] and [RCV] orbs for 1 turn and randomizes all non-Matching orbs",
+        "specialName": "A Feast for the New Age",
+        "sailor": {
+            "base": "Boosts base ATK of [QCK] characters by 50",
+            "level1": "Reduces Silence duration on this character by 3 turns"
+        },
+        "limit": [
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 10"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Acquire Potential 1: [STR] Damage Reduction"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 3 turns"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base HP by 70"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base ATK by 60"
+            },
+            {
+                "description": "Acquire Potential 2: Critical Hit"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[STR] Damage Reduction",
+                "description": [
+                    "Level 1: Reduce damage taken from [STR] characters by 1%",
+                    "Level 2: Reduce damage taken from [STR] characters by 2%",
+                    "Level 3: Reduce damage taken from [STR] characters by 3%",
+                    "Level 4: Reduce damage taken from [STR] characters by 4%",
+                    "Level 5: Reduce damage taken from [STR] characters by 5%"
+                ]
+            },
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 30% chance to deal 4% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 50% chance to deal 6% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 60% chance to deal 7% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 70% chance to deal 8% of this character's attack in extra damage"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        "Shanks&Mihawk",
+        "Shanks and Mihawk",
+        "Shanks Mihawk",
+        "ShanksMihawk",
+        "Mihawk&Shanks",
+        "Mihawk and Shanks",
+        "Mihawk Shanks",
+        "MihawkShanks",
+        "Mishanks"
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Slasher",
+            "Free Spirit"
+        ],
+        "stars": 5,
+        "cost": 50,
+        "combo": 5,
+        "slots": 3,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": 920,
+        "minATK": 551,
+        "minRCV": 142,
+        "maxHP": 2396,
+        "maxATK": 1206,
+        "maxRCV": 291,
+        "ability": 1
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5048.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5048.png"
+    },
+    "drop": [],
+    "manual": []
+}

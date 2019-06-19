@@ -1,144 +1,145 @@
 {
-  "name": "루피&에이스, 높은 곳에 있는 해적",
-  "detail": {
-    "specialName": "의형제의 연",
-    "special": "적 전체에 캐릭터의 공격력x75배의 무 속성 데미지를 주며, 1턴 동안 일당의 슬롯의 영향을 2배로 만들고, 자유형 캐릭터의 속성 슬롯을 속성 일치 슬롯으로 바꾸며, 3턴 동안 ‘루피&에이스’가 된다",
-    "captain": {
-      "character1": "자유형 캐릭터의 공격력을 3배, 체력을 1.2배로 만들고, 받는 데미지를 15% 감소시킨다",
-      "character2": "자유형 캐릭터의 체력을 1.2배, 공격력을 평상시 2.25배, 슬롯 일치 시 약 3.5배로 만든다",
-      "combined": "자유형 캐릭터의 체력을 1.2배, 공격력을 평상시 3배, 슬롯 일치 시 약 4.25배로 만들고, 받는 데미지를 20% 감소시킨다."
-    },
-    "sailor": {
-      "character1": "자유형 캐릭터는 [QCK] 슬롯도 [유리] 슬롯으로 취급한다",
-      "character2": "자유형 캐릭터는 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
-      "combined": "자유형 캐릭터의 기본 능력치가 150 상승한다",
-      "level1": "자신은 [RCV][TND] 슬롯도 [유리] 슬롯으로 취급한다"
-    },
-    "potential": [
-      {
-        "Name": "[STR]데미지 피해 감소",
-        "description": [
-          "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [STR] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [STR] 속성에게 받는 데미지를 7% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "[DEX]데미지 피해 감소",
-        "description": [
-          "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
-          "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
-          "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
-          "Level 4: [DEX] 속성에게 받는 데미지를 5% 감소시킨다",
-          "Level 5: [DEX] 속성에게 받는 데미지를 7% 감소시킨다"
-        ]
-      },
-      {
-        "Name": "긴급 회복",
-        "description": [
-          "Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
-          "Level 2: 전투 시작 시 체력이 15% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
-          "Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
-          "Level 4: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다.",
-          "Level 5: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다."
-        ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "공격력 상승 : 10"
-      },
-      {
-        "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "공격력 상승 : 25"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 25"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 40"
-      },
-      {
-        "description": "체력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 45"
-      },
-      {
-        "description": "잠재능력 습득 2: [DEX] 데미지 피해 감소"
-      },
-      {
-        "description": "체력 상승 : 45"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 30"
-      },
-      {
-        "description": "체력 상승 : 20"
-      },
-      {
-        "description": "공격력 상승 : 35"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 50"
-      },
-      {
-        "description": "필살기 턴 단축 : 1턴"
-      },
-      {
-        "description": "체력 상승 : 65"
-      },
-      {
-        "description": "회복력 상승 : 20"
-      },
-      {
-        "description": "체력 상승 : 65"
-      },
-      {
-        "description": "선원 효과 추가 1: Makes [TND] and [RCV] orbs “beneficial” for Free Spirit characters"
-      },
-      {
-        "description": "체력 상승 : 85"
-      },
-      {
-        "description": "공격력 상승 : 40"
-      },
-      {
-        "description": "잠재능력 습득 3: 긴급 회복"
-      }
-    ],
-    "specialNotes": "Change Action: When Change is activated, this character removes all Despair, Paralysis, and Slot Bind on themselves and changes their own orb, including [BLOCK] orbs, into a Matching orb",
-    "sailorNotes": "#{beneficial}"
-  }
+    "name": "루피&에이스, 높은 곳에 있는 해적",
+    "detail": {
+        "specialName": "의형제의 연",
+        "special": "적 전체에 캐릭터의 공격력x75배의 무 속성 데미지를 주며, 1턴 동안 일당의 슬롯의 영향을 2배로 만들고, 자유형 캐릭터의 속성 슬롯을 속성 일치 슬롯으로 바꾸며, 3턴 동안 ‘루피&에이스’가 된다",
+        "captain": {
+            "character1": "자유형 캐릭터의 공격력을 3배, 체력을 1.2배로 만들고, 받는 데미지를 15% 감소시킨다",
+            "character2": "자유형 캐릭터의 체력을 1.2배, 공격력을 평상시 2.25배, 슬롯 일치 시 약 3.5배로 만든다",
+            "combined": "자유형 캐릭터의 체력을 1.2배, 공격력을 평상시 3배, 슬롯 일치 시 약 4.25배로 만들고, 받는 데미지를 20% 감소시킨다."
+        },
+        "sailor": {
+            "character1": "자유형 캐릭터는 [QCK] 슬롯도 [유리] 슬롯으로 취급한다",
+            "character2": "자유형 캐릭터는 [STR] 슬롯도 [유리] 슬롯으로 취급한다",
+            "combined": "자유형 캐릭터의 기본 능력치가 150 상승한다",
+            "level1": "자신은 [RCV][TND] 슬롯도 [유리] 슬롯으로 취급한다"
+        },
+        "potential": [
+            {
+                "Name": "[STR]데미지 피해 감소",
+                "description": [
+                    "Level 1: [STR] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [STR] 속성에게 받는 데미지를 2% 감소시킨다",
+                    "Level 3: [STR] 속성에게 받는 데미지를 3% 감소시킨다",
+                    "Level 4: [STR] 속성에게 받는 데미지를 5% 감소시킨다",
+                    "Level 5: [STR] 속성에게 받는 데미지를 7% 감소시킨다"
+                ]
+            },
+            {
+                "Name": "[DEX]데미지 피해 감소",
+                "description": [
+                    "Level 1: [DEX] 속성에게 받는 데미지를 1% 감소시킨다",
+                    "Level 2: [DEX] 속성에게 받는 데미지를 2% 감소시킨다",
+                    "Level 3: [DEX] 속성에게 받는 데미지를 3% 감소시킨다",
+                    "Level 4: [DEX] 속성에게 받는 데미지를 5% 감소시킨다",
+                    "Level 5: [DEX] 속성에게 받는 데미지를 7% 감소시킨다"
+                ]
+            },
+            {
+                "Name": "긴급 회복",
+                "description": [
+                    "Level 1: 전투 시작 시 체력이 10% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+                    "Level 2: 전투 시작 시 체력이 15% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+                    "Level 3: 전투 시작 시 체력이 20% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1배 만큼 체력을 회복한다.",
+                    "Level 4: 전투 시작 시 체력이 30% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다.",
+                    "Level 5: 전투 시작 시 체력이 50% 미만이면, 턴 종료시 PERFECT 적중 할때마다 캐릭터 회복력의 1.5배 만큼 체력을 회복한다."
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "공격력 상승 : 10"
+            },
+            {
+                "description": "잠재능력 습득 1: [STR] 데미지 피해 감소"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "공격력 상승 : 25"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 25"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 40"
+            },
+            {
+                "description": "체력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 45"
+            },
+            {
+                "description": "잠재능력 습득 2: [DEX] 데미지 피해 감소"
+            },
+            {
+                "description": "체력 상승 : 45"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 30"
+            },
+            {
+                "description": "체력 상승 : 20"
+            },
+            {
+                "description": "공격력 상승 : 35"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 50"
+            },
+            {
+                "description": "필살기 턴 단축 : 1턴"
+            },
+            {
+                "description": "체력 상승 : 65"
+            },
+            {
+                "description": "회복력 상승 : 20"
+            },
+            {
+                "description": "체력 상승 : 65"
+            },
+            {
+                "description": "선원 효과 추가 1: Makes [TND] and [RCV] orbs “beneficial” for Free Spirit characters"
+            },
+            {
+                "description": "체력 상승 : 85"
+            },
+            {
+                "description": "공격력 상승 : 40"
+            },
+            {
+                "description": "잠재능력 습득 3: 긴급 회복"
+            }
+        ],
+        "specialNotes": "Change Action: When Change is activated, this character removes all Despair, Paralysis, and Slot Bind on themselves and changes their own orb, including [BLOCK] orbs, into a Matching orb",
+        "sailorNotes": "#{beneficial}",
+        "swap": "When Change is activated, this character removes all Despair, Paralysis and Slot Bind on themselves and changes their own orb, including [BLOCK] orbs, into a Matching orb"
+    }
 }

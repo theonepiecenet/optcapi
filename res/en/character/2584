@@ -1,0 +1,61 @@
+{
+  "name": "Sanji, North Blue Knight",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Powerhouse characters by 2.75x if HP is below 50% at the start of the turn, 2.5x otherwise",
+    "special": "Changes adjacent orbs into [RCV] orbs. If HP is below 30% at the time the special is activated, amplifies the effects of orbs for all characters by 2x for 2 turns, amplifies the effects of orbs for Fighter, Slasher and Powerhouse characters by 1.75x for 2 turns otherwise.",
+    "specialName": "Free-Legged Sword Stance",
+    "sailor": "Makes [RCV] orbs beneficial for Fighter, Slasher and Powerhouse characters"
+  },
+  "aliases": [
+    "サンジ 北の海の騎士（ノースブルー）",
+    "",
+    "World Journey Sanji",
+    "Musketeer Sanji"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 712,
+    "minATK": 401,
+    "minRCV": 89,
+    "maxHP": 1422,
+    "maxATK": 766,
+    "maxRCV": 189,
+    "ability": 1
+  },
+  "cooldown": [
+    14,
+    14
+  ],
+  "evolution": {
+    "evolution": 2585,
+    "evolvers": [
+      118,
+      84,
+      95,
+      300,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2584.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2584.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

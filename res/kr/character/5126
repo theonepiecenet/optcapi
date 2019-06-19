@@ -1,0 +1,131 @@
+{
+    "name": "[Dual Unit] Mr.0&미스 올 선데이, Desert Rulers",
+    "detail": {
+        "captain": "Boosts ATK of Cerebral characters by 3x, reduce damage received by 20% and makes [DEX] orbs beneficial for Cerebral characters.",
+        "sailor": {
+            "base": "Boosts base ATK, HP and RCV of Cerebral characters by 50",
+            "level1": "Makes [DEX] orbs beneficial for Cerebral characters"
+        },
+        "special": "Reduces damage received by 80% for 1 turn, boosts the Color Affinity of all characters by 1.75x for 1 turn and becomes Mr. 0 & Miss All Sunday for 2 turns.",
+        "swap": "When Change is activated, slightly boosts chances of getting Matching orbs for 1 turn.",
+        "specialName": "Disorderly Bloom: Pesado",
+        "limit": [
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Acquire Potential 1: Barrier Penetration"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Boosts base HP by 100"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [DEX] orbs beneficial for Cerebral characters"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Acquire Potential 2: Pinch Healing"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+                ]
+            },
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 25% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "Mr.0＆ミス・オールサンデー 砂漠の支配者達",
+        "",
+        "Mr. 0&Miss All Sunday",
+        "Mr. 0 & Miss All Sunday",
+        "Mr. 0 and Miss All Sunday",
+        "Mr. 0 Miss All Sunday",
+        "Mr. 0Miss All Sunday",
+        "Miss All Sunday&Mr. 0",
+        "Miss All Sunday and Mr. 0",
+        "Miss All Sunday Mr. 0",
+        "Miss All SundayMr. 0",
+        "Crocodile&Robin",
+        "Crocodile & Robin",
+        "Crocodile and Robin",
+        "Crocodile Robin",
+        "CrocodileRobin",
+        "Robin&Crocodile",
+        "Robin and Crocodile",
+        "Robin Crocodile",
+        "RobinCrocodile"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Cerebral",
+            "Striker"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 6,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1089,
+        "minATK": 572,
+        "minRCV": 138,
+        "maxHP": 2723,
+        "maxATK": 1431,
+        "maxRCV": 345,
+        "ability": 1
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5126.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5126.png"
+    },
+    "drop": [],
+    "manual": []
+}

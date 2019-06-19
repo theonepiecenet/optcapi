@@ -31,7 +31,9 @@
   "aliases": [
     "トニートニー・チョッパー 飛力強化（ジャンピングポイント）",
     "",
+    "Colo Chopper",
     "Coliseum Chopper",
+    "Colo Tony Tony Chopper",
     "Coliseum Tony Tony Chopper"
   ],
   "unit": {
@@ -69,28 +71,25 @@
   "drop": [
     {
       "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
+      "name": "Human-Reindeer Sky Battle",
+      "thumb": 1339,
       "data": [
-        "Chaos"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
+        "Chaos",
+        "Exebition",
         "Underground"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
-        "Exhibition"
       ]
     }
   ],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Human-Reindeer Sky Battle",
+      "thumb": 1339,
+      "data": [
+        "Chaos",
+        "Exebition",
+        "Underground"
+      ]
+    }
+  ]
 }

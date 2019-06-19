@@ -1,0 +1,57 @@
+{
+  "name": "[Dual Unit] Cavendish, Bickering Rebels",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 3.25x, but boosts his OWN attack by 3.75x",
+    "special": "Deals 75x the character's ATK as Typeless damage to all enemies, reduces any damage received above 5,000 HP by ?% for 1 turn, boosts ATK of Driven characters by 2.25x for 1 turn and becomes Bartolomeo & Cavendish for 3 turns",
+    "swap": "When Change is activated, amplifies the effect of own orb by 1.5x for 1 turn, reduces damage received by 25% for 1 turn, recovers 5% of crew's MAX HP and changes their own orb into a Matching orb.",
+    "specialName": "Beautiful Sword Barrier Barrage",
+    "sailor": "Boosts base ATK of Driven characters by 50"
+  },
+  "aliases": [
+    "キャベンディッシュ いがみ合う反逆者たち",
+    "",
+    "Bartolomeo&Cavendish",
+    "Bartolomeo and Cavendish",
+    "Bartolomeo Cavendish",
+    "BartolomeoCavendish",
+    "Cavendish&Bartolomeo",
+    "Cavendish and Bartolomeo",
+    "Cavendish Bartolomeo",
+    "CavendishBartolomeo",
+    "Barto",
+    "Cabbage",
+    "Baggage",
+    "Cabarto",
+    "Bartendish",
+    "B/C",
+    "Bartocabbage",
+    "Bartocav"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Driven",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 327,
+    "minATK": 271,
+    "minRCV": 56,
+    "maxHP": 1598,
+    "maxATK": 801,
+    "maxRCV": 188,
+    "ability": 1
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5037.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5037.png"
+  },
+  "drop": [],
+  "manual": []
+}

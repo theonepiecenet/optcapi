@@ -1,0 +1,51 @@
+{
+  "name": "[Dual Unit] Smoothie & Oven, The Duo that will Defend the Tea Party",
+  "detail": {
+    "captain": "Boosts ATK of [QCK], [PSY] and [INT] characters by 2.5x and recovers 1x character's RCV in HP at the end of each turn.",
+    "special": "Boosts chances of getting [QCK] and [PSY] orbs for 2 turns, randomizes all orbs, amplifies the effect of orbs on [QCK], [PSY] and [INT] characters by 2x for 2 turns and becomes Smoothie & Oven for 2 turns",
+    "swap": "When Change is activated, makes [QCK] and [PSY] orbs beneficial for [QCK], [PSY] and [INT] characters for 1 turn and deals 20x character's ATK in character's Type damage to all enemies at the end of the turn for 1 turn.",
+    "specialName": "Brother and Sister Chasing Intruders",
+    "sailor": "Boosts base ATK, HP and RCV of [QCK], [PSY] and [INT] characters by 50"
+  },
+  "aliases": [
+    "スムージー＆オーブン お茶会を守りし者達",
+    "",
+    "Smoothie&Oven",
+    "Smoothie and Oven",
+    "Smoothie Oven",
+    "SmoothieOven",
+    "Oven&Smoothie",
+    "Oven and Smoothie",
+    "Oven Smoothie",
+    "OvenSmoothie",
+    "TM Smoothie",
+    "TM Oven"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Powerhouse",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "minHP": 882,
+    "minATK": 452,
+    "minRCV": 120,
+    "maxHP": 1512,
+    "maxATK": 933,
+    "maxRCV": 244,
+    "ability": 1
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5061.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5061.png"
+  },
+  "drop": [],
+  "manual": []
+}

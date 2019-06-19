@@ -24,6 +24,7 @@
   "aliases": [
     "ドルトン ドラム島民間護衛団団長",
     "",
+    "Colo Dalton",
     "Coliseum Dalton"
   ],
   "unit": {
@@ -61,20 +62,23 @@
   "drop": [
     {
       "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
+      "name": "Drum Island Civilian Guard",
+      "thumb": 1402,
       "data": [
+        "Exebition",
         "Underground"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
-        "Exhibition"
       ]
     }
   ],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Drum Island Civilian Guard",
+      "thumb": 1402,
+      "data": [
+        "Exebition",
+        "Underground"
+      ]
+    }
+  ]
 }

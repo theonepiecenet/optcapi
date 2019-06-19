@@ -1,0 +1,52 @@
+{
+  "name": "[Dual Unit] Law, The Outlaws Destroying the Feigned Peace",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 3x, their HP by 1.25x and recovers 0.5x his RCV at the end of the turn each time you hit a PERFECT.",
+    "sailor": "Boosts base HP of all characters by 50",
+    "special": "Deals 75x character's ATK in Typeless damage to all enemies that will ignore damage negating abilities and barriers, makes [DEX] and [QCK] orbs beneficial for all characters for 1 turn, amplifies the effect of orbs by 2.5x for 1 turn and becomes Luffy & Law for 3 turns.",
+    "swap": "When Change is activated, this character removes all Slot Bind on themselves and changes their own orb, including [BLOCK] orbs, into a Matching orb, boosts own ATK by 2x for 1 turn and makes own normal attacks ignore defensive barriers and buffs.",
+    "specialName": "The Ultimate Stratagem to Defeat God"
+  },
+  "aliases": [
+    "ロー 見せかけの平和を壊してくれる“無法者”達",
+    "",
+    "Luffy&Law",
+    "Luffy and Law",
+    "Luffy Law",
+    "LuffyLaw",
+    "Law&Luffy",
+    "Law and Luffy",
+    "Law Luffy",
+    "LawLuffy",
+    "LL",
+    "Legend Luffy & Law",
+    "Legend Luffy and Law"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 592,
+    "minATK": 267,
+    "minRCV": 69,
+    "maxHP": 1480,
+    "maxATK": 667,
+    "maxRCV": 171,
+    "ability": 1
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5083.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5083.png"
+  },
+  "drop": [],
+  "manual": []
+}

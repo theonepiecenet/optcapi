@@ -1,0 +1,98 @@
+{
+    "name": "Mr.0&미스 올 선데이, Baroque Works Leaders",
+    "detail": {
+        "captain": {
+            "character1": "Boosts ATK of Cerebral characters by 2.5x and makes [DEX] orbs beneficial for Cerebral characters.",
+            "character2": "Boosts ATK of Cerebral characters by 2.25x and reduce damage received by 15%.",
+            "combined": "Boosts ATK of Cerebral characters by 3x, reduce damage received by 20% and makes [DEX] orbs beneficial for Cerebral characters."
+        },
+        "sailor": {
+            "character1": "Restores his own special cooldown by 2 turns when it is rewinded",
+            "character2": "Reduces Silence duration on this character by 2 turns",
+            "combined": "Boosts base ATK, HP and RCV of Cerebral characters by 50"
+        },
+        "special": "Reduces damage received by 80% for 1 turn, boosts the Color Affinity of all characters by 1.75x for 1 turn and becomes Mr. 0 & Miss All Sunday for 2 turns.",
+        "swap": "When Change is activated, slightly boosts chances of getting Matching orbs for 1 turn.",
+        "specialName": "Disorderly Bloom: Pesado"
+    },
+    "aliases": [
+        "Mr.0＆ミス・オールサンデー バロックワークスを率いる者達",
+        "",
+        "Mr. 0&Miss All Sunday",
+        "Mr. 0 & Miss All Sunday",
+        "Mr. 0 and Miss All Sunday",
+        "Mr. 0 Miss All Sunday",
+        "Mr. 0Miss All Sunday",
+        "Miss All Sunday&Mr. 0",
+        "Miss All Sunday and Mr. 0",
+        "Miss All Sunday Mr. 0",
+        "Miss All SundayMr. 0",
+        "Crocodile&Robin",
+        "Crocodile & Robin",
+        "Crocodile and Robin",
+        "Crocodile Robin",
+        "CrocodileRobin",
+        "Robin&Crocodile",
+        "Robin and Crocodile",
+        "Robin Crocodile",
+        "RobinCrocodile"
+    ],
+    "unit": {
+        "type": [
+            "DEX",
+            "INT"
+        ],
+        "class": [
+            [
+                "Cerebral",
+                "Slasher"
+            ],
+            [
+                "Cerebral",
+                "Slasher"
+            ],
+            [
+                "Cerebral",
+                "Striker"
+            ]
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 6,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "minHP": 490,
+        "minATK": 258,
+        "minRCV": 62,
+        "maxHP": 1225,
+        "maxATK": 644,
+        "maxRCV": 155,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        13
+    ],
+    "evolution": {
+        "evolution": 2544,
+        "evolvers": [
+            91,
+            93,
+            94,
+            102,
+            104
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2543.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2543.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

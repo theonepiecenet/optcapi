@@ -1,0 +1,181 @@
+{
+    "name": "[Dual Unit] 흰 수염&마르코, 정상전쟁의 격투",
+    "detail": {
+        "captain": "Boosts ATK of [PSY] and [INT] characters by 4.25x, boosts ATK of all other characters by 3x, boosts RCV of all characters by 1.5x, reduce damage received by 20% and makes [PSY] and [INT] orbs beneficial for all characters",
+        "special": "Cuts the current HP of each enemy by 30%, recovers 20,000 HP, randomizes all orbs into either [PSY], [INT] or [RCV] orbs and becomes Whitebeard & Marco for 3 turns",
+        "swap": "When Change is activated, reduces Paralysis and Silence duration by 1 turn, makes [RCV] orbs beneficial for all characters for 1 turn and changes their own orb into a [RCV] orb",
+        "swapNotes": "#{beneficial}",
+        "specialName": "Immortal Blue Flame Shockwave",
+        "sailor": {
+            "base": "Boosts base ATK, HP and RCV of [PSY] and [INT] characters by 100",
+            "level1": "Completely resists Paralysis and Silence on this character"
+        },
+        "limit": [
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Acquire Potential 1: [PSY] Damage Reduction"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base RCV by 5"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Acquire Potential 2: [INT] Damage Reduction"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base HP by 90"
+            },
+            {
+                "description": "Boosts base HP by 120"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Completely resists Paralysis and Silence on this character"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Acquire Potential 3: Slot Bind Self-reduction"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "[PSY] Damage Reduction",
+                "description": [
+                    "Level 1: Reduce damage taken from [PSY] characters by 1%",
+                    "Level 2: Reduce damage taken from [PSY] characters by 2%",
+                    "Level 3: Reduce damage taken from [PSY] characters by 3%",
+                    "Level 4: Reduce damage taken from [PSY] characters by 5%",
+                    "Level 5: Reduce damage taken from [PSY] characters by 7%"
+                ]
+            },
+            {
+                "Name": "[INT] Damage Reduction",
+                "description": [
+                    "Level 1: Reduce damage taken from [INT] characters by 1%",
+                    "Level 2: Reduce damage taken from [INT] characters by 2%",
+                    "Level 3: Reduce damage taken from [INT] characters by 3%",
+                    "Level 4: Reduce damage taken from [INT] characters by 5%",
+                    "Level 5: Reduce damage taken from [INT] characters by 7%"
+                ]
+            },
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 3 turn on this character",
+                    "Level 2: Reduces Slot Bind duration by 5 turn on this character",
+                    "Level 3: Reduces Slot Bind duration by 7 turn on this character",
+                    "Level 4: Reduces Slot Bind duration by 10 turn on this character",
+                    "Level 5: Reduces Slot Bind completely on this character"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "白ひげ＆マルコ 頂上戦争の激闘",
+        "",
+        "Whitebeard&Marco",
+        "Whitebeard and Marco",
+        "Whitebeard Marco",
+        "WhitebeardMarco",
+        "Marco&Whitebeard",
+        "Marco and Whitebeard",
+        "Marco Whitebeard",
+        "MarcoWhitebeard",
+        "WBM",
+        "Legend Whitebeard & Marco",
+        "Legend Whitebeard and Marco",
+        "Warco"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Striker",
+            "Powerhouse"
+        ],
+        "stars": 6,
+        "cost": 55,
+        "combo": 4,
+        "slots": 5,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": 1547,
+        "minATK": 801,
+        "minRCV": 213,
+        "maxHP": 3420,
+        "maxATK": 1634,
+        "maxRCV": 428,
+        "ability": 1
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5022.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5022.png"
+    },
+    "drop": [],
+    "manual": []
+}

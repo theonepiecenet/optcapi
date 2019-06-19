@@ -1,0 +1,60 @@
+{
+  "name": "[Dual Unit] Miss All Sunday, Baroque Works Leaders",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 2.25x and reduce damage received by 15%.",
+    "sailor": "Reduces Silence duration on this character by 2 turns",
+    "special": "Reduces damage received by 80% for 1 turn, boosts the Color Affinity of all characters by 1.75x for 1 turn and becomes Mr. 0 & Miss All Sunday for 2 turns.",
+    "swap": "When Change is activated, slightly boosts chances of getting Matching orbs for 1 turn.",
+    "specialName": "Disorderly Bloom: Pesado"
+  },
+  "aliases": [
+    "ミス・オールサンデー バロックワークスを率いる者達",
+    "",
+    "Mr. 0&Miss All Sunday",
+    "Mr. 0 & Miss All Sunday",
+    "Mr. 0 and Miss All Sunday",
+    "Mr. 0 Miss All Sunday",
+    "Mr. 0Miss All Sunday",
+    "Miss All Sunday&Mr. 0",
+    "Miss All Sunday and Mr. 0",
+    "Miss All Sunday Mr. 0",
+    "Miss All SundayMr. 0",
+    "Crocodile&Robin",
+    "Crocodile & Robin",
+    "Crocodile and Robin",
+    "Crocodile Robin",
+    "CrocodileRobin",
+    "Robin&Crocodile",
+    "Robin and Crocodile",
+    "Robin Crocodile",
+    "RobinCrocodile",
+    "Croc Robin"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Cerebral",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 361,
+    "minATK": 232,
+    "minRCV": 60,
+    "maxHP": 904,
+    "maxATK": 580,
+    "maxRCV": 149,
+    "ability": 1
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5121.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5121.png"
+  },
+  "drop": [],
+  "manual": []
+}
