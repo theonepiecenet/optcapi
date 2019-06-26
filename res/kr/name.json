@@ -30586,6 +30586,7 @@
             "",
             "V2 Shanks",
             "Legend Shanks",
+            "Shanks V2",
             "샹크스",
             " 용기에 응해준 사황"
         ]
@@ -30603,6 +30604,7 @@
             "",
             "V2 Shanks",
             "Legend Shanks",
+            "Shanks V2",
             "빨간 머리 샹크스",
             " 세계의 운명을 바꾼 사황"
         ]
@@ -32976,6 +32978,7 @@
             "",
             "V2 Sanji",
             "Legend Sanji",
+            "Sanji V2",
             "빈스모크 상디",
             " 제르마 왕국의 제물"
         ]
@@ -32993,6 +32996,7 @@
             "",
             "V2 Sanji",
             "Legend Sanji",
+            "Sanji V2",
             "빈스모크 상디",
             " 제르마 왕국의 구세주"
         ]
@@ -34965,6 +34969,9 @@
             "Legend Jimbe",
             "Legend Jinbei",
             "Legend Jimbei",
+            "Jimbe V2",
+            "Jinbe V2",
+            "Jimbei V2",
             "징베",
             " 태양 해적단 선장"
         ]
@@ -34988,6 +34995,9 @@
             "Legend Jimbe",
             "Legend Jinbei",
             "Legend Jimbei",
+            "Jimbe V2",
+            "Jinbe V2",
+            "Jimbei V2",
             "바다의 협객 징베",
             " 태양 해적단 선장"
         ]
@@ -37817,7 +37827,7 @@
             "Fighter"
         ],
         "aliases": [
-            "",
+            "ボア・ハンコック 麦わらのルフィの支援者",
             "",
             "Mega Boa Hancock",
             "Super Boa Hancock",
@@ -37922,6 +37932,7 @@
             "Korea Sabo",
             "V2 Sabo",
             "V3 Sabo",
+            "Sabo V2",
             "사보",
             " ‘밀짚모자 루피’의 형"
         ]
@@ -37940,6 +37951,7 @@
             "Korea Sabo",
             "V2 Sabo",
             "V3 Sabo",
+            "Sabo V2",
             "사보",
             " ‘밀짚모자 루피’의 버팀목"
         ]
@@ -38587,6 +38599,7 @@
             "ジュラキュール・ミホーク 世界最強の師",
             "",
             "V2 Mihawk",
+            "Mihawk V2",
             "쥬라큘 미호크",
             " World's Strongest Teacher"
         ]
@@ -38603,6 +38616,7 @@
             "ジュラキュール・ミホーク 導く“大剣豪”の極意",
             "",
             "V2 Mihawk",
+            "Mihawk V2",
             "쥬라큘 미호크",
             " Teaching the Secret Techniques of a Great Swordsman"
         ]
@@ -38619,6 +38633,7 @@
             "ロロノア・ゾロ 最強の剣士の弟子",
             "",
             "V2 Zoro",
+            "Zoro V2",
             "롤로노아 조로",
             " Strongest Swordsman's Disciple"
         ]
@@ -38635,6 +38650,7 @@
             "ロロノア・ゾロ 閃く“大剣豪”の片鱗",
             "",
             "V2 Zoro",
+            "Zoro V2",
             "롤로노아 조로",
             " A Momentary Glimpse of a Great Swordsman"
         ]
@@ -40968,7 +40984,7 @@
             "Striker"
         ],
         "aliases": [
-            "",
+            "ナミ “新世界”を欺く泥棒猫",
             "",
             "Super Nami",
             "Mega Nami",
@@ -40979,37 +40995,161 @@
         ]
     },
     {
-        "id": 2589
+        "id": 2589,
+        "name": "Pawn [STR], Chess Mercenaries",
+        "type": "STR",
+        "class": [
+            "Striker",
+            "Powerhouse"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2590
+        "id": 2590,
+        "name": "Pawn [DEX], Chess Mercenaries",
+        "type": "DEX",
+        "class": [
+            "Striker",
+            "Powerhouse"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2591
+        "id": 2591,
+        "name": "Rook [STR], Chess Mercenaries",
+        "type": "STR",
+        "class": [
+            "Shooter",
+            "Powerhouse"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2592
+        "id": 2592,
+        "name": "Rook [QCK], Chess Mercenaries",
+        "type": "QCK",
+        "class": [
+            "Shooter",
+            "Powerhouse"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2593
+        "id": 2593,
+        "name": "King [PSY], Chess Mercenaries",
+        "type": "PSY",
+        "class": [
+            "Slasher",
+            "Powerhouse"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2594
+        "id": 2594,
+        "name": "King [INT], Chess Mercenaries",
+        "type": "INT",
+        "class": [
+            "Slasher",
+            "Powerhouse"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2595
+        "id": 2595,
+        "name": "Charlotte Mont-d'Or, Totto Land's Angry Corps",
+        "type": "QCK",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "aliases": [
+            "",
+            "",
+            "Montdor",
+            "Mont dor"
+        ]
     },
     {
-        "id": 2596
+        "id": 2596,
+        "name": "Charlotte Linlin, Sleeping Queen of Totto Land",
+        "type": "DEX",
+        "class": [
+            "Driven",
+            "Fighter"
+        ],
+        "aliases": [
+            "",
+            "",
+            "Big Mom"
+        ]
     },
     {
-        "id": 2597
+        "id": 2597,
+        "name": "Capone \"Gang\" Bege, Tea Party Assassination Leader",
+        "type": "INT",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "aliases": [
+            "",
+            "",
+            "Mega Capone",
+            "Super Capone",
+            "4+ Capone"
+        ]
     },
     {
-        "id": 2598
+        "id": 2598,
+        "name": "Gastino, Tea Party Assassination Operation Conspirator",
+        "type": "INT",
+        "class": [
+            "Driven",
+            "Cerebral"
+        ],
+        "aliases": [
+            "",
+            "",
+            "Not Caesar"
+        ]
     },
     {
-        "id": 2599
+        "id": 2599,
+        "name": "Gotti, Tea Party Assassination Battle",
+        "type": "PSY",
+        "class": [
+            "Driven",
+            "Slasher"
+        ],
+        "aliases": [
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": 2600

@@ -7,7 +7,7 @@
       "level1": "Boosts base ATK, HP and RCV of Free Spirit and Cerebral characters by 100"
     },
     "special": "Changes [BLOCK] and Badly Matching orbs into Matching orbs, boosts ATK of Free Spirit and Cerebral characters by 2.25x for 1 turn, removes Beneficial and non-Beneficial orb Buff and Debuff duration completely and becomes Sabo & Koala for 3 turns.",
-    "swap": "When Change is activated, this character removes all Despair and Paralysis on themselves and changes their own orb into a Matching orb, boosts the Color Affinity of Free Spirit and Cerebral characters by 1.5x for 1 turn.",
+    "swap": "When Change is activated, this character removes all Despair and Paralysis duration on themselves and changes their own orb into a Matching orb, boosts the Color Affinity of Free Spirit and Cerebral characters by 1.5x for 1 turn.",
     "specialName": "Dragon Claw Fist and Fishman Karate: Revolutionary Strike",
     "limit": [
       {
@@ -20,7 +20,7 @@
         "description": "Boosts base HP by 30"
       },
       {
-        "description": "Acquire Potential 1: No Healing duration"
+        "description": "Acquire Potential 1: Reduce No Healing duration"
       },
       {
         "description": "Boosts base RCV by 5"
@@ -103,7 +103,7 @@
     ],
     "potential": [
       {
-        "Name": "No Healing duration",
+        "Name": "Replace No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turn",
