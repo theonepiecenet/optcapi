@@ -1,0 +1,54 @@
+{
+  "name": "Charlotte Linlin, Sleeping Queen of Totto Land",
+  "detail": {
+    "captain": "Boosts ATK of Driven and Fighter characters by 2.25x and recovers 500 HP at end of each turn.",
+    "special": "Reduces Paralysis, Silence, Burn and Blindness duration by 2 turns, reduces Special Cooldown of Fighter and Driven specials by 1 turn.",
+    "sailor": "Reduces Silence duration on this character by 2 turns",
+    "specialName": "Dreaming Sweet Queen"
+  },
+  "aliases": [
+    "",
+    "",
+    "Big Mom"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Driven",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": null,
+    "minHP": 1544,
+    "minATK": 775,
+    "minRCV": 0,
+    "maxHP": 3054,
+    "maxATK": 1398,
+    "maxRCV": 0,
+    "ability": null
+  },
+  "cooldown": [
+    15,
+    10
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2596.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2596.png"
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Outside of Town - Bege's Hideout",
+      "thumb": 2597,
+      "data": [
+        "08"
+      ]
+    }
+  ],
+  "manual": []
+}

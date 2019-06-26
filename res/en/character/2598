@@ -1,0 +1,53 @@
+{
+  "name": "Gastino, Tea Party Assassination Operation Conspirator",
+  "detail": {
+    "captain": "Boosts ATK of Driven and Cerebral characters by 1.75x and protects from defeat as long as HP is above ?% at the start of the turn.",
+    "special": "Instantly defeats all enemies with HP equal to or below 90x character's ATK.",
+    "specialName": "Extreme Mad Science"
+  },
+  "aliases": [
+    "",
+    "",
+    "Not Caesar"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Driven",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": null,
+    "minHP": 830,
+    "minATK": 498,
+    "minRCV": 29,
+    "maxHP": 1998,
+    "maxATK": 1212,
+    "maxRCV": 238,
+    "ability": null
+  },
+  "cooldown": [
+    17,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2598.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2598.png"
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Outside of Town - Bege's Hideout",
+      "thumb": 2597,
+      "data": [
+        "10"
+      ]
+    }
+  ],
+  "manual": []
+}

@@ -148,7 +148,7 @@
     ]
   },
   "aliases": [
-    "",
+    "ナミ “新世界”を欺く泥棒猫",
     "",
     "Super Nami",
     "Mega Nami",
@@ -167,13 +167,13 @@
     "slots": 5,
     "level": 99,
     "exp": 5000000,
-    "minHP": 1,
-    "minATK": 1,
-    "minRCV": 1,
+    "minHP": 1457,
+    "minATK": 706,
+    "minRCV": 314,
     "maxHP": 3040,
     "maxATK": 1452,
     "maxRCV": 511,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     20,
@@ -193,5 +193,14 @@
     "rro": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Special",
+      "name": "Beautiful Women's Relief - Nami",
+      "thumb": 2588,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

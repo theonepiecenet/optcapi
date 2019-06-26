@@ -34,7 +34,7 @@
         "description": "Boosts base RCV by 30"
       },
       {
-        "description": "Acquire Potential 1: No Healing duration"
+        "description": "Acquire Potential 1: Reduce No Healing duration"
       },
       {
         "description": "Boosts base HP by 10"
@@ -72,7 +72,7 @@
     ],
     "potential": [
       {
-        "Name": "No Healing duration",
+        "Name": "Reduce No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turn",

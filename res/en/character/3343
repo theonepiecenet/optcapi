@@ -54,7 +54,7 @@
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "Acquire Potential 2: No Healing duration"
+        "description": "Acquire Potential 2: Reduce No Healing duration"
       }
     ],
     "potential": [
@@ -69,7 +69,7 @@
         ]
       },
       {
-        "Name": "No Healing duration",
+        "Name": "Replace No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by ? turn",

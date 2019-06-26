@@ -1,0 +1,44 @@
+{
+  "name": "Rook [QCK], Chess Mercenaries",
+  "detail": {
+    "captain": "Boosts ATK of [QCK] characters by 2x and their RCV by 1.1x.",
+    "special": "Randomizes [RCV] and [TND] orbs, into either [DEX] or [QCK] orbs and locks all orbs for 1 turn.",
+    "specialName": "Rook: Slot Hold"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "minHP": 122,
+    "minATK": 63,
+    "minRCV": 12,
+    "maxHP": 1464,
+    "maxATK": 816,
+    "maxRCV": 129,
+    "ability": null
+  },
+  "cooldown": [
+    22,
+    16
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2592.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2592.png"
+  },
+  "drop": [],
+  "manual": []
+}

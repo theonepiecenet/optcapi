@@ -1,0 +1,54 @@
+{
+  "name": "Charlotte Mont-d'Or, Totto Land's Angry Corps",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 2.5x.",
+    "special": "Cuts the current HP of one enemy by 20% and changes [EMPTY], [BLOCK] and [BOMB] orbs into Matching orbs.",
+    "specialName": "Destroying Shoji"
+  },
+  "aliases": [
+    "",
+    "",
+    "Montdor",
+    "Mont dor"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 2,
+    "level": 99,
+    "exp": null,
+    "minHP": 979,
+    "minATK": 518,
+    "minRCV": 22,
+    "maxHP": 2178,
+    "maxATK": 1230,
+    "maxRCV": 202,
+    "ability": null
+  },
+  "cooldown": [
+    15,
+    10
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2595.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2595.png"
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Outside of Town - Bege's Hideout",
+      "thumb": 2597,
+      "data": [
+        "01"
+      ]
+    }
+  ],
+  "manual": []
+}

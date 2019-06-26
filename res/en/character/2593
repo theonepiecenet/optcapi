@@ -1,0 +1,44 @@
+{
+  "name": "King [PSY], Chess Mercenaries",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 2.25x and their RCV by 1.25x.",
+    "special": "Adds 0.3x to Chain multiplier for 1 turn. If your crew has Orb Amplification, changes [TND] and [BOMB] orbs into Matching orbs.",
+    "specialName": "King: Chain Up"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "minHP": 125,
+    "minATK": 86,
+    "minRCV": 13,
+    "maxHP": 1476,
+    "maxATK": 834,
+    "maxRCV": 131,
+    "ability": null
+  },
+  "cooldown": [
+    20,
+    14
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2593.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2593.png"
+  },
+  "drop": [],
+  "manual": []
+}

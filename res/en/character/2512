@@ -21,7 +21,7 @@
         "description": "Acquire Sailor Ability 1: If your Captain is a Slasher character, boosts own base ATK by 100"
       },
       {
-        "description": "Acquire Potential 1: No Healing duration"
+        "description": "Acquire Potential 1: Reduce No Healing duration"
       },
       {
         "description": "Boosts base HP by 15"
@@ -59,7 +59,7 @@
     ],
     "potential": [
       {
-        "Name": "No Healing duration",
+        "Name": "Replace No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
           "Level 2: Reduces No Healing duration by 2 turn",

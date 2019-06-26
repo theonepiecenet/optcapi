@@ -1,0 +1,65 @@
+{
+  "name": "Capone \"Gang\" Bege, Tea Party Assassination Leader",
+  "detail": {
+    "captain": "Reduces cooldown of Driven specials by 2 turns at the start of the fight and boosts ATK of Driven characters by 2.5x and their HP by 1.35x.",
+    "special": "Deals 16 hits of random Typeless damage to random enemies, boosts ATK against enemies with reduced defense by 1.5x for 1 turn and boosts the Color Affinity of Driven characters by 1.75x for 1 turn.",
+    "specialName": "Father's Deal"
+  },
+  "aliases": [
+    "",
+    "",
+    "Mega Capone",
+    "Super Capone",
+    "4+ Capone"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": "4+",
+    "cost": 40,
+    "combo": 6,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "minHP": 1195,
+    "minATK": 787,
+    "minRCV": 56,
+    "maxHP": 2400,
+    "maxATK": 1431,
+    "maxRCV": 273,
+    "ability": null
+  },
+  "cooldown": [
+    19,
+    14
+  ],
+  "evolve": {
+    "evolution": 2597,
+    "evolvers": [
+      "skullINT",
+      83,
+      88,
+      99,
+      104
+    ],
+    "from": 2229
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2597.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2597.png"
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Outside of Town - Bege's Hideout",
+      "thumb": 2597,
+      "data": [
+        "10"
+      ]
+    }
+  ],
+  "manual": []
+}

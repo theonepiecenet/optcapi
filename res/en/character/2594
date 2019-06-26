@@ -1,0 +1,44 @@
+{
+  "name": "King [INT], Chess Mercenaries",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by 2.25x and their HP by 1.25x.",
+    "special": "Boosts the Color Affinity of all characters by 1.3x for 1 turn. If your crew has Orb Amplification, changes [RCV] and [BLOCK] orbs into Matching orbs.",
+    "specialName": "King: Weak Boost"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "minHP": 131,
+    "minATK": 90,
+    "minRCV": 9,
+    "maxHP": 1536,
+    "maxATK": 900,
+    "maxRCV": 99,
+    "ability": null
+  },
+  "cooldown": [
+    20,
+    14
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2594.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2594.png"
+  },
+  "drop": [],
+  "manual": []
+}

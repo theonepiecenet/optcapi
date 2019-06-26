@@ -9,20 +9,20 @@
       {
         "Name": "Slot Bind Self-reduction",
         "description": [
-          "Level 1: Reduces Slot Bind duration by ? turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
           "Level 5: Reduces Slot Bind duration by 5 turns on this character"
         ]
       },
       {
         "Name": "Cooldown Reduction",
         "description": [
-          "Level 1: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
-          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by 2 turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by 2 turn at the start of the fight",
           "Level 5: Reduce own Special Cooldown by 10 turn at the start of the fight"
         ]
       }
@@ -31,10 +31,10 @@
       {
         "Characters": "Zoro and Mihawk",
         "description": [
-          "Level 1: Once per adventure, when you reach the final stage, ?",
-          "Level 2: Once per adventure, when you reach the final stage, ?",
-          "Level 3: Once per adventure, when you reach the final stage, ?",
-          "Level 4: Once per adventure, when you reach the final stage, ?",
+          "Level 1: Once per adventure, when you reach the final stage, makes PERFECTs slightly easier to hit for 2 turns.",
+          "Level 2: Once per adventure, when you reach the final stage, makes PERFECTs slightly easier to hit for 2 turns.",
+          "Level 3: Once per adventure, when you reach the final stage, changes [STR] orbs on Slasher characters orb into [DEX] and [INT] orbs and makes PERFECTs slightly easier to hit for 2 turns.",
+          "Level 4: Once per adventure, when you reach the final stage, changes [STR] and [QCK] orbs on Slasher characters orb into [DEX] and [INT] orbs and makes PERFECTs slightly easier to hit for 2 turns.",
           "Level 5: Once per adventure, when you reach the final stage, changes [STR], [QCK] and [PSY] orbs on Slasher characters orb into [DEX] and [INT] orbs and makes PERFECTs slightly easier to hit for 2 turns."
         ]
       }

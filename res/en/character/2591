@@ -1,0 +1,44 @@
+{
+  "name": "Rook [STR], Chess Mercenaries",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by 2x and their HP by 1.1x.",
+    "special": "Randomizes [PSY] and [INT] orbs, into either [STR] or [DEX] orbs and amplifies the effect of orbs by 1.5x for 1 turn.",
+    "specialName": "Rook: Slot Power"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Shooter",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "minHP": 136,
+    "minATK": 78,
+    "minRCV": 7,
+    "maxHP": 1560,
+    "maxATK": 930,
+    "maxRCV": 75,
+    "ability": null
+  },
+  "cooldown": [
+    22,
+    16
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2591.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2591.png"
+  },
+  "drop": [],
+  "manual": []
+}

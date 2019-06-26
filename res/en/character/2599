@@ -1,0 +1,53 @@
+{
+  "name": "Gotti, Tea Party Assassination Battle",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 1.75x and their HP by 1.5x.",
+    "special": "Reduces enemies' Percent Damage Reduction duration by 2 turns, delays all enemies for 1 turn and reduces the defense of all enemies by ?% for 1 turn.",
+    "specialName": "Killer Threat"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Driven",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 2,
+    "level": 99,
+    "exp": null,
+    "minHP": 1278,
+    "minATK": 524,
+    "minRCV": 11,
+    "maxHP": 2682,
+    "maxATK": 1281,
+    "maxRCV": 101,
+    "ability": null
+  },
+  "cooldown": [
+    16,
+    11
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2599.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2599.png"
+  },
+  "drop": [
+    {
+      "type": "Story Island",
+      "name": "Outside of Town - Bege's Hideout",
+      "thumb": 2597,
+      "data": [
+        "10"
+      ]
+    }
+  ],
+  "manual": []
+}

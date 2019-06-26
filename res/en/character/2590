@@ -1,0 +1,44 @@
+{
+  "name": "Pawn [DEX], Chess Mercenaries",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 1.75x.",
+    "special": "Deals 20x character's ATK in [DEX] damage to one enemy and boosts ATK against enemies with reduced defense by 1.5x for 1 turn.",
+    "specialName": "Pawn: Random Thrust"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Striker",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 1,
+    "level": 60,
+    "exp": 449516,
+    "minHP": 132,
+    "minATK": 71,
+    "minRCV": 8,
+    "maxHP": 1542,
+    "maxATK": 885,
+    "maxRCV": 83,
+    "ability": null
+  },
+  "cooldown": [
+    16,
+    10
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2590.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2590.png"
+  },
+  "drop": [],
+  "manual": []
+}
