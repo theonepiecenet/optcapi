@@ -1,13 +1,13 @@
 {
-    "name": "캐럿, A Mystical White Sulong",
+    "name": "캐럿, 신비스러운 백색 ‘스론(달의 사자)’",
     "detail": {
-        "specialName": "Electrical Rush",
-        "special": "Reduces Special Cooldown of Fighter, Slasher, Striker, Shooter and Cerebral specials by 2 turns, amplifies the effects of orbs for Fighter, Slasher, Striker, Shooter and Cerebral characters by 2x for 1 turn, makes [QCK], [RCV] and [TND] orbs \"beneficial\" for all characters for 1 turn and swaps this unit with your captain for 1 turn.",
-        "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight. For 12 turns after the start of the fight, boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 2x, boosts chances of getting Matching orbs and attacks will ignore defensive barriers and buffs. After 12 turns, boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 2.75x.",
+        "specialName": "일렉트리컬·러시",
+        "special": "1턴 동안 격투형, 참격형, 타격형, 사격형, 박식형 캐릭터의 슬롯의 영향을 2배로 증폭시키고, 필살기 턴을 2턴 단축하며, [QCK][RCV][TND] 슬롯도 [유리] 슬롯으로 취급하고, 자신이 선원일 때는 1턴 동안 선장과 교대한다",
+        "captain": "모험 시작 시 필살기 턴을 2턴 단축하고, 12턴 동안 선장효과가 ‘방어 효과를 무시하고 일반 공격 데미지를 줄 수 있지만, 일당의 방어 효과가 모두 무효가 된다. 격투형, 참격형, 타격형, 사격형, 박식형 캐릭터의 공격력을 각각 2배(타입이 중복될 경우 4배)로 만들고, 같은 타입 캐릭터의 속성 일치 슬롯 출현율이 매우 상승한다’가 된다. 12턴이 지나면 선장효과가 ‘격투형, 참격형, 타격형, 사격형, 박식형 캐릭터의 공격력을 2.75배로 만든다’로 되돌아간다",
         "sailor": {
             "base": "None",
-            "level1": "Boosts base ATK, HP and RCV of all characters by 30",
-            "level2": "Restores her own special cooldown completely when it is rewinded"
+            "level1": "일당의 기본 능력치가 30 상승한다",
+            "level2": "자신은 필살기 턴 되돌리기를 완전히 회복한다"
         },
         "potential": [
             {

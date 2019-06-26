@@ -1,0 +1,62 @@
+{
+    "name": "돈키호테 도플라밍고, Former Celestial Dragon Boy",
+    "detail": {
+        "captain": "Boosts ATK of Driven characters by ?x and their HP by ?x. Reduces ATK of [PSY] characters by ?%. If a character has a [STR] orb, boosts their ATK by ?x.",
+        "captainNotes": "All boosts are cumulative.",
+        "special": "Cuts the current HP of one enemy by 10%, boosts own ATK by 1.5x and amplifies the effects of own orb by 1.5x for 3 turns and changes [PSY], [TND] and [BOMB] orbs into [STR] orbs",
+        "specialName": "\"Power\" to Get Revenge"
+    },
+    "aliases": [
+        "ドフラミンゴ 元天竜人の少年",
+        "",
+        "Doffy",
+        "Kid Doffy"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": "Driven",
+        "stars": 3,
+        "cost": 1,
+        "combo": 4,
+        "slots": 3,
+        "level": 50,
+        "exp": 130703,
+        "minHP": 468,
+        "minATK": 192,
+        "minRCV": 38,
+        "maxHP": 1170,
+        "maxATK": 480,
+        "maxRCV": 95,
+        "ability": 1
+    },
+    "cooldown": [
+        18,
+        12
+    ],
+    "evolution": {
+        "evolution": 2571,
+        "evolvers": [
+            117,
+            78,
+            84,
+            95,
+            100
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2570.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2570.png"
+    },
+    "drop": [
+        {
+            "type": "Fortnight",
+            "name": "Hell's Past! Young Doflamingo Fortnight",
+            "thumb": 2571,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}

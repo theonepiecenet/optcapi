@@ -1,0 +1,61 @@
+{
+    "name": "빈스모크 레이주, 노스 블루의 기사",
+    "detail": {
+        "captain": "Boosts ATK of Slasher and Powerhouse characters by ?x and their RCV by ?x.",
+        "special": "Removes Poison and Blindness duration completely. If your crew has 3 or more characters with [RCV] orbs, boosts ATK of all characters by 2x for 2 turns, boosts ATK of Fighter, Slasher and Powerhouse characters by 1.75x for 2 turns otherwise.",
+        "specialName": "Poisonous Sword Stance",
+        "sailor": "Boosts base ATK and RCV of Fighter, Slasher and Powerhouse characters by 50"
+    },
+    "aliases": [
+        "ヴィンスモーク・レイジュ 北の海の騎士（ノースブルー）",
+        "",
+        "World Journey Reiju",
+        "Musketeer Reiju"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Slasher",
+            "Powerhouse"
+        ],
+        "stars": 4,
+        "cost": 15,
+        "combo": 5,
+        "slots": 3,
+        "level": 50,
+        "exp": 392109,
+        "minHP": 784,
+        "minATK": 521,
+        "minRCV": 131,
+        "maxHP": 1288,
+        "maxATK": 812,
+        "maxRCV": 231,
+        "ability": 1
+    },
+    "cooldown": [
+        14,
+        14
+    ],
+    "evolution": {
+        "evolution": 2587,
+        "evolvers": [
+            118,
+            87,
+            98,
+            303,
+            103
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2586.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2586.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1
+    },
+    "drop": [],
+    "manual": []
+}

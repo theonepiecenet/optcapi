@@ -1,5 +1,5 @@
 {
-    "name": "이누아라시&네코마무시",
+    "name": "이누아라시&네코마무시, 충돌하는 두 왕",
     "detail": {
         "captain": {
             "character1": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3x and 3.3x based on the timing of the attack of the previous unit in the chain and makes [STR] orbs beneficial for Cerebral and Striker characters.",
@@ -7,13 +7,13 @@
             "combined": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3.5x and 4x based on the timing of the attack of the previous unit in the chain, makes [STR] and [PSY] orbs beneficial for Cerebral and Striker characters and recovers 1.5x their RCV at the end of the turn each time you hit a PERFECT."
         },
         "sailor": {
-            "character1": "Boosts own base ATK by 150 if this character is the last in the chain to attack",
-            "character2": "Boosts own base ATK by 150 if this character is the last in the chain to attack",
-            "combined": "Boosts own base ATK by 250 if this character is the last in the chain to attack"
+            "character1": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 150 상승한다",
+            "character2": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 150 상승한다",
+            "combined": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 250 상승한다"
         },
-        "special": "Boosts ATK of Cerebral and Striker characters by 1.75x for 1 turn and boosts the Color Affinity of Cerebral and Striker characters by 1.75x for 1 turn, and becomes Inuarashi & Nekomamushi for 3 turns. If during that turn, you hit 2 PERFECTS, amplifies the effect of orbs for Cerebral and Striker characters by 2.25x for 1 turn.",
-        "swap": "When Change is activated, this character removes all Despair and Slot Bind on themselves and reduces Paralysis duration by 1 turn.",
-        "specialName": "Two-King Onslaught"
+        "special": "1턴 동안 타격형과 박식형 캐릭터의 공격력과 일반 공격에 의한 속성 상성의 영향을 1.75배로 만들고, 3턴 동안 ‘이누아라시&네코마무시’가 된다. 필살기를 쓴 턴 내에 PERFECT 공격을 2번 이상 성공하면 다음 턴에 타격형과 박식형 캐릭터의 슬롯의 영향을 2.25배로 증폭시킨다",
+        "swap": "일당의 마비 상태를 1턴 회복하고, 자신에게 걸려 있는 슬롯 봉쇄, 선장효과 무효 상태를 완전히 해제한다",
+        "specialName": "두 왕의 연속 공격"
     },
     "aliases": [
         "",

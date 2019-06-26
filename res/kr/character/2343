@@ -1,10 +1,10 @@
 {
-  "name": "샬롯 바바루아",
-  "detail": {
-    "specialName": "Ordering the Homie Cannonballs",
-    "special": "Deals 8 hits of random Typeless damage to random enemies and changes left column orbs into Matching orbs. If your Captain's orb is [QCK], [PSY], [INT] or [TND], boosts ATK of Shooter characters by 1.75x for 3 turns.",
-    "captain": "Boosts ATK of Shooter characters by ?x and recovers ? HP at end of each turn",
-    "sailor": "Boosts base ATK of Shooter characters by 50",
-    "specialNotes": "#{randomHits : 8} #{random : ? : ? : for each hit}"
-  }
+    "name": "샬롯 바바루아",
+    "detail": {
+        "specialName": "호미즈 포탄을 향한 호령",
+        "special": "무작위의 적에게 무 속성 랜덤 데미지를 8회 주고, 좌측 슬롯을 속성 일치 슬롯으로 바꾼다. 필살기 발동 시, 선장의 슬롯이 [QCK][PSY][INT][TND] 슬롯이라면, 3턴 동안 사격형 캐릭터의 공격력을 1.75배로 만든다",
+        "captain": "사격형 캐릭터의 공격력을 2.25배로 만들고, 턴 종료 시 체력을 1000 회복한다",
+        "sailor": "사격형 캐릭터는 기본 공격력이 50 상승한다",
+        "specialNotes": "#{randomHits : 8} #{random : ? : ? : for each hit}"
+    }
 }

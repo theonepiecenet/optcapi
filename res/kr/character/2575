@@ -1,0 +1,144 @@
+{
+    "name": "캐럿, Adventures in the Bedroom",
+    "detail": {
+        "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight and boosts ATK of Free Spirit characters by 3x.",
+        "special": "Reduces enemies' Threshold Damage Reduction and Percent Damage Reduction duration by 3 turns, reduces Bind duration by 5 turns and changes [BOMB], [G], [EMPTY] and Badly Matching orbs into Matching orbs. If your Captain is a Free Spirit Character, boosts ATK against delayed enemies by 2x for 1 turn.",
+        "specialName": "Air Step Mink Kick",
+        "sailor": {
+            "base": "Completely resists Paralysis on this character",
+            "level1": "Makes [PSY] orbs beneficial for Free Spirit characters"
+        },
+        "sailorNotes": "#{beneficial}",
+        "limit": [
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 30"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Acquire Potential 1: Barrier Penetration"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base ATK by 50"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Makes [PSY] orbs beneficial for Free Spirit characters"
+            },
+            {
+                "description": "Acquire Potential 2: Pinch Healing"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above 60% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+                ]
+            },
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Free Spirit characters",
+                "description": [
+                    "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 2: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 3: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 4: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP.",
+                    "Level 5: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Free Spirit",
+            "Fighter"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 5,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 873,
+        "minATK": 835,
+        "minRCV": 111,
+        "maxHP": 2249,
+        "maxATK": 1353,
+        "maxRCV": 374,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        14
+    ],
+    "evolve": {
+        "evolution": 2575,
+        "evolvers": [
+            118,
+            87,
+            98,
+            303,
+            103
+        ],
+        "from": 2574
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2575.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2575.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}

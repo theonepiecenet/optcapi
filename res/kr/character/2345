@@ -1,9 +1,9 @@
 {
-  "name": "샬롯 갈렛",
-  "detail": {
-    "specialName": "Left-Handed Haul",
-    "special": "Delays all enemies for 1 turn, reduces Special Cooldown of 1 character by 2 turns. If your Captain is a [QCK] or [INT] character, locks the chain multiplier at 3x for 1 turn.",
-    "captain": "Boosts ATK of [QCK] and [INT] characters by ?x and makes [QCK] and [INT] orbs \"beneficial\"? for [QCK] and [INT] characters",
-    "sailor": "Boosts base ATK, HP and RCV of all characters by 20"
-  }
+    "name": "샬롯 가렛",
+    "detail": {
+        "specialName": "끌어당기는 왼손",
+        "special": "적 전체의 공격을 1턴 지연시키고, 선택한 캐릭터 1명의 필살기 턴을 2턴 단축시킨다. 선장이 [INT] 또는 [QCK]이라면, 1턴 동안 체인 계수를 3배로 고정한다",
+        "captain": "[INT]과 [QCK]의 공격력을 2.25배로 만들고, [INT][QCK] 슬롯도 [유리] 슬롯으로 취급한다",
+        "sailor": "일당의 기본 능력치가 20 상승한다"
+    }
 }

@@ -1,0 +1,133 @@
+{
+    "name": "빈스모크 레이주, 핑크 란타나의 기사",
+    "detail": {
+        "captain": "참격형과 강인형 캐릭터의 공격력을 2.5배, 회복력을 1.2배로 만든다",
+        "special": "모든 독과 의성어 은폐 상태를 완전히 회복하고, 2턴 동안 격투형, 강인형, 참격형 캐릭터의 공격력을 1.75배로 만들며, 일당에 [RCV] 슬롯을 가진 캐릭터가 3명 이상 있을 경우 2턴 동안 일당의 공격력을 2배로 만든다",
+        "specialName": "매혹하는 독검 태세",
+        "sailor": {
+            "base": "격투형, 강인형, 참격형 캐릭터의 기본 공격력과 기본 회복력이 50 상승한다",
+            "level1": "자신은 필살기 턴 되돌리기를 2턴 회복한다"
+        },
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Acquire Potential 1: Critical Hit"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Boosts base HP by 100"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 25"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Restores his own special cooldown by 2 turns when it is rewinded"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Acquire Potential 2: Pinch Healing"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 30% chance to deal 2% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 40% chance to deal 3% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 50% chance to deal 4% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 60% chance to deal 5% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage"
+                ]
+            },
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ヴィンスモーク・レイジュ 桃色毒剣の騎士",
+        "",
+        "World Journey Reiju",
+        "Musketeer Reiju"
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Slasher",
+            "Powerhouse"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 5,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1202,
+        "minATK": 745,
+        "minRCV": 212,
+        "maxHP": 2138,
+        "maxATK": 1354,
+        "maxRCV": 388,
+        "ability": 1
+    },
+    "cooldown": [
+        14,
+        14
+    ],
+    "evolve": {
+        "evolution": 2587,
+        "evolvers": [
+            118,
+            87,
+            98,
+            303,
+            103
+        ],
+        "from": 2586
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2587.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2587.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1
+    },
+    "drop": [],
+    "manual": []
+}

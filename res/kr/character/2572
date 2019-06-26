@@ -1,0 +1,53 @@
+{
+    "name": "로시난테, Former Celestial Dragon Boy",
+    "detail": {
+        "captain": "Boosts ATK of Shooter characters by 1.5x.",
+        "special": "Reduces Paralysis duration by 2 turns and changes orbs in the bottom row into [TND] orbs.",
+        "specialName": "Loser's Tears"
+    },
+    "aliases": [
+        "ロシナンテ 元天竜人の少年",
+        "",
+        "Kid Corazon"
+    ],
+    "unit": {
+        "type": "DEX",
+        "class": [
+            "Shooter",
+            "Free Spirit"
+        ],
+        "stars": 3,
+        "cost": 1,
+        "combo": 4,
+        "slots": 2,
+        "level": 70,
+        "exp": 355666,
+        "minHP": 564,
+        "minATK": 300,
+        "minRCV": 62,
+        "maxHP": 1410,
+        "maxATK": 750,
+        "maxRCV": 155,
+        "ability": 1
+    },
+    "cooldown": [
+        13,
+        8
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2572.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2572.png"
+    },
+    "drop": [
+        {
+            "type": "Fortnight",
+            "name": "Hell's Past! Young Doflamingo Fortnight",
+            "thumb": 2571,
+            "data": [
+                "All Difficulties"
+            ]
+        }
+    ],
+    "manual": []
+}

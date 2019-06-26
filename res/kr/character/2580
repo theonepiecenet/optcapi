@@ -1,0 +1,97 @@
+{
+    "name": "Sai, “Levely” Kano Country Warrior",
+    "detail": {
+        "captain": "Boosts ATK of Striker characters by 1.5x",
+        "special": "Deals 75x character's ATK in Typeless damage to one enemy and reduces Silence duration by 2 turns. If your crew has 4 or more characters with [STR] or [PSY] orbs, locks the chain multiplier at 2.75x for 2 turns.",
+        "specialName": "Sympathetic Wujiaogen Heel",
+        "sailor": "Reduces Silence duration on this character by 2 turns",
+        "limit": [
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base ATK by 35"
+            },
+            {
+                "description": "Acquire Potential 1: Enrage"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Enrage",
+                "description": [
+                    "Level 1: Boosts base ATK by 50",
+                    "Level 2: Boosts base ATK by 75",
+                    "Level 3: Boosts base ATK by 100",
+                    "Level 4: Boosts base ATK by 150",
+                    "Level 5: Boosts base ATK by 200"
+                ]
+            }
+        ],
+        "potentialNotes": "#{enrage}"
+    },
+    "aliases": [
+        "サイ “世界会議”花ノ国の兵",
+        "",
+        "Secret Don Sai",
+        "Limited Don Sai"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Fighter",
+            "Striker"
+        ],
+        "stars": 5,
+        "cost": 20,
+        "combo": 5,
+        "slots": 4,
+        "level": 99,
+        "exp": 2000000,
+        "minHP": 942,
+        "minATK": 547,
+        "minRCV": 115,
+        "maxHP": 2356,
+        "maxATK": 1367,
+        "maxRCV": 288,
+        "ability": 1
+    },
+    "cooldown": [
+        12,
+        12
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2580.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2580.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1,
+        "tmlrr": 1
+    },
+    "drop": [],
+    "manual": []
+}

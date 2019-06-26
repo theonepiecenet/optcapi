@@ -1,0 +1,64 @@
+{
+    "name": "로브 루치, Escort of God",
+    "detail": {
+        "captain": "Boosts ATK of Cerebral characters by 1.5x if they have a Matching orb and reduces crew's RCV to 0",
+        "special": "Cuts the current HP of one enemy by 20%. If HP is above 99% at the time the special is activated, amplifies the effect of orbs for Cerebral characters by 2x for 3 turns and locks all orbs for 1 turn.",
+        "specialName": "Leg Gun"
+    },
+    "aliases": [
+        "ロブ・ルッチ 「神」の護衛",
+        "",
+        "TM Lucci",
+        "TM Rob Lucci"
+    ],
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Cerebral",
+            "Powerhouse"
+        ],
+        "stars": 4,
+        "cost": 30,
+        "combo": 4,
+        "slots": 1,
+        "level": 50,
+        "exp": 130703,
+        "minHP": 1061,
+        "minATK": 390,
+        "minRCV": 34,
+        "maxHP": 2031,
+        "maxATK": 803,
+        "maxRCV": 79,
+        "ability": 1
+    },
+    "cooldown": [
+        36,
+        29
+    ],
+    "evolution": {
+        "evolution": 2583,
+        "evolvers": [
+            115,
+            116,
+            117,
+            118,
+            104
+        ]
+    },
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2582.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2582.png"
+    },
+    "drop": [
+        {
+            "type": "Treasure Map",
+            "name": "Rob Lucci",
+            "thumb": 2583,
+            "data": [
+                "Primordial Sea"
+            ]
+        }
+    ],
+    "manual": []
+}

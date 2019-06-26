@@ -1,9 +1,9 @@
 {
-  "name": "도크 Q, 검은 수염 해적단",
-  "detail": {
-    "specialName": "Vile Fruit",
-    "special": "For each enemy, has an extremely small chance to instantly defeat that enemy.",
-    "captain": "Boosts ATK and RCV of [INT] characters by 1.5x",
-    "specialNotes": "#{instantKill : <1%}"
-  }
+    "name": "도크 Q, 검은 수염 해적단",
+    "detail": {
+        "specialName": "비열한 과실",
+        "special": "극히 드물게 적 전체 각각의 대상을 격파한다",
+        "captain": "[INT]의 공격력과 회복력을 1.5배로 만든다",
+        "specialNotes": "#{instantKill : <1%}"
+    }
 }

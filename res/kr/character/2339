@@ -1,9 +1,9 @@
 {
-  "name": "스튜시",
-  "detail": {
-    "specialName": "Flying Finger Gun",
-    "special": "Deals 50x character's ATK in [QCK] damage to one enemy, randomizes all non-matching orbs and boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 1.5x for 1 turn. If \"Flying Finger Gun\" is used again in the same turn the special is activated in, boosts ATK of Fighter, Slasher, Striker, Shooter and Cerebral characters by 2.25x for 1 turn.",
-    "captain": "Reduces cooldown of all specials by ? turn at the start of the fight. Boosts ATK of Shooter and Cerebral characters by ?x",
-    "sailor": "When any other character uses a special, reduces own cooldown by 1 turn"
-  }
+    "name": "스튜시",
+    "detail": {
+        "specialName": "나는 지건",
+        "special": "적 1명에게 캐릭터의 공격력x50배의 [QCK] 데미지를 주고, 속성 일치 슬롯 이외의 슬롯을 랜덤하게 바꾼다. 1턴 동안 격투형, 참격형, 타격형, 사격형, 박식형 캐릭터의 공격력을 1.5배로 만들고, 같은 턴 내에 이미 ‘나는 지건’을 사용했다면 2.25배가 된다",
+        "captain": "모험 시작 시 필살기 턴을 1턴 단축하고, 사격형과 박식형 캐릭터의 공격력을 2.25배로 만든다",
+        "sailor": "자신 이외의 캐릭터가 필살기 사용 시, 자신의 필살기 턴이 1턴 단축된다"
+    }
 }
