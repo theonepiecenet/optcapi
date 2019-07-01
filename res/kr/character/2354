@@ -1,157 +1,157 @@
 {
-  "name": "Chief Warden Magellan, Venom-Venom Fruit User",
-  "detail": {
-    "captain": "Boosts ATK of Shooter and Striker characters by 2.5x and recovers 3x character's RCV in HP at the end of each turn.",
-    "special": [
-      {
-        "description": "Poisons all enemies, reduces enemies' Threshold Damage Reduction and Percent Damage Reduction duration by 1 turn and boosts ATK against Poisoned enemies by 1.5x for 1 turn",
-        "cooldown": [
-          23,
-          9
+    "name": "Chief Warden 마젤란, ‘독독 열매’의 능력자",
+    "detail": {
+        "captain": "사격형과 타격형 캐릭터의 공격력을 2.5배로 만들고, 턴 종료 시 캐릭터의 회복력x3배의 체력을 회복한다",
+        "special": [
+            {
+                "description": "적 전체를 독 상태로 만들고, 적 전체에게 걸려 있는 데미지 감소, [THRESHOLD DAMAGE] 상태를 1턴 줄이고, 1턴 동안 독 상태의 적에게 주는 데미지가 1.5배가 된다",
+                "cooldown": [
+                    23,
+                    9
+                ]
+            },
+            {
+                "description": "적 전체를 독, 적 1명을 맹독(캐릭터의 공격력x300배)으로 만들고, 2턴 동안 적 전체의 방어력을 0으로 만든다. 적 전체에게 걸려 있는 데미지 감소, [THRESHOLD DAMAGE] 상태를 2턴 줄이고, 1턴 동안 독, 맹독 상태의 적에게 주는 데미지가 1.75배가 된다",
+                "cooldown": [
+                    27,
+                    13
+                ]
+            }
+        ],
+        "specialNotes": "Strong Poison deals 300x character's ATK in Fixed damage at the end of each turn. Regular Poison deals 0.5x character's ATK in Fixed damage at the end of each turn.",
+        "specialName": "클로로 볼",
+        "sailor": {
+            "base": "자신은 필살기 봉쇄 상태를 3턴 회복한다",
+            "level1": "Completely resists Paralysis on this character"
+        },
+        "sailorNotes": "#{silence}",
+        "limit": [
+            {
+                "description": "Boosts base HP by 15"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base RCV by 30"
+            },
+            {
+                "description": "Acquire Potential 1: Pinch Healing"
+            },
+            {
+                "description": "Boosts base HP by 35"
+            },
+            {
+                "description": "Boosts base RCV by 40"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Completely resists Paralysis on this character"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Acquire Potential 2: Barrier Penetration"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Pinch Healing",
+                "description": [
+                    "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+                    "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+                ]
+            },
+            {
+                "Name": "Barrier Penetration",
+                "description": [
+                    "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+                    "Level 4: This character's normal attack will ignore barriers if HP is above 75% at the start of the turn",
+                    "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Hannyabal, Sadie and Saldeath",
+                "description": [
+                    "Level 1: Adds 4% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 2: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 3: Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 4: Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
+                    "Level 5: Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV"
+                ]
+            }
         ]
-      },
-      {
-        "description": "Strongly Poisons one enemy, Poisons all other enemies, reduces the defense of all enemies by 100% for 2 turns, reduces enemies' Threshold Damage Reduction and Percent Damage Reduction duration by 2 turns and boosts ATK against Poisoned and Strongly Poisoned enemies by 1.75x for 1 turn",
-        "cooldown": [
-          27,
-          13
-        ]
-      }
-    ],
-    "specialNotes": "Strong Poison deals 300x character's ATK in Fixed damage at the end of each turn. Regular Poison deals 0.5x character's ATK in Fixed damage at the end of each turn.",
-    "specialName": "Chloro Ball",
-    "sailor": {
-      "base": "Reduces Silence duration on this character by 3 turns",
-      "level1": "Completely resists Paralysis on this character"
     },
-    "sailorNotes": "#{silence}",
-    "limit": [
-      {
-        "description": "Boosts base HP by 15"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base RCV by 30"
-      },
-      {
-        "description": "Acquire Potential 1: Pinch Healing"
-      },
-      {
-        "description": "Boosts base HP by 35"
-      },
-      {
-        "description": "Boosts base RCV by 40"
-      },
-      {
-        "description": "Reduce base Special Cooldown by 1 turn"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base ATK by 30"
-      },
-      {
-        "description": "Boosts base RCV by 50"
-      },
-      {
-        "description": "Acquire Sailor Ability 1: Completely resists Paralysis on this character"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Acquire Potential 2: Barrier Penetration"
-      }
+    "aliases": [
+        "監獄署長マゼラン “ドクドクの実”の能力者",
+        "",
+        "Colo Magellan",
+        "Coliseum Magellan"
     ],
-    "potential": [
-      {
-        "Name": "Pinch Healing",
-        "description": [
-          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
-        ]
-      },
-      {
-        "Name": "Barrier Penetration",
-        "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 75% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
-        ]
-      }
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Shooter",
+            "Striker"
+        ],
+        "stars": 5,
+        "cost": 40,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 1256,
+        "minATK": 705,
+        "minRCV": 158,
+        "maxHP": 2568,
+        "maxATK": 1410,
+        "maxRCV": 302,
+        "ability": 1
+    },
+    "cooldown": [
+        27,
+        13
     ],
-    "support": [
-      {
-        "Characters": "Hannyabal, Sadie and Saldeath",
-        "description": [
-          "Level 1: Adds 4% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 2: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 3: Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 4: Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 5: Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV"
-        ]
-      }
-    ]
-  },
-  "aliases": [
-    "監獄署長マゼラン “ドクドクの実”の能力者",
-    "",
-    "Colo Magellan",
-    "Coliseum Magellan"
-  ],
-  "unit": {
-    "type": "QCK",
-    "class": [
-      "Shooter",
-      "Striker"
-    ],
-    "stars": 5,
-    "cost": 40,
-    "combo": 4,
-    "slots": 4,
-    "level": 99,
-    "exp": 4000000,
-    "minHP": 1256,
-    "minATK": 705,
-    "minRCV": 158,
-    "maxHP": 2568,
-    "maxATK": 1410,
-    "maxRCV": 302,
-    "ability": 1
-  },
-  "cooldown": [
-    27,
-    13
-  ],
-  "evolve": {
-    "evolution": 2354,
-    "evolvers": [
-      118,
-      96,
-      1180,
-      301,
-      101
-    ],
-    "from": 2353
-  },
-  "image": {
-    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2354.png",
-    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2354.png"
-  },
-  "drop": [],
-  "manual": []
+    "evolve": {
+        "evolution": 2354,
+        "evolvers": [
+            118,
+            96,
+            1180,
+            301,
+            101
+        ],
+        "from": 2353
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2354.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2354.png"
+    },
+    "drop": [],
+    "manual": []
 }

@@ -1,17 +1,17 @@
 {
     "name": "마젤란, ‘독독 열매’의 능력자",
     "detail": {
-        "captain": "Boosts ATK of Shooter and Striker characters by 2.25x and recovers 1.5x character's RCV in HP at the end of each turn.",
+        "captain": "사격형과 타격형 캐릭터의 공격력을 2.25배로 만들고, 턴 종료 시 캐릭터의 회복력x1.5배의 체력을 회복한다",
         "special": [
             {
-                "description": "Poisons all enemies, reduces enemies' Threshold Damage Reduction and Percent Damage Reduction duration by 1 turn and boosts ATK against Poisoned enemies by 1.5x for 1 turn",
+                "description": "적 전체를 독 상태로 만들고, 적 전체에게 걸려 있는 데미지 감소, [THRESHOLD DAMAGE] 상태를 1턴 줄이고, 1턴 동안 독 상태의 적에게 주는 데미지가 1.5배가 된다",
                 "cooldown": [
                     23,
                     9
                 ]
             },
             {
-                "description": "Strongly Poisons one enemy, Poisons all other enemies, reduces the defense of all enemies by 100% for 2 turns, reduces enemies' Threshold Damage Reduction and Percent Damage Reduction duration by 2 turns and boosts ATK against Poisoned and Strongly Poisoned enemies by 1.75x for 1 turn",
+                "description": "적 전체를 독, 적 1명을 맹독(캐릭터의 공격력x300배)으로 만들고, 2턴 동안 적 전체의 방어력을 0으로 만든다. 적 전체에게 걸려 있는 데미지 감소, [THRESHOLD DAMAGE] 상태를 2턴 줄이고, 1턴 동안 독, 맹독 상태의 적에게 주는 데미지가 1.75배가 된다",
                 "cooldown": [
                     27,
                     13
@@ -20,7 +20,7 @@
         ],
         "specialNotes": "Strong Poison deals 300x character's ATK in Fixed damage at the end of each turn. Regular Poison deals 0.5x character's ATK in Fixed damage at the end of each turn.",
         "specialName": "Chloro Ball",
-        "sailor": "Reduces Silence duration on this character by 3 turns",
+        "sailor": "자신은 필살기 봉쇄 상태를 3턴 회복한다",
         "sailorNotes": "#{silence}"
     },
     "aliases": [
