@@ -1,0 +1,165 @@
+{
+  "name": "[Dual Unit] Shirahoshi, A Wonderful Encounter",
+  "detail": {
+    "captain": "Boosts ATK of Striker, Cerebral and Free Spirit characters by 3x, but boosts her OWN attack by 1.2x and recovers 5x character's RCV in HP at the end of each turn.",
+    "sailor": {
+      "base": "Reduces Silence duration on this character by 7 turns",
+      "level1": "Boosts base HP and RCV of Striker, Cerebral and Free Spirit characters by 100"
+    },
+    "special": "Changes all orbs, including [BLOCK] orbs, into Matching orbs, recovers 100x character's RCV in HP, reduces 2 selected debuffs duration by 10 turns and becomes Shirahoshi & Mansherry for 1 turn.",
+    "specialNotes": "The debuff reduction only works on debuffs whose icons are located in the bottom left of the adventure screen, above the HP bar. This DOES NOT include: Bind, Despair, Paralysis, Silence, and Slot Bind. Additionally, this debuff reduction will not trigger any enemy interupts, however the healing or orb manipulation of the special may still activate interupts.",
+    "swap": "When Change is activated, reduces Slot Bind and Silence duration by 1 turn and changes own and Matching orbs into [RAINBOW] orbs.",
+    "specialName": "Lovely Healing",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 15"
+      },
+      {
+        "description": "Boosts base HP by 15"
+      },
+      {
+        "description": "Boosts base HP by 15"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Acquire Potential 2: [INT] Damage Reduction"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base HP and RCV of Striker, Cerebral and Free Spirit characters by 100"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 75"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Acquire Potential 3: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[PSY] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [PSY] characters by 2%",
+          "Level 2: Reduce damage taken from [PSY] characters by 3%",
+          "Level 3: Reduce damage taken from [PSY] characters by 4%",
+          "Level 4: Reduce damage taken from [PSY] characters by 5%",
+          "Level 5: Reduce damage taken from [PSY] characters by 7%"
+        ]
+      },
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 2%",
+          "Level 2: Reduce damage taken from [INT] characters by 3%",
+          "Level 3: Reduce damage taken from [INT] characters by 4%",
+          "Level 4: Reduce damage taken from [INT] characters by 5%",
+          "Level 5: Reduce damage taken from [INT] characters by 7%"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 2 turn",
+          "Level 2: Reduces No Healing duration by 3 turn",
+          "Level 3: Reduces No Healing duration by 5 turn",
+          "Level 4: Reduces No Healing duration by 7 turns",
+          "Level 5: Reduces No Healing duration by 10 turns"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Cerebral",
+      "Striker"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 1075,
+    "minATK": 515,
+    "minRCV": 195,
+    "maxHP": 2689,
+    "maxATK": 1288,
+    "maxRCV": 488,
+    "ability": 1
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/5172.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/5172.png"
+  },
+  "drop": [],
+  "manual": []
+}
