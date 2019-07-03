@@ -1,0 +1,149 @@
+{
+  "name": "Jinbe, Dignity of the Captain",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Cerebral characters by 2.75x and their HP by 1.3x.",
+    "special": "Adds 0.5x to Chain multiplier for 2 turns and reduces any damage received above 3,000 HP by ?% for 2 turns. If your Captain is a Fighter and Cerebral character, removes enemies Threshold Damage Reduction buff duration completely.",
+    "specialName": "Intruding on the Holy Land",
+    "sailor": {
+      "base": "Boosts base ATK, HP and RCV of Fighter and Cerebral characters by 50",
+      "level1": "Cannot be blown away"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 1: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Cannot be blown away"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Nemi, Chopper, Brook and Carrot",
+        "description": [
+          "Level 1: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 2: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 3: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 4: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 5: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Coliseum Jinbe",
+    "Coliseum Jimbe",
+    "Colo Jinbe",
+    "Colo Jimbe",
+    "Coliseum Jinbei",
+    "Coliseum Jimbei",
+    "Colo Jinbei",
+    "Colo Jimbei"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 40,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 1622,
+    "minATK": 698,
+    "minRCV": 114,
+    "maxHP": 3127,
+    "maxATK": 1411,
+    "maxRCV": 210,
+    "ability": null
+  },
+  "cooldown": [
+    29,
+    14
+  ],
+  "evolve": {
+    "evolution": 2611,
+    "evolvers": [],
+    "from": 2610
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2611.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2611.png"
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Jinbe",
+      "thumb": 2611,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Shirahoshi & Mansherry, Bonded by Injuries",
+  "detail": {
+    "captain": {
+      "character1": "Boosts ATK of Striker, Cerebral and Free Spirit characters by 3x, but boosts her OWN attack by 1.2x and recovers 5x character's RCV in HP at the end of each turn.",
+      "character2": "Boosts ATK of Striker, Cerebral and Free Spirit characters by 2.75x and recovers 5x character's RCV in HP at the end of each turn.",
+      "combined": "Boosts ATK of Striker, Cerebral and Free Spirit characters by 3.5x, recovers 5x character's RCV in HP at the end of each turn and protects from defeat as long as HP is above 50%."
+    },
+    "sailor": {
+      "character1": "Reduces Silence duration on this character by 7 turns",
+      "character2": "Reduces Silence duration on this character by 7 turns",
+      "combined": "Boosts base ATK, HP and RCV of Striker, Cerebral and Free Spirit characters by 75"
+    },
+    "special": "Changes all orbs, including [BLOCK] orbs, into Matching orbs, recovers 100x character's RCV in HP, reduces 2 selected debuffs duration by 10 turns and becomes Shirahoshi & Mansherry for 1 turn.",
+    "specialNotes": "The debuff reduction only works on debuffs whose icons are located in the bottom left of the adventure screen, above the HP bar. This DOES NOT include: Bind, Despair, Paralysis, Silence, and Slot Bind. Additionally, this debuff reduction will not trigger any enemy interupts, however the healing or orb manipulation of the special may still activate interupts.",
+    "swap": "When Change is activated, reduces Slot Bind and Silence duration by 1 turn and changes own and Matching orbs into [RAINBOW] orbs.",
+    "specialName": "Lovely Healing"
+  },
+  "aliases": [
+    "しらほし＆マンシェリー 怪我が結ぶ絆",
+    "",
+    "Shirahoshi&Mansherry",
+    "Shirahoshi & Mansherry",
+    "Shirahoshi and Mansherry",
+    "Shirahoshi Mansherry",
+    "ShirahoshiMansherry",
+    "Mansherry&Shirahoshi",
+    "Mansherry and Shirahoshi",
+    "Mansherry Shirahoshi",
+    "MansherryShirahoshi"
+  ],
+  "unit": {
+    "type": [
+      "INT",
+      "PSY"
+    ],
+    "class": [
+      [
+        "Cerebral",
+        "Striker"
+      ],
+      [
+        "Cerebral",
+        "Free Spirit"
+      ],
+      [
+        "Cerebral",
+        "Striker"
+      ]
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 559,
+    "minATK": 275,
+    "minRCV": 137,
+    "maxHP": 1398,
+    "maxATK": 688,
+    "maxRCV": 343,
+    "ability": 1
+  },
+  "cooldown": [
+    22,
+    17
+  ],
+  "evolution": {
+    "evolution": 2603,
+    "evolvers": [
+      118,
+      104,
+      103,
+      94,
+      267
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2602.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2602.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

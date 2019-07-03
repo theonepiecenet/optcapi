@@ -1,0 +1,59 @@
+{
+  "name": "Violet, Dressrosa Kingdom Princess",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 2x and their HP and RCV by 1.2x.",
+    "special": "Changes own orb and adjacent orbs into Matching orbs. If HP is above 50% at the time the special is activated, boosts ATK of Cerebral characters by 2x for 1 turn, by 1.75x otherwise.",
+    "specialName": "Eye Whale",
+    "sailor": "Boosts base ATK and RCV of Cerebral characters by 40"
+  },
+  "aliases": [
+    "ヴィオラ ドレスローザ王国王女",
+    "",
+    "Viola"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Cerebral",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 383,
+    "minATK": 229,
+    "minRCV": 79,
+    "maxHP": 957,
+    "maxATK": 572,
+    "maxRCV": 199,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    13
+  ],
+  "evolution": {
+    "evolution": 2607,
+    "evolvers": [
+      266,
+      93,
+      99,
+      304,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2606.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2606.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Connie, Freely Controling her Age",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit and Cerebral characters by 2.5x if HP is above 50%, by 2x otherwise.",
+    "special": "Reduces Bind duration for three characters by 7 turns and amplifies the effect of orbs for characters in the bottom row by 2.25x for 2 turns.",
+    "specialName": "Intruding on the Holy Land",
+    "sailor": "Boosts base ATK of Free Spirit and Cerebral characters by 50"
+  },
+  "aliases": [
+    "コニー 自在なる年齢",
+    "",
+    "Jewelry Bonney"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 406,
+    "minATK": 254,
+    "minRCV": 68,
+    "maxHP": 1017,
+    "maxATK": 635,
+    "maxRCV": 170,
+    "ability": 1
+  },
+  "cooldown": [
+    17,
+    11
+  ],
+  "evolution": {
+    "evolution": 2609,
+    "evolvers": [
+      266,
+      90,
+      96,
+      90,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2608.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2608.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}
