@@ -1,16 +1,17 @@
 {
-  "name": "Capone \"Gang\" Bege, Tea Party Assassination Leader",
+  "name": "Capone \"Gang\" Bege, Tea Party Assassination Plan Ringleader",
   "detail": {
     "captain": "Reduces cooldown of Driven specials by 2 turns at the start of the fight and boosts ATK of Driven characters by 2.5x and their HP by 1.35x.",
     "special": "Deals 16 hits of random Typeless damage to random enemies, boosts ATK against enemies with reduced defense by 1.5x for 1 turn and boosts the Color Affinity of Driven characters by 1.75x for 1 turn.",
     "specialName": "Father's Deal"
   },
   "aliases": [
-    "",
+    "カポネ・“ギャング”ベッジ 茶会の暗殺作戦首謀者",
     "",
     "Mega Capone",
     "Super Capone",
-    "4+ Capone"
+    "4+ Capone",
+    "Story Capone"
   ],
   "unit": {
     "type": "INT",
@@ -30,7 +31,7 @@
     "maxHP": 2400,
     "maxATK": 1431,
     "maxRCV": 273,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     19,

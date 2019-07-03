@@ -1,15 +1,16 @@
 {
-  "name": "Charlotte Mont-d'Or, Totto Land's Angry Corps",
+  "name": "Charlotte Mont-d'Or, Totto Land's Angry Army",
   "detail": {
     "captain": "Boosts ATK of Driven characters by 2.5x.",
     "special": "Cuts the current HP of one enemy by 20% and changes [EMPTY], [BLOCK] and [BOMB] orbs into Matching orbs.",
-    "specialName": "Destroying Shoji"
+    "specialName": "Book-Keeper's Vengeance"
   },
   "aliases": [
+    "シャーロット・モンドール トットランドの怒りの軍団",
     "",
-    "",
-    "Montdor",
-    "Mont dor"
+    "Story Montdor",
+    "Story Mont dor",
+    "Story Mont-d'Or"
   ],
   "unit": {
     "type": "QCK",
@@ -22,14 +23,14 @@
     "combo": 5,
     "slots": 2,
     "level": 99,
-    "exp": null,
+    "exp": 3000000,
     "minHP": 979,
     "minATK": 518,
     "minRCV": 22,
     "maxHP": 2178,
     "maxATK": 1230,
     "maxRCV": 202,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     15,
