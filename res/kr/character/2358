@@ -1,54 +1,98 @@
 {
-  "name": "토니토니 쵸파, Holy Night Reindeer",
-  "detail": {
-    "specialName": "The Ship's Doctor that will Deliver a Merry Christmas",
-    "special": "Reduces Silence duration by 2 turns and changes adjacent orbs into Matching Orbs. If you are on a Treasure Map, boosts ATK of Fighter, Slasher and Striker characters depending on your Treasure Map Level for 1 turn",
-    "captain": "Boosts amount of Beli received by 3x",
-    "potential": [
-      {
-        "Name": "Critical Hit",
-        "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a 50% chance to deal 3% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a 60% chance to deal 4% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 5% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
+    "name": "토니토니 쵸파, 성스러운 밤의 사슴",
+    "detail": {
+        "captain": "획득하는 베리가 3배가 된다(모험 도중 선장이 된 경우에는 발휘되지 않습니다)",
+        "captainNotes": "Beli boost does not take effect if he becomes your captain in the middle of the adventure.",
+        "special": "일당의 필살기 봉쇄 상태를 2턴 회복하고, 인접한 슬롯을 속성 일치 슬롯으로 바꾼다. 1턴 동안 격투형, 참격형, 타격형 캐릭터의 공격력을 트레저 맵 Lv 1~10일 때 1.75배, Lv 11~20일 때 2배, Lv 21 이상일 때 2.25배로 만든다",
+        "specialNotes": "Level 1-10: 1.75x ATK boost<br>Level 11-20: 2x ATK boost<br>Level 21+: 2.25x ATK boost",
+        "specialName": "선의가 전하는 메리 크리스마스",
+        "sailor": "자신은 필살기 봉쇄 상태를 완전히 회피한다",
+        "limit": [
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base ATK by 35"
+            },
+            {
+                "description": "Acquire Potential 1: Critical Hit"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 50% chance to deal 3% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 60% chance to deal 4% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 5% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
+                ]
+            }
         ]
-      }
+    },
+    "aliases": [
+        "トニートニー・チョッパー 聖夜のトナカイ",
+        "",
+        "Limited Chopper",
+        "Secret Chopper"
     ],
-    "specialNotes": "Level 1-10: 1.75x ATK boost Level 11-20: 2x ATK boost Level 21+: 2.25x ATK boost",
-    "captainNotes": "Beli boost does not take effect if he becomes your captain in the middle of the adventure.",
-    "limit": [
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base RCV by 50"
-      },
-      {
-        "description": "Boosts base ATK by 15"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Boosts base ATK by 35"
-      },
-      {
-        "description": "Acquire Potential 1: Critical Hit"
-      }
-    ]
-  }
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Fighter",
+            "Striker"
+        ],
+        "stars": 5,
+        "cost": 20,
+        "combo": 5,
+        "slots": 4,
+        "level": 99,
+        "exp": 2000000,
+        "minHP": 1391,
+        "minATK": 753,
+        "minRCV": 83,
+        "maxHP": 2509,
+        "maxATK": 1400,
+        "maxRCV": 130,
+        "ability": 1
+    },
+    "cooldown": [
+        12,
+        12
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2358.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2358.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1,
+        "lrr": 1,
+        "tmlrr": 1
+    },
+    "drop": [],
+    "manual": []
 }
