@@ -1,54 +1,54 @@
 {
-  "name": "네코마무시, Holy Knight King",
-  "detail": {
-    "specialName": "The Guardian's Christmas Chicken",
-    "special": "Reduces Bind and Despair duration by 3 turns, reduces Special Cooldown of Fighter, Striker and Powerhouse specials by 1 turn and recovers 15x character's RCV in HP.",
-    "captain": "Boosts ATK of Striker characters by 1.5x",
-    "sailor": "Restores his own special cooldown by 1 turn when it is rewinded",
-    "potential": [
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 3 turn",
-          "Level 2: Reduces No Healing duration by 5 turn",
-          "Level 3: Reduces No Healing duration by 7 turns",
-          "Level 4: Reduces No Healing duration by 8 turns",
-          "Level 5: Reduces No Healing duration by 10 turns"
+    "name": "네코마무시, 성스러운 밤의 왕",
+    "detail": {
+        "specialName": "수호신의 크리스마스 치킨",
+        "special": "봉쇄, 선장효과 무효 상태를 3턴 회복하고, 강인형, 격투형, 타격형 캐릭터의 필살기 턴을 1턴 단축하며, 캐릭터의 회복력x15배의 체력을 회복한다",
+        "captain": "타격형 캐릭터의 공격력을 1.5배로 만든다",
+        "sailor": "자신의 필살기 턴 되돌리기를 1턴 회복한다",
+        "potential": [
+            {
+                "Name": "Reduce No Healing duration",
+                "description": [
+                    "Level 1: Reduces No Healing duration by 3 turn",
+                    "Level 2: Reduces No Healing duration by 5 turn",
+                    "Level 3: Reduces No Healing duration by 7 turns",
+                    "Level 4: Reduces No Healing duration by 8 turns",
+                    "Level 5: Reduces No Healing duration by 10 turns"
+                ]
+            }
+        ],
+        "sailorNotes": "#{rewind : 1}",
+        "limit": [
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base ATK by 35"
+            },
+            {
+                "description": "Acquire Potential 1: Slot Bind Self-reduction"
+            }
         ]
-      }
-    ],
-    "sailorNotes": "#{rewind : 1}",
-    "limit": [
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base RCV by 50"
-      },
-      {
-        "description": "Boosts base ATK by 15"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Boosts base ATK by 35"
-      },
-      {
-        "description": "Acquire Potential 1: Slot Bind Self-reduction"
-      }
-    ]
-  }
+    }
 }
