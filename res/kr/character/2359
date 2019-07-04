@@ -1,52 +1,52 @@
 {
-  "name": "니코 로빈, Christmas Surprise",
-  "detail": {
-    "specialName": "A Cute Christmas Gift",
-    "special": "If your crew has 4 or more characters with [STR], [QCK] or [INT] orbs, boosts the Color Affinity of Fighter and Cerebral characters by 1.75x for 1 turn",
-    "captain": "Boosts ATK of Cerebral characters by 1.5x",
-    "potential": [
-      {
-        "Name": "Slot Bind Self-reduction",
-        "description": [
-          "Level 1: Reduces Slot Bind duration by 3 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 5 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 7 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 8 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+    "name": "니코 로빈, 크리스마스 서프라이즈",
+    "detail": {
+        "specialName": "귀여운 크리스마스 선물",
+        "special": "일당에 [QCK][INT][STR] 슬롯을 가진 캐릭터가 총 4명 이상 있을 경우, 1턴 동안 격투형과 박식형 캐릭터의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
+        "captain": "박식형 캐릭터의 공격력을 1.5배로 만든다",
+        "potential": [
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 3 turn on this character",
+                    "Level 2: Reduces Slot Bind duration by 5 turns on this character",
+                    "Level 3: Reduces Slot Bind duration by 7 turns on this character",
+                    "Level 4: Reduces Slot Bind duration by 8 turns on this character",
+                    "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+                ]
+            }
+        ],
+        "limit": [
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 50"
+            },
+            {
+                "description": "Boosts base ATK by 10"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base RCV by 50"
+            },
+            {
+                "description": "Boosts base ATK by 15"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base ATK by 35"
+            },
+            {
+                "description": "Acquire Potential 1: Slot Bind Self-reduction"
+            }
         ]
-      }
-    ],
-    "limit": [
-      {
-        "description": "Boosts base HP by 40"
-      },
-      {
-        "description": "Boosts base HP by 50"
-      },
-      {
-        "description": "Boosts base ATK by 10"
-      },
-      {
-        "description": "Acquire 1 additional Socket slot"
-      },
-      {
-        "description": "Boosts base RCV by 50"
-      },
-      {
-        "description": "Boosts base ATK by 15"
-      },
-      {
-        "description": "Boosts base ATK by 20"
-      },
-      {
-        "description": "Boosts base HP by 80"
-      },
-      {
-        "description": "Boosts base ATK by 35"
-      },
-      {
-        "description": "Acquire Potential 1: Slot Bind Self-reduction"
-      }
-    ]
-  }
+    }
 }
