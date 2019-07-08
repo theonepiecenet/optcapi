@@ -1,0 +1,143 @@
+{
+    "name": "Violet, “Reviere” Dressrosa Kingdom Princess",
+    "detail": {
+        "captain": "Boosts ATK of Cerebral characters by 2.5x and their HP and RCV by 1.2x.",
+        "special": "Changes own orb and adjacent orbs into Matching orbs. If HP is above 50% at the time the special is activated, boosts ATK of Cerebral characters by 2x for 1 turn, by 1.75x otherwise.",
+        "specialName": "Eye Whale",
+        "sailor": {
+            "base": "Boosts base ATK and RCV of Cerebral characters by 40",
+            "level1": "Reduces Paralysis duration by 1 turn"
+        },
+        "limit": [
+            {
+                "description": "Boosts base RCV by 10"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Boosts base RCV by 15"
+            },
+            {
+                "description": "Acquire Potential 1: Critical Hit"
+            },
+            {
+                "description": "Boosts base HP by 40"
+            },
+            {
+                "description": "Boosts base HP by 60"
+            },
+            {
+                "description": "Acquire 1 additional Socket slot"
+            },
+            {
+                "description": "Boosts base ATK by 20"
+            },
+            {
+                "description": "Boosts base ATK by 30"
+            },
+            {
+                "description": "Reduce base Special Cooldown by 1 turn"
+            },
+            {
+                "description": "Boosts base RCV by 20"
+            },
+            {
+                "description": "Boosts base HP by 80"
+            },
+            {
+                "description": "Boosts base ATK by 40"
+            },
+            {
+                "description": "Acquire Sailor Ability 1: Reduces Paralysis duration by 1 turn"
+            },
+            {
+                "description": "Acquire Potential 2: Double Special Activation"
+            }
+        ],
+        "potential": [
+            {
+                "Name": "Critical Hit",
+                "description": [
+                    "Level 1: If you hit a PERFECT with this character, there is a 30% chance to deal 2% of this character's attack in extra damage",
+                    "Level 2: If you hit a PERFECT with this character, there is a 40% chance to deal 3% of this character's attack in extra damage",
+                    "Level 3: If you hit a PERFECT with this character, there is a 50% chance to deal 4% of this character's attack in extra damage",
+                    "Level 4: If you hit a PERFECT with this character, there is a 60% chance to deal 5% of this character's attack in extra damage",
+                    "Level 5: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage"
+                ]
+            },
+            {
+                "Name": "Double Special Activation",
+                "description": [
+                    "Level 1: Once per an adventure, reduce own Special Cooldown by 1 turn after the first time this special is used",
+                    "Level 2: Once per an adventure, reduce own Special Cooldown by 2 turns after the first time this special is used",
+                    "Level 3: Once per an adventure, reduce own Special Cooldown by 4 turns after the first time this special is used",
+                    "Level 4: Once per an adventure, reduce own Special Cooldown by 7 turns after the first time this special is used",
+                    "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Cerebral characters",
+                "description": [
+                    "Level 1: Adds 2% of this character's base ATK to the supported character's base ATK.",
+                    "Level 2: Adds 3% of this character's base ATK to the supported character's base ATK.",
+                    "Level 3: Adds 4% of this character's base ATK to the supported character's base ATK.",
+                    "Level 4: Adds 5% of this character's base ATK to the supported character's base ATK.",
+                    "Level 5: Adds 6% of this character's base ATK to the supported character's base ATK."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ヴィオラ “世界会議”ドレスローザ王国王女",
+        "",
+        "Viola"
+    ],
+    "unit": {
+        "type": "INT",
+        "class": [
+            "Cerebral",
+            "Fighter"
+        ],
+        "stars": 5,
+        "cost": 30,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 4000000,
+        "minHP": 832,
+        "minATK": 498,
+        "minRCV": 173,
+        "maxHP": 2082,
+        "maxATK": 1245,
+        "maxRCV": 434,
+        "ability": 1
+    },
+    "cooldown": [
+        19,
+        13
+    ],
+    "evolve": {
+        "evolution": 2607,
+        "evolvers": [
+            266,
+            93,
+            99,
+            304,
+            104
+        ],
+        "from": 2606
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2607.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2607.png"
+    },
+    "flags": {
+        "rr": 1,
+        "rro": 1
+    },
+    "drop": [],
+    "manual": []
+}
