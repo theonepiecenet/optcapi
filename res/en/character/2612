@@ -1,0 +1,54 @@
+{
+  "name": "Big Mom, Yonko's in Contact",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 1.5x.",
+    "special": "Reduces ATK DOWN duration by 4 turns and reduces enemies' Threshold Damage Reduction duration by 4 turns. If you are on a Treasure Map, boosts ATK of Striker, Shooter and Cerebral characters depending on your Treasure Map Level for 3 turns.",
+    "specialNotes": "Level 1-10: 1.5x ATK boost<br>Level 11-20: 1.75x ATK boost<br>Level 21+: 2x ATK boost",
+    "specialName": "Incursion Proclamation"
+  },
+  "aliases": [
+    "ビッグ・マム 接触する四皇",
+    "",
+    "Secret Big Mom",
+    "Limited Big Mom",
+    "Secret Linlin",
+    "Limited Linlin"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Driven",
+      "Shooter"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 875,
+    "minATK": 543,
+    "minRCV": 98,
+    "maxHP": 2381,
+    "maxATK": 1254,
+    "maxRCV": 245,
+    "ability": 1
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2612.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2612.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

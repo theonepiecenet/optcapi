@@ -1,0 +1,55 @@
+{
+  "name": "Fujitora, Tiger and Dog",
+  "aliases": [
+    "",
+    "",
+    "Issho"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "minHP": 951,
+    "minATK": 402,
+    "minRCV": 86,
+    "maxHP": 1803,
+    "maxATK": 755,
+    "maxRCV": 122,
+    "ability": 1
+  },
+  "cooldown": null,
+  "evolution": {
+    "evolution": 2618,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      2616
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2617.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2617.png"
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Sakazuki & Issho",
+      "thumb": 2618,
+      "data": [
+        "Primordial Sea"
+      ]
+    }
+  ],
+  "manual": []
+}

@@ -2,12 +2,12 @@
   "name": "Jinbe, Commander of the Green Room",
   "detail": {
     "captain": "Boosts ATK of Fighter and Cerebral characters by 2.25x and their HP by 1.1x.",
-    "special": "Adds 0.5x to Chain multiplier for 2 turns and reduces any damage received above 3,000 HP by ?% for 2 turns. If your Captain is a Fighter and Cerebral character, removes enemies Threshold Damage Reduction buff duration completely.",
+    "special": "Adds 0.5x to Chain multiplier for 2 turns and reduces any damage received above 3,000 HP by ?% for 2 turns. If your Captain is a Fighter or Cerebral character, removes enemies Threshold Damage Reduction buff duration completely.",
     "specialName": "Intruding on the Holy Land",
     "sailor": "Boosts base ATK, HP and RCV of Fighter and Cerebral characters by 50"
   },
   "aliases": [
-    "",
+    "ジンベエ グリーンルームの主",
     "",
     "Coliseum Jinbe",
     "Coliseum Jimbe",
@@ -36,7 +36,7 @@
     "maxHP": 1712,
     "maxATK": 712,
     "maxRCV": 123,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     29,
@@ -44,7 +44,13 @@
   ],
   "evolution": {
     "evolution": 2611,
-    "evolvers": []
+    "evolvers": [
+      118,
+      96,
+      1180,
+      301,
+      101
+    ]
   },
   "evolve": [],
   "image": {

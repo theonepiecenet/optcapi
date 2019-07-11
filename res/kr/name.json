@@ -41392,7 +41392,7 @@
             "Cerebral"
         ],
         "aliases": [
-            "",
+            "ジンベエ グリーンルームの主",
             "",
             "Coliseum Jinbe",
             "Coliseum Jimbe",
@@ -41413,7 +41413,7 @@
             "Cerebral"
         ],
         "aliases": [
-            "",
+            "ジンベエ 船長への面目",
             "",
             "Coliseum Jinbe",
             "Coliseum Jimbe",
@@ -41426,13 +41426,53 @@
         ]
     },
     {
-        "id": 2612
+        "id": 2612,
+        "name": "Big Mom, Yonko's in Contact",
+        "type": "INT",
+        "class": [
+            "Driven",
+            "Shooter"
+        ],
+        "aliases": [
+            "ビッグ・マム 接触する四皇",
+            "",
+            "Secret Big Mom",
+            "Limited Big Mom",
+            "Secret Linlin",
+            "Limited Linlin"
+        ]
     },
     {
-        "id": 2613
+        "id": 2613,
+        "name": "Kaido, Yonko",
+        "type": "STR",
+        "class": [
+            "Driven",
+            "Striker"
+        ],
+        "aliases": [
+            "カイドウ 四皇",
+            "",
+            "Secret Kaido",
+            "Limited Kaido"
+        ]
     },
     {
-        "id": 2614
+        "id": 2614,
+        "name": "Doflamingo, Solitary Cell",
+        "type": "INT",
+        "class": [
+            "Striker",
+            "Cerbral"
+        ],
+        "aliases": [
+            "ドフラミンゴ 淋しき独房",
+            "",
+            "Secret Doflamingo",
+            "Limited Doflamingo",
+            "Secret Doffy",
+            "Limited Doffy"
+        ]
     },
     {
         "id": 2615,
@@ -41443,19 +41483,84 @@
             "Striker"
         ],
         "aliases": [
+            "シャーロット・ペロスペロー 報復の飴細工",
             "",
-            "",
-            ""
+            "Support Perospero"
         ]
     },
     {
-        "id": 2616
+        "id": 2616,
+        "name": "Sakazuki, Tiger and Dog",
+        "type": "STR",
+        "class": [
+            "Fighter",
+            "Driven"
+        ],
+        "aliases": [
+            "",
+            "",
+            "Akainu"
+        ]
     },
     {
-        "id": 2617
+        "id": 2617,
+        "name": "Fujitora, Tiger and Dog",
+        "type": "INT",
+        "class": [
+            "Slasher",
+            "Driven"
+        ],
+        "aliases": [
+            "",
+            "",
+            "Issho"
+        ]
     },
     {
-        "id": 2618
+        "id": 2618,
+        "name": "Sakazuki & Issho, Tiger and Dog",
+        "type": [
+            "STR",
+            "INT"
+        ],
+        "class": [
+            [
+                "Striker",
+                "Driven"
+            ],
+            [
+                "Striker",
+                "Driven"
+            ],
+            [
+                "Striker",
+                "Driven"
+            ]
+        ],
+        "aliases": [
+            "",
+            "",
+            "Akainu",
+            "Fujitora",
+            "Akainu&Fujitora",
+            "Akainu & Fujitora",
+            "Akainu and Fujitora",
+            "Akainu Fujitora",
+            "AkainuFujitora",
+            "Fujitora&Akainu",
+            "Fujitora and Akainu",
+            "Fujitora Akainu",
+            "FujitoraAkainu",
+            "Sakazuki&Issho",
+            "Sakazuki & Issho",
+            "Sakazuki and Issho",
+            "Sakazuki Issho",
+            "SakazukiIssho",
+            "Issho&Sakazuki",
+            "Issho and Sakazuki",
+            "Issho Sakazuki",
+            "IsshoSakazuki"
+        ]
     },
     {
         "id": 2619
@@ -41497,7 +41602,13 @@
         "id": 2631
     },
     {
-        "id": 2632
+        "id": 2632,
+        "name": "Garp the Fist, Standing in the Way of a Legend",
+        "type": "DEX",
+        "class": [
+            "Fighter",
+            "Powerhouse"
+        ]
     },
     {
         "id": 2633

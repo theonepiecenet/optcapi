@@ -1,0 +1,91 @@
+{
+  "name": "Garp the Fist, Standing in the Way of a Legend",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 2.5x, their HP by 1.2x and makes [STR] and [DEX] orbs beneficial for all characters. If this character becomes your captain in the middle of an island, boosts ATK of all characters by 4x instead",
+    "captainNotes": "#{beneficial}",
+    "special": [
+      {
+        "description": "Deals 50x character's ATK in [DEX] damage to one enemy. If your Captain is a Free Spirit or Powerhouse character, reduces Special Cooldown of Powerhouse and Fighter specials by 1 turn, reduces enemy Barrier and Damage Nullification duration by 1 turn and swaps this unit with your captain for 1 turn.",
+        "cooldown": [
+          28,
+          null
+        ]
+      },
+      {
+        "description": "Deals 200x character's ATK in [DEX] damage to one enemy. If your Captain is a Free Spirit or Powerhouse character, reduces Special Cooldown of Powerhouse and Fighter specials by 2 turns, reduces enemy Barrier and Damage Nullification duration by 3 turns and swaps this unit with your captain for 2 turns.",
+        "cooldown": [
+          32,
+          null
+        ]
+      }
+    ],
+    "specialNotes": "This is the same type of ability as raid boss Shiki's swap. You cannot use it if another effect swaps your captain. (Such as if Shiki swaps first)",
+    "specialName": "Parental Fist",
+    "sailor": {
+      "base": "None",
+      "level1": "Makes [STR] orbs beneficial for this character",
+      "level2": "Restores his own special cooldown by 2 turns when it is rewinded"
+    },
+    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by ?%",
+          "Level 2: Reduce damage taken from [QCK] characters by ?%",
+          "Level 3: Reduce damage taken from [QCK] characters by ?%",
+          "Level 4: Reduce damage taken from [QCK] characters by ?%",
+          "Level 5: Reduce damage taken from [QCK] characters by ?%"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by ? turns on this character",
+          "Level 2: Reduces Slot Bind duration by ? turns on this character",
+          "Level 3: Reduces Slot Bind duration by ? turns on this character",
+          "Level 4: Reduces Slot Bind duration by ? turns on this character",
+          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by ? turn",
+          "Level 2: Reduces No Healing duration by ? turns",
+          "Level 3: Reduces No Healing duration by ? turns",
+          "Level 4: Reduces No Healing duration by ? turns",
+          "Level 5: Reduces No Healing duration by ? turns"
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 60,
+    "combo": 5,
+    "slots": 2,
+    "level": 99,
+    "exp": null,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 1581,
+    "maxATK": 880,
+    "maxRCV": 100,
+    "ability": null
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2632.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2632.png"
+  },
+  "drop": [],
+  "manual": []
+}

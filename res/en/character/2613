@@ -1,0 +1,52 @@
+{
+  "name": "Kaido, Yonko",
+  "detail": {
+    "captain": "Boosts ATK of Driven characters by 1.5x.",
+    "special": "Randomizes orbs on Striker and Driven characters into either [STR] or [DEX] orbs and locks all orbs for 1 turn. If you are on a Treasure Map, amplifies the effect of orbs for Striker and Driven characters depending on your Treasure Map Level for 1 turn.",
+    "specialNotes": "Level 1-10: 1.75x ATK boost<br>Level 11-20: 2x ATK boost<br>Level 21+: 2.25x ATK boost",
+    "specialName": "Rejected Proclamation"
+  },
+  "aliases": [
+    "カイドウ 四皇",
+    "",
+    "Secret Kaido",
+    "Limited Kaido"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Driven",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 942,
+    "minATK": 547,
+    "minRCV": 115,
+    "maxHP": 2356,
+    "maxATK": 1278,
+    "maxRCV": 288,
+    "ability": 1
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2613.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2613.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

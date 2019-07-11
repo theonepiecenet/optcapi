@@ -1,0 +1,53 @@
+{
+  "name": "Doflamingo, Solitary Cell",
+  "detail": {
+    "captain": "If you don't attack with him, reduces damage received by 30% for that turn.",
+    "special": "Reduces Chain Coefficient Reduction duration by 4 turns. makes [DEX] orbs beneficial for all characters for 1 turn and boosts ATK of [STR] and [INT] characters by 1.75x for 1 turn.",
+    "specialName": "Proclaiming a Power Struggle"
+  },
+  "aliases": [
+    "ドフラミンゴ 淋しき独房",
+    "",
+    "Secret Doflamingo",
+    "Limited Doflamingo",
+    "Secret Doffy",
+    "Limited Doffy"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Striker",
+      "Cerbral"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 1392,
+    "minATK": 682,
+    "minRCV": 183,
+    "maxHP": 2489,
+    "maxATK": 1103,
+    "maxRCV": 332,
+    "ability": 1
+  },
+  "cooldown": [
+    14,
+    14
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2614.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2614.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
+}
