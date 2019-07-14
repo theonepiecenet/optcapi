@@ -1,0 +1,48 @@
+{
+  "name": "Nightmare Luffy [Neo], Warrior of Hope",
+  "detail": {
+    "special": "Deals 17 hits of random [QCK] damage to random enemies, reduces enemies' Threshold Damage Reduction duration by 4 turns and boosts ATK of Powerhouse characters by 1.75x for 1 turn.",
+    "specialName": "Gum-Gum Storm [Neo]",
+    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Powerhouse characters by 3.5x, reduces crew's current HP by 10% at the end of each turn and reduces his own ATK multiplier by 0.1x at the end of each turn",
+    "captainNotes": "His ATK multiplier will be 3.5x on the first turn, 3.4x on the second, 3.3x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Powerhouse characters. You will not die to the HP reduction"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 3320,
+    "maxATK": 1580,
+    "maxRCV": -200,
+    "ability": null
+  },
+  "evolve": {
+    "evolution": 3357,
+    "evolvers": [],
+    "from": 3356
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3357.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3357.png"
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}
