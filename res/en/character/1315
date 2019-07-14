@@ -4,21 +4,21 @@
     "captain": "Boosts ATK of all characters by 2x after the 2nd PERFECT in a row and by 3x after the 5th PERFECT in a row.",
     "special": [
       {
-        "description": "If HP is below 3,000, reduces No Healing debuff by 1 turn. Recovers 3x character's RCV in HP",
+        "description": "If HP is below 3,000, reduces No Healing debuff duration by 1 turn. Recovers 3x character's RCV in HP",
         "cooldown": [
           15,
           9
         ]
       },
       {
-        "description": "If HP is below 3,000, reduces No Healing debuff by 3 turns. Recovers 6x character's RCV in HP",
+        "description": "If HP is below 3,000, reduces No Healing debuff duration by 3 turns. Recovers 6x character's RCV in HP",
         "cooldown": [
           20,
           14
         ]
       },
       {
-        "description": "If HP is below 3,000, removes No Healing debuff. Recovers 13x character's RCV in HP",
+        "description": "If HP is below 3,000, removes No Healing debuff duration completely. Recovers 13x character's RCV in HP",
         "cooldown": [
           24,
           18
