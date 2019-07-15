@@ -1,0 +1,55 @@
+{
+  "name": "Carrot, The Wonderland Under the Sea",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit and Powerhouse characters by 2.75x",
+    "special": "Reduces crew's Chain Multiplier Limit and Silence duration by 2 turns, reduces enemies' Percent Damage Reduction Buff duration by 2 turns. If your crew has 3 or more characters of the same Type, amplifies the effect of orbs for all characters by 2x for 1 turn.",
+    "sailor": "Boosts base ATK, HP and RCV of all characters by 20",
+    "specialName": "Breathtaking Smile"
+  },
+  "aliases": [
+    "",
+    "",
+    "Summer Carrot",
+    "Swimsuit Carrot"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Free Spirit",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 867,
+    "minATK": 522,
+    "minRCV": 106,
+    "maxHP": 2345,
+    "maxATK": 1412,
+    "maxRCV": 288,
+    "ability": null
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolve": {
+    "evolution": 2626,
+    "evolvers": [],
+    "from": 2625
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2626.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2626.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

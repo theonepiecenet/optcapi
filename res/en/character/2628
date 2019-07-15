@@ -1,0 +1,52 @@
+{
+  "name": "Charlotte Smoothie, The Commander's Vacation",
+  "detail": {
+    "captain": "Boosts ATK of [DEX], [PSY] and [INT] characters by 2.25x and their HP by 1.25x. Recovers 3x character's RCV in HP at the end of each turn",
+    "special": "Makes [DEX], [PSY] and [INT] orbs beneficial for [DEX], [PSY] and [INT] characters for 2 turns and adds 0.4x to Chain multiplier for 2 turns.",
+    "sailor": "Boosts base ATK, HP and RCV of [DEX], [PSY] and [INT] characters by 30",
+    "specialName": "Juicy Smile"
+  },
+  "aliases": [
+    "",
+    "",
+    "Summer Smoothie",
+    "Swimsuit Smoothie",
+    "Summer Charlotte Smoothie",
+    "Swimsuit Charlott Smoothie"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 945,
+    "minATK": 487,
+    "minRCV": 124,
+    "maxHP": 2364,
+    "maxATK": 1218,
+    "maxRCV": 312,
+    "ability": null
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": {
+    "evolution": 2628,
+    "evolvers": [],
+    "from": 2627
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2628.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2628.png"
+  },
+  "drop": [],
+  "manual": []
+}

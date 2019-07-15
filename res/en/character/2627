@@ -1,0 +1,61 @@
+{
+  "name": "Charlotte Smoothie, The Commander Wringing Out Juice",
+  "detail": {
+    "captain": "Boosts ATK of [DEX], [PSY] and [INT] characters by 2x",
+    "special": "Makes [DEX], [PSY] and [INT] orbs beneficial for [DEX], [PSY] and [INT] characters for 2 turns and adds 0.4x to Chain multiplier for 2 turns.",
+    "sailor": "Boosts base ATK, HP and RCV of [DEX], [PSY] and [INT] characters by 30",
+    "specialName": "Juicy Smile"
+  },
+  "aliases": [
+    "",
+    "",
+    "Summer Smoothie",
+    "Swimsuit Smoothie",
+    "Summer Charlotte Smoothie",
+    "Swimsuit Charlott Smoothie"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 12,
+    "combo": 5,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 102,
+    "minATK": 102,
+    "minRCV": 55,
+    "maxHP": 1300,
+    "maxATK": 669,
+    "maxRCV": 171,
+    "ability": null
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolution": {
+    "evolution": 2628,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2627.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2627.png"
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Battle Blitz! Girls of Summer Paradise",
+      "thumb": 2626,
+      "data": [
+        "Chopperman Missions"
+      ]
+    }
+  ],
+  "manual": []
+}

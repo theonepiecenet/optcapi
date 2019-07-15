@@ -1,0 +1,55 @@
+{
+  "name": "Sugar, Flamingo Pool's Most Important Person",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 2.5x at the start of the chain, boosts ATK by 4x following a chain of [PSY] > [INT] attacks no lower than Good and reduces damage received from [QCK] enemies by 30%",
+    "special": "Reduces enemies' Percent Damage Reduction and Resilience Buffs duration by 5 turns and changes all orbs to [DEX] orbs. If Sugar is your Captain or Friend/Guest Captain, boosts ATK of [DEX] characters by 2.25x for 1 turn.",
+    "sailor": "Boosts base ATK, HP and RCV of [DEX], [PSY] and [INT] characters by 30",
+    "specialName": "Summer Mischievous Smile:  \"Sweet Little Black Bears\""
+  },
+  "aliases": [
+    "",
+    "",
+    "Summer Sugar",
+    "Swimsuit Sugar"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Cerebral",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 696,
+    "minATK": 472,
+    "minRCV": 152,
+    "maxHP": 1882,
+    "maxATK": 1276,
+    "maxRCV": 412,
+    "ability": null
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolve": {
+    "evolution": 2624,
+    "evolvers": [],
+    "from": 2623
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2624.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2624.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

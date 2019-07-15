@@ -1,0 +1,55 @@
+{
+  "name": "Carrot, Midsummer Wonderland",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit and Powerhouse characters by 2.25x",
+    "special": "Reduces crew's Chain Multiplier Limit and Silence duration by 2 turns, reduces enemies' Percent Damage Reduction Buff duration by 2 turns. If your crew has 3 or more characters of the same Type, amplifies the effect of orbs for all characters by 2x for 1 turn.",
+    "sailor": "Boosts base ATK, HP and RCV of all characters by 20",
+    "specialName": "Breathtaking Smile"
+  },
+  "aliases": [
+    "",
+    "",
+    "Summer Carrot",
+    "Swimsuit Carrot"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Free Spirit",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 268,
+    "minATK": 161,
+    "minRCV": 32,
+    "maxHP": 1032,
+    "maxATK": 621,
+    "maxRCV": 126,
+    "ability": null
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolution": {
+    "evolution": 2626,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2625.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2625.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}
