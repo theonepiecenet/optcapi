@@ -1,3 +1,91 @@
 {
-  "name": "돈키호테 도플라밍고, Country's Future Hanging by a Thread "
+    "name": "페로나, Three Swords Style Swordsman's Supporter",
+    "detail": {
+        "captain": "Boosts ATK Driven and Cerebral characters by 2.5x and their RCV by 1.25x.",
+        "special": "Reduces the defense of all enemies by 100% for 2 turns, reduces Special Cooldown of characters in the right column by 2 turns and changes the orbs in the top row into [QCK] orbs, changes the orbs in the middle row into [PSY] orbs, changes the orbs in the bottom row into [INT] orbs.",
+        "specialName": "Hollow Farewell",
+        "sailor": "Reduces Paralysis duration by 1 turn",
+        "potential": [
+            {
+                "Name": "Slot Bind Self-reduction",
+                "description": [
+                    "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+                    "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+                    "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+                    "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+                    "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+                ]
+            },
+            {
+                "Name": "Cooldown Reduction",
+                "description": [
+                    "Level 1: Reduce own Special Cooldown by 1 turn at the start of the fight",
+                    "Level 2: Reduce own Special Cooldown by 1 turn at the start of the fight",
+                    "Level 3: Reduce own Special Cooldown by 2 turn at the start of the fight",
+                    "Level 4: Reduce own Special Cooldown by 2 turn at the start of the fight",
+                    "Level 5: Reduce own Special Cooldown by 10 turn at the start of the fight"
+                ]
+            }
+        ],
+        "support": [
+            {
+                "Characters": "Zoro and Mihawk",
+                "description": [
+                    "Level 1: Once per adventure, when you reach the final stage, makes PERFECTs slightly easier to hit for 2 turns.",
+                    "Level 2: Once per adventure, when you reach the final stage, makes PERFECTs slightly easier to hit for 2 turns.",
+                    "Level 3: Once per adventure, when you reach the final stage, changes [STR] orbs on Slasher characters orb into [DEX] and [INT] orbs and makes PERFECTs slightly easier to hit for 2 turns.",
+                    "Level 4: Once per adventure, when you reach the final stage, changes [STR] and [QCK] orbs on Slasher characters orb into [DEX] and [INT] orbs and makes PERFECTs slightly easier to hit for 2 turns.",
+                    "Level 5: Once per adventure, when you reach the final stage, changes [STR], [QCK] and [PSY] orbs on Slasher characters orb into [DEX] and [INT] orbs and makes PERFECTs slightly easier to hit for 2 turns."
+                ]
+            }
+        ]
+    },
+    "aliases": [
+        "ペローナ 三刀流の剣士の恩人",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "PSY",
+        "class": [
+            "Driven",
+            "Cerebral"
+        ],
+        "stars": 5,
+        "cost": 20,
+        "combo": 4,
+        "slots": 4,
+        "level": 99,
+        "exp": 2000000,
+        "minHP": 1102,
+        "minATK": 503,
+        "minRCV": 172,
+        "maxHP": 1904,
+        "maxATK": 905,
+        "maxRCV": 286,
+        "ability": 1
+    },
+    "cooldown": [
+        12,
+        12
+    ],
+    "evolve": [],
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2499.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2499.png"
+    },
+    "flags": {
+        "special": 1
+    },
+    "drop": [
+        {
+            "type": "Special",
+            "name": "Ordeal of the Blade",
+            "thumb": 2475,
+            "data": [
+                "Chopperman Missions"
+            ]
+        }
+    ],
+    "manual": []
 }
