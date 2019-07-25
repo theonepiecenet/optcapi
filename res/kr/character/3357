@@ -1,0 +1,48 @@
+{
+    "name": "나이트메어 루피 「개」, 희망의 전사",
+    "detail": {
+        "special": "무작위의 적에게 [QCK] 큰 데미지를 17회 주며, 적 전체에게 걸려 있는 [THRESHOLD DAMAGE] 상태를 3턴 줄이고, 1턴 동안 강인형 캐릭터의 공격력을 1.75배로 만든다",
+        "specialName": "고무고무 폭풍우 「개」",
+        "captain": "모험 시작 시 필살기 턴을 1턴 단축하고, 강인형 캐릭터의 공격력을 3.5배로 만들지만, 턴이 경과할 때마다 공격력과 체력이 감소한다",
+        "captainNotes": "His ATK multiplier will be 3.5x on the first turn, 3.4x on the second, 3.3x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Powerhouse characters. You will not die to the HP reduction"
+    },
+    "aliases": [
+        "",
+        "",
+        ""
+    ],
+    "unit": {
+        "type": "QCK",
+        "class": [
+            "Fighter",
+            "Powerhouse"
+        ],
+        "stars": 5,
+        "cost": 50,
+        "combo": 4,
+        "slots": 2,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": null,
+        "minATK": null,
+        "minRCV": null,
+        "maxHP": 3320,
+        "maxATK": 1580,
+        "maxRCV": -200,
+        "ability": null
+    },
+    "evolve": {
+        "evolution": 3357,
+        "evolvers": [],
+        "from": 3356
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3357.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3357.png"
+    },
+    "flags": {
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
+}
