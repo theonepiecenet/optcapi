@@ -1,0 +1,65 @@
+{
+  "name": "Nami, Straw Hat Pirates' Summer Vacation Outfit",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by 1.5x and their RCV by 1.2x.",
+    "special": "Reduces damage received by 50% for 1 turn and reduces enemies' Threshold Damage Reduction and Resilience Buffs duration by 3 turns.",
+    "specialName": "Cat Burglar's Speciality",
+    "support": [
+      {
+        "Characters": "Luffy, Zoro, Sanji, Usopp, Chopper, Robin, Franky and Brook",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Adds 1% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Adds 2% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Adds 2% of this character's base ATK to the supported character's base ATK.",
+          "Level 5: Adds 3% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Summer Nami"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": 928,
+    "minATK": 436,
+    "minRCV": 80,
+    "maxHP": 2320,
+    "maxATK": 1090,
+    "maxRCV": 200,
+    "ability": null
+  },
+  "cooldown": [
+    18,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2636.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2636.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Pirate World Fair! Vacation Fortnight",
+      "thumb": 2635,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

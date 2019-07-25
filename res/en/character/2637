@@ -1,0 +1,65 @@
+{
+  "name": "Ussop, Straw Hat Pirates' Summer Vacation Outfit",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 2.25x and their HP by 1.2x.",
+    "special": "Deals 20x character's ATK in [INT] damage to all enemies, amplifies the effect of orbs for Free Spirit characters by 1.75x for 1 turn.",
+    "specialName": "Summer Vacation is the Target",
+    "support": [
+      {
+        "Characters": "Luffy, Zoro, Sanji, Nami, Chopper, Robin, Franky and Brook",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Summer Usopp"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Free Spirit",
+      "Shooter"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": 828,
+    "minATK": 468,
+    "minRCV": 86,
+    "maxHP": 2070,
+    "maxATK": 1170,
+    "maxRCV": 215,
+    "ability": null
+  },
+  "cooldown": [
+    18,
+    11
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2637.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2637.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Pirate World Fair! Vacation Fortnight",
+      "thumb": 2635,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Nico Robin, Straw Hat Pirates' Summer Vacation Outfit",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 1.5x and their HP by 1.2x.",
+    "special": "Reduces Paralysis and Despair duration by 3 turns.",
+    "specialName": "A Refresh before the Treasure Hunt",
+    "support": [
+      {
+        "Characters": "Luffy, Zoro, Usopp, Sanji, Nami, Chopper, Franky and Brook",
+        "description": [
+          "Level 1: Adds 1% of this character's base HP to the supported character's base HP.",
+          "Level 2: Adds 1% of this character's base HP to the supported character's base HP.",
+          "Level 3: Adds 2% of this character's base HP to the supported character's base HP.",
+          "Level 4: Adds 2% of this character's base HP to the supported character's base HP.",
+          "Level 5: Adds 3% of this character's base HP to the supported character's base HP."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Summer Robin"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": 973,
+    "minATK": 416,
+    "minRCV": 79,
+    "maxHP": 2432,
+    "maxATK": 1040,
+    "maxRCV": 198,
+    "ability": null
+  },
+  "cooldown": [
+    18,
+    10
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2638.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2638.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Pirate World Fair! Vacation Fortnight",
+      "thumb": 2635,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}
