@@ -76,6 +76,18 @@
           "Level 5: Reduce damage taken from [INT] characters by 7%"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Nami",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses their special, reduces damage received by 20% for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses their special, reduces damage received by 25% for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses their special, reduces damage received by 25% for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses their special, reduces damage received by 30% for 1 turn.",
+          "Level 5: Once per an adventure, when the supported character uses their special, reduces damage received by 50% for 1 turn and changes the supported character's adjacent orbs into Matching orbs."
+        ]
+      }
     ]
   },
   "aliases": [
