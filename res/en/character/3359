@@ -1,0 +1,52 @@
+{
+  "name": "Demon Bamboo Vergo [Neo], Donquiote Family Senior Executive",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by 2.5x, their HP by 1.2x and reduces damage received by 10%",
+    "special": "Deals 100x character's ATK in [STR] damage to one enemy, reduces enemies' Percent Damage Reduction Buff duration by 4 turns and boosts ATK of Striker characters by 1.75x for 1 turn",
+    "specialName": "Pure-Black Demon [Neo]"
+  },
+  "aliases": [
+    "",
+    "",
+    "Neo Vergo",
+    "Kai Vergo"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": null,
+    "minATK": null,
+    "minRCV": null,
+    "maxHP": 2453,
+    "maxATK": 1422,
+    "maxRCV": 253,
+    "ability": null
+  },
+  "cooldown": [
+    null,
+    16
+  ],
+  "evolve": {
+    "evolution": 3359,
+    "evolvers": [],
+    "from": 3358
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3359.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3359.png"
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}

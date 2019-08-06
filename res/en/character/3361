@@ -1,0 +1,56 @@
+{
+  "name": "Charlotte Pudding, Devilish White Swimsuit",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 2.25x and their RCV by 1.2x",
+    "special": "Recovers 7,000 HP, reduces crew's ATK DOWN and enemies' Resilience Buffs duration by 5 turns and changes adjacent orbs into Matching Orbs",
+    "specialName": "Eyes Hiding Shyness",
+    "sailor": "Reduces Paralysis duration by 1 turn"
+  },
+  "aliases": [
+    "",
+    "",
+    "White Swimsuit Pudding",
+    "White Summer Pudding"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Cerebral",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 5,
+    "slots": 3,
+    "level": 99,
+    "exp": 3000000,
+    "minHP": 858,
+    "minATK": 472,
+    "minRCV": 143,
+    "maxHP": 1712,
+    "maxATK": 1088,
+    "maxRCV": 352,
+    "ability": null
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolve": {
+    "evolution": 3361,
+    "evolvers": [],
+    "from": 3360
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3361.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3361.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}

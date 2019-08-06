@@ -1,0 +1,56 @@
+{
+  "name": "Charlotte Pudding, White Summer Sweets",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 1.75x",
+    "special": "Recovers 7,000 HP, reduces crew's ATK DOWN and enemies' Resilience Buffs duration by 5 turns and changes adjacent orbs into Matching Orbs",
+    "specialName": "Eyes Hiding Shyness",
+    "sailor": "Reduces Paralysis duration by 1 turn"
+  },
+  "aliases": [
+    "",
+    "",
+    "White Swimsuit Pudding",
+    "White Summer Pudding"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Cerebral",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 13,
+    "combo": 6,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 102,
+    "minATK": 118,
+    "minRCV": 44,
+    "maxHP": 924,
+    "maxATK": 525,
+    "maxRCV": 162,
+    "ability": null
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolution": {
+    "evolution": 3361,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3360.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3360.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}
