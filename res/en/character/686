@@ -3,7 +3,20 @@
   "detail": {
     "special": "Delays all enemies for 1 turn, recovers 3x character's RCV in HP at the end of each turn for 3 turns",
     "specialName": "Captivating Perfume Dance - Relaxation",
-    "captain": "Boosts ATK and RCV of Slasher characters by 1.5x"
+    "captain": "Boosts ATK and RCV of Slasher characters by 1.5x",
+    "support": [
+      {
+        "Characters": "Slasher characters",
+        "description": [
+          "Level 1: Once per adventure, when you reach the final stage, recovers 100 HP at the end of each turn for 3 turns",
+          "Level 2: Once per adventure, when you reach the final stage, recovers 200 HP at the end of each turn for 3 turns",
+          "Level 3: Once per adventure, when you reach the final stage, recovers 300 HP at the end of each turn for 3 turns",
+          "Level 4: Once per adventure, when you reach the final stage, recovers 500 HP at the end of each turn for 3 turns",
+          "Level 5: Once per adventure, when you reach the final stage, recovers 700 HP at the end of each turn for 3 turns"
+        ]
+      }
+    ],
+    "supportNotes": "This Support Ability is on Global and Korea servers only"
   },
   "aliases": [
     "ビビのひとやすみ",
