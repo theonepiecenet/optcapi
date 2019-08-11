@@ -1,12 +1,12 @@
 {
-    "name": "빈스모크 이치디, Germa 66 Red Flash",
+    "name": "빈스모크 이치디, 제르마 66 붉은 섬광",
     "detail": {
-        "captain": "Boosts ATK of Powerhouse characters and [STR] characters by 2.5x and their HP by 1.2x. Boosts RCV of Powerhouse characters by 1.2x.",
+        "captain": "강인형 캐릭터와 [STR]의 공격력을 각각 2.5배, 1.2배로 만들고, 강인형 캐릭터의 체력을 1.2배로 만든다",
         "captainNotes": "Attack boost stacks, so an [STR] Powerhouse character has a 3x ATK",
-        "special": "If there are 6 Powerhouse characters in your crew, deals 120x character's ATK as typeless damage to all enemies at the end of the turn for 3 turns. If your Captain's orb or Friend Captain's orb is [TND], removes enemy's Defense Reduction Debuff Protection duration completely, delays all enemies for 2 turns and reduces the defense of all enemies by 100% for 1 turn.",
-        "specialName": "Sparking Valkyrie: Spark Light Fists",
+        "special": "일당에 강인형 캐릭터가 6명 있을 때, 3턴 동안 턴 종료 시 적 전체에 캐릭터의 공격력x120배의 무 속성 데미지를 준다. 선장, 친구 선장, 조력자 선장 중 하나의 슬롯이 [TND] 슬롯일 때, 적 전체에게 걸려 있는 방어력 감소 무효 상태를 완전히 해제하고, 적 전체의 공격을 2턴 지연시키며 1턴 동안 적 전체의 방어력을 0으로 만든다",
+        "specialName": "스파킹 발키리",
         "sailor": {
-            "base": "Reduces Silence duration on this character by 3 turns",
+            "base": "자신의 필살기 봉쇄 상태를 3턴 회복한다",
             "level1": "If there are 6 Powerhouse characters in your crew, makes [STR] orbs beneficial for Powerhouse characters"
         },
         "limit": [
