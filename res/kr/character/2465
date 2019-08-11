@@ -1,12 +1,12 @@
 {
-    "name": "샬롯 크래커, Thousand Arms' Fierce Attack",
+    "name": "샬롯 크래커, 천수와도 같은 맹공",
     "detail": {
-        "captain": "Boosts ATK of Powerhouse characters by 3.75x. Boosts HP of Fighter, Slasher, Striker and Shooter characters by 1.35x.",
-        "special": "Changes [EMPTY], [BOMB], [RCV], [G], [BLOCK] and own orbs into Matching orbs. If your Captain is a Fighter, Slasher, Shooter or Striker character, adds 1.1x to Chain multiplier for 2 turns. If your Captain is a Free Spirit, Cerebral, Powerhouse or Driven character, boosts the Color Affinity of Free Spirit, Cerebral, Powerhouse and Driven characters by 1.75x for 1 turn.",
-        "specialName": "Roaring \"Honey Preztel\"",
+        "captain": "강인형 캐릭터의 공격력을 3.75배, 격투형, 참격형, 타격형, 사격형 캐릭터의 체력을 1.35배로 만든다",
+        "special": "일당의 [EMPTY][BLOCK][BOMB][RCV][G] 슬롯과 자신의 슬롯을 속성 일치 슬롯으로 바꾼다. 선장이 격투형, 참격형, 타격형 사격형 캐릭터일 경우 2턴 동안 체인 계수가 +1.1 되며, 선장이 자유형 야심형, 박식형, 강인형 캐릭터일 경우 2턴 동안 자유형, 야심형, 박식형, 강인형 캐릭터의 일반 공격에 의한 속성 상성의 영향을 1.75배로 만든다",
+        "specialName": "울려 퍼지는 「허니 프레첼」",
         "sailor": {
-            "base": "When any other Powerhouse or Slasher character uses a special, reduces own cooldown by 1 turn",
-            "level1": "Boosts base ATK, HP and RCV of Slasher and Powerhouse characters by 100"
+            "base": "자신 이외의 강인형, 참격형 캐릭터가 필살기 사용 시, 자신의 필살기 턴이 1턴 단축된다",
+            "level1": "강인형과 참격형 캐릭터의 기본 능력치가 100 상승한다"
         },
         "limit": [
             {
