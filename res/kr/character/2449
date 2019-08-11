@@ -1,12 +1,12 @@
 {
-    "name": "빈스모크 니디, Germa Royal Family Second Son",
+    "name": "빈스모크 니디, 제르마 왕가 차남",
     "detail": {
-        "captain": "Boosts ATK of Powerhouse characters and [QCK] characters by 2.25x and their HP by 1.2x. Boosts RCV of Powerhouse characters by 1.2x.",
+        "captain": "강인형 캐릭터와 [QCK]의 공격력을 각각 2.25배, 1.2배로 만들고, 강인형 캐릭터의 체력을 1.2배로 만든다",
         "captainNotes": "Attack boost stacks, so an [QCK] Powerhouse character has a 2.7x ATK",
-        "special": "If there are 6 Powerhouse characters in your crew, boosts ATK against enemies with reduced defense by 1.75x for 1 turn. If your Captain's orb or Friend Captain's orb is [TND], changes all orbs, including [BLOCK] orbs, into [TND] orbs and makes [TND] orbs beneficial for all characters for 1 turn.",
-        "specialName": "Lightspeed Blade: Henry Blazer",
+        "special": "일당에 강인형 캐릭터가 6명 있을 때, 1턴 동안 방어력 감소 중인 적에게 주는 데미지가 2배가 된다. 선장, 친구 선장, 조력자 선장 중 하나의 슬롯이 [TND] 슬롯일 때, [BLOCK]를 포함한 모든 슬롯을 [TND] 슬롯으로 바꾸고, 1턴 동안 일당의 [TND] 슬롯을 [유리] 슬롯으로 취급한다",
+        "specialName": "헨리 블레이저",
         "sailor": {
-            "base": "Reduces Silence duration on this character by 3 turns",
+            "base": "자신의 필살기 봉쇄 상태를 3턴 회복한다",
             "level1": "If there are 6 Powerhouse characters in your crew, makes [QCK] orbs beneficial for Powerhouse characters"
         },
         "limit": [
