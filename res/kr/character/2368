@@ -1,11 +1,11 @@
 {
-  "name": "샬롯 몽도르",
-  "detail": {
-    "specialName": "Sealed Books",
-    "special": "Reduces enemies Percent Damage Reduction and Increased Defense duration by 4 turns, reduces Silence, Increase Damage Taken and Burn duration by 4 turns. If your captain is a [STR] or [PSY], boosts the Color Affinity of [STR] and [PSY] characters by 1.75x for 1 turn",
-    "captain": "Boosts ATK of [STR] and [PSY] characters by a variable factor between ?x and ?x based on the timing of the attack of the previous unit in the chain and recovers ? HP at end of each turn",
-    "sailor": "Reduces Silence duration on this character by 3 turns",
-    "sailorNotes": "#{silence}",
-    "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by ?x, a Great hit by ?x and a PERFECT hit by 2.75x."
-  }
+    "name": "샬롯 몽도르",
+    "detail": {
+        "specialName": "봉인의 책",
+        "special": "적 전체에게 걸려 있는 방어력 상승과 데미지 감소([THRESHOLD DAMAGE] 제외) 상태를 4턴 줄이고, 일당에게 걸려 있는 화상, [INCREASE DAMAGE], 필살기 봉쇄 상태를 4턴 회복한다. 선장이 [STR] 또는 [PSY]이면, 2턴 동안 [STR]과 [PSY]의 일반 공격에 의한 속성 상성의 영향을 상당히 증폭시킨다",
+        "captain": "앞 캐릭터의 공격 타이밍에 따라 이후 [STR]과 [PSY]의 공격력이 최소2배, 최대 2.5배가 된다",
+        "sailor": "자신은 필살기 봉쇄 상태를 3턴 회복한다",
+        "sailorNotes": "#{silence}",
+        "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by ?x, a Great hit by ?x and a PERFECT hit by 2.75x."
+    }
 }
