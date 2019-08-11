@@ -1,0 +1,52 @@
+{
+    "name": "귀죽 베르고 「개」, 돈키호테 패밀리 최고간부",
+    "detail": {
+        "captain": "타격형 캐릭터의 공격력을 2.5배, 체력을 1.2배로 만들고, 받는 데미지를 10% 감소시킨다",
+        "special": "적 전체에게 걸려 있는 데미지 감소 상태([THRESHOLD DAMAGE] 제외)를 4턴 줄이고, 적 1명에게 캐릭터의 공격력x100배의 [STR] 데미지를 주며, 1턴 동안 타격형 캐릭터의 공격력을 1.75배로 만든다",
+        "specialName": "순혹의 도깨비 「개」"
+    },
+    "aliases": [
+        "",
+        "",
+        "Neo Vergo",
+        "Kai Vergo"
+    ],
+    "unit": {
+        "type": "STR",
+        "class": [
+            "Fighter",
+            "Striker"
+        ],
+        "stars": 5,
+        "cost": 50,
+        "combo": 5,
+        "slots": 4,
+        "level": 99,
+        "exp": 5000000,
+        "minHP": null,
+        "minATK": null,
+        "minRCV": null,
+        "maxHP": 2453,
+        "maxATK": 1422,
+        "maxRCV": 253,
+        "ability": null
+    },
+    "cooldown": [
+        null,
+        16
+    ],
+    "evolve": {
+        "evolution": 3359,
+        "evolvers": [],
+        "from": 3358
+    },
+    "image": {
+        "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3359.png",
+        "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3359.png"
+    },
+    "flags": {
+        "global": 1
+    },
+    "drop": [],
+    "manual": []
+}
