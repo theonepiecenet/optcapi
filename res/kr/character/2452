@@ -1,12 +1,12 @@
 {
-    "name": "빈스모크 욘디, Germa 66 Green Strong Arm",
+    "name": "빈스모크 욘디, 제르마 66 녹색 강완",
     "detail": {
-        "captain": "Boosts ATK of Powerhouse characters and [DEX] characters by 2.5x and their HP by 1.2x. Boosts RCV of Powerhouse characters by 1.2x.",
+        "captain": "강인형 캐릭터와 [DEX]의 공격력을 각각 2.5배, 1.2배로 만들고, 강인형 캐릭터의 체력을 1.2배로 만든다",
         "captainNotes": "Attack boost stacks, so an [DEX] Powerhouse character has a 3x ATK",
-        "special": "If there are 6 Powerhouse characters in your crew, reduces ATK DOWN, Bind and Despair duration by 5 turns. If your Captain's orb or Friend Captain's orb is [TND], boosts the Color Affinity of all characters by 2x for 1 turn.",
-        "specialName": "Winch Guillotine: Winch Danton",
+        "special": "일당에 강인형 캐릭터가 6명 있을 때, 일당에게 걸려 있는 봉쇄, 선장효과 무효, 공격력 감소 상태를 5턴 회복한다. 선장, 친구 선장, 조력자 선장 중 하나의 슬롯이 [TND] 슬롯일 때, 1턴 동안 일당의 일반 공격에 의한 속성 상성의 영향을 2배로 만든다",
+        "specialName": "윈치 당통",
         "sailor": {
-            "base": "Reduces Silence duration on this character by 3 turns",
+            "base": "자신의 필살기 봉쇄 상태를 3턴 회복한다",
             "level1": "If there are 6 Powerhouse characters in your crew, makes [DEX] orbs beneficial for Powerhouse characters"
         },
         "limit": [
