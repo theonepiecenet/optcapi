@@ -1,12 +1,12 @@
 {
-  "name": "Ussop, Straw Hat Pirates' Summer Vacation Outfit",
+  "name": "Monkey D. Luffy, Summer Vacation Outfit",
   "detail": {
-    "captain": "Boosts ATK of Free Spirit characters by 2.25x and their HP by 1.2x.",
-    "special": "Deals 20x character's ATK in [INT] damage to all enemies, amplifies the effect of orbs for Free Spirit characters by 1.75x for 1 turn.",
-    "specialName": "Summer Vacation is the Target",
+    "captain": "Boosts ATK of all characters by 2.25x and boosts EXP and amount of Beli received by 1.2x. If you use \"Summer Vacation Blow\" in this turn boosts ATK of all characters by 2.5x instead.",
+    "special": "Deals 30x character's ATK in [PSY] damage to one enemy and boosts ATK of Free Spirit characters by 1.75x for 1 turn.",
+    "specialName": "Summer Vacation Blow",
     "support": [
       {
-        "Characters": "Luffy, Zoro, Sanji, Nami, Chopper, Robin, Franky and Brook",
+        "Characters": "Zoro, Nami, Usopp, Sanji, Chopper, Robin, Franky and Brook",
         "description": [
           "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
           "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
@@ -18,15 +18,15 @@
     ]
   },
   "aliases": [
-    "ウソップ 夏休み衣装の麦わらの一味",
     "",
-    "Summer Usopp"
+    "",
+    "Summer Luffy"
   ],
   "unit": {
-    "type": "INT",
+    "type": "PSY",
     "class": [
       "Free Spirit",
-      "Shooter"
+      "Fighter"
     ],
     "stars": 4,
     "cost": 1,
@@ -34,28 +34,28 @@
     "slots": 4,
     "level": 99,
     "exp": 1000000,
-    "minHP": 828,
-    "minATK": 468,
-    "minRCV": 86,
-    "maxHP": 2070,
-    "maxATK": 1170,
-    "maxRCV": 215,
-    "ability": 1
+    "minHP": 926,
+    "minATK": 542,
+    "minRCV": 45,
+    "maxHP": 2316,
+    "maxATK": 1356,
+    "maxRCV": 112,
+    "ability": null
   },
   "cooldown": [
     18,
-    11
+    12
   ],
   "evolve": [],
   "image": {
-    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2637.png",
-    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2637.png"
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2633.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2633.png"
   },
   "drop": [
     {
       "type": "Fortnight",
-      "name": "Pirate Expo! Vacation Fortnight",
-      "thumb": 2635,
+      "name": "Pirate Expo! Festival Fortnight",
+      "thumb": 2633,
       "data": [
         "All Difficulties"
       ]

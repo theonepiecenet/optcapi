@@ -1,0 +1,148 @@
+{
+  "name": "Kid & Killer, \"Worst\" Versus \"Strongest\"",
+  "detail": {
+    "captain": "Boosts ATK of Slasher and Striker characters by 2.5x",
+    "special": "Reduces Bind duration by 4 turns and boosts ATK of Striker and Slasher characters by 1.75x for 1 turn.",
+    "specialName": "Kid & Killer Special",
+    "sailor": "Makes [DEX] and [QCK] orbs beneficial for this character",
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Potential 2: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 3: Critical Hit"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by 1%",
+          "Level 2: Reduce damage taken from [DEX] characters by 2%",
+          "Level 3: Reduce damage taken from [DEX] characters by 3%",
+          "Level 4: Reduce damage taken from [DEX] characters by 4%",
+          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+        ]
+      },
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by 2%",
+          "Level 3: Reduce damage taken from [QCK] characters by 3%",
+          "Level 4: Reduce damage taken from [QCK] characters by 4%",
+          "Level 5: Reduce damage taken from [QCK] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 50% chance to deal 1% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 60% chance to deal 2% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 3% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 4% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 5% of this character's attack in extra damage"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "[STR] characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "キッド＆キラー “最悪”対“最強”",
+    "",
+    " Stampede Eustass Kid",
+    " Stampede Killer"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Striker",
+      "Slasher"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 3000000,
+    "minHP": 999,
+    "minATK": 722,
+    "minRCV": 112,
+    "maxHP": 2676,
+    "maxATK": 1311,
+    "maxRCV": 217,
+    "ability": 1
+  },
+  "cooldown": [
+    16,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2642.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2642.png"
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! STAMPEDE Raid",
+      "thumb": 2642,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
+}

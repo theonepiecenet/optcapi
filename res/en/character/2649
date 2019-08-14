@@ -1,0 +1,151 @@
+{
+  "name": "Trafalgar Law, United Battlefront",
+  "detail": {
+    "captain": "Boosts ATK of Slasher and Cerebral characters by 2.5x at the start of the chain, their HP and RCV by 1.1x and boosts ATK by 2.8x following a chain of 3 attacks no lower than Good",
+    "special": "Reduces Silence and ATK DOWN duration by 4 turns. If HP is above 50% at the time the special is activated, boosts ATK of Slasher and Cerebral characters by 2x. If HP is below 30% at the time the special is activated, recovers 70% of crew's MAX HP.",
+    "specialName": "ROOM Shambles Escape",
+    "sailor": {
+      "base": "None",
+      "level1": "Reduces Silence duration on this character by 5 turns",
+      "level2": "Makes [PSY] orbs beneficial for Slasher characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 45"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 5 turns"
+      },
+      {
+        "description": "Boosts base HP by 35"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 45"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [PSY] orbs beneficial for Slasher characters"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base RCV by 60"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "[PSY] characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "トラファルガー・ロー 寄せ集めの共同戦線",
+    "",
+    "Coliseum Law",
+    "Stampede Law"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 40,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 1209,
+    "minATK": 677,
+    "minRCV": 195,
+    "maxHP": 2604,
+    "maxATK": 1398,
+    "maxRCV": 300,
+    "ability": 1
+  },
+  "cooldown": [
+    29,
+    14
+  ],
+  "evolve": {
+    "evolution": 2649,
+    "evolvers": [
+      118,
+      98,
+      1180,
+      303,
+      103
+    ],
+    "from": 2648
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2649.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2649.png"
+  },
+  "drop": [],
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Trafalgar Law",
+      "thumb": 2649,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ]
+}

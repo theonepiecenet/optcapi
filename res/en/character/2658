@@ -1,0 +1,59 @@
+{
+  "name": "Smoker, Fulfilling his On-Site Mission",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Driven characters by 1.5x.",
+    "special": "Deals 100x character's ATK in Typeless damage to one enemy and amplifies the effect of orbs for Fighter and Driven characters by 2x for 1 turn. If your Captain is a Fighter or Driven character, adds 0.7x to Chain multiplier for 1 turn.",
+    "specialName": "Armament Haki - White Blow"
+  },
+  "aliases": [
+    "",
+    "",
+    "Treasure Map Smoker",
+    "TM Smoker",
+    "Stampede Smoker"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "minHP": 701,
+    "minATK": 406,
+    "minRCV": 80,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    36,
+    null
+  ],
+  "evolution": {
+    "evolution": 2659,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2658.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2658.png"
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Smoker",
+      "thumb": 2659,
+      "data": [
+        "Expo Sea"
+      ]
+    }
+  ],
+  "manual": []
+}

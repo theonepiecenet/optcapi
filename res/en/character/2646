@@ -1,0 +1,68 @@
+{
+  "name": "Foxy & Wapol, Strawhat Victims Alliance",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Shooter characters by 1.75x",
+    "special": "Delays all enemies for 1 turn and reduces the defense of all enemies by 80% for 1 turn.",
+    "specialName": "Rescue Request to Strawhat",
+    "sailor": "Boosts base HP of Fighter and Shooter characters by 25",
+    "support": [
+      {
+        "Characters": "[INT] characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base HP to the supported character's base HP.",
+          "Level 2: Adds 2% of this character's base HP to the supported character's base HP.",
+          "Level 3: Adds 3% of this character's base HP to the supported character's base HP.",
+          "Level 4: Adds 4% of this character's base HP to the supported character's base HP.",
+          "Level 5: Adds 5% of this character's base HP to the supported character's base HP."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "フォクシー＆ワポル “麦わら”の被害者連合",
+    "",
+    "Stampede Foxy",
+    "Stampede Wapol"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Shooter"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 6,
+    "slots": 5,
+    "level": 99,
+    "exp": 3000000,
+    "minHP": 904,
+    "minATK": 560,
+    "minRCV": 119,
+    "maxHP": 2360,
+    "maxATK": 1109,
+    "maxRCV": 237,
+    "ability": 1
+  },
+  "cooldown": [
+    10,
+    6
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2646.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2646.png"
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! STAMPEDE Raid",
+      "thumb": 2642,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
+}

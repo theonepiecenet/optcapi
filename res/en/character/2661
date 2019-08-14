@@ -1,0 +1,75 @@
+{
+  "name": "Sanji, One Piece Stampede",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 3.25x, their HP by 1.2x and makes [INT] orbs beneficial for Fighter characters.",
+    "special": "Deals 90x character's ATK in Typeless damage to one enemy. If your Captain is a [STR], [QCK] or [INT] character, boosts ATK of [STR], [QCK] and [INT] characters by 1.75x for 2 turns and amplifies the effect of orbs by 1.75x for [STR], [QCK] and [INT] characters for 2 turns.",
+    "specialName": "Diable Jambe Pirate Expo Concasse",
+    "sailor": {
+      "base": "Boosts base ATK of Fighter characters by 40",
+      "level1": "Makes [INT] orbs beneficial for Fighter characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turn",
+          "Level 5: Reduces No Healing duration by 5 turn"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 2 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 7 turns on this character"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Stampede Sanji"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 1678,
+    "minATK": 719,
+    "minRCV": 154,
+    "maxHP": 3091,
+    "maxATK": 1328,
+    "maxRCV": 303,
+    "ability": null
+  },
+  "cooldown": [
+    17,
+    17
+  ],
+  "evolve": {
+    "evolution": 2661,
+    "evolvers": [],
+    "from": 2660
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2661.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2661.png"
+  },
+  "drop": [],
+  "manual": []
+}

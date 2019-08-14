@@ -1,12 +1,12 @@
 {
-  "name": "Nami, Straw Hat Pirates' Summer Vacation Outfit",
+  "name": "Roronoa Zoro, Summer Vacation Outfit",
   "detail": {
-    "captain": "Boosts ATK of Striker characters by 1.5x and their RCV by 1.2x.",
-    "special": "Reduces damage received by 50% for 1 turn and reduces enemies' Threshold Damage Reduction and Resilience Buffs duration by 3 turns.",
-    "specialName": "Cat Burglar's Speciality",
+    "captain": "Boosts ATK of Slasher characters by 2x.",
+    "special": "Makes [STR], [RCV] and [TND] orbs beneficial for Free Spirit characters for 2 turns and boosts the Color Affinity of Free Spirit characters by 1.5x for 1 turn.",
+    "specialName": "Swordsman's Summer Festival Booze",
     "support": [
       {
-        "Characters": "Luffy, Zoro, Sanji, Usopp, Chopper, Robin, Franky and Brook",
+        "Characters": "Luffy, Nami, Usopp, Sanji, Chopper, Robin, Franky and Brook",
         "description": [
           "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK.",
           "Level 2: Adds 1% of this character's base ATK to the supported character's base ATK.",
@@ -18,15 +18,15 @@
     ]
   },
   "aliases": [
-    "ナミ 夏休み衣装の麦わらの一味",
     "",
-    "Summer Nami"
+    "",
+    "Summer Zoro"
   ],
   "unit": {
-    "type": "DEX",
+    "type": "STR",
     "class": [
       "Free Spirit",
-      "Striker"
+      "Slasher"
     ],
     "stars": 4,
     "cost": 1,
@@ -34,13 +34,13 @@
     "slots": 4,
     "level": 99,
     "exp": 1000000,
-    "minHP": 928,
-    "minATK": 436,
-    "minRCV": 80,
-    "maxHP": 2320,
-    "maxATK": 1090,
-    "maxRCV": 200,
-    "ability": 1
+    "minHP": 979,
+    "minATK": 524,
+    "minRCV": 42,
+    "maxHP": 2448,
+    "maxATK": 1311,
+    "maxRCV": 105,
+    "ability": null
   },
   "cooldown": [
     18,
@@ -48,14 +48,14 @@
   ],
   "evolve": [],
   "image": {
-    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2636.png",
-    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2636.png"
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2634.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2634.png"
   },
   "drop": [
     {
       "type": "Fortnight",
-      "name": "Pirate Expo! Vacation Fortnight",
-      "thumb": 2635,
+      "name": "Pirate Expo! Festival Fortnight",
+      "thumb": 2633,
       "data": [
         "All Difficulties"
       ]

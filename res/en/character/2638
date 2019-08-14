@@ -1,18 +1,18 @@
 {
-  "name": "Nico Robin, Straw Hat Pirates' Summer Vacation Outfit",
+  "name": "Tony Tony Chopper, Summer Vacation Outfit",
   "detail": {
-    "captain": "Boosts ATK of [DEX] characters by 1.5x and their HP by 1.2x.",
-    "special": "Reduces Paralysis and Despair duration by 3 turns.",
-    "specialName": "A Refresh before the Treasure Hunt",
+    "captain": "Boosts ATK of Powerhouse characters by 1.5x and their HP by 1.2x.",
+    "special": "Recovers 4,000 HP, recovers 3x character's RCV in HP at the end of each turn for 3 turns and reduces Bind duration by 3 turns.",
+    "specialName": "A Bundle of Festive Spirit",
     "support": [
       {
-        "Characters": "Luffy, Zoro, Usopp, Sanji, Nami, Chopper, Franky and Brook",
+        "Characters": "Luffy, Zoro, Nami, Usopp, Sanji, Robin, Franky and Brook",
         "description": [
-          "Level 1: Adds 1% of this character's base HP to the supported character's base HP.",
-          "Level 2: Adds 1% of this character's base HP to the supported character's base HP.",
-          "Level 3: Adds 2% of this character's base HP to the supported character's base HP.",
-          "Level 4: Adds 2% of this character's base HP to the supported character's base HP.",
-          "Level 5: Adds 3% of this character's base HP to the supported character's base HP."
+          "Level 1: Adds 1% of this character's base RCV to the supported character's base RCV.",
+          "Level 2: Adds 1% of this character's base RCV to the supported character's base RCV.",
+          "Level 3: Adds 2% of this character's base RCV to the supported character's base RCV.",
+          "Level 4: Adds 2% of this character's base RCV to the supported character's base RCV.",
+          "Level 5: Adds 3% of this character's base RCV to the supported character's base RCV."
         ]
       }
     ]
@@ -20,31 +20,31 @@
   "aliases": [
     "",
     "",
-    "Summer Robin"
+    "Summer Chopper"
   ],
   "unit": {
-    "type": "DEX",
+    "type": "INT",
     "class": [
       "Free Spirit",
-      "Cerebral"
+      "Powerhouse"
     ],
     "stars": 4,
     "cost": 1,
-    "combo": 4,
-    "slots": 4,
+    "combo": 5,
+    "slots": 1,
     "level": 99,
     "exp": 1000000,
-    "minHP": 973,
-    "minATK": 416,
-    "minRCV": 79,
-    "maxHP": 2432,
-    "maxATK": 1040,
-    "maxRCV": 198,
+    "minHP": 756,
+    "minATK": 401,
+    "minRCV": 120,
+    "maxHP": 1890,
+    "maxATK": 1002,
+    "maxRCV": 301,
     "ability": null
   },
   "cooldown": [
     18,
-    10
+    12
   ],
   "evolve": [],
   "image": {
@@ -54,8 +54,8 @@
   "drop": [
     {
       "type": "Fortnight",
-      "name": "Pirate World Fair! Vacation Fortnight",
-      "thumb": 2635,
+      "name": "Pirate Expo! Festival Fortnight",
+      "thumb": 2633,
       "data": [
         "All Difficulties"
       ]

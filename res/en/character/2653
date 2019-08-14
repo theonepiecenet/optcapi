@@ -1,0 +1,143 @@
+{
+  "name": "Chopper, One Piece Stampede",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by 2.5x, boosts ATK of [QCK] and [INT] characters by 2x and recovers 809 HP at the end of each turn.",
+    "special": "Recovers 13x character's RCV in HP at the end of each turn for 3 turns and reduces Paralysis, Despair, Chain Multiplier Limit and Chain Coefficient Reduction duration by 5 turns.",
+    "specialName": "Treasured Smile",
+    "sailor": {
+      "base": "Boosts base ATK of all characters by 30",
+      "level1": "Reduces Silence duration on this character by 3 turns"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 3 turns"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[DEX] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [DEX] characters by 1%",
+          "Level 2: Reduce damage taken from [DEX] characters by 2%",
+          "Level 3: Reduce damage taken from [DEX] characters by 3%",
+          "Level 4: Reduce damage taken from [DEX] characters by 4%",
+          "Level 5: Reduce damage taken from [DEX] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turn",
+          "Level 5: Reduces No Healing duration by 5 turn"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Luffy, Zoro, Nami, Usopp, Sanji, Robin, Franky and Brook",
+        "description": [
+          "Level 1: Reduces damage received from [DEX] characters by 1%. Adds 1% of this character's base HP and RCV to the supported character's base HP and RCV.",
+          "Level 2: Reduces damage received from [DEX] characters by 2%. Adds 3% of this character's base HP and RCV to the supported character's base HP and RCV.",
+          "Level 3: Reduces damage received from [DEX] characters by 3%. Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV.",
+          "Level 4: Reduces damage received from [DEX] characters by 4%. Adds 7% of this character's base HP and RCV to the supported character's base HP and RCV.",
+          "Level 5: Reduces damage received from [DEX] characters by 5%. Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "トニートニー・チョッパー ONE PIECE STAMPEDE",
+    "",
+    "Stampede Chopper"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 1182,
+    "minATK": 872,
+    "minRCV": 140,
+    "maxHP": 2488,
+    "maxATK": 1322,
+    "maxRCV": 355,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    13
+  ],
+  "evolve": {
+    "evolution": 2653,
+    "evolvers": [
+      94,
+      2662,
+      300,
+      300,
+      100
+    ],
+    "from": 2652
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2653.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2653.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

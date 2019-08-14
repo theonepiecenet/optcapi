@@ -1,0 +1,69 @@
+{
+  "name": "Bartolomeo & Cavendish, Strawhat Protectors",
+  "detail": {
+    "captain": "Boosts ATK of Driven and Slasher characters by 1.75x",
+    "special": "Reduces damage received by 90% for 1 turn and boosts own ATK by 2x for 1 turn.",
+    "specialName": "Brilliant Battle of Sword and Shield",
+    "sailor": "Boosts base ATK of Driven and Slasher characters by 25",
+    "support": [
+      {
+        "Characters": "[STR] characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Adds 3% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Adds 4% of this character's base ATK to the supported character's base ATK.",
+          "Level 5: Adds 5% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "バルトロメオ＆キャベンディッシュ “麦わら”を護る者達",
+    "",
+    "Cabbage",
+    "Stampede Bartolomeo",
+    "Stampede Cavendish"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Driven",
+      "Slasher"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 6,
+    "slots": 5,
+    "level": 99,
+    "exp": 3000000,
+    "minHP": 923,
+    "minATK": 601,
+    "minRCV": 99,
+    "maxHP": 2492,
+    "maxATK": 1154,
+    "maxRCV": 200,
+    "ability": 1
+  },
+  "cooldown": [
+    17,
+    13
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2647.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2647.png"
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! STAMPEDE Raid",
+      "thumb": 2642,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
+}
