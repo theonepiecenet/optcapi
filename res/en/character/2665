@@ -1,0 +1,67 @@
+{
+  "name": "Ann, The Diva",
+  "detail": {
+    "captain": "Boosts ATK of Free Spirit characters by 2.5x and recovers 2x character's RCV in HP at the end of each turn.",
+    "special": "Reduces Silence and Paralysis duration by 3 turns and reduces Special Cooldown of Free Spirit characters by 1 turn.",
+    "specialName": "Diva on Stage",
+    "sailor": "Reduces own Silence duration by 3 turns",
+    "support": [
+      {
+        "Characters": "Free Spirit characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "アン 歌姫",
+    "",
+    "Fortnight Ann",
+    "Stampede Ann"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": 842,
+    "minATK": 398,
+    "minRCV": 107,
+    "maxHP": 2106,
+    "maxATK": 996,
+    "maxRCV": 267,
+    "ability": 1
+  },
+  "cooldown": [
+    18,
+    10
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2665.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2665.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Diva Ann's Special Live Show Fortnight",
+      "thumb": 2665,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

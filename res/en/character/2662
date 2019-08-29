@@ -1,0 +1,43 @@
+{
+  "name": "Rainbow Plated Lobster",
+  "aliases": [
+    "虹アーマーロブスター",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "INT",
+    "class": "Evolver",
+    "stars": 4,
+    "cost": 7,
+    "combo": 4,
+    "slots": 0,
+    "level": 1,
+    "exp": 0,
+    "minHP": 50,
+    "minATK": 650,
+    "minRCV": 4,
+    "maxHP": 50,
+    "maxATK": 650,
+    "maxRCV": 4,
+    "ability": 1
+  },
+  "cooldown": null,
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2662.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2662.png"
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! STAMPEDE Raid",
+      "thumb": 2642,
+      "data": [
+        "Expert",
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
+}

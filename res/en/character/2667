@@ -1,0 +1,64 @@
+{
+  "name": "Fujitora, Raid on the Pirate Expo",
+  "detail": {
+    "captain": "Boosts ATK of Driven and Slasher characters by 2.25x and their HP by 1.2x.",
+    "special": "Deals 50x character's ATK in [QCK] damage to all enemies, locks the chain multiplier at 2.75x for 2 turns and changes [BLOCK] orbs on Driven characters into Matching orbs.",
+    "specialName": "Alternate Gravity Blade: Raging Tiger",
+    "sailor": "Boosts base ATK, HP and RCV of Driven characters by 25"
+  },
+  "aliases": [
+    "藤虎 『海賊万博』への襲撃",
+    "",
+    "Stampede Fujitora"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Driven",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 2,
+    "level": 70,
+    "exp": 711332,
+    "minHP": 355,
+    "minATK": 203,
+    "minRCV": 10,
+    "maxHP": 954,
+    "maxATK": 456,
+    "maxRCV": 62,
+    "ability": 1
+  },
+  "cooldown": [
+    17,
+    17
+  ],
+  "evolution": {
+    "evolution": 2668,
+    "evolvers": [
+      96,
+      96,
+      2662,
+      301,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2667.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2667.png"
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Breakthrough the Marine Seige",
+      "thumb": 2668,
+      "data": [
+        "Chopperman Missions"
+      ]
+    }
+  ],
+  "manual": []
+}

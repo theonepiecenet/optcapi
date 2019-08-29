@@ -1,0 +1,67 @@
+{
+  "name": "Donald Moderate, The Partitioner",
+  "detail": {
+    "captain": "Boosts ATK of all characters by 1.2x and gives chance of duplicating a drop upon completion of the island.",
+    "captainNotes": "Does not work if she was not your captain upon starting the island. Stacks with other additional drop captains, giving you two chances of getting an extra drop.",
+    "special": "Reduces ATK DOWN duration by 3 turns, changes orbs in the top row into Matching orbs and boosts ATK of all characters by 1.5x for 1 turn.",
+    "specialName": "The Partitioner Talk",
+    "support": [
+      {
+        "Characters": "Powerhouse characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Adds 1% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Adds 2% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Adds 2% of this character's base ATK to the supported character's base ATK.",
+          "Level 5: Adds 3% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "ドナルド・モデラート 仕切り屋",
+    "",
+    "Fortnight Donald Moderate",
+    "Stampede Donald Moderate"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": 986,
+    "minATK": 441,
+    "minRCV": 69,
+    "maxHP": 2464,
+    "maxATK": 1102,
+    "maxRCV": 172,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    11
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2666.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2666.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Diva Ann's Special Live Show Fortnight",
+      "thumb": 2665,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}
