@@ -4,12 +4,13 @@
     "captain": "Boosts ATK of [QCK] characters by 2x, reduces damage received by 10%",
     "specialName": "Bewitching Lovely Iron Mace",
     "special": "Deals 13x character's ATK in [QCK] damage to one enemy, reduces damage received by 75% for 1 turn, amplifies the effect of orbs by 1.5x for 1 turn",
-    "specialNotes": "#{beneficial}",
+    "specialNotes": "#{orb : 1.5x}",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of all characters by 20",
       "level2": "Makes [STR] orbs beneficial for this character"
     },
+    "sailorNotes": "#{beneficial}",
     "limit": [
       {
         "description": "Boosts base RCV by 10"
