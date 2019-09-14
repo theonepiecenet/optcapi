@@ -6,7 +6,7 @@
     "special": "Seals himself for 1 turn, changes [BLOCK] orbs into Matching orbs, randomizes Badly Matching orbs into either [STR], [QCK], [DEX], [PSY] or [INT] orbs",
     "sailor": {
       "base": "None",
-      "level1": "Completely removes Blindness duration completely",
+      "level1": "Removes Blindness duration completely",
       "level2": "Makes [STR], [QCK], [DEX], [PSY] and [INT] orbs beneficial for this character"
     },
     "sailorNotes": "#{beneficial}",
@@ -30,7 +30,7 @@
         "description": "Boosts base ATK by 30"
       },
       {
-        "description": "Acquire Sailor Ability 1: Completely removes Blindness duration completely"
+        "description": "Acquire Sailor Ability 1: Removes Blindness duration completely"
       },
       {
         "description": "Boosts base ATK by 50"
