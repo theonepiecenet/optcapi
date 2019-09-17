@@ -1,0 +1,67 @@
+{
+  "name": "Duval [Neo], Rosy Life Riders Leader",
+  "detail": {
+    "special": "Deals 5,000 Fixed damage to all enemies, reduces damage received by 50% for 1 turn, reduces Increase Damage Taken duration by 4 turns and boosts ATK of Shooter characters by 1.75x for 1 turn",
+    "specialName": "Heart-Smashing Horn [Neo]",
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight and boosts ATK of Shooter characters by 2.25x and their RCV by 1.5x"
+  },
+  "aliases": [
+    "",
+    "",
+    "Neo Duval",
+    "Kai Duval",
+    "Raid Duval"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 8,
+    "slots": 3,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 1428,
+    "minATK": 958,
+    "minRCV": 113,
+    "maxHP": 2708,
+    "maxATK": 1383,
+    "maxRCV": 312,
+    "ability": 1
+  },
+  "cooldown": [
+    28,
+    null
+  ],
+  "evolve": {
+    "evolution": [
+      3368,
+      3368
+    ],
+    "evolvers": [
+      [
+        118,
+        85,
+        266,
+        96,
+        101
+      ],
+      [
+        18
+      ]
+    ],
+    "from": 3367
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3368.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3368.png"
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}

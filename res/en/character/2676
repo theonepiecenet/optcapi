@@ -1,0 +1,158 @@
+{
+  "name": "Nami, One Piece Stampede",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 2.5x, their RCV by 1.2x, and recovers 2x character's RCV at the end of each turn.",
+    "special": [
+      {
+        "description": "Reduces Special Cooldown of [DEX] and [PSY] characters by 1 turn and reduces Bind duration by 2 turns.",
+        "cooldown": [
+          12,
+          6
+        ]
+      },
+      {
+        "description": "Reduces Special Cooldown of [DEX] and [PSY] characters by 2 turns and reduces Bind, Silence and Chain Multiplier Limit duration by 5 turns.",
+        "cooldown": [
+          20,
+          14
+        ]
+      }
+    ],
+    "specialName": "Summer Sky - Zeus Breeze Tempo",
+    "sailor": {
+      "base": "Restores own special cooldown by 2 turns when it is rewinded",
+      "level1": "Reduces own Silence duration by 5 turns"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Reduces own Silence duration by 5 turns"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 35% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Luffy, Zoro, Usopp, Sanji, Chopper, Robin, Franky and Brook",
+        "description": [
+          "Level 1: Reduces damage received from [INT] characters by 1%. Adds 4% of this character's base RCV to the supported character's base RCV.",
+          "Level 2: Reduces damage received from [INT] characters by 2%. Adds 5% of this character's base RCV to the supported character's base RCV.",
+          "Level 3: Reduces damage received from [INT] characters by 3%. Adds 7% of this character's base RCV to the supported character's base RCV.",
+          "Level 4: Reduces damage received from [INT] characters by 4%. Adds 10% of this character's base RCV to the supported character's base RCV.",
+          "Level 5: Reduces damage received from [INT] characters by 5%. Adds 13% of this character's base RCV to the supported character's base RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "ナミ ONE PIECE STAMPEDE",
+    "",
+    "Stampede Nami"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 903,
+    "minATK": 521,
+    "minRCV": 175,
+    "maxHP": 2169,
+    "maxATK": 1251,
+    "maxRCV": 421,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    14
+  ],
+  "evolve": {
+    "evolution": 2676,
+    "evolvers": [
+      94,
+      2662,
+      303,
+      303,
+      103
+    ],
+    "from": 2675
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2676.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2676.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

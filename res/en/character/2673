@@ -1,0 +1,59 @@
+{
+  "name": "Roronoa Zoro, The Swordsman Cutting Through the Pirate Expo",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 2.25x and their HP by 1.2x.",
+    "special": "Deals 200,000 fixed damage to one enemy, changes own and top row orbs into Matching orbs. If your crew has 5 or more [DEX] or [PSY] characters, amplifies the effect of orbs of [DEX] and [PSY] characters by 2x for 2 turns.",
+    "specialName": "Three Sword Style - Ultra Tiger Hunting • Opposing the Tiger",
+    "sailor": "Boosts base ATK of [DEX] and [PSY] characters by 50"
+  },
+  "aliases": [
+    "ロロノア・ゾロ 『海賊万博』で切り開く剣士",
+    "",
+    "Stampede Zoro"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 506,
+    "minATK": 263,
+    "minRCV": 47,
+    "maxHP": 1265,
+    "maxATK": 658,
+    "maxRCV": 119,
+    "ability": 1
+  },
+  "cooldown": [
+    18,
+    12
+  ],
+  "evolution": {
+    "evolution": 2674,
+    "evolvers": [
+      94,
+      2662,
+      302,
+      302,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2673.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2673.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

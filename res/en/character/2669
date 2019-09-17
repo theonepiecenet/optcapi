@@ -7,7 +7,7 @@
     "specialName": "Zero Tempest Kick"
   },
   "aliases": [
-    "",
+    "ロブ・ルッチ 『海賊万博』の静観者",
     "",
     "Raid Lucci",
     "Stampede Lucci"
@@ -27,10 +27,10 @@
     "minHP": 282,
     "minATK": 173,
     "minRCV": 18,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "maxHP": 1410,
+    "maxATK": 804,
+    "maxRCV": 131,
+    "ability": 1
   },
   "cooldown": [
     29,
@@ -38,7 +38,13 @@
   ],
   "evolution": {
     "evolution": 2670,
-    "evolvers": []
+    "evolvers": [
+      118,
+      100,
+      84,
+      300,
+      2662
+    ]
   },
   "evolve": [],
   "image": {
@@ -48,11 +54,11 @@
   "drop": [
     {
       "type": "Raid",
-      "name": "Clash!! Rob Lucci Raid",
+      "name": "Showdown!! Lucci Raid",
       "thumb": 2670,
       "data": [
         "Expert",
-        "Master"
+        "Ultimate"
       ]
     }
   ],

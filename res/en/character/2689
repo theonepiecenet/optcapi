@@ -1,0 +1,61 @@
+{
+  "name": "Marshal D. Teach",
+  "detail": {
+    "captain": "Increases damage received by 1.25x and boosts ATK of [INT] characters by 1.5x",
+    "special": "Boosts ATK of [INT] characters by 2x for 1 turn, amplifies the effect of orbs for [INT] characters by 2x for 1 turn, reduces Special Cooldown of [INT] specials by 1 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for [INT] characters for 1 turn.",
+    "specialNotes": "This special can only be activated if at most one other special has been activated this turn and restricts activation of any other specials this turn to one special",
+    "specialName": "Declaration of a New Era"
+  },
+  "aliases": [
+    "",
+    "",
+    "TM BB",
+    "TM Blackbeard",
+    "TM Teach",
+    "TM Marshal D. Teach"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Driven",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 6,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "minHP": 931,
+    "minATK": 451,
+    "minRCV": 51,
+    "maxHP": 1802,
+    "maxATK": 802,
+    "maxRCV": 102,
+    "ability": null
+  },
+  "cooldown": [
+    34,
+    27
+  ],
+  "evolution": {
+    "evolution": 2690,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2689.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2689.png"
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Blackbeard",
+      "thumb": 2690,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
+}

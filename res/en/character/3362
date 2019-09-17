@@ -1,0 +1,67 @@
+{
+  "name": "Akainu, Admirals in a Fleeting Moment of Calm",
+  "detail": {
+    "captain": "If your crew has 4 or more characters of the same Type, boosts ATK of all characters by 2.5x, by 2x otherwise and boosts RCV of all characters by 1.2x.",
+    "special": "Reduces the defense of all enemies by 100% for 2 turns and reduces crew's Paralysis and ATK DOWN duration by 5 turns. If your crew has 4 or more [QCK] or [PSY] characters, boosts ATK against enemies with reduced defense by 1.75x for 2 turns.",
+    "sailor": "Makes [DEX] orbs beneficial for this character",
+    "sailorNotes": "#{beneficial}",
+    "specialName": "Absolute Pruning"
+  },
+  "aliases": [
+    "",
+    "",
+    "Kimono Akainu",
+    "Kimono Sakazuki",
+    "Limited Akainu",
+    "Limited Sakazuki",
+    "Secret Akainu",
+    "Secret Sakazuki"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 515,
+    "minATK": 241,
+    "minRCV": 24,
+    "maxHP": 1823,
+    "maxATK": 721,
+    "maxRCV": 91,
+    "ability": 1
+  },
+  "cooldown": [
+    14,
+    14
+  ],
+  "evolution": {
+    "evolution": 3363,
+    "evolvers": [
+      117,
+      83,
+      89,
+      95,
+      100
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3362.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3362.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}

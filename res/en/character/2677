@@ -1,0 +1,59 @@
+{
+  "name": "Franky, The Ship Carpenter Showing Off at the Pirate Expo",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 2x, boosts ATK of [PSY] characters by 1.5x and deals 3x character's ATK in [DEX] damage to all enemies at the end of each turn.",
+    "special": "Reduces enemies' barrier duration by 1 turn and deals 75x character's ATK in [DEX] damage to all enemies. If your Captain's orb is [DEX] or [PSY], locks all orbs for 1 turn and boosts ATK of [DEX] and [PSY] characters by 2x for 2 turns",
+    "specialName": "Franky Radical Beam Pirate Expo Version",
+    "sailor": "Reduces Blindness duration by 5 turns"
+  },
+  "aliases": [
+    "フランキー 『海賊万博』で披露する船大工",
+    "",
+    "Stampede Franky"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 513,
+    "minATK": 253,
+    "minRCV": 49,
+    "maxHP": 1283,
+    "maxATK": 633,
+    "maxRCV": 124,
+    "ability": 1
+  },
+  "cooldown": [
+    17,
+    11
+  ],
+  "evolution": {
+    "evolution": 2678,
+    "evolvers": [
+      94,
+      2662,
+      302,
+      302,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2677.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2677.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Iron Mask Duval [Neo]",
+  "detail": {
+    "special": "Deals 5,000 Fixed damage to all enemies, reduces damage received by 50% for 1 turn, reduces Increase Damage Taken duration by 4 turns and boosts ATK of Shooter characters by 1.75x for 1 turn",
+    "specialName": "Heart-Smashing Horn [Neo]",
+    "captain": "Boosts ATK of Shooter characters by 2x"
+  },
+  "aliases": [
+    "",
+    "",
+    "Neo Duval",
+    "Kai Duval",
+    "Raid Duval"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 3,
+    "cost": 10,
+    "combo": 4,
+    "slots": 1,
+    "level": 35,
+    "exp": 226945,
+    "minHP": 232,
+    "minATK": 133,
+    "minRCV": 25,
+    "maxHP": 725,
+    "maxATK": 605,
+    "maxRCV": 77,
+    "ability": 1
+  },
+  "cooldown": [
+    28,
+    null
+  ],
+  "evolution": {
+    "evolution": 3367,
+    "evolvers": [
+      116,
+      117,
+      79,
+      90,
+      96
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3366.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3366.png"
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash Neo!! Duval Raid",
+      "thumb": 3368,
+      "data": [
+        "Master"
+      ]
+    }
+  ],
+  "manual": []
+}

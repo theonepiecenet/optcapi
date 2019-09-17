@@ -1,0 +1,61 @@
+{
+  "name": "Monkey D Luffy, Bearing the Feelings of All his Friends",
+  "detail": {
+    "captain": "Boosts ATK of [STR], [DEX] and [PSY] characters by 4x, reduces damage recieved by 20%, boosts own ATK by 4.5x, makes [STR], [DEX] and [PSY] orbs beneficial for [STR], [DEX] and [PSY] characters. Reduces Despair and Paralysis duration by 10 turns.",
+    "captainNotes": "The Despair and Paralysis reduction can activate multiple times",
+    "special": "Deals 120x character's Atk in typless damage to all enemies, boosts own ATK by 2.5x for 2 turns, amplifies the effect of own orb by 2.5x for 2 turns and boosts own base ATK based on your current HP for 2 turns.",
+    "specialName": "Gomu Gomu no King Kong Gatling",
+    "specialNotes": "Base ATK boost is equal to current HP/20, the maximum effect at 20,000 HP will give a 1,000 base ATK boost."
+  },
+  "aliases": [
+    "モンキー・D・ルフィ 仲間の想いを背負う者",
+    "",
+    "Stampede Luffy",
+    "Bullet Imposter"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 5,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 566,
+    "minATK": 274,
+    "minRCV": 48,
+    "maxHP": 1811,
+    "maxATK": 877,
+    "maxRCV": 155,
+    "ability": 1
+  },
+  "cooldown": [
+    17,
+    12
+  ],
+  "evolution": {
+    "evolution": 2672,
+    "evolvers": [
+      118,
+      303,
+      2662,
+      103,
+      267
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2671.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2671.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Nami, The Cat Burglar Seeing Through the Pirate Expo",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 2x, their RCV by 1.2x, and recovers 1x character's RCV at the end of each turn.",
+    "special": [
+      {
+        "description": "Reduces Special Cooldown of [DEX] and [PSY] characters by 1 turn and reduces Bind duration by 2 turns.",
+        "cooldown": [
+          12,
+          6
+        ]
+      },
+      {
+        "description": "Reduces Special Cooldown of [DEX] and [PSY] characters by 2 turns and reduces Bind, Silence and Chain Multiplier Limit duration by 5 turns.",
+        "cooldown": [
+          20,
+          14
+        ]
+      }
+    ],
+    "specialName": "Summer Sky - Zeus Breeze Tempo",
+    "sailor": "Restores own special cooldown by 2 turns when it is rewinded"
+  },
+  "aliases": [
+    "ナミ 『海賊万博』で見抜く泥棒猫",
+    "",
+    "Stampede Nami"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 397,
+    "minATK": 229,
+    "minRCV": 77,
+    "maxHP": 994,
+    "maxATK": 573,
+    "maxRCV": 192,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    14
+  ],
+  "evolution": {
+    "evolution": 2676,
+    "evolvers": [
+      94,
+      2662,
+      303,
+      303,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2675.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2675.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

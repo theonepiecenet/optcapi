@@ -1,0 +1,67 @@
+{
+  "name": "Aokiji, Admirals in a Fleeting Moment of Calm",
+  "detail": {
+    "captain": "If your crew has 4 or more characters of the same Type, boosts ATK of all characters by 2.5x, by 2x otherwise and boosts RCV of all characters by 1.2x.",
+    "special": "Recovers 30x character's RCV in HP and reduces enemies' Threshold Damage Reduction, Percent Damage Reduction and Increased Defense duration by 5 turns. If your crew has 4 or more [STR] or [INT] characters, boosts the Color Affinity of [STR] and [INT] characters by 1.75x for 2 turns.",
+    "sailor": "Makes [DEX] orbs beneficial for this character",
+    "sailorNotes": "#{beneficial}",
+    "specialName": "Boat Rest & Recuperation"
+  },
+  "aliases": [
+    "",
+    "",
+    "Kimono Aokiji",
+    "Kimono Kuzan",
+    "Limited Aokiji",
+    "Limited Kuzan",
+    "Secret Aokiji",
+    "Secret Kuzan"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 482,
+    "minATK": 214,
+    "minRCV": 60,
+    "maxHP": 1729,
+    "maxATK": 712,
+    "maxRCV": 154,
+    "ability": 1
+  },
+  "cooldown": [
+    14,
+    14
+  ],
+  "evolution": {
+    "evolution": 3365,
+    "evolvers": [
+      117,
+      83,
+      93,
+      99,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3364.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3364.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}

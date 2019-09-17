@@ -1,0 +1,53 @@
+{
+  "name": "Usopp, One Piece Stampede",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 2x and makes [STR], [DEX], [PSY], [RCV], and [TND] orbs benefical for Shooter characters.",
+    "special": "Cuts the HP of all enemies by 7% and delays all enemies proportional to the number of enemies on the stage when the special is activated.",
+    "specialNotes": "The delay is exactly equal to the number of enemies on the stage.",
+    "specialName": "Usopp Special",
+    "sailor": "Reduces Paralysis duration by 1 turn"
+  },
+  "aliases": [
+    "ウソップ ONE PIECE STAMPEDE",
+    "",
+    "Stampede Usopp"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": "Shooter",
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 1167,
+    "minATK": 716,
+    "minRCV": 172,
+    "maxHP": 2122,
+    "maxATK": 1301,
+    "maxRCV": 313,
+    "ability": 1
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": {
+    "evolution": 2680,
+    "evolvers": [
+      116,
+      117,
+      78,
+      84,
+      95
+    ],
+    "from": 2679
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2680.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2680.png"
+  },
+  "drop": [],
+  "manual": []
+}

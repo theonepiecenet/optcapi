@@ -1,0 +1,53 @@
+{
+  "name": "Usopp, The Sniper Telling Lies at the Pirate Expo",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by ?x and makes [STR], [DEX], [PSY], [RCV], and [TND] orbs benefical for Shooter characters.",
+    "special": "Cuts the HP of all enemies by 7% and delays all enemies proportional to the number of enemies on the stage when the special is activated.",
+    "specialNotes": "The delay is exactly equal to the number of enemies on the stage.",
+    "specialName": "Usopp Special",
+    "sailor": "Reduces Paralysis duration by 1 turn"
+  },
+  "aliases": [
+    "ウソップ 『海賊万博』でホラ吹く狙撃手",
+    "",
+    "Stampede Usopp"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": "Shooter",
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 255,
+    "minATK": 156,
+    "minRCV": 37,
+    "maxHP": 1273,
+    "maxATK": 781,
+    "maxRCV": 188,
+    "ability": 1
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolution": {
+    "evolution": 2680,
+    "evolvers": [
+      116,
+      117,
+      78,
+      84,
+      95
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2679.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2679.png"
+  },
+  "drop": [],
+  "manual": []
+}

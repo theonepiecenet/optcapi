@@ -1,0 +1,192 @@
+{
+  "name": "Whitebeard, Voiceless Rage",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Powerhouse and Striker characters proportionally to the crew's current HP, by 4.5x at max and reduce damage received by 20%",
+    "captainNotes": "#{captainProportional : lower : 2.5 + 2 * (1 - (remaining HP) / (total HP)) : 2.5 : 4.5}",
+    "special": "Deals 400,000 Fixed damage to one enemy that will ignore damage negating abilities and barriers, adds 0.7x to Chain multiplier for 1 turn, boosts ATK of Striker and Powerhouse characters by 2x for 1 turn. If HP is below 30% at the time the special is activated, reduces damage received by 95% for 1 turn and reduces Despair duration by 20 turns.",
+    "specialName": "Seismic Strike",
+    "sailor": {
+      "base": "None",
+      "level1": "Cannot be blown away",
+      "level2": "Boosts base ATK of all characters by 70"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 5"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Cannot be blown away"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base ATK by 60"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Boosts base ATK of all characters by 70"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 110"
+      },
+      {
+        "description": "Acquire Potential 3: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 30% chance to deal 5% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 40% chance to deal 5% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 50% chance to deal 7% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 10 turns on this character"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 75",
+          "Level 2: Boosts base ATK by 100",
+          "Level 3: Boosts base ATK by 200",
+          "Level 4: Boosts base ATK by 250",
+          "Level 5: Boosts base ATK by 300"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}"
+  },
+  "aliases": [
+    "",
+    "",
+    "V2 Whitebeard",
+    "WB",
+    "V2 WB"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 1820,
+    "minATK": 789,
+    "minRCV": 40,
+    "maxHP": 4504,
+    "maxATK": 1520,
+    "maxRCV": 141,
+    "ability": 1
+  },
+  "cooldown": [
+    20,
+    14
+  ],
+  "evolve": {
+    "evolution": 2686,
+    "evolvers": [
+      118,
+      79,
+      1180,
+      301,
+      267
+    ],
+    "from": 2685
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2686.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2686.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}

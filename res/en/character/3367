@@ -1,0 +1,77 @@
+{
+  "name": "Duval [Neo], Flying Fish Riders Leader",
+  "detail": {
+    "special": "Deals 5,000 Fixed damage to all enemies, reduces damage received by 50% for 1 turn, reduces Increase Damage Taken duration by 4 turns and boosts ATK of Shooter characters by 1.75x for 1 turn",
+    "specialName": "Heart-Smashing Horn [Neo]",
+    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight and boosts ATK of Shooter characters by 2.25x and their RCV by 1.5x"
+  },
+  "aliases": [
+    "",
+    "",
+    "Neo Duval",
+    "Kai Duval",
+    "Raid Duval"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 5,
+    "slots": 2,
+    "level": 60,
+    "exp": 1123790,
+    "minHP": 684,
+    "minATK": 524,
+    "minRCV": 46,
+    "maxHP": 1492,
+    "maxATK": 923,
+    "maxRCV": 103,
+    "ability": 1
+  },
+  "cooldown": [
+    28,
+    null
+  ],
+  "evolution": {
+    "evolution": [
+      3368,
+      3368
+    ],
+    "evolvers": [
+      [
+        118,
+        85,
+        266,
+        96,
+        101
+      ],
+      [
+        18
+      ]
+    ]
+  },
+  "evolve": {
+    "evolution": 3367,
+    "evolvers": [
+      116,
+      117,
+      79,
+      90,
+      96
+    ],
+    "from": 3366
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/3367.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3367.png"
+  },
+  "flags": {
+    "global": 1
+  },
+  "drop": [],
+  "manual": []
+}

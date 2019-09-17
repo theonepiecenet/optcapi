@@ -1,0 +1,202 @@
+{
+  "name": "Monkey D. Luffy, Overcoming the \"Strongest\" with his Friends",
+  "detail": {
+    "captain": "Boosts ATK of [STR], [DEX] and [PSY] characters by 4x, reduces damage recieved by 20%, boosts own ATK by 4.5x, makes [STR], [DEX] and [PSY] orbs beneficial for [STR], [DEX] and [PSY] characters. Reduces Despair and Paralysis duration by 10 turns.",
+    "captainNotes": "The Despair and Paralysis reduction can activate multiple times",
+    "special": "Deals 120x character's Atk in typless damage to all enemies, boosts own ATK by 2.5x for 2 turns, amplifies the effect of own orb by 2.5x for 2 turns and boosts own base ATK based on your current HP for 2 turns.",
+    "specialName": "Gomu Gomu no King Kong Gatling",
+    "specialNotes": "Base ATK boost is equal to current HP/20, the maximum effect at 20,000 HP will give a 1,000 base ATK boost.",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of [STR], [DEX] and [PSY] characters by 75",
+      "level2": "Makes [STR], [DEX], [RCV] and [TND] orbs beneficial for this character"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 25"
+      },
+      {
+        "description": "Boosts base HP by 35"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of [STR], [DEX] and [PSY] characters by 75"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [STR], [DEX], [RCV] and [TND] orbs beneficial for this character"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 3: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 2%",
+          "Level 2: Reduce damage taken from [INT] characters by 3%",
+          "Level 3: Reduce damage taken from [INT] characters by 4%",
+          "Level 4: Reduce damage taken from [INT] characters by 5%",
+          "Level 5: Reduce damage taken from [INT] characters by 7%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 35% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 2 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 5 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 5: Reduces Slot Bind completely on this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "[STR], [DEX] and [PSY] characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 9% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "モンキー・D・ルフィ 仲間と共に『最強』を超える者",
+    "",
+    "Stampede Luffy",
+    "Bullet Imposter"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 6,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 1738,
+    "minATK": 842,
+    "minRCV": 149,
+    "maxHP": 3381,
+    "maxATK": 1648,
+    "maxRCV": 290,
+    "ability": 1
+  },
+  "cooldown": [
+    17,
+    12
+  ],
+  "evolve": {
+    "evolution": 2672,
+    "evolvers": [
+      118,
+      303,
+      2662,
+      103,
+      267
+    ],
+    "from": 2671
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2672.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2672.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}
