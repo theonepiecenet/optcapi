@@ -1,0 +1,60 @@
+{
+  "name": "Portgas D. Ace, ",
+  "detail": {
+    "captain": "Boosts ATK of Fighter, Free Spirit and Powerhouse characters by 2.5x if HP is below 50% at the start of the turn, 2x otherwise.",
+    "special": "Deals 40x character's ATK in [STR] damage to one enemy and changes [BLOCK] orbs into Matching orbs. If HP is below 30% at the time the special is activated, amplifies the effect of orbs for Fighter, Free Spirit and Powerhouse characters by 2.25x for 1 turn, by 2x otherwise.",
+    "specialName": "Ace Special",
+    "sailor": "Boosts base ATK of characters in the top row by 80"
+  },
+  "aliases": [
+    "",
+    "",
+    "Raid Ace"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Free Spirit",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 4,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 667,
+    "minATK": 222,
+    "minRCV": 42,
+    "maxHP": 2210,
+    "maxATK": 778,
+    "maxRCV": 121,
+    "ability": null
+  },
+  "cooldown": [
+    29,
+    14
+  ],
+  "evolution": {
+    "evolution": 2394,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2393.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2393.png"
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Ace Raid",
+      "thumb": 2394,
+      "data": [
+        "Expert",
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
+}
