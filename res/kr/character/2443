@@ -2,20 +2,20 @@
     "name": "돈키호테 도플라밍고, ‘각성’이라는 윗세계",
     "detail": {
         "captain": {
-            "base": "Boosts ATK of Driven characters by ?x and recovers ? HP at end of each turn. If you use \"Off White\" in this turn boosts ATK of Driven characters by ?x instead.",
+            "base": "야심형 캐릭터의 공격력을 1.5배로 만들고, ‘오프 화이트’를 사용한 턴은 야심형 캐릭터의 공격력이 2배가 된다",
             "level1": "Not Translated",
             "level2": "Not Translated",
             "level3": "Not Translated",
             "level4": "Not Translated",
             "level5": "Not Translated",
-            "level6": "Boosts ATK of Driven characters by 2.75x and recovers 500 HP at end of each turn. If you use \"Off White\" in this turn boosts ATK of Driven characters by 3.5x instead."
+            "level6": "야심형 캐릭터의 공격력을 2.75배로 만들고, 턴 종료 시 체력을 500 회복하며, ‘오프 화이트’를 사용한 턴은 야심형 캐릭터의 공격력이 약 3.5배가 된다"
         },
-        "special": "Removes RCV DOWN duration completely and reduces damage received by 80% for 2 turns. If your Captain is a Driven character, changes all Driven character's orbs, including [BLOCK] orbs, into Matching orbs",
+        "special": "일당의 회복력 감소 상태를 완전히 회복하고, 2턴 동안 받는 데미지를 80% 줄이며, 선장이 야심형 캐릭터라면 야심형 캐릭터의 [BLOCK]를 포함한 모든 슬롯을 속성 일치 슬롯으로 바꾼다",
         "specialName": "오프 화이트",
         "sailor": {
             "base": "None",
-            "level1": "Reduces Silence duration on this character by 3 turns",
-            "level2": "Boosts base ATK, HP and RCV of Driven characters by 30"
+            "level1": "자신의 필살기 봉쇄 상태를 3턴 회복한다",
+            "level2": "야심형 캐릭터의 기본 능력치가 30 상승한다"
         },
         "limit": [
             {
