@@ -1,19 +1,19 @@
 {
-    "name": "바르톨로메오&캐번디시, The Noble Prince & Cannibal Fighting Together",
+    "name": "바르톨로메오&캐번디시, 함께 싸우는 식인종과 귀공자",
     "detail": {
         "captain": {
-            "character1": "Boosts ATK of Driven characters by 3.25x. If you don't attack with Bartolomeo, reduces damage received by 25% for that turn.",
-            "character2": "Boosts ATK of Driven characters by 3.25x, but boosts his OWN attack by 3.75x",
-            "combined": "Boosts ATK of Driven characters by 4.25x, reduce damage received by 25% and makes [STR], [DEX] and [QCK] orbs beneficial for Driven characters"
+            "character1": "야심형 캐릭터의 공격력을 3.25배로 만들고, 자신이 공격하지 않은 턴은 받는 데미지를 25% 감소시킨다",
+            "character2": "야심형 캐릭터의 공격력을 3.25배, 자신의 공격력을 약 3.75배로 만든다",
+            "combined": "야심형 캐릭터의 공격력을 4.25배로 만들고, [STR][QCK][DEX] 슬롯도 [유리] 슬롯으로 취급하며, 받는 데미지를 25% 감소시킨다"
         },
-        "special": "Deals 75x the character's ATK as Typeless damage to all enemies, reduces any damage received above 5,000 HP by ?% for 1 turn, boosts ATK of Driven characters by 2.25x for 1 turn and becomes Bartolomeo & Cavendish for 3 turns",
-        "swap": "When Change is activated, amplifies the effect of own orb by 1.5x for 1 turn, reduces damage received by 25% for 1 turn, recovers 5% of crew's MAX HP and changes their own orb into a Matching orb.",
-        "specialName": "Beautiful Sword Barrier Barrage",
+        "special": "적 전체에게 캐릭터의 공격력x75배의 무 속성 데미지를 주고, 1턴 동안 적 각각에 대해 5000을 넘는 부분의 데미지를 초대폭 감소시킨다. 야심형 캐릭터의 공격력을 2.25배로 만들고, 3턴 동안 ‘바르톨로메오&캐번디시’가 된다",
+        "swap": "자신의 슬롯을 속성 일치 슬롯으로 바꾸고, 1턴 동안 자신의 슬롯 영향을 1.5배 증폭시키며, 체력을 최대 체력의 5% 회복하고, 1턴 동안 받는 데미지를 25% 감소시킨다",
+        "specialName": "미검과 배리어의 맹공",
         "sailor": {
             "character1": "Boosts base HP of Driven characters by 50",
             "character2": "Boosts base ATK of Driven characters by 50",
-            "combined": "Boosts base ATK and HP of Driven characters by 100",
-            "level1": "Boosts own base ATK by 250 if this character is the last in the chain to attack"
+            "combined": "야심형 캐릭터의 기본 공격력과 기본 체력이 100 상승한다",
+            "level1": "공격 가능한 캐릭터 전원이 공격하고 자신이 마지막으로 공격할 때, 자신의 기본 공격력이 250 상승한다"
         },
         "limit": [
             {
