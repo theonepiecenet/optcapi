@@ -1,7 +1,10 @@
 {
   "name": "Blackbeard, Captain of the Blackbeard Pirates",
   "detail": {
-    "captain": "Boosts ATK of all characters by 2.75x and their HP by 1.5x if you have a Striker, Shooter, Fighter and Slasher on your crew. Attacks will ignore defensive barriers and buffs.",
+    "captain": {
+      "base": "Boosts ATK of all characters by 2.75x and their HP by 1.5x if you have a Striker, Shooter, Fighter and Slasher on your crew. Attacks will ignore defensive barriers and buffs.",
+      "level1": "Boosts ATK of all characters by 3.25x and their HP by 1.5x if you have a Striker, Shooter, Fighter and Slasher on your crew. Attacks will ignore defensive barriers and buffs."
+    },
     "captainNotes": "Attacks are still affected by DEF value. DEF boost buffs (Blue shield) still reduce your damage and you can not kill through Resilience, but Damage Negating (Yellow shield), % Damage Reduction (Rainbow shield), Barriers and Threshold Damage Reduction are ignored. Multiple class characters count as a character of each class. Enemy attacks will go through YOUR defensive buffs.",
     "special": "Cuts the current HP of each enemy by 30%. If Blackbeard is a captain, this ability will ignore damage negating abilities and barriers",
     "specialNotes": "If Blackbeard is not a captain, the effect works exactly like Whitebeard special and is affected by barriers.<br>#{ignoreBarrier}",
@@ -101,6 +104,36 @@
       },
       {
         "description": "Acquire Potential 3: Slot Bind Self-reduction"
+      },
+      {
+        "description": "LOCKED WITH KEY: Missing Data"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of all characters by 3.25x and their HP by 1.5x if you have a Striker, Shooter, Fighter and Slasher on your crew. Attacks will ignore defensive barriers and buffs."
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 200"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Boosts base ATK by 150"
       }
     ],
     "potential": [
