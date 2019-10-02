@@ -32,7 +32,7 @@ install composer
 `php /var/www/html/composer.phar install --no-dev`
 
 
-modify apache conf `/etc/apache2/apache.conf`
+modify apache conf `/etc/apache2/apache2.conf`
 ```
 <Directory /var/www/>
     Allowoverride All
