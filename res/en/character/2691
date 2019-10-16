@@ -1,0 +1,63 @@
+{
+  "name": "Emporio Ivankov, Paramount War Intruder",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 2x.",
+    "special": "Reduces enemy Threshold Damage Reduction duration by 3 turns and boosts ATK of Cerebral characters by 1.75x for 1 turn.",
+    "specialName": "Don't Think I Will Hold Back Any Longer!!!"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Cerebral",
+      "Free Spirit"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 130703,
+    "minHP": 490,
+    "minATK": 200,
+    "minRCV": 50,
+    "maxHP": 1120,
+    "maxATK": 510,
+    "maxRCV": 110,
+    "ability": 1
+  },
+  "cooldown": [
+    21,
+    13
+  ],
+  "evolution": {
+    "evolution": 2692,
+    "evolvers": [
+      117,
+      81,
+      86,
+      97,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2691.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2691.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Impel Down Breakout Fortnight",
+      "thumb": 2692,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

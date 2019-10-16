@@ -1,0 +1,136 @@
+{
+  "name": "Zorojuro, Ronin",
+  "detail": {
+    "captain": "Boosts ATK of Slasher and Powerhouse characters by 2.25x and makes [PSY] orbs beneficial for Slasher and Powerhouse characters.",
+    "special": "Deals 40x character's ATK in [PSY] damage to one enemy, reduces Paralysis duration by 4 turns and reduces the defense of all enemies by 100% for 1 turn.",
+    "specialName": "Seppuku Blade Style - Magistrate Slashing",
+    "sailor": "Reduces Paralysis duration by 1 turn",
+    "limit": [
+      {
+        "description": "Boosts base HP by 350"
+      },
+      {
+        "description": "Boosts base ATK by 200"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 350"
+      },
+      {
+        "description": "Boosts base ATK by 200"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base HP by 500"
+      },
+      {
+        "description": "Boosts base ATK by 250"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 30",
+          "Level 2: Boosts base ATK by 60",
+          "Level 3: Boosts base ATK by 90",
+          "Level 4: Boosts base ATK by 120",
+          "Level 5: Boosts base ATK by 150"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Usopp, Robin, Franky and Kinemon",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Roronoa Zoro"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 25,
+    "combo": 4,
+    "slots": 1,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 1043,
+    "minATK": 491,
+    "minRCV": 84,
+    "maxHP": 1638,
+    "maxATK": 785,
+    "maxRCV": 150,
+    "ability": 1
+  },
+  "cooldown": [
+    16,
+    16
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2707.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2707.png"
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Game!! Zorojuro Raid",
+      "thumb": 2707,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

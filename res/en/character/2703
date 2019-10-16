@@ -1,0 +1,59 @@
+{
+  "name": "Holdem",
+  "detail": {
+    "captain": "Boosts ATK of Shooter and Powerhouse characters by 2.75x, reduces crew's current HP by 5% at the end of each turn, reduces his own ATK multiplier by 0.?x at the end of each turn.",
+    "special": "Reduces crew's current HP by 1%, reduces enemies' Threshold Damage Reduction, Percent Damage Reduction and Barrier duration by 3 turns and locks the chain multiplier at 2.5x for 1 turn",
+    "specialName": "The Lion's Attack on the Jewels",
+    "sailor": "Boosts base ATK of Powerhouse characters by 50"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Shooter"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 342,
+    "minATK": 194,
+    "minRCV": 10,
+    "maxHP": 930,
+    "maxATK": 951,
+    "maxRCV": 78,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    13
+  ],
+  "evolution": {
+    "evolution": 2704,
+    "evolvers": [
+      94,
+      1180,
+      98,
+      303,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2703.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2703.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

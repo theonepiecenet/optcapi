@@ -1,0 +1,145 @@
+{
+  "name": "Holdem, Beast Pirates' Headliner",
+  "detail": {
+    "captain": "Boosts ATK of Shooter and Powerhouse characters by 3x, reduces crew's current HP by 5% at the end of each turn, reduces his own ATK multiplier by 0.?x at the end of each turn.",
+    "special": "Reduces crew's current HP by 1%, reduces enemies' Threshold Damage Reduction, Percent Damage Reduction and Barrier duration by 3 turns and locks the chain multiplier at 2.5x for 1 turn",
+    "specialName": "The Lion's Attack on the Jewels",
+    "sailor": {
+      "base": "Boosts base ATK of Powerhouse characters by 50",
+      "level1": "Makes [PSY] orbs beneficial for Powerhouse characters"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: [INT] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [PSY] orbs beneficial for Powerhouse characters"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[INT] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [INT] characters by 1%",
+          "Level 2: Reduce damage taken from [INT] characters by 2%",
+          "Level 3: Reduce damage taken from [INT] characters by 3%",
+          "Level 4: Reduce damage taken from [INT] characters by 4%",
+          "Level 5: Reduce damage taken from [INT] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Kaido, Jack and Speed",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Powerhouse",
+      "Shooter"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 921,
+    "minATK": 946,
+    "minRCV": 71,
+    "maxHP": 2954,
+    "maxATK": 1232,
+    "maxRCV": 297,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    13
+  ],
+  "evolve": {
+    "evolution": 2704,
+    "evolvers": [
+      94,
+      1180,
+      98,
+      303,
+      103
+    ],
+    "from": 2703
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2704.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2704.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

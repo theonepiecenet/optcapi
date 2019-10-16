@@ -1,0 +1,139 @@
+{
+  "name": "Trafalgar Law, A Mysterious Marauder",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] and [PSY] characters by 3x if they have a Matching orb, by 2.25x otherwise.",
+    "special": "Deals 200,000 fixed damage to one enemy that will ignore damage negating abilities and barriers and reduces enemies' Percent Damage Reduction, Increased Defense and Resilience Buffs duration by 2 turns. If your Captain is a [DEX] or [PSY] character, adds 0.8x to Chain multiplier for 1 turn.",
+    "specialName": "The Lion's Attack on the Jewels",
+    "sailor": {
+      "base": "Boosts base ATK of [DEX] and [PSY] characters by 50",
+      "level1": "If this character has an [DEX] orb and you hit a PERFECT with him, keep his [DEX] orb for the next turn"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If this character has an [DEX] orb and you hit a PERFECT with him, keep his [DEX] orb for the next turn"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[QCK] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [QCK] characters by 1%",
+          "Level 2: Reduce damage taken from [QCK] characters by 2%",
+          "Level 3: Reduce damage taken from [QCK] characters by 3%",
+          "Level 4: Reduce damage taken from [QCK] characters by 4%",
+          "Level 5: Reduce damage taken from [QCK] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 4 turns",
+          "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Slasher Characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Raid Law"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 1283,
+    "minATK": 766,
+    "minRCV": 132,
+    "maxHP": 2531,
+    "maxATK": 1428,
+    "maxRCV": 357,
+    "ability": 1
+  },
+  "cooldown": [
+    29,
+    14
+  ],
+  "evolve": {
+    "evolution": 2709,
+    "evolvers": [
+      118,
+      102,
+      86,
+      302,
+      2662
+    ],
+    "from": 2708
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2709.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2709.png"
+  },
+  "drop": [],
+  "manual": []
+}

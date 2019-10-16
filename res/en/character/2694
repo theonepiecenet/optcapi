@@ -1,0 +1,53 @@
+{
+  "name": "Buggy, Paramount War Clown",
+  "detail": {
+    "captain": "Boosts chain multiplier by 1.5x.",
+    "special": "Reduces enemies' Enrage and Resilience Buffs duration by 2 turns.",
+    "specialName": "Exclusive Broadcast of the \"Legendary Pirate\""
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Driven",
+      "Free Spirit"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": 5,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "minHP": 501,
+    "minATK": 168,
+    "minRCV": 64,
+    "maxHP": 1542,
+    "maxATK": 800,
+    "maxRCV": 200,
+    "ability": 1
+  },
+  "cooldown": [
+    14,
+    9
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2694.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2694.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Impel Down Breakout Fortnight",
+      "thumb": 2692,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

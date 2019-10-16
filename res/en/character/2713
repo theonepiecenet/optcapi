@@ -1,0 +1,54 @@
+{
+  "name": "Paulie [Neo]",
+  "detail": {
+    "special": "Reduces the defense of all enemies by 100% for 1 turn, recovers 20% of crew's MAX HP and makes [TND] and [BLOCK] orbs beneficial for all characters for 3 turns",
+    "specialName": "Hook, Line and Sinker [Neo]",
+    "captain": "Boosts ATK of Striker characters by 1.5x"
+  },
+  "aliases": [
+    "",
+    "",
+    "Neo Paulie"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Striker",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 5,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 783,
+    "minATK": 423,
+    "minRCV": 104,
+    "maxHP": 1424,
+    "maxATK": 769,
+    "maxRCV": 189,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    13
+  ],
+  "evolution": {
+    "evolution": 2714,
+    "evolvers": [
+      117,
+      81,
+      87,
+      98,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2713.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2713.png"
+  },
+  "drop": [],
+  "manual": []
+}

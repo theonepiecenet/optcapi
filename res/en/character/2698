@@ -1,0 +1,142 @@
+{
+  "name": "Sir Crocodile, The Drought of the Battlefield",
+  "detail": {
+    "captain": "Boosts ATK of characters with rarity of 4 or 4+ by 2.5x, boosts ATK of characters with rarity of 5 or 5+ by 3x and boosts ATK of characters with rarity of 6 or 6+ by 3.5x.",
+    "special": "Deals 50x character's ATK as Typeless damage to all enemies that will ignore damage negating abilities and barriers, changes [EMPTY], [BLOCK] and [BOMB] orbs into Matching orbs and reduces Chain Multiplier Limit duration by 8 turns. If your Captain is a Striker or Cerebral character, boosts base Chain to 2.0x for 3 turns.",
+    "specialNotes": "Chain Multiplier will cap at 35.0x upon using this special",
+    "specialName": "Battlefield Sables",
+    "sailor": {
+      "base": "None",
+      "level1": "Cannot be Blown Away",
+      "level2": "Makes [STR] and [QCK] orbs beneficial for this character"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Potential 1: Critical Hit"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Cannot be Blown Away"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [STR] and [QCK] orbs beneficial for this character"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 1% chance to deal 10% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 2% chance to deal 15% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 4% chance to deal 20% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 6% chance to deal 25% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 8% chance to deal 40% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 5 turns",
+          "Level 5: Reduces No Healing duration by 7 turns"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Daz Bones",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Raid Crocodile"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Cerebral",
+      "Striker"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 1390,
+    "minATK": 731,
+    "minRCV": 96,
+    "maxHP": 3132,
+    "maxATK": 1467,
+    "maxRCV": 209,
+    "ability": 1
+  },
+  "cooldown": [
+    28,
+    13
+  ],
+  "evolve": {
+    "evolution": 2698,
+    "evolvers": [
+      118,
+      102,
+      86,
+      302,
+      2662
+    ],
+    "from": 2697
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2698.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2698.png"
+  },
+  "drop": [],
+  "manual": []
+}

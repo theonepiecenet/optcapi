@@ -1,0 +1,59 @@
+{
+  "name": "Jack, The Ruler of Kuri",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight and boosts ATK of Powerhouse characters by 2x.",
+    "special": "Cuts the current HP of one enemy by 20% and reduces Special Cooldown of all characters by 1 turn. If enemies have Delay Debuff Protection or All Debuff Protection at the time the special was activated, amplifies the effect of orbs for Striker and Powerhouse characters by 2x for 1 turn, by 1.75x for 1 turn otherwise.",
+    "specialName": "Disaster Shotel",
+    "sailor": "Restores his own special cooldown by 1 turn when it is rewinded"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 340,
+    "minATK": 192,
+    "minRCV": 8,
+    "maxHP": 927,
+    "maxATK": 946,
+    "maxRCV": 80,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    13
+  ],
+  "evolution": {
+    "evolution": 2702,
+    "evolvers": [
+      94,
+      2662,
+      302,
+      302,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2701.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2701.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Jinbe, Paramount War Knight of the Sea",
+  "detail": {
+    "captain": "Boosts ATK of [PSY] characters by 2x.",
+    "special": "Deals 30x character's ATK as Typeless damage to one enemy, changes [STR] and [QCK] orbs on Fighter characters into Matching orbs and reduces enemies' ATK Up and Increased Defense duration by 2 turns.",
+    "specialName": "Fishman Karate - Sharkskin Palm Thrust"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": 6,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "minHP": 403,
+    "minATK": 203,
+    "minRCV": 50,
+    "maxHP": 1392,
+    "maxATK": 993,
+    "maxRCV": 181,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    11
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2693.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2693.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Impel Down Breakout Fortnight",
+      "thumb": 2692,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

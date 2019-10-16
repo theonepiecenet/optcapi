@@ -1,0 +1,55 @@
+{
+  "name": "Hody Jones",
+  "detail": {
+    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Powerhouse characters by 2x and reduces crew's RCV to 0.",
+    "special": "Cuts the current HP of one enemy by 20% and reduces Bind, Despair and Silence duration by 5 turns.",
+    "specialName": "Trident of Revenge",
+    "sailor": "Boosts base ATK and HP of Striker and Powerhouse characters by 50"
+  },
+  "aliases": [
+    "",
+    "",
+    "Coliseum Hody Jones"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 4,
+    "cost": 25,
+    "combo": 6,
+    "slots": 3,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 804,
+    "minATK": 245,
+    "minRCV": 66,
+    "maxHP": 2035,
+    "maxATK": 754,
+    "maxRCV": 80,
+    "ability": 1
+  },
+  "cooldown": [
+    29,
+    14
+  ],
+  "evolution": {
+    "evolution": 2721,
+    "evolvers": [
+      118,
+      97,
+      1180,
+      302,
+      102
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2720.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2720.png"
+  },
+  "drop": [],
+  "manual": []
+}

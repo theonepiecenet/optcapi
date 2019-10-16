@@ -1,0 +1,66 @@
+{
+  "name": "Trafalgar Law, Stronghold Marauder",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] and [PSY] characters by 2x.",
+    "special": "Deals 200,000 fixed damage to one enemy that will ignore damage negating abilities and barriers and reduces enemies' Percent Damage Reduction, Increased Defense and Resilience Buffs duration by 2 turns. If your Captain is a [DEX] or [PSY] character, adds 0.8x to Chain multiplier for 1 turn.",
+    "specialName": "The Lion's Attack on the Jewels",
+    "sailor": "Boosts base ATK of [DEX] and [PSY] characters by 50"
+  },
+  "aliases": [
+    "",
+    "",
+    "Raid Law"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 5,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 282,
+    "minATK": 173,
+    "minRCV": 18,
+    "maxHP": 1293,
+    "maxATK": 804,
+    "maxRCV": 152,
+    "ability": 1
+  },
+  "cooldown": [
+    29,
+    14
+  ],
+  "evolution": {
+    "evolution": 2709,
+    "evolvers": [
+      118,
+      102,
+      86,
+      302,
+      2662
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2708.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2708.png"
+  },
+  "drop": [
+    {
+      "type": "Raid",
+      "name": "Clash!! Law Raid",
+      "thumb": 2709,
+      "data": [
+        "Expert",
+        "Master",
+        "Ultimate"
+      ]
+    }
+  ],
+  "manual": []
+}

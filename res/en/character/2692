@@ -1,0 +1,66 @@
+{
+  "name": "Emporio Ivankov, Paramount War New Mankind, Evolved",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 2.5x and their RCV by 1.2x.",
+    "special": "Reduces enemy Threshold Damage Reduction duration by 3 turns and boosts ATK of Cerebral characters by 1.75x for 1 turn.",
+    "specialName": "Don't Think I Will Hold Back Any Longer!!!",
+    "support": [
+      {
+        "Characters": "Cerebral Characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Cerebral",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": 1021,
+    "minATK": 492,
+    "minRCV": 107,
+    "maxHP": 2014,
+    "maxATK": 1209,
+    "maxRCV": 235,
+    "ability": 1
+  },
+  "cooldown": [
+    21,
+    13
+  ],
+  "evolve": {
+    "evolution": 2692,
+    "evolvers": [
+      117,
+      81,
+      86,
+      97,
+      102
+    ],
+    "from": 2691
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2692.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2692.png"
+  },
+  "drop": [],
+  "manual": []
+}

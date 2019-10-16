@@ -1,0 +1,44 @@
+{
+  "name": "Monet [Neo], Snow-Snow Fruit Snow Woman",
+  "detail": {
+    "captain": "Boosts ATK and RCV of Cerebral and Free Spirit characters by 1.2x",
+    "special": "Reduces Despair duration by 5 turns, reduces enemies' Threshold Damage Reduction duration by 5 turns and changes [BLOCK] and Badly Matching orbs into Matching orbs.",
+    "specialName": "Observing within the Snow Storm [Neo]"
+  },
+  "aliases": [
+    "",
+    "",
+    "Neo Monet"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Cerebral",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 3000000,
+    "minHP": 1035,
+    "minATK": 556,
+    "minRCV": 219,
+    "maxHP": 1882,
+    "maxATK": 1012,
+    "maxRCV": 399,
+    "ability": 1
+  },
+  "cooldown": [
+    20,
+    14
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2712.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2712.png"
+  },
+  "drop": [],
+  "manual": []
+}

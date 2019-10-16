@@ -1,0 +1,54 @@
+{
+  "name": "Longleg Blue Gilly [Neo]",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 1.5x",
+    "special": "Deals 4 hits of 5,000 fixed damage to random enemies and adds 0.3x to Chain multiplier for 3 turns. If during that turn, you hit 2 PERFECTS, reduces enemy Barrier duration by 2 turns in the following turn.",
+    "specialName": "Jao Kun Do Consecutive Thrusting Kick [Neo]"
+  },
+  "aliases": [
+    "",
+    "",
+    "Neo Blue Gilly"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 3,
+    "cost": 12,
+    "combo": 6,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 792,
+    "minATK": 460,
+    "minRCV": 89,
+    "maxHP": 1441,
+    "maxATK": 837,
+    "maxRCV": 89,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    13
+  ],
+  "evolution": {
+    "evolution": 2711,
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2710.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2710.png"
+  },
+  "drop": [],
+  "manual": []
+}

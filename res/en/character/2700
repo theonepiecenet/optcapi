@@ -1,0 +1,202 @@
+{
+  "name": "Kaido, The Strongest Creature",
+  "detail": {
+    "captain": "Reduces cooldown of Striker and Powerhouse specials by 2 turns at the start of the fight boosts ATK of Striker and Powerhouse characters by 4x, their HP by 1.25x, and deals 400x character's ATK in [DEX] damage to all enemies at the end of each turn. At the start of the fight, this character activates their own special.",
+    "captainNotes": "Premptive Special Activation will not reset the special cooldown.",
+    "special": "Cuts the current HP of all enemies by 20% and deals 400x character's ATK as [DEX] damage to all enemies at the end of the turn for 1 turn. Applies a continuous effect that cuts the current HP of all enemies by 20% at the start of every stage for 99+ turns, and deals 400x character's ATK in [DEX] damage to all enemies at the end of each turn for 99+ turns.",
+    "specialNotes": "The continuous special effect that triggers at the start of each stage will not stack with other continuous special effects.",
+    "specialName": "Boro Breath",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of Powerhouse and Striker characters by 75",
+      "level2": "Cannot be Blown Away"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Powerhouse and Striker characters by 75"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Cannot be Blown Away"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 75",
+          "Level 2: Boosts base ATK by 100",
+          "Level 3: Boosts base ATK by 150",
+          "Level 4: Boosts base ATK by 200",
+          "Level 5: Boosts base ATK by 300"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turns",
+          "Level 3: Reduces No Healing duration by 3 turns",
+          "Level 4: Reduces No Healing duration by 5 turns",
+          "Level 5: Reduces No Healing duration by 7 turns"
+        ]
+      },
+      {
+        "Name": "Slot Bind Self-reduction",
+        "description": [
+          "Level 1: Reduces Slot Bind duration by 3 turn on this character",
+          "Level 2: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 6 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 7 turns on this character",
+          "Level 4: Reduces Slot Bind duration completely on this character"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Jack, Holdem and Speed",
+        "description": [
+          "Level 1: Adds 8% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 10% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 12% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 15% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 18% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Lazy Mode"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 2176,
+    "minATK": 975,
+    "minRCV": 48,
+    "maxHP": 4457,
+    "maxATK": 1656,
+    "maxRCV": 105,
+    "ability": 1
+  },
+  "cooldown": [
+    22,
+    17
+  ],
+  "evolve": {
+    "evolution": 2700,
+    "evolvers": [
+      118,
+      302,
+      2662,
+      102,
+      267
+    ],
+    "from": 2699
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2700.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2700.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}
