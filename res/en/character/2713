@@ -6,7 +6,7 @@
     "captain": "Boosts ATK of Striker characters by 1.5x"
   },
   "aliases": [
-    "",
+    "パウリー「改」",
     "",
     "Neo Paulie"
   ],
@@ -49,6 +49,15 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2713.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2713.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Clash!! Lucci - Preparation Adventure Fortnight",
+      "thumb": 2714,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
   "manual": []
 }

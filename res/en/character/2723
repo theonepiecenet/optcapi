@@ -1,12 +1,12 @@
 {
-  "name": "Emporio Ivankov, Paramount War New Mankind, Evolved",
+  "name": "Marco, Blue Flame Tears",
   "detail": {
-    "captain": "Boosts ATK of Cerebral characters by 2.5x and their RCV by 1.2x.",
-    "special": "Reduces enemy Percent Damage Reduction duration by 3 turns and boosts ATK of Cerebral characters by 1.75x for 1 turn.",
-    "specialName": "Don't Think I Will Hold Back Any Longer!!!",
+    "captain": "Boosts ATK of Powerhouse characters by 2.5x and recovers 2x character's RCV at the end of each turn.",
+    "special": "Reduces Paralysis duration by 3 turns, changes [RCV], [TND], [EMPTY], [BLOCK] and [BOMB] orbs on Powerhouse characters into Matching orbs and recovers 8x character's RCV in HP at the end of each turn for 3 turns.",
+    "specialName": "Blue Flames of Healing",
     "support": [
       {
-        "Characters": "Cerebral Characters",
+        "Characters": "Powerhouse characters",
         "description": [
           "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
           "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
@@ -18,15 +18,15 @@
     ]
   },
   "aliases": [
-    "エンポリオ・イワンコフ 頂上戦争の新人類",
     "",
-    "Fortnight Ivankov"
+    "",
+    ""
   ],
   "unit": {
-    "type": "DEX",
+    "type": "INT",
     "class": [
-      "Cerebral",
-      "Free Spirit"
+      "Powerhouse",
+      "Fighter"
     ],
     "stars": 4,
     "cost": 1,
@@ -34,12 +34,12 @@
     "slots": 4,
     "level": 99,
     "exp": 1000000,
-    "minHP": 1021,
-    "minATK": 492,
-    "minRCV": 107,
-    "maxHP": 2014,
-    "maxATK": 1209,
-    "maxRCV": 235,
+    "minHP": 955,
+    "minATK": 530,
+    "minRCV": 149,
+    "maxHP": 1812,
+    "maxATK": 1074,
+    "maxRCV": 313,
     "ability": 1
   },
   "cooldown": [
@@ -47,19 +47,19 @@
     13
   ],
   "evolve": {
-    "evolution": 2692,
+    "evolution": 2723,
     "evolvers": [
       117,
-      81,
-      86,
-      97,
-      102
+      82,
+      88,
+      99,
+      104
     ],
-    "from": 2691
+    "from": 2722
   },
   "image": {
-    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2692.png",
-    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2692.png"
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2723.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2723.png"
   },
   "drop": [],
   "manual": []

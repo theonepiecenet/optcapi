@@ -1,0 +1,79 @@
+{
+  "name": "Basil Hawkins, Beast Pirates' Headliner",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Cerebral characters by 1.5x",
+    "special": [
+      {
+        "description": "Changes adjacent orbs into Matching Orbs and delays all enemies for 1 turn.",
+        "cooldown": [
+          29,
+          22
+        ]
+      },
+      {
+        "description": "Changes adjacent orbs into Matching Orbs. If the HP of the enemy with the highest Maximum HP is below 70% at the time the special is activated,  ignores Delay Debuff Protection and delays all enemies for 1 turn, delays all enemies for 1 turn otherwise.",
+        "cooldown": [
+          37,
+          30
+        ]
+      }
+    ],
+    "specialName": "Strawman Cards Pursuit"
+  },
+  "aliases": [
+    "",
+    "",
+    "Treasure Map Hawkins",
+    "Treasure Map Basil Hawkins"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 4,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "minHP": 588,
+    "minATK": 318,
+    "minRCV": 56,
+    "maxHP": 1470,
+    "maxATK": 795,
+    "maxRCV": 140,
+    "ability": 1
+  },
+  "cooldown": [
+    37,
+    30
+  ],
+  "evolution": {
+    "evolution": 2729,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      101
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2728.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2728.png"
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Basil Hawkins",
+      "thumb": 2729,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
+}

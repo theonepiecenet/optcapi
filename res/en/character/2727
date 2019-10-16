@@ -1,0 +1,53 @@
+{
+  "name": "Foxfire Kinemon, A Samurai Returning From 20 Years Past",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2.5x and their HP by 1.2x. If you use \"Flaming Flash\" on this Kinemon boosts ATK of Powerhouse characters by 3.5x instead for 3 turns.",
+    "special": "Deals 30x character's ATK in [STR] damage to one enemy, reduces enemies' Percent Damage Reduction and Threshold Damage Reduction duration by 3 turns. If you are on a Treasure Map, boosts ATK of Powerhouse characters depending on your Treasure Map Level for 1 turn",
+    "specialNotes": "Level 1-10: 1.75x atk boost<br>Level 11-20: 2x atk boost<br>Level 21+: 2.25x atk boost",
+    "specialName": "Flaming Flash"
+  },
+  "aliases": [
+    "",
+    "",
+    "Secret Kinemon",
+    "Limited Kinemon",
+    "Secret Kin'emon",
+    "Limited Kin'emon"
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Slasher",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 1197,
+    "minATK": 549,
+    "minRCV": 98,
+    "maxHP": 2992,
+    "maxATK": 1372,
+    "maxRCV": 244,
+    "ability": 1
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2727.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2727.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

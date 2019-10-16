@@ -6,7 +6,7 @@
     "specialName": "Observing within the Snow Storm [Neo]"
   },
   "aliases": [
-    "",
+    "モネ「改」 “ユキユキの実”の雪女",
     "",
     "Neo Monet"
   ],
@@ -39,6 +39,15 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2712.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2712.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Clash!! Zoro - Preparation Adventure Fortnight",
+      "thumb": 2712,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
   "manual": []
 }

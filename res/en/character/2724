@@ -1,0 +1,53 @@
+{
+  "name": "Nekomamushi, A Requested Message",
+  "detail": {
+    "captain": "Boosts ATK of [STR] characters by 2x.",
+    "special": "Reduces Chain Multiplier Limit and Chain Coefficient Reduction duration by 2 turns and adds 0.5x to Chain multiplier for 1 turn.",
+    "specialName": "Visit Solicitation"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "STR",
+    "class": [
+      "Powerhouse",
+      "Striker"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": 5,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "minHP": 434,
+    "minATK": 258,
+    "minRCV": 32,
+    "maxHP": 1512,
+    "maxATK": 1125,
+    "maxRCV": 117,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    11
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2724.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2724.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Thinking about Pops Fortnight",
+      "thumb": 2723,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

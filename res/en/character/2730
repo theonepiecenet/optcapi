@@ -1,0 +1,55 @@
+{
+  "name": "Caesar Clown, False God of Salvation",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 2.75x.",
+    "special": "Removes Poison duration completely, reduces Bind and Chain Multiplier Limit duration by 7 turns and adds 0.5x to Chain multiplier for 1 turn. If during that turn you score 3 PERFECT hits, adds 1.1x to Chain multiplier for 1 turn.",
+    "specialName": "Public Experiment: Blue Sword",
+    "sailor": "Boosts base ATK, HP and RCV of Cerebral characters by 75"
+  },
+  "aliases": [
+    "",
+    "",
+    "Limited Caesar Clown",
+    "Secret Caesar Clown"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Cerebral",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 20,
+    "combo": 5,
+    "slots": 4,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 299,
+    "minATK": 211,
+    "minRCV": 40,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    19,
+    null
+  ],
+  "evolution": {
+    "evolution": 2731,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2730.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2730.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

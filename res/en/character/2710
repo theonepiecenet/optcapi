@@ -6,7 +6,7 @@
     "specialName": "Jao Kun Do Consecutive Thrusting Kick [Neo]"
   },
   "aliases": [
-    "",
+    "足長族　ブルーギリー「改」",
     "",
     "Neo Blue Gilly"
   ],
@@ -49,6 +49,15 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2710.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2710.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Clash!! Bartolomeo - Preparation Adventure Fortnight",
+      "thumb": 2711,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
   "manual": []
 }

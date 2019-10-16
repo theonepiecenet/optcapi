@@ -1,0 +1,63 @@
+{
+  "name": "Marco, Former Whitebeard Pirates 1st Div. Commander : Ship Doctor",
+  "detail": {
+    "captain": "Boosts ATK of Powerhouse characters by 2x and recovers 1x character's RCV at the end of each turn.",
+    "special": "Reduces Paralysis duration by 3 turns, changes [RCV], [TND], [EMPTY], [BLOCK] and [BOMB] orbs on Powerhouse characters into Matching orbs and recovers 8x character's RCV in HP at the end of each turn for 3 turns.",
+    "specialName": "Blue Flames of Healing"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Powerhouse",
+      "Fighter"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": 4,
+    "slots": 3,
+    "level": 50,
+    "exp": 130703,
+    "minHP": 472,
+    "minATK": 242,
+    "minRCV": 71,
+    "maxHP": 1068,
+    "maxATK": 577,
+    "maxRCV": 166,
+    "ability": 1
+  },
+  "cooldown": [
+    21,
+    13
+  ],
+  "evolution": {
+    "evolution": 2723,
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2722.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2722.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Thinking about Pops Fortnight",
+      "thumb": 2723,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

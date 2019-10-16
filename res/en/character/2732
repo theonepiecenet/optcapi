@@ -1,0 +1,49 @@
+{
+  "name": "Magellan",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by 2x.",
+    "special": "Poisons all enemies and boosts ATK against Poisoned enemies by 1.3x for 99+ turns. Applies a continuous effect that poisons all enemies at the start of every stage for 99+ turns.",
+    "specialName": "Poison Punishment: Hydra",
+    "sailor": "Completely resists Paralysis on this character"
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 1,
+    "level": 70,
+    "exp": null,
+    "minHP": 286,
+    "minATK": 202,
+    "minRCV": 54,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": [
+    21,
+    21
+  ],
+  "evolution": {
+    "evolution": 2733,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2732.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2732.png"
+  },
+  "drop": [],
+  "manual": []
+}

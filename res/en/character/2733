@@ -1,0 +1,92 @@
+{
+  "name": "Magellan, Poison Chief Dropping into Hell",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by 2.25x and recovers 3x character's RCV in HP at the end of each turn.",
+    "special": "Poisons all enemies and boosts ATK against Poisoned enemies by 1.3x for 99+ turns. Applies a continuous effect that poisons all enemies at the start of every stage for 99+ turns.",
+    "specialName": "Poison Punishment: Hydra",
+    "sailor": "Completely resists Paralysis on this character",
+    "potential": [
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Level 1: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 2: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 3: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 4: Reduce own Special Cooldown by ? turn at the start of the fight",
+          "Level 5: Reduce own Special Cooldown by ? turn at the start of the fight"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers if HP is above ?% at the start of the turn"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "[INT] Characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 4,
+    "slots": 2,
+    "level": 99,
+    "exp": null,
+    "minHP": 745,
+    "minATK": 401,
+    "minRCV": 132,
+    "maxHP": 2610,
+    "maxATK": 1230,
+    "maxRCV": 305,
+    "ability": null
+  },
+  "cooldown": [
+    21,
+    21
+  ],
+  "evolve": {
+    "evolution": 2733,
+    "evolvers": [],
+    "from": 2732
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2733.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2733.png"
+  },
+  "drop": [
+    {
+      "type": "Kizuna Clash",
+      "name": "Zoro & Sanji",
+      "thumb": 2531,
+      "data": [
+        "Round 6"
+      ]
+    }
+  ],
+  "manual": []
+}

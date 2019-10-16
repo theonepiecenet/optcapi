@@ -1,0 +1,50 @@
+{
+  "name": "Raizo of the Mist, A Ninja Returning From 20 Years Past",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 1.5x.",
+    "special": "If your Captain is a Powerhouse or Shooter character character, changes all orbs on Shooter and Powerhouse characters into Matching orbs and locks all orbs for 1 turn.",
+    "specialName": "Smoke Escape Technique"
+  },
+  "aliases": [
+    "",
+    "",
+    "Secret Raizo",
+    "Limited Raizo"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Shooter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 1164,
+    "minATK": 511,
+    "minRCV": 116,
+    "maxHP": 2910,
+    "maxATK": 1278,
+    "maxRCV": 289,
+    "ability": 1
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2726.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2726.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

@@ -1,0 +1,241 @@
+{
+  "name": "Basil Hawkins the Magician, Beast Pirates' Headliner",
+  "detail": {
+    "captain": {
+      "base": "Boosts ATK of Striker and Cerebral characters by 1.75x",
+      "level1": "Not Translated",
+      "level2": "Not Translated",
+      "level3": "Not Translated",
+      "level4": "Not Translated",
+      "level5": "Not Translated",
+      "level6": "Boosts ATK of Striker and Cerebral characters by 3.25x and makes [QCK] orbs beneficial for Cerebral and Striker characters"
+    },
+    "special": [
+      {
+        "description": "Changes adjacent orbs into Matching Orbs and delays all enemies for 1 turn.",
+        "cooldown": [
+          29,
+          22
+        ]
+      },
+      {
+        "description": "Changes all orbs into Matching Orbs. If the HP of the enemy with the highest Maximum HP is below 70% at the time the special is activated,  ignores Delay Debuff Protection and delays all enemies for 1 turn, delays all enemies for 1 turn otherwise.",
+        "cooldown": [
+          37,
+          30
+        ]
+      }
+    ],
+    "specialName": "Strawman Cards Pursuit",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of Striker characters by 50",
+      "level2": "Makes [DEX] orbs beneficial for this character"
+    },
+    "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 5"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Enrage"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Striker characters by 50"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base RCV by 35"
+      },
+      {
+        "description": "Boosts base RCV by 35"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [DEX] orbs beneficial for this character"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 5 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire new Captain Ability: "
+      },
+      {
+        "description": "Acquire Potential 2: Reduce No Healing duration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 80",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      },
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 5 turn",
+          "Level 5: Reduces No Healing duration by 7 turn"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Kaido",
+        "description": [
+          "Level 1: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 9% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 11% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "",
+    "",
+    "Treasure Map Hawkins",
+    "Treasure Map Basil Hawkins"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 60,
+    "combo": 4,
+    "slots": 1,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 1268,
+    "minATK": 524,
+    "minRCV": 94,
+    "maxHP": 3170,
+    "maxATK": 1310,
+    "maxRCV": 235,
+    "ability": 1
+  },
+  "cooldown": [
+    37,
+    30
+  ],
+  "evolve": {
+    "evolution": 2729,
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      101
+    ],
+    "from": 2728
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2729.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2729.png"
+  },
+  "drop": [],
+  "manual": []
+}

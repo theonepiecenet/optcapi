@@ -7,7 +7,7 @@
     "sailor": "Boosts base ATK and HP of Striker and Powerhouse characters by 50"
   },
   "aliases": [
-    "",
+    "ホーディ・ジョーンズ 恨みを引き継いだバケモノ",
     "",
     "Coliseum Hody Jones"
   ],
@@ -50,6 +50,15 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2720.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2720.png"
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Coliseum",
+      "name": "Hody Jones",
+      "thumb": 2721,
+      "data": [
+        "Chaos"
+      ]
+    }
+  ],
   "manual": []
 }

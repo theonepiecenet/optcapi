@@ -1,0 +1,51 @@
+{
+  "name": "Evening Shower Kanjuro, A Samurai Returning From 20 Years Past",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by 1.5x.",
+    "special": "Reduces Paralysis and ATK DOWN duration by 3 turns. If you are on a Treasure Map, boosts the Color Affinity of Powerhouse characters depending on your Treasure Map Level for 1 turn",
+    "specialName": "Escaping Sparrow",
+    "specialNotes": "Level 1-10: 1.75x affinity boost<br>Level 11-20: 2x affinity boost<br>Level 21+: 2.25x affinity boost"
+  },
+  "aliases": [
+    "",
+    "",
+    "Secret Kanjuro",
+    "Limited Kanjuro"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Striker",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 1190,
+    "minATK": 524,
+    "minRCV": 107,
+    "maxHP": 2974,
+    "maxATK": 1309,
+    "maxRCV": 268,
+    "ability": 1
+  },
+  "cooldown": [
+    12,
+    12
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2725.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2725.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
+}
