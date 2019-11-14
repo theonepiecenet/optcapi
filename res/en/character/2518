@@ -8,11 +8,11 @@
       {
         "Characters": "Luffy",
         "description": [
-          "Level 1: Once per an adventure, when the supported character uses their special, Reduces damage received by 10% for 1 turn.",
-          "Level 2: Once per an adventure, when the supported character uses their special, Reduces damage received by 20% for 1 turn.",
-          "Level 3: Once per an adventure, when the supported character uses their special, Reduces damage received by 30% for 1 turn.",
-          "Level 4: Once per an adventure, when the supported character uses their special, Reduces damage received by 40% for 1 turn.",
-          "Level 5: Once per an adventure, when the supported character uses their special, Reduces damage received by 50% for 1 turn."
+          "Level 1: Once per an adventure, when the supported character uses their special, reduces damage received by 10% for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses their special, reduces damage received by 20% for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses their special, reduces damage received by 30% for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses their special, reduces damage received by 40% for 1 turn.",
+          "Level 5: Once per an adventure, when the supported character uses their special, reduces damage received by 50% for 1 turn."
         ]
       }
     ]
@@ -51,21 +51,16 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2518.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2518.png"
   },
+  "flags": {
+    "global": 1
+  },
   "drop": [
     {
-      "type": "Bond Battle",
+      "type": "Kizuna Clash",
       "name": "Zoro & Sanji",
       "thumb": 2531,
       "data": [
         "Round 1"
-      ]
-    },
-    {
-      "type": "Special",
-      "name": "Beginner Adventure: Whole Cake Island Special Edition",
-      "thumb": 2532,
-      "data": [
-        "All Difficulties"
       ]
     }
   ],

@@ -7,7 +7,7 @@
     "specialName": "Summer Mischievous Smile:  \"Sweet Little Black Bears\""
   },
   "aliases": [
-    "",
+    "シュガー フラミンゴプールの最重要人物",
     "",
     "Summer Sugar",
     "Swimsuit Sugar"
@@ -30,7 +30,7 @@
     "maxHP": 1882,
     "maxATK": 1276,
     "maxRCV": 412,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     13,
@@ -38,7 +38,13 @@
   ],
   "evolve": {
     "evolution": 2624,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      86,
+      91,
+      97,
+      102
+    ],
     "from": 2623
   },
   "image": {

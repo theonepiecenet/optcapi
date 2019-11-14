@@ -8,11 +8,11 @@
       {
         "Characters": "Cerebral characters",
         "description": [
-          "Level 1: Once per an adventure, when the supported character uses their special, locks the supported character's orbs for 1 turn.",
-          "Level 2: Once per an adventure, when the supported character uses their special, locks the supported character's orbs for 1 turn.",
-          "Level 3: Once per an adventure, when the supported character uses their special, locks the supported character's orbs for 1 turn.",
-          "Level 4: Once per an adventure, when the supported character uses their special, locks the supported character's orbs for 1 turn.",
-          "Level 5: Once per an adventure, when the supported character uses their special, locks Cerebral character's orbs for 1 turn."
+          "Level 1: Once per an adventure, when the supported character uses their special, locks the supported character's orb for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses their special, locks the supported character's orb for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses their special, locks the supported character's orb for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses their special, locks the supported character's orb for 1 turn.",
+          "Level 5: Once per an adventure, when the supported character uses their special, locks orbs for  Cerebral characters for 1 turn."
         ]
       }
     ]
@@ -42,7 +42,10 @@
     "maxRCV": 231,
     "ability": 1
   },
-  "cooldown": null,
+  "cooldown": [
+    9,
+    9
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2615.png",
@@ -50,7 +53,7 @@
   },
   "drop": [
     {
-      "type": "Bond Battle",
+      "type": "Kizuna Clash",
       "name": "Zoro & Sanji",
       "thumb": 2531,
       "data": [

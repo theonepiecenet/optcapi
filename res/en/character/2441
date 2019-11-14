@@ -2,6 +2,7 @@
   "name": "Sabo, Straw Hat Luffy's Ally",
   "detail": {
     "captain": "Boosts chances of getting Matching orbs for Fighter, Shooter and Free Spirit characters. Boosts ATK of Fighter, Shooter and Free Spirit characters by 3x and their HP by 1.25x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 5 times to a maximum of 4.25x.",
+    "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
     "special": "Locks the chain multiplier at 3x for 1 turn and amplifies the effects of orbs for Fighter, Shooter and Free Spirit characters by 2.25x for 1 turn",
     "specialName": "Recieving the Will of \"Fire Fist\"",
     "sailor": {
@@ -211,7 +212,7 @@
     },
     {
       "type": "Special",
-      "name": "Special Festival! 5th Anniversary",
+      "name": "Manual Festival!",
       "thumb": 2534,
       "data": [
         "Sabo"

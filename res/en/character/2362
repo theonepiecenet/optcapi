@@ -3,11 +3,11 @@
   "detail": {
     "captain": {
       "base": "Boosts ATK of Striker and Cerebral characters by 1.75x if HP is above 50%, by 1.5x otherwise",
-      "level1": "Not Translated",
-      "level2": "Not Translated",
-      "level3": "Not Translated",
-      "level4": "Not Translated",
-      "level5": "Not Translated",
+      "level1": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by 1.75x if HP is above 50%, by 1.5x otherwise",
+      "level2": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by 2x if HP is above 50%, by 1.5x otherwise",
+      "level3": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by 2x if HP is above 50%, by 1.75x otherwise",
+      "level4": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by 2.5x if HP is above 50%, by 1.75x otherwise",
+      "level5": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by 2.75x if HP is above 50%, by 2x otherwise",
       "level6": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Striker and Cerebral characters by 3x if HP is above 50%, by 2x otherwise"
     },
     "special": "Reduces Paralysis, ATK DOWN, Chain Multiplier Limit, Chain Coefficient Reduction, Burn and Blindness duration by 3 turns. Changes [BLOCK] and Badly Matching orbs into Matching orbs",
@@ -206,6 +206,9 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2362.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2362.png"
+  },
+  "flags": {
+    "global": 1
   },
   "drop": [],
   "manual": []

@@ -2,7 +2,7 @@
   "name": "Fujitora, The Dogeza that Shook the World",
   "detail": {
     "captain": "Boosts ATK of Slasher characters by 3.25x at the start of the chain and their HP by 1.2x and boosts ATK of Slasher characters by 4.225x following a chain of Good > Great > PERFECT hits",
-    "special": "Deals 10 hits of 30x character's ATK in Typeless damage to random enemies and delays all enemies for 1 turn. If this character is your Captain or Friend/Guest Captain, changes all orbs on all characters into Matching orbs and locks the chain multiplier at 2.75x for 2 turns.",
+    "special": "Deals 10 hits of 30x character's ATK as Typeless damage to random enemies and delays all enemies for 1 turn. If this character is your Captain or Friend/Guest Captain, changes all orbs on all characters into Matching orbs and locks the chain multiplier at 2.75x for 2 turns.",
     "specialName": "Rain of Debris with No Escape",
     "sailor": {
       "base": "None",
@@ -198,13 +198,38 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
   "manual": [
     {
+      "type": "Fortnight",
+      "name": "Red Hair Pirates at the Harbor! Fortnight",
+      "thumb": 2044,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Miracle Cherry Blossoms Fortnight",
+      "thumb": 2491,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
       "type": "Special",
-      "name": "Special Festival! 5th Anniversary",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Fujitora"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Manual Festival!",
       "thumb": 2534,
       "data": [
         "Fujitora"

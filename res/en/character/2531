@@ -11,7 +11,7 @@
       "level1": "Boosts base ATK of Slasher and Fighter characters by 100",
       "level2": "Makes [RCV] and [TND] orbs beneficial for Slasher and Fighter characters"
     },
-    "special": "Deals 100x character's ATK in Typeless damage to all enemies, and becomes Zoro & Sanji for 3 turns. If HP is above 99% at the time the special is activated, boosts ATK of Slasher and Fighter characters by 2.75x for 1 turn, by 2x for 2 turns otherwise.",
+    "special": "Deals 100x character's ATK as Typeless damage to all enemies, and becomes Zoro & Sanji for 3 turns. If HP is above 99% at the time the special is activated, boosts ATK of Slasher and Fighter characters by 2.75x for 1 turn, by 2x for 2 turns otherwise.",
     "swap": "When Change is activated, this character removes all Slot Bind duration on themselves and changes their own orb into a Matching orb",
     "specialName": "Three Sword and Twin Black Leg Style - Pound Shoot",
     "limit": [
@@ -197,9 +197,12 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2531.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2531.png"
   },
+  "flags": {
+    "global": 1
+  },
   "drop": [
     {
-      "type": "Bond Battle",
+      "type": "Kizuna Clash",
       "name": "Zoro & Sanji",
       "thumb": 2531,
       "data": [

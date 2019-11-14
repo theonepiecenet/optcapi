@@ -2,7 +2,7 @@
   "name": "Shiki, The Legendary Pirate",
   "detail": {
     "captain": "Boosts ATK of [DEX], [QCK] and [INT] characters by 2.75x at the start of the chain, boosts ATK by 4x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good and boosts HP by 1.35x. Makes [TND] and [RCV] orbs beneficial for all characters",
-    "special": "Reduces crew's current HP by 99%, deals 30x the amount of HP subtracted in Typeless damage to all enemies and changes all orbs, including [BLOCK] orbs, into [RCV] orbs",
+    "special": "Reduces crew's current HP by 99%, deals 30x the amount of HP subtracted as Typeless damage to all enemies and changes all orbs, including [BLOCK] orbs, into [RCV] orbs",
     "specialName": "Lion's Threat: Earth Bind",
     "sailor": {
       "base": "None",
@@ -133,6 +133,18 @@
           "Level 5: If HP is below 30% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Dr. Indigo and Scarlet",
+        "description": [
+          "Level 1: Once per adventure, when the supported character uses their special, changes [QCK] character's [QCK] orbs into [RCV] orbs.",
+          "Level 2: Once per adventure, when the supported character uses their special, changes [QCK] character's [STR], [DEX], [QCK], [PSY] and [INT] orbs into [RCV] orbs.",
+          "Level 3: Once per adventure, when the supported character uses their special, changes [QCK] and [INT] character's [STR], [DEX], [QCK], [PSY] and [INT] orbs into [RCV] orbs.",
+          "Level 4: Once per adventure, when the supported character uses their special, changes [DEX], [QCK] and [INT] character's [STR], [DEX], [QCK], [PSY] and [INT] orbs into [RCV] orbs.",
+          "Level 5: Once per adventure, when the supported character uses their special, changes [QCK] character's all orbs into [RCV] orbs."
+        ]
+      }
     ]
   },
   "aliases": [
@@ -196,7 +208,7 @@
     },
     {
       "type": "Special",
-      "name": "Special Festival! 5th Anniversary",
+      "name": "Manual Festival!",
       "thumb": 2534,
       "data": [
         "Jinbe"

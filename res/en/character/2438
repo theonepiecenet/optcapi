@@ -48,7 +48,20 @@
           "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
-    ]
+    ],
+    "support": [
+      {
+        "Characters": "Doflamingo",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses a Damage Reducing special, increases damage received by 2x for 1 turn, reduces RCV by ?% for 1 turn and locks all orbs for 1 turn",
+          "Level 2: Once per an adventure, when the supported character uses a Damage Reducing special, increases damage received by 2x for 1 turn, reduces RCV by ?% for 1 turn and locks all orbs for 1 turn",
+          "Level 3: Once per an adventure, when the supported character uses a Damage Reducing special, increases damage received by 2x for 1 turn, reduces RCV by ?% for 1 turn and locks all orbs for 2 turn",
+          "Level 4: Once per an adventure, when the supported character uses a Damage Reducing special, increases damage received by 2x for 1 turn, reduces RCV by ?% for 1 turn and locks all orbs for 2 turn",
+          "Level 5: Once per an adventure, when the supported character uses a Damage Reducing special, increases damage received by 2x for 1 turn, reduces RCV by ?% for 1 turn, locks all orbs for 2 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for 2 turns"
+        ]
+      }
+    ],
+    "supportNotes": "This Support Ability is Global/Korea exclusive"
   },
   "aliases": [
     "トラファルガー・ロー １３年の因縁",
@@ -89,7 +102,8 @@
     "rr": 1,
     "rro": 1,
     "lrr": 1,
-    "tmlrr": 1
+    "tmlrr": 1,
+    "global": 1
   },
   "drop": [],
   "manual": []

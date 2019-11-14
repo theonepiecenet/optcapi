@@ -3,7 +3,7 @@
   "detail": {
     "captain": "If there are 6 characters in your crew with Fighter, Slasher, Shooter or Striker classes, boosts ATK of all characters by 3.25x and their HP by 1.3x and makes [RCV] and [TND] orbs beneficial for all characters. <br> <b>Action:</b> Franky brings the entire crew into General Franky for 1 turn and becomes immune to Blow Away inflicted to the crew. During this turn, boosts ATK of all characters by 4.25x instead and reduces damage taken by 38%",
     "captainNotes": "All characters on your crew must have one of the 4 classes listed, but you do not need one of each. Franky Captain Action lasts one turn and can be reactivated after a 4 turn cooldown. Only 1 Franky Captain Action can be activated at once. <br> During transformation:<br>If you attack with a Fighter character, deal 1.25x damage to targeted enemy<br>If you attack with a Slasher character, deal full damage to targeted enemy, but deal 0.1x damage to all enemies in the same row as the targeted enemy<br>If you attack with a Striker character, deal 0.5x damage to all enemies on the stage<br>If you attack with a Shooter character, deal 0.75x damage to targeted enemy but deal 0.3x damage to all other enemies on the stage",
-    "special": "Cuts the current HP of all enemies by 10% and randomizes all non-Matching orbs, including [BLOCK] orbs. If there are 3 enemies or more on the stage when the special is activated, boosts ATK of Fighter, Slasher, Shooter and Striker characters by 2.25x for 1 turn by 2x otherwise",
+    "special": "Cuts the current HP of all enemies by 10% and randomizes all non-Matching orbs, including [BLOCK] orbs. If there are 3 enemies or more on the stage when the special is activated, boosts ATK of Fighter, Slasher, Shooter and Striker characters by 2.25x for 1 turn, boosts ATK of Fighter, Slasher, Shooter and Striker characters by 2x otherwise",
     "specialName": "Franky Radical Beam",
     "sailor": {
       "base": "None",
@@ -202,7 +202,7 @@
     },
     {
       "type": "Special",
-      "name": "Special Festival! 5th Anniversary",
+      "name": "Manual Festival!",
       "thumb": 2534,
       "data": [
         "Sabo"

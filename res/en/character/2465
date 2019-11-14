@@ -52,7 +52,7 @@
         "description": "Boosts base RCV by 10"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+        "description": "Acquire Potential 2: Reduce No Healing duration"
       },
       {
         "description": "Boosts base HP by 70"
@@ -191,7 +191,8 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
   "manual": [

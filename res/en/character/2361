@@ -49,13 +49,16 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2361.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2361.png"
   },
+  "flags": {
+    "global": 1
+  },
   "drop": [
     {
       "type": "Treasure Map",
-      "name": "Cat Burglar Nami",
+      "name": "Nami",
       "thumb": 2362,
       "data": [
-        "Winter Sea"
+        "Raging Sea"
       ]
     }
   ],

@@ -9,7 +9,7 @@
       "level2": "Makes [INT], [RCV] and [TND] orbs beneficial for this character"
     },
     "sailorNotes": "#{beneficial}",
-    "special": "Makes Damage and Health Cutting Specials of all characters bypass all defensive Buffs, deals 100x character's ATK in [PSY] damage to one enemy and reduces Special Cooldown of all characters by 1 turn",
+    "special": "Makes Damage and Health Cutting Specials of all characters bypass all defensive Buffs, Barriers and Defense, deals 100x character's ATK in [PSY] damage to one enemy and reduces Special Cooldown of all characters by 1 turn",
     "limit": [
       {
         "description": "Boosts base RCV by 5"
@@ -224,7 +224,7 @@
     },
     {
       "type": "Special",
-      "name": "Special Festival! 5th Anniversary",
+      "name": "Manual Festival!",
       "thumb": 2534,
       "data": [
         "Trafalgar Law"

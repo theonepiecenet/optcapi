@@ -40,6 +40,9 @@
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2598.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2598.png"
   },
+  "flags": {
+    "global": 1
+  },
   "drop": [
     {
       "type": "Story Island",
@@ -50,5 +53,14 @@
       ]
     }
   ],
-  "manual": []
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Revenge of the Assassins! Galette Fortnight",
+      "thumb": 2723,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Douglas Bullet, Demon's Heir",
   "detail": {
-    "captain": "Boosts ATK of [STR], [QCK] and [INT] characters by 4x, their HP by 1.2x, boosts own ATK by 4.5x and makes [STR], [QCK] and [INT] orbs beneficial for [STR] and [INT] characters. This character's own normal attacks count as Type Effective against all Types.",
+    "captain": "Boosts ATK of [STR], [QCK] and [INT] characters by 4x, their HP by 1.2x, boosts own ATK by 4.5x and makes [STR], [QCK] and [INT] orbs beneficial for [STR], [QCK] and [INT] characters. This character's own normal attacks count as Type Effective against all Types.",
     "captainNotes": "Bullet will make only his own attacks type effective against all types",
     "special": "Cuts the current HP of one enemy by 20% that will ignore damage negating abilities and barriers and deals 2x the damage dealt by this character with normal attacks to all enemies at the end of each turn for 2 turns.",
     "specialName": "Armor Assimilation: Union Armado",
@@ -176,6 +176,10 @@
     22,
     17
   ],
+  "evolution": {
+    "evolution": 2681,
+    "evolvers": []
+  },
   "evolve": {
     "evolution": 2651,
     "evolvers": [

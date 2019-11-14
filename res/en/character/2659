@@ -3,15 +3,15 @@
   "detail": {
     "captain": {
       "base": "Boosts ATK of Fighter and Driven characters by 2x.",
-      "level1": "Not Translated.",
-      "level2": "Not Translated.",
-      "level3": "Not Translated.",
-      "level4": "Not Translated.",
-      "level5": "Not Translated.",
+      "level1": "Boosts ATK of Fighter and Driven characters by 2x and reduces damage received up to 10% depending on the crew's current HP.",
+      "level2": "Boosts ATK of Fighter and Driven characters by 2.5x and reduces damage received up to 15% depending on the crew's current HP.",
+      "level3": "Boosts ATK of Fighter and Driven characters by 2.75x and reduces damage received up to 15% depending on the crew's current HP.",
+      "level4": "Boosts ATK of Fighter and Driven characters by 3x and reduces damage received up to 20% depending on the crew's current HP.",
+      "level5": "Boosts ATK of Fighter and Driven characters by 3x and reduces damage received up to 25% depending on the crew's current HP.",
       "level6": "Boosts ATK of Fighter and Driven characters by 3.25x and reduces damage received up to 40% depending on the crew's current HP."
     },
     "captainNotes": "Damage reduction is higher the lower the crew's HP is.",
-    "special": "Deals 100x character's ATK in Typeless damage to one enemy and amplifies the effect of orbs for Fighter and Driven characters by 2x for 1 turn. If your Captain is a Fighter or Driven character, adds 0.7x to Chain multiplier for 1 turn.",
+    "special": "Deals 100x character's ATK as Typeless damage to one enemy and amplifies the effect of orbs for Fighter and Driven characters by 2x for 1 turn. If your Captain is a Fighter or Driven character, adds 0.7x to Chain multiplier for 1 turn.",
     "specialName": "Armament Haki - White Blow",
     "sailor": {
       "base": "None",
@@ -19,6 +19,128 @@
       "level2": "Makes [DEX] orbs beneficial for Fighter characters"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 5"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Acquire Potential 1: [STR] Damage Reduction"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter and Driven characters by 2x and reduces damage received up to 10% depending on the crew's current HP."
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Fighter and Driven characters by 30"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter and Driven characters by 2.5x and reduces damage received up to 15% depending on the crew's current HP."
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 30"
+      },
+      {
+        "description": "Boosts base RCV by 35"
+      },
+      {
+        "description": "Boosts base RCV by 35"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter and Driven characters by 2.75x and reduces damage received up to 15% depending on the crew's current HP."
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter and Driven characters by 3x and reduces damage received up to 20% depending on the crew's current HP."
+      },
+      {
+        "description": "Boosts base HP by 60"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [DEX] orbs beneficial for Fighter characters"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 5 turns"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter and Driven characters by 3x and reduces damage received up to 25% depending on the crew's current HP."
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Fighter and Driven characters by 3.25x and reduces damage received up to 40% depending on the crew's current HP."
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      }
+    ],
     "potential": [
       {
         "Name": "[STR] Damage Reduction",
@@ -55,7 +177,7 @@
     ]
   },
   "aliases": [
-    "",
+    "スモーカー 寄せ集めの共同戦線",
     "",
     "Treasure Map Smoker",
     "TM Smoker",
@@ -79,15 +201,21 @@
     "maxHP": 2601,
     "maxATK": 1361,
     "maxRCV": 203,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     36,
-    null
+    29
   ],
   "evolve": {
     "evolution": 2659,
-    "evolvers": [],
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      101
+    ],
     "from": 2658
   },
   "image": {

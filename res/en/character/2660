@@ -2,12 +2,12 @@
   "name": "Sanji, The Chef Protecting the Pirate Expo",
   "detail": {
     "captain": "Boosts ATK of Fighter characters by 2.5x and their HP by 1.2x.",
-    "special": "Deals 90x character's ATK in Typeless damage to one enemy. If your Captain is a [STR], [QCK] or [INT] character, boosts ATK of [STR], [QCK] and [INT] characters by 1.75x for 2 turns and amplifies the effect of orbs by 1.75x for [STR], [QCK] and [INT] characters for 2 turns.",
+    "special": "Deals 90x character's ATK as Typeless damage to one enemy. If your Captain is a [STR], [QCK] or [INT] character, boosts ATK of [STR], [QCK] and [INT] characters by 1.75x for 2 turns and amplifies the effect of orbs by 1.75x for [STR], [QCK] and [INT] characters for 2 turns.",
     "specialName": "Diable Jambe Pirate Expo Concasse",
     "sailor": "Boosts base ATK of Fighter characters by 40"
   },
   "aliases": [
-    "",
+    "サンジ 『海賊万博』で守る料理人",
     "",
     "Stampede Sanji"
   ],
@@ -26,10 +26,10 @@
     "minHP": 422,
     "minATK": 281,
     "minRCV": 101,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "maxHP": 1781,
+    "maxATK": 821,
+    "maxRCV": 168,
+    "ability": 1
   },
   "cooldown": [
     17,
@@ -37,7 +37,13 @@
   ],
   "evolution": {
     "evolution": 2661,
-    "evolvers": []
+    "evolvers": [
+      94,
+      2662,
+      304,
+      304,
+      104
+    ]
   },
   "evolve": [],
   "image": {

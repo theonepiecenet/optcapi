@@ -77,6 +77,18 @@
           "Level 5: Once per an adventure, sets your Special Gauge to MAX after the first time this special is used"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Zephyr and Binz",
+        "description": [
+          "Level 1: Once per adventure, when the enemy gains an Increased Defense buff, reduces enemies' Increased Defense duration by 1 turn.",
+          "Level 2: Once per adventure, when the enemy gains an Increased Defense or Percent Damage Reduction buff, reduces enemies' Percent Damage Reduction and Increased Defense duration by 1 turns.",
+          "Level 3: Once per adventure, when the enemy gains an Increased Defense or Percent Damage Reduction buff, reduces enemies' Percent Damage Reduction and Increased Defense duration by 2 turns.",
+          "Level 4: Once per adventure, when the enemy gains an Increased Defense or Percent Damage Reduction buff, reduces enemies' Percent Damage Reduction and Increased Defense duration by 2 turns and recovers 5% of crew's MAX HP.",
+          "Level 5: Once per adventure, when the enemy gains an Increased Defense or Percent Damage Reduction buff, reduces enemies' Percent Damage Reduction and Increased Defense duration by 2 turns and recovers 10% of crew's MAX HP."
+        ]
+      }
     ]
   },
   "aliases": [
@@ -132,15 +144,23 @@
   "manual": [
     {
       "type": "Fortnight",
-      "name": "Miracle Cherry Blossoms Return Fortnight",
+      "name": "Miracle Cherry Blossoms Fortnight",
       "thumb": 2491,
       "data": [
         "All Difficulties"
       ]
     },
     {
+      "type": "Fortnight",
+      "name": "Revenge of the Assassins! Galette Fortnight",
+      "thumb": 2723,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
       "type": "Special",
-      "name": "Special Festival! 5th Anniversary",
+      "name": "Manual Festival!",
       "thumb": 2534,
       "data": [
         "Jinbe"

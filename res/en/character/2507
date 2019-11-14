@@ -2,7 +2,7 @@
   "name": "Kizaru, Unclear about the Corresponding Damage",
   "detail": {
     "captain": "Boosts ATK of Shooter characters by 1.75x",
-    "special": "Reduces Bind duration by 3 turns, reduces crew's ATK DOWN duration by 4 turns. If you are on a Treasure Map, amplifies the effects of orbs for [PSY] and [INT] characters depending on your Treasure Map Level for 1 turn.",
+    "special": "Reduces Bind duration by 3 turns, reduces crew's ATK DOWN duration by 4 turns. If you are on a Treasure Map, amplifies the effects of orbs for [PSY] and [INT] characters depending on your Treasure Map Level for 3 turns.",
     "specialName": "Radiant Light Arrow",
     "specialNotes": "Level 1-10: 1.5x orb boost<br>Level 11-20: 1.75x orb boost<br>Level 21+: 2x orb boost",
     "limit": [
@@ -48,6 +48,18 @@
           "Level 5: If HP is below 50% at the start of the turn, recovers 1.25x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Edward Weevil",
+        "description": [
+          "Level 1: Once per adventure, when you are inflicted with ATK DOWN, boosts base ATK of the supported character by 1.05x until the next stage.",
+          "Level 2: Once per adventure, when you are inflicted with ATK DOWN, boosts base ATK of the supported character by 1.05x until the next stage.",
+          "Level 3: Once per adventure, when you are inflicted with ATK DOWN, boosts base ATK of the supported character by 1.1x until the next stage.",
+          "Level 4: Once per adventure, when you are inflicted with ATK DOWN, boosts base ATK of the supported character by 1.1x until the next stage.",
+          "Level 5: Once per adventure, when you are inflicted with ATK DOWN, boosts base ATK of the supported character by 1.2x until the next stage."
+        ]
+      }
     ]
   },
   "aliases": [
@@ -91,7 +103,8 @@
     "rr": 1,
     "rro": 1,
     "lrr": 1,
-    "tmlrr": 1
+    "tmlrr": 1,
+    "global": 1
   },
   "drop": [],
   "manual": []

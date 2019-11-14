@@ -10,7 +10,9 @@
     "コニス 浜辺でくつろぐエンジェル",
     "",
     "Swimsuit Conis",
-    "Summer Conis"
+    "Summer Conis",
+    "Swimsuit Konis",
+    "Summer Konis"
   ],
   "unit": {
     "type": "DEX",
@@ -50,6 +52,9 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2216.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2216.png"
+  },
+  "flags": {
+    "global": 1
   },
   "drop": [
     {

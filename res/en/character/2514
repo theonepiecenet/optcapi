@@ -1,7 +1,7 @@
 {
   "name": "Urouge, The Monk who Challenged the Commander",
   "detail": {
-    "captain": "Boosts ATK of Fighter characters by ?x and reduces damage received by ?%",
+    "captain": "Boosts ATK of Fighter characters by 2.5x and reduces damage received by 3%",
     "special": "Deals 150x character's ATK in [PSY] damage to one enemy, reduces Paralysis and Burn duration by 3 turns and reduces damage received by 80% for 1 turn. If during that turn you score 4 PERFECT hits, amplifies the effect of orbs of Fighter characters by 2.25x for 1 turn in the following turn.",
     "specialName": "Karmic Punishment and Prayers",
     "sailor": "If your Captain is a Fighter character, reduces Blindness duration by 3 turns",
@@ -55,7 +55,8 @@
   "flags": {
     "rr": 1,
     "rro": 1,
-    "lrr": 1
+    "lrr": 1,
+    "global": 1
   },
   "drop": [],
   "manual": []

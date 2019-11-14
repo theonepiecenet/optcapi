@@ -137,8 +137,18 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Diva Ann's Special Live Show Fortnight",
+      "thumb": 2665,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

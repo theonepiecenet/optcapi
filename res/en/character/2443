@@ -3,11 +3,11 @@
   "detail": {
     "captain": {
       "base": "Boosts ATK of Driven characters by 1.5x. If you use \"Off White\" in this turn boosts ATK of Driven characters by 2x instead.",
-      "level1": "Not Translated",
-      "level2": "Not Translated",
-      "level3": "Not Translated",
-      "level4": "Not Translated",
-      "level5": "Not Translated",
+      "level1": "Boosts ATK of Driven characters by 1.5x. If you use \"Off White\" in this turn boosts ATK of Driven characters by 2.1x instead.",
+      "level2": "Boosts ATK of Driven characters by 1.75x. If you use \"Off White\" in this turn boosts ATK of Driven characters by 2.45x instead.",
+      "level3": "Boosts ATK of Driven characters by 2x and recovers 500 HP at end of each turn. If you use \"Off White\" in this turn boosts ATK of Driven characters by 2.8x instead.",
+      "level4": "Boosts ATK of Driven characters by 2.25x and recovers 500 HP at end of each turn. If you use \"Off White\" in this turn boosts ATK of Driven characters by 3.15x instead.",
+      "level5": "Boosts ATK of Driven characters by 2.5x and recovers 500 HP at end of each turn. If you use \"Off White\" in this turn boosts ATK of Driven characters by 3.25x instead.",
       "level6": "Boosts ATK of Driven characters by 2.75x and recovers 500 HP at end of each turn. If you use \"Off White\" in this turn boosts ATK of Driven characters by 3.5x instead."
     },
     "special": "Removes RCV DOWN duration completely and reduces damage received by 80% for 2 turns. If your Captain is a Driven character, changes all Driven character's orbs, including [BLOCK] orbs, into Matching orbs",
@@ -34,7 +34,7 @@
         "description": "Acquire Potential 1: Slot Bind Self-reduction"
       },
       {
-        "description": "Acquire new Captain Ability: "
+        "description": "Acquire new Captain Ability: Boosts ATK of Driven characters by 1.5x. If you use \"Off White\" in this turn boosts ATK of Driven characters by 2.1x instead."
       },
       {
         "description": "Acquire Sailor Ability 1: Reduces Silence duration on this character by 3 turns"
@@ -49,7 +49,7 @@
         "description": "Boosts base HP by 20"
       },
       {
-        "description": "Acquire new Captain Ability: "
+        "description": "Acquire new Captain Ability: Boosts ATK of Driven characters by 1.75x. If you use \"Off White\" in this turn boosts ATK of Driven characters by 2.45x instead."
       },
       {
         "description": "Acquire 1 additional Socket slot"
@@ -67,7 +67,7 @@
         "description": "Boosts base ATK by 20"
       },
       {
-        "description": "Acquire new Captain Ability: "
+        "description": "Acquire new Captain Ability: Boosts ATK of Driven characters by 2x and recovers 500 HP at end of each turn. If you use \"Off White\" in this turn boosts ATK of Driven characters by 2.8x instead."
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"
@@ -97,7 +97,7 @@
         "description": "Reduce base Special Cooldown by 4 turns"
       },
       {
-        "description": "Acquire new Captain Ability: "
+        "description": "Acquire new Captain Ability: Boosts ATK of Driven characters by 2.25x and recovers 500 HP at end of each turn. If you use \"Off White\" in this turn boosts ATK of Driven characters by 3.15x instead."
       },
       {
         "description": "Boosts base HP by 60"
@@ -124,7 +124,7 @@
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "Acquire new Captain Ability: "
+        "description": "Acquire new Captain Ability: Boosts ATK of Driven characters by 2.5x and recovers 500 HP at end of each turn. If you use \"Off White\" in this turn boosts ATK of Driven characters by 3.25x instead."
       },
       {
         "description": "Boosts base HP by 70"
@@ -218,6 +218,9 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2443.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2443.png"
+  },
+  "flags": {
+    "global": 1
   },
   "drop": [],
   "manual": []

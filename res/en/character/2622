@@ -7,7 +7,7 @@
     "specialName": "A Smile on Top of the Soap"
   },
   "aliases": [
-    "",
+    "カリファ ナイトプール・バカンス",
     "",
     "Summer Kalifa",
     "Swimsuit Kalifa"
@@ -30,7 +30,7 @@
     "maxHP": 2122,
     "maxATK": 1389,
     "maxRCV": 312,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     13,
@@ -38,7 +38,13 @@
   ],
   "evolve": {
     "evolution": 2622,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      87,
+      92,
+      98,
+      103
+    ],
     "from": 2621
   },
   "image": {

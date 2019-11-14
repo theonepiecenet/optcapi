@@ -8,7 +8,7 @@
     "specialNotes": "Poison deals ?x character's ATK in Fixed damage at the end of each turn.",
     "sailor": {
       "base": "Reduces Silence duration on this character by 3 turns",
-      "level1": "If there are 6 Powerhouse characters in your crew, makes [INT] orbs beneficial for Powerhouse characters"
+      "level1": "If there is a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, makes [INT] orbs beneficial for Powerhouse characters"
     },
     "limit": [
       {
@@ -51,7 +51,7 @@
         "description": "Boosts base HP by 50"
       },
       {
-        "description": "Acquire Sailor Ability 1: If there are 6 Powerhouse characters in your crew, makes [INT] orbs beneficial for Powerhouse characters"
+        "description": "Acquire Sailor Ability 1: If there is a [STR], [DEX], [QCK], [PSY] and [INT] character in your crew, makes [INT] orbs beneficial for Powerhouse characters"
       },
       {
         "description": "Acquire Potential 2: Slot Bind Self-reduction"
@@ -138,7 +138,8 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
   "manual": [

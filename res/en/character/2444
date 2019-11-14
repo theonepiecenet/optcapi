@@ -101,6 +101,36 @@
       },
       {
         "description": "Acquire Potential 3: Slot Bind Self-reduction"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 75"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 100"
       }
     ],
     "potential": [
@@ -131,7 +161,7 @@
           "Level 2: Reduces Slot Bind duration by 3 turns on this character",
           "Level 3: Reduces Slot Bind duration by 5 turns on this character",
           "Level 4: Reduces Slot Bind duration by 7 turns on this character",
-          "Level 5: Reduces Slot Bind completely on this character"
+          "Level 5: Reduces Slot Bind duration completely on this character"
         ]
       }
     ]
@@ -187,13 +217,54 @@
   },
   "flags": {
     "rr": 1,
-    "rro": 1
+    "rro": 1,
+    "global": 1
   },
   "drop": [],
   "manual": [
     {
+      "type": "Fortnight",
+      "name": "Archaeologist Nico Olvia Fortnight",
+      "thumb": 1049,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Full Defense! Buddha Sengoku! Fortnight",
+      "thumb": 1416,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
       "type": "Special",
-      "name": "Special Festival! 5th Anniversary",
+      "name": "Rescue Ace Event - Kizaru",
+      "thumb": 1228,
+      "data": [
+        "Japan"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 3rd Anniversary",
+      "thumb": 1588,
+      "data": [
+        "Donquixote Doflamingo"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Fujitora"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Manual Festival!",
       "thumb": 2534,
       "data": [
         "Fujitora"

@@ -2,7 +2,7 @@
   "name": "Binz, Faithfully Serving under Z-Sensei",
   "detail": {
     "captain": "Boosts ATK of Shooter characters by 2.5x and their HP by 1.25x",
-    "special": "Deals 40x character's ATK in Typeless damage to all enemies, delays all enemies for 1 turn and if the HP of the enemy with the highest Maximum HP is equal to or less than 80%, amplifies the effect of orbs for Shooter characters by 1.75x for 3 turns",
+    "special": "Deals 40x character's ATK as Typeless damage to all enemies, delays all enemies for 1 turn and if the HP of the enemy with the highest Maximum HP is equal to or less than 80%, amplifies the effect of orbs for Shooter characters by 1.75x for 3 turns",
     "specialName": "Continuous Shuriken Throwing",
     "sailor": {
       "base": "Boosts base HP of Shooter characters by 50",
@@ -77,6 +77,18 @@
           "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Zephyr and Ain",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
     ]
   },
   "aliases": [
@@ -132,7 +144,7 @@
   "manual": [
     {
       "type": "Fortnight",
-      "name": "Miracle Cherry Blossoms Return Fortnight",
+      "name": "Miracle Cherry Blossoms Fortnight",
       "thumb": 2491,
       "data": [
         "All Difficulties"
@@ -140,7 +152,7 @@
     },
     {
       "type": "Special",
-      "name": "Special Festival! 5th Anniversary",
+      "name": "Manual Festival!",
       "thumb": 2534,
       "data": [
         "Jinbe"

@@ -1,8 +1,8 @@
 {
-  "name": "Charlotte Pudding, Little Devil in a Swimsuit",
+  "name": "Charlotte Pudding, Devilish Swimsuit",
   "detail": {
     "captain": "Boosts ATK of Cerebral characters by 2.25x and their RCV by 1.2x",
-    "special": "Recovers 7,000 HP, Reduces crew's ATK DOWN and enemies' Resilience Buffs duration by 5 turns and changes adjacent orbs into Matching Orbs",
+    "special": "Recovers 7,000 HP, reduces crew's ATK DOWN and enemies' Resilience Buffs duration by 5 turns and changes adjacent orbs into Matching Orbs",
     "specialName": "Eyes Hiding Shyness",
     "sailor": "Reduces Paralysis duration by 1 turn"
   },
@@ -55,7 +55,8 @@
   "flags": {
     "rr": 1,
     "rro": 1,
-    "lrr": 1
+    "lrr": 1,
+    "global": 1
   },
   "drop": [],
   "manual": []

@@ -8,10 +8,10 @@
       {
         "Characters": "Luffy, Zoro, Sanji, Usopp, Chopper, Robin, Franky and Brook",
         "description": [
-          "Level 1: Adds ?% of this character's base RCV to the supported character's base RCV.",
-          "Level 2: Adds ?% of this character's base RCV to the supported character's base RCV.",
-          "Level 3: Adds ?% of this character's base RCV to the supported character's base RCV.",
-          "Level 4: Adds ?% of this character's base RCV to the supported character's base RCV.",
+          "Level 1: Adds 1% of this character's base RCV to the supported character's base RCV.",
+          "Level 2: Adds 1% of this character's base RCV to the supported character's base RCV.",
+          "Level 3: Adds 2% of this character's base RCV to the supported character's base RCV.",
+          "Level 4: Adds 2% of this character's base RCV to the supported character's base RCV.",
           "Level 5: Adds 3% of this character's base RCV to the supported character's base RCV."
         ]
       }
@@ -50,6 +50,9 @@
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2524.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2524.png"
+  },
+  "flags": {
+    "global": 1
   },
   "drop": [
     {

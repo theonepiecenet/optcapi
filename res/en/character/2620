@@ -7,7 +7,7 @@
     "specialName": "Beach Princess's Smile"
   },
   "aliases": [
-    "",
+    "ネフェルタリ・ビビ 木陰で一休み",
     "",
     "Summer Vivi",
     "Swimsuit Vivi"
@@ -30,7 +30,7 @@
     "maxHP": 1998,
     "maxATK": 1312,
     "maxRCV": 382,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     13,
@@ -38,7 +38,13 @@
   ],
   "evolve": {
     "evolution": 2620,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      88,
+      93,
+      99,
+      104
+    ],
     "from": 2619
   },
   "image": {

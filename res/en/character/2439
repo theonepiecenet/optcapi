@@ -82,8 +82,17 @@
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2439.png"
   },
   "flags": {
-    "special": 1
+    "global": 1
   },
-  "drop": [],
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Doflamingo",
+      "thumb": 2443,
+      "data": [
+        "Primordial Sea"
+      ]
+    }
+  ],
   "manual": []
 }

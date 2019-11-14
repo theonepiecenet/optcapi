@@ -7,7 +7,7 @@
     "specialName": "Breathtaking Smile"
   },
   "aliases": [
-    "",
+    "キャロット 海中のワンダーランド",
     "",
     "Summer Carrot",
     "Swimsuit Carrot"
@@ -30,7 +30,7 @@
     "maxHP": 2345,
     "maxATK": 1412,
     "maxRCV": 288,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     13,
@@ -38,7 +38,13 @@
   ],
   "evolve": {
     "evolution": 2626,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      84,
+      89,
+      95,
+      100
+    ],
     "from": 2625
   },
   "image": {

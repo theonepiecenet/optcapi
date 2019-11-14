@@ -47,7 +47,20 @@
           "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
-    ]
+    ],
+    "support": [
+      {
+        "Characters": "Doflamingo, Trafalgar Law",
+        "description": [
+          "Level 1: Once per adventure, when you reach the final stage, adds 10x supported character's ATK as Additional Damage to Slasher and Driven character's attacks for 1 turn",
+          "Level 2: Once per adventure, when you reach the final stage, adds 10x supported character's ATK as Additional Damage to Slasher and Driven character's attacks for 1 turn",
+          "Level 3: Once per adventure, when you reach the final stage, adds 15x supported character's ATK as Additional Damage to Slasher and Driven character's attacks for 1 turn",
+          "Level 4: Once per adventure, when you reach the final stage, adds 15x supported character's ATK as Additional Damage to Slasher and Driven character's attacks for 1 turn",
+          "Level 5: Once per adventure, when you reach the final stage, adds 25x supported character's ATK as Additional Damage to Slasher and Driven character's attacks for 1 turn"
+        ]
+      }
+    ],
+    "supportNotes": "This Support Ability is Global/Korea exclusive"
   },
   "aliases": [
     "コラソン ローを救う作戦",
@@ -88,7 +101,8 @@
     "rr": 1,
     "rro": 1,
     "lrr": 1,
-    "tmlrr": 1
+    "tmlrr": 1,
+    "global": 1
   },
   "drop": [],
   "manual": []

@@ -77,7 +77,20 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "[STR] characters",
+        "description": [
+          "Level 1: Once per adventure, when you reach the final stage, boosts the Color Affinity of [STR] characters by 1.1x for 1 turn.",
+          "Level 2: Once per adventure, when you reach the final stage, boosts the Color Affinity of [STR] characters by 1.1x for 1 turn.",
+          "Level 3: Once per adventure, when you reach the final stage, boosts the Color Affinity of [STR] characters by 1.2x for 1 turn.",
+          "Level 4: Once per adventure, when you reach the final stage, boosts the Color Affinity of [STR] characters by 1.2x for 1 turn.",
+          "Level 5: Once per adventure, when you reach the final stage, boosts the Color Affinity of [STR] characters by 1.3x for 1 turn."
+        ]
+      }
+    ],
+    "supportNotes": "This Support Ability is on Global and Korea servers only"
   },
   "aliases": [
     "ヴィンスモーク・ジャッジ ジェルマ６６　総帥",

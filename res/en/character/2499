@@ -75,12 +75,13 @@
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2499.png"
   },
   "flags": {
-    "special": 1
+    "special": 1,
+    "global": 1
   },
   "drop": [
     {
       "type": "Special",
-      "name": "Ordeal of the Blade",
+      "name": "Black Blade Training",
       "thumb": 2475,
       "data": [
         "Chopperman Missions"

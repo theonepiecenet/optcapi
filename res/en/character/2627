@@ -7,7 +7,7 @@
     "specialName": "Juicy Smile"
   },
   "aliases": [
-    "",
+    "シャーロット・スムージー 搾り出す将星",
     "",
     "Summer Smoothie",
     "Swimsuit Smoothie",
@@ -32,7 +32,7 @@
     "maxHP": 1300,
     "maxATK": 669,
     "maxRCV": 171,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     12,
@@ -40,7 +40,13 @@
   ],
   "evolution": {
     "evolution": 2628,
-    "evolvers": []
+    "evolvers": [
+      116,
+      117,
+      80,
+      86,
+      97
+    ]
   },
   "evolve": [],
   "image": {

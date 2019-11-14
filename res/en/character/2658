@@ -2,11 +2,11 @@
   "name": "Smoker, Fulfilling his On-Site Mission",
   "detail": {
     "captain": "Boosts ATK of Fighter and Driven characters by 1.5x.",
-    "special": "Deals 100x character's ATK in Typeless damage to one enemy and amplifies the effect of orbs for Fighter and Driven characters by 2x for 1 turn. If your Captain is a Fighter or Driven character, adds 0.7x to Chain multiplier for 1 turn.",
+    "special": "Deals 100x character's ATK as Typeless damage to one enemy and amplifies the effect of orbs for Fighter and Driven characters by 2x for 1 turn. If your Captain is a Fighter or Driven character, adds 0.7x to Chain multiplier for 1 turn.",
     "specialName": "Armament Haki - White Blow"
   },
   "aliases": [
-    "",
+    "スモーカー 果たすべき現場の任務",
     "",
     "Treasure Map Smoker",
     "TM Smoker",
@@ -27,18 +27,24 @@
     "minHP": 701,
     "minATK": 406,
     "minRCV": 80,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "maxHP": 1409,
+    "maxATK": 803,
+    "maxRCV": 169,
+    "ability": 1
   },
   "cooldown": [
     36,
-    null
+    29
   ],
   "evolution": {
     "evolution": 2659,
-    "evolvers": []
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      101
+    ]
   },
   "evolve": [],
   "image": {

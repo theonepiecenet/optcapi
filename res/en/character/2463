@@ -138,8 +138,18 @@
   "flags": {
     "rr": 1,
     "rro": 1,
-    "lrr": 1
+    "lrr": 1,
+    "global": 1
   },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Pirate Expo! Festival Fortnight",
+      "thumb": 2633,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ]
 }

@@ -150,7 +150,7 @@
     ]
   },
   "aliases": [
-    "",
+    "しらほし姫 再会の約束",
     "",
     "Mega Shirahoshi",
     "Super Shirahoshi",
@@ -171,7 +171,7 @@
     "maxHP": 2680,
     "maxATK": 1216,
     "maxRCV": 600,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     21,
@@ -179,13 +179,57 @@
   ],
   "evolve": {
     "evolution": 2631,
-    "evolvers": [],
+    "evolvers": [
+      "skullPSY",
+      118,
+      98,
+      303,
+      267
+    ],
     "from": 1473
   },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2631.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2631.png"
   },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "global": 1
+  },
   "drop": [],
-  "manual": []
+  "manual": [
+    {
+      "type": "Fortnight",
+      "name": "Seeking The Best Art! Giolla and Brook! Fortnight",
+      "thumb": 1649,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Fortnight",
+      "name": "Brûlée's Cauldron Party Fortnight",
+      "thumb": 2127,
+      "data": [
+        "All Difficulties"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Champion Challenge! 4th Anniversary",
+      "thumb": 2076,
+      "data": [
+        "Shirahoshi"
+      ]
+    },
+    {
+      "type": "Special",
+      "name": "Manual Festival!",
+      "thumb": 2534,
+      "data": [
+        "Shirahoshi"
+      ]
+    }
+  ]
 }

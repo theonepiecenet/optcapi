@@ -5,7 +5,7 @@
     "special": "Cuts the current HP of one enemy by 20%, changes orbs in the top row into Matching orbs, reduces enemies' Increased Defense and Percent Damage Reduction duration by 3 turns. If there are 6 Shooter characters in your crew when the special is activated, reduces damage received by 90% for 1 turn.",
     "specialName": "Phantom Gun Shot",
     "sailor": {
-      "base": "If your Captain is a Shooter character, completely removes Blindness duration completely",
+      "base": "If your Captain is a Shooter character, removes Blindness duration completely",
       "level1": "Makes [DEX] orbs beneficial for Shooter characters"
     },
     "sailorNotes": "#{beneficial}",
@@ -141,7 +141,7 @@
     },
     {
       "type": "Special",
-      "name": "Special Festival! 5th Anniversary",
+      "name": "Manual Festival!",
       "thumb": 2534,
       "data": [
         "Whitebeard & Marco"

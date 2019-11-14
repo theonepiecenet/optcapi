@@ -7,7 +7,7 @@
     "specialName": "Beach Princess's Smile"
   },
   "aliases": [
-    "",
+    "ネフェルタリ・ビビ ビーチボールとの戯れ",
     "",
     "Summer Vivi",
     "Swimsuit Vivi"
@@ -30,7 +30,7 @@
     "maxHP": 879,
     "maxATK": 577,
     "maxRCV": 168,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     13,
@@ -38,7 +38,13 @@
   ],
   "evolution": {
     "evolution": 2620,
-    "evolvers": []
+    "evolvers": [
+      118,
+      88,
+      93,
+      99,
+      104
+    ]
   },
   "evolve": [],
   "image": {

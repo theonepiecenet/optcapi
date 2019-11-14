@@ -1,5 +1,5 @@
 {
-  "name": "Portgas D. Ace, ",
+  "name": "Portgas D. Ace, Pirate of the Whitebeard Era",
   "detail": {
     "captain": "Boosts ATK of Fighter, Free Spirit and Powerhouse characters by 2.5x if HP is below 50% at the start of the turn, 2x otherwise.",
     "special": "Deals 40x character's ATK in [STR] damage to one enemy and changes [BLOCK] orbs into Matching orbs. If HP is below 30% at the time the special is activated, amplifies the effect of orbs for Fighter, Free Spirit and Powerhouse characters by 2.25x for 1 turn, by 2x otherwise.",
@@ -7,7 +7,7 @@
     "sailor": "Boosts base ATK of characters in the top row by 80"
   },
   "aliases": [
-    "",
+    "ポートガス・D・エース “白ひげ”時代の海賊",
     "",
     "Raid Ace"
   ],
@@ -29,7 +29,7 @@
     "maxHP": 2210,
     "maxATK": 778,
     "maxRCV": 121,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     29,
@@ -37,12 +37,21 @@
   ],
   "evolution": {
     "evolution": 2394,
-    "evolvers": []
+    "evolvers": [
+      118,
+      84,
+      266,
+      300,
+      100
+    ]
   },
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2393.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2393.png"
+  },
+  "flags": {
+    "global": 1
   },
   "drop": [
     {

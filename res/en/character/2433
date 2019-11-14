@@ -3,13 +3,106 @@
   "detail": {
     "captain": "Boosts ATK of all characters by 3x and their HP by 1.25x and EXP gained by 2x",
     "captainNotes": "EXP boost does not take effect if he becomes your captain in the middle of the adventure.",
-    "special": "Cuts the current HP of each enemy by 30% that will ignore damage negating abilities and barriers and increases duration of any team Percent Damage Reduction buffs, Threshold Damage Reduction buffs, End of Turn Damage buffs and End of Turn Healing buffs by 1 turn.",
+    "special": "Cuts the current HP of each enemy by 20% that will ignore damage negating abilities and barriers and increases duration of any team Percent Damage Reduction buffs, Threshold Damage Reduction buffs, End of Turn Damage buffs and End of Turn Healing buffs by 1 turn.",
     "specialName": "Savage Drought",
     "sailor": {
       "base": "None",
-      "level1": "Makes [QCK], [RCV] and [TND] orbs beneficial for this character"
+      "level1": "Boosts base ATK, HP and RCV of all characters by 60",
+      "level2": "Makes [QCK], [RCV] and [TND] orbs beneficial for this character"
     },
     "sailorNotes": "#{beneficial}",
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Acquire Potential 1: [DEX] Damage Reduction"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of all characters by 60"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 75"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 2: Slot Bind Self-reduction"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [QCK], [RCV] and [TND] orbs beneficial for this character"
+      },
+      {
+        "description": "Boosts base HP by 90"
+      },
+      {
+        "description": "Boosts base HP by 120"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base ATK by 35"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Acquire Potential 3: Pinch Healing"
+      }
+    ],
     "potential": [
       {
         "Name": "[DEX] Damage Reduction",
@@ -46,17 +139,17 @@
       {
         "Characters": "Kaido",
         "description": [
-          "Level 1: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
-          "Level 2: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
-          "Level 3: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
-          "Level 4: Adds ?% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 1: Adds 6% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 2: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 3: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 4: Adds 11% of this character's base ATK and HP to the supported character's base ATK and HP.",
           "Level 5: Adds 13% of this character's base ATK and HP to the supported character's base ATK and HP."
         ]
       }
     ]
   },
   "aliases": [
-    "",
+    "ジャック “ゾウゾウの実”古代種の能力者",
     "",
     "Legend Jack"
   ],
@@ -72,16 +165,29 @@
     "slots": 5,
     "level": 99,
     "exp": 5000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 1622,
+    "minATK": 580,
+    "minRCV": 80,
+    "maxHP": 3612,
+    "maxATK": 1631,
+    "maxRCV": 181,
+    "ability": 1
   },
-  "cooldown": null,
-  "evolve": [],
+  "cooldown": [
+    21,
+    15
+  ],
+  "evolve": {
+    "evolution": 2433,
+    "evolvers": [
+      118,
+      266,
+      95,
+      300,
+      267
+    ],
+    "from": 2432
+  },
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2433.png",
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2433.png"

@@ -135,7 +135,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Ain and Binz",
+        "description": [
+          "Level 1: Once per adventure, when your orbs are shuffled by the enemy, changes Shooter character's [QCK] orbs into Matching orbs.",
+          "Level 2: Once per adventure, when your orbs are shuffled by the enemy, changes Shooter character's [DEX] and [QCK] orbs into Matching orbs.",
+          "Level 3: Once per adventure, when your orbs are shuffled by the enemy, changes Shooter character's [STR], [DEX], [QCK], [PSY] and [INT] orbs into Matching orbs.",
+          "Level 4: Once per adventure, when your orbs are shuffled by the enemy, changes Shooter character's all orbs into Matching orbs.",
+          "Level 5: Once per adventure, when your orbs are shuffled by the enemy, changes Shooter character's all orbs, including [BLOCK] orbs, into Matching orbs."
+        ]
+      }
+    ]
   },
   "aliases": [
     "黒腕のゼファー 全ての海兵を育てた男",
@@ -191,7 +203,7 @@
   "manual": [
     {
       "type": "Fortnight",
-      "name": "Miracle Cherry Blossoms Return Fortnight",
+      "name": "Miracle Cherry Blossoms Fortnight",
       "thumb": 2491,
       "data": [
         "All Difficulties"
@@ -199,7 +211,7 @@
     },
     {
       "type": "Special",
-      "name": "Special Festival! 5th Anniversary",
+      "name": "Manual Festival!",
       "thumb": 2534,
       "data": [
         "Jinbe"

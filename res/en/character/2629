@@ -1,0 +1,65 @@
+{
+  "name": "Marguerite, Playing in the Sand",
+  "detail": {
+    "captain": "Boosts ATK of [STR], [QCK] and [INT] characters by 2x",
+    "special": "Boosts ATK of [STR], [QCK] and [INT] characters by 1.75x for 1 turn, reduces Paralysis duration by 2 turns and changes adjacent orbs into Matching Orbs.",
+    "sailor": "Boosts base ATK, HP and RCV of [STR], [QCK] and [INT] characters by 30",
+    "specialName": "Wave and Sand Pranks"
+  },
+  "aliases": [
+    "マーガレット 砂との戯れ",
+    "",
+    "Summer Marguerite",
+    "Swimsuit Marguerite"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 12,
+    "combo": 5,
+    "slots": 2,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 100,
+    "minATK": 96,
+    "minRCV": 61,
+    "maxHP": 1296,
+    "maxATK": 613,
+    "maxRCV": 186,
+    "ability": 1
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolution": {
+    "evolution": 2630,
+    "evolvers": [
+      116,
+      117,
+      79,
+      85,
+      96
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2629.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2629.png"
+  },
+  "drop": [
+    {
+      "type": "Kizuna Clash",
+      "name": "Zoro & Sanji",
+      "thumb": 2531,
+      "data": [
+        "Round 4"
+      ]
+    }
+  ],
+  "manual": []
+}

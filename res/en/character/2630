@@ -1,0 +1,68 @@
+{
+  "name": "Marguerite, Playing in the Waves",
+  "detail": {
+    "captain": "Boosts ATK of [STR], [QCK] and [INT] characters by 2.25x and their HP by 1.25x. Recovers 3x character's RCV in HP at the end of each turn",
+    "special": "Boosts ATK of [STR], [QCK] and [INT] characters by 1.75x for 1 turn, reduces Paralysis duration by 2 turns and changes adjacent orbs into Matching Orbs.",
+    "sailor": "Boosts base ATK, HP and RCV of [STR], [QCK] and [INT] characters by 30",
+    "specialName": "Wave and Sand Pranks",
+    "support": [
+      {
+        "Characters": "[QCK] characters",
+        "description": [
+          "Level 1: Once per adventure, when you reach the final stage, randomizes supported character's orb.",
+          "Level 2: Once per adventure, when you reach the final stage, randomizes supported character's orb.",
+          "Level 3: Once per adventure, when you reach the final stage, randomizes supported character's orb.",
+          "Level 4: Once per adventure, when you reach the final stage, randomizes supported character's orb.",
+          "Level 5: Once per adventure, when you reach the final stage, changes supported character's orb into a [QCK] orb."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "マーガレット 波との戯れ",
+    "",
+    "Summer Marguerite",
+    "Swimsuit Marguerite"
+  ],
+  "unit": {
+    "type": "QCK",
+    "class": [
+      "Slasher",
+      "Free Spirit"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 3,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 931,
+    "minATK": 412,
+    "minRCV": 134,
+    "maxHP": 2266,
+    "maxATK": 1189,
+    "maxRCV": 338,
+    "ability": 1
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolve": {
+    "evolution": 2630,
+    "evolvers": [
+      116,
+      117,
+      79,
+      85,
+      96
+    ],
+    "from": 2629
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2630.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2630.png"
+  },
+  "drop": [],
+  "manual": []
+}

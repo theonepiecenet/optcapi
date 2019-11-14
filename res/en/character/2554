@@ -39,7 +39,7 @@
     ],
     "potential": [
       {
-        "Name": "Replace No Healing duration",
+        "Name": "Reduce No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 3 turn",
           "Level 2: Reduces No Healing duration by 4 turn",
@@ -101,7 +101,8 @@
     "rr": 1,
     "rro": 1,
     "lrr": 1,
-    "tmlrr": 1
+    "tmlrr": 1,
+    "global": 1
   },
   "drop": [],
   "manual": []
