@@ -11,14 +11,14 @@
     "sailorNotes": "#{beneficial}",
     "special": [
       {
-        "description": "Makes Damage and Health Cutting Specials of Slasher and Free Spirit characters bypass all defensive Buffs, deals 20x character's ATK in [PSY] damage to one enemy.",
+        "description": "Makes Damage and Health Cutting Specials of Slasher and Free Spirit characters bypass all defensive Buffs, Barriers and Defense, deals 20x character's ATK in [PSY] damage to one enemy.",
         "cooldown": [
           18,
           13
         ]
       },
       {
-        "description": "Makes Damage and Health Cutting Specials of all characters bypass all defensive Buffs, deals 50x character's ATK in [PSY] damage to one enemy.",
+        "description": "Makes Damage and Health Cutting Specials of all characters bypass all defensive Buffs, Barriers and Defense, deals 50x character's ATK in [PSY] damage to one enemy.",
         "cooldown": [
           25,
           20
@@ -259,7 +259,7 @@
     },
     {
       "type": "Special",
-      "name": "Special Festival! 5th Anniversary",
+      "name": "Manual Festival!",
       "thumb": 2534,
       "data": [
         "Trafalgar Law"
