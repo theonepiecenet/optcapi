@@ -47,7 +47,11 @@
     "Pudding&Sanji",
     "Pudding and Sanji",
     "Pudding Sanji",
-    "PuddingSanji"
+    "PuddingSanji",
+    "Limited Snaji",
+    "Limited Pudding",
+    "Secret Sanji",
+    "Secret Pudding"
   ],
   "unit": {
     "type": [
@@ -73,14 +77,14 @@
     "combo": 6,
     "slots": 4,
     "level": 99,
-    "exp": null,
+    "exp": 4000000,
     "minHP": 1158,
     "minATK": 604,
     "minRCV": 160,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "maxHP": 2887,
+    "maxATK": 1458,
+    "maxRCV": 380,
+    "ability": 1
   },
   "cooldown": [
     13,
@@ -92,6 +96,9 @@
     "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/3369.png"
   },
   "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
     "global": 1
   },
   "drop": [],

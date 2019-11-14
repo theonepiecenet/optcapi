@@ -2,7 +2,7 @@
   "name": "[Dual Unit] Bartolomeo, The Noble Prince & Cannibal Fighting Together",
   "detail": {
     "captain": "Boosts ATK of Driven characters by 3.25x. If you don't attack with Bartolomeo, reduces damage received by 25% for that turn.",
-    "special": "Deals 75x the character's ATK as Typeless damage to all enemies, reduces any damage received above 5,000 HP by ?% for 1 turn, boosts ATK of Driven characters by 2.25x for 1 turn and becomes Bartolomeo & Cavendish for 3 turns",
+    "special": "Deals 75x the character's ATK as Typeless damage to all enemies, reduces any damage received above 5,000 HP by 97% for 1 turn, boosts ATK of Driven characters by 2.25x for 1 turn and becomes Bartolomeo & Cavendish for 3 turns",
     "swap": "When Change is activated, amplifies the effect of own orb by 1.5x for 1 turn, reduces damage received by 25% for 1 turn, recovers 5% of crew's MAX HP and changes their own orb into a Matching orb.",
     "specialName": "Beautiful Sword Barrier Barrage",
     "sailor": {
@@ -99,6 +99,36 @@
       },
       {
         "description": "Acquire Potential 3: Slot Bind Self-reduction"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 80"
+      },
+      {
+        "description": "Boosts base ATK by 100"
       }
     ],
     "potential": [
@@ -129,7 +159,7 @@
           "Level 2: Reduces Slot Bind duration by 4 turn on this character",
           "Level 3: Reduces Slot Bind duration by 5 turn on this character",
           "Level 4: Reduces Slot Bind duration by 7 turn on this character",
-          "Level 5: Reduces Slot Bind completely on this character"
+          "Level 5: Reduces Slot Bind duration completely on this character"
         ]
       }
     ]
@@ -155,10 +185,10 @@
     "Bartocav"
   ],
   "unit": {
-    "type": "QCK",
+    "type": "DEX",
     "class": [
       "Driven",
-      "Slasher"
+      "Striker"
     ],
     "stars": 6,
     "cost": 55,

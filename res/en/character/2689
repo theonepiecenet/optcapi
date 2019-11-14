@@ -1,5 +1,5 @@
 {
-  "name": "Marshal D. Teach",
+  "name": "Marshal D. Teach, Pirate of the Changing Era",
   "detail": {
     "captain": "Increases damage received by 1.25x and boosts ATK of [INT] characters by 1.5x",
     "special": "Boosts ATK of [INT] characters by 2x for 1 turn, amplifies the effect of orbs for [INT] characters by 2x for 1 turn, reduces Special Cooldown of [INT] specials by 1 turn and makes Badly Matching and [BLOCK] orbs not reduce damage for [INT] characters for 1 turn.",
@@ -7,7 +7,7 @@
     "specialName": "Declaration of a New Era"
   },
   "aliases": [
-    "",
+    "マーシャル・D・ティーチ 時代を変える海賊",
     "",
     "TM BB",
     "TM Blackbeard",
@@ -32,7 +32,7 @@
     "maxHP": 1802,
     "maxATK": 802,
     "maxRCV": 102,
-    "ability": null
+    "ability": 1
   },
   "cooldown": [
     34,
@@ -40,7 +40,13 @@
   ],
   "evolution": {
     "evolution": 2690,
-    "evolvers": []
+    "evolvers": [
+      115,
+      116,
+      117,
+      118,
+      104
+    ]
   },
   "evolve": [],
   "image": {

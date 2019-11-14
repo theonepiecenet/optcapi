@@ -4,10 +4,25 @@
     "captain": "Boosts ATK of Cerebral and Striker characters by a variable factor between 3.5x and 4x based on the timing of the attack of the previous unit in the chain, makes [STR] and [PSY] orbs beneficial for Cerebral and Striker characters and recovers 1.5x their RCV at the end of the turn each time you hit a PERFECT.",
     "captainNotes": "#{beneficial}",
     "sailor": "Boosts own base ATK by 250 if this character is the last in the chain to attack",
-    "special": "Boosts ATK of Cerebral and Striker characters by 1.75x for 1 turn and boosts the Color Affinity of Cerebral and Striker characters by 1.75x for 1 turn, and becomes Inuarashi & Nekomamushi for 3 turns. If during that turn, you hit 2 PERFECTS, amplifies the effect of orbs for Cerebral and Striker characters by 2.25x for 1 turn.",
+    "special": "Boosts ATK of Cerebral and Striker characters by 1.75x for 1 turn and boosts the Color Affinity of Cerebral and Striker characters by 1.75x for 1 turn, and becomes Inuarashi & Nekomamushi for 3 turns. If during that turn, you hit 2 PERFECTS, amplifies the effect of orbs for Cerebral and Striker characters by 2.25x for 1 turn in the following turn.",
     "swap": "When Change is activated, this character removes all Despair and Slot Bind duration on themselves and reduces Paralysis duration by 1 turn.",
     "specialName": "Two-King Onslaught"
   },
+  "aliases": [
+    "イヌアラシ＆ネコマムシ 克ち合う二人の王",
+    "",
+    "Inuarashi&Nekomamushi",
+    "Inuarashi & Nekomamushi",
+    "Inuarashi and Nekomamushi",
+    "Inuarashi Nekomamushi",
+    "InuarashiNekomamushi",
+    "Nekomamushi&Inuarashi",
+    "Nekomamushi and Inuarashi",
+    "Nekomamushi Inuarashi",
+    "NekomamushiInuarashi",
+    "Dogstorm",
+    "Cat Viper"
+  ],
   "unit": {
     "type": "PSY",
     "class": [

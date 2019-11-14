@@ -1,7 +1,7 @@
 {
   "name": "Demon Bamboo Vergo [Neo]",
   "detail": {
-    "captain": "Boosts ATK of Striker characters by 2x",
+    "captain": "Boosts ATK of Striker characters by 2x and their HP by 1.2x",
     "special": "Deals 100x character's ATK in [STR] damage to one enemy, reduces enemies' Percent Damage Reduction Buff duration by 4 turns and boosts ATK of Striker characters by 1.75x for 1 turn",
     "specialName": "Pure-Black Demon [Neo]"
   },
@@ -23,21 +23,27 @@
     "slots": 1,
     "level": 70,
     "exp": 1066998,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
-    "maxHP": null,
-    "maxATK": null,
-    "maxRCV": null,
-    "ability": null
+    "minHP": 280,
+    "minATK": 158,
+    "minRCV": 34,
+    "maxHP": 1253,
+    "maxATK": 635,
+    "maxRCV": 112,
+    "ability": 1
   },
   "cooldown": [
-    null,
-    16
+    28,
+    14
   ],
   "evolution": {
     "evolution": 3359,
-    "evolvers": []
+    "evolvers": [
+      118,
+      84,
+      266,
+      300,
+      100
+    ]
   },
   "evolve": [],
   "image": {

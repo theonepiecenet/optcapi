@@ -83,21 +83,21 @@
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by ?",
-          "Level 2: Boosts base ATK by ?",
-          "Level 3: Boosts base ATK by ?",
-          "Level 4: Boosts base ATK by ?",
-          "Level 5: Boosts base ATK by ?"
+          "Level 1: Boosts base ATK by 30",
+          "Level 2: Boosts base ATK by 60",
+          "Level 3: Boosts base ATK by 90",
+          "Level 4: Boosts base ATK by 120",
+          "Level 5: Boosts base ATK by 180"
         ]
       },
       {
-        "Name": "Replace No Healing duration",
+        "Name": "Reduce No Healing duration",
         "description": [
           "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turn",
-          "Level 3: Reduces No Healing duration by ? turn",
-          "Level 4: Reduces No Healing duration by ? turn",
-          "Level 5: Reduces No Healing duration by ? turn"
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 5 turn",
+          "Level 5: Reduces No Healing duration by 7 turn"
         ]
       }
     ],

@@ -1,7 +1,7 @@
 {
   "name": "Nightmare Luffy [Neo], Warrior of Hope",
   "detail": {
-    "special": "Deals 17 hits of random [QCK] damage to random enemies, reduces enemies' Threshold Damage Reduction duration by 4 turns and boosts ATK of Powerhouse characters by 1.75x for 1 turn.",
+    "special": "Deals 17 hits of random [QCK] damage to random enemies, reduces enemies' Threshold Damage Reduction duration by 3 turns and boosts ATK of Powerhouse characters by 1.75x for 1 turn.",
     "specialName": "Gum-Gum Storm [Neo]",
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Powerhouse characters by 3.5x, reduces crew's current HP by 10% at the end of each turn and reduces his own ATK multiplier by 0.1x at the end of each turn",
     "captainNotes": "His ATK multiplier will be 3.5x on the first turn, 3.4x on the second, 3.3x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Powerhouse characters. You will not die to the HP reduction"
@@ -9,7 +9,9 @@
   "aliases": [
     "",
     "",
-    ""
+    "Neo Nightmare Luffy",
+    "Neo Luffy",
+    "Kai Luffy"
   ],
   "unit": {
     "type": "QCK",
@@ -23,17 +25,27 @@
     "slots": 2,
     "level": 99,
     "exp": 5000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 1331,
+    "minATK": 711,
+    "minRCV": 0,
     "maxHP": 3320,
     "maxATK": 1580,
     "maxRCV": -200,
-    "ability": null
+    "ability": 1
   },
+  "cooldown": [
+    28,
+    14
+  ],
   "evolve": {
     "evolution": 3357,
-    "evolvers": [],
+    "evolvers": [
+      118,
+      85,
+      266,
+      301,
+      101
+    ],
     "from": 3356
   },
   "image": {

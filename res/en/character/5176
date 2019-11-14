@@ -155,6 +155,30 @@
     ],
     "potentialNotes": "#{enrage}"
   },
+  "aliases": [
+    "サカズキ 虎と犬",
+    "",
+    "Akainu",
+    "Fujitora",
+    "Akainu&Fujitora",
+    "Akainu & Fujitora",
+    "Akainu and Fujitora",
+    "Akainu Fujitora",
+    "AkainuFujitora",
+    "Fujitora&Akainu",
+    "Fujitora and Akainu",
+    "Fujitora Akainu",
+    "FujitoraAkainu",
+    "Sakazuki&Issho",
+    "Sakazuki & Issho",
+    "Sakazuki and Issho",
+    "Sakazuki Issho",
+    "SakazukiIssho",
+    "Issho&Sakazuki",
+    "Issho and Sakazuki",
+    "Issho Sakazuki",
+    "IsshoSakazuki"
+  ],
   "unit": {
     "type": "STR",
     "class": [
@@ -167,13 +191,13 @@
     "slots": 1,
     "level": 99,
     "exp": 5000000,
-    "minHP": null,
-    "minATK": null,
-    "minRCV": null,
+    "minHP": 1654,
+    "minATK": 803,
+    "minRCV": 78,
     "maxHP": 3041,
     "maxATK": 1341,
     "maxRCV": 161,
-    "ability": null
+    "ability": 1
   },
   "evolve": [],
   "image": {
