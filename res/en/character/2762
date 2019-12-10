@@ -1,0 +1,55 @@
+{
+  "name": "Nami, Orange Witch: Happy Halloween",
+  "detail": {
+    "captain": "Boosts ATK of Striker characters by 1.5x",
+    "special": "Deals 200,000 Fixed damage to all enemies. If your Captain is a Shooter character, boosts the Color Affinity of all characters by 1.75x for 1 turn. If during that turn you score 3 PERFECT hits, boosts the Color Affinity of all characters by 2x for 1 turn.",
+    "specialName": "Mischievious Witch Thundercloud Rod"
+  },
+  "aliases": [
+    "",
+    "",
+    "TM Nami",
+    "Halloween Nami"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Striker",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 5,
+    "slots": 1,
+    "level": 50,
+    "exp": 130703,
+    "minHP": 490,
+    "minATK": 319,
+    "minRCV": 72,
+    "maxHP": null,
+    "maxATK": null,
+    "maxRCV": null,
+    "ability": null
+  },
+  "cooldown": 37,
+  "evolution": {
+    "evolution": 2763,
+    "evolvers": []
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2762.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2762.png"
+  },
+  "drop": [
+    {
+      "type": "Treasure Map",
+      "name": "Witch Nami",
+      "thumb": 2763,
+      "data": [
+        "Raging Sea"
+      ]
+    }
+  ],
+  "manual": []
+}

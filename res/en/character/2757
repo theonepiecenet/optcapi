@@ -1,0 +1,65 @@
+{
+  "name": "Sabo, Grim Reaper: Happy Halloween",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Fighter characters by 2x, their HP by 1.2x, makes [INT] orbs beneficial for Striker and Fighter characters.",
+    "special": "Locks all orbs for 1 turn. If your crew has 6 [TND] orbs, amplifies the effects of orbs for Striker, Fighter and Shooter characters by 2.25x for 1 turn, by 1.75x for 3 turns otherwise.",
+    "specialName": "Claws of the God of Death",
+    "sailor": "Boosts base ATK, HP and RCV of Striker and Fighter characters by 50"
+  },
+  "aliases": [
+    "サボ グリムリーパー Happy Halloween",
+    "",
+    "Halloween Sabo",
+    "Shinigami Sabo"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Striker",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 4,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 677,
+    "minATK": 511,
+    "minRCV": 40,
+    "maxHP": 1279,
+    "maxATK": 921,
+    "maxRCV": 120,
+    "ability": 1
+  },
+  "cooldown": [
+    27,
+    13
+  ],
+  "evolution": {
+    "evolution": 2758,
+    "evolvers": [
+      118,
+      88,
+      266,
+      304,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2757.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2757.png"
+  },
+  "drop": [
+    {
+      "type": "Kizuna Clash",
+      "name": "Grim Reaper Sabo",
+      "thumb": 2758,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

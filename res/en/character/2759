@@ -1,0 +1,52 @@
+{
+  "name": "Arlong, Cocoyasi Village Dominator",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by 1.5x.",
+    "special": "Deals 30x character's ATK in [INT] damage to one enemy, changes [EMPTY], [BOMB] and [BLOCK] orbs on [PSY] and [INT] characters into Matching orbs. If you are on a Treasure Map, boosts Color Affinity of [PSY] and [INT] characters depending on your Treasure Map Level for 1 turn",
+    "specialNotes": "Level 1-10: 1.75x affinity boost<br>Level 11-20: 2x affinity boost<br>Level 21+: 2.25x affinity boost",
+    "specialName": "Heart Skewer: Shark on Darts"
+  },
+  "aliases": [
+    "",
+    "",
+    "Limited Arlong",
+    "Secret Arlong"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Powerhouse"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 1258,
+    "minATK": 548,
+    "minRCV": 88,
+    "maxHP": 3146,
+    "maxATK": 1370,
+    "maxRCV": 219,
+    "ability": null
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2759.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2759.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

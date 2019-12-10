@@ -1,0 +1,141 @@
+{
+  "name": "Sabo, Halloween Grim Reaper: Happy Halloween",
+  "detail": {
+    "captain": "Boosts ATK of Striker and Fighter characters by 3x, their HP by 1.2x, makes [INT] orbs beneficial for Striker and Fighter characters.",
+    "special": "Locks all orbs for 1 turn. If your crew has 6 [TND] orbs, amplifies the effects of orbs for Striker, Fighter and Shooter characters by 2.25x for 1 turn, by 1.75x for 3 turns otherwise.",
+    "specialName": "Claws of the God of Death",
+    "sailor": {
+      "base": "Boosts base ATK, HP and RCV of Striker and Fighter characters by 50",
+      "level1": "If your Captain is a Striker or Fighter character, makes [STR] orbs beneficial for all characters"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 70"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If your Captain is a Striker or Fighter character, makes [STR] orbs beneficial for all characters"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turn",
+          "Level 5: Reduces No Healing duration by 7 turn"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Luffy and Ace",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "サボ ハロウィンサイズ・グリムリーパー Happy Halloween",
+    "",
+    "Halloween Sabo",
+    "Shinigami Sabo"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Striker",
+      "Fighter"
+    ],
+    "stars": 5,
+    "cost": 50,
+    "combo": 5,
+    "slots": 3,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 1190,
+    "minATK": 760,
+    "minRCV": 75,
+    "maxHP": 2790,
+    "maxATK": 1488,
+    "maxRCV": 289,
+    "ability": 1
+  },
+  "cooldown": [
+    27,
+    13
+  ],
+  "evolve": {
+    "evolution": 2758,
+    "evolvers": [
+      118,
+      88,
+      266,
+      304,
+      104
+    ],
+    "from": 2757
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2758.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2758.png"
+  },
+  "drop": [],
+  "manual": []
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Kalifa, Bubble Master",
+  "detail": {
+    "captain": "Boosts ATK of Cerebral characters by 1.5x.",
+    "special": "Reduces enemies' Threshold Damage Reduction and Percent Damage Reduction duration by 3 turns. If you are on a Treasure Map, amplifies the effect of orbs for [PSY] and [INT] characters depending on your Treasure Map Level for 1 turn",
+    "specialNotes": "Level 1-10: 1.5x orb boost<br>Level 11-20: 1.75x orb boost<br>Level 21+: 2x orb boost",
+    "specialName": "Golden Hour"
+  },
+  "aliases": [
+    "",
+    "",
+    "Limited Kalifa",
+    "Secret Kalifa"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Cerebral",
+      "Fighter"
+    ],
+    "stars": 5,
+    "cost": 20,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 1074,
+    "minATK": 528,
+    "minRCV": 125,
+    "maxHP": 2686,
+    "maxATK": 1321,
+    "maxRCV": 312,
+    "ability": null
+  },
+  "cooldown": [
+    13,
+    13
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2761.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2761.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1,
+    "tmlrr": 1
+  },
+  "drop": [],
+  "manual": []
+}
