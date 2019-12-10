@@ -1,0 +1,65 @@
+{
+  "name": "Red Hair Shanks, At The Time of the Promised Meeting",
+  "detail": {
+    "captain": "Boosts ATK of [STR], [DEX] and [PSY] characters by 2.75x if they have a Matching orb, by 2.25x otherwise and their HP by 1.2x.",
+    "special": "Deals 15x character's ATK in DEX damage to all enemies, reduces ATK DOWN, Chain Multiplier Limit and Chain Coefficient Reduction duration by 2 turns and reduces Special Cooldown of all characters by 1 turn.",
+    "specialName": "Four Emperors",
+    "sailor": "Restores his own special cooldown by 2 turns when it is rewinded",
+    "support": [
+      {
+        "Characters": "Luffy",
+        "description": [
+          "Level 1: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 9% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 11% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "赤髪のシャンクス 迫る約束の時",
+    "",
+    "Blitz Battle Shanks"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Slasher"
+    ],
+    "stars": 5,
+    "cost": 25,
+    "combo": 4,
+    "slots": 4,
+    "level": 99,
+    "exp": 2000000,
+    "minHP": 1105,
+    "minATK": 480,
+    "minRCV": 55,
+    "maxHP": 2010,
+    "maxATK": 1221,
+    "maxRCV": 358,
+    "ability": 1
+  },
+  "cooldown": [
+    32,
+    9
+  ],
+  "evolve": {
+    "evolution": 2738,
+    "evolvers": [
+      117,
+      117,
+      117
+    ],
+    "from": 2737
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2738.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2738.png"
+  },
+  "drop": [],
+  "manual": []
+}

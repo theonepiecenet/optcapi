@@ -1,0 +1,62 @@
+{
+  "name": "Shanks, At The Time of the Promised Meeting",
+  "detail": {
+    "captain": "Boosts ATK of [STR], [DEX] and [PSY] characters by 2.5x if they have a Matching orb, by 2x otherwise.",
+    "special": "Deals 15x character's ATK in DEX damage to all enemies, reduces ATK DOWN, Chain Multiplier Limit and Chain Coefficient Reduction duration by 2 turns and reduces Special Cooldown of all characters by 1 turn.",
+    "specialName": "Four Emperors",
+    "sailor": "Restores his own special cooldown by 2 turns when it is rewinded"
+  },
+  "aliases": [
+    "シャンクス 迫る約束の時",
+    "",
+    "Blitz Battle Shanks"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Free Spirit",
+      "Slasher"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 70,
+    "exp": 711332,
+    "minHP": 470,
+    "minATK": 205,
+    "minRCV": 30,
+    "maxHP": 1220,
+    "maxATK": 550,
+    "maxRCV": 70,
+    "ability": 1
+  },
+  "cooldown": [
+    32,
+    9
+  ],
+  "evolution": {
+    "evolution": 2738,
+    "evolvers": [
+      117,
+      117,
+      117
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2737.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2737.png"
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Outpost Battle! Four Emperors on the Move!",
+      "thumb": 2738,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

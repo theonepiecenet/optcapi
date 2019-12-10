@@ -1,0 +1,53 @@
+{
+  "name": "Charlotte Poire",
+  "detail": {
+    "captain": "Boosts ATK of [INT] characters by 1.5x.",
+    "special": "Boosts ATK of Shooter and Free Spirit characters by 1.3x for 1 turn and adds 0.3x to Chain multiplier for 1 turn.",
+    "specialName": "Poire Gattling"
+  },
+  "aliases": [
+    "シャーロット・ポワール",
+    "",
+    ""
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Free Spirit",
+      "Shooter"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": 6,
+    "slots": 2,
+    "level": 70,
+    "exp": 355666,
+    "minHP": 380,
+    "minATK": 255,
+    "minRCV": 38,
+    "maxHP": 1120,
+    "maxATK": 1000,
+    "maxRCV": 120,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    11
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2752.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2752.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Revenge of the Assassins! Galette Fortnight",
+      "thumb": 2723,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

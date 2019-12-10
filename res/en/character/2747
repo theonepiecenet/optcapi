@@ -1,0 +1,145 @@
+{
+  "name": "Doflamingo, Halloween Nightwalker: Happy Halloween",
+  "detail": {
+    "captain": "Boosts ATK of Shooter and Fighter characters by 2.25x, their HP by 1.5x and deals 5 times the damage received in the previous turn in [INT] damage to all enemies at the end of each turn.",
+    "special": "Removes enemies Resilience buff duration completely. If enemies have Delay Debuff Protection or All Debuff Protection at the time the special was activated, boosts ATK of Fighter and Shooter characters by 1.75x and amplifies the effect of orbs for Fighter and Shooter characters by 1.75x for 1 turn.",
+    "specialName": "The Mocking King Sitting Atop of the Grave",
+    "sailor": {
+      "base": "Boosts base ATK of Shooter and Fighter characters by 30",
+      "level1": "When HP is below ?% at the start of the turn, boosts base ATK of Shooter and Fighter characters by 75"
+    },
+    "limit": [
+      {
+        "description": "Boosts base HP by 40"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If your Captain is a Shooter or Cerebral character, makes [QCK] orbs beneficial for all characters"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 70"
+      },
+      {
+        "description": "Boosts base HP by 80"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turn",
+          "Level 5: Reduces No Healing duration by 5 turn"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "[INT] characters",
+        "description": [
+          "Level 1: Adds 6% of this character's base HP to the supported character's base HP.",
+          "Level 2: Adds 7% of this character's base HP to the supported character's base HP.",
+          "Level 3: Adds 9% of this character's base HP to the supported character's base HP.",
+          "Level 4: Adds 12% of this character's base HP to the supported character's base HP.",
+          "Level 5: Adds 15% of this character's base HP to the supported character's base HP."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "ドフラミンゴ　ハロウィンナイトウォーカー Happy Halloween",
+    "",
+    "Halloween Doflamingo",
+    "Halloween Doffy"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Fighter"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 954,
+    "minATK": 988,
+    "minRCV": 32,
+    "maxHP": 3212,
+    "maxATK": 1478,
+    "maxRCV": 172,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    13
+  ],
+  "evolve": {
+    "evolution": 2747,
+    "evolvers": [
+      94,
+      1180,
+      304,
+      99,
+      104
+    ],
+    "from": 2746
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2747.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2747.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

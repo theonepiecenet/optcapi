@@ -1,0 +1,60 @@
+{
+  "name": "Doflamingo, Nightwalker: Happy Halloween",
+  "detail": {
+    "captain": "Boosts ATK of Shooter and Fighter characters by 2.25x and deals 5 times the damage received in the previous turn in [INT] damage to all enemies at the end of each turn.",
+    "special": "Removes enemies Resilience buff duration completely. If enemies have Delay Debuff Protection or All Debuff Protection at the time the special was activated, boosts ATK of Fighter and Shooter characters by 1.75x and amplifies the effect of orbs for Fighter and Shooter characters by 1.75x for 1 turn.",
+    "specialName": "The Mocking King Sitting Atop of the Grave",
+    "sailor": "Boosts base ATK of Shooter and Fighter characters by 30"
+  },
+  "aliases": [
+    "ドフラミンゴ　ナイトウォーカー Happy Halloween",
+    "",
+    "Halloween Doflamingo",
+    "Halloween Doffy"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Fighter"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 6,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 143,
+    "minATK": 176,
+    "minRCV": 8,
+    "maxHP": 971,
+    "maxATK": 1026,
+    "maxRCV": 46,
+    "ability": 1
+  },
+  "cooldown": [
+    19,
+    13
+  ],
+  "evolution": {
+    "evolution": 2747,
+    "evolvers": [
+      94,
+      1180,
+      304,
+      99,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2746.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2746.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

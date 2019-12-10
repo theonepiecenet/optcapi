@@ -1,0 +1,64 @@
+{
+  "name": "Luffy, Demon Lord: Happy Halloween",
+  "detail": {
+    "captain": "Boosts ATK of Fighter characters by 2.25x and makes [TND] orbs beneficial for Fighter characters.",
+    "special": "Binds self for 7 turns, cuts the current HP of one enemy by 25%, reduces Despair duration by 4 turns and changes all orbs, including [BLOCK] orbs, to [TND] orbs. If your crew has Orb Amplification, locks the chain multiplier at 2.75x for 3 turns, locks the chain multiplier at 3x for 1 turn otherwise.",
+    "specialName": "Demon Lord's Gomu Gomu no Elephant Gun",
+    "sailor": "If your Captain is a Fighter character, makes [TND] orbs beneficial for Fighter characters"
+  },
+  "aliases": [
+    "ルフィ　デーモンロード Happy Halloween",
+    "",
+    "Halloween Luffy"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Fighter",
+      "Free Spirit"
+    ],
+    "stars": 4,
+    "cost": 30,
+    "combo": 4,
+    "slots": 2,
+    "level": 70,
+    "exp": 1066998,
+    "minHP": 581,
+    "minATK": 201,
+    "minRCV": 72,
+    "maxHP": 1901,
+    "maxATK": 521,
+    "maxRCV": 142,
+    "ability": 1
+  },
+  "cooldown": [
+    27,
+    13
+  ],
+  "evolution": {
+    "evolution": 2749,
+    "evolvers": [
+      267,
+      104,
+      104,
+      304,
+      88
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2748.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2748.png"
+  },
+  "drop": [
+    {
+      "type": "Special",
+      "name": "Dead or Treat!! Devilish Party",
+      "thumb": 2749,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

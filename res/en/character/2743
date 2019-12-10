@@ -1,0 +1,144 @@
+{
+  "name": "Koala, Charitable Little Red Riding Hood: Happy Halloween",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Cerebral characters by 2.5x recovers 1,000 HP at the end of each turn.",
+    "special": "Reduces Increase Damage Taken duration by 5 turns, reduces damage received by 50% for 3 turns, recovers 10x character's RCV in HP at the end of each turn for 3 turns.",
+    "specialName": "Little Devil's Treat and Smile",
+    "sailor": {
+      "base": "Boosts base RCV of Fighter and Cerebral characters by 30",
+      "level1": "If your Captain is a Fighter or Cerebral character, makes [DEX] orbs beneficial for all characters"
+    },
+    "limit": [
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Acquire Potential 1: Pinch Healing"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base RCV by 20"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 20"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: If your Captain is a Fighter or Cerebral character, makes [DEX] orbs beneficial for all characters"
+      },
+      {
+        "description": "Acquire Potential 2: Enrage"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below 10% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below 15% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below 40% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      },
+      {
+        "Name": "Enrage",
+        "description": [
+          "Level 1: Boosts base ATK by 50",
+          "Level 2: Boosts base ATK by 75",
+          "Level 3: Boosts base ATK by 100",
+          "Level 4: Boosts base ATK by 150",
+          "Level 5: Boosts base ATK by 200"
+        ]
+      }
+    ],
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Sabo, Morley, Belo Betty, Karasu and Lindbergh",
+        "description": [
+          "Level 1: Reduces damage received from [INT] characters by 1%. Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 2: Reduces damage received from [INT] characters by 2%. Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 3: Reduces damage received from [INT] characters by 3%. Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 4: Reduces damage received from [INT] characters by 4%. Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 5: Reduces damage received from [INT] characters by 5%. Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "コアラ　施しの赤ずきん Happy Halloween",
+    "",
+    "Halloween Koala"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 811,
+    "minATK": 853,
+    "minRCV": 103,
+    "maxHP": 2222,
+    "maxATK": 1229,
+    "maxRCV": 420,
+    "ability": 1
+  },
+  "cooldown": [
+    21,
+    15
+  ],
+  "evolve": {
+    "evolution": 2743,
+    "evolvers": [
+      94,
+      2662,
+      303,
+      98,
+      103
+    ],
+    "from": 2742
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2743.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2743.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

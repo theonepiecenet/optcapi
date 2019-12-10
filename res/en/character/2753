@@ -1,0 +1,56 @@
+{
+  "name": "Mont-d'Or, Book-Keeper",
+  "detail": {
+    "captain": "Boosts ATK of [DEX] characters by 2x.",
+    "special": "Locks all orbs for 2 turns and reduces Bind and Silence duration by 3 turns.",
+    "specialName": "Angry Shots",
+    "support": [
+      {
+        "Characters": "Galette and Poire",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Adds 4% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Adds 5% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Adds 7% of this character's base ATK to the supported character's base ATK.",
+          "Level 5: Adds 9% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "モンドール 書司",
+    "",
+    "Montdor"
+  ],
+  "unit": {
+    "type": "DEX",
+    "class": [
+      "Shooter",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 6,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": 290,
+    "minATK": 420,
+    "minRCV": 67,
+    "maxHP": 850,
+    "maxATK": 1060,
+    "maxRCV": 180,
+    "ability": 1
+  },
+  "cooldown": [
+    16,
+    11
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2753.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2753.png"
+  },
+  "drop": [],
+  "manual": []
+}

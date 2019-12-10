@@ -1,0 +1,201 @@
+{
+  "name": "Ace, Trickster Flame Wolf: Happy Halloween",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Shooter characters by 4x, their HP by 1.5x, makes [PSY] and [INT] orbs beneficial for Fighter and Shooter characters, reduces Silence duration by 10 turns and restores special cooldowns by 10 turns when they are rewinded.",
+    "captainNotes": "The Silence and Special Rewind reduction can activate multiple times",
+    "special": "Reduces Bind duration by 10 turns and boosts ATK of Fighter and Shooter characters by 2.5x for 1 turn.",
+    "specialName": "Flame Emperor - Flame of Halloween",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts base ATK, HP and RCV of Fighter and Shooter characters by 75",
+      "level2": "Makes [PSY], [RCV], [TND] orbs beneficial for this character"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Acquire Potential 1: Reduce No Healing duration"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base ATK by 10"
+      },
+      {
+        "description": "Boosts base ATK by 15"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts base ATK, HP and RCV of Fighter and Shooter characters by 75"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base HP by 10"
+      },
+      {
+        "description": "Boosts base ATK by 25"
+      },
+      {
+        "description": "Acquire Potential 2: Critical Hit"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base ATK by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Acquire Sailor Ability 2: Makes [PSY], [RCV], [TND] orbs beneficial for this character"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Boosts base ATK by 50"
+      },
+      {
+        "description": "Acquire Potential 3: Barrier Penetration"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "Reduce No Healing duration",
+        "description": [
+          "Level 1: Reduces No Healing duration by 1 turn",
+          "Level 2: Reduces No Healing duration by 2 turn",
+          "Level 3: Reduces No Healing duration by 3 turn",
+          "Level 4: Reduces No Healing duration by 4 turn",
+          "Level 5: Reduces No Healing duration by 5 turn"
+        ]
+      },
+      {
+        "Name": "Critical Hit",
+        "description": [
+          "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+          "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+          "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+          "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
+          "Level 5: If you hit a PERFECT with this character, there is a 90% chance to deal 10% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Barrier Penetration",
+        "description": [
+          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
+          "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
+          "Level 5: This character's normal attack will ignore barriers"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Luffy and Sabo",
+        "description": [
+          "Level 1: Once per adventure, when you are inflicted with Bind, reduces Bind duration by 1 turn",
+          "Level 2: Once per adventure, when you are inflicted with Bind, reduces Bind duration by 1 turn",
+          "Level 3: Once per adventure, when you are inflicted with Bind, reduces Bind duration by 2 turns",
+          "Level 4: Once per adventure, when you are inflicted with Bind, reduces Bind duration by 2 turns",
+          "Level 5: Once per adventure, when you are inflicted with Bind, reduces Bind duration by 3 turns"
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "エース　トリックスター・フレイムウルフ Happy Halloween",
+    "",
+    "Halloween Ace",
+    "Furry Ace"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Fighter"
+    ],
+    "stars": 6,
+    "cost": 55,
+    "combo": 4,
+    "slots": 5,
+    "level": 99,
+    "exp": 5000000,
+    "minHP": 2098,
+    "minATK": 921,
+    "minRCV": 69,
+    "maxHP": 4320,
+    "maxATK": 1629,
+    "maxRCV": 137,
+    "ability": 1
+  },
+  "cooldown": [
+    18,
+    13
+  ],
+  "evolve": {
+    "evolution": 2741,
+    "evolvers": [
+      118,
+      304,
+      2662,
+      104,
+      267
+    ],
+    "from": 2740
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2741.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2741.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Koala, Little Red Devil Riding Hood: Happy Halloween",
+  "detail": {
+    "captain": "Boosts ATK of Fighter and Cerebral characters by 2.25x recovers 500 HP at the end of each turn.",
+    "special": "Reduces Increase Damage Taken duration by 5 turns, reduces damage received by 50% for 3 turns, recovers 10x character's RCV in HP at the end of each turn for 3 turns.",
+    "specialName": "Little Devil's Treat and Smile",
+    "sailor": "Boosts base RCV of Fighter and Cerebral characters by 30"
+  },
+  "aliases": [
+    "コアラ　小悪魔な赤ずきん Happy Halloween",
+    "",
+    "Halloween Koala"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Fighter",
+      "Cerebral"
+    ],
+    "stars": 4,
+    "cost": 15,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 392109,
+    "minHP": 103,
+    "minATK": 121,
+    "minRCV": 23,
+    "maxHP": 822,
+    "maxATK": 879,
+    "maxRCV": 120,
+    "ability": 1
+  },
+  "cooldown": [
+    21,
+    15
+  ],
+  "evolution": {
+    "evolution": 2743,
+    "evolvers": [
+      94,
+      2662,
+      303,
+      98,
+      103
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2742.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2742.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1
+  },
+  "drop": [],
+  "manual": []
+}

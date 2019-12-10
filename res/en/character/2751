@@ -1,0 +1,77 @@
+{
+  "name": "Charlotte Galette, Minister of Butter",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 2.5x and their HP by 1.2x.",
+    "special": "Deals 20x character's ATK as Typeless damage to all enemies, changes [STR], [DEX], [QCK], [INT] and [PSY] orbs on Shooter and Driven characters into Matching orbs and boosts the Color Affinity of Shooter and Driven characters by 1.5x for 2 turns.",
+    "specialName": "Liquid Handcuffs",
+    "support": [
+      {
+        "Characters": "Shooter characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
+  },
+  "aliases": [
+    "シャーロット・ガレット バター大臣",
+    "",
+    "Gallette",
+    "Galete",
+    "Galette"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 4,
+    "cost": 1,
+    "combo": 5,
+    "slots": 4,
+    "level": 99,
+    "exp": 1000000,
+    "minHP": 820,
+    "minATK": 702,
+    "minRCV": 80,
+    "maxHP": 1780,
+    "maxATK": 1120,
+    "maxRCV": 280,
+    "ability": 1
+  },
+  "cooldown": [
+    21,
+    13
+  ],
+  "evolve": {
+    "evolution": 2751,
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      104
+    ],
+    "from": 2750
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2751.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2751.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Revenge of the Assassins! Galette Fortnight",
+      "thumb": 2723,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}

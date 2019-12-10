@@ -1,0 +1,50 @@
+{
+  "name": "Capone \"Gang\" Bege, The Gang's Way of Life",
+  "detail": {
+    "captain": "If there is a [STR], [DEX] and [PSY] character in your crew, boosts ATK of all characters by 2.75x.<br><b>Boosted Ability:</b> If there is a [STR], [DEX] and [PSY] character in your crew, boosts ATK of all characters by 4.5x.",
+    "special": "Reduces enemies' Increased Defense duration by 3 turns, reduces Paralysis and Bind duration by 3 turns and changes right column orbs into Matching orbs. If this character is your Captain or Friend/Guest Captain, boosts ATK of all characters by 2.25x for 1 turn.",
+    "specialName": "Bullet of Rebellion",
+    "sailor": "Boosts base ATK, HP and RCV of [STR], [DEX] and [PSY] characters by 30"
+  },
+  "aliases": [
+    "カポネ・“ギャング”ベッジ “ギャング”の生き様",
+    "",
+    "Blitz Battle Capone"
+  ],
+  "unit": {
+    "type": "PSY",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 5,
+    "cost": 30,
+    "combo": 6,
+    "slots": 4,
+    "level": 99,
+    "exp": 4000000,
+    "minHP": 696,
+    "minATK": 472,
+    "minRCV": 152,
+    "maxHP": 1882,
+    "maxATK": 1276,
+    "maxRCV": 412,
+    "ability": 1
+  },
+  "cooldown": [
+    14,
+    14
+  ],
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2735.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2735.png"
+  },
+  "flags": {
+    "rr": 1,
+    "rro": 1,
+    "lrr": 1
+  },
+  "drop": [],
+  "manual": []
+}

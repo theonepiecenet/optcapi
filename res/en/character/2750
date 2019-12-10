@@ -1,0 +1,65 @@
+{
+  "name": "Charlotte Galette, Superior Army",
+  "detail": {
+    "captain": "Boosts ATK of Shooter characters by 2x.",
+    "special": "Deals 20x character's ATK as Typeless damage to all enemies, changes [STR], [DEX], [QCK], [INT] and [PSY] orbs on Shooter and Driven characters into Matching orbs and boosts the Color Affinity of Shooter and Driven characters by 1.5x for 2 turns.",
+    "specialName": "Liquid Handcuffs"
+  },
+  "aliases": [
+    "シャーロット・ガレット 仇討ちの軍隊",
+    "",
+    "Gallette",
+    "Galete",
+    "Galette"
+  ],
+  "unit": {
+    "type": "INT",
+    "class": [
+      "Shooter",
+      "Driven"
+    ],
+    "stars": 3,
+    "cost": 1,
+    "combo": 5,
+    "slots": 3,
+    "level": 50,
+    "exp": 130703,
+    "minHP": 450,
+    "minATK": 375,
+    "minRCV": 56,
+    "maxHP": 880,
+    "maxATK": 765,
+    "maxRCV": 110,
+    "ability": 1
+  },
+  "cooldown": [
+    21,
+    13
+  ],
+  "evolution": {
+    "evolution": 2751,
+    "evolvers": [
+      117,
+      82,
+      88,
+      99,
+      104
+    ]
+  },
+  "evolve": [],
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/2750.png",
+    "character": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/characters/2750.png"
+  },
+  "drop": [
+    {
+      "type": "Fortnight",
+      "name": "Revenge of the Assassins! Galette Fortnight",
+      "thumb": 2723,
+      "data": [
+        "All Difficulties"
+      ]
+    }
+  ],
+  "manual": []
+}
