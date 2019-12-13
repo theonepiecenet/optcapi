@@ -25835,6 +25835,7 @@
             "Summertime Tashigi",
             "Swimsuit Tashigi",
             "Summer Tashigi",
+            "Summer Thiccigi",
             "타시기",
             " 해변의 대령"
         ]
@@ -25853,6 +25854,7 @@
             "Summertime Tashigi",
             "Swimsuit Tashigi",
             "Summer Tashigi",
+            "Summer Thiccigi",
             "타시기",
             " 바캉스 중인 대령 언뉘"
         ]
@@ -43253,94 +43255,442 @@
         ]
     },
     {
-        "id": 2734
+        "id": 2734,
+        "name": "Monkey D. Luffy, 5th Emperor",
+        "type": "DEX",
+        "class": [
+            "Fighter",
+            "Free Spirit"
+        ],
+        "aliases": [
+            "モンキー・D・ルフィ “５番目の皇帝”",
+            "",
+            "Blitz Battle Luffy"
+        ]
     },
     {
-        "id": 2735
+        "id": 2735,
+        "name": "Capone \"Gang\" Bege, The Gang's Way of Life",
+        "type": "PSY",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "aliases": [
+            "カポネ・“ギャング”ベッジ “ギャング”の生き様",
+            "",
+            "Blitz Battle Capone"
+        ]
     },
     {
-        "id": 2736
+        "id": 2736,
+        "name": "Eustass Kid, The Loser with an Unbreakable Spirit",
+        "type": "STR",
+        "class": [
+            "Striker",
+            "Driven"
+        ],
+        "aliases": [
+            "ユースタス・キッド 心折れぬ敗北者",
+            "",
+            "Blitz Battle Kidd"
+        ]
     },
     {
-        "id": 2737
+        "id": 2737,
+        "name": "Shanks, At The Time of the Promised Meeting",
+        "type": "DEX",
+        "class": [
+            "Free Spirit",
+            "Slasher"
+        ],
+        "aliases": [
+            "シャンクス 迫る約束の時",
+            "",
+            "Blitz Battle Shanks"
+        ]
     },
     {
-        "id": 2738
+        "id": 2738,
+        "name": "Red Hair Shanks, At The Time of the Promised Meeting",
+        "type": "DEX",
+        "class": [
+            "Free Spirit",
+            "Slasher"
+        ],
+        "aliases": [
+            "赤髪のシャンクス 迫る約束の時",
+            "",
+            "Blitz Battle Shanks"
+        ]
     },
     {
-        "id": 2739
+        "id": 2739,
+        "name": "Katakuri, 3 Sweet Commanders: The Strongest Man",
+        "type": "INT",
+        "class": [
+            "Striker",
+            "Powerhouse"
+        ],
+        "aliases": [
+            "カタクリ 「３将星」最強の男",
+            "",
+            "V1 Katakuri",
+            "Super Katakuri",
+            "Mega Katakuri",
+            "Charlotte Katakuri"
+        ]
     },
     {
-        "id": 2740
+        "id": 2740,
+        "name": "Ace, Flame Wolf: Happy Halloween",
+        "type": "INT",
+        "class": [
+            "Shooter",
+            "Fighter"
+        ],
+        "aliases": [
+            "エース　フレイムウルフ Happy Halloween",
+            "",
+            "Halloween Ace",
+            "Furry Ace"
+        ]
     },
     {
-        "id": 2741
+        "id": 2741,
+        "name": "Ace, Trickster Flame Wolf: Happy Halloween",
+        "type": "INT",
+        "class": [
+            "Shooter",
+            "Fighter"
+        ],
+        "aliases": [
+            "エース　トリックスター・フレイムウルフ Happy Halloween",
+            "",
+            "Halloween Ace",
+            "Furry Ace"
+        ]
     },
     {
-        "id": 2742
+        "id": 2742,
+        "name": "Koala, Little Red Devil Riding Hood: Happy Halloween",
+        "type": "PSY",
+        "class": [
+            "Fighter",
+            "Cerebral"
+        ],
+        "aliases": [
+            "コアラ　小悪魔な赤ずきん Happy Halloween",
+            "",
+            "Halloween Koala"
+        ]
     },
     {
-        "id": 2743
+        "id": 2743,
+        "name": "Koala, Charitable Little Red Riding Hood: Happy Halloween",
+        "type": "PSY",
+        "class": [
+            "Fighter",
+            "Cerebral"
+        ],
+        "aliases": [
+            "コアラ　施しの赤ずきん Happy Halloween",
+            "",
+            "Halloween Koala"
+        ]
     },
     {
-        "id": 2744
+        "id": 2744,
+        "name": "Reiju, Bride of Halloween: Happy Halloween",
+        "type": "PSY",
+        "class": [
+            "Shooter",
+            "Cerebral"
+        ],
+        "aliases": [
+            "レイジュ　ブライド・オブ・ハロウィン Happy Halloween",
+            "",
+            "Halloween Reiju"
+        ]
     },
     {
-        "id": 2745
+        "id": 2745,
+        "name": "Reiju, Bride of Halloween Night: Happy Halloween",
+        "type": "PSY",
+        "class": [
+            "Shooter",
+            "Cerebral"
+        ],
+        "aliases": [
+            "レイジュ　ブライド・オブ・ハロウィンナイト Happy Halloween",
+            "",
+            "Halloween Reiju"
+        ]
     },
     {
-        "id": 2746
+        "id": 2746,
+        "name": "Doflamingo, Nightwalker: Happy Halloween",
+        "type": "INT",
+        "class": [
+            "Shooter",
+            "Fighter"
+        ],
+        "aliases": [
+            "ドフラミンゴ　ナイトウォーカー Happy Halloween",
+            "",
+            "Halloween Doflamingo",
+            "Halloween Doffy"
+        ]
     },
     {
-        "id": 2747
+        "id": 2747,
+        "name": "Doflamingo, Halloween Nightwalker: Happy Halloween",
+        "type": "INT",
+        "class": [
+            "Shooter",
+            "Fighter"
+        ],
+        "aliases": [
+            "ドフラミンゴ　ハロウィンナイトウォーカー Happy Halloween",
+            "",
+            "Halloween Doflamingo",
+            "Halloween Doffy"
+        ]
     },
     {
-        "id": 2748
+        "id": 2748,
+        "name": "Luffy, Demon Lord: Happy Halloween",
+        "type": "INT",
+        "class": [
+            "Fighter",
+            "Free Spirit"
+        ],
+        "aliases": [
+            "ルフィ　デーモンロード Happy Halloween",
+            "",
+            "Halloween Luffy"
+        ]
     },
     {
-        "id": 2749
+        "id": 2749,
+        "name": "Luffy, Halloween Demon Lord: Happy Halloween",
+        "type": "INT",
+        "class": [
+            "Fighter",
+            "Free Spirit"
+        ],
+        "aliases": [
+            "ルフィ　ハロウィンナイト・デーモンロード Happy Halloween",
+            "",
+            "Halloween Luffy"
+        ]
     },
     {
-        "id": 2750
+        "id": 2750,
+        "name": "Charlotte Galette, Superior Army",
+        "type": "INT",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "aliases": [
+            "シャーロット・ガレット 仇討ちの軍隊",
+            "",
+            "Gallette",
+            "Galete",
+            "Galette"
+        ]
     },
     {
-        "id": 2751
+        "id": 2751,
+        "name": "Charlotte Galette, Minister of Butter",
+        "type": "INT",
+        "class": [
+            "Shooter",
+            "Driven"
+        ],
+        "aliases": [
+            "シャーロット・ガレット バター大臣",
+            "",
+            "Gallette",
+            "Galete",
+            "Galette"
+        ]
     },
     {
-        "id": 2752
+        "id": 2752,
+        "name": "Charlotte Poire",
+        "type": "INT",
+        "class": [
+            "Free Spirit",
+            "Shooter"
+        ],
+        "aliases": [
+            "シャーロット・ポワール",
+            "",
+            ""
+        ]
     },
     {
-        "id": 2753
+        "id": 2753,
+        "name": "Mont-d'Or, Book-Keeper",
+        "type": "DEX",
+        "class": [
+            "Shooter",
+            "Cerebral"
+        ],
+        "aliases": [
+            "モンドール 書司",
+            "",
+            "Montdor"
+        ]
     },
     {
-        "id": 2754
+        "id": 2754,
+        "name": "Oars, Moria's Servant",
+        "type": "QCK",
+        "class": [
+            "Fighter",
+            "Powerhouse"
+        ],
+        "aliases": [
+            "オーズ モリア様の部下（しもべ）",
+            "",
+            "Coliseum Oars"
+        ]
     },
     {
-        "id": 2755
+        "id": 2755,
+        "name": "Devil Oars, Moria's Servant",
+        "type": "QCK",
+        "class": [
+            "Fighter",
+            "Powerhouse"
+        ],
+        "aliases": [
+            "魔人オーズ モリア様の部下（しもべ）",
+            "",
+            "Coliseum Oars"
+        ]
     },
     {
-        "id": 2756
+        "id": 2756,
+        "name": "Tony Tony Chopper, Kung Fu Dance",
+        "type": "STR",
+        "class": [
+            "Fighter",
+            "Free Spirit"
+        ],
+        "aliases": [
+            "トニートニー・チョッパー カンフーの舞",
+            "",
+            "Kung Fu Point"
+        ]
     },
     {
-        "id": 2757
+        "id": 2757,
+        "name": "Sabo, Grim Reaper: Happy Halloween",
+        "type": "INT",
+        "class": [
+            "Striker",
+            "Fighter"
+        ],
+        "aliases": [
+            "サボ グリムリーパー Happy Halloween",
+            "",
+            "Halloween Sabo",
+            "Shinigami Sabo"
+        ]
     },
     {
-        "id": 2758
+        "id": 2758,
+        "name": "Sabo, Halloween Grim Reaper: Happy Halloween",
+        "type": "INT",
+        "class": [
+            "Striker",
+            "Fighter"
+        ],
+        "aliases": [
+            "サボ ハロウィンサイズ・グリムリーパー Happy Halloween",
+            "",
+            "Halloween Sabo",
+            "Shinigami Sabo"
+        ]
     },
     {
-        "id": 2759
+        "id": 2759,
+        "name": "Arlong, Cocoyasi Village Dominator",
+        "type": "INT",
+        "class": [
+            "Fighter",
+            "Powerhouse"
+        ],
+        "aliases": [
+            "",
+            "",
+            "Limited Arlong",
+            "Secret Arlong"
+        ]
     },
     {
-        "id": 2760
+        "id": 2760,
+        "name": "Miss Doublefinger, Medi Assembly Hall Alleyway",
+        "type": "PSY",
+        "class": [
+            "Fighter",
+            "Cerebral"
+        ],
+        "aliases": [
+            "",
+            "",
+            "Limited Miss Doublefinger",
+            "Secret Miss Doublefinger"
+        ]
     },
     {
-        "id": 2761
+        "id": 2761,
+        "name": "Kalifa, Bubble Master",
+        "type": "PSY",
+        "class": [
+            "Cerebral",
+            "Fighter"
+        ],
+        "aliases": [
+            "",
+            "",
+            "Limited Kalifa",
+            "Secret Kalifa"
+        ]
     },
     {
-        "id": 2762
+        "id": 2762,
+        "name": "Nami, Orange Witch: Happy Halloween",
+        "type": "INT",
+        "class": [
+            "Striker",
+            "Cerebral"
+        ],
+        "aliases": [
+            "",
+            "",
+            "TM Nami",
+            "Halloween Nami"
+        ]
     },
     {
-        "id": 2763
+        "id": 2763,
+        "name": "Nami, Halloween Night Orange Witch: Happy Halloween",
+        "type": "INT",
+        "class": [
+            "Shooter",
+            "Cerebral"
+        ],
+        "aliases": [
+            "",
+            "",
+            "TM Nami",
+            "Halloween Nami"
+        ]
     },
     {
         "id": 2764
