@@ -30,7 +30,10 @@
     "maxRCV": 174,
     "ability": 1
   },
-  "cooldown": 17,
+  "cooldown": [
+    17,
+    9
+  ],
   "evolve": [],
   "image": {
     "thumb": "https://raw.githubusercontent.com/theonepiecenet/optcapi/master/res/thumbs/1498.png",

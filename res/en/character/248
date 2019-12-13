@@ -1,7 +1,10 @@
 {
   "name": "Tony Tony Chopper Pre-Rampage",
   "detail": {
-    "special": "Deals random [STR] damage to one enemy",
+    "special": {
+      "japan": "Deals random [STR] damage to one enemy, boosts ATK of STR characters by 1.75x for 1 turn",
+      "global": "Deals random [STR] damage to one enemy"
+    },
     "specialName": "Rampage",
     "specialNotes": "#{random : 2,000 : 200,000}",
     "captain": "Boosts ATK of [STR] characters by 2.5x and reduces their HP by 60%"

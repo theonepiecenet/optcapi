@@ -135,6 +135,18 @@
           "Level 5: Reduces No Healing duration by 10 turns"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "[QCK] characters",
+        "description": [
+          "Level 1: Reduces damage received from [STR] characters by 1%. Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Reduces damage received from [STR] characters by 2%. Adds 8% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Reduces damage received from [STR] characters by 3%. Adds 12% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Reduces damage received from [STR] characters by 4%. Adds 15% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Reduces damage received from [STR] characters by 5%. Adds 20% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
     ]
   },
   "aliases": [

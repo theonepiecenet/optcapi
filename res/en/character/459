@@ -136,7 +136,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Characters with cost 29 or less",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses their special, boosts ATK of supported character by 1.25x for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses their special, boosts ATK of supported character by 1.5x for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses their special, boosts ATK of supported character by 1.75x for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses their special, boosts ATK of supported character by 2x for 1 turn.",
+          "Level 5: Once per an adventure, when the supported character uses their special, boosts ATK of supported character by 2.5x for 1 turn."
+        ]
+      }
+    ]
   },
   "aliases": [
     "仏のセンゴク",

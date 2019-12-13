@@ -3,7 +3,19 @@
   "detail": {
     "special": "Reduces Bind duration by 2 turns, deals 10x character's ATK in [DEX] damage to all enemies",
     "specialName": "Three Thousand Worlds: The Final Stroke",
-    "captain": "Boosts ATK, HP and RCV of [DEX] characters by 1.5x"
+    "captain": "Boosts ATK, HP and RCV of [DEX] characters by 1.5x",
+    "support": [
+      {
+        "Characters": "Monkey D. Luffy and Nami",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ロロノア・ゾロ 三・千・世・界“斬”",

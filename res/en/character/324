@@ -4,7 +4,19 @@
     "special": "Amplifies the effect of orbs by 1.5x for 2 turns",
     "specialNotes": "#{orb : 1.5x}",
     "specialName": "Mountain Wind",
-    "captain": "Boosts HP and RCV of [QCK] characters by 1.5x"
+    "captain": "Boosts HP and RCV of [QCK] characters by 1.5x",
+    "support": [
+      {
+        "Characters": "Iceburg, Paulie, Rob Lucci, Kalifa, Tilestone and Peeply Lulu",
+        "description": [
+          "Level 1: Adds 2% of this character's base HP to the supported character's base HP",
+          "Level 2: Adds 4% of this character's base HP to the supported character's base HP",
+          "Level 3: Adds 6% of this character's base HP to the supported character's base HP",
+          "Level 4: Adds 8% of this character's base HP to the supported character's base HP",
+          "Level 5: Adds 10% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "カク 1番ドック大工職職長",

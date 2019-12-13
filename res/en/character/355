@@ -2,7 +2,19 @@
   "name": "Ain NEO Marines",
   "detail": {
     "special": "Reduces Bind and Despair duration by 3 turns",
-    "specialName": "Two-Sword Dance"
+    "specialName": "Two-Sword Dance",
+    "support": [
+      {
+        "Characters": "Zephyr and Binz",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 8% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 10% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "アイン NEO海軍バイス・アドミラル",

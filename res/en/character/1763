@@ -133,7 +133,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Powerhouse characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 8% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "ルッチ　獣人 世界政府の怪物",
@@ -169,7 +181,7 @@
     15
   ],
   "evolution": {
-    "evolution": 3336,
+    "evolution": 2784,
     "evolvers": [
       "skullQCK",
       "skullQCK",

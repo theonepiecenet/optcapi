@@ -3,7 +3,19 @@
   "detail": {
     "special": "Reduces Bind duration by 3 turns",
     "specialName": "Tempered Kukris",
-    "captain": "Boosts ATK and HP of Slasher characters by 1.5x"
+    "captain": "Boosts ATK and HP of Slasher characters by 1.5x",
+    "support": [
+      {
+        "Characters": "Monkey D. Garp and Coby",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 6% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 8% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 10% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "軍曹ヘルメッポ",
