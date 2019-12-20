@@ -80,7 +80,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Striker characters",
+        "description": [
+          "Level 1: Once per adventure, when you reach the final stage, adds 50x supported character's ATK as Additional Damage to the supported character's attacks for 1 turn",
+          "Level 2: Once per adventure, when you reach the final stage, adds 75x supported character's ATK as Additional Damage to the supported character's attacks for 1 turn",
+          "Level 3: Once per adventure, when you reach the final stage, adds 100x supported character's ATK as Additional Damage to the supported character's attacks for 1 turn",
+          "Level 4: Once per adventure, when you reach the final stage, adds 125x supported character's ATK as Additional Damage to the supported character's attacks for 1 turn",
+          "Level 5: Once per adventure, when you reach the final stage, adds 150x supported character's ATK as Additional Damage to the supported character's attacks for 1 turn"
+        ]
+      }
+    ]
   },
   "aliases": [
     "怪僧ウルージ",

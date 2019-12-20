@@ -101,7 +101,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Striker and Powerhouse characters",
+        "description": [
+          "Level 1: Reduces damage received from [INT] characters by 1%. Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Reduces damage received from [INT] characters by 2%. Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Reduces damage received from [INT] characters by 3%. Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Reduces damage received from [INT] characters by 4%. Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Reduces damage received from [INT] characters by 5%. Adds 8% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "エドワード・ニューゲート 大海賊“白ひげ”",
