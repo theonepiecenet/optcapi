@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK characters with cost 30 or less by 2x and their HP by 1.2x",
     "special": "Changes own orb into [QCK], deals 15x character's ATK in [QCK] damage to one enemy",
-    "specialName": "Gum-Gum Twin Jet Pistol: Snowflake"
+    "specialName": "Gum-Gum Twin Jet Pistol: Snowflake",
+    "support": [
+      {
+        "Characters": "Roronoa Zoro, Nami, Tony Tony Chopper",
+        "description": [
+          "Level 1: Adds 3% of this character's base HP to the supported character's base HP",
+          "Level 2: Adds 4% of this character's base HP to the supported character's base HP",
+          "Level 3: Adds 5% of this character's base HP to the supported character's base HP",
+          "Level 4: Adds 7% of this character's base HP to the supported character's base HP",
+          "Level 5: Adds 9% of this character's base HP to the supported character's base HP."
+        ]
+      }
+    ]
   },
   "aliases": [
     "ルフィの冬島冒険",

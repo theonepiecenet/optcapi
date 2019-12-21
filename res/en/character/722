@@ -3,7 +3,19 @@
   "detail": {
     "special": "Randomizes all orbs, including [BLOCK] orbs",
     "specialName": "Screw Drop Kick",
-    "captain": "Boosts ATK of Fighter characters by 2x if HP is is above 99% at the start of the turn"
+    "captain": "Boosts ATK of Fighter characters by 2x if HP is is above 99% at the start of the turn",
+    "support": [
+      {
+        "Characters": "Wanze and Nero",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 6% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
   },
   "aliases": [
     "ジェリー サイファーポールNo.6",

@@ -3,7 +3,19 @@
   "detail": {
     "special": "Cuts the current HP of each enemy by 10%, changes [PSY] and [INT] orbs into [DEX] orbs",
     "specialName": "Eight-Sword Style: Brave Warrior's Continuous Attack",
-    "captain": "Boosts ATK of Slasher characters by 2x, reduces damage received from [QCK] enemies by 20%"
+    "captain": "Boosts ATK of Slasher characters by 2x, reduces damage received from [QCK] enemies by 20%",
+    "support": [
+      {
+        "Characters": "Momonga, Dalmatian, Strawberry and Brannew",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 6% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "オニグモ 海軍本部中将",

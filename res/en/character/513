@@ -4,7 +4,19 @@
     "special": "Boosts chances of getting [PSY] orbs and reduces chances of getting [INT] orbs for 3 turns",
     "specialName": "Sneaky Punk Kid Strike",
     "captain": "Protects from defeat as long as HP is above 50%, boosts ATK of [PSY] characters by 1.5x if HP is above 50% at the start of the turn",
-    "captainNotes": "#{zombie}"
+    "captainNotes": "#{zombie}",
+    "support": [
+      {
+        "Characters": "Monkey D. Luffy and Portgas D. Ace",
+        "description": [
+          "Level 1: Reduces damage received from [INT] characters by 1%",
+          "Level 2: Reduces damage received from [INT] characters by 2%",
+          "Level 3: Reduces damage received from [INT] characters by 3%",
+          "Level 4: Reduces damage received from [INT] characters by 4%",
+          "Level 5: Reduces damage received from [INT] characters by 6%"
+        ]
+      }
+    ]
   },
   "aliases": [
     "サボ コルボ山の悪ガキ３兄弟“兄弟盃”",

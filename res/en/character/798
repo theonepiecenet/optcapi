@@ -3,7 +3,19 @@
   "detail": {
     "special": "Removes Poison duration completely, following the activation of the special, if during that turn you score 6 PERFECT hits, boosts ATK of Fighter characters by 1.75x in the following turn",
     "specialName": "Dugong Secret! Fist of the Black Fin",
-    "captain": "Boosts ATK of all characters by 2.5x after scoring 3 PERFECTs in a row"
+    "captain": "Boosts ATK of all characters by 2.5x after scoring 3 PERFECTs in a row",
+    "support": [
+      {
+        "Characters": "Monkey D. Luffy",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP."
+        ]
+      }
+    ]
   },
   "aliases": [
     "クンフージュゴン 海獣海賊団",

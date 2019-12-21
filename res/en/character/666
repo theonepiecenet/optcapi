@@ -3,7 +3,19 @@
   "detail": {
     "special": "Changes own orb into [QCK], boosts ATK against enemies with reduced defense by 1.3x for 2 turns",
     "specialName": "Let's Go! Suna Suna Clan!!",
-    "captain": "Boosts ATK of all characters by 1.75x, reduces HP and RCV of all characters by 80%"
+    "captain": "Boosts ATK of all characters by 1.75x, reduces HP and RCV of all characters by 80%",
+    "support": [
+      {
+        "Characters": "Vivi",
+        "description": [
+          "Level 1: Adds 3% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Adds 6% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Adds 9% of this character's base RCV to the supported character's base RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "コーザ 砂砂団　リーダー",

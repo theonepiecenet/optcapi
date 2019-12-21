@@ -3,7 +3,19 @@
   "detail": {
     "special": "Deals 15x character's ATK in [STR] damage to one enemy, boosts ATK against delayed enemies by 1.3x for 2 turns",
     "specialName": "Shigan: Convergence",
-    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of [STR] characters by 2x"
+    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of [STR] characters by 2x",
+    "support": [
+      {
+        "Characters": "Momonga, Onigumo, Strawberry and Brannew",
+        "description": [
+          "Level 1: Adds 3% of this character's base HP to the supported character's base HP",
+          "Level 2: Adds 4% of this character's base HP to the supported character's base HP",
+          "Level 3: Adds 5% of this character's base HP to the supported character's base HP",
+          "Level 4: Adds 7% of this character's base HP to the supported character's base HP",
+          "Level 5: Adds 9% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ダルメシアン 海軍本部中将",

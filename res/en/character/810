@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of Powerhouse characters by 2x and their RCV by 1.5x, reduces crew's current HP by 10% at the end of each turn",
     "specialName": "Lola's Attack Chance",
     "special": "Reduces the defense of all enemies by 80% for 1 turn, amplifies the effect of orbs by 1.5x for 1 turn",
-    "specialNotes": "#{orb : 1.5x}"
+    "specialNotes": "#{orb : 1.5x}",
+    "support": [
+      {
+        "Characters": "Nami",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP."
+        ]
+      }
+    ]
   },
   "aliases": [
     "求愛のローラ スリラーバークの花嫁",
