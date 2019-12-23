@@ -94,6 +94,18 @@
           "Level 5: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Free Spirit characters",
+        "description": [
+          "Level 1: Reduces damage received from [DEX] characters by 1%. Adds 6% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Reduces damage received from [DEX] characters by 2%. Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Reduces damage received from [DEX] characters by 3%. Adds 8% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Reduces damage received from [DEX] characters by 4%. Adds 9% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Reduces damage received from [DEX] characters by 5%. Adds 12% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
     ]
   },
   "aliases": [
