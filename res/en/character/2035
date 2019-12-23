@@ -134,6 +134,18 @@
           "Level 5: This character's normal attack will ignore barriers"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Characters with cost 40 or less",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses their special, boosts ATK of supported character by 1.5x for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses their special, boosts ATK of supported character by 1.6x for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses their special, boosts ATK of supported character by 1.7x for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses their special, boosts ATK of supported character by 1.8x for 1 turn.",
+          "Level 5: Once per an adventure, when the supported character uses their special, boosts ATK of supported character by 2x for 1 turn."
+        ]
+      }
     ]
   },
   "aliases": [

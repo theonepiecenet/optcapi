@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of [PSY] characters by 2.5x and their HP by 1.5x",
     "special": "Boosts ATK of all characters by 1.5x for 1 turn. If your Captain is a [PSY] character, amplifies the effect of orbs by 1.5x for 1 turn, adds 0.3x to Chain multiplier for 1 turn, adds 20x character's ATK as Additional Typeless Damage for 1 turn and reduces damage received by 40% for 1 turn.",
-    "specialName": "The Heavy Tank's Critical Breakthrough"
+    "specialName": "The Heavy Tank's Critical Breakthrough",
+    "support": [
+      {
+        "Characters": "Nami, Tony Tony Chopper and Carrot",
+        "description": [
+          "Level 1: Adds 5% of this character's base HP to the supported character's base HP",
+          "Level 2: Adds 6% of this character's base HP to the supported character's base HP",
+          "Level 3: Adds 7% of this character's base HP to the supported character's base HP",
+          "Level 4: Adds 8% of this character's base HP to the supported character's base HP",
+          "Level 5: Adds 12% of this character's base HP to the supported character's base HP. Boosts the supported character's ATK by 1.2x against Charlotte Cracker"
+        ]
+      }
+    ]
   },
   "aliases": [
     "モンキー・D・ルフィ ギア４　「タンクマン」",
