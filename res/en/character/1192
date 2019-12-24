@@ -1,7 +1,10 @@
 {
   "name": "Kuzan",
   "detail": {
-    "captain": "Boosts ATK of all characters by 2x and their HP by 1.2x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 8 times to a maximum of 3.5x.",
+    "captain": {
+      "base": "Boosts ATK of all characters by 2x and their HP by 1.2x. If you defeat an enemy, increases ATK boost slightly. Stacks up to 8 times to a maximum of 3.5x.",
+      "level1": "Not Translated"
+    },
     "captainNotes": "If a character dies and revives, it counts as killing a character. If you did not defeat an enemy, lose all ATK boost stacks.",
     "special": "Increases duration of any Class/Type boosting buffs and Orb Amplification buffs by 1 turn",
     "specialName": "Ice Age",
@@ -101,6 +104,36 @@
       },
       {
         "description": "Acquire Potential 3: Barrier Penetration"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire new Captain Ability: Not Translated."
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 100"
       }
     ],
     "potential": [

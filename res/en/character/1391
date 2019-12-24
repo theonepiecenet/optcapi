@@ -1,7 +1,10 @@
 {
   "name": "Captain Buggy",
   "detail": {
-    "captain": "Boosts ATK of characters with a cost of 40 or less by 1.5x and reduces the HP and ATK of characters with a cost of 41 and greater by 0.5x. Guarantees duplicating a drop upon completion of the island.",
+    "captain": {
+      "base": "Boosts ATK of characters with a cost of 40 or less by 1.5x and reduces the HP and ATK of characters with a cost of 41 and greater by 0.5x. Guarantees duplicating a drop upon completion of the island.",
+      "level1": "Not Translated"
+    },
     "captainNotes": "Does not work if he was not your captain upon starting the island. Stacks with other additional drop captains, giving you two chances of getting an extra drop.",
     "special": "Randomizes all orbs. Boosts ATK of characters with cost 40 or less by 1.75x for 2 turns",
     "specialName": "Chop-Chop Clown Car",
@@ -101,6 +104,36 @@
       },
       {
         "description": "Acquire Potential 3: Barrier Penetration"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Acquire new Captain Ability: Not Translated"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 100"
       }
     ],
     "potential": [
