@@ -52,28 +52,25 @@
   "drop": [
     {
       "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
+      "name": "Protecting Innocent Citizens' Futures",
+      "thumb": 1423,
       "data": [
-        "Chaos"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
+        "Chaos",
+        "Exebition",
         "Underground"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
-        "Exhibition"
       ]
     }
   ],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Protecting Innocent Citizens' Futures",
+      "thumb": 1423,
+      "data": [
+        "Chaos",
+        "Exebition",
+        "Underground"
+      ]
+    }
+  ]
 }
