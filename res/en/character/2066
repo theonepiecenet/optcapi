@@ -1,7 +1,10 @@
 {
   "name": "Knight of the Sea Jinbe, Strawhat Luffy's Accomplice",
   "detail": {
-    "captain": "Boosts ATK of Fighter characters by 3x, their HP by 1.5x and reduces damage received by 7%",
+    "captain": {
+      "base": "Boosts ATK of Fighter characters by 3x, their HP by 1.5x and reduces damage received by 7%",
+      "level1": "Boosts ATK of Fighter characters by 3.5x, their HP by 1.5x and reduces damage received by 15%"
+    },
     "specialName": "Shark Fist Tile Breaker: Great Earth Wave",
     "special": "Deals 60x character's ATK in [INT] damage to all enemies, changes all orbs on Fighter characters into Matching orbs and reduces enemies' Percent Damage Reduction and Increased Defense duration by 5 turns.",
     "sailor": {
@@ -100,6 +103,36 @@
       },
       {
         "description": "Acquire Potential 3: Slot Bind Self-reduction"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Acquire new Captain Ability: Not Translated."
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Boosts base ATK by 100"
       }
     ],
     "potential": [
