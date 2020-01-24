@@ -1,7 +1,10 @@
 {
   "name": "\"King of the Day\" Inuarashi",
   "detail": {
-    "captain": "Boosts ATK of Cerebral characters by 2.75x and chain multiplier by 1.5x if HP is below 30% at the start of the turn, boosts ATK of Cerebral characters by 2.5x otherwise",
+    "captain": {
+      "base": "Boosts ATK of Cerebral characters by 2.75x and chain multiplier by 1.5x if HP is below 30% at the start of the turn, boosts ATK of Cerebral characters by 2.5x otherwise",
+      "level1": "Not Translated"
+    },
     "special": "Reduces crew's current HP by 80%, deals 60x character's ATK in [STR] damage to one enemy and adds 80x character's ATK as Additional Typeless Damage for 1 turn",
     "specialNotes": "#{additionalDamage : 80x}",
     "specialName": "King Sword Shine",
@@ -100,6 +103,36 @@
       },
       {
         "description": "Acquire Potential 3: Enrage"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Acquire new Captain Ability: Not Translated."
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Boosts base ATK by 100"
       }
     ],
     "potential": [

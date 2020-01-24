@@ -1,7 +1,10 @@
 {
   "name": "Hawk Eyes Mihawk, The Black Blade [Yoru]",
   "detail": {
-    "captain": "Boosts ATK of Slasher characters by a variable factor between 1.5x and 3.5x based on the timing of the attack of the previous unit in the chain",
+    "captain": {
+      "base": "Boosts ATK of Slasher characters by a variable factor between 1.5x and 3.5x based on the timing of the attack of the previous unit in the chain",
+      "level1": "Boosts ATK of Slasher characters by a variable factor between 1.5x and 3.75x based on the timing of the attack of the previous unit in the chain and boosts chances of getting Matching orbs"
+    },
     "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 1.5x, a Good hit by 2x, a Great hit by 2.75x and a PERFECT hit by 3.5x. This bonus is applied only to Slasher characters.",
     "special": [
       {
@@ -116,6 +119,36 @@
       },
       {
         "description": "Acquire Potential 3: Critical Hit"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Slasher characters by a variable factor between 1.5x and 3.75x based on the timing of the attack of the previous unit in the chain and boosts chances of getting Matching orbs."
+      },
+      {
+        "description": "Reduce base Special Cooldown by 4 turns"
+      },
+      {
+        "description": "Boosts base ATK by 100"
       }
     ],
     "potential": [

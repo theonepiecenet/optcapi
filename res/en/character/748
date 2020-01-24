@@ -3,7 +3,10 @@
   "detail": {
     "special": "Deals 35x character's ATK in [STR] damage to one enemy, boosts chances of getting Matching orbs for 3 turns",
     "specialName": "Rokuougan",
-    "captain": "Boosts ATK of Powerhouse characters by 3x if they have a Matching orb, by 2.5x otherwise, reduces crew's RCV to 0",
+    "captain": {
+      "base": "Boosts ATK of Powerhouse characters by 3x if they have a Matching orb, by 2.5x otherwise, reduces crew's RCV to 0",
+      "level1": "Not Translated"
+    },
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of Powerhouse characters by 30",
@@ -100,6 +103,36 @@
       },
       {
         "description": "Acquire Potential 3: Reduce No Healing duration"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Acquire new Captain Ability: Not Translated."
+      },
+      {
+        "description": "Reduce base Special Cooldown by 7 turns"
+      },
+      {
+        "description": "Boosts base ATK by 100"
       }
     ],
     "potential": [
