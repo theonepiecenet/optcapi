@@ -4,8 +4,8 @@
     "special": "Reduces crew's current HP by 40%, deals 15x the amount of HP subtracted as Typeless damage to all enemies, boosts ATK of Shooter characters by 2x for 1 turn",
     "specialName": "Great Flame Commandment: Flame Emperor • Flame Wheel",
     "captain": {
-      "base": "Boosts HP of Shooter characters by 1.5x and boosts ATK of Shooter characters by 3.25x if they have a Matching orb, by 2.25x otherwise",
-      "level1": "Boosts HP of Shooter characters by 1.5x and boosts ATK of Shooter characters by 3.75x if they have a Matching orb, by 3.5x otherwise."
+      "base": "Boosts HP of Shooter characters by 1.5x and boosts ATK of Shooter characters by 3.25x if they have a beneficial orb, by 2.25x otherwise",
+      "level1": "Boosts HP of Shooter characters by 1.5x and boosts ATK of Shooter characters by 3.75x if they have a beneficial orb, by 3.5x otherwise."
     },
     "sailor": {
       "base": "None",
@@ -117,7 +117,7 @@
         "description": "Boosts base HP by 100"
       },
       {
-        "description": "Acquire new Captain Ability: Boosts HP of Shooter characters by 1.5x and boosts ATK of Shooter characters by 3.75x if they have a Matching orb, by 3.5x otherwise."
+        "description": "Acquire new Captain Ability: Boosts HP of Shooter characters by 1.5x and boosts ATK of Shooter characters by 3.75x if they have a beneficial orb, by 3.5x otherwise."
       },
       {
         "description": "Boosts base HP by 100"

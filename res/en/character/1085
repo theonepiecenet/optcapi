@@ -2,8 +2,8 @@
   "name": "Issho",
   "detail": {
     "captain": {
-      "base": "Boosts HP of Driven characters by 1.5x and boosts ATK of Driven characters by 3x if they have a Matching orb, by 1.5x otherwise. Makes [TND] and [RCV] orbs beneficial for Driven characters",
-      "level1": "Boosts HP of Driven characters by 1.5x and boosts ATK of Driven characters by 3.5x if they have a Matching orb, by 1.5x otherwise. Makes [TND] and [RCV] orbs beneficial for Driven characters"
+      "base": "Boosts HP of Driven characters by 1.5x and boosts ATK of Driven characters by 3x if they have a beneficial orb, by 1.5x otherwise. Makes [TND] and [RCV] orbs beneficial for Driven characters",
+      "level1": "Boosts HP of Driven characters by 1.5x and boosts ATK of Driven characters by 3.5x if they have a beneficial orb, by 1.5x otherwise. Makes [TND] and [RCV] orbs beneficial for Driven characters"
     },
     "captainNotes": "#{beneficial}",
     "special": "Cuts the current HP of each enemy by 20%. Cuts the current HP of each enemy by 20% at the end of the turn for 3 turns",
@@ -127,7 +127,7 @@
         "description": "Boosts base HP by 150"
       },
       {
-        "description": "Acquire new Captain Ability: Boosts HP of Driven characters by 1.5x and boosts ATK of Driven characters by 3.5x if they have a Matching orb, by 1.5x otherwise. Makes [TND] and [RCV] orbs beneficial for Driven characters."
+        "description": "Acquire new Captain Ability: Boosts HP of Driven characters by 1.5x and boosts ATK of Driven characters by 3.5x if they have a beneficial orb, by 1.5x otherwise. Makes [TND] and [RCV] orbs beneficial for Driven characters."
       },
       {
         "description": "Reduce base Special Cooldown by 2 turns"

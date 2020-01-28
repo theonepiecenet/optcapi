@@ -4,8 +4,8 @@
     "special": "Deals 75x character's ATK as Typeless damage to one enemy, greatly boosts chances of getting Matching orbs for 3 turns",
     "specialName": "Six Powers Supreme: Six King Gun",
     "captain": {
-      "base": "Boosts ATK of Powerhouse characters by 3.5x if they have a Matching orb, by 2.5x otherwise, reduces crew's RCV to 0",
-      "level1": "Boosts ATK of Powerhouse characters by 3.75x if they have a Matching orb, by 2.5x otherwise, reduces crew's RCV to 0"
+      "base": "Boosts ATK of Powerhouse characters by 3.5x if they have a beneficial orb, by 2.5x otherwise, reduces crew's RCV to 0",
+      "level1": "Boosts ATK of Powerhouse characters by 3.75x if they have a beneficial orb, by 2.5x otherwise, reduces crew's RCV to 0"
     },
     "sailor": {
       "base": "None",
@@ -126,7 +126,7 @@
         "description": "Boosts base HP by 150"
       },
       {
-        "description": "Acquire new Captain Ability: Boosts ATK of Powerhouse characters by 3.75x if they have a Matching orb, by 2.5x otherwise, reduces crew's RCV to 0."
+        "description": "Acquire new Captain Ability: Boosts ATK of Powerhouse characters by 3.75x if they have a beneficial orb, by 2.5x otherwise, reduces crew's RCV to 0."
       },
       {
         "description": "Reduce base Special Cooldown by 7 turns"
