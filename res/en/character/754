@@ -56,6 +56,36 @@
       },
       {
         "description": "Acquire Potential 2: Reduce No Healing duration"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 5 turns"
+      },
+      {
+        "description": "Acquire Potential 3: Reduce Ship-Bind duration"
       }
     ],
     "potential": [
@@ -77,6 +107,16 @@
           "Level 3: Reduces No Healing duration by 3 turns",
           "Level 4: Reduces No Healing duration by 4 turns",
           "Level 5: Reduces No Healing duration by 5 turns"
+        ]
+      },
+      {
+        "Name": "Reduce Ship-Bind duration",
+        "description": [
+          "Level 1: Reduce Ship-Bind duration by 1 turn",
+          "Level 2: Reduce Ship-Bind duration by ? turns",
+          "Level 3: Reduce Ship-Bind duration by ? turns",
+          "Level 4: Reduce Ship-Bind duration by ? turns",
+          "Level 5: Reduce Ship-Bind duration by ? turns"
         ]
       }
     ],
