@@ -101,10 +101,22 @@
         "Name": "Slot Bind Reduction",
         "description": [
           "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by ? turns on this character",
-          "Level 3: Reduces Slot Bind duration by ? turns on this character",
-          "Level 4: Reduces Slot Bind duration by ? turns on this character",
-          "Level 5: Reduces Slot Bind duration by ? turns on this character"
+          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
+          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
+          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
+          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+        ]
+      }
+    ],
+    "support": [
+      {
+        "Characters": "Hogback, Perona and Absalom",
+        "description": [
+          "Level 1: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 10% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 13% of this character's base ATK to the supported character's base ATK"
         ]
       }
     ]
