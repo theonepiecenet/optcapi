@@ -1,10 +1,10 @@
 {
   "name": "Marco the Phoenix Whitebeard 1st Div. Commander",
   "detail": {
-    "special": "Recovers 100x character's RCV in HP, amplifies the effect of orbs by 1.5x for 2 turns",
-    "specialNotes": "#{orb : 1.5x}",
+    "special": "Recovers 100x character's RCV in HP and amplifies the effect of orbs by 2x for 1 turn.",
+    "specialNotes": "#{orb : 2x}",
     "specialName": "Blue Flame Kick",
-    "captain": "Reduces damage received by 30% if HP is above 70% at the start of the turn, boosts ATK of [QCK] and [PSY] characters by 2.75x if HP is above 70% at the start the turn",
+    "captain": "Reduces damage received by 30% if HP is above 70% at the start of the turn and boosts ATK of [QCK] and [PSY] characters by 4x if HP is above 99% at the start the turn, by 3.5x otherwise.",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK, HP and RCV of [QCK] and [PSY] characters by 50",
@@ -197,6 +197,16 @@
     25,
     18
   ],
+  "evolution": {
+    "evolution": 2868,
+    "evolvers": [
+      "skullQCK",
+      118,
+      96,
+      301,
+      267
+    ]
+  },
   "evolve": {
     "evolution": 649,
     "evolvers": [
