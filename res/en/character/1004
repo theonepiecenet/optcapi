@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts RCV of all characters by 1.5x",
     "specialName": "Hilarious Combination",
-    "special": "Changes the orbs in the left column into [RCV] orbs"
+    "special": "Changes the orbs in the left column into [RCV] orbs",
+    "support": [
+      {
+        "Characters": "Trafalgar Law, Bepo and Jean Bart",
+        "description": [
+          "Level 1: Adds 6% of this character's base RCV to the supported character's base RCV.",
+          "Level 2: Adds 7% of this character's base RCV to the supported character's base RCV.",
+          "Level 3: Adds 8% of this character's base RCV to the supported character's base RCV.",
+          "Level 4: Adds 10% of this character's base RCV to the supported character's base RCV.",
+          "Level 5: Adds 15% of this character's base RCV to the supported character's base RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "シャチ＆ペンギン ハートの海賊団",

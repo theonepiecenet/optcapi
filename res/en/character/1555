@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of [DEX] characters by 2.25x, recovers 2x character's RCV in HP at the end of each turn",
     "special": "Boosts ATK of [DEX] characters and amplifies the effect of orbs for [DEX] characters by 1.35x for 1 turn",
-    "specialName": "Pure Body and Soul"
+    "specialName": "Pure Body and Soul",
+    "support": [
+      {
+        "Characters": "Doctor Hogback and Gecko Moria",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 9% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "剣豪リューマ 侍の将軍ゾンビ",

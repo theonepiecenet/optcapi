@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of [QCK] characters by 2x",
     "special": "Reduces Bind duration by 3 turns and changes Badly Matching, [BLOCK] and [BOMB] orbs to [EMPTY]",
-    "specialName": "Escape-Escape Fruit"
+    "specialName": "Escape-Escape Fruit",
+    "support": [
+      {
+        "Characters": "Gild Tesoro, Baccarat, Dice and Carina",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "タナカさん 黄金船の警備担当",

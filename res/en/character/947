@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of [INT] characters by 1.5x, boosts damage of [INT] specials by 1.5x",
     "specialName": "Flame Flash",
     "special": "[STR] and [INT] characters gain 1.3x ATK for 1 turn. Deals 10x character's ATK in [INT] damage to all enemies",
-    "captainNotes": "#{noFixedPerc}"
+    "captainNotes": "#{noFixedPerc}",
+    "support": [
+      {
+        "Characters": "Portgas D. Ace and Edward Newgate",
+        "description": [
+          "Level 1: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 2: Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 3: Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 4: Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 5: Adds 12% of this character's base HP and RCV to the supported character's base HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "フォッサ 白ひげ海賊団１５番隊隊長",

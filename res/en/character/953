@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK and HP of Shooter and Striker characters by 1.5x",
     "specialName": "Life-saving Gunstock Blow",
-    "special": "Deals 13x ATK in [DEX] Damage to one enemy. Changes Captain's orb into Matching."
+    "special": "Deals 13x ATK in [DEX] Damage to one enemy. Changes Captain's orb into Matching.",
+    "support": [
+      {
+        "Characters": "Shanks and Yasopp",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 8% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 10% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "ベン・ベックマン 赤髪海賊団",

@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Slasher characters by 2x and boosts HP of Driven characters by 1.75x",
     "special": "Reduces crew's HP by 70%, deals 15x ATK in [QCK] damage to all enemies. Boosts ATK of Slasher and Driven characters by 1.5x for 1 turn.",
-    "specialName": "Seven Stars Sword of Darkness"
+    "specialName": "Seven Stars Sword of Darkness",
+    "support": [
+      {
+        "Characters": "Roronoa Zoro",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 8% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 10% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "サガ 呪われた聖剣",

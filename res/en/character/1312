@@ -4,7 +4,19 @@
     "captain": "Boosts ATK and HP of Powerhouse characters by 1.75x",
     "special": "Deals 20x character's ATK in [INT] damage to all enemies. Reduces enemy Threshold Damage Reduction duration by 1 turn",
     "specialNotes": "Damage Threshold is the buff enemies gain that greatly reduces damage received over a certain amount",
-    "specialName": "King Cobra Machetes"
+    "specialName": "King Cobra Machetes",
+    "support": [
+      {
+        "Characters": "Boa Hancock and Boa Sandersonia",
+        "description": [
+          "Level 1: Adds 5% of this character's base HP to the supported character's base HP",
+          "Level 2: Adds 6% of this character's base HP to the supported character's base HP",
+          "Level 3: Adds 8% of this character's base HP to the supported character's base HP",
+          "Level 4: Adds 10% of this character's base HP to the supported character's base HP",
+          "Level 5: Adds 13% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ボア・マリーゴールド ゴルゴン三姉妹・三女",

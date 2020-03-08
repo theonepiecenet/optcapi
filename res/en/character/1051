@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of [PSY] characters by 2x",
     "special": "Reduces Bind duration by 4 turns and Reduces damage received by 50% for 2 turns",
-    "specialName": "Dereshishishi Towards Hope"
+    "specialName": "Dereshishishi Towards Hope",
+    "support": [
+      {
+        "Characters": "Nico Robin and Nico Olvia",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "ハグワール・D・サウロ 海軍本部中将",

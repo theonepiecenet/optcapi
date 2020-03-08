@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Striker characters by 2x and their HP by 1.5x",
     "special": "Randomizes all orbs, including [BLOCK] orbs, into [STR], [DEX], [QCK], [INT], or [PSY] orbs and changes own orb into [INT]",
-    "specialName": "The Spear that Penetrated the Undersea Mountain"
+    "specialName": "The Spear that Penetrated the Undersea Mountain",
+    "support": [
+      {
+        "Characters": "Hody Jones, Hyouzou, Daruma, Zeo and Dosun",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "イカロス・ムッヒ 反逆の魚人海賊",

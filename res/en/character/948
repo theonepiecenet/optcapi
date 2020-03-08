@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of Shooter characters by 1.5x and their RCV by 1.2x",
     "specialName": "Twin Cannons",
     "special": "Randomizes all orbs to either [STR] or [INT]. Deals random [STR] damage",
-    "specialNotes": "#{random : 7,000 : 18,000}"
+    "specialNotes": "#{random : 7,000 : 18,000}",
+    "support": [
+      {
+        "Characters": "Portgas D. Ace and Edward Newgate",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 2: Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 3: Adds 5% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 4: Adds 7% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Level 5: Adds 9% of this character's base ATK and RCV to the supported character's base ATK and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "クリエル 白ひげ海賊団１０番隊隊長",

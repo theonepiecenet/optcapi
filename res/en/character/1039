@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK and RCV of [DEX] and [QCK] characters by 1.5x",
     "special": "Switches orbs between slots once, recovers 0.3x character's RCV in HP",
-    "specialName": "Great Scissors"
+    "specialName": "Great Scissors",
+    "support": [
+      {
+        "Characters": "Emporio Ivankov",
+        "description": [
+          "Level 1: Adds 6% of this character's base RCV to the supported character's base RCV.",
+          "Level 2: Adds 7% of this character's base RCV to the supported character's base RCV.",
+          "Level 3: Adds 8% of this character's base RCV to the supported character's base RCV.",
+          "Level 4: Adds 10% of this character's base RCV to the supported character's base RCV.",
+          "Level 5: Adds 15% of this character's base RCV to the supported character's base RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "イナズマ 変革を画策する乙女",

@@ -82,7 +82,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "[DEX] characters",
+        "description": [
+          "Level 1: Once per an adventure, when the enemy applies ATK UP, reduces any damage received above 5,000 HP by ?% for 1 turn.",
+          "Level 2: Once per an adventure, when the enemy applies ATK UP, reduces any damage received above 5,000 HP by ?% for 1 turn.",
+          "Level 3: Once per an adventure, when the enemy applies ATK UP or Enrage, reduces any damage received above 4,000 HP by ?% for 1 turn.",
+          "Level 4: Once per an adventure, when the enemy applies ATK UP or Enrage, reduces any damage received above 4,000 HP by ?% for 1 turn.",
+          "Level 5: Once per an adventure, when the enemy applies ATK UP or Enrage, reduces any damage received above 3,000 HP by ?% for 1 turn."
+        ]
+      }
+    ]
   },
   "aliases": [
     "ロロノア・ゾロ_獅子歌歌（ししソンソン）",

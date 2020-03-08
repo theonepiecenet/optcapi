@@ -4,7 +4,19 @@
     "special": "Delays all enemies for 1 turn, recovers a small random amount of HP",
     "specialName": "Smile of a Natural Beauty",
     "specialNotes": "#{randomHeal : ? : ?}",
-    "captain": "Boosts ATK of Slasher characters by 2x and their RCV by 1.5x"
+    "captain": "Boosts ATK of Slasher characters by 2x and their RCV by 1.5x",
+    "support": [
+      {
+        "Characters": "Smoker",
+        "description": [
+          "Level 1: Reduces damage received from [PSY] characters by 1%. Adds 4% of this character's base HP to the supported character's base HP.",
+          "Level 2: Reduces damage received from [PSY] characters by 2%. Adds 5% of this character's base HP to the supported character's base HP.",
+          "Level 3: Reduces damage received from [PSY] characters by 3%. Adds 7% of this character's base HP to the supported character's base HP.",
+          "Level 4: Reduces damage received from [PSY] characters by 4%. Adds 10% of this character's base HP to the supported character's base HP.",
+          "Level 5: Reduces damage received from [PSY] characters by 5%. Adds 12% of this character's base HP to the supported character's base HP."
+        ]
+      }
+    ]
   },
   "aliases": [
     "たしぎ 海軍本部少尉・正義の華",

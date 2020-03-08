@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Reduces damage received by 25%",
     "special": "Reduces damage received by 60% and boosts ATK of Powerhouse and Fighter characters by 1.3x for 1 turn",
-    "specialName": "Iron Mass: Ring Sneak Attack"
+    "specialName": "Iron Mass: Ring Sneak Attack",
+    "support": [
+      {
+        "Characters": "Kalifa, Rob Lucci, Kaku, Jabra, Fukuro, Kumadori and Spandam",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 2: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 3: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 4: Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP.",
+          "Level 5: Adds 9% of this character's base ATK and HP to the supported character's base ATK and HP."
+        ]
+      }
+    ]
   },
   "aliases": [
     "ブルーノ 世界政府直下暗躍諜報機関",

@@ -19,7 +19,19 @@
       }
     ],
     "specialNotes": "The exact multiplier used is chosen based on the crew's current HP at the time the special is activated: above 50% HP, the multiplier used is 50%; between 50% and 10%, it's 80%; below 10% HP, it's 100%.<br>#{stages}",
-    "specialName": "Snake Dance"
+    "specialName": "Snake Dance",
+    "support": [
+      {
+        "Characters": "Boa Hancock and Boa Marigold",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 9% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ボア・サンダーソニア ゴルゴン三姉妹・次女",

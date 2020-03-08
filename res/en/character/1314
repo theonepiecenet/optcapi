@@ -163,7 +163,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "[STR] characters",
+        "description": [
+          "Level 1: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, changes supported character's orb into a [STR] orb and boosts ATK of [STR] characters by 1.1x for 1 turn.",
+          "Level 2: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, changes supported character's orb into a [STR] orb and boosts ATK of [STR] characters by 1.2x for 1 turn.",
+          "Level 3: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, changes supported character's orb into a [STR] orb and boosts ATK of [STR] characters by 1.3x for 1 turn.",
+          "Level 4: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, changes supported character's orb into a [STR] orb and boosts ATK of [STR] characters by 1.4x for 1 turn.",
+          "Level 5: Once per an adventure, when the supported character uses a Damage Dealing or Health Cutting special, changes all orbs into [STR] orbs and boosts ATK of [STR] characters by 1.5x for 1 turn."
+        ]
+      }
+    ]
   },
   "aliases": [
     "サカズキ",

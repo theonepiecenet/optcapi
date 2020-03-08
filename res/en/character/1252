@@ -5,7 +5,19 @@
     "special": "Changes adjacent orbs into [INT] orbs. Deals 20x character's ATK in [INT] damage to all enemies.",
     "specialName": "Reversed Twin Blades - Surprise Thrust",
     "sailor": "Reduces own Silence by 1 turn",
-    "sailorNotes": "#{silence}"
+    "sailorNotes": "#{silence}",
+    "support": [
+      {
+        "Characters": "Portgas D. Ace and Edward Newgate",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 9% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "遊騎士ドーマ 白ひげ海賊団傘下",

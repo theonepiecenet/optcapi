@@ -168,7 +168,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Akainu, Kizaru, Sengoku and Tsuru",
+        "description": [
+          "Level 1: Reduces damage received from [PSY] characters by 1%. Adds 3% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Reduces damage received from [PSY] characters by 2%. Adds 5% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Reduces damage received from [PSY] characters by 3%. Adds 7% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Reduces damage received from [PSY] characters by 4%. Adds 10% of this character's base ATK to the supported character's base ATK.",
+          "Level 5: Reduces damage received from [PSY] characters by 5%. Adds 13% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
   },
   "aliases": [
     "イッショウ",
