@@ -53,7 +53,7 @@
         "description": "Acquire 1 additional Socket slot"
       },
       {
-        "description": "Acquire Potential 2: Slot Bind Reduction"
+        "description": "Acquire Potential 2: Reduce Slot Bind duration"
       }
     ],
     "potential": [
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "Name": "Slot Bind Reduction",
+        "Name": "Reduce Slot Bind duration",
         "description": [
           "Level 1: Reduces Slot Bind duration by 1 turn on this character",
           "Level 2: Reduces Slot Bind duration by 2 turns on this character",
