@@ -3,7 +3,7 @@
   "detail": {
     "captain": "Boosts ATK of Striker characters by a variable amount depending on how many Strikers are on your team. If you don't attack with Bartolomeo, reduces damage received by 30% for that turn.",
     "captainNotes": "ATK boost with 1 Striker is 1.25x. With 2 Strikers: 1.5x. With 3 Strikers: 1.75x. With 4 Strikers: 2x. With 5 Stikers: 2.5x. With 6 Strikers: 2.75x",
-    "special": "Protects from defeat for 1 turn and deals several times character's ATK as Typeless damage to one enemy",
+    "special": "Protects from defeat for 1 turn and deals several times character's ATK in Typeless damage to one enemy",
     "specialNotes": "#{specialProportional : lower : 150 * ( 1 - (remaining HP) / (total HP) )} <br> #{zombie}",
     "specialName": "Bari Bari No Pistol",
     "sailor": {

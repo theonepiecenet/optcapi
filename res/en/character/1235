@@ -5,32 +5,7 @@
     "special": "Deals several times the character's ATK in [PSY] damage to one enemy. Delays all enemies for 1 turn",
     "specialNotes": "#{specialProportional : higher : 10x + (25x * (remaining HP) / (total HP)) }",
     "specialName": "Sword of Silence",
-    "sailor": {
-      "base": "Reduces Blindness duration for 3 turns",
-      "level1": ""
-    },
-    "potential": [
-      {
-        "Name": "Pinch Healing",
-        "description": [
-          "Level 1: If HP is below 10% at the start of the turn, heals for 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below ?% at the start of the turn, heals for ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
-        ]
-      },
-      {
-        "Name": "Reduce No Healing duration",
-        "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by ? turns",
-          "Level 3: Reduces No Healing duration by ? turns",
-          "Level 4: Reduces No Healing duration by ? turns",
-          "Level 5: Reduces No Healing duration by ? turns"
-        ]
-      }
-    ]
+    "sailor": "Reduces Blindness duration for 3 turns"
   },
   "aliases": [
     "メイナード 海軍本部中将",
