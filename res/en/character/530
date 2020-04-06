@@ -3,7 +3,10 @@
   "detail": {
     "special": "Deals 35x character's ATK in [PSY] damage to all enemies, reduces the defense of all enemies by 100% for 2 turns",
     "specialName": "Conqueror's Haki: Emperor",
-    "captain": "Boosts chances of getting [PSY] orbs, boosts ATK of [PSY] characters proportionally to the crew's current HP",
+    "captain": {
+      "base": "Boosts chances of getting [PSY] orbs, boosts ATK of [PSY] characters proportionally to the crew's current HP",
+      "level1": "Not Translated"
+    },
     "captainNotes": "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}",
     "sailor": {
       "base": "None",
@@ -101,6 +104,36 @@
       },
       {
         "description": "Acquire Potential 3: Critical Hit"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Acquire new Captain Ability: Not Translated."
+      },
+      {
+        "description": "Reduce base Special Cooldown by 6 turns"
+      },
+      {
+        "description": "Boosts base ATK by 200"
       }
     ],
     "potential": [

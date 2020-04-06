@@ -4,7 +4,10 @@
     "special": "Deals random [PSY] damage to all enemies, boosts ATK of all characters by 1.5x for 1 turn",
     "specialName": "Zen Shockwave",
     "specialNotes": "#{random : 30,000 : 150,000}",
-    "captain": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of characters with cost 20 or less or 54 cost exactly by 3x",
+    "captain": {
+      "base": "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of characters with cost 20 or less or 54 cost exactly by 3x",
+      "level1": "Not Translated"
+    },
     "captainNotes": "His captain ability also affects his evolved forms, his base form will NOT receive the boost. All evolved and plus evolved Sengoku characters in the team are included in the bonus.",
     "sailor": {
       "base": "None",
@@ -102,6 +105,36 @@
       },
       {
         "description": "Acquire Potential 3: Enrage"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Acquire new Captain Ability: Not Translated"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 6 turns"
+      },
+      {
+        "description": "Boosts base ATK by 100"
       }
     ],
     "potential": [

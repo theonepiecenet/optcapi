@@ -1,7 +1,10 @@
 {
   "name": "Red Hair Shanks, Four Emperors",
   "detail": {
-    "captain": "Boosts ATK of [PSY] characters by 2.75x and their HP by 1.3x. Boosts chances of getting [PSY] orbs proportionally to the crew's current HP.",
+    "captain": {
+      "base": "Boosts ATK of [PSY] characters by 2.75x and their HP by 1.3x. Boosts chances of getting [PSY] orbs proportionally to the crew's current HP.",
+      "level1": "Boosts ATK of [PSY] characters by 4.25x if they have a beneficial orb, by 3.5x otherwise, boosts their HP by 1.3x, and greatly boosts chance of getting PSY orbs proportionally to crew's current HP"
+    },
     "captainNotes": "At 1 HP, the rate of [PSY] orbs is ?% and at full HP, the rate of [PSY] orbs is ?%",
     "special": "Reduces the defense of all enemies by 100% for 1 turn, deals 75x character's ATK in Typeless damage to one enemy and changes all orbs to [PSY] orbs",
     "specialName": "One-Armed Man that Splits the Heavens",
@@ -101,6 +104,36 @@
       },
       {
         "description": "Acquire Potential 3: Critical Hit"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of [PSY] characters by 4.25x if they have a beneficial orb, by 3.5x otherwise, boosts their HP by 1.3x, and greatly boosts chance of getting PSY orbs proportionally to crew's current HP."
+      },
+      {
+        "description": "Reduce base Special Cooldown by 6 turns"
+      },
+      {
+        "description": "Boosts base ATK by 200"
       }
     ],
     "potential": [

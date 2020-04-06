@@ -1,7 +1,10 @@
 {
   "name": "Haruta, Gale Small Swordsman",
   "detail": {
-    "captain": "Boosts ATK of Slasher and Cerebral characters by 1.75x. Gives chance of duplicating a drop upon completion of the island.",
+    "captain": {
+      "base": "Boosts ATK of Slasher and Cerebral characters by 1.75x. Gives chance of duplicating a drop upon completion of the island.",
+      "level1": "Boosts ATK of Slasher and Cerebral characters by 3x. Gives chance of duplicating a drop upon completion of the island."
+    },
     "captainNotes": "Does not work if he was not your captain upon starting the island. Stacks with other additional drop captains, giving you two chances of getting an extra drop.",
     "special": [
       {
@@ -71,6 +74,36 @@
       },
       {
         "description": "Acquire Potential 2: Critical Hit"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Acquire new Captain Ability: Boosts ATK of Slasher and Cerebral characters by 3x. Gives chance of duplicating a drop upon completion of the island."
+      },
+      {
+        "description": "Acquire Potential 3: Reduce Ship Bind duration"
       }
     ],
     "potential": [
@@ -92,6 +125,16 @@
           "Level 3: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
           "Level 4: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage",
           "Level 5: If you hit a PERFECT with this character, there is a ?% chance to deal ?% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Reduce Ship Bind duration",
+        "description": [
+          "Level 1: Reduce Ship Bind duration by 1 turn",
+          "Level 2: Reduce Ship Bind duration by ? turns",
+          "Level 3: Reduce Ship Bind duration by ? turns",
+          "Level 4: Reduce Ship Bind duration by ? turns",
+          "Level 5: Reduce Ship Bind duration by ? turns"
         ]
       }
     ],
