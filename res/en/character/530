@@ -5,7 +5,7 @@
     "specialName": "Conqueror's Haki: Emperor",
     "captain": {
       "base": "Boosts chances of getting [PSY] orbs, boosts ATK of [PSY] characters proportionally to the crew's current HP",
-      "level1": "Not Translated"
+      "level1": "Boosts ATK of [PSY] characters by 3.5x, boosts their HP by 1.3x and boosts chance of getting PSY orbs proportionally to crew's current HP."
     },
     "captainNotes": "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}",
     "sailor": {
@@ -127,7 +127,7 @@
         "description": "Boosts base ATK by 100"
       },
       {
-        "description": "Acquire new Captain Ability: Not Translated."
+        "description": "Acquire new Captain Ability: Boosts ATK of [PSY] characters by 3.5x, boosts their HP by 1.3x and boosts chance of getting PSY orbs proportionally to crew's current HP."
       },
       {
         "description": "Reduce base Special Cooldown by 6 turns"
