@@ -11,7 +11,7 @@
       "level6": "Boosts ATK of all characters proportionally to the crew's current HP, by 3.25x at max and their HP by 1.35x"
     },
     "captainNotes": "#{captainProportional : lower : 1 + 2.25 * (1 - (remaining HP) / (total HP)) : 1 : 3.25}",
-    "special": "Changes own orb into [INT], deals 100x character's ATK in Typeless damage to all enemies that will ignore damage negating abilities and barriers. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, amplifies the effect of orbs by 2x for 1 turn. If enemies have a barrier at the time the special was activated, boosts own ATK by 2.25x",
+    "special": "Changes own orb into [INT], deals 100x character's ATK in Typeless damage to all enemies that will ignore damage negating abilities and barriers. If enemies have All Debuff Protection or Delay Debuff Protection at the time the special was activated, amplifies the effect of orbs of all characters by 2x for 1 turn. If enemies have a barrier at the time the special was activated, boosts own ATK by 2.25x",
     "specialNotes": "#{ignoreBarrier}",
     "specialName": "The Epicenter of the Halberd",
     "sailor": {
