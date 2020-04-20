@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Cerebral characters by 1.75x and the HP of Striker characters by 1.75x",
     "special": "Boosts RCV of all characters by 1.75x and delays all enemies by 1 turn.",
-    "specialName": "The Long Legged Gentleman's Resolution"
+    "specialName": "The Long Legged Gentleman's Resolution",
+    "support": [
+      {
+        "Characters": "Pekoms and Charlotte Linlin/Big Mom",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "タマゴ男爵 ビッグ・マム海賊団",

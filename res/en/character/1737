@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of [INT] characters by 2.25x and their HP by 1.2x. Reduces damage received by 10%",
     "special": "Delays all enemies for 1 turn and deals 20x character's ATK as [INT] damage to all enemies at the end of the turn for 2 turns",
-    "specialName": "Sticky Sticky Burning Explosion"
+    "specialName": "Sticky Sticky Burning Explosion",
+    "support": [
+      {
+        "Characters": "Donquixote Doflamingo and Sugar",
+        "description": [
+          "Level 1: Reduces damage received from [DEX] characters by 1%.",
+          "Level 2: Reduces damage received from [DEX] characters by 1%.",
+          "Level 3: Reduces damage received from [DEX] characters by 2%.",
+          "Level 4: Reduces damage received from [DEX] characters by 2%.",
+          "Level 5: Reduces damage received from [DEX] characters by 3%."
+        ]
+      }
+    ]
   },
   "aliases": [
     "トレーボル ドンキホーテファミリー最高幹部",

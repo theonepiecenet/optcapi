@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK and RCV of Cerebral characters by 1.2x",
     "special": "Recovers 10x character's RCV in HP. Boosts ATK and RCV of Cerebral characters by 1.5x for 1 turn",
-    "specialName": "Observing within the Snow Storm"
+    "specialName": "Observing within the Snow Storm",
+    "support": [
+      {
+        "Characters": "Caesar Clown/Gastino and Vergo",
+        "description": [
+          "Level 1: Adds 3% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Adds 9% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "モネ ユキユキの実の雪女",

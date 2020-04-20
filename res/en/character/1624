@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Slasher characters by 1.5x and boosts HP of Powerhouse characters by 1.25x",
     "special": "Randomizes all orbs, cuts the current HP of all enemies by 10% and Poisons all enemies.",
-    "specialName": "Flexible Six Swords"
+    "specialName": "Flexible Six Swords",
+    "support": [
+      {
+        "Characters": "Hody Jones, Icaros Much, Daruma, Zeo and Dosun",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 6% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ヒョウゾウ 魚人海賊の用心棒",

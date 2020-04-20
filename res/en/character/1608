@@ -4,7 +4,19 @@
     "captain": "Boosts ATK and RCV of [INT] characters by 1.5x",
     "special": "For each enemy, has an extremely small chance to instantly defeat that enemy.",
     "specialNotes": "#{instantKill : <1%}",
-    "specialName": "Vile Fruit"
+    "specialName": "Vile Fruit",
+    "support": [
+      {
+        "Characters": "Marshall D. Teach/Blackbeard, Jesus Burgess/Mr. Store, Lafitte and Van Augur",
+        "description": [
+          "Level 1: Adds 3% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Adds 9% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ドクＱ 黒ひげ海賊団",

@@ -5,7 +5,19 @@
     "special": "Removes Poison duration completely, boosts ATK of Powerhouse characters by 1.5x for 1 turn if HP is below 30%",
     "specialName": "Enlightened Spirit",
     "sailor": "Makes [RCV] orbs beneficial for this character if your Captain is a Powerhouse character",
-    "sailorNotes": "#{beneficial}"
+    "sailorNotes": "#{beneficial}",
+    "support": [
+      {
+        "Characters": "Haruta, Speed Jill and Atmos",
+        "description": [
+          "Level 1: Adds 2% of this character's base HP to the supported character's base HP",
+          "Level 2: Adds 3% of this character's base HP to the supported character's base HP",
+          "Level 3: Adds 4% of this character's base HP to the supported character's base HP",
+          "Level 4: Adds 6% of this character's base HP to the supported character's base HP",
+          "Level 5: Adds 8% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "キングデュー 白ひげ海賊団１１番隊隊長",

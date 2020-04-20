@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of Slasher characters by 2x, recovers 2x character's RCV in HP at the end of each turn",
     "specialName": "Ties with Ace",
     "special": "Reduces Silence duration by 3 turns and recovers 4,000 HP",
-    "specialNotes": "#{silence}"
+    "specialNotes": "#{silence}",
+    "support": [
+      {
+        "Characters": "Portgas D. Ace",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "サッチ 白ひげ海賊団４番隊隊長",

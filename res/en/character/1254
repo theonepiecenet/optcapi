@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of Striker characters by 2.5x until the first hit other than PERFECT. Reduces crew's current HP by 5% at the end of each turn.",
     "special": "Deals 10x character's ATK in Fixed damage to one enemy, reduces crews current HP by 30% and reduces the defense of all enemies by 80% for one turn",
     "specialName": "Sword Attack Without Hesitation",
-    "sailor": "Reduces his own Numbness by 1 turn"
+    "sailor": "Reduces his own Numbness by 1 turn",
+    "support": [
+      {
+        "Characters": "Whitey Bay, Decalvan Brothers and Edward Newgate/Whitebeard",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Adds 3% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Adds 4% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Adds 5% of this character's base ATK to the supported character's base ATK.",
+          "Level 5: Adds 6% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
   },
   "aliases": [
     "大渦蜘蛛スクアード 白ひげ海賊団傘下",

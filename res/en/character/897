@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Cerebral and Driven characters by 2x",
     "specialName": "Ground Death: Thirst",
-    "special": "Cuts the current HP of all enemies by 10%, randomizes all orbs and changes own orb into [STR]"
+    "special": "Cuts the current HP of all enemies by 10%, randomizes all orbs and changes own orb into [STR]",
+    "support": [
+      {
+        "Characters": "Cerebral characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 5% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "サー・クロコダイル 砂の武将",

@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Cerebral characters by 2x. If you don't attack with Mr. 3, reduces damage received by 10% for that turn.",
     "special": "Reduces damage received by 60% for 2 turns",
-    "specialName": "Extra Large Candle Wall"
+    "specialName": "Extra Large Candle Wall",
+    "support": [
+      {
+        "Characters": "Buggy",
+        "description": [
+          "Level 1: Reduces damage received from [PSY] characters by 1%.",
+          "Level 2: Reduces damage received from [PSY] characters by 1%.",
+          "Level 3: Reduces damage received from [PSY] characters by 2%.",
+          "Level 4: Reduces damage received from [PSY] characters by 2%.",
+          "Level 5: Reduces damage received from [PSY] characters by 3%."
+        ]
+      }
+    ]
   },
   "aliases": [
     "脱走囚　ギャルディーノ 脱獄同盟",

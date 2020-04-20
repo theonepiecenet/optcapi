@@ -4,7 +4,19 @@
     "captain": "Boosts chain multiplier by 2x. Recovers 2x character's RCV in HP at the end of each turn",
     "special": "Deals 11x character's ATK in [STR] damage to one enemy. Adds 15x character's ATK as Additional Typeless Damage for 1 turn",
     "specialNotes": "#{additionalDamage : 15x}",
-    "specialName": "Fishman Karate, Midair Upwards Kick"
+    "specialName": "Fishman Karate, Midair Upwards Kick",
+    "support": [
+      {
+        "Characters": "Sabo and Hack",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+          "Level 2: Adds 2% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+          "Level 3: Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+          "Level 4: Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV.",
+          "Level 5: Adds 5% of this character's base ATK and RCV to the supported character's base ATK and RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "コアラ 革命軍・魚人空手師範代",

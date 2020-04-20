@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of [DEX] characters by 1.75x and their RCV by 1.2x",
     "special": "Randomizes all non-Matching orbs, switches orbs between slots two times and delays all enemies for 1 turn",
-    "specialName": "A Warning to the Fool"
+    "specialName": "A Warning to the Fool",
+    "support": [
+      {
+        "Characters": "Camie and Pappagu",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "マダム・シャーリー マーメイドカフェ　店長",

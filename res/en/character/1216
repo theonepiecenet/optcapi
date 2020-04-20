@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of Powerhouse characters by 2x and reduces damage received based on current HP by up to 20%",
     "captainNotes": "The lower the HP, the larger the damage reduction. At 50% HP you take 10% reduced damage",
     "special": "Reduces damage received by 50% for 1 turn and changes own orb into [QCK]",
-    "specialName": "Camouflage Air"
+    "specialName": "Camouflage Air",
+    "support": [
+      {
+        "Characters": "Byrnndi World, Gairam and Nightin",
+        "description": [
+          "Level 1: Adds 3% of this character's base HP to the supported character's base HP.",
+          "Level 2: Adds 4% of this character's base HP to the supported character's base HP.",
+          "Level 3: Adds 5% of this character's base HP to the supported character's base HP.",
+          "Level 4: Adds 6% of this character's base HP to the supported character's base HP.",
+          "Level 5: Adds 8% of this character's base HP to the supported character's base HP."
+        ]
+      }
+    ]
   },
   "aliases": [
     "セバスチャン ワールド海賊団",

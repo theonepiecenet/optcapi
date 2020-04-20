@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight. Boosts ATK of Slasher characters by 2x",
     "special": "Cuts the current HP of one enemy by 10%, if HP is full at the time the special was activated, changes top row orbs into Matching orbs",
-    "specialName": "Break by the Fireplace"
+    "specialName": "Break by the Fireplace",
+    "support": [
+      {
+        "Characters": "Monkey D. Luffy, Portgas D. Ace and Sabo",
+        "description": [
+          "Level 1: Reduces damage received from [INT] characters by 1%.",
+          "Level 2: Reduces damage received from [INT] characters by 1%.",
+          "Level 3: Reduces damage received from [INT] characters by 2%.",
+          "Level 4: Reduces damage received from [INT] characters by 2%.",
+          "Level 5: Reduces damage received from [INT] characters by 3%."
+        ]
+      }
+    ]
   },
   "aliases": [
     "カーリー・ダダン ダダン一家　棟梁",

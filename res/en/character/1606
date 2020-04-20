@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK and RCV of [PSY] characters by 1.75x",
     "special": "Randomly shuffles non-Matching orbs on Shooter characters, reduces the defense of all enemies by 50% for 1 turn and delays all enemies for 1 turn",
-    "specialName": "Deprivation of Self-Consciousness"
+    "specialName": "Deprivation of Self-Consciousness",
+    "support": [
+      {
+        "Characters": "Marshall D. Teach/Blackbeard, Doc Q, Van Augur and Jesus Burgess/Mr. Store",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ラフィット 黒ひげ海賊団",

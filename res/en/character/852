@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Driven characters by 2x",
     "specialName": "Snow Country Speciality: Snow Powder Makeup",
-    "special": "Deals 20x character's ATK in character's Type damage to one enemy, locks all orbs for 1 turn"
+    "special": "Deals 20x character's ATK in character's Type damage to one enemy, locks all orbs for 1 turn",
+    "support": [
+      {
+        "Characters": "[QCK] characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 2: Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 3: Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 4: Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Level 5: Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "スリムアップワポル",

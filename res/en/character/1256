@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of Slasher and Driven characters by 2x and reduces their RCV by 90%",
     "special": "For Slasher and Driven characters, randomizes non-Matching orbs, boosts ATK against enemies with increased defense by 1.3x for 1 turn",
     "sailor": "Boosts base ATK and RCV of Driven characters by 10",
-    "specialName": "Icebreaker Breakthrough Force"
+    "specialName": "Icebreaker Breakthrough Force",
+    "support": [
+      {
+        "Characters": "Decalvan Brothers, Whitey Bay and Edward Newgate/Whitebeard",
+        "description": [
+          "Level 1: Adds 3% of this character's base RCV to the supported character's base RCV.",
+          "Level 2: Adds 4% of this character's base RCV to the supported character's base RCV.",
+          "Level 3: Adds 5% of this character's base RCV to the supported character's base RCV.",
+          "Level 4: Adds 7% of this character's base RCV to the supported character's base RCV.",
+          "Level 5: Adds 9% of this character's base RCV to the supported character's base RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "“氷の魔女”ホワイティベイ 白ひげ海賊団傘下",

@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of Driven characters by 2x and the HP of Striker characters by 1.5x",
     "special": "Deals 7 hits of random [DEX] damage to random enemies. Reduces the defense of all enemies by 80% and delays all enemies for 1 turn",
     "specialName": "Surprise Jitte Onslaught",
-    "specialNotes": "#{randomHits : 7}"
+    "specialNotes": "#{randomHits : 7}",
+    "support": [
+      {
+        "Characters": "Striker characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 5% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "たしぎ　七尺十手 シャンブルズ",

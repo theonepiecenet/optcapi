@@ -4,7 +4,19 @@
     "captain": "Boosts ATK and RCV of [PSY] characters by 1.5x, when HP is low the ATK multiplier becomes 2.25x",
     "captainNotes": "The low HP threshold is estimated to be 30%",
     "special": "Reduces Paralysis duration by 3 turns and Recovers 4x character's RCV in HP at the end of each turn for 3 turns",
-    "specialName": "Mother's Wish to Fight The World"
+    "specialName": "Mother's Wish to Fight The World",
+    "support": [
+      {
+        "Characters": "Nice Robin",
+        "description": [
+          "Level 1: Adds 3% of this character's base RCV to the supported character's base RCV.",
+          "Level 2: Adds 4% of this character's base RCV to the supported character's base RCV.",
+          "Level 3: Adds 5% of this character's base RCV to the supported character's base RCV.",
+          "Level 4: Adds 7% of this character's base RCV to the supported character's base RCV.",
+          "Level 5: Adds 8% of this character's base RCV to the supported character's base RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "ニコ・オルビア オハラの考古学者",

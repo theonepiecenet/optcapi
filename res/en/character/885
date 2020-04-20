@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Fighter characters by 2x, reduces damage received by 10%",
     "specialName": "Arabesque Brick Fist: Sun",
-    "special": "Cuts the current HP of each enemy by 10%, boosts ATK of Fighter characters by 1.5x for 1 turn if HP is below 30% when the special is activated"
+    "special": "Cuts the current HP of each enemy by 10%, boosts ATK of Fighter characters by 1.5x for 1 turn if HP is below 30% when the special is activated",
+    "support": [
+      {
+        "Characters": "Powerhouse characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 5% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ジンベエ 鮫の武人",

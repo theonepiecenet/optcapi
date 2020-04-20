@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts RCV of [DEX] characters by 1.5x and boosts ATK of [DEX] characters by 3x if they have a beneficial orb, by 1.5x otherwise.",
     "special": "Changes [BLOCK], [TND], [EMPTY] and [BOMB] orbs into [DEX] orbs and amplifies the effect of orbs of all characters by 1.5x for 1 turn",
-    "specialName": "Eyes Blinded by True Beauty"
+    "specialName": "Eyes Blinded by True Beauty",
+    "support": [
+      {
+        "Characters": "Nami, Tony Tony Chopper and Sanji",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "ブルック サイケデリックアート",

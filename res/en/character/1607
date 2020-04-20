@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Shooters by 2x",
     "special": "Deals 10x character's ATK in [DEX] damage to one enemy, locks orbs for 1 turn and boosts ATK of Shooter characters by 1.5x for 1 turn",
-    "specialName": "Painless Bullet"
+    "specialName": "Painless Bullet",
+    "support": [
+      {
+        "Characters": "Marshall D. Teach/Blackbeard, Doc Q, Jesus Burgess/Mr. Store and Lafitte",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 6% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ヴァン・オーガー 黒ひげ海賊団",

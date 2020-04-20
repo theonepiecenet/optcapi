@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Cerebral characters by 2x.",
     "special": "Reduces crew's current HP by 80%, deals 6x the removed HP as damage to all enemies. Reduces damage received by 80% for 1 turn.",
-    "specialName": "Mass Juggling"
+    "specialName": "Mass Juggling",
+    "support": [
+      {
+        "Characters": "Shiki, Captain Scarlet",
+        "description": [
+          "Level 1: Adds 3% of this character's base RCV to the supported character's base RCV.",
+          "Level 2: Adds 4% of this character's base RCV to the supported character's base RCV.",
+          "Level 3: Adds 5% of this character's base RCV to the supported character's base RCV.",
+          "Level 4: Adds 7% of this character's base RCV to the supported character's base RCV.",
+          "Level 5: Adds 8% of this character's base RCV to the supported character's base RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "Dr.インディゴ 金獅子海賊団",

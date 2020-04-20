@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of characters with cost 20 or less by 2x and boosts the HP of Powerhouse characters by 1.2x",
     "special": "Deals 20x ATK in [STR] damage to one enemy. Boosts ATK of Powerhouse characters by 1.5x for 1 turn.",
-    "specialName": "Emerald Porcupine Robe"
+    "specialName": "Emerald Porcupine Robe",
+    "support": [
+      {
+        "Characters": "Powerhouse characters",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 2: Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Level 3: Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Level 4: Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Level 5: Adds 4% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ガスパーデ ガスパーデ海賊団",

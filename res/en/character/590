@@ -3,7 +3,19 @@
   "detail": {
     "special": "Boosts ATK of Slasher characters by 1.5x for 1 turn",
     "specialName": "Flag of the Rebellion",
-    "captain": "Boosts ATK of all characters by 2x, reduces HP and RCV of all characters by 80%"
+    "captain": "Boosts ATK of all characters by 2x, reduces HP and RCV of all characters by 80%",
+    "support": [
+      {
+        "Characters": "Nefeltari Vivi",
+        "description": [
+          "Level 1: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 2: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 3: Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 4: Adds 6% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV.",
+          "Level 5: Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "コーザ 反乱軍リーダー",

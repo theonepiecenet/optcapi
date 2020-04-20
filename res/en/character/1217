@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK and RCV of Cerebral characters by 1.5x",
     "special": "Reduces Paralysis and Bind duration by 2 turns. Deal 10x her ATK in [PSY] damage to one enemy",
-    "specialName": "Caterpillar Soul Shot"
+    "specialName": "Caterpillar Soul Shot",
+    "support": [
+      {
+        "Characters": "Byrnndi World, Gairam and Sebastian",
+        "description": [
+          "Level 1: Adds 3% of this character's base RCV to the supported character's base RCV.",
+          "Level 2: Adds 4% of this character's base RCV to the supported character's base RCV.",
+          "Level 3: Adds 5% of this character's base RCV to the supported character's base RCV.",
+          "Level 4: Adds 7% of this character's base RCV to the supported character's base RCV.",
+          "Level 5: Adds 9% of this character's base RCV to the supported character's base RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "ナイチン ワールド海賊団",

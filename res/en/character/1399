@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Slasher and Cerebral characters by 1.5x, reduces damage received by 15%",
     "special": "For Slasher characters, randomizes all non-Matching orbs. Swaps this unit with your captain for 2 turns",
-    "specialName": "Out-of-Control White Smoke"
+    "specialName": "Out-of-Control White Smoke",
+    "support": [
+      {
+        "Characters": "Slasher characters",
+        "description": [
+          "Level 1: Adds 2% of this character's base RCV to the supported character's base RCV",
+          "Level 2: Adds 3% of this character's base RCV to the supported character's base RCV",
+          "Level 3: Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Level 4: Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Level 5: Adds 7% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "スモーカー　時雨 シャンブルズ",

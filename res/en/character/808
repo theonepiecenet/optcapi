@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK and RCV of Cerebral characters by 1.5x, recovers 2x character's RCV in HP at the end of each turn",
     "specialName": "Thunder Charge: Swing Arm",
-    "special": "Deals 15x character's ATK in [PSY] damage to one enemy, boosts ATK against enemies with reduced defense by 1.3x for 3 turns"
+    "special": "Deals 15x character's ATK in [PSY] damage to one enemy, boosts ATK against enemies with reduced defense by 1.3x for 3 turns",
+    "support": [
+      {
+        "Characters": "Lola",
+        "description": [
+          "Level 1: Adds 3% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 2: Adds 4% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 3: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 4: Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Level 5: Adds 7% of this character's base HP and RCV to the supported character's base HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "純白の女神ナミ ウエディング",

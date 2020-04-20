@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of all characters by 2x at the start of the chain, by 3x following a chain of [STR] > [DEX] > [INT] attacks no lower than Good",
     "special": "Cuts the current HP of one enemy by 20% and and boosts own ATK by 2x for 1 turn",
-    "specialName": "Iron Giant Palm Slam"
+    "specialName": "Iron Giant Palm Slam",
+    "support": [
+      {
+        "Characters": "Killer",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Adds 3% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Adds 4% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Adds 5% of this character's base ATK to the supported character's base ATK.",
+          "Level 5: Adds 6% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
   },
   "aliases": [
     "キャプテン・キッド “南の海”出身の超新星",

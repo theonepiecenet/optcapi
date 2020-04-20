@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of Slasher characters by 1.75x and boosts ATK of Driven characters by 1.5x",
     "captainNotes": "The bonus is cumulative. Slasher Driven characters get a 2.625x bonus.",
     "special": "Reduces crew's HP to 1, empties all slots and deals 30x character's ATK in [QCK] damage to all enemies",
-    "specialName": "Special Muggy Ball"
+    "specialName": "Special Muggy Ball",
+    "support": [
+      {
+        "Characters": "Galdino/Mr. 3",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP RCV to the supported character's base ATK, HP RCV.",
+          "Level 2: Adds 1% of this character's base ATK, HP RCV to the supported character's base ATK, HP RCV.",
+          "Level 3: Adds 2% of this character's base ATK, HP RCV to the supported character's base ATK, HP RCV.",
+          "Level 4: Adds 3% of this character's base ATK, HP RCV to the supported character's base ATK, HP RCV.",
+          "Level 5: Adds 4% of this character's base ATK, HP RCV to the supported character's base ATK, HP RCV."
+        ]
+      }
+    ]
   },
   "aliases": [
     "受刑者　道化のバギー 脱獄同盟",

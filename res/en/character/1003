@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Fighter characters by 2x",
     "special": "Reduces Paralysis duration by 3 turns and deals 7x ATK as [STR] damage to one enemy",
-    "specialName": "Bepo's Ultimate Fist!!"
+    "specialName": "Bepo's Ultimate Fist!!",
+    "support": [
+      {
+        "Characters": "Trafalgar Law, Sachi & Penguin and Jean Bart",
+        "description": [
+          "Level 1: Reduces damage received from [DEX] characters by 1%",
+          "Level 2: Reduces damage received from [DEX] characters by 1%",
+          "Level 3: Reduces damage received from [DEX] characters by 2%",
+          "Level 4: Reduces damage received from [DEX] characters by 2%",
+          "Level 5: Reduces damage received from [DEX] characters by 3%"
+        ]
+      }
+    ]
   },
   "aliases": [
     "武闘家のベポ ハートの海賊団",

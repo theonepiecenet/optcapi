@@ -5,7 +5,19 @@
     "special": "Deals 12x character's ATK in [INT] damage to one enemy and reduces damage received from [PSY] enemies by 80%.",
     "specialName": "Honorable Blade",
     "sailor": "Reduces Silence duration on this character by 2 turns",
-    "sailorNotes": "#{silence}"
+    "sailorNotes": "#{silence}",
+    "support": [
+      {
+        "Characters": "Speed Jill, Atmos and Kingdew",
+        "description": [
+          "Level 1: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 2: Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 3: Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 4: Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Level 5: Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ハルタ 白ひげ海賊団１２番隊隊長",

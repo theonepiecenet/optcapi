@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Powerhouse characters by 3.5x after the 5th PERFECT in a row.",
     "special": "Deals [INT] damage to one enemy. Boosts own ATK by 1.75x for 1 turn.",
-    "specialName": "Crash Drumming"
+    "specialName": "Crash Drumming",
+    "support": [
+      {
+        "Characters": "Shiki, Dr. Indigo",
+        "description": [
+          "Level 1: Adds 2% of this character's base ATK to the supported character's base ATK.",
+          "Level 2: Adds 3% of this character's base ATK to the supported character's base ATK.",
+          "Level 3: Adds 4% of this character's base ATK to the supported character's base ATK.",
+          "Level 4: Adds 5% of this character's base ATK to the supported character's base ATK.",
+          "Level 5: Adds 6% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
   },
   "aliases": [
     "スカーレット隊長 金獅子海賊団",
