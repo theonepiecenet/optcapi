@@ -1,10 +1,7 @@
 {
   "name": "Emporio Ivankov",
   "detail": {
-    "special": {
-      "japan": "Randomizes all orbs into either [RCV], [STR], [DEX] or [QCK] orbs, makes [STR], [DEX] and [QCK] orbs beneficial for all characters for 1 turn and changes own orb into [QCK]",
-      "global": "Randomizes all orbs into either [RCV], [STR], [DEX] or [QCK] orbs and changes own orb into [QCK]"
-    },
+    "special": "Randomizes all orbs into either [RCV], [STR], [DEX] or [QCK] orbs, makes [STR], [DEX] and [QCK] orbs beneficial for all characters for 1 turn and changes own orb into [QCK]",
     "specialName": "Hell Wink",
     "captain": "Boosts ATK of all characters by 2.25x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good"
   },

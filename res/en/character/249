@@ -1,16 +1,10 @@
 {
   "name": "Tony Tony Chopper Post-Rampage",
   "detail": {
-    "special": {
-      "japan": "Deals random [STR] damage to one enemy, boosts ATK of STR characters by 1.75x for 1 turn",
-      "global": "Deals random [STR] damage to one enemy"
-    },
+    "special": "Deals random [STR] damage to one enemy, boosts ATK of STR characters by 1.75x for 1 turn",
     "specialName": "Rampage",
     "specialNotes": "#{random : 2,000 : 200,000}",
-    "captain": {
-      "japan": "Boosts ATK of [STR] characters by 3x and reduces their HP by 70%",
-      "global": "Boosts ATK of [STR] characters by 3x and reduces their HP by 60%"
-    },
+    "captain": "Boosts ATK of [STR] characters by 3x and reduces their HP by 70%",
     "sailor": {
       "base": "None",
       "level1": "Boosts base ATK of all characters by 50"

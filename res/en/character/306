@@ -1,15 +1,9 @@
 {
   "name": "Garp the Fist",
   "detail": {
-    "special": {
-      "japan": "Randomizes all orbs into either [PSY] or [RCV] orbs and amplifies the effect of orbs for PSY characters by 1.75x for 1 turn",
-      "global": "Randomizes all orbs into either [PSY] or [RCV] orbs"
-    },
+    "special": "Randomizes all orbs into either [PSY] or [RCV] orbs and amplifies the effect of orbs for PSY characters by 1.75x for 1 turn",
     "specialName": "Meteor Fist Shower",
-    "captain": {
-      "japan": "Boosts ATK of [PSY] characters by 2.5x and their HP by 2x",
-      "global": "Boosts ATK and HP of [PSY] characters by 2x"
-    },
+    "captain": "Boosts ATK of [PSY] characters by 2.5x and their HP by 2x",
     "sailor": {
       "base": "None",
       "level1": "Makes [RCV] orbs beneficial for this character",

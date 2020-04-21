@@ -1,15 +1,9 @@
 {
   "name": "Blackbeard",
   "detail": {
-    "special": {
-      "japan": "Deals 20 times the damage received in the previous turn in Typeless damage to all enemies",
-      "global": "Deals 10 times the damage received in the previous turn in Typeless damage to all enemies"
-    },
+    "special": "Deals 20 times the damage received in the previous turn in Typeless damage to all enemies",
     "specialName": "Black Hole",
-    "captain": {
-      "japan": "Increases damage received by 2x, boosts ATK of [STR] characters by 2.75x and their HP by 2.5x",
-      "global": "Increases damage received by 2x, boosts ATK of [STR] characters by 2.5x and their HP by 2.25x"
-    },
+    "captain": "Increases damage received by 2x, boosts ATK of [STR] characters by 2.75x and their HP by 2.5x",
     "sailor": {
       "base": "None",
       "level1": "Boosts base HP of [STR] characters by 120"

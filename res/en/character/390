@@ -1,15 +1,9 @@
 {
   "name": "Emporio Ivankov Queen of Kamabakka Queendom (Retired)",
   "detail": {
-    "special": {
-      "japan": "Randomizes all orbs into either [RCV], [STR], [DEX] or [QCK] orbs, makes [STR], [DEX] and [QCK] orbs beneficial for all characters for 1 turn and changes own orb into [QCK]",
-      "global": "Randomizes all orbs into either [RCV], [STR], [DEX] or [QCK] orbs and changes own orb into [QCK]"
-    },
+    "special": "Randomizes all orbs into either [RCV], [STR], [DEX] or [QCK] orbs, makes [STR], [DEX] and [QCK] orbs beneficial for all characters for 1 turn and changes own orb into [QCK]",
     "specialName": "Hell Wink",
-    "captain": {
-      "japan": "Boosts ATK of all characters by 3x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good",
-      "global": "Boosts ATK of all characters by 2.75x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good"
-    },
+    "captain": "Boosts ATK of all characters by 3x following a chain of [DEX] > [INT] > [QCK] attacks no lower than Good",
     "sailor": {
       "base": "None",
       "level1": "Makes [STR], [DEX] and [RCV] orbs beneficial for this character",
