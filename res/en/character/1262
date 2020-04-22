@@ -4,7 +4,81 @@
     "captain": "Boosts ATK of Free Spirit characters by 1.75x. Recovers 0.75x his RCV at the end of the turn each time you hit a PERFECT.",
     "special": "Randomizes all orbs. Boosts the Color Affinity of Free Spirit and Shooter characters by 1.5x for 1 turn",
     "specialNotes": "#{colorAffinity : 1.5}",
-    "specialName": "Blood and Gunpowder of the Underground Family"
+    "specialName": "Blood and Gunpowder of the Underground Family",
+    "sailor": {
+      "base": "None",
+      "level1": "Boosts Shooter and Free Spirit characters' damage against [STR], [DEX] and [QCK] characters by 1.05x",
+      "level2": "Makes [INT] orbs beneficial for Shooter and Free Spirit characters"
+    },
+    "limit": [
+      {
+        "description": "Boosts base RCV by 5"
+      },
+      {
+        "description": "Boosts base RCV by 10"
+      },
+      {
+        "description": "Boosts base RCV by 15"
+      },
+      {
+        "description": "Acquire Potential 1: [PSY] Damage Reduction"
+      },
+      {
+        "description": "Boosts base HP by 20"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Boosts Shooter and Free Spirit characters' damage against [STR], [DEX] and [QCK] characters by 1.05x"
+      },
+      {
+        "description": "Boosts base HP by 30"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base ATK by 40"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire Sailor Ability 1: Makes [INT] orbs beneficial for Shooter and Free Spirit characters"
+      },
+      {
+        "description": "Boosts base ATK by 55"
+      },
+      {
+        "description": "Acquire 1 additional Socket slot"
+      },
+      {
+        "description": "Boosts base ATK by 90"
+      },
+      {
+        "description": "Acquire Potential 2: Pinch Healing"
+      }
+    ],
+    "potential": [
+      {
+        "Name": "[PSY] Damage Reduction",
+        "description": [
+          "Level 1: Reduce damage taken from [PSY] characters by 1%",
+          "Level 2: Reduce damage taken from [PSY] characters by 2%",
+          "Level 3: Reduce damage taken from [PSY] characters by 3%",
+          "Level 4: Reduce damage taken from [PSY] characters by 5%",
+          "Level 5: Reduce damage taken from [PSY] characters by 7%"
+        ]
+      },
+      {
+        "Name": "Pinch Healing",
+        "description": [
+          "Level 1: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 2: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 3: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 4: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "Level 5: If HP is below ?% at the start of the turn, recovers ?x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+        ]
+      }
+    ]
   },
   "aliases": [
     "セニョール・ピンク “北の海”の闇",
