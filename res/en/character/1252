@@ -57,28 +57,25 @@
   "drop": [
     {
       "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
+      "name": "Reverse Two Sword Style",
+      "thumb": 1252,
       "data": [
-        "Chaos"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
+        "Chaos",
+        "Exebition",
         "Underground"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
-        "Exhibition"
       ]
     }
   ],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Reverse Two Sword Style",
+      "thumb": 1252,
+      "data": [
+        "Chaos",
+        "Exebition",
+        "Underground"
+      ]
+    }
+  ]
 }

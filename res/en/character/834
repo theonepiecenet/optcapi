@@ -61,28 +61,25 @@
   "drop": [
     {
       "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
+      "name": "Syncronized Sniper Pair",
+      "thumb": 834,
       "data": [
-        "Chaos"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
+        "Chaos",
+        "Exebition",
         "Underground"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
-        "Exhibition"
       ]
     }
   ],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Syncronized Sniper Pair",
+      "thumb": 834,
+      "data": [
+        "Chaos",
+        "Exebition",
+        "Underground"
+      ]
+    }
+  ]
 }

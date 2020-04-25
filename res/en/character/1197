@@ -46,20 +46,23 @@
   "drop": [
     {
       "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
+      "name": "Salvation-Slinging Priest",
+      "thumb": 1197,
       "data": [
+        "Exebition",
         "Underground"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
-        "Exhibition"
       ]
     }
   ],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Salvation-Slinging Priest",
+      "thumb": 1197,
+      "data": [
+        "Exebition",
+        "Underground"
+      ]
+    }
+  ]
 }

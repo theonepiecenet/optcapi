@@ -46,18 +46,11 @@
   "drop": [
     {
       "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
+      "name": "Wounded Vice Admiral",
+      "thumb": 927,
       "data": [
+        "Exebition",
         "Underground"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
-        "Exhibition"
       ]
     },
     {
@@ -69,5 +62,15 @@
       ]
     }
   ],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Wounded Vice Admiral",
+      "thumb": 927,
+      "data": [
+        "Exebition",
+        "Underground"
+      ]
+    }
+  ]
 }

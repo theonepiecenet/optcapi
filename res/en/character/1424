@@ -44,20 +44,23 @@
   "drop": [
     {
       "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
+      "name": "Battle Commander of the Krieg Fleet",
+      "thumb": 1424,
       "data": [
+        "Exebition",
         "Underground"
-      ]
-    },
-    {
-      "type": "Coliseum",
-      "name": "Coliseum",
-      "thumb": 779,
-      "data": [
-        "Exhibition"
       ]
     }
   ],
-  "manual": []
+  "manual": [
+    {
+      "type": "Coliseum",
+      "name": "Battle Commander of the Krieg Fleet",
+      "thumb": 1424,
+      "data": [
+        "Exebition",
+        "Underground"
+      ]
+    }
+  ]
 }
