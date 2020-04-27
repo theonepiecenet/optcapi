@@ -60,21 +60,21 @@
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below 5% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 5% at the start of the turn, recovers 1.25x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 5% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 10% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 20% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "If HP is below 5% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 5% at the start of the turn, recovers 1.25x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 5% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 10% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 20% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by 30",
-          "Level 2: Boosts base ATK by 60",
-          "Level 3: Boosts base ATK by 90",
-          "Level 4: Boosts base ATK by 100",
-          "Level 5: Boosts base ATK by 150"
+          "Boosts base ATK by 30",
+          "Boosts base ATK by 60",
+          "Boosts base ATK by 90",
+          "Boosts base ATK by 100",
+          "Boosts base ATK by 150"
         ]
       }
     ],
@@ -83,11 +83,11 @@
       {
         "Characters": "Magellan",
         "description": [
-          "Level 1: Once per an adventure, when the supported character uses a Poison, Strong Poison or Toxic special, boosts ATK against Poisoned enemies by 1.2x for 1 turn.",
-          "Level 2: Once per an adventure, when the supported character uses a Poison, Strong Poison or Toxic special, boosts ATK against Poisoned enemies by 1.2x for 1 turn.",
-          "Level 3: Once per an adventure, when the supported character uses a Poison, Strong Poison or Toxic special, boosts ATK against Poisoned enemies by 1.2x for 1 turn.",
-          "Level 4: Once per an adventure, when the supported character uses a Poison, Strong Poison or Toxic special, boosts ATK against Poisoned enemies by 1.2x for 2 turns.",
-          "Level 5: Once per an adventure, when the supported character uses a Poison, Strong Poison or Toxic special, boosts ATK against Poisoned enemies by 1.3x for 2 turns."
+          "Once per an adventure, when the supported character uses a Poison, Strong Poison or Toxic special, boosts ATK against Poisoned enemies by 1.2x for 1 turn.",
+          "Once per an adventure, when the supported character uses a Poison, Strong Poison or Toxic special, boosts ATK against Poisoned enemies by 1.2x for 1 turn.",
+          "Once per an adventure, when the supported character uses a Poison, Strong Poison or Toxic special, boosts ATK against Poisoned enemies by 1.2x for 1 turn.",
+          "Once per an adventure, when the supported character uses a Poison, Strong Poison or Toxic special, boosts ATK against Poisoned enemies by 1.2x for 2 turns.",
+          "Once per an adventure, when the supported character uses a Poison, Strong Poison or Toxic special, boosts ATK against Poisoned enemies by 1.3x for 2 turns."
         ]
       }
     ]

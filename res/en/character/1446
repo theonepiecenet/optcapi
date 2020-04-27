@@ -59,21 +59,21 @@
       {
         "Name": "Reduce No Healing duration",
         "description": [
-          "Level 1: If there are 6 Shooter characters in your crew, reduces No Healing duration by 1 turn",
-          "Level 2: If there are 5 Shooter characters in your crew, reduces No Healing duration by 1 turn",
-          "Level 3: If there are 4 Shooter characters in your crew, reduces No Healing duration by 1 turn",
-          "Level 4: If there are 4 Shooter characters in your crew, reduces No Healing duration by 2 turns",
-          "Level 5: If there are 4 Shooter characters in your crew, reduces No Healing duration by 3 turns"
+          "If there are 6 Shooter characters in your crew, reduces No Healing duration by 1 turn",
+          "If there are 5 Shooter characters in your crew, reduces No Healing duration by 1 turn",
+          "If there are 4 Shooter characters in your crew, reduces No Healing duration by 1 turn",
+          "If there are 4 Shooter characters in your crew, reduces No Healing duration by 2 turns",
+          "If there are 4 Shooter characters in your crew, reduces No Healing duration by 3 turns"
         ]
       },
       {
         "Name": "Barrier Penetration",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+          "This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
     ],
@@ -81,11 +81,11 @@
       {
         "Characters": "Shooter characters",
         "description": [
-          "Level 1: Reduces damage received from [INT] characters by 1%. Adds 1% of this character's base ATK to the supported character's base ATK",
-          "Level 2: Reduces damage received from [INT] characters by 1%. Adds 1% of this character's base ATK to the supported character's base ATK",
-          "Level 3: Reduces damage received from [INT] characters by 2%. Adds 2% of this character's base ATK to the supported character's base ATK",
-          "Level 4: Reduces damage received from [INT] characters by 2%. Adds 2% of this character's base ATK to the supported character's base ATK",
-          "Level 5: Reduces damage received from [INT] characters by 3%. Adds 3% of this character's base ATK to the supported character's base ATK"
+          "Reduces damage received from [INT] characters by 1%. Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Reduces damage received from [INT] characters by 1%. Adds 1% of this character's base ATK to the supported character's base ATK",
+          "Reduces damage received from [INT] characters by 2%. Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Reduces damage received from [INT] characters by 2%. Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Reduces damage received from [INT] characters by 3%. Adds 3% of this character's base ATK to the supported character's base ATK"
         ]
       }
     ]

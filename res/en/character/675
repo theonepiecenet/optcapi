@@ -60,21 +60,21 @@
       {
         "Name": "[PSY] Damage Reduction",
         "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by 1%",
-          "Level 2: Reduce damage taken from [PSY] characters by 2%",
-          "Level 3: Reduce damage taken from [PSY] characters by 3%",
-          "Level 4: Reduce damage taken from [PSY] characters by 4%",
-          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+          "Reduce damage taken from [PSY] characters by 1%",
+          "Reduce damage taken from [PSY] characters by 2%",
+          "Reduce damage taken from [PSY] characters by 3%",
+          "Reduce damage taken from [PSY] characters by 4%",
+          "Reduce damage taken from [PSY] characters by 5%"
         ]
       },
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "If HP is below 10% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 15% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 20% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 30% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 50% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
     ],
@@ -82,11 +82,11 @@
       {
         "Characters": "Monkey D. Luffy, Inazuma and Bon Clay",
         "description": [
-          "Level 1: Once per adventure, when you are inflicted with Poison or Toxic, reduces Poison duration by 3 turns",
-          "Level 2: Once per adventure, when you are inflicted with Poison or Toxic, reduces Poison duration by 4 turns",
-          "Level 3: Once per adventure, when you are inflicted with Poison or Toxic, reduces Poison duration by 5 turns",
-          "Level 4: Once per adventure, when you are inflicted with Poison or Toxic, reduces Poison duration by 7 turns",
-          "Level 5: Once per adventure, when you are inflicted with Poison or Toxic, removes Poison duration completely"
+          "Once per adventure, when you are inflicted with Poison or Toxic, reduces Poison duration by 3 turns",
+          "Once per adventure, when you are inflicted with Poison or Toxic, reduces Poison duration by 4 turns",
+          "Once per adventure, when you are inflicted with Poison or Toxic, reduces Poison duration by 5 turns",
+          "Once per adventure, when you are inflicted with Poison or Toxic, reduces Poison duration by 7 turns",
+          "Once per adventure, when you are inflicted with Poison or Toxic, removes Poison duration completely"
         ]
       }
     ]

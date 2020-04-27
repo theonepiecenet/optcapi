@@ -105,31 +105,31 @@
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below 10% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 15% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 20% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 30% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 30% at the start of the turn, recovers 3x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "If HP is below 10% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 15% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 20% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 30% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 30% at the start of the turn, recovers 3x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
         "Name": "Barrier Penetration",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers"
+          "This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 90% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 70% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 50% at the start of the turn",
+          "This character's normal attack will ignore barriers"
         ]
       },
       {
         "Name": "Reduce No Healing duration",
         "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turns",
-          "Level 3: Reduces No Healing duration by 3 turns",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
+          "Reduces No Healing duration by 1 turn",
+          "Reduces No Healing duration by 2 turns",
+          "Reduces No Healing duration by 3 turns",
+          "Reduces No Healing duration by 4 turns",
+          "Reduces No Healing duration by 5 turns"
         ]
       }
     ],
@@ -137,11 +137,11 @@
       {
         "Characters": "Striker characters",
         "description": [
-          "Level 1: Adds 6% of this character's base ATK and RCV to the supported character's base ATK and RCV",
-          "Level 2: Adds 7% of this character's base ATK and RCV to the supported character's base ATK and RCV",
-          "Level 3: Adds 9% of this character's base ATK and RCV to the supported character's base ATK and RCV",
-          "Level 4: Adds 11% of this character's base ATK and RCV to the supported character's base ATK and RCV",
-          "Level 5: Adds 13% of this character's base ATK and RCV to the supported character's base ATK and RCV"
+          "Adds 6% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Adds 7% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Adds 9% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Adds 11% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Adds 13% of this character's base ATK and RCV to the supported character's base ATK and RCV"
         ]
       }
     ]

@@ -64,21 +64,21 @@
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below 10% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 15% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "If HP is below 10% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 15% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
         "Name": "Barrier Penetration",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+          "This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
     ],
@@ -86,11 +86,11 @@
       {
         "Characters": "[DEX] characters",
         "description": [
-          "Level 1: Once per adventure, when you reach the final stage, randomizes supported character's orb.",
-          "Level 2: Once per adventure, when you reach the final stage, randomizes supported character's orb.",
-          "Level 3: Once per adventure, when you reach the final stage, randomizes supported character's orb.",
-          "Level 4: Once per adventure, when you reach the final stage, randomizes supported character's orb.",
-          "Level 5: Once per adventure, when you reach the final stage, changes supported character's orb into a [DEX] orb."
+          "Once per adventure, when you reach the final stage, randomizes supported character's orb.",
+          "Once per adventure, when you reach the final stage, randomizes supported character's orb.",
+          "Once per adventure, when you reach the final stage, randomizes supported character's orb.",
+          "Once per adventure, when you reach the final stage, randomizes supported character's orb.",
+          "Once per adventure, when you reach the final stage, changes supported character's orb into a [DEX] orb."
         ]
       }
     ]

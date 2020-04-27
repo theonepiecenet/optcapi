@@ -59,21 +59,21 @@
       {
         "Name": "Critical Hit",
         "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a 20% chance to deal 10% of this character's attack in extra damage"
+          "If you hit a PERFECT with this character, there is a 10% chance to deal 3% of this character's attack in extra damage",
+          "If you hit a PERFECT with this character, there is a 10% chance to deal 5% of this character's attack in extra damage",
+          "If you hit a PERFECT with this character, there is a 15% chance to deal 5% of this character's attack in extra damage",
+          "If you hit a PERFECT with this character, there is a 20% chance to deal 5% of this character's attack in extra damage",
+          "If you hit a PERFECT with this character, there is a 20% chance to deal 10% of this character's attack in extra damage"
         ]
       },
       {
         "Name": "Barrier Penetration",
         "description": [
-          "Level 1: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 2: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 3: This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
-          "Level 4: This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
-          "Level 5: This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
+          "This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 99% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 80% at the start of the turn",
+          "This character's normal attack will ignore barriers if HP is above 50% at the start of the turn"
         ]
       }
     ],
@@ -81,11 +81,11 @@
       {
         "Characters": "Laffitte, Van Augur, Jesus Burgess and Doc Q",
         "description": [
-          "Level 1: Adds 5% of this character's base HP to the supported character's base HP",
-          "Level 2: Adds 6% of this character's base HP to the supported character's base HP",
-          "Level 3: Adds 7% of this character's base HP to the supported character's base HP",
-          "Level 4: Adds 8% of this character's base HP to the supported character's base HP",
-          "Level 5: Adds 12% of this character's base HP to the supported character's base HP"
+          "Adds 5% of this character's base HP to the supported character's base HP",
+          "Adds 6% of this character's base HP to the supported character's base HP",
+          "Adds 7% of this character's base HP to the supported character's base HP",
+          "Adds 8% of this character's base HP to the supported character's base HP",
+          "Adds 12% of this character's base HP to the supported character's base HP"
         ]
       }
     ]

@@ -137,31 +137,31 @@
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below 10% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 15% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 20% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 30% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 50% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "If HP is below 10% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 15% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 20% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 30% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 50% at the start of the turn, recovers 2x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
         "Name": "Reduce No Healing duration",
         "description": [
-          "Level 1: Reduces No Healing duration by 1 turn",
-          "Level 2: Reduces No Healing duration by 2 turn",
-          "Level 3: Reduces No Healing duration by 3 turn",
-          "Level 4: Reduces No Healing duration by 4 turns",
-          "Level 5: Reduces No Healing duration by 5 turns"
+          "Reduces No Healing duration by 1 turn",
+          "Reduces No Healing duration by 2 turn",
+          "Reduces No Healing duration by 3 turn",
+          "Reduces No Healing duration by 4 turns",
+          "Reduces No Healing duration by 5 turns"
         ]
       },
       {
         "Name": "Critical Hit",
         "description": [
-          "Level 1: If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
-          "Level 2: If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
-          "Level 3: If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
-          "Level 4: If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
-          "Level 5: If you hit a PERFECT with this character, there is a 100% chance to deal 10% of this character's attack in extra damage"
+          "If you hit a PERFECT with this character, there is a 40% chance to deal 4% of this character's attack in extra damage",
+          "If you hit a PERFECT with this character, there is a 50% chance to deal 5% of this character's attack in extra damage",
+          "If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
+          "If you hit a PERFECT with this character, there is a 80% chance to deal 8% of this character's attack in extra damage",
+          "If you hit a PERFECT with this character, there is a 100% chance to deal 10% of this character's attack in extra damage"
         ]
       }
     ],
@@ -169,11 +169,11 @@
       {
         "Characters": "Roronoa Zoro, Nami, Sanji, Usopp, Tony Tony Chopper, Nico Robin and Franky",
         "description": [
-          "Level 1: Once per adventure, when you reach the final stage, randomizes supported character's orb",
-          "Level 2: Once per adventure, when you reach the final stage, randomizes supported character's orb",
-          "Level 3: Once per adventure, when you reach the final stage, changes supported character's orb into a [STR] orb",
-          "Level 4: Once per adventure, when you reach the final stage, changes supported character's orb into a [STR] orb",
-          "Level 5: Once per adventure, when you reach the final stage, changes supported character's orb into a [STR] orb and makes [STR] orbs beneficial for all characters for 1 turn"
+          "Once per adventure, when you reach the final stage, randomizes supported character's orb",
+          "Once per adventure, when you reach the final stage, randomizes supported character's orb",
+          "Once per adventure, when you reach the final stage, changes supported character's orb into a [STR] orb",
+          "Once per adventure, when you reach the final stage, changes supported character's orb into a [STR] orb",
+          "Once per adventure, when you reach the final stage, changes supported character's orb into a [STR] orb and makes [STR] orbs beneficial for all characters for 1 turn"
         ]
       }
     ]

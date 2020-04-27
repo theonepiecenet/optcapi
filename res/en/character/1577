@@ -61,21 +61,21 @@
       {
         "Name": "Reduce Slot Bind duration",
         "description": [
-          "Level 1: Reduces Slot Bind duration by 1 turn on this character",
-          "Level 2: Reduces Slot Bind duration by 2 turns on this character",
-          "Level 3: Reduces Slot Bind duration by 3 turns on this character",
-          "Level 4: Reduces Slot Bind duration by 4 turns on this character",
-          "Level 5: Reduces Slot Bind duration by 5 turns on this character"
+          "Reduces Slot Bind duration by 1 turn on this character",
+          "Reduces Slot Bind duration by 2 turns on this character",
+          "Reduces Slot Bind duration by 3 turns on this character",
+          "Reduces Slot Bind duration by 4 turns on this character",
+          "Reduces Slot Bind duration by 5 turns on this character"
         ]
       },
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 40% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 40% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
     ],
@@ -83,11 +83,11 @@
       {
         "Characters": "Momonosuke",
         "description": [
-          "Level 1: Once per an adventure, when the supported character uses their special, changes supported character's orb into a Matching orb.",
-          "Level 2: Once per an adventure, when the supported character uses their special, changes supported character's orb into a Matching orb.",
-          "Level 3: Once per an adventure, when the supported character uses their special, changes supported character's orb into a Matching orb.",
-          "Level 4: Once per an adventure, when the supported character uses their special, changes supported character's orb into a Matching orb and reduces Burn duration by 1 turn.",
-          "Level 5: Once per an adventure, when the supported character uses their special, changes supported character's orb into a Matching orb and reduces Burn duration by 2 turns."
+          "Once per an adventure, when the supported character uses their special, changes supported character's orb into a Matching orb.",
+          "Once per an adventure, when the supported character uses their special, changes supported character's orb into a Matching orb.",
+          "Once per an adventure, when the supported character uses their special, changes supported character's orb into a Matching orb.",
+          "Once per an adventure, when the supported character uses their special, changes supported character's orb into a Matching orb and reduces Burn duration by 1 turn.",
+          "Once per an adventure, when the supported character uses their special, changes supported character's orb into a Matching orb and reduces Burn duration by 2 turns."
         ]
       }
     ]

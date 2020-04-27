@@ -61,21 +61,21 @@
       {
         "Name": "[PSY] Damage Reduction",
         "description": [
-          "Level 1: Reduce damage taken from [PSY] characters by 1%",
-          "Level 2: Reduce damage taken from [PSY] characters by 2%",
-          "Level 3: Reduce damage taken from [PSY] characters by 3%",
-          "Level 4: Reduce damage taken from [PSY] characters by 4%",
-          "Level 5: Reduce damage taken from [PSY] characters by 5%"
+          "Reduce damage taken from [PSY] characters by 1%",
+          "Reduce damage taken from [PSY] characters by 2%",
+          "Reduce damage taken from [PSY] characters by 3%",
+          "Reduce damage taken from [PSY] characters by 4%",
+          "Reduce damage taken from [PSY] characters by 5%"
         ]
       },
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 40% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 25% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 30% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 40% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 40% at the start of the turn, recovers 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
     ],
@@ -83,11 +83,11 @@
       {
         "Characters": "Senor Pink, Lao G, Delinger",
         "description": [
-          "Level 1: Adds 6% of this character's base HP to the supported character's base HP.",
-          "Level 2: Adds 7% of this character's base HP to the supported character's base HP.",
-          "Level 3: Adds 9% of this character's base HP to the supported character's base HP.",
-          "Level 4: Adds 12% of this character's base HP to the supported character's base HP.",
-          "Level 5: Adds 15% of this character's base HP to the supported character's base HP."
+          "Adds 6% of this character's base HP to the supported character's base HP.",
+          "Adds 7% of this character's base HP to the supported character's base HP.",
+          "Adds 9% of this character's base HP to the supported character's base HP.",
+          "Adds 12% of this character's base HP to the supported character's base HP.",
+          "Adds 15% of this character's base HP to the supported character's base HP."
         ]
       }
     ]

@@ -59,21 +59,21 @@
       {
         "Name": "[INT] Damage Reduction",
         "description": [
-          "Level 1: Reduce damage taken from [INT] characters by 1%",
-          "Level 2: Reduce damage taken from [INT] characters by 2%",
-          "Level 3: Reduce damage taken from [INT] characters by 3%",
-          "Level 4: Reduce damage taken from [INT] characters by 4%",
-          "Level 5: Reduce damage taken from [INT] characters by 5%"
+          "Reduce damage taken from [INT] characters by 1%",
+          "Reduce damage taken from [INT] characters by 2%",
+          "Reduce damage taken from [INT] characters by 3%",
+          "Reduce damage taken from [INT] characters by 4%",
+          "Reduce damage taken from [INT] characters by 5%"
         ]
       },
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by 30",
-          "Level 2: Boosts base ATK by 60",
-          "Level 3: Boosts base ATK by 90",
-          "Level 4: Boosts base ATK by 120",
-          "Level 5: Boosts base ATK by 150"
+          "Boosts base ATK by 30",
+          "Boosts base ATK by 60",
+          "Boosts base ATK by 90",
+          "Boosts base ATK by 120",
+          "Boosts base ATK by 150"
         ]
       }
     ],
@@ -82,11 +82,11 @@
       {
         "Characters": "Blackbeard, Burgess, Laffitte, Shiryu and Van Augur",
         "description": [
-          "Level 1: Adds 4% of this character's base ATK to the supported character's base ATK",
-          "Level 2: Adds 5% of this character's base ATK to the supported character's base ATK",
-          "Level 3: Adds 7% of this character's base ATK to the supported character's base ATK",
-          "Level 4: Adds 9% of this character's base ATK to the supported character's base ATK",
-          "Level 5: Adds 11% of this character's base ATK to the supported character's base ATK"
+          "Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Adds 9% of this character's base ATK to the supported character's base ATK",
+          "Adds 11% of this character's base ATK to the supported character's base ATK"
         ]
       }
     ]

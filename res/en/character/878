@@ -61,21 +61,21 @@
       {
         "Name": "[QCK] Damage Reduction",
         "description": [
-          "Level 1: Reduce damage taken from [QCK] characters by 1%",
-          "Level 2: Reduce damage taken from [QCK] characters by 2%",
-          "Level 3: Reduce damage taken from [QCK] characters by 3%",
-          "Level 4: Reduce damage taken from [QCK] characters by 4%",
-          "Level 5: Reduce damage taken from [QCK] characters by 5%"
+          "Reduce damage taken from [QCK] characters by 1%",
+          "Reduce damage taken from [QCK] characters by 2%",
+          "Reduce damage taken from [QCK] characters by 3%",
+          "Reduce damage taken from [QCK] characters by 4%",
+          "Reduce damage taken from [QCK] characters by 5%"
         ]
       },
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below 10% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 15% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 20% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 30% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 50% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "If HP is below 10% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 15% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 20% at the start of the turn, heals for 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 30% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 50% at the start of the turn, heals for 1.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       }
     ],
@@ -83,11 +83,11 @@
       {
         "Characters": "Free Spirit characters",
         "description": [
-          "Level 1: Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 2: Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 3: Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 4: Adds 9% of this character's base HP and RCV to the supported character's base HP and RCV",
-          "Level 5: Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV"
+          "Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Adds 9% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV"
         ]
       }
     ]

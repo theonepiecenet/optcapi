@@ -60,21 +60,21 @@
       {
         "Name": "Pinch Healing",
         "description": [
-          "Level 1: If HP is below 10% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 2: If HP is below 15% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 3: If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 4: If HP is below 30% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
-          "Level 5: If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
+          "If HP is below 10% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 15% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 20% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 30% at the start of the turn, recovers 0.5x this character's RCV at the end of the turn each time you hit a PERFECT with this character",
+          "If HP is below 50% at the start of the turn, recovers 1x this character's RCV at the end of the turn each time you hit a PERFECT with this character"
         ]
       },
       {
         "Name": "Enrage",
         "description": [
-          "Level 1: Boosts base ATK by 30",
-          "Level 2: Boosts base ATK by 60",
-          "Level 3: Boosts base ATK by 90",
-          "Level 4: Boosts base ATK by 100",
-          "Level 5: Boosts base ATK by 150"
+          "Boosts base ATK by 30",
+          "Boosts base ATK by 60",
+          "Boosts base ATK by 90",
+          "Boosts base ATK by 100",
+          "Boosts base ATK by 150"
         ]
       }
     ],
@@ -83,11 +83,11 @@
       {
         "Characters": "Monkey D. Luffy",
         "description": [
-          "Level 1: Reduces damage received from [DEX] characters by 1%. Adds 5% of this character's base HP to the supported character's base HP",
-          "Level 2: Reduces damage received from [DEX] characters by 2%. Adds 7% of this character's base HP to the supported character's base HP",
-          "Level 3: Reduces damage received from [DEX] characters by 3%. Adds 10% of this character's base HP to the supported character's base HP",
-          "Level 4: Reduces damage received from [DEX] characters by 4%. Adds 12% of this character's base HP to the supported character's base HP",
-          "Level 5: Reduces damage received from [DEX] characters by 5%. Adds 15% of this character's base HP to the supported character's base HP"
+          "Reduces damage received from [DEX] characters by 1%. Adds 5% of this character's base HP to the supported character's base HP",
+          "Reduces damage received from [DEX] characters by 2%. Adds 7% of this character's base HP to the supported character's base HP",
+          "Reduces damage received from [DEX] characters by 3%. Adds 10% of this character's base HP to the supported character's base HP",
+          "Reduces damage received from [DEX] characters by 4%. Adds 12% of this character's base HP to the supported character's base HP",
+          "Reduces damage received from [DEX] characters by 5%. Adds 15% of this character's base HP to the supported character's base HP"
         ]
       }
     ]
