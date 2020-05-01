@@ -180,7 +180,79 @@
           "Reduces damage received from [PSY] characters by 5%. Adds 13% of this character's base ATK to the supported character's base ATK."
         ]
       }
-    ]
+    ],
+    "festAbility": [
+      {
+        "description": "Boosts HP of Driven characters by Lv.4"
+      },
+      {
+        "description": "Boosts HP of Driven characters by Lv.5"
+      },
+      {
+        "description": "Boosts HP of Driven characters by Lv.6"
+      },
+      {
+        "description": "Boosts HP of Driven characters by Lv.7"
+      },
+      {
+        "description": "Boosts HP of Driven characters by Lv.8"
+      }
+    ],
+    "festSpecial": [
+      {
+        "description": "Cuts the current HP of all enemies by 49%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 50%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 51%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 52%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 53%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 54%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 55%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 56%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 57%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 59%.",
+        "cooldown": 36
+      }
+    ],
+    "festAttackPattern": [
+      {
+        "description": "Normal Attack"
+      },
+      {
+        "description": "Strong Attack"
+      },
+      {
+        "description": "Full Power Attack"
+      }
+    ],
+    "festAttackTarget": "Nearby enemies",
+    "festResistance": "When HP is less thanor equal to 50%, recovers 200 HP after a set amount of time"
   },
   "aliases": [
     "イッショウ",
@@ -213,6 +285,16 @@
     24,
     17
   ],
+  "evolution": {
+    "evolution": 2954,
+    "evolvers": [
+      "skullINT",
+      118,
+      88,
+      304,
+      267
+    ]
+  },
   "evolve": {
     "evolution": 1085,
     "evolvers": [

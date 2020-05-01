@@ -5,7 +5,79 @@
     "captainNotes": "#{beneficial}",
     "special": "Cuts the current HP of each enemy by 20%. Cuts the current HP of each enemy by 20% at the end of the turn for 3 turns",
     "specialNotes": "Does not stack with other 'end of turn damage' abilities",
-    "specialName": "Gravito: Heavens Fall"
+    "specialName": "Gravito: Heavens Fall",
+    "festAbility": [
+      {
+        "description": "Boosts HP of Driven characters by Lv.4"
+      },
+      {
+        "description": "Boosts HP of Driven characters by Lv.5"
+      },
+      {
+        "description": "Boosts HP of Driven characters by Lv.6"
+      },
+      {
+        "description": "Boosts HP of Driven characters by Lv.7"
+      },
+      {
+        "description": "Boosts HP of Driven characters by Lv.8"
+      }
+    ],
+    "festSpecial": [
+      {
+        "description": "Cuts the current HP of all enemies by 49%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 50%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 51%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 52%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 53%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 54%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 55%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 56%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 57%.",
+        "cooldown": 36
+      },
+      {
+        "description": "Cuts the current HP of all enemies by 59%.",
+        "cooldown": 36
+      }
+    ],
+    "festAttackPattern": [
+      {
+        "description": "Normal Attack"
+      },
+      {
+        "description": "Strong Attack"
+      },
+      {
+        "description": "Full Power Attack"
+      }
+    ],
+    "festAttackTarget": "Nearby enemies",
+    "festResistance": "When HP is less thanor equal to 50%, recovers 200 HP after a set amount of time"
   },
   "aliases": [
     "藤虎",
