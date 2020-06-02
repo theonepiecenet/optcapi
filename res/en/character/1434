@@ -1,7 +1,10 @@
 {
   "name": "Hody Jones, the Ghost of Fishman District",
   "detail": {
-    "captain": "Reduces cooldown of Powerhouse specials by 1 turn at the start of the fight, reduces crew's current HP by 10% at the end of each turn, boosts ATK of Powerhouse characters by 3x if there are 6 Powerhouse characters in your crew and boosts HP of Powerhouse characters by up to 2x depending on how many Powerhouse characters are in your crew.",
+    "captain": {
+      "base": "Reduces cooldown of Powerhouse specials by 1 turn at the start of the fight, reduces crew's current HP by 10% at the end of each turn, boosts ATK of Powerhouse characters by 3x if there are 6 Powerhouse characters in your crew and boosts HP of Powerhouse characters by up to 2x depending on how many Powerhouse characters are in your crew.",
+      "level1": "Reduces cooldown of Powerhouse specials by 2 turns at the start of the fight, reduces crew's current HP by 10% at the end of each turn, boosts ATK of Powerhouse characters by 3.5x if there are 6 Powerhouse characters in your crew and boosts HP of Powerhouse characters by up to 2.5x depending on how many Powerhouse characters are in your crew."
+    },
     "captainNotes": "Hody's HP boost is dependent on how many Powerhouse characters are in your crew. With 6 Powerhouse characters, the boost is 2x, with 5 the boost is 1.5x, with 4 the boost is 1.4x, with 3 the boost is 1.3x, with 2 the boost is 1.2x and with 1 the boost is 1.1x.",
     "special": [
       {
@@ -117,6 +120,36 @@
       },
       {
         "description": "Acquire Potential 3: Reduce No Healing duration"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base HP by 50"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Acquire new Captain Ability: Reduces cooldown of Powerhouse specials by 2 turns at the start of the fight, reduces crew's current HP by 10% at the end of each turn, boosts ATK of Powerhouse characters by 3.5x if there are 6 Powerhouse characters in your crew and boosts HP of Powerhouse characters by up to 2.5x depending on how many Powerhouse characters are in your crew."
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base ATK by 100"
       }
     ],
     "potential": [

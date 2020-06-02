@@ -54,6 +54,36 @@
       },
       {
         "description": "Acquire Potential 2: Critical Hit"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 2 turns"
+      },
+      {
+        "description": "Acquire Potential 3: Reduce Sailor Despair duration"
       }
     ],
     "potential": [
@@ -75,6 +105,16 @@
           "If you hit a PERFECT with this character, there is a 60% chance to deal 5% of this character's attack in extra damage",
           "If you hit a PERFECT with this character, there is a 70% chance to deal 6% of this character's attack in extra damage",
           "If you hit a PERFECT with this character, there is a 80% chance to deal 7% of this character's attack in extra damage"
+        ]
+      },
+      {
+        "Name": "Reduce Sailor Despair duration",
+        "description": [
+          "Reduce own Sailor Despair duration by 1 turn",
+          "Reduce own Sailor Despair duration by ? turns",
+          "Reduce own Sailor Despair duration by ? turns",
+          "Reduce own Sailor Despair duration by ? turns",
+          "Reduce own Sailor Despair duration by ? turns"
         ]
       }
     ],

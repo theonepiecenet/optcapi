@@ -58,6 +58,36 @@
       },
       {
         "description": "Acquire Potential 2: Enrage"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 5 turns"
+      },
+      {
+        "description": "Acquire Potential 3: Reduce Ship Bind duration"
       }
     ],
     "potential": [
@@ -79,6 +109,16 @@
           "Boosts base ATK by 90",
           "Boosts base ATK by 100",
           "Boosts base ATK by 150"
+        ]
+      },
+      {
+        "Name": "Reduce Ship Bind duration",
+        "description": [
+          "Reduce Ship Bind duration by 1 turn",
+          "Reduce Ship Bind duration by ? turns",
+          "Reduce Ship Bind duration by ? turns",
+          "Reduce Ship Bind duration by ? turns",
+          "Reduce Ship Bind duration by ? turns"
         ]
       }
     ],
