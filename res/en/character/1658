@@ -54,6 +54,36 @@
       },
       {
         "description": "Acquire Potential 2: [QCK] Damage Reduction"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 3 turns"
+      },
+      {
+        "description": "Acquire Potential 3: Cooldown Reduction"
       }
     ],
     "potential": [
@@ -75,6 +105,16 @@
           "Reduce damage taken from [QCK] characters by 3%",
           "Reduce damage taken from [QCK] characters by 4%",
           "Reduce damage taken from [QCK] characters by 5%"
+        ]
+      },
+      {
+        "Name": "Cooldown Reduction",
+        "description": [
+          "Reduce own Special Cooldown by 1 turn at the start of the fight",
+          "Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Reduce own Special Cooldown by ? turns at the start of the fight",
+          "Reduce own Special Cooldown by ? turns at the start of the fight"
         ]
       }
     ],

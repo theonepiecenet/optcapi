@@ -55,6 +55,36 @@
       },
       {
         "description": "Acquire Potential 2: Reduce No Healing duration"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 150"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 5 turns"
+      },
+      {
+        "description": "Acquire Potential 3: Reduce Sailor Despair duration"
       }
     ],
     "potential": [
@@ -76,6 +106,16 @@
           "Reduces No Healing duration by 3 turns",
           "Reduces No Healing duration by 4 turns",
           "Reduces No Healing duration by 5 turns"
+        ]
+      },
+      {
+        "Name": "Reduce Sailor Despair duration",
+        "description": [
+          "Reduce own Sailor Despair duration by 1 turn",
+          "Reduce own Sailor Despair duration by ? turns",
+          "Reduce own Sailor Despair duration by ? turns",
+          "Reduce own Sailor Despair duration by ? turns",
+          "Reduce own Sailor Despair duration by ? turns"
         ]
       }
     ],
