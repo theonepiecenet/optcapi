@@ -54,6 +54,36 @@
       },
       {
         "description": "Acquire Potential 2: Reduce Slot Bind duration"
+      },
+      {
+        "description": "LOCKED WITH KEY"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base RCV by 25"
+      },
+      {
+        "description": "Boosts base RCV by 50"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base HP by 100"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Boosts base ATK by 100"
+      },
+      {
+        "description": "Reduce base Special Cooldown by 1 turn"
+      },
+      {
+        "description": "Acquire Potential 3: Reduce Ship Bind duration"
       }
     ],
     "potential": [
@@ -75,6 +105,16 @@
           "Reduces Slot Bind duration by 3 turns on this character",
           "Reduces Slot Bind duration by 5 turns on this character",
           "Reduces Slot Bind duration by 10 turns on this character"
+        ]
+      },
+      {
+        "Name": "Reduce Ship Bind duration",
+        "description": [
+          "Reduce Ship Bind duration by 1 turn",
+          "Reduce Ship Bind duration by ? turns",
+          "Reduce Ship Bind duration by ? turns",
+          "Reduce Ship Bind duration by ? turns",
+          "Reduce Ship Bind duration by ? turns"
         ]
       }
     ],
