@@ -20,7 +20,7 @@
         "description": "Boosts base RCV by 10"
       },
       {
-        "description": "Acquire Potential 1: [STR] Damage Reduction"
+        "description": "Acquire Potential 1: [QCK] Damage Reduction"
       },
       {
         "description": "Boosts base ATK by 20"
@@ -53,7 +53,7 @@
         "description": "Boosts base HP by 60"
       },
       {
-        "description": "Acquire Potential 2: [QCK] Damage Reduction"
+        "description": "Acquire Potential 2: [STR] Damage Reduction"
       },
       {
         "description": "LOCKED WITH KEY"
@@ -88,16 +88,6 @@
     ],
     "potential": [
       {
-        "Name": "[STR] Damage Reduction",
-        "description": [
-          "Reduce damage taken from [STR] characters by 1%",
-          "Reduce damage taken from [STR] characters by 2%",
-          "Reduce damage taken from [STR] characters by 3%",
-          "Reduce damage taken from [STR] characters by 4%",
-          "Reduce damage taken from [STR] characters by 5%"
-        ]
-      },
-      {
         "Name": "[QCK] Damage Reduction",
         "description": [
           "Reduce damage taken from [QCK] characters by 1%",
@@ -105,6 +95,16 @@
           "Reduce damage taken from [QCK] characters by 3%",
           "Reduce damage taken from [QCK] characters by 4%",
           "Reduce damage taken from [QCK] characters by 5%"
+        ]
+      },
+      {
+        "Name": "[STR] Damage Reduction",
+        "description": [
+          "Reduce damage taken from [STR] characters by 1%",
+          "Reduce damage taken from [STR] characters by 2%",
+          "Reduce damage taken from [STR] characters by 3%",
+          "Reduce damage taken from [STR] characters by 4%",
+          "Reduce damage taken from [STR] characters by 5%"
         ]
       },
       {
