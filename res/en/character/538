@@ -3,7 +3,19 @@
   "detail": {
     "special": "Reduces Bind and Despair duration by 1 turn, locks all orbs for 1 turn",
     "specialName": "Sea Stone Handcuffs",
-    "captain": "Boosts chain multiplier by 2x, recovers 2x character's RCV in HP at the end of each turn"
+    "captain": "Boosts chain multiplier by 2x, recovers 2x character's RCV in HP at the end of each turn",
+    "support": [
+      {
+        "Characters": "Magellan, Miss Sadie and Hannyabal",
+        "description": [
+          "Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Adds 6% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ドミノ インペルダウン副看守長",

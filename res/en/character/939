@@ -81,6 +81,18 @@
           "Reduce damage taken from [INT] characters by 5%"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "[PSY] characters",
+        "description": [
+          "Reduces damage received from [INT] characters by 1%. Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Reduces damage received from [INT] characters by 2%. Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Reduces damage received from [INT] characters by 3%. Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Reduces damage received from [INT] characters by 4%. Adds 10% of this character's base RCV to the supported character's base RCV",
+          "Reduces damage received from [INT] characters by 5%. Adds 13% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
     ]
   },
   "aliases": [

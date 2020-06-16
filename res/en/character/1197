@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Cerebral and Powerhouse characters by 2.5x if they have a beneficial orb, by 1x otherwise, reduces crew's RCV to 0",
     "special": "For Cerebral and Powerhouse characters, changes all orbs, including [BLOCK] orbs, to Badly Matching. Deals [INT] damage to all enemies",
-    "specialName": "Investigator of Sorrow"
+    "specialName": "Investigator of Sorrow",
+    "support": [
+      {
+        "Characters": "Enel, Shura, Satori and Gedatsu",
+        "description": [
+          "Adds 4% of this character's base HP to the supported character's base HP",
+          "Adds 5% of this character's base HP to the supported character's base HP",
+          "Adds 7% of this character's base HP to the supported character's base HP",
+          "Adds 9% of this character's base HP to the supported character's base HP",
+          "Adds 13% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "スカイブリーダー・オーム",

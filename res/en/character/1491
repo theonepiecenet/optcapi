@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of all characters by 2x following a chain of Good > Good > Great hits",
     "special": "Changes orbs on the top row to [BOMB], reduces Bind duration by 2 turns and reduces the defense of all enemies by 50% for one turn.",
-    "specialName": "Explosion Blocking Escape"
+    "specialName": "Explosion Blocking Escape",
+    "support": [
+      {
+        "Characters": "Sir Crocodile (Mr. 0) and Miss Valentine",
+        "description": [
+          "Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Adds 9% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "Mr.5 Ｂ・Ｗオフィサーエージェント",

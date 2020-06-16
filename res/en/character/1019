@@ -4,7 +4,19 @@
     "captain": "Reduces damage received from [QCK] enemies by 50%",
     "special": "Randomizes all non-Matching orbs and deals 2,000 Fixed damage to one enemy",
     "specialName": "Blacksmithing Measurement: Double Slash",
-    "specialNotes": "#{fixed}"
+    "specialNotes": "#{fixed}",
+    "support": [
+      {
+        "Characters": "Paulie and Iceberg",
+        "description": [
+          "Adds 4% of this character's base HP to the supported character's base HP",
+          "Adds 5% of this character's base HP to the supported character's base HP",
+          "Adds 7% of this character's base HP to the supported character's base HP",
+          "Adds 9% of this character's base HP to the supported character's base HP",
+          "Adds 11% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ピープリー・ルル ガレーラカンパニー１番ドック職長",

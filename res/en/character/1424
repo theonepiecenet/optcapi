@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of Striker characters proportionally to the crew's current HP",
     "captainNotes": "#{captainProportional : higher : 1 + 1.25 * (remaining HP) / (total HP) : 2.25 : 1}",
     "special": "Deals 500 Fixed damage to all enemies and reduces Special Cooldown of Striker characters by 1 turn.",
-    "specialName": "General Commander's Fight"
+    "specialName": "General Commander's Fight",
+    "support": [
+      {
+        "Characters": "Krieg",
+        "description": [
+          "Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Adds 9% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ギン 海賊艦隊　戦闘“総隊長”",

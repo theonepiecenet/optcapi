@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of all characters by 2.14x following a chain of Good > Good > Great > PERFECT hits",
     "special": "Binds self for 2 turns, makes [BOMB] orbs beneficial and boosts ATK against enemies with reduced defense by 1.5x for 1 turn.",
     "specialNotes": "#{beneficial}",
-    "specialName": "Crescendo Stone"
+    "specialName": "Crescendo Stone",
+    "support": [
+      {
+        "Characters": "Sir Crocodile (Mr. 0) and Mr. 5",
+        "description": [
+          "Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Adds 6% of this character's base RCV to the supported character's base RCV",
+          "Adds 9% of this character's base RCV to the supported character's base RCV",
+          "Adds 13% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ミス・バレンタイン Ｂ・Ｗオフィサーエージェント",

@@ -4,7 +4,19 @@
     "captain": "Protects from defeat as long as HP is above 50%",
     "captainNotes": "#{zombie}",
     "specialName": "Yokozuna Slap!",
-    "special": "Deals 20x character's ATK in [STR] damage to one enemy, delays all enemies for 1 turn"
+    "special": "Deals 20x character's ATK in [STR] damage to one enemy, delays all enemies for 1 turn",
+    "support": [
+      {
+        "Characters": "Franky and Iceberg",
+        "description": [
+          "Adds 4% of this character's base HP to the supported character's base HP",
+          "Adds 5% of this character's base HP to the supported character's base HP",
+          "Adds 7% of this character's base HP to the supported character's base HP",
+          "Adds 9% of this character's base HP to the supported character's base HP",
+          "Adds 11% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ヨコヅナ",

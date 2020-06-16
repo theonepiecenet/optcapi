@@ -4,7 +4,19 @@
     "special": "Amplifies the effect of orbs of all characters by 1.5x for 2 turns",
     "specialNotes": "#{orb : 1.5x}",
     "specialName": "Botanist's Great Discovery",
-    "captain": "Boosts ATK and RCV of Slasher characters by 1.5x"
+    "captain": "Boosts ATK and RCV of Slasher characters by 1.5x",
+    "support": [
+      {
+        "Characters": "Calgara",
+        "description": [
+          "Adds 3% of this character's base RCV to the supported character's base RCV",
+          "Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Adds 9% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "モンブラン・ノーランド ルブニール王国探検船提督",

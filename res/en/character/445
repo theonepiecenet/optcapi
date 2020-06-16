@@ -3,7 +3,19 @@
   "detail": {
     "special": "Randomizes all orbs into either [STR], [DEX], [QCK], [PSY] or [INT] orbs, switches orbs between slots 3 times",
     "specialName": "Support Incoming! Supersonic Duck Squadron!",
-    "captain": "Boosts ATK of Evolver and Booster characters by 2.5x if HP is above 50% at the start of the turn"
+    "captain": "Boosts ATK of Evolver and Booster characters by 2.5x if HP is above 50% at the start of the turn",
+    "support": [
+      {
+        "Characters": "[PSY] characters",
+        "description": [
+          "Adds 3% of this character's base HP to the supported character's base HP",
+          "Adds 4% of this character's base HP to the supported character's base HP",
+          "Adds 5% of this character's base HP to the supported character's base HP",
+          "Adds 7% of this character's base HP to the supported character's base HP",
+          "Adds 9% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "カルー隊長と超カルガモ部隊",

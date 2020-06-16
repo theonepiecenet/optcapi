@@ -4,7 +4,19 @@
     "special": "Deals [PSY] damage to one enemy according to HP, recovers 5x character's RCV in HP at the end of each turn for 5 turns",
     "specialNotes": "The exact damage is proportional to the crew's remaining HP and is higher the lower the HP is. The formula used is 80,000 * (1 - (current HP) / (total HP))",
     "specialName": "Vivi's Important Security Guard",
-    "captain": "Recovers 3x character's RCV in HP at the end of each turn"
+    "captain": "Recovers 3x character's RCV in HP at the end of each turn",
+    "support": [
+      {
+        "Characters": "Koza",
+        "description": [
+          "Adds 3% of this character's base RCV to the supported character's base RCV",
+          "Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Adds 9% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ネフェルタリ・ビビ 砂砂団　副リーダー",

@@ -4,7 +4,19 @@
     "special": "Reduces damage received by 90% for 1 turn, reduces the defense of all enemies by 80% for 1 turn, Poisons enemies for 1,000 damage for a single turn",
     "specialName": "Negative Hollow",
     "specialNotes": "Poison damage deals 1,000 damage exactly and will ignore enemy armor at the end of your turn",
-    "captain": "Boosts RCV of [DEX] characters by 2x"
+    "captain": "Boosts RCV of [DEX] characters by 2x",
+    "support": [
+      {
+        "Characters": "Gecko Moria, Doctor Hogback and Absalom",
+        "description": [
+          "Adds 3% of this character's base RCV to the supported character's base RCV",
+          "Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Adds 9% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ペローナ ゴーストプリンセス",

@@ -3,7 +3,19 @@
   "detail": {
     "special": "Reduces crew's current HP by 80%, deals 5x the amount of HP subtracted in Typeless damage to all enemies, reduces damage received by 90% for 1 turn",
     "specialName": "Right Angle Flying Bird: Bone Phoenix",
-    "captain": "Boosts ATK of Slasher characters by 1.75x, recovers 1.5x character's RCV in HP at the end of each turn"
+    "captain": "Boosts ATK of Slasher characters by 1.75x, recovers 1.5x character's RCV in HP at the end of each turn",
+    "support": [
+      {
+        "Characters": "Sengoku",
+        "description": [
+          "Adds 3% of this character's base RCV to the supported character's base RCV",
+          "Adds 4% of this character's base RCV to the supported character's base RCV",
+          "Adds 5% of this character's base RCV to the supported character's base RCV",
+          "Adds 7% of this character's base RCV to the supported character's base RCV",
+          "Adds 9% of this character's base RCV to the supported character's base RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "船斬りTボーン 海軍本部大佐",

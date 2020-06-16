@@ -3,7 +3,19 @@
   "detail": {
     "special": "Reduces the defense of all enemies by 50% for 2 turns, randomizes all orbs",
     "specialName": "Parage Shot: The Storm",
-    "captain": "Boosts ATK of [QCK] characters by 2x"
+    "captain": "Boosts ATK of [QCK] characters by 2x",
+    "support": [
+      {
+        "Characters": "Nico Robin, Usopp and Tony Tony Chopper",
+        "description": [
+          "Adds 3% of this character's base HP to the supported character's base HP",
+          "Adds 4% of this character's base HP to the supported character's base HP",
+          "Adds 5% of this character's base HP to the supported character's base HP",
+          "Adds 7% of this character's base HP to the supported character's base HP",
+          "Adds 9% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "サンジ 整形ショット(パラージュショット)　“嵐”",

@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Free Spirit characters by 2.25x",
     "specialName": "Session of Pirates",
-    "special": "Changes [PSY] orbs on Free Spirit characters into Matching orbs"
+    "special": "Changes [PSY] orbs on Free Spirit characters into Matching orbs",
+    "support": [
+      {
+        "Characters": "Brook",
+        "description": [
+          "Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "キャラコのヨーキ",

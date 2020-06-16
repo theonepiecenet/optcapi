@@ -79,6 +79,18 @@
           "Reduce own Special Cooldown by ? turns at the start of the fight"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Fighter characters",
+        "description": [
+          "Adds 6% of this character's base HP to the supported character's base HP",
+          "Adds 7% of this character's base HP to the supported character's base HP",
+          "Adds 9% of this character's base HP to the supported character's base HP",
+          "Adds 12% of this character's base HP to the supported character's base HP",
+          "Adds 15% of this character's base HP to the supported character's base HP"
+        ]
+      }
     ]
   },
   "aliases": [

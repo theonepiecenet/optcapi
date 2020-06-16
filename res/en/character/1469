@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of [STR] characters by 2x and the HP of Powerhouse characters by 1.25x",
     "special": "Delays all enemies for 1 turn. Changes own orb into Matching orb",
-    "specialName": "Warning of the New World"
+    "specialName": "Warning of the New World",
+    "support": [
+      {
+        "Characters": "Borsalino (Kizaru)",
+        "description": [
+          "Adds 2% of this character's base HP to the supported character's base HP",
+          "Adds 3% of this character's base HP to the supported character's base HP",
+          "Adds 4% of this character's base HP to the supported character's base HP",
+          "Adds 6% of this character's base HP to the supported character's base HP",
+          "Adds 8% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "鉞の戦桃丸 海兵",

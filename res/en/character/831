@@ -79,7 +79,19 @@
         ]
       }
     ],
-    "potentialNotes": "#{enrage}"
+    "potentialNotes": "#{enrage}",
+    "support": [
+      {
+        "Characters": "Striker characters",
+        "description": [
+          "Adds 1% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Adds 2% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Adds 3% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Adds 4% of this character's base ATK and RCV to the supported character's base ATK and RCV",
+          "Adds 5% of this character's base ATK and RCV to the supported character's base ATK and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "魔術師バジル・ホーキンス ホーキンス海賊団船長",

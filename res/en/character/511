@@ -3,7 +3,19 @@
   "detail": {
     "special": "Reduces damage received by 30% for 2 turns, boosts ATK of Slasher characters by 1.25x for 2 turns",
     "specialName": "Cruel Blade: Iron Guard",
-    "captain": "Boosts ATK of Slasher characters by 2x"
+    "captain": "Boosts ATK of Slasher characters by 2x",
+    "support": [
+      {
+        "Characters": "Sir Crocodile (Mr. 0)",
+        "description": [
+          "Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "服役囚ダズ・ボーネス Mr.1",

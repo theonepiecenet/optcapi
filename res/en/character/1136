@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK and HP of [QCK] characters by 1.5x",
     "special": "For [QCK] characters, changes [TND] and [RCV] orbs into [QCK] orbs",
-    "specialName": "Stern Beast: Secret Technique: 'Owl Thrasher' Sneak Attack"
+    "specialName": "Stern Beast: Secret Technique: 'Owl Thrasher' Sneak Attack",
+    "support": [
+      {
+        "Characters": "Rob Lucci, Kalifa, Blueno, Jabra, Kaku and Kumadori",
+        "description": [
+          "Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 1% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Adds 4% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "フクロウ 世界政府直下暗躍諜報機関",

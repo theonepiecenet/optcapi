@@ -4,7 +4,19 @@
     "captain": "Boosts ATK of [QCK] characters by 2x",
     "special": "Deals 15x character's ATK in [QCK] damage to one enemy that will ignore damage negating abilities and barriers.",
     "specialNotes": "#{ignoreBarrier}",
-    "specialName": "Unblockable Eight Fists"
+    "specialName": "Unblockable Eight Fists",
+    "support": [
+      {
+        "Characters": "Chinjao and Sai",
+        "description": [
+          "Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Adds 7% of this character's base ATK to the supported character's base ATK",
+          "Adds 11% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "ブー 八宝水軍",

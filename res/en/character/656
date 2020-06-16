@@ -4,7 +4,19 @@
     "special": "Changes [EMPTY] and [TND] orbs into [STR] orbs, deals 10x character's ATK in [STR] damage to one enemy, amplifies the effect of orbs of all characters by 1.25x for 2 turns",
     "specialNotes": "#{orb : 1.25x}",
     "specialName": "Tooth Gum",
-    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [STR] characters by 2x"
+    "captain": "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of [STR] characters by 2x",
+    "support": [
+      {
+        "Characters": "Fisher Tiger and Hatchan",
+        "description": [
+          "Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Adds 6% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "アーロン タイヨウの海賊団",

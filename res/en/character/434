@@ -4,7 +4,19 @@
     "special": "Amplifies the effect of orbs of all characters by 1.25x for 3 turns",
     "specialNotes": "#{orb : 1.25x}",
     "specialName": "New Kama Karate Maiden's Awakening",
-    "captain": "Boosts ATK of all characters by 2x following a chain of [PSY] > [INT] > [INT] attacks no lower than Good"
+    "captain": "Boosts ATK of all characters by 2x following a chain of [PSY] > [INT] > [INT] attacks no lower than Good",
+    "support": [
+      {
+        "Characters": "Sanji and Elizabeth",
+        "description": [
+          "Adds 3% of this character's base HP to the supported character's base HP",
+          "Adds 4% of this character's base HP to the supported character's base HP",
+          "Adds 5% of this character's base HP to the supported character's base HP",
+          "Adds 7% of this character's base HP to the supported character's base HP",
+          "Adds 9% of this character's base HP to the supported character's base HP"
+        ]
+      }
+    ]
   },
   "aliases": [
     "キャロライン",

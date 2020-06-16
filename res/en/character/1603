@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of [STR] characters by 2.25x and their RCV by 1.25x",
     "special": "Delays all enemies for 2 turns",
-    "specialName": "Numb Crosscut"
+    "specialName": "Numb Crosscut",
+    "support": [
+      {
+        "Characters": "Portgas D. Ace and Edward Newgate (Whitebeard)",
+        "description": [
+          "Adds 4% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Adds 5% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Adds 6% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Adds 8% of this character's base HP and RCV to the supported character's base HP and RCV",
+          "Adds 10% of this character's base HP and RCV to the supported character's base HP and RCV"
+        ]
+      }
+    ]
   },
   "aliases": [
     "雷卿マクガイ",
