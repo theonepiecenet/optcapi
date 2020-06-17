@@ -78,6 +78,18 @@
           "Reduces Slot Bind duration by 10 turns on this character"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Pedro",
+        "description": [
+          "Reduces damage received from [DEX] characters by 1%. Adds 2% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Reduces damage received from [DEX] characters by 1%. Adds 3% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Reduces damage received from [DEX] characters by 2%. Adds 4% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Reduces damage received from [DEX] characters by 2%. Adds 5% of this character's base ATK and HP to the supported character's base ATK and HP",
+          "Reduces damage received from [DEX] characters by 3%. Adds 7% of this character's base ATK and HP to the supported character's base ATK and HP"
+        ]
+      }
     ]
   },
   "aliases": [
