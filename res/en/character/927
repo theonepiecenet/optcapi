@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK and HP of Driven characters by 1.5x",
     "specialName": "Unwavering Hammer of Justice",
-    "special": "Increases damage received by 1.5x and boosts ATK of Slasher and Driven characters by 1.2x for 3 turns"
+    "special": "Increases damage received by 1.5x and boosts ATK of Slasher and Driven characters by 1.2x for 3 turns",
+    "support": [
+      {
+        "Characters": "Slasher characters",
+        "description": [
+          "Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Adds 6% of this character's base ATK to the supported character's base ATK",
+          "Adds 8% of this character's base ATK to the supported character's base ATK."
+        ]
+      }
+    ]
   },
   "aliases": [
     "ドーベルマン 海軍本部中将",
