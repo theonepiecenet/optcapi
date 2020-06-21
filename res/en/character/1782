@@ -1,10 +1,22 @@
 {
-  "name": "Don Chinjao",
+  "name": "Don Chinjao, Chinjao Family",
   "detail": {
     "captain": "Boosts ATK of [QCK] characters by 2.25x, boosts damage of [QCK] specials by 1.75x",
     "captainNotes": "#{noFixedPerc}",
     "special": "Delays all enemies for 2 turns, deals 25x character's ATK in [QCK] damage to all enemies",
-    "specialName": "Military Head"
+    "specialName": "Military Head",
+    "support": [
+      {
+        "Characters": "Sai and Boo",
+        "description": [
+          "Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Adds 6% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "首領・チンジャオ チンジャオファミリー",

@@ -3,7 +3,19 @@
   "detail": {
     "captain": "Boosts ATK of Free Spirit characters by 2.25x and their HP by 1.25x and reduces damage received by 15%",
     "special": "Deals 20x character's ATK in [INT] damage to one enemy, amplifies the effect of orbs for Free Spirit characters by 1.75x for 1 turn",
-    "sailor": "Boosts base ATK of Free Spirit characters by 25"
+    "sailor": "Boosts base ATK of Free Spirit characters by 25",
+    "support": [
+      {
+        "Characters": "Momonosuke",
+        "description": [
+          "Adds 2% of this character's base ATK to the supported character's base ATK",
+          "Adds 3% of this character's base ATK to the supported character's base ATK",
+          "Adds 4% of this character's base ATK to the supported character's base ATK",
+          "Adds 5% of this character's base ATK to the supported character's base ATK",
+          "Adds 6% of this character's base ATK to the supported character's base ATK"
+        ]
+      }
+    ]
   },
   "aliases": [
     "“侍”　狐火の錦えもん",

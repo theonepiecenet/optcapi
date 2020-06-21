@@ -167,6 +167,18 @@
           "Reduces No Healing duration by 5 turns"
         ]
       }
+    ],
+    "support": [
+      {
+        "Characters": "Monkey D. Luffy, Boa Marigold and Boa Sandersonia",
+        "description": [
+          "Reduces damage received from [INT] characters by 1%. Adds 2% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Reduces damage received from [INT] characters by 2%. Adds 3% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Reduces damage received from [INT] characters by 3%. Adds 5% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Reduces damage received from [INT] characters by 4%. Adds 7% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV",
+          "Reduces damage received from [INT] characters by 5%. Adds 9% of this character's base ATK, HP and RCV to the supported character's base ATK, HP and RCV"
+        ]
+      }
     ]
   },
   "aliases": [
