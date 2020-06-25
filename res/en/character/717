@@ -2,7 +2,7 @@
   "name": "Dracule Mihawk, Warlord of the Sea",
   "detail": {
     "special": "Deals 50% of the damage dealt in the previous turn in Typeless damage to all enemies",
-    "specialNotes": "The special only includes the damage inflicted through normal attacks. If the enemy dies by End-Of-Turn damage, your inflicted Damage dealt last turn will be 0.",
+    "specialNotes": "The special only includes the damage inflicted through normal attacks. The special caps out at 999,999,999 damage.",
     "specialName": "Black Sword - Lightning Slash",
     "captain": "Boosts ATK of Slasher characters by a variable factor between 2x and 2.75x based on the timing of the attack of the previous unit in the chain",
     "captainNotes": "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a PERFECT hit by 2.75x. This bonus is applied only to Slasher characters."
